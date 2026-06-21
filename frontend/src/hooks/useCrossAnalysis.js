@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
+import { DATA_PREFIX } from '../config'
 
-const DATA_FILE = '/data/cross_analysis.json'
+const DATA_FILE = `${DATA_PREFIX}data/cross_analysis.json`
 
 export function useCrossAnalysis() {
   const [data, setData] = useState(null)

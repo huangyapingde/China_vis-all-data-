@@ -1,12 +1,13 @@
 import { useState, useEffect } from 'react'
+import { DATA_PREFIX } from '../config'
 
 const DATA_FILES = {
-  networkSummary: '/data/network_summary.json',
-  networkComparison: '/data/network_comparison.json',
-  networkReps: '/data/network_representatives.json',
-  characterCentrality: '/data/character_centrality.json',
-  networksAll: '/data/networks_all.json',
-  networkTypeAgg: '/data/network_type_aggregates.json',
+  networkSummary: `${DATA_PREFIX}data/network_summary.json`,
+  networkComparison: `${DATA_PREFIX}data/network_comparison.json`,
+  networkReps: `${DATA_PREFIX}data/network_representatives.json`,
+  characterCentrality: `${DATA_PREFIX}data/character_centrality.json`,
+  networksAll: `${DATA_PREFIX}data/networks_all.json`,
+  networkTypeAgg: `${DATA_PREFIX}data/network_type_aggregates.json`,
 }
 
 export function useNetworkData() {

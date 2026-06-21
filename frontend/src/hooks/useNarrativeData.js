@@ -1,11 +1,12 @@
 import { useState, useEffect } from 'react'
+import { DATA_PREFIX } from '../config'
 
 const DATA_FILES = {
-  narrativeSummary: '/data/narrative_summary.json',
-  narrativeData: '/data/narrative_data.json',
-  narrativeTypeAgg: '/data/narrative_type_aggregates.json',
-  narrativeComparison: '/data/narrative_comparison.json',
-  narrativeTemplates: '/data/narrative_templates.json',
+  narrativeSummary: `${DATA_PREFIX}data/narrative_summary.json`,
+  narrativeData: `${DATA_PREFIX}data/narrative_data.json`,
+  narrativeTypeAgg: `${DATA_PREFIX}data/narrative_type_aggregates.json`,
+  narrativeComparison: `${DATA_PREFIX}data/narrative_comparison.json`,
+  narrativeTemplates: `${DATA_PREFIX}data/narrative_templates.json`,
 }
 
 export function useNarrativeData() {

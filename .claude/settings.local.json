@@ -5,7 +5,12 @@
       "Bash(npx vite *)",
       "mcp__Claude_Preview__preview_start",
       "Bash(git remote *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(npm install *)",
+      "Bash(GH_PAGES=true npx vite build)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(grep -c \"概览总览\" dist/assets/index-BqtvzL2g.js)",
+      "Bash(grep -c \"行当推断与分析\" dist/assets/index-BqtvzL2g.js)"
     ]
   }
 }

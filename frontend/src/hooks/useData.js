@@ -1,12 +1,13 @@
 import { useState, useEffect } from 'react'
+import { DATA_PREFIX } from '../config'
 
 const DATA_FILES = {
-  summary: '/data/summary.json',
-  characterData: '/data/character_data.json',
-  matrixData: '/data/matrix_data.json',
-  eraData: '/data/era_data.json',
-  sankeyData: '/data/sankey_data.json',
-  overall: '/data/overall.json',
+  summary: `${DATA_PREFIX}data/summary.json`,
+  characterData: `${DATA_PREFIX}data/character_data.json`,
+  matrixData: `${DATA_PREFIX}data/matrix_data.json`,
+  eraData: `${DATA_PREFIX}data/era_data.json`,
+  sankeyData: `${DATA_PREFIX}data/sankey_data.json`,
+  overall: `${DATA_PREFIX}data/overall.json`,
 }
 
 export function useData() {

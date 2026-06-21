@@ -1,14 +1,15 @@
 import { useState, useEffect } from 'react'
+import { DATA_PREFIX } from '../config'
 
 const DATA_FILES = {
-  themeSummary: '/data/theme_summary.json',
-  themeScriptDist: '/data/theme_script_distributions.json',
-  themeCooc: '/data/theme_cooccurrence.json',
-  themeSpace: '/data/theme_topic_space.json',
-  themeTypeComp: '/data/theme_type_comparison.json',
-  themeEvolution: '/data/theme_evolution.json',
-  themeSankey: '/data/theme_sankey.json',
-  themeLLM: '/data/theme_llm_labels.json',
+  themeSummary: `${DATA_PREFIX}data/theme_summary.json`,
+  themeScriptDist: `${DATA_PREFIX}data/theme_script_distributions.json`,
+  themeCooc: `${DATA_PREFIX}data/theme_cooccurrence.json`,
+  themeSpace: `${DATA_PREFIX}data/theme_topic_space.json`,
+  themeTypeComp: `${DATA_PREFIX}data/theme_type_comparison.json`,
+  themeEvolution: `${DATA_PREFIX}data/theme_evolution.json`,
+  themeSankey: `${DATA_PREFIX}data/theme_sankey.json`,
+  themeLLM: `${DATA_PREFIX}data/theme_llm_labels.json`,
 }
 
 export function useThemeData() {
