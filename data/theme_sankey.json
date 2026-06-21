@@ -1,0 +1,202 @@
+{
+  "nodes": [
+    {
+      "name": "公案戏"
+    },
+    {
+      "name": "历史戏"
+    },
+    {
+      "name": "家庭戏"
+    },
+    {
+      "name": "神话戏"
+    },
+    {
+      "name": "战争军事"
+    },
+    {
+      "name": "智谋策略"
+    },
+    {
+      "name": "忠诚报国"
+    },
+    {
+      "name": "家庭伦理"
+    },
+    {
+      "name": "爱情情感"
+    },
+    {
+      "name": "正义审判"
+    },
+    {
+      "name": "权力斗争"
+    },
+    {
+      "name": "神仙鬼怪"
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 4,
+      "value": 21.7
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 8.6
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "value": 5.8
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 15.2
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 5.4
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 2.5
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "value": 3.6
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "value": 5.6
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "value": 10.2
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "value": 6.3
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "value": 3.2
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "value": 21.0
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 9.2
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 4.7
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "value": 2.7
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "value": 6.9
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 11.2
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 6.8
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 4.2
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 17.6
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 6.0
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 9.0
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 3.2
+    },
+    {
+      "source": 0,
+      "target": 11,
+      "value": 6.9
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "value": 11.4
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "value": 6.9
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 2.9
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 20.1
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 6.3
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 2.7
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "value": 2.7
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "value": 14.0
+    }
+  ]
+}

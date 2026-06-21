@@ -1,0 +1,43 @@
+{
+  "total_scripts": 1380,
+  "type_distribution": {
+    "历史戏": 948,
+    "家庭戏": 421,
+    "公案戏": 100,
+    "神话戏": 4
+  },
+  "type_aggregates": {
+    "历史戏": {
+      "count": 886,
+      "cooc_density": 0.7604,
+      "cooc_clustering": 0,
+      "cooc_modularity": 0.0423,
+      "dial_density": 0.5949,
+      "power_density": 0.1742
+    },
+    "家庭戏": {
+      "count": 397,
+      "cooc_density": 0.7822,
+      "cooc_clustering": 0,
+      "cooc_modularity": 0.0448,
+      "dial_density": 0.6033,
+      "power_density": 0.106
+    },
+    "公案戏": {
+      "count": 93,
+      "cooc_density": 0.8075,
+      "cooc_clustering": 0,
+      "cooc_modularity": 0.0326,
+      "dial_density": 0.6281,
+      "power_density": 0.1261
+    },
+    "神话戏": {
+      "count": 4,
+      "cooc_density": 0.925,
+      "cooc_clustering": 0,
+      "cooc_modularity": 0.0076,
+      "dial_density": 0.7292,
+      "power_density": 0.0
+    }
+  }
+}
