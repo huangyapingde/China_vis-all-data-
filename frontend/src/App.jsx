@@ -28,7 +28,6 @@ import NarrativeCurve from './components/NarrativeCurve'
 import StageSegmentation from './components/StageSegmentation'
 import StructureComparison from './components/StructureComparison'
 import ClimaxDistribution from './components/ClimaxDistribution'
-import ThemeValidator from './components/ThemeValidator'
 import NarrativeClustering from './components/NarrativeClustering'
 import TemplateCurves from './components/TemplateCurves'
 
@@ -87,7 +86,7 @@ export default function App() {
     )
   }
 
-  const sidebarEl = <Sidebar task={task} tab={tab} onTaskChange={handleTaskChange} onTabChange={handleTabChange} />
+  const sidebarEl = <Sidebar task={task} tab={tab} onTaskChange={handleTaskChange} onTabChange={handleTabChange} summaryData={data?.summary} />
 
   // ── Task 1: Hangdang Analysis ──
   if (task === 'task1') {
@@ -99,7 +98,7 @@ export default function App() {
             <div>
               <h1>任务一：行当推断与分析</h1>
               <div style={{ fontSize: '0.75rem', color: '#8899aa', marginTop: 4 }}>
-                角色特征 → 行当归属 → 历史变化规律 · 基于448部京剧剧本
+                角色特征 → 行当归属 → 历史变化规律 · 基于 {data?.summary?.unique_scripts || 1473} 部京剧剧本
               </div>
             </div>
             <div className="header-stats">
@@ -570,9 +569,6 @@ export default function App() {
                   </div>
                   <TopicCombinations data={themeData} />
                 </div>
-
-                {/* Theme Validator Split Cards */}
-                <ThemeValidator data={themeData} />
               </>
             )}
 
@@ -718,9 +714,12 @@ export default function App() {
               <div style={{ fontSize: '0.75rem', color: '#8899aa', marginTop: 4 }}>
                 起承转合 · 叙事曲线 · 高潮检测 · 四阶段分割 · 跨剧种对比
               </div>
+              <div style={{ fontSize: '0.7rem', color: '#546e7a', marginTop: 4 }}>
+                * 注：本页面统计的 <strong>{narData?.narrativeSummary?.total_scripts || 934}</strong> 部“有效样本”，是指成功通过算法提取出高潮峰值和完整叙事结构的剧本（已过滤掉文本过短或场景过少的剧本）。
+              </div>
             </div>
             <div className="header-stats">
-              <div>剧本 <strong>{narData?.narrativeSummary?.total_scripts}</strong></div>
+              <div title="成功提取叙事结构的剧本数">有效样本 <strong>{narData?.narrativeSummary?.total_scripts}</strong></div>
               <div>单峰 <strong>{narData?.narrativeSummary?.structure_distribution?.single_peak}</strong></div>
               <div>多峰 <strong>{(narData?.narrativeSummary?.structure_distribution?.dual_peak || 0) + (narData?.narrativeSummary?.structure_distribution?.multi_peak || 0)}</strong></div>
             </div>

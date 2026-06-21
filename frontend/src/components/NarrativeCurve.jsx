@@ -72,12 +72,12 @@ export default function NarrativeCurve({ data, onScriptChange }) {
         textStyle: { color: '#8899aa', fontSize: 10 },
         top: 40,
       },
-      grid: { left: 55, right: 20, top: 80, bottom: 50 },
+      grid: { left: 55, right: 65, top: 80, bottom: 50 },
       xAxis: {
         type: 'category',
         data: xData,
         axisLabel: { color: '#8899aa', fontSize: 9 },
-        name: '场景推进 →',
+        name: '场景推进',
         nameTextStyle: { color: '#546e7a', fontSize: 10 },
       },
       yAxis: {
@@ -94,8 +94,10 @@ export default function NarrativeCurve({ data, onScriptChange }) {
           symbol: 'circle', symbolSize: 4,
           markArea: { silent: true, data: markAreas },
           markPoint: {
-            data: [{ type: 'max', name: '高潮', symbol: 'pin', symbolSize: 30,
-              itemStyle: { color: '#ef5350' }, label: { color: '#fff', fontSize: 10 } }],
+            data: [{
+              type: 'max', name: '高潮', symbol: 'pin', symbolSize: 30,
+              itemStyle: { color: '#ef5350' }, label: { color: '#fff', fontSize: 10 }
+            }],
           },
         },
         {
@@ -144,8 +146,8 @@ export default function NarrativeCurve({ data, onScriptChange }) {
       <div style={{ display: 'flex', gap: 16, marginBottom: 12, borderBottom: '1px solid #1e2d3d', paddingBottom: 12 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
           <span style={{ color: '#8899aa', fontSize: '0.75rem' }}>题材筛选:</span>
-          <select 
-            value={selectedCategory} 
+          <select
+            value={selectedCategory}
             onChange={(e) => {
               const cat = e.target.value
               setSelectedCategory(cat)

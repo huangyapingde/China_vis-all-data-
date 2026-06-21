@@ -189,13 +189,14 @@ def score_theme(text, theme_name, theme_info):
 
 def call_ollama(prompt, model="qwen2.5:7b", timeout=180):
     try:
+        ollama_path = r"C:\Users\Mingjing.Pan\AppData\Local\Programs\Ollama\ollama.exe"
         result = subprocess.run(
-            ["ollama", "run", model, prompt],
+            [ollama_path, "run", model, prompt],
             capture_output=True, text=True, encoding="utf-8", timeout=timeout,
         )
         return result.stdout.strip()
-    except:
-        return "[ERROR]"
+    except Exception as e:
+        return f"[ERROR] {str(e)}"
 
 
 def llm_label_themes(scripts_sample, n=5):

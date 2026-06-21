@@ -35,7 +35,9 @@ export default function ClimaxDistribution({ data }) {
       grid: { left: 55, right: 20, top: 30, bottom: 40 },
       xAxis: {
         type: 'value',
-        name: '高潮位置 (0=开场, 1=结局)',
+        name: '高潮位置 (0%=开场, 100%=结局)',
+        nameLocation: 'middle',
+        nameGap: 25,
         nameTextStyle: { color: '#8899aa', fontSize: 10 },
         axisLabel: { color: '#8899aa', formatter: v => `${(v * 100).toFixed(0)}%` },
         splitLine: { lineStyle: { color: '#1e2d3d' } },
