@@ -43,7 +43,7 @@ export default function TopicSpaceChart({ data }) {
         textStyle: { color: '#8899aa', fontSize: 10 },
         top: 0,
       },
-      grid: { left: 50, right: 20, top: 30, bottom: 40 },
+      grid: { left: 40, right: 40, top: 50, bottom: 30 },
       xAxis: {
         type: 'value',
         name: 'PC1',

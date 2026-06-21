@@ -53,7 +53,7 @@ const sectionTitleStyle = {
   letterSpacing: '1.5px',
 }
 
-export default function Sidebar({ task, tab, onTaskChange, onTabChange }) {
+export default function Sidebar({ task, tab, onTaskChange, onTabChange, summaryData }) {
   return (
     <div style={sidebarStyle}>
       <div style={logoStyle}>
@@ -151,7 +151,11 @@ export default function Sidebar({ task, tab, onTaskChange, onTabChange }) {
 
       {/* Legend */}
       <div style={{ marginTop: 'auto', padding: '16px', borderTop: '1px solid #2a3a4a', fontSize: '0.7rem', color: '#546e7a' }}>
-        <div>448部剧本 · 6131角色</div>
+        <div>
+          {summaryData 
+            ? `${summaryData.unique_scripts}部剧本 · ${summaryData.total_characters}角色` 
+            : '数据加载中...'}
+        </div>
         <div style={{ marginTop: 4 }}>四层网络 · 十五类主题 · 四阶段叙事</div>
       </div>
     </div>

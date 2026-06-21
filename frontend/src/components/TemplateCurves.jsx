@@ -18,26 +18,35 @@ export default function TemplateCurves({ data }) {
       instanceRef.current = echarts.init(chartRef.current, null, { renderer: 'canvas' })
     }
 
-    const xLabels = ['S1','S2','S3','S4','S5','S6','S7','S8','S9','S10','S11','S12']
+    const xLabels = ['S1', 'S2', 'S3', 'S4', 'S5', 'S6', 'S7', 'S8', 'S9', 'S10', 'S11', 'S12']
 
     const option = {
-      tooltip: { trigger: 'axis' },
+      tooltip: {
+        trigger: 'item',
+        formatter: (params) => {
+          return `<div style="font-weight:bold;color:${params.color}">${params.seriesName}</div>
+                  ${params.name}：${Number(params.value).toFixed(3)}`
+        }
+      },
       legend: {
         data: types,
-        textStyle: { color: '#8899aa', fontSize: 10 },
+        textStyle: { color: '#8899aa', fontSize: 11 },
         top: 0,
+        itemWidth: 16,
+        itemHeight: 8,
       },
-      grid: { left: 55, right: 20, top: 30, bottom: 40 },
+      grid: { left: 55, right: 80, top: 40, bottom: 40 },
       xAxis: {
         type: 'category',
         data: xLabels,
         axisLabel: { color: '#8899aa', fontSize: 9 },
-        name: '叙事进度 →',
+        name: '叙事进度',
         nameTextStyle: { color: '#546e7a', fontSize: 10 },
       },
       yAxis: {
         type: 'value',
         name: '平均张力',
+        scale: true, // This allows the Y-axis to adapt automatically instead of starting from 0
         axisLabel: { color: '#8899aa' },
         splitLine: { lineStyle: { color: '#1e2d3d' } },
       },
@@ -50,10 +59,16 @@ export default function TemplateCurves({ data }) {
         itemStyle: { color: TYPE_COLORS[t] },
         symbol: 'circle',
         symbolSize: 4,
-        areaStyle: { opacity: 0.05 },
+        // Remove areaStyle to reduce visual clutter on a single chart
+        emphasis: {
+          focus: 'series', // Highlights this series and fades others on hover
+          lineStyle: { width: 4 }
+        },
         markLine: {
           silent: true,
-          data: [{ type: 'max', label: { formatter: '高潮', color: '#8899aa', fontSize: 10 } }],
+          symbol: 'none',
+          label: { show: false },
+          data: [{ type: 'max' }],
         },
       })),
     }
@@ -67,5 +82,5 @@ export default function TemplateCurves({ data }) {
     return () => window.removeEventListener('resize', handleResize)
   }, [])
 
-  return <div ref={chartRef} className="chart-container" />
+  return <div ref={chartRef} className="chart-container" style={{ minHeight: 300 }} />
 }

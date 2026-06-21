@@ -39,6 +39,7 @@ export default function App() {
   const [selectedNode, setSelectedNode] = useState(null)
   const [networkType, setNetworkType] = useState('历史戏')
   const [themeType, setThemeType] = useState(null)
+  const [narrativeActiveScript, setNarrativeActiveScript] = useState(null)
 
   const { data, loading, error } = useData()
   const { data: netData, loading: netLoading, error: netError } = useNetworkData()
@@ -89,7 +90,7 @@ export default function App() {
     )
   }
 
-  const sidebarEl = <Sidebar task={task} tab={tab} onTaskChange={handleTaskChange} onTabChange={handleTabChange} />
+  const sidebarEl = <Sidebar task={task} tab={tab} onTaskChange={handleTaskChange} onTabChange={handleTabChange} summaryData={data?.summary} />
 
   // ── Task 1: Hangdang Analysis ──
   if (task === 'task1') {
@@ -101,7 +102,7 @@ export default function App() {
             <div>
               <h1>任务一：行当推断与分析</h1>
               <div style={{ fontSize: '0.75rem', color: '#8899aa', marginTop: 4 }}>
-                角色特征 → 行当归属 → 历史变化规律 · 基于448部京剧剧本
+                角色特征 → 行当归属 → 历史变化规律 · 基于 {data?.summary?.unique_scripts || 1473} 部京剧剧本
               </div>
             </div>
             <div className="header-stats">
@@ -572,32 +573,6 @@ export default function App() {
                   </div>
                   <TopicCombinations data={themeData} />
                 </div>
-
-                {/* LLM validation */}
-                <div className="card span-4">
-                  <div className="card-header"><h3>LLM主题标注验证</h3></div>
-                  <div style={{ maxHeight: 380, overflowY: 'auto' }}>
-                    <table>
-                      <thead><tr><th>剧本</th><th>LLM识别主题</th></tr></thead>
-                      <tbody>
-                        {(themeData?.themeLLM || []).map((r, i) => (
-                          <tr key={i}>
-                            <td style={{ fontSize: '0.75rem' }}>{r.title}</td>
-                            <td>
-                              {(r.llm_themes || []).map(t => (
-                                <span key={t} style={{
-                                  padding: '2px 6px', borderRadius: 10, marginRight: 4,
-                                  background: 'rgba(79,195,247,0.1)', color: '#4fc3f7',
-                                  fontSize: '0.7rem', display: 'inline-block', marginBottom: 2,
-                                }}>{t}</span>
-                              ))}
-                            </td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                  </div>
-                </div>
               </>
             )}
 
@@ -743,9 +718,12 @@ export default function App() {
               <div style={{ fontSize: '0.75rem', color: '#8899aa', marginTop: 4 }}>
                 起承转合 · 叙事曲线 · 高潮检测 · 四阶段分割 · 跨剧种对比
               </div>
+              <div style={{ fontSize: '0.7rem', color: '#546e7a', marginTop: 4 }}>
+                * 注：本页面统计的 <strong>{narData?.narrativeSummary?.total_scripts || 934}</strong> 部“有效样本”，是指成功通过算法提取出高潮峰值和完整叙事结构的剧本（已过滤掉文本过短或场景过少的剧本）。
+              </div>
             </div>
             <div className="header-stats">
-              <div>剧本 <strong>{narData?.narrativeSummary?.total_scripts}</strong></div>
+              <div title="成功提取叙事结构的剧本数">有效样本 <strong>{narData?.narrativeSummary?.total_scripts}</strong></div>
               <div>单峰 <strong>{narData?.narrativeSummary?.structure_distribution?.single_peak}</strong></div>
               <div>多峰 <strong>{(narData?.narrativeSummary?.structure_distribution?.dual_peak || 0) + (narData?.narrativeSummary?.structure_distribution?.multi_peak || 0)}</strong></div>
             </div>
@@ -784,23 +762,23 @@ export default function App() {
                   <TemplateCurves data={narData} />
                 </div>
 
-                <div className="card span-4">
+                <div className="card span-12">
                   <div className="card-header"><h3>关键发现</h3></div>
                   <div style={{ fontSize: '0.8rem', color: '#8899aa', lineHeight: 1.8 }}>
-                    <ul style={{ listStyle: 'none', padding: 0 }}>
-                      <li style={{ marginBottom: 12 }}>
+                    <ul style={{ listStyle: 'none', padding: 0, display: 'flex', gap: 16 }}>
+                      <li style={{ flex: 1, padding: '12px', background: 'rgba(255,255,255,0.02)', borderRadius: 4 }}>
                         <strong style={{ color: '#ff7043' }}>历史戏：线性冲突驱动</strong><br/>
                         单峰结构占 92.5%<br/>
                         高潮集中在中后期<br/>
                         快速推进的线性叙事
                       </li>
-                      <li style={{ marginBottom: 12 }}>
+                      <li style={{ flex: 1, padding: '12px', background: 'rgba(255,255,255,0.02)', borderRadius: 4 }}>
                         <strong style={{ color: '#42a5f5' }}>家庭戏：情绪驱动型</strong><br/>
                         多峰结构占比最高 (10.5%)<br/>
                         情绪波动大<br/>
                         情节起伏较多
                       </li>
-                      <li style={{ marginBottom: 12 }}>
+                      <li style={{ flex: 1, padding: '12px', background: 'rgba(255,255,255,0.02)', borderRadius: 4 }}>
                         <strong style={{ color: '#66bb6a' }}>公案戏：阶段型结构</strong><br/>
                         双峰+多峰结构共占 21%<br/>
                         调查→冲突→判决<br/>
@@ -808,16 +786,6 @@ export default function App() {
                       </li>
                     </ul>
                   </div>
-                </div>
-
-                <div className="card span-6">
-                  <div className="card-header"><h3>叙事结构类型分布</h3></div>
-                  <StructureComparison data={narData} />
-                </div>
-
-                <div className="card span-6">
-                  <div className="card-header"><h3>高潮位置 × 张力幅度</h3></div>
-                  <ClimaxDistribution data={narData} />
                 </div>
               </>
             )}
@@ -832,7 +800,7 @@ export default function App() {
                     </div>
                   </div>
                   <div className="chart-container tall">
-                    <NarrativeCurve data={narData} />
+                    <NarrativeCurve data={narData} onScriptChange={setNarrativeActiveScript} />
                   </div>
                 </div>
 
@@ -844,7 +812,7 @@ export default function App() {
                     </div>
                   </div>
                   <div className="chart-container">
-                    <StageSegmentation data={narData} />
+                    <StageSegmentation data={narData} activeScript={narrativeActiveScript} />
                   </div>
                 </div>
 
@@ -870,17 +838,12 @@ export default function App() {
                   <ClimaxDistribution data={narData} />
                 </div>
 
-                <div className="card span-8">
-                  <div className="card-header"><h3>各剧种叙事模板对比</h3></div>
-                  <TemplateCurves data={narData} />
-                </div>
-
-                <div className="card span-4">
+                <div className="card span-12">
                   <div className="card-header"><h3>叙事节奏指标</h3></div>
                   {(() => {
                     const agg = narData?.narrativeTypeAgg || {}
                     return (
-                      <table>
+                      <table style={{ width: '100%', textAlign: 'left' }}>
                         <thead>
                           <tr><th>剧种</th><th>平均高潮位置</th><th>张力幅度</th><th>节奏波动</th></tr>
                         </thead>
@@ -928,16 +891,6 @@ export default function App() {
                       历史戏倾向于单峰线性结构，家庭戏和公案戏结构更复杂。
                     </p>
                   </div>
-                </div>
-
-                <div className="card span-6">
-                  <div className="card-header"><h3>高潮位置 × 结构类型</h3></div>
-                  <ClimaxDistribution data={narData} />
-                </div>
-
-                <div className="card span-6">
-                  <div className="card-header"><h3>叙事模板曲线</h3></div>
-                  <TemplateCurves data={narData} />
                 </div>
               </>
             )}

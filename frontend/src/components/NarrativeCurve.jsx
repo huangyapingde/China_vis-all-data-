@@ -11,17 +11,23 @@ const STAGE_LABELS = {
   opening: '开端', development: '发展', climax: '高潮', resolution: '结局',
 }
 
-export default function NarrativeCurve({ data }) {
+export default function NarrativeCurve({ data, onScriptChange }) {
   const chartRef = useRef(null)
   const instanceRef = useRef(null)
   const [activeScript, setActiveScript] = useState(null)
   const [scripts, setScripts] = useState([])
+  const [selectedCategory, setSelectedCategory] = useState('全部')
+
+  const handleScriptChange = (id) => {
+    setActiveScript(id)
+    if (onScriptChange) onScriptChange(id)
+  }
 
   useEffect(() => {
     if (!data?.narrativeData?.narratives) return
     const nars = data.narrativeData.narratives
     setScripts(nars)
-    if (nars.length > 0) setActiveScript(nars[0].script_id)
+    if (nars.length > 0) handleScriptChange(nars[0].script_id)
   }, [data])
 
   useEffect(() => {
@@ -66,12 +72,12 @@ export default function NarrativeCurve({ data }) {
         textStyle: { color: '#8899aa', fontSize: 10 },
         top: 40,
       },
-      grid: { left: 55, right: 20, top: 80, bottom: 50 },
+      grid: { left: 55, right: 65, top: 80, bottom: 50 },
       xAxis: {
         type: 'category',
         data: xData,
         axisLabel: { color: '#8899aa', fontSize: 9 },
-        name: '场景推进 →',
+        name: '场景推进',
         nameTextStyle: { color: '#546e7a', fontSize: 10 },
       },
       yAxis: {
@@ -88,8 +94,10 @@ export default function NarrativeCurve({ data }) {
           symbol: 'circle', symbolSize: 4,
           markArea: { silent: true, data: markAreas },
           markPoint: {
-            data: [{ type: 'max', name: '高潮', symbol: 'pin', symbolSize: 30,
-              itemStyle: { color: '#ef5350' }, label: { color: '#fff', fontSize: 10 } }],
+            data: [{
+              type: 'max', name: '高潮', symbol: 'pin', symbolSize: 30,
+              itemStyle: { color: '#ef5350' }, label: { color: '#fff', fontSize: 10 }
+            }],
           },
         },
         {
@@ -127,25 +135,49 @@ export default function NarrativeCurve({ data }) {
 
   if (scripts.length === 0) return <div style={{ color: '#546e7a', padding: 20, textAlign: 'center' }}>暂无数据</div>
 
+  const categories = ['全部', ...new Set(scripts.map(s => s.type).filter(Boolean))]
+  const filteredScripts = selectedCategory === '全部'
+    ? scripts
+    : scripts.filter(s => s.type === selectedCategory)
+
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
-      <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8 }}>
-        {scripts.slice(0, 18).map(s => {
-          const isActive = s.script_id === activeScript
-          return (
-            <button key={s.script_id} onClick={() => setActiveScript(s.script_id)}
-              style={{
-                padding: '4px 10px', borderRadius: 4,
-                border: isActive ? '1px solid #4fc3f7' : '1px solid #2a3a4a',
-                background: isActive ? 'rgba(79,195,247,0.15)' : 'transparent',
-                color: isActive ? '#4fc3f7' : '#8899aa',
-                cursor: 'pointer', fontSize: '0.7rem', maxWidth: 100,
-                overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
-              }}>
-              {s.title}
-            </button>
-          )
-        })}
+      {/* 下拉选择栏 */}
+      <div style={{ display: 'flex', gap: 16, marginBottom: 12, borderBottom: '1px solid #1e2d3d', paddingBottom: 12 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <span style={{ color: '#8899aa', fontSize: '0.75rem' }}>题材筛选:</span>
+          <select
+            value={selectedCategory}
+            onChange={(e) => {
+              const cat = e.target.value
+              setSelectedCategory(cat)
+              const newScripts = cat === '全部' ? scripts : scripts.filter(s => s.type === cat)
+              if (newScripts.length > 0) handleScriptChange(newScripts[0].script_id)
+            }}
+            style={{
+              padding: '4px 8px', borderRadius: 4, background: '#1a2634', color: '#e0e6ed',
+              border: '1px solid #2a3a4a', fontSize: '0.75rem', outline: 'none', cursor: 'pointer'
+            }}
+          >
+            {categories.map(cat => <option key={cat} value={cat}>{cat}</option>)}
+          </select>
+        </div>
+
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <span style={{ color: '#8899aa', fontSize: '0.75rem' }}>具体剧本:</span>
+          <select
+            value={activeScript || ''}
+            onChange={(e) => handleScriptChange(e.target.value)}
+            style={{
+              padding: '4px 8px', borderRadius: 4, background: '#1a2634', color: '#e0e6ed',
+              border: '1px solid #2a3a4a', fontSize: '0.75rem', outline: 'none', maxWidth: 220, cursor: 'pointer'
+            }}
+          >
+            {filteredScripts.map(s => (
+              <option key={s.script_id} value={s.script_id}>{s.title || s.script_id}</option>
+            ))}
+          </select>
+        </div>
       </div>
       <div ref={chartRef} style={{ flex: 1, width: '100%', minHeight: 350 }} />
     </div>

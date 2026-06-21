@@ -1,8 +1,38 @@
+# Dependencies
 node_modules/
 frontend/node_modules/
+
+# Python
 backend/.venv/
 backend/__pycache__/
 __pycache__/
 *.pyc
-.claude/
+
+# Build output
 frontend/dist/
+dist
+dist-ssr
+
+# Claude config
+.claude/
+
+# Local env files
+*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+
+# OS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*

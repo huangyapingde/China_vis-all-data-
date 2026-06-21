@@ -16,11 +16,17 @@ export default function TopicNetwork({ data }) {
       themeSet.add(p.theme2)
     })
 
-    const nodes = [...themeSet].map(name => ({
-      name,
-      symbolSize: Math.max(12, Math.sqrt((topic_totals[name] || 1) * 80)),
-      category: 0,
-    }))
+    const nodes = [...themeSet].map(name => {
+      const size = Math.max(45, Math.sqrt(topic_totals[name] || 1) * 3.5)
+      return {
+        name,
+        symbolSize: size,
+        category: 0,
+        label: {
+          fontSize: Math.max(10, size / 4.5)
+        }
+      }
+    })
 
     const nodeIdx = {}
     nodes.forEach((n, i) => { nodeIdx[n.name] = i })
@@ -28,9 +34,11 @@ export default function TopicNetwork({ data }) {
     const edges = top_pairs.slice(0, 20).map(p => ({
       source: nodeIdx[p.theme1],
       target: nodeIdx[p.theme2],
+      sourceName: p.theme1,
+      targetName: p.theme2,
       value: p.count,
-      label: { show: true, formatter: `${p.pmi}`, fontSize: 9, color: '#8899aa' },
-      lineStyle: { width: Math.max(1, p.pmi * 5) },
+      label: { show: true, formatter: `${p.pmi.toFixed(3)}`, fontSize: 9, color: '#8899aa' },
+      lineStyle: { width: Math.max(1.5, p.pmi * 40) },
     }))
 
     if (!instanceRef.current) {
@@ -41,7 +49,7 @@ export default function TopicNetwork({ data }) {
       tooltip: {
         formatter: (params) => {
           if (params.dataType === 'edge') {
-            return `${params.data.source} ↔ ${params.data.target}<br/>PMI: ${params.data.label?.formatter}`
+            return `${params.data.sourceName} ↔ ${params.data.targetName}<br/>PMI: ${params.data.label?.formatter}`
           }
           return `${params.name}<br/>出现次数: ${topic_totals[params.name] || '-'}`
         },
@@ -51,12 +59,12 @@ export default function TopicNetwork({ data }) {
         layout: 'force',
         roam: true,
         draggable: true,
-        force: { repulsion: 400, edgeLength: [100, 250], gravity: 0.12 },
+        force: { repulsion: 1200, edgeLength: [150, 350], gravity: 0.08 },
         data: nodes,
         edges: edges,
-        label: { show: true, fontSize: 10, color: '#e0e6ed' },
-        lineStyle: { color: 'rgba(255,255,255,0.3)', curveness: 0.2 },
-        emphasis: { focus: 'adjacency', lineStyle: { width: 3 } },
+        label: { show: true, position: 'inside', fontSize: 11, color: '#e0e6ed', fontWeight: 'bold' },
+        lineStyle: { color: 'rgba(255,255,255,0.4)', curveness: 0.2 },
+        emphasis: { focus: 'adjacency', lineStyle: { width: 5, color: '#ffb74d' } },
       }],
     }
 

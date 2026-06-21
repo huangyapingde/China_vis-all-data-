@@ -37,7 +37,7 @@ export default function TopicHeatmap({ data, selectedType }) {
           return `<strong>${type}</strong> × <strong>${theme}</strong><br/>强度: ${params.value[2].toFixed(1)}%`
         },
       },
-      grid: { left: 80, right: 60, top: 10, bottom: 30 },
+      grid: { left: 80, right: 60, top: 10, bottom: 70 },
       xAxis: {
         type: 'category',
         data: displayThemes,

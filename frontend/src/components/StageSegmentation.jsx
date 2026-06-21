@@ -8,18 +8,9 @@ const STAGE_LABELS = {
   opening: '开 端', development: '发 展', climax: '高 潮', resolution: '结 局',
 }
 
-export default function StageSegmentation({ data }) {
+export default function StageSegmentation({ data, activeScript }) {
   const chartRef = useRef(null)
   const instanceRef = useRef(null)
-  const [activeScript, setActiveScript] = useState(null)
-  const [scripts, setScripts] = useState([])
-
-  useEffect(() => {
-    if (!data?.narrativeData?.narratives) return
-    const nars = data.narrativeData.narratives
-    setScripts(nars)
-    if (nars.length > 0) setActiveScript(nars[0].script_id)
-  }, [data])
 
   useEffect(() => {
     if (!activeScript || !chartRef.current) return
@@ -84,24 +75,6 @@ export default function StageSegmentation({ data }) {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
-      <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8 }}>
-        {scripts.slice(0, 18).map(s => {
-          const isActive = s.script_id === activeScript
-          return (
-            <button key={s.script_id} onClick={() => setActiveScript(s.script_id)}
-              style={{
-                padding: '4px 10px', borderRadius: 4,
-                border: isActive ? '1px solid #4fc3f7' : '1px solid #2a3a4a',
-                background: isActive ? 'rgba(79,195,247,0.15)' : 'transparent',
-                color: isActive ? '#4fc3f7' : '#8899aa',
-                cursor: 'pointer', fontSize: '0.7rem', maxWidth: 100,
-                overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
-              }}>
-              {s.title}
-            </button>
-          )
-        })}
-      </div>
       <div ref={chartRef} style={{ flex: 1, width: '100%', minHeight: 300 }} />
     </div>
   )

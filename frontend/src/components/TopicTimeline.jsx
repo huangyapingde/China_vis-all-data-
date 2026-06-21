@@ -2,9 +2,9 @@ import React, { useEffect, useRef, useState } from 'react'
 import * as echarts from 'echarts'
 
 const THEME_COLORS = [
-  '#ff7043','#42a5f5','#66bb6a','#ab47bc','#ffca28',
-  '#ef5350','#26c6da','#8d6e63','#7986cb','#4db6ac',
-  '#f48fb1','#a1887f','#90a4ae','#ce93d8','#81c784',
+  '#ff7043', '#42a5f5', '#66bb6a', '#ab47bc', '#ffca28',
+  '#ef5350', '#26c6da', '#8d6e63', '#7986cb', '#4db6ac',
+  '#f48fb1', '#a1887f', '#90a4ae', '#ce93d8', '#81c784',
 ]
 
 export default function TopicTimeline({ data }) {
@@ -12,6 +12,7 @@ export default function TopicTimeline({ data }) {
   const instanceRef = useRef(null)
   const [activeScript, setActiveScript] = useState(null)
   const [scripts, setScripts] = useState([])
+  const [selectedCategory, setSelectedCategory] = useState('全部')
 
   // On mount, pick first script
   useEffect(() => {
@@ -67,12 +68,12 @@ export default function TopicTimeline({ data }) {
           return html
         },
       },
-      grid: { left: 60, right: 20, top: 40, bottom: 40 },
+      grid: { left: 40, right: 10, top: 40, bottom: 40, containLabel: true },
       xAxis: {
         type: 'category',
         data: timeline.map(t => `S${t.scene_id}`),
-        axisLabel: { color: '#8899aa', fontSize: 9 },
-        name: '场景推进 →',
+        axisLabel: { color: '#8899aa', fontSize: 9, interval: 0, rotate: 45 },
+        name: '场次推进',
         nameTextStyle: { color: '#546e7a', fontSize: 10 },
       },
       yAxis: {
@@ -115,27 +116,51 @@ export default function TopicTimeline({ data }) {
     return <div style={{ color: '#546e7a', padding: 20, textAlign: 'center' }}>暂无演化数据</div>
   }
 
+  const evo = data?.themeEvolution
+  const categories = ['全部', ...new Set(scripts.map(id => evo?.[id]?.type).filter(Boolean))]
+
+  const filteredScripts = selectedCategory === '全部'
+    ? scripts
+    : scripts.filter(id => evo?.[id]?.type === selectedCategory)
+
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
-      <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8 }}>
-        {scripts.slice(0, 15).map(sid => {
-          const evo = data?.themeEvolution
-          const title = evo?.[sid]?.title || sid
-          const isActive = sid === activeScript
-          return (
-            <button key={sid} onClick={() => setActiveScript(sid)}
-              style={{
-                padding: '4px 10px', borderRadius: 4,
-                border: isActive ? '1px solid #4fc3f7' : '1px solid #2a3a4a',
-                background: isActive ? 'rgba(79,195,247,0.15)' : 'transparent',
-                color: isActive ? '#4fc3f7' : '#8899aa',
-                cursor: 'pointer', fontSize: '0.7rem', maxWidth: 120,
-                overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap',
-              }}>
-              {title}
-            </button>
-          )
-        })}
+      {/* 下拉选择栏 */}
+      <div style={{ display: 'flex', gap: 16, marginBottom: 12, borderBottom: '1px solid #1e2d3d', paddingBottom: 12 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <span style={{ color: '#8899aa', fontSize: '0.75rem' }}>题材筛选:</span>
+          <select
+            value={selectedCategory}
+            onChange={(e) => {
+              const cat = e.target.value
+              setSelectedCategory(cat)
+              const newScripts = cat === '全部' ? scripts : scripts.filter(id => evo?.[id]?.type === cat)
+              if (newScripts.length > 0) setActiveScript(newScripts[0])
+            }}
+            style={{
+              padding: '4px 8px', borderRadius: 4, background: '#1a2634', color: '#e0e6ed',
+              border: '1px solid #2a3a4a', fontSize: '0.75rem', outline: 'none', cursor: 'pointer'
+            }}
+          >
+            {categories.map(cat => <option key={cat} value={cat}>{cat}</option>)}
+          </select>
+        </div>
+
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <span style={{ color: '#8899aa', fontSize: '0.75rem' }}>具体剧本:</span>
+          <select
+            value={activeScript || ''}
+            onChange={(e) => setActiveScript(e.target.value)}
+            style={{
+              padding: '4px 8px', borderRadius: 4, background: '#1a2634', color: '#e0e6ed',
+              border: '1px solid #2a3a4a', fontSize: '0.75rem', outline: 'none', maxWidth: 220, cursor: 'pointer'
+            }}
+          >
+            {filteredScripts.map(sid => (
+              <option key={sid} value={sid}>{evo?.[sid]?.title || sid}</option>
+            ))}
+          </select>
+        </div>
       </div>
       <div ref={chartRef} style={{ flex: 1, width: '100%', minHeight: 300 }} />
     </div>
