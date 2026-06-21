@@ -3,6 +3,7 @@ import { useData } from './hooks/useData'
 import { useNetworkData } from './hooks/useNetworkData'
 import { useThemeData } from './hooks/useThemeData'
 import { useNarrativeData } from './hooks/useNarrativeData'
+import { useCrossAnalysis } from './hooks/useCrossAnalysis'
 import Sidebar from './components/Sidebar'
 import SummaryCards from './components/SummaryCards'
 import SankeyChart from './components/SankeyChart'
@@ -30,6 +31,7 @@ import StructureComparison from './components/StructureComparison'
 import ClimaxDistribution from './components/ClimaxDistribution'
 import NarrativeClustering from './components/NarrativeClustering'
 import TemplateCurves from './components/TemplateCurves'
+import CrossOverview from './components/CrossOverview'
 
 export default function App() {
   const [task, setTask] = useState('task1')
@@ -42,9 +44,10 @@ export default function App() {
   const { data: netData, loading: netLoading, error: netError } = useNetworkData()
   const { data: themeData, loading: themeLoading, error: themeError } = useThemeData()
   const { data: narData, loading: narLoading, error: narError } = useNarrativeData()
+  const { data: crossData, loading: crossLoading, error: crossError } = useCrossAnalysis()
 
-  const allLoading = loading || netLoading || themeLoading || narLoading
-  const allError = error || netError || themeError || narError
+  const allLoading = loading || netLoading || themeLoading || narLoading || crossLoading
+  const allError = error || netError || themeError || narError || crossError
 
   const handleTaskChange = (newTask) => {
     setTask(newTask)
@@ -53,6 +56,7 @@ export default function App() {
     else if (newTask === 'task2') setTab('network-overview')
     else if (newTask === 'task3') setTab('theme-overview')
     else if (newTask === 'task4') setTab('narrative-overview')
+    else if (newTask === 'task5') setTab('cross-overview')
   }
 
   const handleTabChange = (newTab) => {
@@ -938,6 +942,31 @@ export default function App() {
               </>
             )}
           </div>
+        </div>
+      </div>
+    )
+  }
+
+  // ── Task 5: Cross-Dimension Analysis ──
+  if (task === 'task5') {
+    return (
+      <div className="app">
+        {sidebarEl}
+        <div style={{ marginLeft: 220 }}>
+          <header className="header">
+            <div>
+              <h1>任务五：跨维度关联分析</h1>
+              <div style={{ fontSize: '0.75rem', color: '#8899aa', marginTop: 4 }}>
+                角色关系 × 主题表达 × 叙事方式 · 关联模式 · 协同演化 · 稳定结构
+              </div>
+            </div>
+            <div className="header-stats">
+              <div>关联剧本 <strong>{crossData?.summary?.total_scripts}</strong></div>
+              <div>分析维度 <strong>{crossData?.summary?.dimension_names?.length}</strong></div>
+              <div>发现模式 <strong>{crossData?.patterns?.length}</strong></div>
+            </div>
+          </header>
+          <CrossOverview data={crossData} tab={tab} />
         </div>
       </div>
     )

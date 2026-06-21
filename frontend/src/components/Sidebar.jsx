@@ -131,6 +131,24 @@ export default function Sidebar({ task, tab, onTaskChange, onTabChange }) {
         </button>
       ))}
 
+      {/* Task 5 */}
+      <div style={sectionTitleStyle}>任务五：关联机制多维分析</div>
+      {[
+        { key: 'cross-overview', icon: '🔬', label: '关联总览' },
+        { key: 'cross-matrix', icon: '📊', label: '散点矩阵' },
+        { key: 'cross-parallel', icon: '〰️', label: '平行坐标' },
+        { key: 'cross-pattern', icon: '🎯', label: '模式发现' },
+      ].map(t => (
+        <button
+          key={t.key}
+          style={navItemStyle(task === 'task5' && tab === t.key)}
+          onClick={() => { onTaskChange('task5'); onTabChange(t.key) }}
+        >
+          <span>{t.icon}</span>
+          <span>{t.label}</span>
+        </button>
+      ))}
+
       {/* Legend */}
       <div style={{ marginTop: 'auto', padding: '16px', borderTop: '1px solid #2a3a4a', fontSize: '0.7rem', color: '#546e7a' }}>
         <div>448部剧本 · 6131角色</div>
