@@ -1,0 +1,811 @@
+{
+  "script_id": "03075004",
+  "title": "神亭岭",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "太史慈",
+      "hangdang": "武生"
+    },
+    {
+      "name": "孙策",
+      "hangdang": "老生"
+    },
+    {
+      "name": "刘繇",
+      "hangdang": "老生"
+    },
+    {
+      "name": "张勇",
+      "hangdang": "净"
+    },
+    {
+      "name": "周瑜",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "孙策与刘繇对峙。孙策以十三骑赴神亭岭窥探。刘繇惧不敢出击。部将太史慈奋勇迎敌，与孙策酣战，不分\n胜负。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "张勇",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张勇上。"
+        },
+        {
+          "character": "张勇",
+          "type": "唱",
+          "text": "打探军情得一报， 孙策可算胆气豪。"
+        },
+        {
+          "character": "张勇",
+          "type": "白",
+          "text": "某、张勇，在刘繇帐下以为前部先锋。奉命巡哨，探得孙策带领数骑前来窥探 我营。不免回营禀报君侯知道便了。"
+        },
+        {
+          "character": "张勇",
+          "type": "唱",
+          "text": "急忙回营把军情报， 要与孙策动枪刀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张勇下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太史慈上，起霸。"
+        },
+        {
+          "character": "太史慈",
+          "type": "念",
+          "text": "忠心赤胆一英豪，几度临阵试宝刀。恨不封侯叹李广，空为武将挂征袍。"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "俺、太史慈，乃东莱黄县人氏。自解北海孔融之围，后投刘繇帐下以为部将。 那刘繇道俺年轻，不肯重用。今有孙策在神亭岭上窥探我营。不免报与君侯， 请令出战。正是："
+        },
+        {
+          "character": "太史慈",
+          "type": "念",
+          "text": "英雄志气比天高，刘繇无目识英豪。帐中若得一支令，拔剑要斩海底蛟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太史慈下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖发点〗。四龙套、张英、三将官引刘繇同上。"
+        },
+        {
+          "character": "刘繇",
+          "type": "点绛唇",
+          "text": "金鼓齐鸣，旌旗掩映，威风凛，将士纷纷，镇守扬州郡。"
+        },
+        {
+          "character": "张英、三将官",
+          "type": "同白",
+          "text": "参见君侯！"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "站立两厢！"
+        },
+        {
+          "character": "张英、三将官",
+          "type": "同白",
+          "text": "谢君侯。"
+        },
+        {
+          "character": "刘繇",
+          "type": "念",
+          "text": "统领貔貅气概雄，连环战甲扣玲珑。将军怀抱安邦志，逐鹿中原立大功。"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "某、扬州刺史刘繇。镇守牛渚，被孙策一战，杀过江来，因此兵撤神亭岭。如 今深沟高垒，闭营不战。也曾命张勇前去哨探，未见回报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张勇上。"
+        },
+        {
+          "character": "张勇",
+          "type": "念",
+          "text": "忙将军情事，报与君侯知。"
+        },
+        {
+          "character": "张勇",
+          "type": "白",
+          "text": "参见君侯。末将交令。"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "收令。张将军，命你打探军情，怎么样了？"
+        },
+        {
+          "character": "张勇",
+          "type": "白",
+          "text": "末将巡哨，探得孙策带领数骑，前来窥探我营。特来报知。"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "哦！今有孙策带领数骑，前来窥探我营！ 张英听令！"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "传我将令：满营将官不许出战，违令者斩！"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "得令，令出！ 下面听者！君侯有令：满营将官不许出战，违令者斩！"
+        },
+        {
+          "character": "太史慈",
+          "type": "内白",
+          "text": "且慢！"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "何人阻令？"
+        },
+        {
+          "character": "太史慈",
+          "type": "内白",
+          "text": "太史慈。"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "随令进帐！"
+        },
+        {
+          "character": "太史慈",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太史慈上。"
+        },
+        {
+          "character": "太史慈",
+          "type": "唱",
+          "text": "不准出战真好笑， 特到宝帐问根苗。"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "君侯在上，恕俺太史慈有甲胄在身，不能全礼，君侯莫怪！"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "将军免礼。进帐何事？"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "方才君侯传下将令，不准众将出战，是何道理？"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "那孙策带领数骑，前来窥探我营，恐怕中了他的诱兵之计。、"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "那孙策乃是一勇之夫，有什么“诱兵之计”？君侯赐俺太史慈一支将令，匹马 单枪，生擒那孙策进帐！"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "且听探马一报！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "今有孙策带领数骑，直奔我营而来！"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "紧闭营门！"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "君侯，那孙策分明自来送死，为何紧闭营门？"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "那孙策有霸王之勇，范增之才，故尔紧闭营门。"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "那孙策纵有霸王之勇，范增之才，俺也要会他一会。 众将听者！哪个有胆量者，随俺太史慈大战那孙策！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张英、三将官同不应。"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "无人应声。你出帐去吧！"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "咳！俱是无能之辈！"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "唗！我把你个大胆的太史慈！你敢违抗君侯的将令？呸！吃我一拳！"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "你个无知匹夫！少时擒来孙策，报效君侯，叫你等见识见识。俺去也！"
+        },
+        {
+          "character": "太史慈",
+          "type": "唱",
+          "text": "临阵怯敌实可恼， 何惧孙策小儿曹！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太史慈下。"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "哎呀君侯哇，我把那太史慈好有一比！"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "比做何来？"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "初生牛犊不怕虎。我看他定死在孙策之手。"
+        },
+        {
+          "character": "张勇",
+          "type": "白",
+          "text": "住了！我看那太史慈是个英雄好汉，你们不来相助，反而笑骂于他。待俺张勇 助他一阵便了！"
+        },
+        {
+          "character": "张勇",
+          "type": "唱",
+          "text": "怒气不息出帐道， 帮助太史走一遭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张勇下。"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "啊老将军，何计安排？"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "君侯！你我去到两军阵前观阵，那太史慈若是得胜过孙策，你我就一拥而上。"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "若胜不过呢？"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "你我就溜了吧！"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "老将军高见。 众将官，带马阵前去者！"
+        },
+        {
+          "character": "三将官、四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘繇",
+          "type": "唱",
+          "text": "人来带马战场到， 两军阵前看根苗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程普、黄盖、韩当、周泰引孙策同上。"
+        },
+        {
+          "character": "孙策",
+          "type": "唱",
+          "text": "带领众将探贼巢， 威风凛凛逞英豪。 远望贼营旌旗绕， 层层密密摆枪刀。"
+        },
+        {
+          "character": "程普、黄盖、韩当、周泰",
+          "type": "同白",
+          "text": "主公！降香已毕，就该回去。"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "俺今到此，焉能空回也！"
+        },
+        {
+          "character": "孙策",
+          "type": "唱",
+          "text": "准备金钩把鳌鱼钓，"
+        },
+        {
+          "character": "太史慈",
+          "type": "内白",
+          "text": "孙策哪里走！"
+        },
+        {
+          "character": "孙策",
+          "type": "唱",
+          "text": "看是何人逞英豪？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张勇、太史慈同上。"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "呔！你们哪一个是孙策？"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "啊！你是何人，敢叫孙伯符的名讳？"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "东莱黄县太史慈在此！"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "太史慈！尔有多大本领，竟敢前来对敌？你二人放马过来，俺孙伯符何惧？"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "将你所带之将，一起放马过来，俺太史慈何惧！"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "战尔何用人多？ 众位将军！"
+        },
+        {
+          "character": "程普、黄盖、韩当、周泰",
+          "type": "同白",
+          "text": "主公！"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "退下了！"
+        },
+        {
+          "character": "程普、黄盖、韩当、周泰",
+          "type": "同白",
+          "text": "主公，小心了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程普、黄盖、韩当、周泰同下。"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "太史慈，你二人来来来！"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "我二人战你，岂算得了英雄！ 张将军退下！"
+        },
+        {
+          "character": "张勇",
+          "type": "白",
+          "text": "小心了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张勇下。"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "太史慈！"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "你好大的胆！"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快风入松〗。孙策打快枪，孙策、太史慈双收下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太史慈上。"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "哎呀且住！孙策虽然年幼，倒有几合勇战。俺纵然擒他下马，难免也要被他所 带之将抢去。哦呵有了！不免把他引入无人之处，擒他下马便了！"
+        },
+        {
+          "character": "太史慈",
+          "type": "唱",
+          "text": "安排打虎牢笼套，"
+        },
+        {
+          "character": "孙策",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "来呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太史慈下。孙策上。"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "太史慈，你往哪里走！"
+        },
+        {
+          "character": "孙策",
+          "type": "唱",
+          "text": "战爷不过尔往哪里逃？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙策下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程普、黄盖、韩当、周泰同上。张勇上。"
+        },
+        {
+          "character": "张勇",
+          "type": "白",
+          "text": "你等前来作甚？"
+        },
+        {
+          "character": "程普、黄盖、韩当、周泰",
+          "type": "同白",
+          "text": "前来助战！"
+        },
+        {
+          "character": "张勇",
+          "type": "白",
+          "text": "放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程普、黄盖、韩当、周泰、张勇同开打。张勇败下，程普、黄盖、韩当、周泰同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。四兵卒引周瑜同上。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "俺、周瑜。今有主公带领数骑，去到神亭岭降香。俺放心不下，不免前去保护。 众将官，神亭岭去者！"
+        },
+        {
+          "character": "四兵卒",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵卒、周瑜同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": "刘繇",
+          "type": "内唱",
+          "text": "神亭岭下旌旗飘，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、张英、三将官、刘繇同上。"
+        },
+        {
+          "character": "刘繇",
+          "type": "唱",
+          "text": "儿郎个个逞英豪。 下得马来上山道， 观看两家动枪刀。 （众刘繇兵、众孙策兵同上，同开打。众孙策兵同败下。程普、黄盖、韩当、周泰同上，同接打，众刘繇兵 同败下。张勇上，接打，张勇败下，程普、黄盖、韩当、周泰同追下。孙策、太史慈同上，同开打，夺戟下。）"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "老将军，你看那太史慈可以胜得过孙策了！"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "可以胜得过孙策了！"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "众将官，杀上前去！"
+        },
+        {
+          "character": "四龙套、张英、三将官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵卒、周瑜同上。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "刘繇，尔往哪里走！"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "老将军，问过敌将姓名。"
+        },
+        {
+          "character": "张英",
+          "type": "白",
+          "text": "来将通名受死！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "周瑜在此，看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜刺死张英。"
+        },
+        {
+          "character": "刘繇",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜、刘繇同开打，刘繇、四龙套、三将官同败下，周瑜、四兵卒同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（孙策、太史慈同上，太史慈夺孙策盔，孙策夺太史慈戟。众刘繇兵、众孙策兵同上。递枪，孙策、太史慈"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "同接枪，同开打。周瑜上，上高台。〖鸣金〗。）"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "敢是怯战？"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "两家鸣金收兵，何言怯战？"
+        },
+        {
+          "character": "孙策",
+          "type": "白",
+          "text": "你家先收兵！"
+        },
+        {
+          "character": "太史慈",
+          "type": "白",
+          "text": "你家先收兵！"
+        },
+        {
+          "character": "孙策、太史慈",
+          "type": "同白",
+          "text": "放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖鸣金〗。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "且慢！收兵不在先后。今日天色已晚，明日还在此地鏖战。主公请来收兵。"
+        },
+        {
+          "character": "孙策、太史慈",
+          "type": "同白",
+          "text": "众将官，收兵哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快风入松后半段〗。"
+        },
+        {
+          "character": "孙策、太史慈",
+          "type": "同三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

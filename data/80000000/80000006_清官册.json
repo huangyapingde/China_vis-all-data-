@@ -1,0 +1,2342 @@
+{
+  "script_id": "80000006",
+  "title": "清官册",
+  "alias": [
+    "升官图；一名：提寇阴审"
+  ],
+  "source": "录音、唱片本",
+  "characters": [
+    {
+      "name": "寇准",
+      "hangdang": "老生"
+    },
+    {
+      "name": "潘洪",
+      "hangdang": "净"
+    },
+    {
+      "name": "赵德芳",
+      "hangdang": "老生"
+    },
+    {
+      "name": "马牌",
+      "hangdang": "丑"
+    },
+    {
+      "name": "夫人",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "杨延昭状告潘洪卖国，陷害杨家将共十大罪状。潘洪被拿至京，刘御史因受潘洪女潘妃之贿，被赵德芳用金\n锏打死，又调霞谷县令寇准升为御史，复审潘洪。潘妃又行贿，寇准告知赵德芳。赵德芳做寇准后盾，并在\n潘洪傲慢狡赖不招供时，二人定计，假设阴曹，夜审潘洪，潘洪才吐露实情，据实定罪。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "金牌官",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金牌官上。"
+        },
+        {
+          "character": "金牌官",
+          "type": "念",
+          "text": "人行千里路，马过万重山。"
+        },
+        {
+          "character": "金牌官",
+          "type": "白",
+          "text": "咱，金銮校尉金牌官。奉了圣上旨意，调寇准连日连夜进京，就此马上加鞭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金牌官下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四衙役同上。寇准上。"
+        },
+        {
+          "character": "寇准",
+          "type": "引子",
+          "text": "做清官民之父母，积阴功留与儿孙。"
+        },
+        {
+          "character": "寇准",
+          "type": "念",
+          "text": "读诗书智广才高，中进士青史名标。三杯御酒加封号，被权臣一本参掉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院暗上。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "下官寇准，乃陕西华州人氏。蒙圣恩得中一甲一名，不想又被权臣参掉，在吏 部效力三载。蒙八千岁提拔，才得执守霞谷县正堂。自到任以来，黎民倒也好 训。今当三六九日，放告之期。 左右！"
+        },
+        {
+          "character": "四衙役",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "告牌抬出。"
+        },
+        {
+          "character": "四衙役",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "金牌官",
+          "type": "内白",
+          "text": "金牌下。"
+        },
+        {
+          "character": "四衙役",
+          "type": "同白",
+          "text": "金牌下。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "四衙役",
+          "type": "同白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金牌官上。"
+        },
+        {
+          "character": "金牌官",
+          "type": "白",
+          "text": "金牌下，跪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准跪。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "金牌官",
+          "type": "白",
+          "text": "万岁有旨，贤爷有命，启调寇准连日连夜进京。"
+        },
+        {
+          "character": "金牌官",
+          "type": "念",
+          "text": "金牌如火速，"
+        },
+        {
+          "character": "寇准",
+          "type": "念",
+          "text": "即刻便登程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金牌官下。寇准起。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "转堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四衙役自两边分下。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "有请夫人出堂。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命。 后堂传话。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "内白",
+          "text": "做什么？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "请夫人出堂。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "内白",
+          "text": "有请夫人出堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟上。夫人上。"
+        },
+        {
+          "character": "夫人",
+          "type": "念",
+          "text": "夫受皇家禄，妻沾雨露恩。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "啊，夫人。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "老爷。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "有坐。将妾身唤出为了何事？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "金牌调我连夜进京，不知为了何事？"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "老爷为官清正，此番进京，想是加官晋爵。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "但愿如此。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "不知何时起程？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "即刻起程。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "妾身备酒，与老爷饯行。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "多谢夫人。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "老爷请至后面更衣，待妾身吩咐他们。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "有劳夫人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准下。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "家院，"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "此番跟随老爷进京，一路之上必须多加小心。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "吩咐马牌，备马伺候。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命。 马牌来见。"
+        },
+        {
+          "character": "马牌",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马牌上。"
+        },
+        {
+          "character": "马牌",
+          "type": "念",
+          "text": "忽听二爷唤，上前问根源。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "二爷，什么事情您哪？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "夫人命你备马伺候。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "是了是了，我知道了，我知道了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马牌下。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "安排已毕。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "哎呀且住，适才金牌到来，调老爷进京，不知为了何事？但愿老爷此去，加官 受爵。 丫鬟！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "看酒。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准上。"
+        },
+        {
+          "character": "夫人",
+          "type": "二黄原板",
+          "text": "叫丫鬟看过了酒一樽， 我与老爷来饯行。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄原板",
+          "text": "接过了夫人酒一樽， 背转身来谢神灵。 转面来再与夫人论， 下官言来你是听： 老母堂前多孝顺， 早晚侍奉要殷勤。 辞别了夫人足踏镫，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马牌上。家院、马牌同上马，同下。寇准上马。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄摇板",
+          "text": "披星戴月奔都城。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "送老爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准下。"
+        },
+        {
+          "character": "夫人",
+          "type": "二黄摇板",
+          "text": "一见老爷跨金镫， 但愿此去早回程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫人、丫鬟同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院、马牌、寇准同上。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "马蹄踏遍路旁草， 不觉来到馆驿中。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "驿丞自下场门上。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "诶，没人管了啊？我说有胳膊有腿的滚出一个来。"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "呀呵，这是谁这么说话呢？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "你出来瞧瞧喀罢你。"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "我说你是个干什么的？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "你问太爷呀？"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "唷，就是你这个样的还充太爷？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "现在的嘛！"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "你说说。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "我要说出字号来，吓得你一裤兜的屎。"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "我也不至于这么害怕呀，你就说就得了。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "你听着。我家太爷姓寇名准，乃陕西华州人氏，身授霞谷县正堂。我在他面前 上上下下、里里外外、非我不可、说一不二的这么个……"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "什么呀？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "马牌子。"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "哦，闹了半天你是个马牌子呀，你也不打听打听我是个干什么的。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "我知道你是个干什么呀？"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "我是个驿臣官。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "是我上司？"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "专管你们这些马牌子。混账！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "杂种！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "谁是你爸爸？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "像吗？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "别招说了！"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "滚了下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马牌下。"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "用些什么？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "前途用过，小心更鼓。"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "驿丞下。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "家院，"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "四更时分，冠戴伺候。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。〖起初更鼓〗。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "想我寇准，自授霞谷县令，上不负君，下不亏民，金牌调我连夜进京，不知为 了何事。今晚独宿馆驿，好不愁闷人也！"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄慢板",
+          "text": "一轮明月早东升， 想起了高堂上老娘亲。 伴君犹如羊伴虎， 尽得忠来难把孝行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起二更鼓〗。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄原板",
+          "text": "移星换斗二更尽， 坐不安来睡不宁。 霞谷县并不曾亏负百姓， 金牌调我所为何情？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起三更鼓〗。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄原板",
+          "text": "听谯楼打罢了三更时分， 一轮明月照阶厅。 有寇准独坐馆驿心中烦闷， 想起了在衙内审理民情。 早堂接状早堂审， 午堂接状审得清。 到晚来接下了无头状， 一盏红灯审到天明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "老爷请茶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准饮茶。〖起四更鼓〗。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄原板",
+          "text": "耳边厢又听得四更尽， 家院与爷改换衣襟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准下，家院下。驿丞上。"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "伙计们！"
+        },
+        {
+          "character": "众伙计",
+          "type": "内同白",
+          "text": "有。"
+        },
+        {
+          "character": "驿丞",
+          "type": "白",
+          "text": "小心更鼓。"
+        },
+        {
+          "character": "众伙计",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准上，家院上。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄原板",
+          "text": "转面来再把家院叫， 老爷言来你是听： 我命你回衙报一信， 一路上急走莫稍停。 倘若是太夫人将你来问， 你就说你老爷不久回程； 倘若是少夫人将你来问， 你就说你老爷进都城，一步一步往上升，且莫要挂心。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。〖起五更鼓〗。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄原板",
+          "text": "朝臣待漏五更冷， 铁甲将军夜渡津。 东华门本是文官走， 西华门本是武将行。 有寇准打从这东华门进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众文武内同笑。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄原板",
+          "text": "又听得文武发笑声。 他笑我寇准官职小， 七品县令怎见当今？ 有才不在官大小， 无才枉受爵禄恩。 撩袍端带把龙庭进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准下。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "内白",
+          "text": "内侍！"
+        },
+        {
+          "character": "太监",
+          "type": "内白",
+          "text": "有。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "内白",
+          "text": "带路！"
+        },
+        {
+          "character": "太监",
+          "type": "内白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵德芳、太监同上。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "二黄摇板",
+          "text": "恼恨潘洪贼奸臣。 曾命金牌调寇准， 潘、杨两家早审清。 站在朝门来观定， 不知何臣见圣君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准上。"
+        },
+        {
+          "character": "寇准",
+          "type": "念",
+          "text": "奉旨下龙庭，"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "咋，贤爷在此！"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": "寇准",
+          "type": "念",
+          "text": "臣见八贤君。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "千岁在上，臣有王命在身，不能全礼，贤爷千岁！"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "卿家进京来了？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "进京来了！"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "我叔王调卿进京为了何故？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "审问潘、杨两家之事。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "一家当朝太师，一家皇家郡马，卿家乃七品县令，如何审问？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "蒙圣恩，七品县令升为西台御史。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "哦，卿家升官可喜可贺！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "千岁提拔。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "啊，卿家，可晓得前任刘御史之故？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "这……臣却不知。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "是他审问潘、杨两家之事，审得不清不明，被本御金锏坠死。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "哦！有这等事。待臣回复圣命。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "且慢！卿家只管审问。倘有不明之处，到我南清宫领教就是。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "多谢千岁。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "八千岁做了主大胆审问， 哪怕潘洪国戚皇亲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准下。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "二黄散板",
+          "text": "好个伶俐小寇准， 七品县令审皇亲。 但愿潘洪早招认， 免得本御挂在心。 侍儿带路后宫进， 惩奸除佞仗贤臣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵德芳、太监同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二班头同上，寇准捧圣旨上。马牌自下场门上。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "金殿领了万岁命， 西台御史审皇亲。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "圣旨贡奉！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。"
+        },
+        {
+          "character": "大太监",
+          "type": "内白",
+          "text": "公公到。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "公公到。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监上。"
+        },
+        {
+          "character": "大太监",
+          "type": "念",
+          "text": "手捧千金礼，来到御史门。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "寇老先儿在哪儿哪？寇老先儿在……"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "啊，公公！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "恭喜寇老先儿，贺喜寇老先儿！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "喜从何来？"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "七品的郎官升为西台御史，可喜可贺。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "这……公公提拔。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "咱家提拔不到。这，寇老先儿，潘、杨家两之事可在贵衙审问？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "正是在敝衙审问。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "好，后宫潘娘娘有份厚礼，这儿有礼单，你拿瞧瞧喀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准看礼单。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "好一份厚礼。 公公，"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "寇老先儿。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "此礼为何？"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "少时审问太师爷的时候，要你量刑一二。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "哎呀，王法森严，必须按律而断！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "什么律条不律条的，你收下得了。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "有道是无功不受禄！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "嗳，这受禄必有功啊！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "我的功在哪里？"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "没告诉你嘛，少时审问太师爷的时候，你多护蔽着点儿太师爷，你的功劳不就 有了吗？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "必须按律而断！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "你收下得了。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "这……不能收！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "你收下的好！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "不能收！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "咋！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监将礼单掷于地下。"
+        },
+        {
+          "character": "大太监",
+          "type": "念",
+          "text": "暂离御史地，"
+        },
+        {
+          "character": "寇准",
+          "type": "念",
+          "text": "王法不顺情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监下。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "且住，正要升堂议事，后宫潘娘娘送来这份厚礼，我若是收了这礼，岂不学了 前任刘御史之故；我若不收此礼，后宫娘娘降罪，如何是好？这、这、这…… 有了，下殿之时，八千岁言道：若有为难之处，可至南清宫领教。 左右，打道南清宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监引赵德芳同上。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "二黄散板",
+          "text": "将身且坐宫院等， 寇卿到此问分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准上。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "急忙忙来在宫闱境， 今有疑难问圣明。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "待我叩环。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "何人叩环？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "寇准求见。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "候着。 千岁：寇准求见。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "传他进宫。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "遵旨。 寇老先儿，随我进来，你要小心着。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "寇准见驾，贤爷千岁。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "卿家平身，赐座。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "谢座！"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "啊，卿家，审问潘洪之事，怎么样了？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "臣正要升堂理事，后宫潘娘娘送来一份厚礼，现有礼单在此，贤爷请看。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "待我看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵德芳看礼单。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "呜呼呀！好一份厚礼。卿家就该收下才是。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "臣若收了此礼，岂不学了前任刘御史之故？"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "无妨，卿家只管收下，有本御作主。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "这……嗯……也罢，暂寄南清宫，候事完毕，臣再来领取。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "嗯……好，暂寄南清宫。 惭愧呀惭愧呀！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "千岁何出此言？"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "卿家有所不知，想潘洪犯罪，后宫娘娘就有这份厚礼送与卿家，想本御与杨郡 马乃是一门内亲，就无有这份厚礼送与卿家，岂不惭愧呀？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "哎呀千岁，臣必须按律而断。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "卿家平身，赐座。 啊，卿家，此番前来是乘骑还是坐轿？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "这……步行而来。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "哎呀呀，为了我叔王江山，不要累坏卿家，也罢，我叔王赐我穿朝御马，赠与 卿家乘骑了罢。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "多谢千岁。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "平身。 内侍，"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "奴婢在。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "与寇卿带马。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "喳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监牵马。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "寇老先儿，请来上马呀！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "千岁在此，有些不便，往下带。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监往下带马。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "内侍，"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "将马往上带。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监往上带马。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "寇老先儿，请上马呀！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "方才言过，千岁在此，有些不便，往下带，往下带。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监往下带马。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": "赵德芳",
+          "type": "二黄散板",
+          "text": "内侍带马不中用， 本御亲自带走龙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准跪。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "自盘古哪有君与臣带马，"
+        },
+        {
+          "character": "赵德芳",
+          "type": "二黄散板",
+          "text": "本御带马表寸心。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "臣大胆谢千岁忙跨金镫，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准上马。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "得意洋洋发笑声。"
+        },
+        {
+          "character": "寇准",
+          "type": "笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "喳！这是什么地方，大惊小怪的！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "寇准下。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "二黄散板",
+          "text": "寇卿上了马能行， 闷坐宫中等信音。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵德芳、太监同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同上。二班头、马牌自下场门同上。寇准上。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "来在衙前下金镫， 钦奉圣命审奸臣。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "升堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。寇准归大座。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "看堂的，"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "本御史升堂理事，五刑俱要齐备。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "五刑俱已齐备。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "潘洪到来，要他报门而进。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "喳。 唷，天不早了，打官司的怎么还不来呀？没法子，官事，我等着他。"
+        },
+        {
+          "character": "潘洪",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘洪上。"
+        },
+        {
+          "character": "潘洪",
+          "type": "念",
+          "text": "从前做事错，如今后悔迟。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "唔呼呀，些小的御史衙门，倒有些个威风煞气！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "衙门虽小，有点介了味了的。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "叫谁呢？"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "哦，带着跟班的！"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "滚过来！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "哦，这是叫我呢。 过来干什么呀？"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "与你太师爷报门。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "报门也是我的事？"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "嗯，报门。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "好报门就报门。 报——犯官……"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "呃，要叫太师爷。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "什么？太师爷？"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "太师爷。"
+        },
+        {
+          "character": "马牌",
+          "type": "笑",
+          "text": "哈哈哈哈。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "你还当从前呢？镇守雁门关，执掌兵权大印，似乎我这样儿的称呼你一声太师 爷，你连眼皮子都不抬。常言说得好，王子犯法与庶民同罪。将就点吧，嘿嘿， 犯官。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "太师！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "犯官！"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "太师！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "犯官！"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "我打你！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "太师、太师、太师，就太师。这何必生气？不就是一声太师吗？好！ 报——太……犯官告进！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘洪踢马牌一脚，马牌躲。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "势利的小人。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "还得由着我呀。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "我当是何人，原来是小寇儿。请了哇请了。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "潘洪，见了本御史为何不跪？"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "见你若是下跪，见了当今的万岁，老夫我趴伏金阶不成？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "哼……欺我官卑职小。 左右，请过圣命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。寇准起，中场亮高台圣旨。寇准坐斜场大座。潘洪归正场面向里。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "潘洪见驾，吾皇万岁！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "潘洪当面，当堂有刑。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "松刑。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "松刑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马牌拿下锁链，下，上。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "潘洪，"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "圣旨在上，本御史在此，你怎样私通北国，苦害杨家，从实招来，免得皮肉受 苦。讲！"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "臣启万岁：老臣奉主之命，镇守雁门关，白日与胡儿交战，夜晚守城。杨郡马 进京，乃是诬告老臣。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "诬告老臣。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "潘洪！"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "你这卖国的奸贼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马牌至潘洪耳边。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "噢！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "想你位居太师，乃一人之下，万万人之上，你是何等的荣耀。谁想你这老贼贪 心不足，纵容你子潘豹在天齐庙前摆下百日擂台，要将天下英雄一网打尽，你 这老贼也好扬名天下。也是那杨老将军家规不严，杨七将军私出府门，行至在 天齐庙前，见你子在擂台之上洋洋得意。杨七将军性如烈火，上得擂台，三拳 两足，将你子潘豹打死！你就与杨老将军抓袍掠带，同上金殿面见当今。好一 位有道的明君，不忍加罪，反与你两家解和。你这老贼怀恨在心，修书一封， 下到北国胡儿那里，打来了连环战表。你这老贼在金殿之上挂了帅印，单单要 那杨老将军以为前站先行。那杨老将军上殿，连辞数本，万岁不准。无奈，要 在金殿之上讨一名保官。万岁就命呼延老将军以为他杨家的保官。你这老贼也 要讨一名保官，想这满朝文武，谁来保你。偏偏那贺朝进与你这老贼同党，他 就做了你的保官，你二人正好狼狈为奸！杨老将军无奈，只得去至瓦桥三关， 调他六子同灭胡儿。黄道日期不准他父子出兵，黑道日期方准他父子出马。偏 偏他父子又得胜回营，你就该大开城门，迎接他父子进城，才是你做元帅的道 理。你反命那贺朝进带领五百名雁翎刀手，把守在雁门关，对杨老将军言道： 必须将北国胡儿俱要斩尽杀绝，方准他父子进城。想北国胡儿，犹如潮水一般， 一时焉能斩得尽，杀得绝。杨老将军万般无奈，他就杀一阵败一阵杀一阵败 一阵，败至在两狼山下！他父子被困在两狼山，杨老将军就命杨七将军回转雁 门搬兵求救。你这老贼一见杨七将军，将他诓下马来，用酒劝醉，绑在花标之 上，射了他一百单三箭，将他射死！你这打子的仇恨也就报了。怎么？你还按 兵不动吗？那杨老将军只为放心不下，又命杨六将军杀出重围，探听下落。杨 老将军被困在两狼山，盼兵兵不到，望子子不归，白日受饥饿，夜晚被风吹， 万般无奈，就碰死在李陵碑下！杨六将军闻得他父已死，进京汆下一状，万岁 命前任刘御史审问，审得是不清不明，被八千岁金锏坠死。万岁又发金牌，连 夜调本御史进京，审问你这老贼。我想你这老贼，为臣不能尽忠，为子不能尽 孝，我把你这不忠不孝，卖国欺君，本御史岂能容得！"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "老贼不信抬头看， 本御史不比前任的官。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "衙役",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "打。"
+        },
+        {
+          "character": "衙役",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "且慢，我乃皇亲国戚，你们哪一个敢打！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "说什么皇亲国戚我不敢打， 打的是谋朝篡位的臣。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "打。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "趴下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘洪向内趴。马牌打潘洪。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "一十！二十！三十！四十打完！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马牌拿夹棍。"
+        },
+        {
+          "character": "潘洪",
+          "type": "二黄导板",
+          "text": "上堂来责打我四十板，"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "大刑到哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马牌掷夹棍于潘洪面前。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "这是什么？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "这个呀？伺候太师爷您的。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "不用。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "少时就用。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "往下拿。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "不成，我的脾气上来了，我偏知道往上拿。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "听你之言，莫非与老夫结扣？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "不够？不够再着巴压合烙哇！"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "矮了？你垫块砖呀。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "罢了哇罢了。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "大了？这还是小三号的呢？说好的吧，潘老大爷。"
+        },
+        {
+          "character": "潘洪",
+          "type": "二黄原板",
+          "text": "只打得两腿血淋淋。 咬定了牙关不招认， 看你把我怎样行。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "潘洪，"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "万岁在那里问你，怎样私通北国，苦害杨家，速速招来！"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "无有什么招的！"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "人来看过铜夹棒， 看他招承不招承。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "夹起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘洪向内跪。四青袍同夹潘洪手，二班头同夹潘洪脚。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "夹起来了。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "问他有招无招？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "有招没招？"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "无有什么招的。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "没招。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "收！"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二班头同拉。潘洪昏。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "太师爷晕刑。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "松刑。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "松刑喽。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二班头同撤刑具。潘洪面朝外。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "潘洪。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "万岁又在那里问你，怎样苦害杨家，按兵不动，谁是同谋？"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "若问同谋之人，有你在内。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "人来看过红铁链，"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "寇准",
+          "type": "二黄散板",
+          "text": "看他承招不承招。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二班头同架起潘洪。马牌用红铁链烤潘洪，潘洪昏。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "太师爷气闭了！"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "五刑用尽，老贼并无半点口供，竟而气绝身亡，哎呀，这、这、这、这……"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "老爷别着急，人不动心不能死。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "不然便怎么样？"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "一口凉水就得。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "快些取来。"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "喳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马牌向潘洪喷水。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": "马牌",
+          "type": "白",
+          "text": "太师放了个屁。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "潘洪",
+          "type": "二黄原板",
+          "text": "昏昏沉沉心神不定， 悠悠荡荡又复生。 猛然间睁开了昏花眼，"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": "潘洪",
+          "type": "二黄原板",
+          "text": "我面前站定了对头人。 有老夫进西宫启奏一本， 管叫你小寇儿活不成。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "太师不必如此，待我将此事推在杨郡马的身上，与太师无干就是。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "但凭于你。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘洪下。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "且住！五刑用尽，老贼并无半点口供，不免再去南清宫商议。 来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同允。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "带马打道南清宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": "禁卒",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒上。"
+        },
+        {
+          "character": "禁卒",
+          "type": "念",
+          "text": "奉了太爷命，用酒灌潘洪。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "我，禁卒的便是。只因我家太爷审问潘洪老贼，五刑俱已用尽，并无半点口供， 是八贤爷有言在先，有何事不明，去至南清宫领教。是我家太爷去至南清宫， 与八贤爷定下一计，在南清宫假设阴曹一座，命我们大家扮鬼的扮鬼，扮判 的扮判。看天时不早了，就此前往。正是："
+        },
+        {
+          "character": "禁卒",
+          "type": "念",
+          "text": "太爷清如水，衙役扮小鬼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵德芳戴阎君面具上，上高台。寇准戴判官面具上，归大座。四青袍戴小鬼面具同上。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "众鬼卒。"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "噢！"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "将潘洪押上来。"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "噢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二班头、禁卒戴面具押潘洪同上。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "唗！胆大潘洪，你在阳世三间怎样谋害杨家父子？你若招了实口供，将你送回 阳去，还有一朝人王帝主；你若不招—— 众鬼卒！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "噢。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "将他插下油鼎。"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "噢。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "啊？看这大鬼小鬼，我来到了阴曹地府，莫非我死了不成？上面阎君言道：我 若招了实口供，放我还阳，还有一朝人王帝主；我若不招实口供，将我插入这 油鼎。我想这冤仇可解不可结，待我招了罢，我招了罢。"
+        },
+        {
+          "character": "潘洪",
+          "type": "二黄导板",
+          "text": "潘仁美跪殿角一言告禀，"
+        },
+        {
+          "character": "潘洪",
+          "type": "回龙",
+          "text": "尊一声阎君爷细听详情："
+        },
+        {
+          "character": "潘洪",
+          "type": "二黄原板",
+          "text": "皇王爷设下了天齐庙会， 我的儿小潘豹摆擂放名。 杨七郎逞英雄我儿丧命， 因此上打子仇怀恨在心。 到如今我只有那仇人三个，"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "哪三个？我来问你这第一个？"
+        },
+        {
+          "character": "潘洪",
+          "type": "二黄散板",
+          "text": "第一个南清宫八主贤君，"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "这第二个？"
+        },
+        {
+          "character": "潘洪",
+          "type": "二黄散板",
+          "text": "第二个恨的是那御史寇准，"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "这第三个？"
+        },
+        {
+          "character": "潘洪",
+          "type": "二黄散板",
+          "text": "第三个杨六郎是我的仇人。 害杨家都只为打子的仇恨， 也是我公报私灭他的满门。 望阎君开隆恩放我还转， 从今后回阳间我改学好人。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "叫他画供。"
+        },
+        {
+          "character": "班头",
+          "type": "白",
+          "text": "画供。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "供招事实。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘洪画供。"
+        },
+        {
+          "character": "班头",
+          "type": "白",
+          "text": "鬼卒供招呈上。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "众鬼卒，撒去森罗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵德芳、寇准、四青袍同摘面具。四青袍自两边分下。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "大胆的小寇儿，戏耍国家大臣，该当何罪？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "现有你的供招在此，拿去看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘洪将供招扯碎。"
+        },
+        {
+          "character": "潘洪",
+          "type": "白",
+          "text": "哪有我的供招？哪有我的供招？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "带了下去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒押潘洪同下。赵德芳下高台，寇准出座。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "哎呀卿家呀，那贼将口供扯碎，这便如何是好？"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "千岁不必着急，为臣这里还有一张。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "哎呀，真乃智勇双全，卿家在上，受我一拜。"
+        },
+        {
+          "character": "寇准",
+          "type": "白",
+          "text": "这就不敢。"
+        },
+        {
+          "character": "赵德芳、寇准",
+          "type": "同笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵德芳、寇准同亮相。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

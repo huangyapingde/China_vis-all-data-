@@ -1,0 +1,7321 @@
+{
+  "script_id": "04023001",
+  "title": "武松",
+  "alias": [],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "武松",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "武松回家探望他哥哥武大，途中喝醉了酒，经过景阳岗时，在醉中赤手空拳打死拦路伤人的猛虎，从此名闻\n远近。豪绅西门庆唆使潘金莲用药酒毒死丈夫武大。武松到官衙告状，县官受了西门庆贿赂，反打了他四十\n板。武松怒愤填膺，决心寻西门庆复仇。在“狮子楼”酒馆里，将西门庆杀死，然后杀了潘金莲。因而被判\n发配孟州。绿林英雄张青、孙二娘夫妇，在“十字坡”开设一所店房。武松在发配途中宿在这里。因与孙二\n娘言语不合，黑夜之间厮打起来。孙二娘不敌，喊来张青帮助；张青问出武松名姓，遂订交。武松到了孟州，\n孟州管营施忠的儿子施恩慕武松英勇，与他结拜为兄弟。施恩有一座酒馆“快活林”，被绰号“蒋门神”\n的恶霸蒋忠占去，武松替他赶走了蒋忠，夺回“快活林”。蒋忠勾结张都监诬害武松，武松又被发配恩州。\n蒋忠暗派四十名徒弟，买通解差，要在“飞云浦”杀害武松。武松觉察，将他们全都杀死；并改扮差人模样，\n连夜混进孟州城。在“鸳鸯楼”上杀死蒋忠、张都监，缒城逃走。武松在逃亡途中，又遇见张青夫妇，他\n们替武松改扮成行者模样，荐往“二龙山”去聚义。武松行至“蜈蚣岭”，遇着为非作恶的蜈蚣道人黄飞天\n强抢民女张凤琴；不禁大怒，将黄飞天杀死，救出了张凤琴。",
+  "notes": "武松是我国民间传说中的古代英雄人物。这里选取了有关他的故事的《打虎》、《狮子楼》、《十字坡》、\n《快活林》、《鸳鸯楼》、《蜈蚣岭》六个剧目。这六个剧目是根据盖叫天先生的演出本，由中国戏曲研究\n院编辑处田淞、华东戏曲研究院编审室陈西汀共同协助盖先生整理的。整理时，仅对个别词句略加修订。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四猎户同上。"
+        },
+        {
+          "character": "猎户甲",
+          "type": "白",
+          "text": "众位请了。"
+        },
+        {
+          "character": "三猎户",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "猎户甲",
+          "type": "白",
+          "text": "只因景阳岗出了猛虎，拦路伤人，奉了太爷之命，捉打猛虎，就此前往。"
+        },
+        {
+          "character": "三猎户",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四猎户同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "武松",
+          "type": "内白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖五击头〗。武松微醉上，欲吐未出。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好酒！"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "适才离却酒馆门， 要往景阳岗上行。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "俺，武松。离却柴府，寻找哥哥。适才酒馆吃了一回酒，酒家对我言道：“景 阳岗出了猛虎，拦路伤人。”趁天色尚早，就此闯过岗去。"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "甩开大步往前闯， 寻找哥哥走一场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松向前眺望山路，回头看太阳，寻思天色尚早，可以赶过岗去。踉跄而下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虎形上，过场，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松醉步上。"
+        },
+        {
+          "character": "武松",
+          "type": "沽美酒带太平令",
+          "text": "手拿着棍一条， 手拿着棍一条。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松醉望山路。"
+        },
+        {
+          "character": "武松",
+          "type": "沽美酒带太平令",
+          "text": "行几步，哦呵路途遥， 岗道崎岖路难找。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虎啸。武松打个寒噤。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "武松",
+          "type": "沽美酒带太平令",
+          "text": "耳听得声声虎啸。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松走圆场。虎形上，武松蓦然见虎，大惊。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "俺呵！"
+        },
+        {
+          "character": "武松",
+          "type": "沽美酒带太平令",
+          "text": "吓得俺魂飞胆销！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松向左右让虎形，虎形猛扑武松，武松闪开。"
+        },
+        {
+          "character": "武松",
+          "type": "沽美酒带太平令",
+          "text": "战兢兢，百忙里找不出山岗路道。 （虎形扑武松，武松用棍打虎形，虎形由武松身上窜过，转身向武松猛扑；武松踢虎形，用棍打，棍折断， 武松右手抓住虎尾，左手按虎头，力击三拳，至虎形不能动，抓起抛入山涧。酒涌上，吐出。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四猎户同上。"
+        },
+        {
+          "character": "四猎户",
+          "type": "同白",
+          "text": "何人将虎打死？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "俺乃武松，将虎打死。"
+        },
+        {
+          "character": "四猎户",
+          "type": "同白",
+          "text": "好，随我等禀报太爷知道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": "四猎户",
+          "type": "stage",
+          "text": "《狮子楼》"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "武松",
+          "type": "内白",
+          "text": "土兵，带路！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土兵引武松同上。"
+        },
+        {
+          "character": "武松",
+          "type": "二黄摇板",
+          "text": "一日离家一日深， 好似孤雁宿寒林。 土兵带路往家奔——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土兵、武松同走小圆场。"
+        },
+        {
+          "character": "武松",
+          "type": "二黄摇板",
+          "text": "不觉来到自家门。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "衙前有事，速报我知。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土兵自上场门下。武松掸身上灰尘，看门。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "为何将门开放？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松进门，走小圆场。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哥哥！嫂嫂！哥哥！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松见灵牌，大惊。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊！灵牌！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松急取灵牌观看。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "武大之位！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松跪哭。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哥哥呀！"
+        },
+        {
+          "character": "武松",
+          "type": "哭头",
+          "text": "哭一声兄长，啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘金莲披红衣照镜子上。"
+        },
+        {
+          "character": "武松",
+          "type": "哭头",
+          "text": "兄长啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松立起，见潘金莲，潘金莲急回身跑下。武松惊疑。"
+        },
+        {
+          "character": "武松",
+          "type": "唱",
+          "text": "身穿大红为哪桩？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊？怎么嫂嫂身穿大红？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松寻思，点头会意，搁下灵牌，向屋中四望，看有无意外情况。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "有请嫂嫂。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘金莲着素服上。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "念",
+          "text": "大郎去世早，教人泪暗抛。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘金莲用手指沾唾沫，假作流泪。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "嫂嫂！"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "兄弟，喂呀……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘金莲假哭。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "啊兄弟，几时回来的？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "今日回来的。啊，嫂嫂，我哥哥得何病而死？"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "心疼病而死。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我兄长从无此病。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "有道是“天有不测风云，人有旦夕祸福”。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好！好一个“人有旦夕祸福”。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松逼视潘金莲。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "何人买的棺木？"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "乃是那西……"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "西甚么？"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "西邻王妈妈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松一怔，想到王婆不是好人。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "何人盛殓？"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "何九叔盛殓。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好，明日特备水酒，酬谢街邻。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "理当如此。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "天色不早，嫂嫂歇息去吧。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "兄弟，一路之上多受风霜之苦，你也早早安歇罢。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "嫂嫂，兄长一死，我要守孝灵前。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "既然如此，待嫂嫂陪伴于你。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松冷淡。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "嫂嫂安歇。不用！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘金莲轻薄地靠近武松身旁。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "兄弟一人烦闷，还是嫂嫂陪伴于你。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松露怒容。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "不用！哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松联想兄长之死，不禁伤心。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "兄长啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘金莲假哭。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "喂呀大郎啊！ （潘金莲拂袖下。武松望潘金莲下，气忿，搓手，关门，坐下，望灵牌，望潘金莲房间，凝想，点头，料兄 长之死定有缘故。）"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哥哥呀，哥哥！你若死得不明，我与你申冤报仇……明天再作道理。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松欲睡。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "唉，心中有事，如何睡得稳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鸡鸣。土兵上。"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "来此已是。 二爷开门来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松惊醒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "门外哪一个？"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "二爷！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "土兵来了，待我开门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松开门，出门。"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "二爷，衙前有事。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你且前行，随后就到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土兵自上场门下。武松进门看灵堂上下，略沉思，向内。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊，嫂嫂！"
+        },
+        {
+          "character": "潘金莲",
+          "type": "内白",
+          "text": "兄弟！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我衙前有事。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "内白",
+          "text": "早去早回。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好好看守门户，我去了。正是："
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "兄长死不明，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松出门。"
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "何日得知情！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王婆上。"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "老身王婆。与西门大官人定下一计，用砒霜将武大毒死。闻听武二回得家来。 这小子可不是好惹的，我不免寻个地方躲避躲避便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王婆走。"
+        },
+        {
+          "character": "武松",
+          "type": "内白",
+          "text": "嗨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松上，见王婆，急叫。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "王妈妈请转！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王婆见武松，一怔，立即故作殷勤。"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "武二爷，你几时回来的？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "昨日回来的。"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "家中之事，可曾知晓？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "多谢王妈妈费心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松逼视王婆，王婆神色不安。"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "我应当帮忙的呀。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我特备水酒，酬谢街邻。王妈妈你是要去的。"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "我还有事，多谢武二爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松紧逼王婆。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "王妈妈你去的好！"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "我实在有事。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王婆且说且走，武松发怒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "王妈妈！回来！我们一同前去，走！走！走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松逼王婆走。"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你在头前等我。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王婆下。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "此处离何九叔家中不远，不免去至那里，探听虚实。正是："
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "要知心腹事，但听口中言。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松走圆场。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "来此已是，九叔开门来！"
+        },
+        {
+          "character": "何九叔",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何九叔自下场门上。"
+        },
+        {
+          "character": "何九叔",
+          "type": "念",
+          "text": "王婆心肠狠，大郎丧残生。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "哪一个？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何九叔开门。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "哦！二爷。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "九叔。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "请进。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、何九叔同进门。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "有座。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "二爷，几时回来的？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "昨日回来的。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "令兄之事，可曾知晓？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我特来领教。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "二爷容禀！"
+        },
+        {
+          "character": "何九叔",
+          "type": "四平调",
+          "text": "细说原因、细说原因： 恼恨王婆狗贱人， 勾引了奸夫西门庆， 害死令兄命归阴。 二爷若还不相信， 银两、骸骨作凭证。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松先接银，后接骸骨。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "这是我兄长的骸骨？"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "武松",
+          "type": "哭",
+          "text": "兄长啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松将骸骨置袖内，银子还给何九叔。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "九叔，将这银两收下。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "我是不能收的。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你大胆收下，有甚么事情，都有我呢。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "好，我就收下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何九叔收银。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "九叔，我特备水酒，酬谢街邻，烦劳九叔替我代请代请。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "是是是，都有我呢。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "小侄告辞了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松出门。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "兄长冤仇恨，今日才得明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "武二爷回来，这桩事情也就好了。命我约请乡邻们，不免到大公家中走走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何九叔出门，倒锁门，走圆场。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "大公在家么？"
+        },
+        {
+          "character": "张大公",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张大公上。"
+        },
+        {
+          "character": "张大公",
+          "type": "念",
+          "text": "老汉今年八十九，不好别的好喝酒。开开门来看，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张大公开门。"
+        },
+        {
+          "character": "张大公",
+          "type": "念",
+          "text": "原来是老九。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "老九，请进。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张大公、何九叔同进门，坐下。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "老九到此，有何贵干？"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "今有武二爷回来，要酬谢街邻，命我约你们一同前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张大公大吃一惊。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "武二爷回来啦，请我们吃酒啊？"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "哦哦哦，那是一定要去的。还有谁呀？"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "还有郓哥。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "哦哦哦，我把门带上，和你一块儿去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张大公、何九叔同出门，张大公倒锁门，同走圆场。"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "有人么？开门来！"
+        },
+        {
+          "character": "郓哥",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥自下场门上。"
+        },
+        {
+          "character": "郓哥",
+          "type": "念",
+          "text": "门外叫喳喳，想必是来买瓜。开开门来看，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥开门，出门。"
+        },
+        {
+          "character": "郓哥",
+          "type": "念",
+          "text": "两个老人家。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "两位老人家请进。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥、张大公、何九叔同进门。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "老人家干甚么来啦？"
+        },
+        {
+          "character": "何九叔、张大公",
+          "type": "同白",
+          "text": "武二爷回来，酬谢街邻，让我们去吃酒。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "好，走，走，走！"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "小孩子，没规矩。请你们家里当家的去。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "现在我当家。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "让我问一问。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张大公向内。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "我说老嫂！"
+        },
+        {
+          "character": "郓母",
+          "type": "内白",
+          "text": "做甚么？"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "你们家里谁当家？"
+        },
+        {
+          "character": "郓母",
+          "type": "内白",
+          "text": "我儿子当家。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "是吧？我把门带上，我们走吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥、张大公、何九叔同出门，郓哥带门。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "到那里，多吃酒，少说话。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "不错，少吃酒，多说话。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "嗳，多吃酒，少说话。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "你放心吧，他不问我，我不说；他要问我，我全给说出来。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "好，那可热闹啦。你要是说出来，我们一个也跑不了哇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥、张大公、何九叔同走圆场。王婆、潘金莲同上，开门，郓哥、张大公、何九叔同进门。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "王婆子，你还有毒药没有？卖给我两包。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "让你少说话！"
+        },
+        {
+          "character": "武松",
+          "type": "内白",
+          "text": "嗨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松上，土兵随上。"
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "大事安排好，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松决心地念。"
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "报仇在今朝！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松进门。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "列位早来了。"
+        },
+        {
+          "character": "郓哥、张大公、何九叔",
+          "type": "同白",
+          "text": "二爷，我们早来了。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "嫂嫂见过街邻。"
+        },
+        {
+          "character": "郓哥、张大公、何九叔",
+          "type": "同白",
+          "text": "大嫂。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "哭",
+          "text": "喂呀……"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "别哭啦，死了个矮子，还有个长子呢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘金莲、王婆同一惊，武松看潘金莲，看王婆，王婆看武松，低头。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊，列位，哪位年长，请来上坐。"
+        },
+        {
+          "character": "郓哥、张大公、何九叔",
+          "type": "同白",
+          "text": "我们依礼而坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥、张大公、何九叔同坐下。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "二爷，这儿还空着一位呢。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "王妈妈，那边厢还空着一席，请来坐下。"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "我在这厢陪伴大娘。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "王妈妈，坐下的好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王婆恐惧。"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "哦，是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王婆不动。武松厉声。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你坐下的好！"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "教你坐下你就坐下，不就得啦吗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王婆坐下。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "土兵，前后门上锁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥、张大公、何九叔同一惊。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "不用上锁；不上大菜，我们不走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土兵锁门。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "列位，俺武松有孝服在身，不能奉陪，你们自斟自饮。 土兵！斟酒抱盅伺候！"
+        },
+        {
+          "character": "郓哥、张大公、何九叔",
+          "type": "同白",
+          "text": "我们自斟自饮，请哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥、张大公、何九叔同饮酒。"
+        },
+        {
+          "character": "郓哥、张大公、何九叔",
+          "type": "同四平调",
+          "text": "酬谢街邻、酬谢街邻， 好酒好肴多饮几巡。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "土兵，酒过几巡？"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "酒过三巡。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊，列位！"
+        },
+        {
+          "character": "郓哥、张大公、何九叔",
+          "type": "同白",
+          "text": "二爷！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "武松不在家中，多劳众位街邻照应，俺今日要敬三杯酒。"
+        },
+        {
+          "character": "郓哥、张大公、何九叔",
+          "type": "同白",
+          "text": "这就不敢。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "土兵斟酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土兵递酒与武松。"
+        },
+        {
+          "character": "郓哥、张大公、何九叔",
+          "type": "同白",
+          "text": "我们自斟自饮。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "这头杯酒，酬谢街邻。"
+        },
+        {
+          "character": "郓哥、张大公、何九叔",
+          "type": "同白",
+          "text": "请哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥、张大公、何九叔同饮，土兵与武松斟酒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "二杯酒，有酒无肴，不成一敬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥、张大公、何九叔同饮，土兵与武松斟酒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "这三杯酒……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥拉武松手。"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "二爷，这第三杯酒，得给王婆子喝。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "却是为何？"
+        },
+        {
+          "character": "郓哥",
+          "type": "白",
+          "text": "没有她，你哥哥还死不了呢！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "王妈妈，这杯酒，你吃了罢！"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "二爷，我不会吃酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松怒将酒泼向王婆脸上。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "列位！俺今日酬谢街邻，非为别事；只为我哥哥死得不明，要在列位台前领教。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郓哥、张大公、何九叔同惊。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "快说！"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "哦呵二爷，我说这个这个……我说那个那个……你问王婆子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松拉住王婆，潘金莲在旁焦急。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我哥哥得何病而死？"
+        },
+        {
+          "character": "王婆",
+          "type": "白",
+          "text": "酒呛心血而亡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘金莲抢说。"
+        },
+        {
+          "character": "潘金莲",
+          "type": "白",
+          "text": "心疼病而死！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松以手遮潘金莲，不许说话，手触潘金莲面，潘金莲踉跄欲倒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "列位！王婆言道，我哥哥酒呛心血而亡；我嫂嫂言道，乃是心疼病而死。她二 人的言语不对。众位街邻，你们不说，土兵，拿刀来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土兵递刀，武松接刀。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "哦呵二爷，我说这个这个……我说那个那个……你问郓哥。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松拉郓哥，看何九叔。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "九叔，你且写好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何九叔一旁写状。"
+        },
+        {
+          "character": "郓哥",
+          "type": "念",
+          "text": "郓哥开言道，二爷你是听：勾引是王婆，凶手是西门庆。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松看潘金莲，冷笑。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你好大胆！ 九叔，写好了无有？"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "状子在此。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松递刀给土兵，接状子，开门，出门，下，土兵随出门，倒锁门，下。"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "唉，喝的这倒头酒！"
+        },
+        {
+          "character": "何九叔",
+          "type": "白",
+          "text": "怎么骂老九！"
+        },
+        {
+          "character": "张大公",
+          "type": "白",
+          "text": "我们一个也跑不了哇。 王婆子，走罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张大公用腰带系王婆，郓哥从王婆背后用头顶住，押王婆同下，何九叔、潘金莲随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "西门庆",
+          "type": "内白",
+          "text": "啊咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门庆上。"
+        },
+        {
+          "character": "西门庆",
+          "type": "念",
+          "text": "两膀千斤力，英雄无人敌。霸占潘金莲，"
+        },
+        {
+          "character": "西门庆",
+          "type": "笑",
+          "text": "呵呵呵……"
+        },
+        {
+          "character": "西门庆",
+          "type": "念",
+          "text": "好个美貌妻。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "楞儿暗上。"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "在下西门庆。是我调戏潘金莲，买通王婆，害死武大。闻听武二回来，必须躲 避躲避。 楞儿，哪里僻静？"
+        },
+        {
+          "character": "楞儿",
+          "type": "白",
+          "text": "狮子楼。"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "好，带路狮子楼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门庆走圆场。"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "酒保，酒保！"
+        },
+        {
+          "character": "酒保",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保自下场门上。"
+        },
+        {
+          "character": "酒保",
+          "type": "念",
+          "text": "老店新开，吃酒的前来。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "大爷！"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "哪里洁净？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "楼上洁净。"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "带路上楼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门庆、酒保、楞儿同上楼。西门庆坐。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "用甚么酒？"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "英雄酒。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "好酒一壶哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下楼，下。"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "楞儿，衙前打探，速报我知。"
+        },
+        {
+          "character": "楞儿",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "楞儿下楼，酒保欲上楼，相撞。楞儿出门下，酒保上楼。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "酒到。"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "酒保，这楼上楼下，大爷今日包下了。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下楼摘招牌。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "今儿个有人包下了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保关门，下。"
+        },
+        {
+          "character": "县令",
+          "type": "内白",
+          "text": "胆大武松，上得堂来，胡言乱语。 扯下去打！"
+        },
+        {
+          "character": "衙役",
+          "type": "内白",
+          "text": "一十！二十！三十！四十！"
+        },
+        {
+          "character": "县令",
+          "type": "内白",
+          "text": "轰下堂去！退堂！ （西门庆怕武松寻至，起身，覆楼板。武松手拿状子上，土兵随上。武松极度气恨，阴沉地看一看状子，回 头欲奔县衙与县官拚命，土兵拦住，示意无理可讲。）"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "土兵！西门庆，花银钱，买通上下衙门；我上得堂去，不问青红皂白，责打我 四十大板，将我轰下堂来。我兄长的冤仇，无日得报了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松低头寻思。"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "二爷，那西门庆难道说还胜似那景阳岗猛虎不成！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松猛悟。"
+        },
+        {
+          "character": "武松",
+          "type": "扑灯蛾",
+          "text": "土兵一言来提醒， 武松起下杀人心！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "土兵！"
+        },
+        {
+          "character": "武松",
+          "type": "扑灯蛾",
+          "text": "我要杀那西门庆， 哪里去找寻？"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "二爷！"
+        },
+        {
+          "character": "土兵",
+          "type": "扑灯蛾",
+          "text": "要杀西门庆， 花街柳巷去找寻。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松坚决地说。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "前去寻他！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松扯状子，抛状子，走圆场。"
+        },
+        {
+          "character": "武松",
+          "type": "扑灯蛾",
+          "text": "绕过花柳巷， 尊声列位听："
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你们哪个知道西门庆，俺奉送他十两银。"
+        },
+        {
+          "character": "楞儿",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "楞儿上。"
+        },
+        {
+          "character": "楞儿",
+          "type": "念",
+          "text": "小子生来楞，常在大街横。大爷是好汉，我是个惹祸精； 有人惹着我，一拳一腿挖眼睛。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松拉住楞儿。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我来问你一人。"
+        },
+        {
+          "character": "楞儿",
+          "type": "白",
+          "text": "哪一个？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你可知道西门庆？"
+        },
+        {
+          "character": "楞儿",
+          "type": "白",
+          "text": "是我们大爷。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "现在何处？"
+        },
+        {
+          "character": "楞儿",
+          "type": "白",
+          "text": "现在狮子楼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松与土兵相视会意。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "狮子楼，知道了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松甩开楞儿，楞儿害怕，自上场门逃下。"
+        },
+        {
+          "character": "武松",
+          "type": "扑灯蛾",
+          "text": "听罢小子云， 心中似火焚！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松略沉思。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "土兵！"
+        },
+        {
+          "character": "武松",
+          "type": "扑灯蛾",
+          "text": "我杀了西门庆， 无人与我作证凭。"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "二爷！"
+        },
+        {
+          "character": "土兵",
+          "type": "扑灯蛾",
+          "text": "二爷杀了西门庆， 土兵与你作证凭。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "有你？"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "有我！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "是我的好朋友，请上受我一拜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松向土兵拜毕，手略抚痛处，低头寻思，土兵见武松尚考虑未决，因拔刀在手，以激武松。"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "二爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松微抬头看土兵。土兵猛递刀与武松。"
+        },
+        {
+          "character": "土兵",
+          "type": "白",
+          "text": "钢刀在此！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松看刀，报仇怒火顿起，脱褶子，接刀，交褶子与土兵，命土兵回去。土兵下。武松走圆场。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "来此已是狮子楼，狮子楼！ 呔！西门庆可在楼上？"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "现在楼上。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "尔敢下来！"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "尔敢上来！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "俺来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松劈门，上楼，劈楼板，西门庆架住。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "西门庆！"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你害死我兄长！"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "是我！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "霸占潘金莲！"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "也是我！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "这是尔做的事么？"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "做做何妨！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你好大胆！"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "本来的不小！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松狠笑。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "嘿嘿！"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "嘿嘿！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "嘿嘿！"
+        },
+        {
+          "character": "西门庆",
+          "type": "白",
+          "text": "嘿嘿！"
+        },
+        {
+          "character": "武松、西门庆",
+          "type": "同白",
+          "text": "（同）嘿嘿嘿……"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我恨不能……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松用刀三削西门庆头，武松、西门庆打夺刀，武松杀死西门庆，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张大公、何九叔、郓哥、王婆、潘金莲同上，武松急上，劈门，进门，杀潘金莲。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "衙前走走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下。"
+        },
+        {
+          "character": "张大公、郓哥",
+          "type": "同白",
+          "text": "王婆子，走罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": "张大公、郓哥",
+          "type": "stage",
+          "text": "《十字坡》"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子、小解子同上。"
+        },
+        {
+          "character": "小解子",
+          "type": "念",
+          "text": "手拿无情棍，"
+        },
+        {
+          "character": "大解子",
+          "type": "念",
+          "text": "单打犯罪人。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "伙计，咱们老爷将武松发配孟州，这个差使是咱们哥儿俩的。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "我说伙计，我听说武松可有点儿扎手哇。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "嗳！听那一大套干甚么，到了监里先给他个下马威。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "瞧你的。走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子、小解子同走圆场。禁子暗上。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "到啦。 开门哪！"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "谁呀？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "上差老爷到啦，快着点儿。"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "上差到啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁子开门。大解子、小解子同进监。小解子坐下。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "这儿有个武松吗？"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "有个武二爷。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "甚么武二爷？武松！快把他给我叫出来！"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "是。 有请二爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松自下场门上。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "恨苍天累次里困英雄，"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "二爷！"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "禁大哥呼唤为何情？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "二爷您大喜啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松闻言一怔。"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "二爷，不是这个——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁子以手作杀头状。"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "上差到了，八成儿是把您发配了。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "上差到了，带我去见。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "怎么这武松还不出来呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松推小解子倒地，坐下。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "哪儿一块西瓜皮把我滑了一个跟头。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "二爷出来啦。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "我看看。这就是武松啊？瞧我给他个下马威！ 上面敢是武……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子举棍欲打，被武松怒目吓住。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "二爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子行礼。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "罢了，到此何事？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "将您发配啦。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "发配哪里？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "孟州。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "可曾领了公文？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "都准备好了。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "几时起程？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "马上就走。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好，二位打点行囊，我与众家哥弟分别分别。"
+        },
+        {
+          "character": "小解子、大解子",
+          "type": "同白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子、小解子同出监。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "好凶家伙！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子、小解子自上场门同下。武松向内。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "众家哥弟！"
+        },
+        {
+          "character": "犯人",
+          "type": "内同白",
+          "text": "二爷！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我要先行了。"
+        },
+        {
+          "character": "犯人",
+          "type": "内同白",
+          "text": "再见了。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "禁大哥，开了监门。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "叫禁哥你把这监门开了，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松出监，禁子暗下。大解子、小解子同上。"
+        },
+        {
+          "character": "大解子、小解子",
+          "type": "同白",
+          "text": "二爷！"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "发配孟州走一遭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子、小解子、武松同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "孙二娘",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘上。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "念",
+          "text": "我本江湖女豪家，女豪家，鬓边斜插一枝花；不会穿针并引线，练就武艺走天 涯。 拉硬弓、骑烈马，拐子、流星当玩耍；有人问我名和姓，江湖人称“母夜叉”。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "在下孙二娘。配夫张青，夫妻二人在这十字坡前开了一座店房。看今日天气晴 和，不免把招牌挂起。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "吹腔",
+          "text": "十字坡开店房， 夫妻二人度日光。 将招牌挂在店门外， 那旁又来行路的客商。"
+        },
+        {
+          "character": "武松",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子、小解子、武松同上。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "行来到十字坡， 店主婆拦门坐。 我看她好像妖刁婆， 鬓边斜插花一朵。 二位哥忙把行囊放着， 此店正好早安宿，早把枕头落。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "二位，天色不早，上前打店。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "是啦，我打店去。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "别忙，这儿你来过吗？"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "没来过。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "这大道边儿上，张口一个“坎儿”⑴，闭口一个“坎儿”，回头再叫“坎儿”， 把你绊躺下了。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "瞧你的。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "我也没来过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子看孙二娘。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "这儿有个大嫂子。 大嫂子，请来见礼。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "还礼。施礼为何？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "请问您哪：哪儿是店？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "没带着眼睛吗？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "一对儿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘指招牌。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "往这儿瞧。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "“坡字十”。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "“十字坡”。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "哦，这儿就是店？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "对啦。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "我们三人住一宿多少钱哪？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "纹银二钱八。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "不多，伺候好了，给你来个大把儿抓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子伸手欲摸孙二娘，孙二娘用扇打小解子手。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "嘿！怎么动手动脚的，不会说话！"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "二爷，她说我不会说话。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "待我向前。 店主婆请了。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "客官请了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘打量武松。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我三人借宿一宵纹银多少？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "孟尝君子店，何必门外讲价钱？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我们临行呢？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "临行么？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "吹腔",
+          "text": "临行时敬你三杯酒， 阳关大道任君行。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好，打进去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子、小解子、武松同进店。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "进店来把头抬， 腰刀弓箭两边排。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松暗地关照大解子、小解子。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊二位，此处是黑店。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "现有腰刀弓箭。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "不错。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子拔刀。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "店婆子，店婆子！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "休得莽撞。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "来了，来了。你嚷甚么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子举刀，被孙二娘架住。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "你这儿是黑店！"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "现有腰刀弓箭，不是黑店吗？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "此地离梁山不远，那是防备梁山好汉的。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "小毛贼儿。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "好汉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘推开小解子执刀的手。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "小毛贼儿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子被小解子的刀碰着。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "二位呀！"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "二位哥不必多叙话， 泄露机关把咱拿。 施罢一礼请坐下——"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "客官用些甚么？"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "有甚么好吃往上拿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘有意探询。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "客官家住哪里？"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "店主婆不必盘问咱， 咱本是江湖上“噙牙戴发”。⑵"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子哼唱，武松摆手止之。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "吹腔",
+          "text": "十字坡开店房， 单等来往过路客商。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "吃酒呢？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "吹腔",
+          "text": "吃酒的休嫌咱的杯儿小，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子高毛下位，倒毛回来。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "吹腔",
+          "text": "贪花的人儿到故州。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子跟孙二娘身后同走圆场，孙二娘回脚踢小解子倒毛，碰倒大解子。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "提故州，道故州， 提起故州泪双流。 替兄长杀了西门庆， 披枷带锁到孟州。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘取包子。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "吹腔",
+          "text": "提孟州，道孟州， 现有包儿与馒首。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子接过包子。"
+        },
+        {
+          "character": "小解子",
+          "type": "吹腔",
+          "text": "二爷不吃我咬一口。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子拦住。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "二爷还没吃哪！"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "二爷请用。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松接过包子。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "用手打开肉馒首。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松闻到味道不佳。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "甚么肉的？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "上好的羊肉。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "不用！"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "就罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘放回包子。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "客官，几处安歇？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "我们睡一块儿。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "两处安歇。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "一处好。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "两处好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘执灯。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "上面客官随我来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松向大解子、小解子。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "大家小心，明日早行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘推开门，武松接灯进门，孙二娘暗摸武松腰，武松惊觉。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "店主婆！"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "作甚么？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你这里有酒？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "有酒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "俺的量大。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "俺的酒狠。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "不用！"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "就罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松关门，下。"
+        },
+        {
+          "character": "大解子、小解子",
+          "type": "同白",
+          "text": "店婆子，店婆子！"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "来了，来了。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "我们哥儿俩睡哪儿？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘执灯。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "随我来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘推开门。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "进去罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子接过灯，转交给大解子。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "伙计，你先睡去，我解个手儿就来。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "你可快着来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子下。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "这小子睡觉去了，我去找大嫂子……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子跑上。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "伙计，伙计！了不得啦！"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "床底下有个人头。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "真的？我瞧瞧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子向内一看。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "我说你呀，是砂锅按把儿——怯勺。那哪儿是人头哇？"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "不是人头是甚么？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "那是个夜壶。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "别忙，我再看看。 可不是夜壶嘛。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "得啦，睡觉去罢。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "我睡觉去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子下，跑上。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "哎呀，又了不得啦！"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "又怎么啦？"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "床上有个人身子。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "没有的事，我再瞧瞧去。 甚么人身子，那是个枕头。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "枕头？枕头那么大个儿？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "那叫二人枕。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "二人枕？咱没枕过。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "快睡觉去罢！"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "你快点儿来呀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子下。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "一会儿就来。 这小子，搅了我一个够。 我说大嫂子，请来见礼。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "刚才不是见过礼了吗？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "有道是“礼多人不怪”。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "好一个“礼多人不怪”。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "您久在大道边儿上待着，我考考您的眼力如何？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "你说罢。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "您瞧我们三个人是怎么个人儿？哪么个人儿？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "你们是一犯二解。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "好眼力！您再瞧瞧我们哥儿俩，谁是大解？谁是小解？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "刚才那有胡子的是个大解。您哪，是个小解。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "烂倭瓜——不禁刮。刚才那一位是个小解；我是个大解。他非但是个小解，还 是我手底下拨拉过来、拨拉过去这么一个小跑儿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子暗上，抓住小解子。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "好哇！谁是你的小跑儿？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "嘿，你呀，听错啦！我跟大嫂子说，咱们哥儿俩有点饿了，让大嫂子给咱们哥 儿俩拨拉过来、拨拉过去来这么一个小炒儿，咱们哥儿俩好喝酒。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "小跑儿，小炒儿，音同字不同。睡觉去罢！"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "别忙，我还没解手儿呢。你先睡罢，我一会儿就来。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "你磨烦甚么！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子下。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "大嫂子，你别瞧我们哥儿俩打打闹闹的，我们还是门儿亲戚哪。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "甚么亲戚？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "我呀，是他的姐夫，他是我的小舅子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子暗上，抓住小解子。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "谁是你的小舅子？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "谁说你是小舅子了！我跟大嫂子说，刚才进店的时候叫钉子把我的袄袖刮破了， 我跟大嫂子借根针线缝缝我的袄袖子。"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "小舅子，袄袖子，又是音同字不同。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "瞎打哪门子岔，睡觉去罢！"
+        },
+        {
+          "character": "大解子",
+          "type": "白",
+          "text": "你可快着来呀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子下。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "大嫂子！"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "你怎么还没睡呀？"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "还没睡呢。大嫂子，您挨哪儿睡呀？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "就在那边儿小屋里。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "几个人哪？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "就我一个人儿。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "一人儿多闷得慌啊；我跟您……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子欲拍孙二娘肩，被孙二娘推开。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "嘿，怎么动手动脚的！着打罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘、小解子对打，小解子被孙二娘打倒，就势进门。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "关门睡觉。明儿见！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子关门，下。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "且住！方才那一囚犯，道我的店是个黑店，看他关门之时，倒有与我较量之意。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘决意和武松斗一下。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "哼！你就是铜打金钢，铁作罗汉，少时也教你领教领教孙二娘的手段！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘自上场门下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（武松执灯自下场门上，巡视室内，掷灯，上桌，睡下。孙二娘上，用水浇湿门轴，拔簪拨门，进门，摸到"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "武松身旁，武松惊醒坐起，孙二娘卧爬虎，武松用腿探索，孙二娘跪地下腰，接翻软滚背避开。孙二娘学猫"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "叫。）"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "喵儿……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松镇定。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "猫儿辟鼠，随它去吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松暗听。"
+        },
+        {
+          "character": "武松",
+          "type": "stage",
+          "text": "（孙二娘立起，武松下桌，对摸，手相碰，武松抓孙二娘头，孙二娘低头，窜上桌，翻下，出门，带门倒锁。 武松在屋内拉门，不得开。孙二娘自上场门下。武松挣开手桎，折断链条，解罪裙，脱褶子，以罪裙包手 桎，擎起作为武器，伫立倾听动静。孙二娘持匕首上，摸到门锁，挥刃削锁，破门而入。武松见刃光，朝光 闪方向试探进击，未触及对手，复退回原位。对摸，偶然相碰，同时一惊，彼此都知道了对手所处地位，循 方向摸去，相触。武松故意不动，等待对手进攻，俟孙二娘匕首砍来，扔掉自己的武器，夺孙二娘手中匕首。 相持不放，孙二娘终不支，匕首被武松夺去；武松扫孙二娘爬虎，将匕首猛向孙二娘头部掷出，被孙二娘 乘势摸索进攻。对摸，打五折；武松抄孙二娘扭丝爬虎，孙二娘乌龙绞柱踢武松抢背。武松上桌，孙二娘 抚腿上痛处，倚桌稍歇，武松发现桌前有呼吸声，以掌击孙二娘脸，揪孙二娘上桌，互相扭打，同跳下，接 夺门出，武松追出，抓孙二娘旋爬虎，抄倒扎虎，打抢背。孙二娘下，武松追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘上。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "张青哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张青自下场门上。"
+        },
+        {
+          "character": "张青",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "前面有一大汉，与我打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘下。"
+        },
+        {
+          "character": "张青",
+          "type": "白",
+          "text": "我去会他！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张青脱褶子。武松上，与张青相碰，对打。孙二娘上，三人小打，架住。"
+        },
+        {
+          "character": "张青",
+          "type": "白",
+          "text": "好汉留名。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "在下武松。"
+        },
+        {
+          "character": "张青",
+          "type": "白",
+          "text": "哦，武二爷。慢动手！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "请问二位？"
+        },
+        {
+          "character": "张青",
+          "type": "白",
+          "text": "在下张青。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "孙二娘。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "原来是张青哥嫂，失认了。"
+        },
+        {
+          "character": "张青",
+          "type": "白",
+          "text": "岂敢。适才不知，多有得罪。请至后店一叙。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、张青、孙二娘同扯小圆场，互让。〖尾声〗。武松、孙二娘、张青同下。"
+        },
+        {
+          "character": "武松",
+          "type": "stage",
+          "text": "《快活林》"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠上。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "点绛唇",
+          "text": "武艺高强，心粗胆壮，凭拳棒，独霸一方，孟州俺为上。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "念",
+          "text": "某家膂力有千斤，谁人不知蒋门神。霸占房粮与地土，孟州道上我为尊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四徒弟同暗上。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "某，蒋忠。来到孟州，拜在都监张大人门下，倒也逍遥自在。闻听此处新开一 酒馆，名叫“快活林”，我不免前去潇洒一番。 小子们，好好看守门户。"
+        },
+        {
+          "character": "四徒弟",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四徒弟自两边分下。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "俺不免快活林走走。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "西皮摇板",
+          "text": "迈步且把大街上， 快活林中饮一场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩上。"
+        },
+        {
+          "character": "施恩",
+          "type": "引子",
+          "text": "爱习拳棒，结英雄，远近名扬。"
+        },
+        {
+          "character": "施恩",
+          "type": "念",
+          "text": "豪杰生来性情刚，爱习拳棒与刀枪。结交天下英雄广，孟州道上美名扬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐暗上。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "俺，施恩。爹爹施忠，孟州为官。是俺性爱武艺，专喜结交英雄好汉。新开一 所酒馆，名叫“快活林”。看今日天气晴和。 刘槐，将招牌挂出。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐挂招牌。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠上。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "西皮摇板",
+          "text": "来在街头用目望， 只见酒馆在一旁。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "酒保！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "吃酒的？请进。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠进门，坐正中席上。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "用甚么酒？"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "好酒取来。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "好酒一壶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐取酒，摆上。蒋忠饮酒。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "酒保，酒钱多少？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "三钱二。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "好，酒钱上账。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "我们这儿不记账。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "这酒馆是哪个开的？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "是我们施公子开的。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "好，对他言讲，将这酒馆让与某家开上几天。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "坏了。 公子，您自己上前罢。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "呔！何方狂徒，竟敢在此撒野！"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "住了！俺乃孟州道上人称蒋门神。快将酒馆让与某家，免得自讨无趣！"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "一派胡言，着打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠、施恩同起打，蒋忠打伤施恩左臂。刘槐溜下。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "滚了出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩下。刘槐捧账簿上。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "这店里一切账目，我都清楚，请大爷赏饭吃。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "收拾收拾，将大奶奶接到店中，吉日开张。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐随蒋忠身后，为蒋掸灰尘，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四站堂军、施忠同上。"
+        },
+        {
+          "character": "施忠",
+          "type": "引子",
+          "text": "监管配军，按律施行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子、小解子同上，投递公文。"
+        },
+        {
+          "character": "大解子、小解子",
+          "type": "同白",
+          "text": "武松到。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "押上堂来。"
+        },
+        {
+          "character": "小解子",
+          "type": "白",
+          "text": "有请二爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松上。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "参见太爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松跪下。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "松刑！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小解子松刑。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "现有回文，你二人回差去罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大解子、小解子同下。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "下跪可是武松？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "正是犯民。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "抬起头来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松抬头。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松低头。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "武松！太祖创业之时，定下一条律法，所有人犯，发配到此，先打一百杀威棍。 左右，扯下去打！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "太爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩自下场门暗上。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "是犯民替兄报仇恨， 一路之上受苦情。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "施忠",
+          "type": "吹腔",
+          "text": "太祖爷留下杀威棍， 犯人到此不容情。 人来与我扯下打——"
+        },
+        {
+          "character": "施恩",
+          "type": "吹腔",
+          "text": "施恩向前有话云。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "你来作甚？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "武松在景阳岗拳打猛虎，与民除害；替兄报仇，杀了西门庆，也是丈夫所为。 况且发配到此，已然无罪，爹爹就该饶恕于他。"
+        },
+        {
+          "character": "施忠",
+          "type": "白",
+          "text": "是呀，发配到此，也就无罪了。 本官念你景阳岗打虎，与民除害，杀死西门庆，替兄报仇，将你宽恕。倘若生 事，定要加罪于你。退堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四站堂军、施忠同下。武松起立，向外行走。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "壮士！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我与公子素不相认，为何这般恩待于我？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "此处不是讲话之所，转至花园。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩同走圆场。家院自下场门迎上。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "请问公子尊姓大名？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "在下施恩。方才大堂之上，乃是家父。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松感到突然。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "原来是施公子，失认了。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "岂敢！闻听壮士在景阳岗拳打猛虎，与民除害；又替兄报仇，在狮子楼杀了西 门庆，令人钦佩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松因施恩提潘金莲与西门庆事，微带愧色。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "惭愧呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩自悔失言。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "大丈夫所为！啊壮士，我有一言，不知当讲不当讲？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "有何金言，公子请讲。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "我有意与壮士结为金兰之好，不知意下如何？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "且慢，俺武松乃一介武夫，怎好高攀？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "四海之内，皆为兄弟。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "高攀不上。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "兄长不必推辞。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "从命了。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "你我各叙年庚。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "在下二十八岁。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "小弟二十四岁，你是大哥。 来来来，看香案伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。家院摆香案。武松解去罪裙。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "大哥请来上香。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你我一同上香。请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩同跪下。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "将身跪在地埃尘，"
+        },
+        {
+          "character": "施恩",
+          "type": "吹腔",
+          "text": "弟兄结拜叩神灵。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "要学那桃园三结义，"
+        },
+        {
+          "character": "施恩",
+          "type": "吹腔",
+          "text": "莫学孙庞斗智人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩同拜，同起立。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "撤去香案。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院撤香案。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "贤弟引我去见伯母。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "少时再去。 酒宴摆下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小吹打〗。武松、施恩同入座。家院斟酒，下。"
+        },
+        {
+          "character": "武松、施恩",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩同饮酒。施恩左臂疼痛，停杯不饮。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "贤弟因何停杯不饮，莫非有心事？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "无有甚么心事，请来饮酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩举杯，未饮放下。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊，贤弟，我看你定有心事，与我说明，我与你分忧解愁。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "无有甚么，大哥请酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩举杯看膀。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松起疑。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哦呵明白了。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "明白甚么？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你乃宦门公子，与我武松结拜，想是玷辱于你，是也不是？俺便去也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松起立离席。施恩离席拉武松。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "啊，大哥，不必错疑，小弟实有心事在怀。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "有心事，就该与我说明。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "大哥有所不知，是我前番背着家父，开了一所酒馆，名叫“快活林”。那一日 来了一个恶霸，名唤蒋忠，人称“蒋门神”，吃酒不把钱，反将我左膀打伤， 酒馆夺去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩看膀，膀痛。武松一怔，知施恩有要他报仇之意。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "原来如此。好，你我既结为生死弟兄，贤弟仇人，就是愚兄仇人。他住在甚么 地方？我前去寻他。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "那蒋忠武艺高强，兄长不可鲁莽。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松冷笑。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "他非三头六臂，俺何惧于他？走！"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "看天色已晚，我们留他一夜，明日再去寻他。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好，就依贤弟。后堂拜见伯父、伯母。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "武松、施恩",
+          "type": "同白",
+          "text": "正是："
+        },
+        {
+          "character": "施恩",
+          "type": "念",
+          "text": "心中只把蒋忠恨。"
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "明日夺回快活林。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "兄长请至后面，明日会他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩暗喜，随武松同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四店伙抬酒同上，店东甲随上。"
+        },
+        {
+          "character": "店东甲",
+          "type": "白",
+          "text": "伙计们，贩来好酒，抬回店中去卖呀。"
+        },
+        {
+          "character": "四店伙",
+          "type": "同白",
+          "text": "走哇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场，同进店，四店伙抬酒同下，店东甲坐店内。"
+        },
+        {
+          "character": "武松",
+          "type": "内白",
+          "text": "贤弟请哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩、家院同上。"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "弟兄行在大街上， 两旁俱是好客商。 贤弟带路往前闯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松走圆场。"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "只见酒馆开道旁。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "来此已是酒馆。 呔！蒋忠滚了出来！"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "啊，兄长，这不是快活林。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哦，愚兄莽撞了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店东甲听门外人声，出门。"
+        },
+        {
+          "character": "店东甲",
+          "type": "白",
+          "text": "这不是施公子吗？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "啊，店东。"
+        },
+        {
+          "character": "店东甲",
+          "type": "白",
+          "text": "不敢。这是哪一位？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "乃是我结拜的大哥，在景阳岗拳打猛虎的武松。"
+        },
+        {
+          "character": "店东甲",
+          "type": "白",
+          "text": "哦，这就是武二爷，请来相见。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "兄长，这是我的老友，要见见大哥。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "店东甲",
+          "type": "白",
+          "text": "啊，武二爷，在景阳岗拳打猛虎，令人钦佩。今日得见，我要把敬三大杯。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "萍水相逢，怎敢叨扰。"
+        },
+        {
+          "character": "店东甲",
+          "type": "白",
+          "text": "四海之内，皆为朋友。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "扰你三杯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩、店东甲同进店。店东甲敬酒。武松接杯，看酒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松饮。店东甲敬第二杯酒。武松看酒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哦！果然好酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松饮。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "来来来，还有一杯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店东甲敬第三杯酒，武松饮完。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "多谢了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩同出店。店东甲下。武松看施恩。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好酒！"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "三杯酒下咽喉我的心中快爽！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松走圆场。店东乙上。"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "只觉得两膀力却似金刚。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松看酒馆。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "来此已是酒馆。 蒋忠滚了出来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店东乙一惊。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "啊，兄长，这还不是的。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哦，还不是的。愚兄又莽撞了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店东乙出门。"
+        },
+        {
+          "character": "店东乙",
+          "type": "白",
+          "text": "哎，这不是施公子吗？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "店东乙",
+          "type": "白",
+          "text": "身后何人？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "乃是我新结拜的大哥，在景阳岗拳打猛虎的武松。"
+        },
+        {
+          "character": "店东乙",
+          "type": "白",
+          "text": "哦，武二爷，景阳岗拳打猛虎就是他！请来相见。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "啊，兄长，这也是我的好友，要见见大哥。"
+        },
+        {
+          "character": "店东乙",
+          "type": "白",
+          "text": "这位就是武二爷么？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "不敢。"
+        },
+        {
+          "character": "店东乙",
+          "type": "白",
+          "text": "你在景阳岗拳打猛虎，为民除害，令人钦佩。我要把敬三大杯。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "是呀，是我贤弟的朋友，扰你三大杯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩、店东乙同进店。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "老先生，你们此处的酒好！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店东乙取酒。施恩见武松贪酒，颇不高兴。店东乙斟酒敬武松。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "叨扰了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松接酒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "老先生请！"
+        },
+        {
+          "character": "店东乙",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "贤弟你吃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩不高兴。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "我不吃。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "待我来饮。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松饮。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "果然好酒！来来来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店东乙敬第二杯。武松饮。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "干。好得很！还有一杯呢，老先生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店东乙敬第三杯，施恩拦住。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "啊，兄长，你不要过了量啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松觉施恩过虑，微笑。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "贤弟呀！"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "贤弟休把兄小量， 细听愚兄说端详： 李太白吃醉酒“嚇蛮”写上， 俺武松吃醉酒能把虎伤。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "贤弟，不妨事。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松饮。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "改日再会。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店东乙下。武松、施恩同出店，武松酒涌上来。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "走，走，走，会会蒋忠去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩看武松，见酒醉，失望。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "啊，兄长，不要去罢！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "怎么不去？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩不敢直说。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊，兄长，今日天色已晚，我们明日再去的好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松醉眼看天色。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "天色还早，走走走！"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "不是呀，你吃得醺醺大醉，此去焉是蒋忠的对手！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松闻言大怒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "听一言来怒满膛， 英雄头上冒火光。 此番去把酒馆往， 管教蒋忠吐血亡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松向施恩表示不曾醉。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "走，走，快走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松走圆场。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "贤弟，怎么还不曾到？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "那……就是快活林。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哦，那就是快活林，贤弟随愚兄去吃酒，吃酒。来呀，来呀，快走几步！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩、家院同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋大娘上。"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "西皮摇板",
+          "text": "我在后店安排定， 迎接买卖吃酒人。"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": "在下蒋大娘。大爷出外习演拳棒，看天气晴和，不免将刘槐唤出，也好开张做 买卖。 刘槐哪里？"
+        },
+        {
+          "character": "刘槐",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐上。"
+        },
+        {
+          "character": "刘槐",
+          "type": "念",
+          "text": "听说叫刘槐，两腿跑得快。刘槐就是我，我就是刘槐。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "参见大奶奶。把我叫出来，有甚么吩咐？"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": "今日天气晴和，挂招牌做买卖。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐拿招牌。"
+        },
+        {
+          "character": "刘槐",
+          "type": "念",
+          "text": "招牌挂，挂招牌，忙将招牌挂出来。有吃酒的上这儿来！"
+        },
+        {
+          "character": "武松",
+          "type": "内白",
+          "text": "贤弟，请哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、施恩、家院同上。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "贤弟，怎么还未到？"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "这就是快活林。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松拉施恩膀，施恩伤痛。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "哎哟！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "贤弟，不妨事罢？愚兄莽撞了。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "不妨事，不妨事。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我们走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施恩看左膀，看武松醉状。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "兄长，小弟左臂疼痛，不能与蒋忠厮打，我不去了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松冷笑。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好，贤弟请回。 （施恩回身下，家院随下。武松脱褶子欲进店，刘槐出门，被撞跌倒，起身，要打武松，武松一拨，刘槐跌 下。武松摘了招牌，进门。蒋大娘站起来看武松。武松一脚踏桌上，以轻鄙的眼光看蒋大娘，掷招牌打中蒋 大娘脚。）"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": "哎哟！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋大娘坐下。武松坐下，拍桌大叫。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "酒保！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "来啦，来啦！你干甚么的？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "吃酒的！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松以手碰刘槐下巴，刘槐急让开。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "吃甚么酒？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好酒拿来。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "好酒一壶哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐拿酒壶、酒杯。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "酒到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松看酒壶、酒杯，嫌小，掷杯、壶于地，打着刘槐脚。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "取大坛来！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "哎呦！怎么往脚上扔啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐拾起酒壶、酒杯，下，抱大坛、大碗复上，摆桌上。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "酒到。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "打去泥头！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐打去坛上泥头，武松吹泥土，迷刘槐眼。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "怎么往眼里吹！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "斟酒！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "卖酒的不斟酒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "斟是不斟？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "就是不斟。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你不斟？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "我不斟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松拿碗欲打刘槐。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "斟，斟……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐斟酒，武松饮酒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好酒！酒保，此处可是快活林？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "正是快活林。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "这座酒馆，是哪个开的？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐背供。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "怪不得这么横哪，他还不知道这店是谁开的呢！我来跟他道道字号。 我告诉你说：这个酒馆儿是蒋大爷开的。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哪一个？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "孟州道上，人称蒋门神蒋大爷开的！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "敢是那蒋忠？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "要叫大爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松知道确是找对，自言自语。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哎，不错。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐以为武松同意叫大爷。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "本来的不错。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "酒保，你叫甚么名字？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "你问我呀，嘻嘻，我叫刘槐。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你怎么叫刘槐呢？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "我爸爸姓刘，我妈养我的时候，在槐树底下养的，所以叫刘槐。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "刘槐！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "在这呢。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我来问你：那蒋忠他往哪里去了？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "你问我们大爷呀，他到郊外练拳去了。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哦，练拳去了。几时回来？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "那可没有准儿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松看看蒋大娘，吃酒，少停。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "刘槐，我与蒋忠是好朋友，他不在店中，我就在此等他一等。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "喝！有这样的朋友！ 你爱等你就等罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松看蒋大娘，渐渐心头火起。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "等他烦闷，还是饮酒。 （武松扔酒碗，左脚踏凳，右脚登桌上，抱坛喝酒，刘槐仰面倚桌上接饮流下的酒，武松放下坛子，砸刘槐 鼻子。）"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "哎呦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下地。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好酒哇，好酒！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "七八十年的老酒，怎么会不好哪？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松用坛子打刘槐肚子。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "不好！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "哦，不好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松指蒋大娘。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "刘槐，她是何人？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "你问的是她呀，我们蒋大奶奶。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "她是蒋忠的老婆？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "要叫蒋大奶奶。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "叫她过来，陪你二爷吃酒。"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": "刘槐，刘槐！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "来了，来了。"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": "他说甚么？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "没说甚么，大奶奶。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "刘槐！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "来了，来了。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "快些叫她过来！"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": "刘槐，刘槐！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "来了，来了。"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": "他到底说的甚么？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "他胡说八道，没说甚么。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "刘槐，刘槐！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "来了，来了。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "怎么这样慢腾腾的！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "嘿，我可告诉你：你酒喝多啦，可别胡说八道的。要让我们大爷知道，三条人 命。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": " 怎么？ 我们大爷知道，活活把你给打死。打死你，吓死我，逼死我们大奶奶。 哎——𠲔！慢说是蒋忠的老婆，就是蒋忠他娘，也要陪伴二爷吃酒。 住了！胆大狂徒，竟敢在此撒野，可知道蒋大奶奶也不是好惹的！ 着打！ （武松举坛子向蒋大娘掷去，刘槐从后面抱武松，蒋大娘接着坛子向武松掷回，武松低头让过，坛子恰好打 中刘槐身上。刘槐钻到桌下。武松与蒋大娘小打，擒住蒋大娘。）"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "将你放在酒缸里面！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松丢蒋大娘，蒋大娘下。刘槐欲下，见武松回身，复钻进桌下。"
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "泼妇来撒刁，怒恼俺英豪。一怒打酒馆，你这买卖……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐钻出抱武松腰，武松拧刘槐颈。"
+        },
+        {
+          "character": "武松",
+          "type": "stage",
+          "text": "武松"
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "做不牢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松吐酒，推刘槐倒地，刘槐爬起。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "坏啦，走了根啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松打刘槐耳光。刘槐一挺颈骨。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "哎，好啦！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我在后店等他，快去寻那蒋忠！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下。"
+        },
+        {
+          "character": "武松",
+          "type": "stage",
+          "text": "刘槐"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "不好了，大奶奶上哪儿去啦？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐寻蒋大娘。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "呦，怎么跑到酒缸里去了，成了醉螃蟹啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐拉蒋大娘上。"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": "刘槐，这可怎么好哇？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "咱们一块儿去找大爷去罢。"
+        },
+        {
+          "character": "蒋大娘",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐、蒋大娘同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四徒弟、蒋忠同上，刘槐、蒋大娘急同上。"
+        },
+        {
+          "character": "蒋大娘、刘槐",
+          "type": "同白",
+          "text": "大爷，大事不好了！"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "蒋大娘、刘槐",
+          "type": "同白",
+          "text": "来了一个黑大个儿，把店里打得个唏哩哗啦。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "哦，他叫甚么名字？"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "他叫——没问。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "提起你大爷的名讳，也就是了。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "唉，不提您哪，还则罢了；提起了您哪，一块儿打。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠抓刘槐。"
+        },
+        {
+          "character": "刘槐",
+          "type": "stage",
+          "text": "蒋忠"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "哇呀呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠扔刘槐倒地，脱褶子，摘头巾，交与刘槐。蒋大娘、刘槐、四徒弟同下。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "扑灯蛾",
+          "text": "听一言来怒满膛，怒满膛！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠走圆场。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "扑灯蛾",
+          "text": "教俺头上冒火光，冒火光！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠走圆场。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "扑灯蛾",
+          "text": "进得酒馆用目望——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠进店，左右两望寻找。武松自下场门上，打蒋忠脊背，蒋忠摔倒，爬起。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "stage",
+          "text": "蒋忠"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "哇呀呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "扑灯蛾"
+        },
+        {
+          "character": "蒋忠",
+          "type": "stage",
+          "text": "何方小辈敢逞强？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "扑灯蛾"
+        },
+        {
+          "character": "武松",
+          "type": "stage",
+          "text": "怒恼俺武松！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松打蒋忠伏地。"
+        },
+        {
+          "character": "武松",
+          "type": "扑灯蛾",
+          "text": "蒋忠听分明！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠爬起。"
+        },
+        {
+          "character": "武松",
+          "type": "扑灯蛾",
+          "text": "打伤施公子？"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "是俺。"
+        },
+        {
+          "character": "武松",
+          "type": "扑灯蛾",
+          "text": "霸占快活林？"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "也是俺。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松打倒蒋忠，抓蒋忠腿。施恩、家院暗同上。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "服俺不服？"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "服了你了。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "账目呢？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐上，举账本跪在施恩、武松面前。"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "公子，替您保存，原封未动啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松对蒋忠。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "滚出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松挥拳，蒋忠羞下。武松望刘槐，指刘槐向施恩作疑问状。"
+        },
+        {
+          "character": "施恩",
+          "type": "白",
+          "text": "这是我的老伙计。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "刘槐！从今往后，你要小心了！"
+        },
+        {
+          "character": "刘槐",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "贤弟请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘槐给武松掸灰尘。众人同下。"
+        },
+        {
+          "character": "武松",
+          "type": "stage",
+          "text": "《鸳鸯楼》"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二解差、武松同上。"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "英雄累次遭危困， 披枷带锁受苦情。 解差带路往前进——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二解差、武松同走圆场。众蒋徒各带兵刃同上，与二解差相见，互示会意。武松心中疑惑。"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "干甚么的？"
+        },
+        {
+          "character": "众蒋徒",
+          "type": "同白",
+          "text": "卖艺的。你是干甚么的？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "我们是解押犯人的。"
+        },
+        {
+          "character": "众蒋徒",
+          "type": "同白",
+          "text": "解的是谁？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "解的是武松。"
+        },
+        {
+          "character": "众蒋徒",
+          "type": "同白",
+          "text": "在哪儿呢？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "在这儿哪。这就是武松，看明白啦。"
+        },
+        {
+          "character": "众蒋徒",
+          "type": "同白",
+          "text": "知道啦，知道啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众蒋徒同下。武松疑心。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "二位，他们是做甚么的？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "没有甚么，是卖艺的。咱们走罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二解差、武松同走小圆场。众蒋徒同上。"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "干甚么的？"
+        },
+        {
+          "character": "众蒋徒",
+          "type": "同白",
+          "text": "卖艺的。你是干甚么的？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "我们是解押犯人的。"
+        },
+        {
+          "character": "众蒋徒",
+          "type": "同白",
+          "text": "解的是谁？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "解的是武松。"
+        },
+        {
+          "character": "众蒋徒",
+          "type": "同白",
+          "text": "在哪儿呢？"
+        },
+        {
+          "character": "二解差",
+          "type": "白",
+          "text": "在这儿呢。这就是武松，看明白啦。"
+        },
+        {
+          "character": "众蒋徒",
+          "type": "同白",
+          "text": "知道啦，知道啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众蒋徒同下。武松望众蒋徒下，回头逼视解差。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "二位，他们是做甚么的？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "没有甚么，他们是卖艺的。走罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松刚一掉头，解差乙举刀欲砍，武松猛回头，解差乙急将刀收起。"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "他那里藏短刀我暗地留神。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松看二解差，看手桎，寻思如何应付。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊，二位。"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "好说，一位。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "上前看上一看，来到甚么所在？"
+        },
+        {
+          "character": "解差乙",
+          "type": "白",
+          "text": "为你这个差事，我们还得现念书去！我们不认识字，要瞧你自个儿去瞧罢。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松举步，解差乙举刀欲砍，武松猛回头。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "做甚么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "解差乙假装疲倦。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "打呵欠。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你们往下站！"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "是啦。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "站远些！"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "我们站远点儿。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "来此已是飞云浦，飞云浦，哎呀且住！施恩贤弟对我言道：蒋忠买通四十名弟 子，在飞云浦前劫杀于我。就在此处。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松略一沉思。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊，二位。"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "好说，一位。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "看天气炎热，桥下有水，二位方便方便，去了手桎，净净手脸，好来趱路。"
+        },
+        {
+          "character": "解差乙",
+          "type": "白",
+          "text": "哦。 伙计，你听明白他的话没有？他说的“天气炎热，去掉手桎，净净手脸，好来 趱路”。哎，伙计，我跟你说，咱们也该收拾收拾啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "解差乙向解差甲暗示武松已有准备，赶快动手。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "啊？你们收拾甚么？"
+        },
+        {
+          "character": "解差乙",
+          "type": "白",
+          "text": "我们哥儿俩，收拾行囊，好来趱路。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你要把话说开！"
+        },
+        {
+          "character": "解差乙",
+          "type": "白",
+          "text": "没说甚么。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "说开了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "解差乙见势不好，假装腹痛。"
+        },
+        {
+          "character": "解差乙",
+          "type": "白",
+          "text": "没有说甚么。 哎呀不好，我肚子痛！我要解手。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "解差乙向解差甲。"
+        },
+        {
+          "character": "解差乙",
+          "type": "白",
+          "text": "我叫人去！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "回来，回来！ （解差乙下。解差甲拿棍从后面袭来打武松腰，武松接住棍。解差乙引众蒋徒同上。武松挣脱手桎，起打， 杀解差乙、众蒋徒，按住解差甲。）"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "甚么人教你杀我？"
+        },
+        {
+          "character": "解差甲",
+          "type": "白",
+          "text": "蒋忠。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哦，蒋忠！好，报信有功，赏你一刀。去罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松杀死解差甲，取下解差甲身上公文，略作沉思。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "蒋忠啊，儿呀！我若不杀你，非为人也！"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "飞云浦前杀解公， 改扮他人混进城。 桥下有水把脸净——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下坡，洗脸完毕，上岸。"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "谁人不知俺武松？ 黄沙土忙把脸盖定——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松拿刀铲泥土涂脸。"
+        },
+        {
+          "character": "武松",
+          "type": "西皮散板",
+          "text": "连夜进城杀蒋忠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二军士同上。"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "奉了太爷之命，把守城门，就此前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二军士同上城。武松上。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "嘚，开城！"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "干甚么的？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "行路的。"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "这不是你们家，要来就来，要去就去，哪儿那么方便哪？回去罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松走数步，回。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "嘚，开城！"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "怎么又来啦？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "我不是行路的。"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "不是行路的，是干甚么的？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "奉了张大老爷之命，下紧急公文来了。你不开城，误了公文，与我无干。俺便 去也。"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "你回来！你回来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松闻言，知准许进城，脱身上褶子兜土。"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "我说伙计，误了紧急公文，咱们担待得起吗？"
+        },
+        {
+          "character": "军士乙",
+          "type": "白",
+          "text": "快给他开城罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二军士同开城。武松扬褶中泥土，迷二军士眼，乘机进城，下。"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "喝，好大的风啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士乙出城。"
+        },
+        {
+          "character": "军士乙",
+          "type": "白",
+          "text": "我说下公文的，你进来罢！哎，人怎么不见啦？不好！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士甲疑有事故，急将城门关上。"
+        },
+        {
+          "character": "军士乙",
+          "type": "白",
+          "text": "嗨！怎么关城了？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士甲开城。"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "你快进来呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士乙进城，关城门。二军士同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张豪、蒋忠偕二少年乡绅同上。"
+        },
+        {
+          "character": "张豪",
+          "type": "西皮摇板",
+          "text": "躬身施礼楼上请，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同上楼，入座。武松上。"
+        },
+        {
+          "character": "张豪",
+          "type": "西皮散板",
+          "text": "鸳鸯楼上饮杯巡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "送酒人上。"
+        },
+        {
+          "character": "送救人",
+          "type": "白",
+          "text": "送酒咧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松闻人声，藏刀，随送酒人身后，同走圆场，用刀削去送酒人帽子。"
+        },
+        {
+          "character": "送酒人",
+          "type": "白",
+          "text": "哎，没风怎么把帽子刮掉了？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "送救人拾帽子，戴上，上楼，摆酒，正要下楼，武松在楼下挥刀。"
+        },
+        {
+          "character": "送酒人",
+          "type": "白",
+          "text": "怎么打闪啦？怪晃眼的。我来个倒下楼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "送酒人下楼，武松杀送酒人，急上楼，杀死众人，以血题诗。"
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "“武松发配到恩州，我与蒋忠结冤仇；张豪俱是我杀死，武松血溅鸳鸯楼。”"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "且住！待俺去至后面，杀他的满门家眷，连夜滚城逃走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下楼，下。"
+        },
+        {
+          "character": "武松",
+          "type": "stage",
+          "text": "《蜈蚣岭》"
+        }
+      ]
+    },
+    {
+      "scene_id": 22,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞天⑶、黄飞信、黄飞虎、黄飞龙、李二秃头上。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "点绛唇",
+          "text": "带发出家，一方称霸；心胆大，常把人杀，闻名谁不怕！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞天上高台。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "念",
+          "text": "走遍天下任某家，占山劫抢作生涯。腰跨宝剑光闪闪，狠心一动把人杀！"
+        },
+        {
+          "character": "黄飞天、黄飞信、黄飞虎、黄飞龙、李二秃头",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "黄飞天。"
+        },
+        {
+          "character": "黄飞信",
+          "type": "白",
+          "text": "黄飞信。"
+        },
+        {
+          "character": "黄飞虎",
+          "type": "白",
+          "text": "黄飞虎。"
+        },
+        {
+          "character": "黄飞龙",
+          "type": "白",
+          "text": "黄飞龙。"
+        },
+        {
+          "character": "李二秃头",
+          "type": "白",
+          "text": "李二秃头。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "霸占蜈蚣岭，每日下山掳抢，倒也逍遥自在。今日心中烦闷。 众位贤弟，我有意下山，看看可有美貌佳人，也好做一压寨夫人。"
+        },
+        {
+          "character": "黄飞信、黄飞虎、黄飞龙、李二秃头",
+          "type": "同白",
+          "text": "就依大哥。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "唤徒儿们走上。"
+        },
+        {
+          "character": "黄飞信、黄飞虎、黄飞龙、李二秃头",
+          "type": "同白",
+          "text": "徒儿们走上！"
+        },
+        {
+          "character": "众小道士",
+          "type": "内同白",
+          "text": "哎咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众小道士同上。"
+        },
+        {
+          "character": "众小道士",
+          "type": "同念",
+          "text": "自幼习拳棒，习拳棒，掳掠在山岗，在山岗。杀人不偿命，谁敢来逞强！"
+        },
+        {
+          "character": "众小道士",
+          "type": "同白",
+          "text": "参见师父。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "众小道士",
+          "type": "同白",
+          "text": "呼唤弟子，有何吩咐？"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "命你等好好看守山寨，为师下山呵！"
+        },
+        {
+          "character": "黄飞天",
+          "type": "念",
+          "text": "下山掳掠佳人，佳人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞天下高台。"
+        },
+        {
+          "character": "众小道士",
+          "type": "同念",
+          "text": "好与师父成亲，成亲。"
+        },
+        {
+          "character": "黄飞天、黄飞信、黄飞虎、黄飞龙、李二秃头",
+          "type": "同念",
+          "text": "三杯酒，下横膛，"
+        },
+        {
+          "character": "众小道士",
+          "type": "同念",
+          "text": "今晚师父拜花堂。"
+        },
+        {
+          "character": "黄飞天、黄飞信、黄飞虎、黄飞龙、李二秃头",
+          "type": "同念",
+          "text": "好好看守观宇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 23,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张凤琴上。"
+        },
+        {
+          "character": "张凤琴",
+          "type": "引子",
+          "text": "爹娘下世早，终日泪号啕。"
+        },
+        {
+          "character": "张凤琴",
+          "type": "白",
+          "text": "我，张凤琴。爹娘下世，只剩下老仆张义，将我领大成人。今当清明佳节，不 免命张义准备香烛，也好与爹娘上坟插柳。 张义哪里？"
+        },
+        {
+          "character": "张义",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义上。"
+        },
+        {
+          "character": "张义",
+          "type": "念",
+          "text": "东人下世去，门前车马稀。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "小姐呼唤，有何吩咐？"
+        },
+        {
+          "character": "张凤琴",
+          "type": "白",
+          "text": "今当清明佳节，你带了香烛，随我一同前去与爹娘上坟插柳。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "遵命。 车辆走上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "车夫上，张义取香盘，张凤琴出门上车。"
+        },
+        {
+          "character": "张凤琴",
+          "type": "吹腔",
+          "text": "上车辆，往前行， 主仆双双到坟茔。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 24,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松上，走边。"
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "改扮乔装本貌掩，行者头陀总一般。一路不住庵观寺，一心要奔二龙山。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "洒家行者武松。只因大闹飞云浦，血溅鸳鸯楼，杀死张豪、蒋忠满门家眷；多 蒙张青哥嫂，将我改扮头陀模样，又赐我书信一封，将我荐往二龙山。白日不 便行走，只好黑夜而行，趁月色朦胧，甩开大步走遭也。"
+        },
+        {
+          "character": "武松",
+          "type": "新水令",
+          "text": "盘山迈岭路途赊， 逐风飘一身如叶。 破芒鞋随步稳， 破衲任缝结。 恼恨奸邪， 好教俺对荒石迤逦行野。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 25,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义、张凤琴、车夫同上。"
+        },
+        {
+          "character": "张凤琴",
+          "type": "吹腔",
+          "text": "风吹尘滚车轮响， 来到坟茔下车辆。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张凤琴下车，车夫下。"
+        },
+        {
+          "character": "张凤琴",
+          "type": "吹腔",
+          "text": "将身跪倒叩爹娘， 喂呀爹娘啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞天、黄飞信、黄飞虎、黄飞龙、李二秃头自两边分上。"
+        },
+        {
+          "character": "张凤琴",
+          "type": "吹腔",
+          "text": "怎不教儿泪两行。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "长得倒也不错，上前提亲。"
+        },
+        {
+          "character": "李二秃头",
+          "type": "白",
+          "text": "这一老头儿，你身后何人？"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "乃是我家小姐，问她作甚？"
+        },
+        {
+          "character": "李二秃头",
+          "type": "白",
+          "text": "可有人家？"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "有人家无人家，与你甚么相干？"
+        },
+        {
+          "character": "李二秃头",
+          "type": "白",
+          "text": "你看这是我大哥，姓黄名飞天；人称“蜈蚣道”。将你小姐许配我大哥，作一 夫人，你意如何？"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "满口胡言！"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "与我抢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞信、黄飞虎、黄飞龙、李二秃头将张凤琴同抢下，张义拦阻，黄飞天将张义踢倒。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "好不识抬举！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞天下。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "哎呀且住！小姐被人抢去，如何是好！待我拚着老命不要，将他赶上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 26,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松上，走边。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "趁月下，月下奔荒郊， 心忙不辞路途遥。 俺只为替兄杀了嫂——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松急行山路。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "将俺发配孟州道。 多亏了张青恩哥嫂， 改头换脸往前逃； 又赐俺小柬书一封， 二龙山前聚英豪。"
+        },
+        {
+          "character": "张义",
+          "type": "内白",
+          "text": "等着！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松闻人声惊向后看。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "耳边厢又听人喧吵，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义上。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "急忙前去问根苗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义紧随武松，武松疑是有人来拿他，踢倒张义。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "呔！黑夜间行走，定是奸细！看刀！"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "慢来慢来！我不是奸细，我是避难的。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "有话起来讲。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "是，是，是。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "老头儿，你避的甚么难？"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "爷爷有所不知，今日清明佳节，随同我家小姐，上坟插柳，忽然来了一伙强人， 将我家小姐抢……"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "抢甚么？"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "抢了去了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松一怔。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "清平世界，朗朗乾坤，强抢民女！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松想。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "哎呀爷爷！我家小姐，烈性得很，此番被强人逼迫，定然性命难保。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "老头儿，抢你家小姐之人，姓甚名谁，住在何处？"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "此人姓黄名飞天，人称蜈蚣道，就住在前面蜈蚣——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、张义同看岭上。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "岭上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松背供。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "待俺打一个抱不平再走。 老头儿，我有意上山搭救你家小姐，你意如何？"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "爷爷若是救了我家小姐，慢说是老汉，就是去世的东人，也感爷爷大恩大德！"
+        },
+        {
+          "character": "张义",
+          "type": "吹腔",
+          "text": "爷爷请上受我拜， 将我小姐救出来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义在唱中三次趋拜，武松三次退扶。"
+        },
+        {
+          "character": "张义",
+          "type": "哭",
+          "text": "小姐呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松正仰观山势，闻张义哭，怕被人听见，急拦阻。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "老头儿，你且住了哭！"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "我不哭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松抬头望山，张义哭。"
+        },
+        {
+          "character": "张义",
+          "type": "哭",
+          "text": "唉，小姐呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松有些着急。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你且住了号！"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "我不号。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松方一抬头，张义哭。"
+        },
+        {
+          "character": "张义",
+          "type": "哭",
+          "text": "小姐呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松焦急。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义惊怕。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你喘息定了，带洒家前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、张义各整顿衣服，做上山准备。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "听他言不由我怒气生，"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、张义同走圆场。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "何方野道乱胡行！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义摔倒，武松扶起。"
+        },
+        {
+          "character": "武松",
+          "type": "吹腔",
+          "text": "俺武松惯管不平事， 要把野道一扫平。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "爷爷不要走了，前面就是蜈蚣岭上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、张义同望，武松因张义挡住视线，摆手示意张义让过，张义走过一边，武松再摆手，张义再让。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好一座峻岭！ 老头儿，我此番前去，搭救你家小姐，你在此等候，你看山上火光一起，前来 领你家小姐。俺去也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松欲行。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "爷爷请转！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松回身。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "爷爷，方才爷爷言道，山上火光一起，我前来领我家小姐……啊，爷爷，这山 上火光不起呢？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松想到如果自己失败。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "赶快逃命去罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松下。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "好汉已去，恐怕一人不能敌众，我不免约请众乡邻前来帮助于他，也是好的。 就是这个主意。⑷正是："
+        },
+        {
+          "character": "张义",
+          "type": "念",
+          "text": "急急走，急急跑，急急忙忙把乡邻找。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义走圆场，叫门。乡老甲上。"
+        },
+        {
+          "character": "乡老甲",
+          "type": "念",
+          "text": "忽听黄犬吠，何人叩柴扉？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乡老甲出门见张义。"
+        },
+        {
+          "character": "乡老甲",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "张义",
+          "type": "念",
+          "text": "乡亲有所不知情，听我把话说分明：今日来了贼强盗，抢我小姐上山林。"
+        },
+        {
+          "character": "乡老甲",
+          "type": "念",
+          "text": "听一言来吃一惊，不由老汉怒气生。贼子竟敢行霸道，快快去找众乡邻。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义、乡老甲同走圆场。乡老乙上。"
+        },
+        {
+          "character": "乡老乙",
+          "type": "念",
+          "text": "忽听人喧嚷，出门看端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乡老乙出门。"
+        },
+        {
+          "character": "乡老乙",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "乡老甲",
+          "type": "念",
+          "text": "乡亲有所不知情，听我把话说分明：今日来了贼强盗，抢他的小姐上山林。"
+        },
+        {
+          "character": "乡老乙",
+          "type": "念",
+          "text": "听一言来怒气生，大胆贼子乱胡行！集起乡邻追踪影，急急忙忙把锣鸣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乡老乙取锣急敲，众乡人同上。"
+        },
+        {
+          "character": "众乡人",
+          "type": "同白",
+          "text": "何事？"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "我村来了强盗，将我家小姐抢去了，大家随我追呀！"
+        },
+        {
+          "character": "众乡人",
+          "type": "同白",
+          "text": "追！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乡老乙敲锣，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 27,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞天、黄飞信、黄飞虎、黄飞龙、李二秃头带张凤琴同上，进庙。众小道士、丑婆子同迎上。"
+        },
+        {
+          "character": "众小道士",
+          "type": "同白",
+          "text": "师父回来了！"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "与我拜堂成亲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。拜堂。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "你们下面饮酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞信、黄飞虎、黄飞龙、李二秃头、众小道士同下。黄飞天拉张凤琴入座。"
+        },
+        {
+          "character": "张凤琴",
+          "type": "哭",
+          "text": "喂呀……"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "不必啼哭，从了某家，你的造化不小。"
+        },
+        {
+          "character": "张凤琴",
+          "type": "白",
+          "text": "好贼子！"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。武松上，搬石砸门。黄飞天一惊，挥手使丑婆子带张凤琴下。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "何人竟敢来此窥探？ 老道，老道！"
+        },
+        {
+          "character": "丑道士",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑道士上。"
+        },
+        {
+          "character": "丑道士",
+          "type": "念",
+          "text": "老道睡觉头冲北，遇见小鬼拉我的腿，我问小鬼因何故？和尚要把老道毁。"
+        },
+        {
+          "character": "丑道士",
+          "type": "白",
+          "text": "师父何事？"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "有人叫门，快去看来！"
+        },
+        {
+          "character": "丑道士",
+          "type": "白",
+          "text": "谁叫门？待我开门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑道士开门，武松挥刀，丑道士急将门关上。"
+        },
+        {
+          "character": "丑道士",
+          "type": "白",
+          "text": "不下雨怎么打闪？ 师父，没有人叫门。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "你快去开门看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑道士开门，武松杀死丑道士，进门与黄飞天开打，黄飞天败下，武松追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 28,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": "张义",
+          "type": "内西皮导板",
+          "text": "心中只把贼子恨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义、乡老甲、乡老乙、众乡人同上。"
+        },
+        {
+          "character": "张义",
+          "type": "西皮摇板",
+          "text": "抢去小姐乱胡行。 乡邻们一同上山岭——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同蹉步下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 29,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞天上。"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "山上有了奸细，徒儿们哪里！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞信、黄飞虎、黄飞龙、李二秃头、众小道士同上。"
+        },
+        {
+          "character": "黄飞信、黄飞虎、黄飞龙、李二秃头、众小道士",
+          "type": "同白",
+          "text": "何事？"
+        },
+        {
+          "character": "黄飞天",
+          "type": "白",
+          "text": "与我拿奸细！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 30,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（武松急上，寻找张凤琴不见，黄飞信、黄飞虎、黄飞龙、李二秃头、黄飞天同上，同开打，武松杀死黄飞"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "天，黄飞信、黄飞虎、黄飞龙、李二秃头同逃下。）"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "且住！强人已死，待我寻找小姐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松走小圆场。张凤琴上，见武松，惊怕。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "山下有一老头儿，你可认识？"
+        },
+        {
+          "character": "张凤琴",
+          "type": "白",
+          "text": "那是我的管家，我是被强人抢上山来的。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好，待我放起火来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松放火，张义领众乡老同上，众乡老同见武松，疑是强人，举械要打。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "这是恩公。"
+        },
+        {
+          "character": "众乡老",
+          "type": "同白",
+          "text": "哦，好汉子！"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "这可是你家小姐？"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "正是我家小姐。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好，领回家去罢。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "且慢。请问恩公尊姓大名，日后也好答报。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "俺就是景阳岗拳打猛虎的武松。"
+        },
+        {
+          "character": "张义",
+          "type": "白",
+          "text": "哦，原来是武二爷。爷爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张义跪拜。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "请起。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人自两边分下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        },
+        {
+          "character": "武松",
+          "type": "stage",
+          "text": "—————————— ⑴江湖上所用暗语。 ⑵即好汉之意。《水浒》第二十四回中有“武二是个顶天立地噙齿戴发男子汉”之语。 ⑶一般本作“王飞天”。 ⑷另一种演法，此处接念：“乡邻们！帮着和尚拿老道哇！”张义即下，不上众乡人。 ⑸此场或将唱删去，只上众人过场。"
+        }
+      ]
+    }
+  ]
+}

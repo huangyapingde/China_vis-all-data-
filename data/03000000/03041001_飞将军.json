@@ -1,0 +1,1097 @@
+{
+  "script_id": "03041001",
+  "title": "飞将军",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "李广",
+      "hangdang": "老生"
+    },
+    {
+      "name": "李陵",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "汉武帝即位，拜李广为右北平太守。李广猿臂善射，匈奴称为“飞将军”。匈奴南侵，遣后队呐奴假扮贩羊\n人探径；李广防边，亦命乃孙李陵伪装贩马人巡哨。李陵、呐奴相遇，纵兵大战，呐奴败南窜，为李广射死。\n后匈奴王亦中李广箭而逃，避之数载，不敢窥伺右北平。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "突兀、罕占、乌喝、巴图同上。〖点绛唇〗。"
+        },
+        {
+          "character": "突兀、罕占、乌喝、巴图",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "突兀",
+          "type": "白",
+          "text": "匈奴左贤王突兀。"
+        },
+        {
+          "character": "罕占",
+          "type": "白",
+          "text": "右贤王罕占。"
+        },
+        {
+          "character": "乌喝",
+          "type": "白",
+          "text": "前山王乌喝。"
+        },
+        {
+          "character": "巴图",
+          "type": "白",
+          "text": "后山王巴图。"
+        },
+        {
+          "character": "突兀",
+          "type": "白",
+          "text": "众位王兄请了！"
+        },
+        {
+          "character": "罕占、乌喝、巴图",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "突兀",
+          "type": "白",
+          "text": "大单于兴兵袭取汉室长城，谕令各部王公大人，带兵前来，听候启程。你我前 去伺候！"
+        },
+        {
+          "character": "罕占、乌喝、巴图",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、四番将引稽粥同上。大纛旗随上。"
+        },
+        {
+          "character": "稽粥",
+          "type": "引子",
+          "text": "天开北极，鸣镝后，世代威力。"
+        },
+        {
+          "character": "突兀、罕占、乌喝、巴图",
+          "type": "同白",
+          "text": "参见大单于！"
+        },
+        {
+          "character": "稽粥",
+          "type": "白",
+          "text": "众位王公大人少礼，站立两厢。"
+        },
+        {
+          "character": "突兀、罕占、乌喝、巴图",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "稽粥",
+          "type": "念",
+          "text": "风云万里日月寒，东镇三江西贺兰。威力如前加智略，定然今日取长安！"
+        },
+        {
+          "character": "稽粥",
+          "type": "白",
+          "text": "某、匈奴国大单于稽粥是也。只因汉朝景皇帝驾崩，新天子登基，闻听文修武 备，十分严整，俺欲夺取长安，难以进兵。故此悄悄前来，先取北平关，再图 深入。"
+        },
+        {
+          "character": "突兀",
+          "type": "白",
+          "text": "启禀大单于：闻得右北平太守李广，人称“飞将军”，十分英勇，未可轻视。 大单于思之！"
+        },
+        {
+          "character": "稽粥",
+          "type": "白",
+          "text": "孤家现有各部王公大人，雄兵数十万、战将千员，岂惧一李广乎？"
+        },
+        {
+          "character": "突兀、罕占、乌喝、巴图",
+          "type": "同白",
+          "text": "我等虽然不惧，兵家之事，小心为上！"
+        },
+        {
+          "character": "稽粥",
+          "type": "白",
+          "text": "既然如此，传后队大人呐奴见驾！"
+        },
+        {
+          "character": "突兀",
+          "type": "白",
+          "text": "是。 下面听者！大单于有旨：传后队大人呐奴见驾！"
+        },
+        {
+          "character": "呐奴",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呐奴上。"
+        },
+        {
+          "character": "呐奴",
+          "type": "念",
+          "text": "勇力生来似孟尝，奇谋施出胜荆轲。"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "呐奴见驾！"
+        },
+        {
+          "character": "稽粥",
+          "type": "白",
+          "text": "罢了。呐奴！"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "稽粥",
+          "type": "白",
+          "text": "孤命你带领勇士三百人，改扮贩羊客人模样，前去右北平，探听李广消息。随 时回报，就便埋伏彼处，接应孤家大兵。须要小心谨慎，不可露出形迹！"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呐奴下。"
+        },
+        {
+          "character": "稽粥",
+          "type": "白",
+          "text": "呐奴此去，定然成功，尔等可以放心，就此起兵前往！"
+        },
+        {
+          "character": "突兀、罕占、乌喝、巴图",
+          "type": "同白",
+          "text": "啊。 巴图噜！"
+        },
+        {
+          "character": "四番兵、四番将",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "突兀、罕占、乌喝、巴图",
+          "type": "同白",
+          "text": "起兵前往！"
+        },
+        {
+          "character": "四番兵、四番将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖泣颜回〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李陵上，起霸。"
+        },
+        {
+          "character": "李陵",
+          "type": "念",
+          "text": "帐下貔貅十万兵，年少忠勇显威名。世代箭法称无敌，父子——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李陵走小圆场。四文堂自两边分上。"
+        },
+        {
+          "character": "李陵",
+          "type": "念",
+          "text": "英雄镇北平！"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "某、李陵。今乃秋令巡狩之期，祖父传令城外射猎。不免全身披挂，前往伺候。 左右！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "打道校场！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。众人同走圆场。"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "来到校场。"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "小心伺候！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大吹打〗。四文堂、四汉兵、四汉将引李广同上。大纛旗随上。"
+        },
+        {
+          "character": "李广",
+          "type": "引子",
+          "text": "世代英雄，负功勋，侯印难封。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李陵上。"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "参见祖父！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "李广",
+          "type": "念",
+          "text": "威镇北平熊虎旗，将军神箭世间稀。功劳不曾输樊哙，天子犹然叹数奇。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "老夫、右北平太守李广。今乃秋令巡狩之期，特到校场，点齐兵将出城，以射 猎为名，就便巡察边境。 李陵听令！"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "命你带领三百精兵，先行出城，四路边塞，查关巡哨，以防番奴潜来窥探！不 得有误！"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "李陵",
+          "type": "念",
+          "text": "巡边如虎视，防敌似狼贪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李陵下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "众位将军！"
+        },
+        {
+          "character": "四汉将",
+          "type": "同白",
+          "text": "太守！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "朝中有人议论：说我旌旗不整，营伍懈怠，不胜大将之任。公等以为如何？"
+        },
+        {
+          "character": "四汉将",
+          "type": "同白",
+          "text": "将军爱恤士卒，同甘共苦，临阵当先，议功退后，古之名将，多不如也。浮言 何足可信？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "公等既然知我，又何言哉！今日出城，名虽射猎，实为防边。倘然遇敌，必须 奋勇当先。吩咐就此起马。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "自古军令重如山，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广卸蟒。"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "哪怕塞上北风寒？ 古今多少忠烈汉， 为国宣劳乃奇男。 杀敌致果平世乱， 斗大的金印有何难？ 愧我一身经百战， 生不封侯死也惭。 宣令已毕休怠慢， 与国立功定楼兰。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵扮赶羊人同上，呐奴扮羊贩带刀上。"
+        },
+        {
+          "character": "呐奴",
+          "type": "唱",
+          "text": "改扮贩羊将路探， 过了隘口爬了山。 杀虎口内偷眼看， 果然风光不一般。"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "俺、呐奴。奉了匈奴大单于旨意，带领精勇好汉三百人，打探右北平太守李广 消息。是俺改扮贩羊之人，零星混入关来。 孩子们！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "你们须要小心在意，不要被人看出破绽！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "唔呼呀，看那旁来了一群人马。俺们假装看羊，等他不防，暗地动手，杀了客 商，抢了他的马匹，再充贩马之人，岂不是好？"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四汉兵扮贩马人同上，李陵短衣、带剑上。"
+        },
+        {
+          "character": "李陵",
+          "type": "唱",
+          "text": "奉令巡边来哨探， 卸却铠甲换衣冠。 军士假装贩马汉，"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "李陵",
+          "type": "唱",
+          "text": "只见群羊在半山。"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "远看这伙贩羊之人，形色诡异，必须提防一二。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李陵想。"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "嗯，我自有道理。 众伙伴！"
+        },
+        {
+          "character": "四汉兵",
+          "type": "同白",
+          "text": "将马匹暂且放开吃草！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李陵与四汉兵递眼色。"
+        },
+        {
+          "character": "四汉兵",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "啊，马客人请了！"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "啊，羊客人请了！"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "这马是从口外来的么？"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "然也。你这羊也是口外来的么？"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "正是。请坐吃烟！"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "你们贩马，比我们辛苦。请问这马是奉官票，还是私贩呢？"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "虽是奉官，却许私贩。请问你这羊是奉官票，还是私贩呢？"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "我们也是官票，却许私卖。啊客人！"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "你草行露宿，出口进口，怎么生得这样白净？俺们怎么就是这样黑粗？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呐奴欺侮李陵。"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "呃，面黑面白，乃是天生，与你什么相干？"
+        },
+        {
+          "character": "番兵甲",
+          "type": "白",
+          "text": "啊！你们的马为何踢我们的羊？"
+        },
+        {
+          "character": "汉兵甲",
+          "type": "白",
+          "text": "呔！你们的羊，为何吃我们的马草？"
+        },
+        {
+          "character": "番兵甲",
+          "type": "白",
+          "text": "草是地下生的野物，我们的羊吃了，你又便怎么样？"
+        },
+        {
+          "character": "汉兵甲",
+          "type": "白",
+          "text": "此地乃是官地，自然只是官马能吃！"
+        },
+        {
+          "character": "番兵甲",
+          "type": "念",
+          "text": "吃草不妨事，不该踢俺羊！"
+        },
+        {
+          "character": "汉兵甲",
+          "type": "念",
+          "text": "你羊不懂事，踢死又何妨！"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "蛮子不讲道理，我们抢啊！"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "果然是番贼。休走看剑！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起打。呐奴、四番兵同败下，李陵、四汉兵同追下。呐奴、四番兵同上。"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "这小蛮子十分骁勇，难以取胜。一不做，二不休，不如舍命杀往右北平，也好 接应大单于。 巴图噜！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "呐奴",
+          "type": "白",
+          "text": "杀往右北平去者！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。四汉兵、李陵同上。"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "番奴十分猖狂，难以捉拿。怎么反而向南逃去？ 军士们！"
+        },
+        {
+          "character": "四汉兵",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "紧紧追赶！"
+        },
+        {
+          "character": "四汉兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "火彩。鹿形、兔形、狐形、熊形同上，同跳，同下。火彩。虎形上，跳，下。火彩。虎神上。"
+        },
+        {
+          "character": "虎神",
+          "type": "念",
+          "text": "天上尾星宿，山中走兽尊。"
+        },
+        {
+          "character": "虎神",
+          "type": "白",
+          "text": "吾乃北平山中白额虎精是也。只因神箭将军李广，猿臂善射，只射得周围猛兽 绝种。今又出城围猎，伤害必多。奉山神土地之令，命俺出头当此一差，只得 前去。话言之间，李将军来也。正是："
+        },
+        {
+          "character": "虎神",
+          "type": "念",
+          "text": "凡物有精灵，数至亦当败。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "火彩。虎神化虎形，啸，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": "李广",
+          "type": "内唱",
+          "text": "风严弓劲彤云罩，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四汉将引李广同上。"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "人似天神马如彪。 远望山峰在飘渺， 长城绵延万里遥。 始皇功劳也不小， 中外分防免枪刀。 神箭将军天下晓， 镇守北平逞英豪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内虎啸。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "忽听一声虎咆哮， 准备弯弓射凶彪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊形冲上，李广射，熊形中箭下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "好孽畜！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "纵然云鹏与雾豹， 中我之箭怎能逃！ （李广下。鹿形、兔形、狐形同上，四汉将同射，鹿形、兔形、狐形同下。熊形上，中箭，跳，众人同围打， 熊形死。虎形咆哮上，扑众人，众人同畏，同下，虎形追下。李广上。）"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "狂风一阵山欲倒， 猛虎出林声势豪。 弓开满月流星到，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虎形上，中箭，跳下。"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "射中雕翎箭一条。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广下。火彩。虎形带箭上，跳。火彩，虎形化山石。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四汉将引李广同上。"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "猛虎不除害非小，"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "石中插箭甚蹊跷。"
+        },
+        {
+          "character": "四汉将",
+          "type": "同白",
+          "text": "启禀将军：所射之虎，变化为石，箭插其中。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "拔来我看！"
+        },
+        {
+          "character": "四汉将",
+          "type": "同白",
+          "text": "箭穿石中，拔之不出。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "待俺仔细看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广看山石。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "啊！这又奇了，分明一只白额猛虎，跳出山来，伤人不少，是俺一箭射中，带 箭滚逃，追赶至此，为何是一山石？"
+        },
+        {
+          "character": "四汉将",
+          "type": "同白",
+          "text": "将军神箭，射无不中。此必神虎被伤，化石而去。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "事之所有，理之所无。此箭不必拔动，留与后人观看，哈哈哈……"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "古来神箭养由基， 李广将军艺更奇。 箭射猛虎化为石， 从此威名震华夷。 怪石没羽事可异， 留与后人费猜疑。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启禀将军：少爷巡边，遇着一伙贩羊番奴，争斗起来，现已追杀到此。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四汉将",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "登高一望！"
+        },
+        {
+          "character": "四汉将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "番奴焉能胜虎豹， 何敢寻死来出巢？ 勒马山坡且观瞧， 看看番奴何处逃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同上桌。四番兵引呐奴同上。"
+        },
+        {
+          "character": "呐奴",
+          "type": "唱",
+          "text": "观看面前关口到，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四汉兵引李陵同上。"
+        },
+        {
+          "character": "李陵",
+          "type": "唱",
+          "text": "番贼今日休想逃！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起打。李陵、呐奴、四汉兵、四番兵同下。"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "原来番奴越边徼， 孙儿追赶杀气高。 铁胎弓开射得巧，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广向内射箭。"
+        },
+        {
+          "character": "呐奴",
+          "type": "内白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "任尔凶狠归阴曹！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呐奴颈项带箭上，李陵追上，杀，呐奴跑下，李陵追下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "霎时番奴无常到， 费我雕翎箭百条。 （四番兵、四汉将同上，对打。李广射，四番兵同死，四汉兵同下。呐奴洒上，李陵追上，杀。李广射，呐 奴中箭倒，李陵斩呐奴。四文堂、四汉将自两边分上。）"
+        },
+        {
+          "character": "四汉将",
+          "type": "同白",
+          "text": "恭喜将军！贺喜将军！除此番贼，可喜可贺！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "尔等之功也。只是匈奴未平，还有后患。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启禀将军：匈奴大单于亲统大兵，来犯边境。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "奋勇当先！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、四番将、突兀、罕占、乌喝、巴图、稽粥、大纛旗同上，会阵。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "呔！无故犯我边境，是何道理？"
+        },
+        {
+          "character": "稽粥",
+          "type": "白",
+          "text": "秦始皇并吞六国，孤家今欲学之。好好下马投降，不失封侯之位。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "休得胡言！看枪！ （起打，众人自两边分下。李陵上，突兀、罕占、乌喝、巴图自两边分上，同打，同下。四番兵、四汉兵同 上，同杀，同下。四汉将、四番将同上，同杀，同下。李陵上，突兀、罕占、乌喝、巴图同上，大开打，突 兀、罕占、乌喝、巴图同败下，李陵追下。突兀、罕占、乌喝、巴图同败上，李陵追上，斩突兀、罕占、乌 喝、巴图。）"
+        },
+        {
+          "character": "李陵",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李陵下。李广上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "番王凶勇，待某射他一箭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "稽粥上。"
+        },
+        {
+          "character": "稽粥",
+          "type": "白",
+          "text": "李广休走！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "番贼看箭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广射箭，稽粥中箭，下。四文堂、四汉兵、四汉将、李陵同上。"
+        },
+        {
+          "character": "李陵",
+          "type": "白",
+          "text": "启祖父：四番王已除，匈奴王带箭而逃。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "孙儿真乃英雄也。 众将官！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "收兵回城！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1052 @@
+{
+  "script_id": "02009035",
+  "title": "快活林",
+  "alias": [],
+  "source": "《国剧大成》",
+  "characters": [
+    {
+      "name": "武松",
+      "hangdang": "武生"
+    },
+    {
+      "name": "蒋忠",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "一苏州算命者与一山西商人，相伴至快活林酒家喝酒。正畅饮时，武松带醉亦来。既要酒保斟酒，又要妓女\n陪酒，百般挑剔，女主人已不耐烦。后武松又要女主人陪酒，女主人无奈，竟至动武，被武松压入酒缸。其\n丈夫蒋忠与其门徒赶至，亦被武松打退，最后武松扬长而去。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蛮子上。"
+        },
+        {
+          "character": "蛮子",
+          "type": "引子",
+          "text": "子评生理，猫鱼大虾米。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "吾乃，苏州人氏。自幼儿好习文书，如今学会了看相。看今日天气晴和，我在 街前走走。"
+        },
+        {
+          "character": "蛮子",
+          "type": "唱",
+          "text": "离通州四十， 离通州四十， 船到张家湾， 货到里二寺。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老西上。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "走吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蛮子与老西碰。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "你要低头走道，抬头看人，怎么往人身上碰。你碰了我了，王八日的。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "吾在街前相面，我倒碰了你，我倒碰了你。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "你碰了我，倒不要紧，你要叫我舅舅知道，揍你个鸡巴日的。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "你舅舅是谁？"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "我舅舅在西山里开煤窑，把你左边一块煤，右边一块煤，上头一块煤，下头一 块煤，把你这个王八日的煤起来。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "你看我是谁？"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "哦，你是谁？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "你不认得我，我是大相公。我舅舅在兵马司那里当差。我告诉我舅舅，把你左 边一块冰，右边一块冰，上头一块冰，下头一块冰，把你这个混帐王八羔子日 的冰起来呀。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "吓，如此说来，是老子错了，走的慌速了，你不要怪我了。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "呜呀，真正岂有此理。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "说了半天，你是个作什么的？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "你问吾？"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "吓。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "我是相面的。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "你是相面的先生，你给老子相上一相，看一看我多咱发财？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "老兄你要站正了。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "你不要摸摸缩缩的。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "你是不晓得，我这是揣骨相的。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "你摸摸老子身上，有贵处无有？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "有贵处的。老兄，你的脑袋冠上有贵处。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "有什么贵处？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "想你这五官出在山东。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "哦，我是山西人，这脑袋怎么出在山东。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "哎呀，老兄吓。你是不晓得的，山东爷们是发财的。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "这山东发财的，就算是山东的。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "老兄你这支胳臂，乃是湖南的。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "怎么老子这支胳臂，又出在湖南？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "湖南发财的。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "好发财。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "老兄，你这只手，乃是湖北的。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "怎么又是湖北的。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "发大财的。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "哦，发财就好。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "老兄，你这条腿出在广东。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "我把你个王八日的，你把老子分一个五零四散。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "老兄不要取笑了，你往哪里去的？"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "老子要到快活林快活快活，你往哪里去的？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "我也到快活林快活快活的。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "如此说来，咱们两个人，一块走就结了。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "你我一块走吓。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "咱们走吓。"
+        },
+        {
+          "character": "蛮子、老西",
+          "type": "同念",
+          "text": "行行去去，去去行行。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "老兄不要走了，到了。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "老子我去看看，走罢，走罢，不对了。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "怎么不对了哇？"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "这是林活快。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "待我过去看看。哎呀，你这是不晓得，这个人，打下往上长。这个字，是打上 往下念的呢。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "倒是你们这念书人，待老子再过去看看。 林活快，快活林，不错的。叫酒家叫酒家。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "吓，酒家，酒家。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "酒家哪里，酒家这里。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆怀上。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "吓，太爷来了，太爷来了。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "混帐王八羔子呀，你怎么是太爷？"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "王八日的，你怎么是太爷？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "二位别忙，二位别忙。你们二家在外头叫酒家，酒家，我们听见了，是迎接太 爷。买卖人敢充太爷，我们不敢。你们二位是照顾主，是太爷，花钱的吗，哪 个王八蛋是太爷？你们二位是太爷。"
+        },
+        {
+          "character": "老西、蛮子",
+          "type": "同白",
+          "text": "不错的，我们是花钱的，是照顾主，我们是太爷。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "不错的，我们是太爷。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "这不结了，二位请进去罢。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "老子头里走。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "往里走吓。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "二位请上坐。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "下来坐。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "下来坐。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "吾是常来的。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "他还是常来的，怀里坐，怀里坐。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "你这个王八日的，你叫老子怀里坐，你叫老子怀里坐。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "你们二位是没听出来，那怀里坐，是椅子怀里坐。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "吾是常来的。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "他还是常来的。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "你倒说明白了。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "你们二位调过来。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "吓，混帐东西，你叫我调过来，忘八蛋，你叫吾调过来。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "你这个模样，还望怀里扎哪。我叫你哪调过那椅子脸朝外坐。"
+        },
+        {
+          "character": "老西、蛮子",
+          "type": "同白",
+          "text": "要说明了，不要占吾们的便宜。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "买卖人不敢。"
+        },
+        {
+          "character": "老西、蛮子",
+          "type": "同白",
+          "text": "酒家，我们要酒哇。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "二位喝什么酒？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "我要史国公。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "我给你哪取去。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "回来，回来。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "什么史国公？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "史国公，还有什么两样儿？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "我们那里史国公，与你们这里，大不相同。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "怎么大不相同？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "打上一坛子酒，到那个茅房里瓦上，把屎加上点尿，我要那个史国公。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "大太你哪，那个喝个什么劲？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "我喝个臊臭劲。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "我们这不预备那个。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "堂官过来，我也要酒。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "要什么酒？"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "我要二两白干，我要二两状元红。我要二两竹叶青，我要二两玫瑰露。我要二 两莲花白，我要二两五加皮，我要二两佛手露，我要二两黄莲叶，得了够了。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "你要这些喝的了吗？"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "老子有主意，找一个盆子，打在一块，合弄匀静了，给老子打上六十钱的。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "我们这不那么卖。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "过来，我要菜。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "要什么菜？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "我要一碗脚几音。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "什么叫脚几音？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "脆脆的，酸酸的，里头还有小卖。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "那不是脚几音。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "叫什么？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "你说的是拌海蛰呀，我取去。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "堂官过来，给我要个炸支儿。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "炸支有给个面皮儿。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "什么炸支？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "你不是吃面吗。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "吓，您哪不对了，你当是我要炸支吃面哪，我要的是炸豆支儿。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "这不预备那样。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "堂官过来，我还要。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "得了，大太别要了，我给你出个主意，我给你配一样酒菜，玛瑙肉腐。我给你 哪，也配一样儿焖烂甲鱼。一个王八，一个鬼子。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "你说谁是王八，谁是鬼子？打这个驴囚囚的！"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "大爷别忙，容我说。玛瑙肉腐，是鬼子不是？"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "不错，是鬼子。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "我问你，哪这焖烂甲鱼是王八不是。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "是王八的。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "伙计们，将这两王八鬼子，一起动手。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松醉态上。女主人暗上，内座。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "走吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松醉态。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "唿噜噜唿噜噜。 呔，你二人敢是助拳的么？"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "我是花钱的。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "我是白吃的。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "呔，酒家，酒家！"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "在这伺候哪。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你叫什么名字？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "我叫陆怀。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "陆怀，他二人吃多吃少，上在你二太爷的帐的。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "就上在你的帐的。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "陆怀，看酒来。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "吓，二太爷，你那酒醉，改日再喝罢。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "一定要喝。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "改日再喝。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "俺要喝。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "酒到。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "打去封头。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "倒是行家。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好酒，好酒，斟上。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "卖酒不管斟酒。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "不斟上我就打。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "我给您那斟上。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "咳，好酒，唿噜噜唿噜噜。 陆怀，你们这里可有妓者？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "我们这没有妓者。"
+        },
+        {
+          "character": "女主人",
+          "type": "白",
+          "text": "陆怀。那一大汉，他说什么？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "他说没带钱记上。"
+        },
+        {
+          "character": "女主人",
+          "type": "白",
+          "text": "那就是了，与他记上，打发他走罢。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "陆怀，他是何人？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "他乃是我们大奶奶。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "叫他前来，陪你二太爷吃酒。"
+        },
+        {
+          "character": "女主人",
+          "type": "白",
+          "text": "他又说什么？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "他说叫您哪陪酒。"
+        },
+        {
+          "character": "女主人",
+          "type": "白",
+          "text": "与我打。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松与女主人起打，打倒女主人。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "哎呀，干爸爸，你不要生气。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "不要生气，干老子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松打女主人，女主人败下。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "陆怀，你哪里有功夫？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "脑袋上有功夫。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "站稳了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松打陆怀。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "我的太爷。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "哪里还有功夫吓？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "腿上有功夫。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好，要站稳了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松打陆怀。"
+        },
+        {
+          "character": "老西",
+          "type": "白",
+          "text": "哎呀，我的老西的老老。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "你要打，打蒋忠去罢。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好，他今在何处？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "在松林内演拳。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "闪开了。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "好丧气。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆怀下。"
+        },
+        {
+          "character": "蛮子",
+          "type": "白",
+          "text": "哎呀，老兄，咱们一边养伤去罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蛮子、老西同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同上，斜一字。蒋忠上。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "众徒弟们。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "吓。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "松林去者。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠挖门。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "俺，蒋忠，自夺了施恩的酒店，扬名天下。今日闲暇无事。 众徒儿们，大家演拳上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同演拳。蒋忠三笑。陆怀报上。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "大爷，大事不好了。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "咱们铺子里，来了一醉汉，把大奶奶夹在酒缸子里。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "现在哪里？"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "他赶来了。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "众徒弟们，迎上前去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松上。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "呔，大闹酒店可是你？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "正是某家。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "呔，看打。 （蒋忠、武松起打，同下。〖急急风〗。四上手领施恩同上，过场，同下。武松、蒋忠同上，起打。四上手、 施恩同上，会阵，起打。武松打蒋忠，蒋忠败下。陆怀上。）"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "二太爷，帐目在此，你还得赏小人一碗吃。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "好吓，陆怀算清帐目，择日开张。"
+        },
+        {
+          "character": "陆怀",
+          "type": "白",
+          "text": "吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

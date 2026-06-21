@@ -1,0 +1,4116 @@
+{
+  "script_id": "03071003",
+  "title": "浔阳楼",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "宋江",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "宋江流配到江州，与戴宗同饮与浔阳楼，感怀身世，醉题反诗。无为军通判黄文炳出巡见诗，抄告于知府蔡\n得章。戴宗闻知，暗使宋江装疯，被蔡得章识破，押禁牢中。戴宗即赴梁山求救。吴用寄书宋江，约期劫牢。\n书被禁卒拾得，呈告于蔡得章。蔡得章因出斩宋江、戴宗。李逵报信，晁盖、吴用用遣梁山众好汉共劫法\n场，同上梁山。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江上。"
+        },
+        {
+          "character": "宋江",
+          "type": "引子",
+          "text": "虚名薄形，堪叹那，皓月明空。"
+        },
+        {
+          "character": "宋江",
+          "type": "念",
+          "text": "终日思念家庭，不幸配在江城。犹如失群孤雁，好似浪面浮萍。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "卑人、宋江。山东郓城县人士。只因杀了阎惜娇，发配江州。一路而来，结识 了多少英雄好汉。我也曾路过梁山，蒙晁盖大哥、吴用先生接我上山，众家英 雄劝我入伙。唉！想我配流他乡，已是朝廷罪人，何苦又做那犯法之事？故此 苦苦推辞，才得下山。来到江州地面，又结交了多少豪杰，多亏他们一个个每 日照应与我。哈哈！这才是：世情看冷暖，人面识高低。这且不言。昨日戴宗 贤弟与那李逵贤弟邀我在浔阳楼上一叙，怎么这般时候还不见他等到来？我不 免去等他二人便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "念",
+          "text": "身当节级在公门，神行太保是咱名。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "啊大哥！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊贤弟！请坐！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "有坐。啊大哥，今日为何起得甚早？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "昨蒙贤弟相邀，故而在此等候。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "原来如此。大哥请！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟请！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "如此小弟引路。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "宋江、戴宗",
+          "type": "同念",
+          "text": "行行去去，去去行行。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "来此已是。 酒家！"
+        },
+        {
+          "character": "酒保",
+          "type": "内白",
+          "text": "来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "念",
+          "text": "天下无好酒，唯有此地高。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "原来是都头，敢是饮酒吗？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "正是。哪里清净？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "楼上清净。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "好，带路！ 大哥请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保、宋江、戴宗同上楼。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "用什么酒啊？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "好酒、好菜取来。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保向内。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "伙计们，好酒、好菜上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保取酒、菜。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "酒、菜在此。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "唤你再来。下去！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "大哥请！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟请！贤弟，你看好一座浔阳楼！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "是啊，大哥请！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江吃酒，望墙。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟，你看那壁题有诗句在上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "唔唔，那些都是来往文人、墨客游玩到此，称赞这酒楼、江景之作。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "不错，不错。唉！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "请啊！"
+        },
+        {
+          "character": "戴宗",
+          "type": "四平调",
+          "text": "饮佳酿兄弟们且消遣， 一樽蓝桥对月眠。 器皿净洁真堪羡，"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟呀！"
+        },
+        {
+          "character": "宋江",
+          "type": "四平调",
+          "text": "可叹我背井离家园。 父母家中倚门盼， 不由人凄惨把泪弹。 碌碌风尘愁无限，"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "大哥呀！"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "劝大哥免悲伤把心放宽。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "啊大哥，想大丈夫四海为家，提那些作甚？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "话虽如此……"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "请再宽饮几杯。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊，李逵贤弟这般时候怎么还不见到来？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "再不要提起他！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "何出此言？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "他每日在赌博场中，浪荡闲游，生事闯祸，常在浔阳江上，东闯西走，是个无 影无踪之人，大哥提他作甚！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "唔唔，原来如此。啊贤弟，那日有封信，可曾见过？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "已经看过了。啊！看这信上情由，大哥也曾上过梁山？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "再不要提起！那日路过梁山，被晁盖大哥拉拉扯扯，把我接上山去，劝我入伙。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "大哥可曾依从？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "呃！我乃朝廷罪犯，岂能再做那犯法之事？是我苦苦推辞，才得放下山来。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "咳！不是小弟埋怨于你，他们既是相留，就该依从才是。如今来到此处，孤孤 单单，唉，看你好不寂寞呀！"
+        },
+        {
+          "character": "戴宗",
+          "type": "四平调",
+          "text": "你往日虚名终何用？"
+        },
+        {
+          "character": "宋江",
+          "type": "四平调",
+          "text": "只怪我时乖运不通。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "话不是这样讲啊！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "要怎样讲？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "你好似失群的孤雁，又好比那伤箭之鸟，折断了双翼。自古道：失群之雁落孤 凄，折断双翼岂可飞！想你乃是男子汉，早当立志。有这等好机会，也非容易 呦！"
+        },
+        {
+          "character": "戴宗",
+          "type": "四平调",
+          "text": "你纵然活百岁光阴几何？ 大丈夫早立志免受折磨。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "啊都头，外头有人请您说话。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "是哪个？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "想是李逵贤弟来了。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "那人言道：奉府太爷之命，有紧急公事，请都头速速前去。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "说我随后就到。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "大哥，你在此略坐片刻，小弟改日奉陪。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟既有公事，且自请便，我在此消遣一时。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "如此，少陪了！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "不敢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗下楼。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "酒保，再取壶好酒上去，酒钞上在你大爷的账上。"
+        },
+        {
+          "character": "酒保",
+          "type": "内白",
+          "text": "是。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "戴宗",
+          "type": "念",
+          "text": "正欲清谈有客至，偶思小饮报花开。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗下。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "妙啊，我虽说发配到此，一路行来却见过多少的古迹，看这浔阳楼，真果幽雅， 就是那郓城县也无有这般江景。唔，实在的可观，也罢，对此江景待我开怀 自饮，多吃几杯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江饮酒。"
+        },
+        {
+          "character": "宋江",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "宋江",
+          "type": "四平调",
+          "text": "自斟自饮寂寞谁人对， 丢弃糟糠有家难回。 得自在来且自在， 我那妻呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江饮酒。"
+        },
+        {
+          "character": "宋江",
+          "type": "四平调",
+          "text": "斟一杯来饮干一杯。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "想我宋江，生在山东，长在郓城，学吏出身，结识了多少江湖好汉朋友，虽留 得一个虚名，目今三旬之上，功不成，名不就，倒被刺了双颊，发配在这里。 唉！想我爹娘在堂，不知何日才得见面喏！"
+        },
+        {
+          "character": "宋江",
+          "type": "四平调",
+          "text": "临风触目生悲怨， 不由人扑簌簌泪如涌泉。 苦煞俺而爹娘在高堂望盼， 爹娘啊！ 不知何日里再见尊颜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江饮酒。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "唔，趁此酒兴，把我衷肠之事，略表几句，聊抒今日悲愁。 酒保，笔砚取来！"
+        },
+        {
+          "character": "酒保",
+          "type": "内白",
+          "text": "来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上，递笔砚，下，宋江磨墨、蘸笔。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "看磨得墨浓，蘸得笔饱，待我写来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江写。"
+        },
+        {
+          "character": "宋江",
+          "type": "念",
+          "text": "自幼曾攻经史，长成亦有权谋。恰如猛虎卧荒丘，潜伏爪牙忍受。 不幸刺文双颊，哪堪配在江州！他年若得报冤仇，血染浔阳江口！"
+        },
+        {
+          "character": "宋江",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "宋江",
+          "type": "四平调",
+          "text": "趁酒兴提诗句且自狂荡， 遭刺配来江州恨满胸膛。 今日里高歌在浔阳楼上， 满腔的心腹事尽在此墙。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊，酒兴不足，我再饮来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江饮酒。"
+        },
+        {
+          "character": "宋江",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "待我再写几句。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江写。"
+        },
+        {
+          "character": "宋江",
+          "type": "念",
+          "text": "心在山东身在吴，飘蓬江海漫嗟吁。他年若遂凌云志，敢笑黄巢不丈夫！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "郓城宋江题。 唔唔唔……酒涌上来了！ 啊酒保，酒保，笔砚收了去，我要去了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江下楼，出门，吐。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "醉了！醉了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖金钱花〗。四青袍、二差役、黄文炳同上。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "念",
+          "text": "捕盗缉强巡查又谨防，扫除民害捉来休轻放。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "下官、黄文炳。近来浔阳江边出了一伙强人，扰害百姓。因此，每逢三、六、 九日出街巡查。 左右，开道！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "启老爷：天降大雨。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "找一房屋避雨。"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "江边路滑，难以行走。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "前面什么所在？"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "浔阳楼。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "好，打道浔阳楼！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "念",
+          "text": "狂风夹骤雨，彤云布满空。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二差役、黄文炳同走圆场，同进楼。酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "叩见大老爷！您喝点酒吗？"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "不用，略坐片时，等雨止了就便回衙。唤你再来，回避了！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "唔，好一座酒楼！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "是啊。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "啊，这墙壁上全是些题咏的诗句，这是称赞楼头江景的，做的好。唔唔，这是 路过此处，吃酒题诗聊以抒怀的，嗯，也好。啊！这墨迹未干，乃是新题咏的， 待我看来。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "念",
+          "text": "自幼曾攻经史，长成亦有权谋。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "啊，此人自负不浅。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "念",
+          "text": "恰如猛虎卧荒丘，潜伏爪牙忍受。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "啊，此人是个不安本分的！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文炳接看。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "念",
+          "text": "不幸刺文双颊，哪堪配在江州！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "原来是个囚犯。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "念",
+          "text": "他年若得报冤仇，血染浔阳江口！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "啊，他要报仇，但不知要报哪一个的仇啊？哈哈，岂有此理！你却要生事，你 是个配军，做得什么大事！啊。这后面还有几句，待我仔细看来！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "念",
+          "text": "心在山东身在吴，飘蓬江海漫嗟吁。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "呀，原来他是思念家乡。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "念",
+          "text": "他年若遂凌云志，敢笑黄巢不丈夫！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "啊，他要谋反，却想赛过黄巢，呸！好大的口气！看看是哪一个作的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文炳看题名。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "“郓城宋江题”。 啊宋江，此人好生耳熟，却是哪一个？啊是了，此人是在山东郓城县做过书吏， 杀了阎婆惜，配到此处的宋三郎。唔，这诗能大能小，也罢！待我抄写下来。 来，唤酒保！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "酒保！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "叩见老爷！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "罢了。我且问你，这墙上的的诗句，是什么人写的？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "方才有一人在这自斟自饮，想是他题的。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "那人多大年纪？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "不过三十一二，脸上刺的有字，好像是牢城营中的军犯。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "唔，这就不错了。这诗不要损坏了。取笔砚过来！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保取笔砚。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "笔砚在此。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "回避了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "待我将这句诗抄在衣襟下面。嗯，此人若不早除，为害国家不小，也罢，待下 官禀过府爷再作道理。 打道回衙！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "唱",
+          "text": "辄敢无知自造愆， 堪叹囚徒发狂言。 题诗取罪弥天下，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二差役同下。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "唱",
+          "text": "忙报消息府爷前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文炳下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡得章上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "引子",
+          "text": "父势当权，受恩荣，官职长绵。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "念",
+          "text": "君恕臣贤民乐业，清慎官员四海分。但愿高堂宁父母，不闻嘶马动刀兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子暗上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "下官、蔡得章。爹爹蔡京，列位三公之首，文武群僚之尊。满朝显贵，半属吾 父门下；四方贡献，尽归我府。下官授江州知府，到任以来，年岁丰足，处处 安宁，百姓无不尊仰。正是："
+        },
+        {
+          "character": "蔡得章",
+          "type": "念",
+          "text": "唯愿龙恩宠锡日，自有封妻荫子时。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "差役上。"
+        },
+        {
+          "character": "差役",
+          "type": "念",
+          "text": "堪笑无知辈，颠狂自造愆。"
+        },
+        {
+          "character": "差役",
+          "type": "白",
+          "text": "门上有人么？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "哪一位？"
+        },
+        {
+          "character": "差役",
+          "type": "白",
+          "text": "黄老爷有拜。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "候着！"
+        },
+        {
+          "character": "差役",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "启老爷：黄老爷有帖拜。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "说我出迎。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "太爷出迎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文炳暗上。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "啊大老爷！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "黄老爷请进！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "大老爷请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡得章、黄文炳同进门，院子、差役同下。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "大老爷在此，小官不敢坐。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "有话叙谈，哪有不坐之理？"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "告坐。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "前日下官寿诞，多蒙送来许多的礼物，何以当受！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "岂敢！下官屡蒙提拔，尚未报答；些须薄礼，何劳挂齿？"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "好说。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "啊，不敢动问，这几日京中恩相那里可有家报？"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "前日也曾有家书前来。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "京师近来可有什么新闻？"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "家严书上吩咐：今日太史院司天监奏道：夜观天象，罡星照临吴楚，敢有作耗 之人，随时体察剿除。更兼街市小儿童谣四句。因此家父时时修书，嘱咐下官 紧守地方。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "不知那歌言怎道？愿闻其详。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "那歌言道："
+        },
+        {
+          "character": "蔡得章",
+          "type": "念",
+          "text": "耗国因家木，刀兵点水工。纵横三十六；播乱在山东。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "这等看来，事非偶然也。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "何出此言？"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "卑职昨日巡查江口，忽然大雨倾盆，就在浔阳楼上避雨，见壁上题有诗句，卑 职抄写下来，太爷请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡得章看诗。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "这是一首反诗啊！可知是何人所作？"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "上面写着“郓城宋江题”。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "郓城宋江？啊，宋江是何等样人？做何生理？"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "卑职也曾问过酒保，他说乃是牢城营里的配犯。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "呃！量这配犯，能成什么大事！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "啊大老爷也不要小觑了他，方才见那歌谣之语，恰恰应在这作诗人的身上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "方才那歌谣上是这个——"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "“耗国因家木”。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "不错，这“耗”字是耗散国家钱粮之人，必是“宝盖头”加个“木”字，喏， 明明是个“宋”字；这第二句是“刀兵点水工”，这是动刀兵之人，是“三点 水”加个“工”字，喏，明明是个“江”字；这一定是宋江无疑了。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "“纵横三十六”呢？"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "唔，或是“六六”之年，或是“六六”之数。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "“播乱在山东”又便怎讲？"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "这宋江本是郓城县人，这郓城县正是山东地方，想那宋江配流至此，浔阳楼题 下反诗，又正应童谣，这耗国之人，不是他还有谁来？"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "哎呀，我想此事非同小可，黄老爷请回，下官自有道理。"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "是。告退！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "请！正是："
+        },
+        {
+          "character": "蔡得章",
+          "type": "念",
+          "text": "题反诗其罪非小，"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "应歌谣事非偶然。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文炳下。院子暗上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "传錪开门！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "传錪开门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍自两边分上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "传戴宗！"
+        },
+        {
+          "character": "青袍甲",
+          "type": "白",
+          "text": "传戴宗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "参见老爷！有何吩咐？"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "命你带领衙役，去到牢城营中，捉拿题反诗的宋江，不得有误！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、院子、蔡得章同下。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "哎呀，不好了！"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "他那里气昂昂把令传下， 吓得我战兢兢魂飞天涯。 宋大哥题反诗令人害怕， 好叫我无主张怎生救他！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "且住！不想宋大哥在浔阳楼上，酒后狂言，题下反诗。太爷命我往牢城营中捉 拿于他。不免先去问个明白。正是："
+        },
+        {
+          "character": "戴宗",
+          "type": "念",
+          "text": "任是龙图在世，难免复盆之冤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江上。"
+        },
+        {
+          "character": "宋江",
+          "type": "二黄慢板",
+          "text": "每日里心惆怅家乡翘望， 到此地受尽了无限凄凉。 相识的众好汉频频劝讲， 蒙他们一个个叫我到深山为王。 我本是郓城县发配军犯， 岂能再上山岗反叛朝堂？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "宋江",
+          "type": "二黄慢板",
+          "text": "悔不该杀惜娇自投罗网， 离别了严和慈痛断肝肠。 可怜我形影单江州配放， 好叫人悲切切心中惨伤。"
+        },
+        {
+          "character": "戴宗",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "公堂上领严命事急心乱， 牢营里寻大哥细说一番。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊贤弟来了。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "啊来了！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊！你今日有什么心事么？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "我倒无有什么心事，只怕你有祸事到了啊！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊啊，贤弟，愚兄乃是守法之人，不会有什么祸事的。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "啊，你倒忘怀了，昨日在浔阳楼上——"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "不错，不错，昨日在浔阳楼上多谢贤弟的酒，下次扰我，哈哈哈……"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "哎呀，什么扰你扰我的，你不该吃醉了酒，墙上题下反诗。我今奉太爷之命， 特来拿你！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "忽然间被贤弟一言道破， 怔忡忡口难言双泪如梭。 昨日里题反诗是我之错，"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟呀！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "还望你施巧计将我救脱。"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "只见他战兢兢失魂落魄， 放悲声哭得我心似刀割。 万不该题反诗自寻灾祸， 今日里浑身口难以分说。 这时候却叫我束手无策， 怎救他出虎穴逃出网罗？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "料想你不能够搭救于我，"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "也罢！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "倒不如丧九泉免受折磨。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "劝大哥暂消停莫要难过， 好和歹我与你仔细商酌。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "哎呀大哥呀，事到如今，别无他计，不如假装疯魔。倘若混过，也未可知！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "装疯？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "装疯。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "唉，罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江下。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "急切间难煞人没个计策， 无奈何行诈骗假装疯魔。 怕只怕公堂上行踪识破，"
+        },
+        {
+          "character": "二差役",
+          "type": "内同白",
+          "text": "走哇！"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "那一旁又来了催命阎罗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。二差役同上。"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "啊，都头先来啦！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "啊，来了多时。你们这般时候才来？"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "我们俩在家里收拾收拾，故尔来迟。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "宋江在内，你二人快快的捉拿，我在那厢等候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗下。"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "是啦。 嘚、宋江！"
+        },
+        {
+          "character": "宋江",
+          "type": "内西皮导板",
+          "text": "这时候顾不得腌渍龌龊，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江上，做疯癫状。"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "战兢兢痴呆呆假做疯魔。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二差役同楞。"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "他有病吧？"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "看他们一个个冷眼觑我，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二差役同推宋江。"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "你过去吧，你过去吧！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "推的推搡的搡却是为何？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊！你们是些什么人？"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "我们奉了本府太爷之命，前来看看你的。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "你们是奉了本府太爷之命，前来看为父的吗？"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "别找便宜。我们是前来拿你去见老爷！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "胡说！ 伙计，这人还是有病，还是疯病？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "放屁！我乃是玉皇大帝的女婿，牛头马面的娘舅，怎么说我是疯子呀！"
+        },
+        {
+          "character": "宋江",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "果然是个疯子。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "我如今奉了玉皇大帝之命，带领天兵天将，拜阎罗王为元帅，牛头马面为先锋， 判官小鬼以为参军，山神土地扫探军情，要杀得江州鸡犬不留，那时节先把 你开刀！"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "放屁！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "再把你杀死！"
+        },
+        {
+          "character": "差役乙",
+          "type": "白",
+          "text": "胡说！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "怎么说我是疯子！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗暗上。"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "伙计，看他这个疯癫样儿拿他也是没用。何不先去禀过老爷，或长或短再作道 理，你看好不好？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "是呀，他是个疯癫之人，拿他也是无用。"
+        },
+        {
+          "character": "差役乙",
+          "type": "白",
+          "text": "呃！甭管他这套。把他拿去见了太爷，任凭太爷发落，不与我们相干。"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "有理。锁起来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二差役锁宋江同下，戴宗随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍引蔡得章同上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "念",
+          "text": "守法朝朝乐，秉公日日忧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "启爷：宋江拿到。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "带上来！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "带上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二差役带宋江同上。"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "宋江带到，当堂有刑。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "松刑！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "当堂松刑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二差役同松刑。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊请了！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "跪下！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "啊！此人有些疯癫？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "老爷，若无疯癫，他焉能做此诗句。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "唔！这人疯癫是素日旧症，还是当日新疯？"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "启老爷：此人的病是当日新疯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文炳暗上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "啊，当日新疯，其中有诈。来人，将大粪抬来！"
+        },
+        {
+          "character": "黄文炳",
+          "type": "白",
+          "text": "将大粪抬来！"
+        },
+        {
+          "character": "二青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二青袍同下，同抬粪桶上。"
+        },
+        {
+          "character": "二青袍",
+          "type": "同白",
+          "text": "大粪抬到。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "将大粪摆在堂口，叫那疯汉吃来，他若吃了，就是真疯；倘若不吃，即是假疯。 叫他吃来！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "啊，宋江过来！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "做什么？"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "老爷赏下来啦！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "赏下什么好东西？"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "叫你吃粪。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "我这几日吃素，不吃荤。"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "吃这个东西！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "这是个好东西。"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "去吃吧！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀，这样的好东西，真是异香美味，我一向想着你，不想今日你倒送到我口 上来了。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "叫他快吃！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "太爷吩咐，叫你快吃！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "这样好东西，若是快吃，岂不可惜。唔，取个盅儿来。"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "要它干什么？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "有始必有终。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "与他取来！"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "差役甲取盅。"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "盅儿有了，你吃吧！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊！好哇，这样好东西，来来来，你吃些。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江向差役甲。"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "你吃吧！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "你也吃些吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江向差役乙。"
+        },
+        {
+          "character": "差役乙",
+          "type": "白",
+          "text": "叫你吃！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "大老爷也吃些。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江向蔡得章。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江指差役甲。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "你不吃？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江指差役乙。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "你也不吃？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江指蔡得章。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "大老爷又不吃。哈哈，我也不吃！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "来，看大刑伺候！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "且慢！你们休要动手，待我吃来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江让二差役、蔡得章。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "你吃！你吃！老爷吃！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "唱",
+          "text": "谁叫你发狂言实为无礼， 公堂上岂容你没个高低！ 浔阳楼题下了反叛诗句， 大数到哪容得假做呆痴！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "来，与我灌！"
+        },
+        {
+          "character": "二差役",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二差役同灌宋江粪，宋江呕吐。"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "看他们一个个狼威虎势， 论国法怎叫我吃这东西？ 到如今生双翅也难飞去，"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "我二人阎王前论个高低。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "唱",
+          "text": "哪见你全不知纲常礼仪， 你犯了萧何法插翅难飞。 你好比扑灯蛾自投火里，"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "与我打！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "唱",
+          "text": "霎时间管叫你碎骨分尸。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "启爷：宋江昏迷了。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "将他定肘收监，押了下去。掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二差役、黄文炳、蔡得章同下。戴宗扶宋江同走圆场。"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "气昂昂双眉皱怒眼生花，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗扶宋江进监。"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "急得我心焦灼咬碎银牙。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "大哥醒来！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "你看我鲜血淋严刑难架， 满身的棍棒疮活活痛煞。 你快快施恻隐将我救下，"
+        },
+        {
+          "character": "宋江",
+          "type": "哭头",
+          "text": "贤弟呀！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "如不然这残生定染黄沙。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "事到如今，我是无计可施，谁叫你做出此事？也罢！小弟能日行千里，夜走八 百，不免去到梁山求救，你看如何？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟呀！你若能往梁山求救，我宋江铭感无涯也。请上受我一拜！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "多感你恩情重比如天大， 只念我离乡井居落无家。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江下。"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "俺如今说出了这般大话， 走一遭哪怕它路远天涯。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "大哥，宽怀养息，等候佳音。 禁卒！"
+        },
+        {
+          "character": "禁卒",
+          "type": "内白",
+          "text": "来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "宋江他可是个好人？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "不错，是个好人。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "嗯，他乃是被旁人陷害的。你我现在公门之中，要行个方便才是！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "是啦，请大爷吩咐。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "自古道：公门之中好修行。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "是的：公门之中好修行。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "你可买些汤水与他调养调养，这银子我算还与你就是。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "我要回去了。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "哼！这空头人情我也会做！后边歇会去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒关门，搀扶宋江同下"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "看四下无人，俺不免将神行法做好，不分昼夜往梁山求救便是了。正是："
+        },
+        {
+          "character": "戴宗",
+          "type": "念",
+          "text": "只为燃眉急，哪怕赴汤火！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手引吴用、晁盖同上。"
+        },
+        {
+          "character": "晁盖",
+          "type": "引子",
+          "text": "壮士英豪，看平生，志比天高。"
+        },
+        {
+          "character": "吴用",
+          "type": "引子",
+          "text": "运筹帷幄，宿水泊，哪顾辛劳。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "参见大哥！"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "先生少礼，请坐！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "托塔天王、晁盖。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "智多星、吴用。"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "前在黄泥岗劫了皇纲，官兵追击，因此啸聚梁山，众英雄立我为主，仗先生妙 算，众哥弟英勇，且喜官兵不敢追究，众百姓之幸也。 先生！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "大哥！"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "我想宋江发配江州，也曾接他上山，共图大业，只是他暂不相从，如之奈何？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "大哥，想他素日仗义，江湖好汉，无不相识，不日将要归我梁山，大哥何必性 急？"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "全仗先生妙算。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "喽啰上。"
+        },
+        {
+          "character": "喽啰",
+          "type": "念",
+          "text": "奉命巡山径，捉拿可疑人。"
+        },
+        {
+          "character": "喽啰",
+          "type": "白",
+          "text": "寨主在上，巡逻交令。"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "命你下山探事，可有军情？"
+        },
+        {
+          "character": "喽啰",
+          "type": "白",
+          "text": "是俺正在巡岭，山下来了一个汉子，正奔上山。"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "可曾问他名姓？"
+        },
+        {
+          "character": "喽啰",
+          "type": "白",
+          "text": "也曾问过，他言道，与先生旧日交好，他叫神行太保戴宗。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "戴宗，唔，他今此来必为宋江之事。 好，请他进来！"
+        },
+        {
+          "character": "喽啰",
+          "type": "白",
+          "text": "是。 有请戴爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "喽啰下。戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "念",
+          "text": "自古男儿侠士，须当济困扶危。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗进门，吴用迎。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "啊贤弟请！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "先生请！上面是？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "乃是晁大哥。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "啊，久闻大名，如雷贯耳。念弟居处遥远，少来问候，大哥恕罪！"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "不敢，请坐！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "告坐。"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "戴大哥降临小山，未曾远迎，望乞恕罪。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "啊，看你双眉愁锁，有什么要紧事么？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "二位大哥听了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖二三锣〗。"
+        },
+        {
+          "character": "戴宗",
+          "type": "念",
+          "text": "听俺细说原因：提起叫人生愤！只为山东宋公明，酒后狂言不逊。 浔阳楼上出怒声，"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "二位哥！"
+        },
+        {
+          "character": "戴宗",
+          "type": "念",
+          "text": "他做了题反诗的罪人。"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "晁盖",
+          "type": "唱",
+          "text": "连日里想念那公明贤弟， 到如今遭罗网怎生脱离？ 心踌躇和先生商议定计， 必须要早准备事不宜迟。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "二位大哥呀！"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "可怜那及时雨狱中身系， 怕问斩我这里忙报消息。 望二兄必须要早定主意， 发人马到江州莫再迟疑。"
+        },
+        {
+          "character": "吴用",
+          "type": "唱",
+          "text": "劝大哥与贤弟且莫忧虑， 早准备入龙潭见个高低。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "贤弟请至后面，愚兄自有道理。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "多谢大哥！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗下。"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "方才听戴宗之言，那宋江身遭缧绁，事在危急。先生快快传命，今夜下山，攻 打江州。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "大哥，发兵不得，想那江州离此甚远，若发人马，诚恐引凶招祸，反而打草惊 蛇，岂不倒送了宋江的性命？"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "依先生高见？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "大哥可修下书信一封，就命戴宗带回，叫宋江不要害怕，临期自有救应。然后 吩咐众哥弟混入城中，埋伏法场，搭救宋江便了。"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "如此待我修书便了。正是："
+        },
+        {
+          "character": "晁盖",
+          "type": "念",
+          "text": "但愿水泊虎生翼，"
+        },
+        {
+          "character": "吴用",
+          "type": "念",
+          "text": "哪怕江州百万兵。"
+        },
+        {
+          "character": "晁盖",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "晁盖下。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "来，吩咐众位英雄点将台听点！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴用下。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "啊！众家英雄将台听点！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同下。林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立同上，同站一字。"
+        },
+        {
+          "character": "林冲、郭盛",
+          "type": "同念",
+          "text": "山中壮士能救苦，"
+        },
+        {
+          "character": "阮小二、刘唐",
+          "type": "同念",
+          "text": "寨内豪杰惯杀人。"
+        },
+        {
+          "character": "黄信、郑天寿",
+          "type": "同念",
+          "text": "不怕触犯萧何律，"
+        },
+        {
+          "character": "白胜、李立",
+          "type": "同念",
+          "text": "偷猫盗狗显奇能。"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "林冲。"
+        },
+        {
+          "character": "郭盛",
+          "type": "白",
+          "text": "郭盛。"
+        },
+        {
+          "character": "阮小二",
+          "type": "白",
+          "text": "阮小二。"
+        },
+        {
+          "character": "刘唐",
+          "type": "白",
+          "text": "刘唐。"
+        },
+        {
+          "character": "黄信",
+          "type": "白",
+          "text": "黄信。"
+        },
+        {
+          "character": "郑天寿",
+          "type": "白",
+          "text": "郑天寿。"
+        },
+        {
+          "character": "白胜",
+          "type": "白",
+          "text": "白胜。"
+        },
+        {
+          "character": "李立",
+          "type": "白",
+          "text": "李立。"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "众位哥弟请了！"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "先生排山，两厢伺候！"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立两边分站。四下手引吴用同上。"
+        },
+        {
+          "character": "吴用",
+          "type": "念",
+          "text": "机谋如反掌，袖内谙阴阳。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "参见先生！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "众位贤弟少礼，站立两厢！"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "吴用",
+          "type": "念",
+          "text": "弓弩丛中出性命，刀枪队里救英雄。杀得血流如潮涌，江州搭救宋公明。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "山人、智多星吴用。奉了晁大哥之命，发动人民，搭救宋江。 来！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "请戴爷！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "请戴爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "参见先生！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "贤弟少礼。见过众位英雄。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "啊众位英雄！"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "戴爷！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "晁大哥有书信一封，请你带往江州交与宋大哥，叫他不要害怕，事到临期，自 有救应。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "遵命。仰仗先生妙算，赖众家英雄英勇，若救得宋江大哥出狱，不枉小弟来到 山寨求救一趟，我此去好有一比："
+        },
+        {
+          "character": "戴宗",
+          "type": "念",
+          "text": "舍身探虎穴，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗下。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "何惧入龙潭！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "林冲、郭盛听令！"
+        },
+        {
+          "character": "林冲、郭盛",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "命你二人，各带五百喽啰，扮做百姓模样，混进城中，埋伏法场左右，待宋江 临刑之时一齐杀出！"
+        },
+        {
+          "character": "林冲、郭盛",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "吴用",
+          "type": "同白",
+          "text": "阮小二、刘唐听令！"
+        },
+        {
+          "character": "阮小二、刘唐",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "你二人检点兵器，假装卖拳之人，混进法场，准备救应！"
+        },
+        {
+          "character": "阮小二、刘唐",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "黄信、郑天寿听令！"
+        },
+        {
+          "character": "黄信、郑天寿",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "命你二人扮做玩戏法的，潜入法场，保护宋江性命！"
+        },
+        {
+          "character": "黄信、郑天寿",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "白胜、李立听令！"
+        },
+        {
+          "character": "白胜、李立",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "命你二人扮做乞丐模样，四下打探消息！"
+        },
+        {
+          "character": "白胜、李立",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "吴用",
+          "type": "念",
+          "text": "龙潭虎穴飞进去，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴用下。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "呼风唤雨凯歌回。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立同换衣，四下手同带马。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒上。"
+        },
+        {
+          "character": "禁卒",
+          "type": "念",
+          "text": "禁子说话不顶真，见了银子就变心。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "小子、江州府禁子便是。只因宋江在浔阳楼上吃酒，题了反诗，被老爷拿来乒 乒乓乓一顿饱打，下在监里，如今非但分文没有，还得我伺候他，垫办食用。 趁今日戴爷不在，我不免把他叫出来问问，有银子拉倒，没有银子我也要来出 出气。 我说宋江啊，出来走走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江上。"
+        },
+        {
+          "character": "宋江",
+          "type": "念",
+          "text": "无端毒打浑身破，料残生无有结果。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊禁大哥！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "宋大爷，来来，请坐！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "我说你进得监来，还没有花一个钱哪。今日还是银子还是元宝，拿出来我也用 用。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀，我是被屈含冤之人，哪有银钱与你？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "我们是靠山吃山，靠水吃水，就是看茅厕还要吃些屎哪！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "这屎是怎样的吃法？吃不得的！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "你放心，这儿没有屎给你吃。老实讲，今天我是要钱！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "说了半天还是要钱！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "着哇！宋大爷，为人在世，这个钱是要紧的！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "你先前对我说过，花费多少都是戴大爷的呀！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "不错，他先前与我讲过，我如今垫办不起啦。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "且等戴大爷回来，我告诉他一并算还与你就是。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "如今这戴大爷不知道往哪里去啦，老爷传了几次也不见面，再寻也寻不着啦。 我这里吃尽当光，可受不了啦，快点拿出银子还算罢了；要是没有哇，我可就 要——"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊！你要怎样？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "我就要打你！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "我无有！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "哈哈！你敢讲三声没有？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "无有！无有！无有！本来的无有！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "哈哈！你真是反啦，着打！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "唔！唔！唔！我宋江犯了朝廷的王法，自有我的钱粮，我难道拿银子买罪受不 成？岂有此理！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "他到有理啦！管他的呢，待我给他来讲个蛮的！ 我说宋江，问你到底有是没有？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "无有你便怎样？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "着打呗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒打宋江。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀打坏了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "开门！开门！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "不好，来啦！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀打坏了！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "狗才，你在此做甚？下站！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "是，是。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟回来了？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "晁大哥有书信在此，收放好了。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "辛苦了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江收书。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "吴用先生言道：叫大哥不要害怕，事到临期，自有救应。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗与宋江耳语。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "噢，噢，贤弟实是我救命恩人，请上受我宋江一拜！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "戴贤弟请上受我一礼， 你为我苦奔波费尽心机。"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "劝大哥休泪流且免悲啼， 祸临头自有救暂忍冤屈。 我为你上梁山也非容易， 披星月卧荒丘往来奔驰。 晁大哥、吴先生高情厚谊， 众英雄闻言语陡起杀机。 叫大哥且忍耐牢牢心记，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗出门。"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "到来日决雌雄手刃仇敌。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗下。"
+        },
+        {
+          "character": "宋江",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "戴贤弟果真是朋友义气， 早烧香晚点烛答报不及。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀呀，你为何尽只看我？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "你不看我，怎么会看见我看你啦？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "宋大爷不许你看，不许你看！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江发觉书信遗失，找。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "宋大爷，你慌慌张张找什么东西？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "唔，找东西与你什么相干？啊，与你什么相干？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "是是是，不要生气，你是找的这样长、这样短、这样宽，上面还有红纸条儿， 写得有字，是与不是？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "是的，不错，不错。啊禁大哥，送还与我，明日多付银子与你。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "我见是见着啦，也不知道是什么东西，可就把它扫到阴沟里去啦！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "禁大哥，扫到阴沟里去了么？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "是的。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "还好，还好，幸亏未被他人知道；倘然被他人拾起，那还了得！哈哈，有心哪 有幸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江下。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "管叫你没幸啊没幸！哈哈，这才是事机不密祸即生。方才这戴宗狗头狗脑也不 知道哪儿弄来这一封书信，那宋江一时便笑起来啦。及至不见了这书信又着急 起来啦。这是什么意思啊？我看这光景，他们总是有奸诈在内。也罢！待我禀 过太爷再作道理。 伙计，看好监门，我去去就来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒走圆场。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "哈哈，戴宗啊戴宗！没事拉倒；倘若有事，叫你难逃我手。 到啦。里面有人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "啊大叔，劳烦通禀太爷：说我禁子求见。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "候着。 有请家爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡得章上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "禁子求见。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "传！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。 家爷传！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "是。 小人叩头！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "到此何事？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "启禀太爷：小人看守监门，那日戴宗与宋江交头接耳，那宋江闻言大笑，手慌 脚乱就失了这书封信。请老爷观看。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡得章念。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "“晁盖拜上宋大哥，梁山寄”。哎呀！原来宋江、戴宗私通梁山晁盖，那还了 得！ 来，吩咐升堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡得章下。"
+        },
+        {
+          "character": "禁卒、院子",
+          "type": "同白",
+          "text": "升堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒、院子同下。四青袍、禁卒同上，同站门。蔡得章上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "来，传戴宗！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "啊。 传戴宗！"
+        },
+        {
+          "character": "戴宗",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "忽听得法堂上一声呼唤， 众衙役一个个气宇昂昂。 我这里低下头自己思想， 怎奈是想不出什么主张。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "小人叩头！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "戴宗，你的事干完了么？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "小人无有什么事啊！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "本府传你几次，你往哪里去了？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "小人受了风寒，望太爷开恩。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "你倒说的自在。 来，赏他四十！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同打戴宗。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "小人无有犯下什么罪过，为何要打小人？"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "这有书信，你拿去看来！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "哎呀，不好了！"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "见书信不由我浑身战抖， 败露了这机关有死无留！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "小人不知。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "小人不知。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "来，打！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "唱",
+          "text": "叫人来你与爷打这死囚， 尔不该上梁山真无来由。 那宋江本是个朝廷罪首， 为什么结强贼私把书投。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "我把你这狗头！你与宋江私通梁山，弄得这书信，且喜天佑，败露出来。倘若 你等事谐，莫说是本府性命；就是满城百姓，俱将送在你手！你还不实招么？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "太爷，这都是旁人屈害小人的。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "胡说，掌嘴！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "慢着！回老爷：这嘴巴小人打吧。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "为何？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "小人吃过他的苦。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "好，着实的打！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒打戴宗。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "一十！二十！三十！四十！再添几下，五十。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "来，将这厮上了刑具，另收一监，不许与宋江勾串。带下去！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "哈哈，今儿个你可犯在我手里啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒锁戴宗同下。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "且住！想此事若有迟误，梁山贼人前来，江州不保。唔，自有道理。 来，传谕文武衙门知道，各集兵丁前往法场保护，明日午时三刻，本府亲自监 斩宋江、戴宗！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、蔡得章自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": "李逵",
+          "type": "内白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李逵上。"
+        },
+        {
+          "character": "李逵",
+          "type": "唱",
+          "text": "复盆冤侵， 蓦地踉跄烈火焚。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "俺、李逵。适才进得城来，听得那些闲人纷纷乱讲，道那宋大哥与戴大哥囚禁 在监，也不知为了何事？唉，只为俺这几日在浔阳楼做了些勾当，一向不曾进 城，为此他们弄出他娘的祸事来了。也罢！我不免去到监中，将他二人劫出监 来，然后再杀他个落花流水。走走走哇！唉，有道是：单丝不成线，独木不成 林，这便怎处呢？有了，想俺宋大哥也曾上过梁山，那晁盖与他交厚，俺不免 急奔梁山求救便了。"
+        },
+        {
+          "character": "李逵",
+          "type": "唱",
+          "text": "迢遥远，难驰骋， 又道远亲不如近邻， 怎聚众，扶危困？"
+        },
+        {
+          "character": "李逵",
+          "type": "夹白",
+          "text": "唉！"
+        },
+        {
+          "character": "李逵",
+          "type": "唱",
+          "text": "好叫我追思不定。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李逵下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "林冲、郭盛、阮小二、刘唐、黄信、郑天涛、白胜、李立同上。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同锁南枝",
+          "text": "飞驰骤，远涉程， 潜道江州境。 因那宋公明， 陷缧绁遭陷阱。 众兄弟、我们不分昼夜而行， 前进休稍停。 稳步莫踉跄， 潜踪隐迹勿漏形。"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "众位兄弟请了！"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "奉了军师将令，去往江州搭救宋大哥，就此前往！"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立同走圆场。"
+        },
+        {
+          "character": "李逵",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李逵上。林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立同与李逵相遇。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "呔！你是什么人？"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "咱老子李逵。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "李逵，你是往哪里去的？"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "往梁山去的。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "啊！你往梁山何干？"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "呔！哪个与你们唠唠叨叨！闪开了，俺要趱路！"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "我们乃是梁山好汉。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "啊！你们就是梁山好汉哥哥吗？"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "正是。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "恕俺不知，有罪有罪！唉！众位哥哥呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李逵哭。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "为何啼哭？"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "你们不知，今有宋江与戴宗——"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "啊！宋江与戴宗便怎样？"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "他二人呵！"
+        },
+        {
+          "character": "李逵",
+          "type": "锁南枝",
+          "text": "无端遭刑拘， 稍时祸临头， 全赖英雄， 济困仗忠义。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "唔！"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同锁南枝",
+          "text": "听罢心凄惨， 正是凤入深山被鹊鸟欺。"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "我等杀上前去！"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "唔，不要罗噪，自有安排。 李逵，你先往江州，我等随后就来。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "众位，你们就要来的呀！ 好了，宋大哥有救了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李逵下。"
+        },
+        {
+          "character": "白胜、李立",
+          "type": "同白",
+          "text": "众位哥哥，待我二人前去打探打探。"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "小心了！"
+        },
+        {
+          "character": "白胜、李立",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白胜、李立同下。"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "众位兄弟请！"
+        },
+        {
+          "character": "林冲",
+          "type": "锁南枝",
+          "text": "管叫他， 血流遍野把尸骸分。 犹恐连累他二人， 误伤性命绝幽冥！"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿",
+          "type": "同白",
+          "text": "准备呀！"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿",
+          "type": "同锁南枝",
+          "text": "挨挤挤混入城中， 将身隐，偷眼觑，需要见机行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "地方上。"
+        },
+        {
+          "character": "地方",
+          "type": "念",
+          "text": "地方年年当，官差日日忙。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "小子江州地方便是。今日午时三刻监斩宋江、戴宗，命我打扫街道，不许闲人 混杂，待我把这示众牌插在十字街口。"
+        },
+        {
+          "character": "白胜、李立",
+          "type": "同莲花落",
+          "text": "行过了三里桃花店，一朵梅花， 又到五里杏花村，荷花开。 浪打金钱落，梅花开，"
+        },
+        {
+          "character": "白胜、李立",
+          "type": "同念",
+          "text": "这位朋友笑脸开。今年必定发大财、发大财。 大大的开个京货店，又卖酒、又卖烟，又卖香纸蜡烛霸王鞭。 别人家的爆竹放不响，你家爆竹噼里啪啦响连天，一年一年胜一年。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白胜向禁卒。"
+        },
+        {
+          "character": "白胜",
+          "type": "念",
+          "text": "这位老爷眼睁睁，"
+        },
+        {
+          "character": "李立",
+          "type": "念",
+          "text": "八字胡须两边分。"
+        },
+        {
+          "character": "白胜",
+          "type": "念",
+          "text": "见了人。不做声，"
+        },
+        {
+          "character": "李立",
+          "type": "念",
+          "text": "望着我们翻眼睛。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。林冲、郭盛、阮小二、刘唐、黄信、郑天寿同暗上。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你们是做什么的？"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿",
+          "type": "同白",
+          "text": "我们是梁——"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "是亮拳卖艺的。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "哦，打拳的。杀人还早，何不打一套我们见识见识？"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "好，玩耍玩耍。 众哥弟，我们耍起来！"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "对啦，耍起来，耍好了浔阳楼我的东道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿同打拳舞刀剑。李逵上。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "耍得好哇耍得好！"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "哪个王八蛋叫好？"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "放屁！"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "咱老子李逵。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "李逵，你要叫好，等他们耍完了叫，在这中场上，叫他们笑我们江州人不识好 歹啦！"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "你是什么东西？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "我是地方。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "地方，今日杀人当真当假？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "杀人自然是真的。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "什么时候？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "午时三刻。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "午时三刻还早，待老子吃得饱饱的，好杀这些囚囊的！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李逵下。"
+        },
+        {
+          "character": "何保太、华先春",
+          "type": "内同白",
+          "text": "众将官，将人马扎在十字街头！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立、地方同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖四边静〗。四龙套、四下手引何保太、华先春同上。"
+        },
+        {
+          "character": "何保太、华先春",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "何保太",
+          "type": "白",
+          "text": "江州参镇何保太。"
+        },
+        {
+          "character": "华先春",
+          "type": "白",
+          "text": "右营城守华先春。"
+        },
+        {
+          "character": "何保太",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "华先春",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "何保太",
+          "type": "白",
+          "text": "奉府太爷之命，监斩逆犯，提防梁山前来劫夺。"
+        },
+        {
+          "character": "华先春",
+          "type": "白",
+          "text": "必须小心在意。"
+        },
+        {
+          "character": "何保太",
+          "type": "白",
+          "text": "大家提防。 众将官，保护法场者！"
+        },
+        {
+          "character": "四龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖合头〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四刀斧手押宋江、戴宗同上，过场，同下。林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立同上，"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "同上桌。四龙套、四下手、何保太、华先春同上，过场，同下。林冲、郭盛、阮小二、刘唐、黄信、郑天"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "寿、白胜、李立同下桌。）"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "呀！"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同铺红灯",
+          "text": "一对对持弩仗弓， 携狼牙青峰。 恁看这戈矛遮蔽满空， 众爪牙叠肚挺胸。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同夹白",
+          "text": "嘘！"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同铺红灯",
+          "text": "一个个双眸炯炯，搬弄， 似彤云飞布苍穹。 似洪涛天裂地崩， 恰如那霹雳轰轰。 料难逃， 叠叠重围如铁桶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、何保太、华先春同上。"
+        },
+        {
+          "character": "何保太、华先春",
+          "type": "同唱",
+          "text": "稠密密军威壮， 齐执着剑戟枪。 叫恁魂魄飘飘荡，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖抽头〗。"
+        },
+        {
+          "character": "何保太、华先春",
+          "type": "同唱",
+          "text": "斩诛了荆棘芒， 灭却了乱国殃， 顷刻自送头颅丧，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖抽头〗。"
+        },
+        {
+          "character": "何保太、华先春",
+          "type": "同夹白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "何保太、华先春",
+          "type": "同唱",
+          "text": "哪得有奸佞党！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立同上。"
+        },
+        {
+          "character": "林冲",
+          "type": "锦中帕",
+          "text": "觑看他这前护后拥， 似浪蝶狂蜂虫， 如那妖气纵横， 怎当俺英雄气勇！"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同锦中帕",
+          "text": "那宋江与戴宗， 彷徨梦中。 一似那落叶飘风， 怎能够，跳出樊笼？ 霎时翻江搅海对垒交锋， 管叫他血染草木红！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刀斧手押宋江、戴宗同上。禁卒随上。四龙套、四下手、何保太、华先春引蔡得章同上。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "念",
+          "text": "今日诛除贼首，以免万民遭殃。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "下官、蔡得章。只因宋江、戴宗私通梁山，为此将他二人枭首示众，然后申奉 龙廷。 来，将犯由牌悬街示众！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "来，与他一碗断肠饭，三杯分别酒。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立、李逵同上。"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立、李逵",
+          "type": "同白",
+          "text": "呀！"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立、李逵",
+          "type": "同耍孩儿",
+          "text": "看刀枪密布生杀气，"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "来，吩咐闲人站开，休得混乱！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "闲人站开，休得混乱！"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同耍孩儿",
+          "text": "剑戟交加遮空日。 倾身绝命须臾地， 血流长渠魂魄飞，魂魄飞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立同冲。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "休得混乱！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "呔！休得混乱！"
+        },
+        {
+          "character": "林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同耍孩儿",
+          "text": "谁敢怜悯痛悲泣， 共赴云阳市。 霎时间黄粱时至， 管叫恁万剐凌迟！"
+        },
+        {
+          "character": "四刀斧手",
+          "type": "同白",
+          "text": "时辰已到。"
+        },
+        {
+          "character": "蔡得章",
+          "type": "白",
+          "text": "开刀！"
+        },
+        {
+          "character": "四刀斧手",
+          "type": "同白",
+          "text": "啊！ （林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立同杀，同开打。四龙套拥蔡得章同下。李逵上， 杀何保太、华先春。林冲、郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立同杀死四刀斧手、四下手。李 逵解宋江、戴宗绑。）"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "众位哥弟，回山交令！"
+        },
+        {
+          "character": "郭盛、阮小二、刘唐、黄信、郑天寿、白胜、李立",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

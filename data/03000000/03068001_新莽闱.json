@@ -1,0 +1,2432 @@
+{
+  "script_id": "03068001",
+  "title": "新莽闱",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "王莽",
+      "hangdang": "老生"
+    },
+    {
+      "name": "刘秀",
+      "hangdang": "小生"
+    },
+    {
+      "name": "马武",
+      "hangdang": "净"
+    },
+    {
+      "name": "岑彭",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "王莽篡汉后，为揽人才，设立武科场。马武、岑彭比武，不分上下。王莽喜爱岑彭相貌，点为状元。马武不\n服，在宫门题诗反去。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏献、王凤、王寻、王丰同上。"
+        },
+        {
+          "character": "苏献",
+          "type": "念",
+          "text": "忆昔当年弑汉君，"
+        },
+        {
+          "character": "王凤",
+          "type": "念",
+          "text": "同谋篡逆建奇勋。"
+        },
+        {
+          "character": "王寻",
+          "type": "念",
+          "text": "我主即位亲摄政，"
+        },
+        {
+          "character": "王丰",
+          "type": "念",
+          "text": "扫灭刘姓定烟尘。"
+        },
+        {
+          "character": "苏献、王凤、王寻、王丰",
+          "type": "同白",
+          "text": "某——"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "大司马、苏献。"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "皇叔、王凤。"
+        },
+        {
+          "character": "王寻",
+          "type": "白",
+          "text": "大司徒、王寻。"
+        },
+        {
+          "character": "王丰",
+          "type": "白",
+          "text": "司天监、王丰。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "众位大人请了！"
+        },
+        {
+          "character": "王凤、王寻、王丰",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "自从汉帝废黜，我主登基以来，真乃风调雨顺，国泰民安。"
+        },
+        {
+          "character": "王凤、王寻、王丰",
+          "type": "同白",
+          "text": "看香烟缥缈，圣驾临朝，我等分班晋见。"
+        },
+        {
+          "character": "苏献、王凤、王寻、王丰",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "发点。四御林军、四太监、大太监引王莽同上。"
+        },
+        {
+          "character": "王莽",
+          "type": "引子",
+          "text": "药酒弑君，移汉鼎，国号大新。"
+        },
+        {
+          "character": "苏献、王凤、王寻、王丰",
+          "type": "同白",
+          "text": "臣等见驾，吾皇万岁！ 王莽　　　　　　　　　　　平身。"
+        },
+        {
+          "character": "苏献、王凤、王寻、王丰",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "王莽",
+          "type": "念",
+          "text": "汉刘邦斩蛇起义，亡秦楚绥靖华夷。二百载传至平帝，换国号寡人登基。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "孤、王莽。前在汉室称臣。只因平帝昏庸懦弱，不足为君，元始五年腊月八日 孤用药酒晋寿，毒死昏王，立孺子婴为帝。摄政三年，众卿保孤登基，驾坐长 安，改元初始，国号大新，统一华夏，于今五年。 众卿！"
+        },
+        {
+          "character": "苏献、王凤、王寻、王丰",
+          "type": "同白",
+          "text": "臣！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "昨日凤凰来仪，侵犯帝位，不知主何吉凶，众卿有何见解？"
+        },
+        {
+          "character": "王丰",
+          "type": "白",
+          "text": "臣启万岁：臣夜观天象，见众星交杂，紫微光耀，后引二十八宿、四圣、九曜 众星，倶临北阙。主汉室宗支与我主争夺天下。凤凰之兆，亦在于此。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "如此怪异！但不知汉室宗支现在何方？"
+        },
+        {
+          "character": "王丰",
+          "type": "白",
+          "text": "现在东南方双女宫下上林。双女宫乃是楚地，依此相断，汉室帝王已生南阳地 界矣。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "臣启万岁：今之天下已非汉室所有，纵有妖星犯阙，何足忧惧？陛下何不仿效 御驾游压故事？料无不应。 王莽　　　　　　　　　　　好、就命姓王者三千，姓苏者八百，同阴阳宫引五千军马，于东南方紫微光耀 并二十八宿跟护之处，御驾亲压。"
+        },
+        {
+          "character": "王丰",
+          "type": "白",
+          "text": "陛下不可！昔尧舜太平之年，尚有旱涝之灾。我主但可施仁设政，省刑薄税， 自可反祸为福。且星乃天下之灵气，照耀四方，虽御驾亲临，亦恐难压。"
+        },
+        {
+          "character": "王寻",
+          "type": "白",
+          "text": "臣启陛下：王丰所谏太迂，苏献之奏尤谬。国之根本，诚在于民，“民为邦本， 本固邦宁”。今四方扰乱，盗贼蜂起。可即传旨遍晓各州、郡、县，开下武 闱科场，招选天下贤士，镇守诸邦，又何惧紫微星降与二十八宿拥护之怪异耶？ 伏乞陛下圣裁！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "御弟所奏极是。就命卿飞檄天下，晓喻各州、郡、县！"
+        },
+        {
+          "character": "王寻",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "王丰择选考试良辰！"
+        },
+        {
+          "character": "王丰",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "苏献率兵卫戍贡院！"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "王凤随孤考拔英俊!"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "王莽",
+          "type": "念",
+          "text": "挂榜招贤开科场，"
+        },
+        {
+          "character": "苏献、王凤、王寻、王丰",
+          "type": "同念",
+          "text": "五阳举子保君王。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严光、邓禹、王霸、冯异同上。"
+        },
+        {
+          "character": "严光、邓禹、王霸、冯异",
+          "type": "同唱",
+          "text": "王莽挂榜招英贤， 檄文晓喻到此间。 欲将男儿身手显， 须往长安夺状元。"
+        },
+        {
+          "character": "严光、邓禹、王霸、冯异",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "严光",
+          "type": "白",
+          "text": "严光。"
+        },
+        {
+          "character": "邓禹",
+          "type": "白",
+          "text": "邓禹。"
+        },
+        {
+          "character": "王霸",
+          "type": "白",
+          "text": "王霸。"
+        },
+        {
+          "character": "冯异",
+          "type": "白",
+          "text": "冯异。"
+        },
+        {
+          "character": "严光",
+          "type": "白",
+          "text": "众位英雄请了！"
+        },
+        {
+          "character": "邓禹、王霸、冯异",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "严光",
+          "type": "白",
+          "text": "今有王莽挂榜招贤，开科取士。正好辅佐文叔进京应举，遇机起事，恢复江山， 铲除乱贼，重兴汉室。"
+        },
+        {
+          "character": "邓禹、王霸、冯异",
+          "type": "同白",
+          "text": "先生所言甚是。大家往白水村中去者！"
+        },
+        {
+          "character": "严光、邓禹、王霸、冯异",
+          "type": "同唱",
+          "text": "催动坐骑紧加鞭， 白水村中会俊贤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "引子",
+          "text": "隐姓埋名，听天命，何日飞腾！"
+        },
+        {
+          "character": "刘秀",
+          "type": "念",
+          "text": "高祖咸阳逞雄威，而今基业尽成灰。休笑王莽行篡废，且看苍穹饶过谁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子暗上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "俺、姓刘名秀字文叔，乃汉高祖九世玄孙。可恨王莽弑君篡位，残杀刘姓。是 吾逃至白水村中，改名金和，以避凶焰。结交好友严子陵等，待时而动。不知 何日还我旧日山河，思想起来，好不愁闷人也！"
+        },
+        {
+          "character": "刘秀",
+          "type": "唱",
+          "text": "英雄落魄待天时， 胸怀远略有谁知。 何日方能酬素志， 重兴炎汉奠帝基？"
+        },
+        {
+          "character": "严光",
+          "type": "内白",
+          "text": "严先生到！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "严先生到。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。严光、邓禹、王霸、冯异同上，刘秀迎。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严光、邓禹、王霸、冯异同进。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "严光、邓禹、王霸、冯异",
+          "type": "同白",
+          "text": "有坐。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "不知众位英雄驾到，有失远迎，望乞恕罪！"
+        },
+        {
+          "character": "严光",
+          "type": "白",
+          "text": "岂敢！今有远行，故尔造府相邀。 刘秀　　　　　　　　　　　但不知去向何方？"
+        },
+        {
+          "character": "严光",
+          "type": "白",
+          "text": "文叔有所不知，今有王莽在长安设下武闱，挂榜招贤。乘此机会，正好入京赶 考，以图起事。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "想俺刘秀避难来此，多蒙诸兄不弃，结为友好，待时而动，灭此逆贼。今日此 行，诚恐画虎不成反类其犬！"
+        },
+        {
+          "character": "严光",
+          "type": "白",
+          "text": "山人为此占得一卦。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "卦相如何？"
+        },
+        {
+          "character": "严光",
+          "type": "白",
+          "text": "文叔啊！"
+        },
+        {
+          "character": "严光",
+          "type": "唱",
+          "text": "山人精诚卜周易， 推算六爻占大吉。 此番科场应进取， 放心而行莫迟疑。"
+        },
+        {
+          "character": "王霸、冯异",
+          "type": "同白",
+          "text": "着哇！"
+        },
+        {
+          "character": "王霸、冯异",
+          "type": "同唱",
+          "text": "先生占卦非虚拟， 犹如指津唤痴迷。 际会风云宜努力， 独占鳌头洛水西。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "好哇！"
+        },
+        {
+          "character": "刘秀",
+          "type": "唱",
+          "text": "听罢言来兴奋起， 祸福休昝莫须提。 苍天若有扶汉意， 手刃莽贼血染衣。"
+        },
+        {
+          "character": "严光",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "严光",
+          "type": "唱",
+          "text": "谨言慎行须切记，"
+        },
+        {
+          "character": "邓禹",
+          "type": "唱",
+          "text": "莫露行藏使人疑。"
+        },
+        {
+          "character": "严光、邓禹",
+          "type": "唱",
+          "text": "今日已晚暂歇息，"
+        },
+        {
+          "character": "王霸、冯异",
+          "type": "同唱",
+          "text": "明朝五鼓赋别离。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": "岑彭",
+          "type": "内白",
+          "text": "嘚！马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭上。"
+        },
+        {
+          "character": "岑彭",
+          "type": "唱",
+          "text": "英雄自古重肝胆， 纵马勒缰奔长安。 此番独把鳌头占， 毕竟岑彭非等闲。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "俺、姓岑名彭子君然，棘阳人也。幼读兵书，深明战略，弓马刀剑，无不精通。 今闻莽主招纳贤士，不免前去应选。看前面已是长安，待俺趱行几步者！"
+        },
+        {
+          "character": "岑彭",
+          "type": "唱",
+          "text": "胸中韬略世间罕， 显亲扬名去一番。 催动胯下马走战， 看是何人敢比肩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭趟马。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "嘚！马来呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴汉、邳彤、景丹同上。"
+        },
+        {
+          "character": "吴汉、邳彤、景丹",
+          "type": "同唱",
+          "text": "长安武闱招英俊， 连袂赶考走一程。"
+        },
+        {
+          "character": "吴汉、邳彤、景丹",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "吴汉",
+          "type": "白",
+          "text": "吴汉。"
+        },
+        {
+          "character": "邳彤",
+          "type": "白",
+          "text": "邳彤。"
+        },
+        {
+          "character": "景丹",
+          "type": "白",
+          "text": "景丹。"
+        },
+        {
+          "character": "吴汉",
+          "type": "白",
+          "text": "二位贤弟请了！"
+        },
+        {
+          "character": "邳彤、景丹",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "吴汉",
+          "type": "白",
+          "text": "今有莽主开科取士，一同前去赴考。"
+        },
+        {
+          "character": "邳彤、景丹",
+          "type": "同白",
+          "text": "请啊！"
+        },
+        {
+          "character": "吴汉、邳彤、景丹",
+          "type": "同唱",
+          "text": "不分昼夜朝前奔， 不晓魁元是何人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴汉、邳彤、景丹同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": "马武",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武上。"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "皇王有道开科场， 南阳城来了马子张。 天生奇才不虚谎， 今日要夺状元郎。 英雄好汉人才广， 鹤立鸡群非寻常。 公侯将相如反掌， 要到长安把名扬。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "俺、南阳马武，昨日大街闲游，观见皇榜。才知长安设闱，考取状元。想咱马 武自幼十年寒窗，中年弃文习武，平生抱负不凡，正好前去夺魁。为此，连夜 打点行装，进京应选。看天色不早，不免马上加鞭！"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "扬鞭打马朝前闯， 武科场中逞豪强。 若能独占鳌头上， 才知男儿姓字香。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王林、巨毋霸同上，双起霸。"
+        },
+        {
+          "character": "王林、巨毋霸",
+          "type": "同念",
+          "text": "气贯长虹日月光，结束甲胄守闱墙。能征惯战无人挡，身任卫戍贡院旁。"
+        },
+        {
+          "character": "王林",
+          "type": "白",
+          "text": "王林。"
+        },
+        {
+          "character": "巨毋霸",
+          "type": "白",
+          "text": "巨毋霸。"
+        },
+        {
+          "character": "王林",
+          "type": "白",
+          "text": "将军请了！"
+        },
+        {
+          "character": "巨毋霸",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "王林",
+          "type": "白",
+          "text": "今上开科取士，我等卫戍闱墙，司马升座，两厢伺候！"
+        },
+        {
+          "character": "巨毋霸",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手引苏献同上。"
+        },
+        {
+          "character": "苏献",
+          "type": "点绛唇",
+          "text": "飞檄四方，皇恩浩荡，开秋榜，考取无双，上天施嘉奖。"
+        },
+        {
+          "character": "王林、巨毋霸",
+          "type": "同白",
+          "text": "参见司马！"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "站立两厢。"
+        },
+        {
+          "character": "王林、巨毋霸",
+          "type": "同白",
+          "text": "谢司马！"
+        },
+        {
+          "character": "苏献",
+          "type": "念",
+          "text": "奉命卫戍贡院门，铠甲鲜明不染尘。名传遐迩威风震，谁人不知大将军。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "某、大司马苏献。莽主开科考取贤士，昨奉圣命，保护闱场。 二位将军，人马可齐？"
+        },
+        {
+          "character": "王林、巨毋霸",
+          "type": "同白",
+          "text": "倶已齐备。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "如此，贡院门去者！"
+        },
+        {
+          "character": "王林、巨毋霸",
+          "type": "同白",
+          "text": "贡院门去者！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同走圆场。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "前道为何不行？"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "来此贡院门。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "人马列开！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏献坐。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "二位将军！"
+        },
+        {
+          "character": "王林、巨毋霸",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "传谕下去，各方举子分班而进，不得紊乱，禁止喧哗，违令者斩！"
+        },
+        {
+          "character": "王林、巨毋霸",
+          "type": "同白",
+          "text": "是。 下面听者！司马有谕：各方举子分班而进，不得紊乱，禁止喧哗，违令者斩！"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子同上，同进院门，同下。马武上，进院门。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "你是做什么的？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "咱是赴考的。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "这样相貌，也来赴考？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "咱是考奇才来的，嘿嘿，不是他娘的考相貌来的。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武进院门，下。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "众将官！四面围护，掩闭院门！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏献下，众人自两边抄下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四御林军、四太监、王凤引王莽同上。"
+        },
+        {
+          "character": "王莽",
+          "type": "点绛唇",
+          "text": "天应龙标，身膺大宝，非轻渺，继统临朝，一纸郊天表。"
+        },
+        {
+          "character": "王莽",
+          "type": "念",
+          "text": "耳边不住鼓声催，四方举子逞雄威。孤王设下秋榜地，看是何人夺武魁。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "孤、王莽。长安设闱，考取魁首，巩固藩篱，以靖盗寇。 王凤！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "与孤传旨，各方举子前来参驾！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "领旨。 下面听者！万岁有旨：各方举子齐来参驾！"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子同上。"
+        },
+        {
+          "character": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子",
+          "type": "同白",
+          "text": "众举子参见，吾皇万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子同跪拜。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子同起立。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "天下举子听者！朕以仁厚开基，迄今五载。目下四方扰乱，盗贼蜂生。因此， 开了武闱科场，拣选英才。得中状元者，敕封大将军；榜眼、探花封为偏将； 其余武士倶有职任，镇守诸邦，巩固藩篱。将来建立大功，不以五等，则以三 孤，封妻荫子，世代簪缨。朕意本固邦宁，尔等勿负朕心！"
+        },
+        {
+          "character": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子",
+          "type": "同白",
+          "text": "我等齐颂圣寿无疆！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子同跪拜。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子同起立。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "各归队伍！"
+        },
+        {
+          "character": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子",
+          "type": "同白",
+          "text": "遵旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子同下。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "王凤！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "吩咐先演弓、马、箭！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "领旨。 下面听者！万岁有旨：先演弓、马、箭！"
+        },
+        {
+          "character": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭、丑举子",
+          "type": "内同白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "景丹、邳彤、吴汉、刘秀、王霸、冯异、岑彭同上，同演弓、马、箭，同下。丑举子上。"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "哎呀慢着！我当这回会考是马马糊糊的呢，闹了半天，敢情是真考哇！像我这 样的，要是一烤不是就糊了吗？有啦，我先跟他们斗弄斗弄。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "哼！这一举子为何不演弓、马、箭！"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "这！我今日吃包子，明日吃面。"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "嗯！叫你演习弓、马、箭！"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "回皇帝老子的话：我没带弓、马、箭。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "赐他弓、马、箭！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "赐他弓、马、箭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "御林军甲与丑举子弓、马、箭。"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "这不是诚心跟我为难吗！我哪会这个？咳！没法子，谁叫我来了哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑举子上马。"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "丑举子",
+          "type": "念",
+          "text": "马儿生的凶，双手抓着鬃；性命也难保，如何拉得弓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑举子摔跺子。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "唗！你这举子有意搅闹！命你头顶弓箭，罚跪一旁。"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "是啦。得！没露成脸，倒现了眼啦。罚跪吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑举子顶弓箭跪。刘秀上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "唱",
+          "text": "心中恼恨贼王莽， 药酒弑君篡帝邦。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "且住！看彩亭之上坐的乃是王莽老贼。不免射他一箭，以报国仇也！"
+        },
+        {
+          "character": "刘秀",
+          "type": "唱",
+          "text": "雕翎搭在弓弦上， 管教老贼一命亡。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "看箭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀射王莽，下。"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "好哇！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "啊！何人暗放冷箭？带上来！"
+        },
+        {
+          "character": "四御林军",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四御林军同揪丑举子。"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "别揪，别揪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑举子跪。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "你这举子，为何暗放冷箭？"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "箭哪，不是我放的，我叫好来着。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "掌嘴！"
+        },
+        {
+          "character": "四御林军",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四御林军同打丑举子嘴。"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "别打，别打，我说。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "讲！"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "这！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑举子背供。"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "我给他个胡说呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑举子向王莽。"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "我见主子头上有花花蛇儿出现，所以才放箭，我是擒蛇救主啊！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "哼！无用之辈，赶他出去！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "赶他出去！"
+        },
+        {
+          "character": "四御林军",
+          "type": "同白",
+          "text": "出去！"
+        },
+        {
+          "character": "丑举子",
+          "type": "白",
+          "text": "嗬！没中上状元，差点被屈含冤啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四御林军同赶丑举子下。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "王凤！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "吩咐众举子，各显本领，抢夺魁元！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "领旨。 下面听着，万岁有旨：众举子各显本领，抢夺魁元！"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "领旨！ （冯异、景丹、邳彤、吴汉、王霸同上，冯异、景丹、邳彤、吴汉与王霸同开打，冯异、景丹、邳彤、吴汉 同败下。）"
+        },
+        {
+          "character": "王霸",
+          "type": "白",
+          "text": "呔！天下举子听者！"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "王霸",
+          "type": "白",
+          "text": "俺王霸战败众举子，有不服者，前来会俺一会！"
+        },
+        {
+          "character": "岑彭",
+          "type": "内白",
+          "text": "岑彭来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭上。岑彭、王霸同打对枪，王霸败下。冯异上，接打，冯异败下。"
+        },
+        {
+          "character": "岑彭",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭下马。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "呔！天下举子听者！"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "有本领者，再会俺一会！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "战败众举子者何人？"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "棘阳岑彭。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "近前听封！"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "钦点状元！"
+        },
+        {
+          "character": "马武",
+          "type": "内白",
+          "text": "且慢！"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "何人抗旨？"
+        },
+        {
+          "character": "马武",
+          "type": "内白",
+          "text": "马武来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武上。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "呔！岑彭，留下状元，与咱夺取。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "住了！想俺岑彭战败天下举子，钦点状元，安能与你？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "岑彭！咱马武一马三箭，三马九箭，箭中红圆，怎能叫你夺得魁首！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "答话者何人？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "南阳马武。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "听你之言，点中岑彭状元，你心中敢是不服？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "唔！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "也罢！你二人弓马倶是一般，还要考试胸中韬略。 岑彭！"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "你有何能？"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "容奏！"
+        },
+        {
+          "character": "岑彭",
+          "type": "唱",
+          "text": "上知黄公三略法，"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "马武呢？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "容奏！"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "下知六韬定邦家。"
+        },
+        {
+          "character": "岑彭",
+          "type": "唱",
+          "text": "善断王禅鬼谷卦，"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "能用韩信计囊沙。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "你是龙，"
+        },
+        {
+          "character": "岑彭",
+          "type": "唱",
+          "text": "某有降龙法，"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "你是虎，"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "咱有伏虎叉。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "你要伏谁？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "你要降谁？"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "俺要降你！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "咱要伏你！"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "岑彭",
+          "type": "唱",
+          "text": "气得岑彭咽喉哑！"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "圆睁虎目咬钢牙！"
+        },
+        {
+          "character": "岑彭",
+          "type": "唱",
+          "text": "某的金枪难招架！"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "咱的宝刀也不差！"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "你不能！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "你不能！"
+        },
+        {
+          "character": "岑彭、马武",
+          "type": "同白",
+          "text": "你不能！你不能！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "且慢！你二人韬略不分强弱。还有何能可以夺元？"
+        },
+        {
+          "character": "岑彭、马武",
+          "type": "同白",
+          "text": "容奏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "既然如此，你二人何不舍命求元？"
+        },
+        {
+          "character": "岑彭、马武",
+          "type": "同白",
+          "text": "舍命求元也是情愿！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "演武上来！"
+        },
+        {
+          "character": "岑彭、马武",
+          "type": "同白",
+          "text": "领旨！"
+        },
+        {
+          "character": "岑彭",
+          "type": "唱",
+          "text": "岑彭领旨丹墀下，"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "马武岂让小娃娃！"
+        },
+        {
+          "character": "岑彭、马武",
+          "type": "同唱",
+          "text": "人来抬枪带骏马，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭、马武同上马。"
+        },
+        {
+          "character": "岑彭、马武",
+          "type": "同白",
+          "text": "舍命求元不惧他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、岑彭同打，双收下。吴汉上。"
+        },
+        {
+          "character": "吴汉",
+          "type": "唱",
+          "text": "舍命求元不退让， 二虎相争必有伤。"
+        },
+        {
+          "character": "吴汉",
+          "type": "白",
+          "text": "且住！看岑彭、马武舍命求元，面带煞气。有道是：二虎相争，必有一伤。俺 不免与他二人解围便了！"
+        },
+        {
+          "character": "吴汉",
+          "type": "唱",
+          "text": "催马来在闱场上， 慢闪虎目看端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭、马武同上，同打。"
+        },
+        {
+          "character": "吴汉",
+          "type": "唱",
+          "text": "雕翎放出弓弦响，"
+        },
+        {
+          "character": "吴汉",
+          "type": "白",
+          "text": "看箭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭、马武自两边分下。"
+        },
+        {
+          "character": "吴汉",
+          "type": "唱",
+          "text": "解围全凭箭穿杨。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "何人暗放冷箭？"
+        },
+        {
+          "character": "吴汉",
+          "type": "白",
+          "text": "颍川吴汉。"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "颍川吴汉。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "进前回话！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "进前回话！"
+        },
+        {
+          "character": "吴汉",
+          "type": "白",
+          "text": "叩见万岁！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "你为何暗放冷箭？"
+        },
+        {
+          "character": "吴汉",
+          "type": "白",
+          "text": "启奏万岁：臣见他二虎相争，恐有一伤，为此放箭解围。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "果是好箭，赐你榜眼。"
+        },
+        {
+          "character": "吴汉",
+          "type": "白",
+          "text": "谢主隆恩！"
+        },
+        {
+          "character": "吴汉",
+          "type": "唱",
+          "text": "虽然未占鳌头上， 榜眼也不比寻常。"
+        },
+        {
+          "character": "吴汉",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴汉下。岑彭、马武自两边分上。"
+        },
+        {
+          "character": "岑彭",
+          "type": "唱",
+          "text": "马武果然好刀法，"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "岑彭周身似雪花！"
+        },
+        {
+          "character": "岑彭、马武",
+          "type": "同唱",
+          "text": "来在丹墀下战马，"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "见了万岁说根芽。"
+        },
+        {
+          "character": "岑彭、马武",
+          "type": "同白",
+          "text": "启奏万岁：我二人正在比试武艺，有人放箭解围。只是胜负未分，情愿上马再 战。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "且慢！你二人比较武艺，虽然不分高下，还当与岑彭为元。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "啊！想俺马武刀法武艺，倶不差于岑彭，岂肯甘居其下？"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "话非那样讲说，喏，岑彭也曾战败天下举子。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "万岁，适才俺与岑彭比武，我主可曾看见？"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "倒也看见。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "咱马武的刀？"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "这箭？"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "也好。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "胸中韬略？"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "好便好，只是你的面貌丑陋！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "不如岑彭！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "喳！喳！喳！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "故尔点他为元！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武怒。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "哇呀呀……嘿！我只道考试武略，不以相貌取人。早知道你中了那岑彭的面貌， 不中俺马武的奇才，嘿嘿！咱也就不来了！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "榜眼已中吴汉，念你远路而来，赐你探花。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "探花不要！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "好个烈性的举子！ 殿前武士，将丑鬼叉出场去！"
+        },
+        {
+          "character": "四御林军",
+          "type": "同白",
+          "text": "啊！走！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "哼！哼！哼！"
+        },
+        {
+          "character": "四御林军",
+          "type": "同白",
+          "text": "走！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "走！ 呔！岑彭！你马老爷的刀法怎么样？"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "倒也不错。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "这箭？"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "也好。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "胸中韬略？"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "好便好，可惜不中！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "俺马武宁为圣主之干城，不作篡贼的羽翼！今日离却长安，虽败犹荣。"
+        },
+        {
+          "character": "马武",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武下。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "岑彭听封！"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "钦点状元，敕封棘阳大将军。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "谢主隆恩！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "王凤！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "将探花赐与王霸。余下举子以武艺优劣替孤选拔，再为封赏！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "领旨。请驾回宫！"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "摆驾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": "马武",
+          "type": "内白",
+          "text": "好恼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武上。"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "王莽鄙陋似狐兔， 嫌俺貌丑性粗鲁。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "可恨王莽轻贤慢士，取中岑彭，致使俺马武名落孙山。来此宫门，俺不免取出 笔砚，题诗一首，背叛于他！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武题诗。"
+        },
+        {
+          "character": "马武",
+          "type": "念",
+          "text": "“胸中万丈虹霓吐，矢志男儿愁千古。指凭一跃上青云，逆料魁首当属吾。 莽贼白眼慢贤人，为嫌丑陋将我逐。此间容身已无处，手提长剑归真主！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "南阳马武题。”"
+        },
+        {
+          "character": "马武",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "题诗已毕，待俺回转家乡。正是："
+        },
+        {
+          "character": "马武",
+          "type": "念",
+          "text": "题诗在宫墙，忿怒转南阳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "念",
+          "text": "可恨贼王莽，交臂失栋梁。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "壮士请转！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "啊！你是何人？"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "某乃……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀左右望。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "汉室宗支南阳刘秀是也。适才考场观见壮士气概不凡，愿相接纳。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "哎呀！想俺马武乃是粗鄙之人，既承不弃，一同回转南阳，共谈肺腑。"
+        },
+        {
+          "character": "马武、刘秀",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "从今离却莽王都，"
+        },
+        {
+          "character": "刘秀",
+          "type": "唱",
+          "text": "回转南阳逞雄图。"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "虽然未登青云路，"
+        },
+        {
+          "character": "刘秀",
+          "type": "唱",
+          "text": "辅保篡贼非坦途。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "着哇！请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀、马武同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四御林军、四太监、王凤引王莽同上。"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "启奏万岁：今有马武在宫门题下反诗一首，请旨定夺。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "抄录下来！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王凤抄诗，呈。"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "万岁请看。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "待孤一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。王莽看诗。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "武丑哇，好大胆！"
+        },
+        {
+          "character": "王莽",
+          "type": "唱",
+          "text": "马武竟敢无天日， 宫门以外题反诗。 王凤与孤传勅旨，"
+        },
+        {
+          "character": "王丰",
+          "type": "内白",
+          "text": "王丰有本启奏！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "启奏万岁：王丰有本启奏。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "宣他上殿！"
+        },
+        {
+          "character": "王凤",
+          "type": "白",
+          "text": "领旨！ 万岁有旨：王丰上殿！"
+        },
+        {
+          "character": "王丰",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王丰上。"
+        },
+        {
+          "character": "王丰",
+          "type": "唱",
+          "text": "快将刘秀奏主知。"
+        },
+        {
+          "character": "王丰",
+          "type": "白",
+          "text": "臣、王丰有本启奏。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "平身。奏来！"
+        },
+        {
+          "character": "王丰",
+          "type": "白",
+          "text": "启奏万岁：适才臣在大街闲游，观见一人面貌魁梧，认明他是汉室宗支，名唤 刘秀。前者杀戮刘姓，此人落网。今日此来，正应妖星犯阙之兆。请旨拿问， 以遏乱萌。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "啊！有这等事！就命你传孤旨意，着大司马苏献率领人马，紧闭城门，出下告 示，捉拿妖人刘秀、反贼马武。有人拿住刘秀，封为九连王；捉住马武，封为 万户侯。若有隐藏者，全家诛戮！领旨下殿！"
+        },
+        {
+          "character": "王丰",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王丰下。"
+        },
+        {
+          "character": "王莽",
+          "type": "白",
+          "text": "退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": "差役甲、差役乙",
+          "type": "内同白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "差役甲、差役乙同上。"
+        },
+        {
+          "character": "差役甲",
+          "type": "念",
+          "text": "守卫在城门，"
+        },
+        {
+          "character": "差役乙",
+          "type": "念",
+          "text": "昼夜多劳神。"
+        },
+        {
+          "character": "差役甲",
+          "type": "念",
+          "text": "刮风躲门洞，"
+        },
+        {
+          "character": "差役乙",
+          "type": "念",
+          "text": "下雨门坎上蹲。"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "干嘛门坎上蹲哪？"
+        },
+        {
+          "character": "差役乙",
+          "type": "白",
+          "text": "嘿！你不知道咱们城门里存水吗？"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "那就是啦。伙计请啦！"
+        },
+        {
+          "character": "差役乙",
+          "type": "白",
+          "text": "请啦！"
+        },
+        {
+          "character": "差役甲",
+          "type": "白",
+          "text": "你我奉了司马堂谕，紧闭城门，捉拿刘秀、马武。有人拿住刘秀，封为九连王； 捉住马武，封为万户侯。这两个咱们要是拿住一个，岂不是官爵显耀了吗？"
+        },
+        {
+          "character": "差役乙",
+          "type": "白",
+          "text": "得啦！没有那么容易的事情。咱们还是干什么说什么，多留点神。"
+        },
+        {
+          "character": "马武、刘秀",
+          "type": "内同白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、刘秀同上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "看城门紧闭，如何是好？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "待俺上前。 呔！开城！"
+        },
+        {
+          "character": "差役甲、差役乙",
+          "type": "同白",
+          "text": "什么，开城？你真不知道，还是装糊涂呢？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "俺不晓得。"
+        },
+        {
+          "character": "差役甲、差役乙",
+          "type": "同白",
+          "text": "你不知道，听我告诉你：今有司马堂谕下来，捉拿刘秀、马武。不准闲人出入， 趁早回去！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "原来如此。你二人手执何物？"
+        },
+        {
+          "character": "差役甲、差役乙",
+          "type": "同白",
+          "text": "这个，这不是刀吗？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "哦！这是刀？"
+        },
+        {
+          "character": "差役甲、差役乙",
+          "type": "同白",
+          "text": "对啦。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀、马武同夺刀杀差役甲、差役乙。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "待俺斩关落锁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武劈锁。马武、刘秀同出城，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四文堂、四上手引苏献同上。王林、巨毋霸急同上。"
+        },
+        {
+          "character": "王林、巨毋霸",
+          "type": "同白",
+          "text": "禀司马：刘秀、马武斩关落锁而逃。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "追！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀、马武同上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "追兵已至，如之奈何？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "待俺抵挡一阵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏献、四文堂、四上手同倒脱靴上，同起打，刘秀、马武同败下，苏献、四文堂、四上手同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀、马武、王霸、冯异自两边分上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "原来是二位仁兄！苏献来得厉害，如何是好？"
+        },
+        {
+          "character": "王霸、冯异",
+          "type": "同白",
+          "text": "我二人抵挡一阵！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "须要小心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀、马武同下。苏献、四文堂、四上手同上，王霸、冯异同杀。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "你二人敢是反了？"
+        },
+        {
+          "character": "王霸、冯异",
+          "type": "同白",
+          "text": "特来取你首级！ （众人同起打。苏献败下。王林、巨毋霸同上，接打，王霸、冯异同败下。刘秀、马武同上，苏献上，同起 打，刘秀、马武同败下，苏献追下。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "火彩。龙形上，苏献、四文堂、四上手自两边分上，火彩。苏献、四文堂、四上手同败。龙形下。"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "哎呀且住！正要擒拿刘秀、马武，忽然闪出火光，将某的人马烧退，倒便宜了 这两个贼子！ 众将官！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "苏献",
+          "type": "白",
+          "text": "回奏莽主去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

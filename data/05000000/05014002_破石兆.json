@@ -1,0 +1,352 @@
+{
+  "script_id": "05014002",
+  "title": "破石兆",
+  "alias": [],
+  "source": "《传统剧目汇编》",
+  "characters": [
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "孙权",
+      "hangdang": "净"
+    },
+    {
+      "name": "赵云",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "刘备至东吴招亲，在山上见顽石，暗中卜祝：重回荆州，剑劈石为两半。孙权见之，亦砍石自占。刘备见吴\n驾舟妇女，讥孙权不善驰马，孙权跃马示威，刘备亦乘马与较，二人互斗，刘备不敌，赵云赶至，败孙权而\n救刘备，劝刘备以后无事不可出宫。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手引赵云同上。"
+        },
+        {
+          "character": "赵云",
+          "type": "念",
+          "text": "忠勇常山将，威名镇荆襄。护驾东吴地，赤胆保刘王。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "小将赵云。保主南郡招亲。今朝独坐无聊，不免带领军士，出馆驿往城外打围 则个。 众将官！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "将人马扯出城去！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "先生八卦果不妄， 今朝东阁配鸾凰。 将身来在山头上， 顽石挡路恼人肠。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "且住！慢说东吴不容我刘备，就是一块顽石也不容我刘备！有剑在此，不免祷 告天地，破石为兆，以问吉凶。 哎，苍天吓，苍天！我刘备若得重回荆襄，复兴汉室，剑下石破！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。刘备将石劈为两半。孙权上。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "吓，皇叔！此石有何碍处，为何一剑，挥为两段？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "刘备在此，破石为兆。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "如此，我也破石为兆。借剑一用！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "拿去！且慢，可知大丈夫行事。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "岂肯暗地伤人！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "拿去！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "哎，苍天吓，苍天！我孙权若得北灭曹操，西灭刘——"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "“刘”什么？"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "西灭刘璋，剑下石破！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。孙权将石劈开。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "果然剑下石破！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊声。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哪里这等喧嚷？"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "江面渔船游戏。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "同登高阁一望！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、孙权同上桌。众渔妇同上，过场。〖步步娇〗。众渔妇同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "笑",
+          "text": "吓哈哈哈！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "皇叔为何发笑？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "非孤发笑。我笑你东吴男子，不会乘骑，妇人倒会驾舟。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "皇叔！你道我国男人，不会乘骑，待我出一辔头你看！马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙权下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓！你看孙权，人又高，马又大，骑在马上，犹如天神一般。怪不得曹操常常 言道：生子当如孙仲谋，此言诚不谬也！且看他回马如何。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙权上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "果然英雄出众，大事必成！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "皇叔！有马在此，何不也去一辔？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "使得。马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、孙权同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。四下手、赵云同上。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "且住！方才小军报道，主公与孙权并马出城，恐为所害。不免将人马埋伏驻马 坡。 众将官！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "人马埋伏驻马坡！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。众人同下。刘备、孙权同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "二马相骤驻马坡，"
+        },
+        {
+          "character": "孙权",
+          "type": "唱",
+          "text": "一来一往争山河。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "一朝鼎足非小可，"
+        },
+        {
+          "character": "孙权",
+          "type": "唱",
+          "text": "只恐目下动干戈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、孙权同杀。四下手、赵云同上，刘备跌，赵云斗孙权，孙权败下。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "赵云救驾！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，你是赵云！你保的好驾？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "方才孙权拔剑要害主公，若非为臣在此，主公一命休矣！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎吓！方才孙权面带杀气，拔剑斩孤，若不是赵云在此，险遭毒手。 赵云，你我深入虎穴，难保无事。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "以后有事无事，不可出宫。权居东阁，自有太后护庇。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "将人马扯回馆驿！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "得令！ 众将，"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "人马扯回馆驿！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖江儿水〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

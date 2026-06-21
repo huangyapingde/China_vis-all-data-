@@ -1,0 +1,2381 @@
+{
+  "script_id": "03026001",
+  "title": "坛山谷",
+  "alias": [
+    "姜维屯田"
+  ],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "姜维",
+      "hangdang": "武生，红脸三块瓦、黪满"
+    },
+    {
+      "name": "王瓘",
+      "hangdang": "净，紫脸花三块瓦、黑满、扎巾、箭袖、马褂带宝剑"
+    },
+    {
+      "name": "司马望",
+      "hangdang": "老生，红靠，黑三"
+    }
+  ],
+  "plot": "邓艾、钟会奉司马昭之命，分兵进取西蜀。钟会兵取汉中，邓艾兵扎祁山，并遣王瓘诈降，为姜维识破，遂\n将计就计，魏兵大败。邓艾派党均秘密入川，贿赂中侍黄皓，黄皓进谗于刘禅。刘禅信黄皓言，召姜维班师。\n姜维见刘禅后，痛斥黄皓，并请杀之。刘禅为姜维、黄皓二人和解。姜维为保国安身计，屯田沓中，待机\n伐魏。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、四将、旗牌引钟会同上。"
+        },
+        {
+          "character": "钟会",
+          "type": "白",
+          "text": "众军士，趱行者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四龙套、四下手、四将同领起，同挖开。"
+        },
+        {
+          "character": "钟会",
+          "type": "白",
+          "text": "某，镇西将军钟会。奉了司马大将军之命，统领关中人马，总督青、徐、兖、 豫、荆、扬等处兵马，假节钺，持符令，会同征西将军邓艾约期伐蜀。起兵之 时，假作拘集海船，虚张声势，征伐东吴，使吴兵不敢妄动。因此领兵，径取 汉中。左右二军：一取骆谷，一取子午谷，由崎岖小路，险道而行。 众将官，起兵前往！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同领下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "傅佥、蒋舒、廖化、张翼同上，同起霸。"
+        },
+        {
+          "character": "傅佥",
+          "type": "念",
+          "text": "一片丹心扶炎汉，"
+        },
+        {
+          "character": "蒋舒",
+          "type": "念",
+          "text": "欲继前贤美名传。"
+        },
+        {
+          "character": "廖化",
+          "type": "念",
+          "text": "久经沙场曾百战，"
+        },
+        {
+          "character": "张翼",
+          "type": "念",
+          "text": "恢复疆土定中原。"
+        },
+        {
+          "character": "傅佥、蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "傅佥。"
+        },
+        {
+          "character": "蒋舒",
+          "type": "白",
+          "text": "蒋舒。"
+        },
+        {
+          "character": "廖化",
+          "type": "白",
+          "text": "廖化。"
+        },
+        {
+          "character": "张翼",
+          "type": "白",
+          "text": "张翼。"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "列位将军请了！"
+        },
+        {
+          "character": "蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "今当景耀元年，大将军姜伯约起兵伐魏，因此齐集辕门。已打二鼓，两厢伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水龙吟〗。四绿龙套、四上手、四大刀手、四月华旗、中军、姜维同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "点绛唇",
+          "text": "扶保炎汉，恢复中原，遵师言，誓扫狼烟，重整旧河山。"
+        },
+        {
+          "character": "姜维",
+          "type": "念",
+          "text": "遵师遗命统貔貅，誓将壮志继武侯。屡伐中原兵力厚，不靖国贼愧吴钩。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "某，姓姜名维字伯约。今值景耀元年，奏明幼主，兴兵伐魏。近来朝政日非， 君王溺于酒色，信任中侍黄皓，不理国事。某一息尚存，誓靖烽烟，恢复中华， 以继先师武侯之志。前在汉中，选得名将傅佥、蒋舒二员，训练人马，领兵 伐魏。今当出师之日。 来！"
+        },
+        {
+          "character": "傅佥、蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "夏侯将军进帐。"
+        },
+        {
+          "character": "傅佥、蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "夏侯将军进帐！"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯霸上。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "念",
+          "text": "只为敌国君王恨，投蜀依人灭权臣。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "参见将军！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "仲权少礼，请坐。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "今司马师新亡，司马昭初握重权，即行弑主，邻邦理宜问罪。况又是仇敌之国， 吾今伐魏，正是机会，当用何法？"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "蜀地浅狭，宜暂据险守分，恤军爱民，徐图中原，此乃保国之计也。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "不然！昔丞相六出祁山，不幸半途而丧。某遵遗命，当尽忠报国，以继其志。 今魏有隙可乘，此时不伐，更待何时？"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "将军之言甚是。可将轻骑先出枹罕，若得洮西、南安，则诸郡可定矣。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "仲权之意，甚合兵法。出其不意，攻其无备，必能一战成功。仲权可领三千铁 骑，先出枹罕，直取洮水，须要小心。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯霸带四上手同下。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "众将官，兵伐中原！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖五马江儿水〗。众人倒脱靴同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手引邓艾同上。"
+        },
+        {
+          "character": "邓艾",
+          "type": "引子",
+          "text": "天资捷敏，明韬略，才智超群。"
+        },
+        {
+          "character": "邓艾",
+          "type": "念",
+          "text": "幼读诗书韬略精，胸怀大志性聪明。丈夫无毒难称勇，别有奇谋建功勋。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "俺，姓邓名艾字士载。乃义阳人士。幼年丧父。素怀大志，喜读兵书，熟知山 川形势。平生口吃，故有艾艾之诮。受知于司马公父子，参赞军机。后为兖州 刺史。因讨平寿春文钦父子，命为征西将军，征讨西蜀。几次与姜维交锋，互 有胜负，不能得丝毫之利。那姜维堪称劲敌。司马大将军又命钟会为镇西将军， 进兵西蜀，如今兵扎汉中。俺今驻军祁山，须密定良谋，窥测川中山川形势， 再定进取，以免大功为钟会夺去。昨闻密探报道，姜维有入寇消息，尚不知 由哪路进兵。曾命参军王瓘探听虚实，未见回报。 左右，伺候了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王瓘上。"
+        },
+        {
+          "character": "王瓘",
+          "type": "念",
+          "text": "欲施奇谋须有隙，恰逢机会正应时。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "末将王瓘参！"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "参军免礼，请坐。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "探听得姜维从哪路进兵？"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "末将探明那姜维人马，仍奔祁山而来。末将并有一计献上。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "参军有何妙计？"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "将军容禀！"
+        },
+        {
+          "character": "王瓘",
+          "type": "唱",
+          "text": "恰值王经全家丧， 忠烈名儿天下扬。 借此机会即前往， 谅那姜维不提防。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "末将愿往蜀营，前去诈降。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "参军此计虽妙，只怕瞒不过那姜维。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "将军，末将愿舍命前往！"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "参军既探听明白，蜀军直奔祁山而来，未从他路分兵，但行此计无妨。某命司 马望领大军在坛山接应。参军可领五千精兵，连夜由斜谷迎接。蜀兵有何消息， 参军可密寄司马望便了！"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "王瓘",
+          "type": "唱",
+          "text": "帐中领了将军令， 前去诈降投蜀营。 全仗机缘相扶定， 要把姜维一鼓擒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王瓘下。"
+        },
+        {
+          "character": "邓艾",
+          "type": "唱",
+          "text": "参军心志多坚定， 要瞒姜维恐不能。 即命人马去接应， 且在祁山等好音。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "来！持我令箭一支，命司马望统领洮西人马，在坛山接应。俟接到参军密信， 即刻进兵。掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四绿龙套、四大刀手、四月华旗、傅佥、蒋舒、廖化、张翼、姜维、大纛同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮散板",
+          "text": "累战挫折魏人胆， 要继武侯伐中原。 统领雄兵三十万，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。王瓘自大边上，带四下手同挡住。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮散板",
+          "text": "前哨不行为哪般？"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "前哨为何不行？"
+        },
+        {
+          "character": "傅佥、蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "魏兵拦路。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "人马列开！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王瓘下马。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "魏国降将王瓘，求见主帅！"
+        },
+        {
+          "character": "傅佥、蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "魏国降将，求见大将军。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "唤为首之人，马前答话！"
+        },
+        {
+          "character": "傅佥、蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "啊！ 为首之人，马前答话！"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "魏国降将王瓘，叩见将军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维看。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "王瓘，你今前来，为了何事？"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "末将乃王经之侄男。可恨司马昭弑君，将我叔父杀死，末将痛恨在心。今幸将 军兴兵问罪，故领本部心腹兵丁五千，前来投降。乞将军开恩，收留麾下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维看王瓘，作了然。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "既是真心投降，起来。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "谢将军！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "你且随某同赴军前便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王瓘出帐。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮散板",
+          "text": "王瓘复仇投炎汉， 天助蜀军遇机缘。 传令靠山安营寨，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同安营。"
+        },
+        {
+          "character": "姜维",
+          "type": "散板",
+          "text": "且唤王瓘问根源。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "唤降将！"
+        },
+        {
+          "character": "傅佥、蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "降将进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王瓘进帐。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "参见将军！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "汝既真心来降，某岂不诚心相待？现在军中所患者，不过粮草耳。今有粮车数 百辆，屯于川口，汝可运赴祁山，待等将军将粮草运到，某即起兵祁山，攻取 魏营。听某令下！"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "蜀、魏连年常交战， 只有往来粮道难。 沿途小心防颠险， 早将军饷运祁山。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "王瓘，你可带领本部兵马一半，前去运粮；其余一半，随某攻打祁山魏营。去 吧！"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "王瓘",
+          "type": "西皮摇板",
+          "text": "军情紧急恐迟慢， 星夜运粮赴祁山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王瓘领四下手同下。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "将计就计来行险， 大破魏兵得胜还。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯霸上。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "西皮摇板",
+          "text": "适才探马来报信， 王瓘投降是虚情。 将身且把中军进， 见了将军说分明。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "末将参！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "仲权少礼，请坐。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "谢坐。闻听魏将王瓘，自称王经之侄投降我军，将军已准其投降，当年末将在 魏时，未闻王经有侄。王瓘前来投降，必然有诈！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "某早已知王瓘之诈，想那司马昭奸雄不亚曹操，既杀王经，安肯留其侄统兵在 外。我今分其兵势，将计就计而行。 傅佥听令！"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "命你率兵二千，暗地探听王瓘消息，报我知道。"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "傅佥下。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "我军暂不出斜谷，等候王瓘消息，自有破敌之法。仲权暂在营中候信。掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引王瓘同上。"
+        },
+        {
+          "character": "王瓘",
+          "type": "西皮摇板",
+          "text": "姜维已中诈降计， 修书告与魏营知。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "俺，王瓘。前来诈降蜀营，已将姜维瞒过，命我去至川口运粮。待我修书一封， 报与司马望将军：八月二十日，从小路运粮，送归大寨。请司马望将军，带 领人马在坛山接应。待我修书。王瓘呵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急三枪〗。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "来，传旗牌！"
+        },
+        {
+          "character": "上手甲",
+          "type": "白",
+          "text": "旗牌进见！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "参见将军！"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "这里有书信一封，下到坛山司马望将军麾下，叫他照书行事。须要小心！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "众将军，人马往川口去者！"
+        },
+        {
+          "character": "王瓘",
+          "type": "西皮摇板",
+          "text": "前往川口把粮运， 一战成功破蜀兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四校刀手、四将同上，司马望上。"
+        },
+        {
+          "character": "司马望",
+          "type": "念",
+          "text": "奉命提兵将，连夜离洮阳。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "俺，司马望。奉了征西将军之命，驻扎坛山，接应王瓘，大战姜维。就此起兵 前往。 众将官，兵发坛山去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同领下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、傅佥同上。"
+        },
+        {
+          "character": "傅佥",
+          "type": "念",
+          "text": "兵扎崎岖境，等候捉贼人。"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "俺，傅佥。奉了都督将令，埋伏山路，探听王瓘动静。 众军士，小心了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "奉了将军命，坛山报信音。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同拿旗牌。"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "拿着了。 启将军：拿住魏营奸细。"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "细细搜来！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "有书信一封。"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "绑赴斜谷去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手押旗牌同下，傅佥下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四绿龙套同上，姜维披斗篷上。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮原板",
+          "text": "秉忠心怀赤胆力扶炎汉， 继先师未竟志誓伐中原。 将用命军效死连年鏖战， 报国家一息存不敢偷安。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "傅佥上。"
+        },
+        {
+          "character": "傅佥",
+          "type": "唱",
+          "text": "夤夜入营来禀见， 捉住魏营奸细还。"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "参见都督！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "将军深夜进帐，有何军情？"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "末将拿获魏营奸细，搜出书信一封，将军请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维看书。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "吩咐击鼓升帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维下。四绿龙套子两边分下。"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "击鼓升帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四绿龙套、四月华旗、蒋舒、廖化、张翼、中军、姜维同上，姜维亮相，进帐。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "将魏营奸细绑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手押旗牌同上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "小人与主帅叩头！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "你奉何人所差？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "小人奉王瓘将军所差。命小人将书下到坛山司马望将军营内，叫他照书行事。 不想小人为都督拿获，都督饶命！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "可是实言？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "俱是实言。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "将他衣服剥下，押入后营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手押旗牌同下。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "待某将原书，八月二十日改为八月十五日，约魏兵在坛山等候接应便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维改书。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "中军，命你假作魏营下书人，将书下与司马望，约他八月中秋月明之时，坛山 接应。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军接书下。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "张翼听令！"
+        },
+        {
+          "character": "张翼",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "命你准备大车五百辆，装载引火之物，八月十五日月明时，在坛山等候，放火 截杀！"
+        },
+        {
+          "character": "张翼",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "傅佥听令！"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "命你带兵二千，扮作魏兵模样，打着运粮旗号，大战魏兵！"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "蒋舒、廖化引兵直取祁山。不得有误！"
+        },
+        {
+          "character": "蒋舒、廖化",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "待等八月中秋，本督于夏侯霸各引一军，埋伏山中，大破魏兵。正是："
+        },
+        {
+          "character": "姜维",
+          "type": "念",
+          "text": "弃却粮车将计就，不灭魏兵誓不休。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四校刀手、四将、司马望同上。"
+        },
+        {
+          "character": "司马望",
+          "type": "唱",
+          "text": "统领雄兵候交战， 等候王瓘书信还。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "念",
+          "text": "奉了都督令，假意献书文。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "奉了王参军之命，来下密信，求见司马将军。"
+        },
+        {
+          "character": "龙套",
+          "type": "白",
+          "text": "候着！ 启将军：下书人求见。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "唤他进见！"
+        },
+        {
+          "character": "龙套",
+          "type": "白",
+          "text": "将军传，小心了。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "小人与将军叩头！"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "罢了。你奉何人所差？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "奉王参军所差，密书呈上。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "待我拆书一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急三枪〗。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "你回去禀告王将军，我这里照书行事。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "八月中秋月明时，在坛山相会。将军千万早早起兵，不可迟误。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "知道了。回复参军去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "等到八月中秋，往坛山接应王参军便了。"
+        },
+        {
+          "character": "司马望",
+          "type": "唱",
+          "text": "等待中秋月光满， 迎接粮车在坛山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套引夏侯霸同上。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "俺，夏侯霸。奉了都督将令，往川口擒拿王瓘，乘胜攻取洮阳。此乃反客为主 之计。 众将官！"
+        },
+        {
+          "character": "四白龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "起兵前往！"
+        },
+        {
+          "character": "四白龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手推粮车引张翼同上。"
+        },
+        {
+          "character": "张翼",
+          "type": "唱",
+          "text": "干柴茅草堆车上， 为赚魏兵做军粮。 等待中秋明月上， 坛山以里冒火光。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引傅佥同上。"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "假扮魏军，迎上前去！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四校刀手、四将引司马望同上。"
+        },
+        {
+          "character": "司马望",
+          "type": "唱",
+          "text": "前日参军报一信， 中秋月下破蜀军。 且上高峰观动静， （四龙套、四校刀手、四将引司马望同上山，司马望看。四上手推粮车引张翼同上，过场，同下。四龙套， 掌旗上写“运粮官王”字样随傅佥同上，过场，同下。）"
+        },
+        {
+          "character": "司马望",
+          "type": "唱",
+          "text": "果有粮车向前行。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "远远望见山洼之中，果有粮车，尽皆魏兵护送。想此事，王瓘定然成功也！"
+        },
+        {
+          "character": "四将",
+          "type": "同白",
+          "text": "我等何不迎上前去？"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "且慢！王瓘虽然成功，但山势掩映，若有伏兵，急难退步，只可在此等候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假魏兵上。"
+        },
+        {
+          "character": "假魏兵",
+          "type": "白",
+          "text": "前军可是司马将军？王参军粮车过界，蜀军大队人马已入坛山，我军截杀，正 是机会。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "既有此机会，你在前面引路，迎上前去！"
+        },
+        {
+          "character": "假魏兵",
+          "type": "白",
+          "text": "随我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假魏兵引司马望、四龙套、四校刀手、四将同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张翼引四上手推车同上，同站下场门。〖呐喊声〗。假魏兵引司马望、四龙套、四校刀手、四将同上。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "前面可是王参军的人马？"
+        },
+        {
+          "character": "张翼",
+          "type": "白",
+          "text": "正是魏营人马。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "王参军今在何处？"
+        },
+        {
+          "character": "张翼",
+          "type": "白",
+          "text": "现在山后引蜀兵入山，将军在此等候截杀便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、傅佥同上。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "来的可是王参军？"
+        },
+        {
+          "character": "傅佥",
+          "type": "白",
+          "text": "司马望，你中我家都督之计，还不下马受死！"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "看枪！ （傅佥、司马望过合架住。张翼放火。四上手、八龙套、四校刀手、四将同钻烟筒下。司马望、傅佥、张翼 同打三股档，同亮相，同下。上下手单起打。） （〖急急风〗。四绿龙套、四月华旗、蒋舒、廖化同上，同站门。马童甲翻上，姜维拿大刀上，马童乙打纛 旗上。下场门撒火彩。）"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "看前面号火已起。众将官，杀上前去！"
+        },
+        {
+          "character": "四龙套、蒋舒、廖化",
+          "type": "同白",
+          "text": "啊！ （四绿龙套、四月华旗同跑圆场，过场，同下。姜维趟马，马童甲翻。姜维、蒋舒、廖化同走大圆场。姜维、 蒋舒、廖化同亮相，同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手引王瓘同上。"
+        },
+        {
+          "character": "王瓘",
+          "type": "念",
+          "text": "兵扎川口地，日夜不安宁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "夏侯霸领兵杀进营来。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "王瓘",
+          "type": "白",
+          "text": "消息已漏，迎敌者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引夏侯霸同上。"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "大胆贼子，休走看枪！ （夏侯霸、王瓘同起打。王瓘败下。夏侯霸追下。司马望、傅佥、张翼同上，同打三股档。廖化、蒋舒同上， 同打档棒攒，司马望将傅佥、张翼、廖化、蒋舒轰下，向上场门把拉倒脱靴。姜维换枪上，同司马望打小 快抢。司马望败下，姜维接四校刀手，挑四抢背，蜀兵上，追下，姜维耍下场下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（王瓘上，夏侯霸跟上，漫头打，王瓘败下，四白龙套同上，领夏侯霸同追下。司马望、王瓘、四校刀手、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "四将同上。）"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "王参军，消息已漏，我军大败，速速保守洮阳要紧！ （姜维、夏侯霸同追上，双漫头，轰四白龙套、四校刀手、四将同下。司马望、王瓘、姜维、夏侯霸同打小 四股档，姜维刺死王瓘，司马望败下。四绿龙套、四月华旗同暗上。）"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "我军已然得手，乘胜攻打洮阳，都督率兵接应便了。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "须要小心！"
+        },
+        {
+          "character": "夏侯霸",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯霸下。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "众将官！起兵杀奔洮阳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同领下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校刀手、四将引司马望同上"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "人马速回洮阳！ （四白龙套、傅佥、蒋舒、夏侯霸同上，会阵。司马望败下，四白龙套、傅佥、蒋舒同追下。夏侯霸耍下场 下。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "下场门设“洮阳城”，司马望、四校刀手、四将同入城。夏侯霸追上，抢进城。"
+        },
+        {
+          "character": "司马望",
+          "type": "stage",
+          "text": "（司马望放箭，夏侯霸中箭摔抢背。蒋舒救夏侯霸。司马望杀出城，傅佥架住。姜维、四绿龙套、四月华旗 同上，同打，姜维挑司马望下马，司马望跑入城。四绿龙套、四月华旗同追进城，姜维望城门三指，进城下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马望上。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "洮阳已失，速速报与邓将军知道！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马望下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（〖牌子〗。四绿龙套、四月华旗、张翼、廖化同上，同站门。姜维上，坐。蒋舒、傅佥扶夏侯霸带箭同上，"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "姜维起箭，夏侯霸死。）"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "洮阳已然攻破，可惜夏侯将军为国捐躯，待本督请旨，旌表忠良。歇兵三日， 收复诸郡，追赶邓艾便了。正是："
+        },
+        {
+          "character": "姜维",
+          "type": "念",
+          "text": "可惜投汉智勇将，洮阳一战箭下亡！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引邓艾同上。"
+        },
+        {
+          "character": "邓艾",
+          "type": "西皮摇板",
+          "text": "王瓘诈降计来献， 只恐难把姜维瞒。 已差党均行奸险， 结连黄皓散流言。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马望上。"
+        },
+        {
+          "character": "司马望",
+          "type": "西皮摇板",
+          "text": "失机败北把洮阳陷， 见了将军带羞颜。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "末将失落洮阳，死罪呀死罪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马望跪。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "将军请起。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "谢主帅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马望起。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "将军前去接应王瓘，洮阳失落，想是被姜维识破此计？"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "坛山一战，我军大败，末将即收兵归保洮阳。夏侯霸领轻骑追至洮阳，末将虽 将夏侯霸一箭射死，怎奈姜维大兵已到，无法御敌，将洮阳竟自失陷。特来主 帅台前请罪！"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "噢！那姜维竟占据洮阳了？"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "想那姜维文武兼全，韬略过人，如今既得了洮阳，兵力甚强，不可力敌。想刘 禅乃昏庸之主，宠幸中贵黄皓。某前已令党均赍金珠宝贵之物，径往成都，结 连黄皓，布散流言，说姜维有投魏之心，管叫姜维空建奇勋，劳而无功。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "主帅良谋，必然成功。"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "事之成败，只看天意如何。将军可领一支人马，暂守狄道，姜维如若班师，即 领人马截杀。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "邓艾",
+          "type": "白",
+          "text": "且听姜维消息便了。"
+        },
+        {
+          "character": "邓艾",
+          "type": "西皮摇板",
+          "text": "姜维忠心扶蜀汉， 韬略奇才武侯传。 只恐蜀兵不回转， 难灭刘禅入西川。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引黄皓同上。"
+        },
+        {
+          "character": "黄皓",
+          "type": "引子",
+          "text": "得君宠幸，专朝政，嫉妒功臣。"
+        },
+        {
+          "character": "黄皓",
+          "type": "念",
+          "text": "恃宠专权恨元勋，引诱君王远贤臣。只贪敌国金珠赠，哪管朝政与军情。"
+        },
+        {
+          "character": "黄皓",
+          "type": "白",
+          "text": "咱家，中贵黄皓。在西蜀景耀天子驾前称臣。颇得君王宠幸。惯会小意殷勤， 引诱君王，贪恋酒色，日远贤臣。是我嫉妒大都督姜维，功高望重，欲荐右将 军阎宇继姜维之任。尚未保荐，恰有魏王差党均前来晋谒，并送一份厚礼。只 求奏请天子将大将军姜维调回，寻找机会，陷害于他。咱家虽然明白，这是反 间之计，奈咱家平时就嫉妒姜维，怕他成功；又有这一份厚礼，因为这个，管 他什么军情，又管他什么国家兴亡？我就在天子面前，道那姜维原是魏人，恐 其仍有降魏之意。天子信以为真，命郤正前往军前，调姜维班师还朝。候姜维 还朝，即令阎宇驻军剑阁，以代姜维。今天入朝，先秘保阎宇便了。 孩子们，打道上朝去者！"
+        },
+        {
+          "character": "黄皓",
+          "type": "唱",
+          "text": "心嫉姜维把功建， 又值党均入西川。 看在厚礼把谗言献， 提调姜维把师班。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 22,
+      "name": "第二十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四文堂、背旨官、伞夫执伞引郤正同上。"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "下官，郤正。奉旨前往军前，诏大都督姜维班师还朝。闻听大都督驻军洮阳， 只得前往。 众军士，洮阳去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 23,
+      "name": "第二十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四绿龙套、四月华旗、中军、姜维同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "念",
+          "text": "军威大震惊贼胆，得势纵横取中原。"
+        },
+        {
+          "character": "郤正",
+          "type": "内白",
+          "text": "诏旨下！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启都督：诏旨下。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "香案接旨！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "香案接旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四文堂引郤正同上。"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "圣旨下！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "跪听宣读。诏曰：大将军姜维连年伐魏，未获全功。今幸洮阳之捷，足寒敌人 之胆。况蜀民穷困，正宜借此修养。俟有机会，再伐中原。见诏迅速班师，勿 负朕意。旨意宣诏，即日回朝！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "请过圣命。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "有劳大夫押旨而来，多受跋涉之苦！"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "为国勤劳，理当如此。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "奉命伐魏，进取洮阳，军声大震。未识天子诏维班师，为了何故？"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "都督有所不知：圣上近来宠幸黄皓，朝政日非。闻黄皓欲荐阎宇为将，故有此 旨，诏将军回朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维气。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "我必诛此宦竖也。"
+        },
+        {
+          "character": "姜维",
+          "type": "唱",
+          "text": "惑君心献谗言令人可恨， 致使我伐中原枉建奇勋。 回朝去谏君王亲贤远佞， 整纲纪除宦竖誓斩谗臣。"
+        },
+        {
+          "character": "郤正",
+          "type": "唱",
+          "text": "大将军继武侯身负重任， 为国家安危事须保自身。"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "大都督身系国家安危，必须持重。爱身即是保国，千万不可造次！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "请先生教我保国安身之策！"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "大都督欲保国安身，何不效法武侯屯田之事？"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "哦，哦，哦，多谢了！"
+        },
+        {
+          "character": "姜维",
+          "type": "唱",
+          "text": "先生一言来点醒， 妙法保国兼保身。 屯田得麦助军用， 且传众将说分明。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "传众将进帐！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "众将进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "傅佥、蒋舒、廖化、张翼同上。"
+        },
+        {
+          "character": "傅佥、蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "参见都督！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "罢了！见过郤先生。"
+        },
+        {
+          "character": "四将",
+          "type": "白",
+          "text": "郤先生！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "诸位将军，今有圣旨到来，召我军即日班师回朝。特与诸位将军共议退兵之计。"
+        },
+        {
+          "character": "傅佥、蒋舒、廖化、张翼",
+          "type": "同白",
+          "text": "启都督：“将在外君命有所不受。”况我军军威大震，岂可轻议退兵之计？"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "既有圣命，岂能不遵？且蜀中黎民亦皆困苦，趁此班师，前往沓中，效先师武 侯屯田之法，徐图进取。今日我军班师，那魏兵必然追赶，请郤先生统领中军， 命蒋舒保护而行。张翼领三千人马，以为后军。"
+        },
+        {
+          "character": "蒋舒、张翼",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "傅佥、廖化各领三千人马，埋伏钟堤左右，等魏兵回程，截杀一阵。"
+        },
+        {
+          "character": "傅佥、廖化",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "本督自领轻骑，在剑阁大战魏兵，郤先生请在营中歇息一日，明日一同班师回 朝。"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "姜维",
+          "type": "念",
+          "text": "乐毅伐齐遭奸计，"
+        },
+        {
+          "character": "郤正",
+          "type": "念",
+          "text": "军威大震惊强敌。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 24,
+      "name": "第二十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手跑同上，郑伦上。"
+        },
+        {
+          "character": "郑伦",
+          "type": "念",
+          "text": "统领飞虎骑，奋勇逐蜀师。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑伦上高台。"
+        },
+        {
+          "character": "郑伦",
+          "type": "念",
+          "text": "英雄年少力刚强，刀马无敌震四方。年年鏖战沙场上，一片忠心保魏王。"
+        },
+        {
+          "character": "郑伦",
+          "type": "白",
+          "text": "某，郑伦。邓征西麾下，正印先锋。只因蜀兵连夜班师入川，兵行甚速。某奉 征西将军军令，统领飞虎军，会同司马望，起兵追赶姜维。 众将官，追赶姜维去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同领下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 25,
+      "name": "第二十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套、四大刀手、蒋舒、张翼、郤正同上。"
+        },
+        {
+          "character": "郤正",
+          "type": "白",
+          "text": "众将官！趱行者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖粉孩儿〗。众人同领下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 26,
+      "name": "第二十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四校刀手、四将、郑伦、司马望同上。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "众将官，奋勇追赶蜀军去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 27,
+      "name": "第二十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套、四大刀手、蒋舒、张翼、郤正同上。四下手、四校刀手、四将、郑伦、司马望同上。"
+        },
+        {
+          "character": "司马望",
+          "type": "白",
+          "text": "呔！蜀兵休走！好好将粮饷留下，饶你性命！"
+        },
+        {
+          "character": "张翼、蒋舒",
+          "type": "同白",
+          "text": "一派胡言。看枪！ （张翼、蒋舒、司马望、郑伦同杀过合，张翼、蒋舒同领圆场，张翼、蒋舒、四白龙套、四大刀手、郤正同 败下，司马望、郑伦、四下手、四校刀手、四将同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 28,
+      "name": "第二十八场",
+      "utterances": [
+        {
+          "character": "姜维",
+          "type": "内唱",
+          "text": "班师回朝守栈道，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四绿龙套、四月华旗、二马童同上，同站斜一字。姜维上。"
+        },
+        {
+          "character": "姜维",
+          "type": "唱",
+          "text": "要擒邓艾小儿曹。 施展奇谋擒虎豹， （姜维、四绿龙套、四月华旗、二马童同领至大边。郤正、张翼、蒋舒、四白龙套、四大刀手同上，司马望、 郑伦、四下手、四校刀手、四将同追上。司马望、郑伦同把拉倒脱靴。四绿龙套、四月华旗、二马童、郤 正、张翼、蒋舒、四白龙套、四大刀同翻下。姜维拿刀一磕。）"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "鼠子休得猖狂，本督姜维在此！ （司马望怕，郑伦架。姜维起大刀花切郑伦抢背。郑伦、司马望同败，自上场门跑下。姜维耍下场，自上场 门追下。） （四上手同上，同站门。傅佥、廖化同上。司马望、郑伦、四下手、四校刀手、四将同上，同傅佥、郑伦会 阵，同起打。廖化刺死郑伦。司马望败下。姜维上。）"
+        },
+        {
+          "character": "傅佥、廖化、四上手",
+          "type": "同白",
+          "text": "魏兵大败！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "班师回朝！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维三笑。众人同拥下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 29,
+      "name": "第二十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、黄皓引刘禅同上。"
+        },
+        {
+          "character": "刘禅",
+          "type": "西皮散板",
+          "text": "先帝创业立家邦， 朕躬继位乐安康。 朝欢暮乐多欢畅， 闲听歌声奏笙簧。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "朕，大汉天子刘禅在位。自亲政以来，全仗武乡侯扶保，朕躬止听政而已。武 侯身故，军国大事，命姜维料理。朕在深宫，日日寻些欢乐。 啊黄爱卿！"
+        },
+        {
+          "character": "黄皓",
+          "type": "白",
+          "text": "奴婢在。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "朕今日甚觉烦闷，如何是好？"
+        },
+        {
+          "character": "黄皓",
+          "type": "白",
+          "text": "陛下圣心不爽，请驾至御花园中散闷散闷。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "好！传孤旨意，命各舞女歌伎齐集御花园。摆驾前往！"
+        },
+        {
+          "character": "刘禅",
+          "type": "西皮散板",
+          "text": "朕躬寂寞心不爽， 御花园中饮琼浆。 内侍摆驾闲游赏， 妙舞清歌召红妆。"
+        },
+        {
+          "character": "黄皓",
+          "type": "白",
+          "text": "奴婢启奏陛下：想那姜维多次讨伐中原，并无寸功。陛下理当传旨，解去姜维 兵权，以正其罪。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "哎！朕方欲饮酒取乐，你在一旁说些无味之言。扰乱清兴。想人生最难逢者， 乐境耳。今朕方欲安享，你无故寻此是非，岂不可恼！"
+        },
+        {
+          "character": "黄皓",
+          "type": "白",
+          "text": "奴婢说错啦。你们传舞女歌伎侍宴哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监上。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "启陛下：大将军姜维还朝，在御花园外候旨！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "黄皓",
+          "type": "白",
+          "text": "哎呦，老头子！万岁爷，您救救我吧！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "晓谕姜维，说朕偶有小疾，明日早朝再见。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监下。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "惜乎！为他搅了孤的乐趣。"
+        },
+        {
+          "character": "黄皓",
+          "type": "白",
+          "text": "陛下若将他贬去，再也没人敢搅啦！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "多口！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监上。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "启陛下：大将军径入御花园见驾来了。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "这……咳！"
+        },
+        {
+          "character": "黄皓",
+          "type": "白",
+          "text": "这可怎么好哇？"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "快快藏在山石以后。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄皓到下场门山石后藏。姜维上。"
+        },
+        {
+          "character": "姜维",
+          "type": "唱",
+          "text": "将欲成功破魏将， 恢复祁山取洮阳。 忽接班师圣旨降， 御花园内叩君王。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "臣，姜维见驾，陛下万岁！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "卿家平身。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "赐坐。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "卿家班师回朝，朕择日赐宴，与卿家畅饮。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "此次奉旨伐魏，颇得机会。忽有圣旨，召臣班师，不知有何圣谕？"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "这！是朕召卿班师，只因黄……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘禅不语。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "是朕念卿久在疆场，故召卿还朝，并无别事。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "臣此番伐魏，已得洮阳，大败魏兵，困邓艾于祁山。正欲立功，不期半途而废。 此必中邓艾反间之计矣！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘禅不语。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "陛下降诏，召臣班师之意，臣已知之。此皆中侍黄皓之谗言也！"
+        },
+        {
+          "character": "姜维",
+          "type": "唱",
+          "text": "臣伐魏困邓艾祁山之下， 取洮阳破敌兵扶保邦家。 欲收功不料想班师诏下， 皆因是奸佞辈起祸根芽！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "黄皓奸巧专权，近则鉴于张让，远则当思赵高。望陛下，早日诛此佞臣，朝政 自然清平，中原方可恢复。伏乞圣裁！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "卿家此言，未免过虑。那黄皓不过一小臣，朕已不使他过问朝政，望卿家恕之。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "陛下不杀黄皓，祸不远矣！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "卿家不可动怒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘禅出位。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "卿家何不容朕有一宦官？待朕替他谢罪，再唤他来与卿家叩头。看在朕之薄面， 饶恕于他。 黄皓快来，与大将军叩头求饶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄皓怕，出，跪。"
+        },
+        {
+          "character": "黄皓",
+          "type": "白",
+          "text": "奴婢早晚间伺候陛下，不、不、不敢干、干、干预国政，大将军休信外人之言 哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维推髯怒视，黄皓抱头跪望。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "陛下呀！"
+        },
+        {
+          "character": "姜维",
+          "type": "唱",
+          "text": "陛下不杀此奸佞， 恐怕朝政不清平。 乞恩赐臣陇西郡， 沓中屯田练雄兵。 心怀义愤出园门， 避祸保国可安身。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维下。"
+        },
+        {
+          "character": "刘禅",
+          "type": "唱",
+          "text": "姜维一怒出园门，"
+        },
+        {
+          "character": "黄皓",
+          "type": "唱",
+          "text": "叩谢天恩救残生！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄皓起。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "咳！今日姜维搅了孤的乐趣。摆驾回宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 30,
+      "name": "第三十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四绿龙套、四月华旗、中军、蒋舒、傅佥、张翼、廖化引姜维同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "唱",
+          "text": "天子昏弱喜奸佞， 忠心枉自建奇勋。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "众位将军，本督已奏明天子，求沓中之田，效武侯屯田之法，练兵聚谷，徐图 进取，兼守剑阁，把守关隘。即刻起兵，沓中去者。带马！"
+        },
+        {
+          "character": "蒋舒、傅佥、张翼、廖化",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

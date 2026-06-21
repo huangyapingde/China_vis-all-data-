@@ -1,0 +1,1615 @@
+{
+  "script_id": "03096001",
+  "title": "借赵云",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "赵云",
+      "hangdang": "小生"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    },
+    {
+      "name": "公孙瓒",
+      "hangdang": "老生"
+    },
+    {
+      "name": "典韦",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "曹操攻徐州，徐州牧陶谦求助于刘备。刘备至公孙瓒处借兵，公孙瓒命赵云带兵往救。途中二人共话天下大\n势，各抒己怀。抵徐后，张飞见赵云年轻，颇轻之。赵云战败曹将典韦，张飞始拜服。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "千军容易得，一将最难求。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "俺、刘备。陶恭祖搬我弟兄，护卫徐州，打了一仗，不能取胜。闻听北鄙公孙 瓒帐下兵多将广，不免前去借将破曹。 军士们！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "带马伺候！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "背地里恨曹贼做事不正， 欺天子灭诸侯势压当今。 我弟兄打一仗不能取胜，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "我特地到北鄙借将回营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蓝文堂、公孙瓒同上。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "引子",
+          "text": "威震在北鄙，儿郎胆战惊。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "念",
+          "text": "辕门战鼓响催军，镇守北鄙四海闻。常山收来子龙将，各路诸侯胆战惊。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "老夫、公孙瓒。前者收来一将，姓赵名云字子龙。也曾命他操演八门金锁大阵， 不知可曾演熟。帅字旗无风自动，必有军情。 来！"
+        },
+        {
+          "character": "四蓝文堂",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "伺候了！"
+        },
+        {
+          "character": "四蓝文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "念",
+          "text": "龙虎台前出入，貔貅帐下传宣。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启爷：刘使君到。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四上手、刘备同上。公孙瓒迎，刘备下马。四上手同下。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "贤弟！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "公孙兄！"
+        },
+        {
+          "character": "公孙瓒、刘备",
+          "type": "同笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、公孙瓒同进门。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "这厢有礼！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "还礼！请坐。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "贤弟驾到，未曾远迎，当面恕罪。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "岂敢！备来得卤莽，公孙兄海涵。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "岂敢！闻得你弟兄护卫徐州，为何一人来到北鄙？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "公孙兄有所不知，陶恭祖搬我弟兄护卫徐州，打了一仗，不能取胜。闻得公孙 兄帐下兵多将广，特来借将破曹。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "你只顾你徐州，难道就不顾我北鄙么！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "破曹之后，弟亲自送将回营。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "须要言而有信！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "那个自然。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "中军听令！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "命赵云带领三千人马，随刘使君徐州解围。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "告辞！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "且慢。备得有酒，与贤弟同饮。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "叨扰了。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "看酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蓝文堂同摆酒。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "西皮原板",
+          "text": "中军帐摆酒宴一言奉上， 尊一声刘使君细听端详： 久闻你弟兄们宽洪大量， 劝贤弟宽怀饮叙叙衷肠。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "公孙兄！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮快二六板",
+          "text": "陶恭祖望良将昼夜立等， 哪还有闲工夫来饮杯巡。 施一礼辞兄长忙踏金镫，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同上。刘备上马。四上手同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "破曹后弟还要送将回营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "西皮散板",
+          "text": "借去了三千兵虎将一员，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蓝文堂同下。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "西皮散板",
+          "text": "怕只怕刘玄德有借无还。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙瓒下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云上，起霸。"
+        },
+        {
+          "character": "赵云",
+          "type": "念",
+          "text": "大鹏展翅时未逢，待等春雷起蛟龙。英雄谋略孙武智，当保明主振九重。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "俺、姓赵名云字子龙，乃常山真定人也。前者在袁绍帐下为将，只因磐河大战， 满营将官俱有差遣，把俺赵云闭口不提。是我进帐讨令，可恨袁绍目不识人， 藐视英雄，将俺赶出不用。我正在盘河牧马，观见一将，被颜良、文丑杀得 卸甲丢盔，命在旦夕。那时俺单枪匹马，去至阵前，杀退颜良、文丑，救了此 人性命，问起情由，原来是我主公孙瓒。是我投在他的帐下，指望他是明主， 谁知此人性情高傲，不纳忠言！唉，困煞英雄也！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮散板",
+          "text": "可叹男儿时未逢， 苍天因何困蛟龙！ 俺好似伍员未得地， 好比范增遇重瞳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "令下：赵云听令！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "命你带领三千人马，随刘使君前往徐州破曹解围，不得有误！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "且住！今有刘备前来借兵破曹，我闻此人乃汉室后裔，等他到来，见机而行便 了。"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮散板",
+          "text": "自古英雄爱英雄， 大义计谋在胸中。 耳旁听得銮铃动， 那厢来了玄德公。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "在帐中辞别了公孙兄， 借到了三千兵大将子龙。 来至在教场用目观定，"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "我见了赵将军施礼打躬。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "那厢敢是赵将军？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "来的敢是刘使君？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "刘使君！"
+        },
+        {
+          "character": "刘备、赵云",
+          "type": "同笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "久闻将军英雄盖世，今日一见，果然名不虚传。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "赵云乃草莽之夫，怎当使君如此称赞！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我弟兄若得将军，必然一战成功，何劳备苦战哪！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "俺不过得主公允借，当顺情而去，何言成功在我！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦，赵将军是顺情而去？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军，你看天气尚早，吩咐步下三军，缓缓而行，你我马上叙谈叙谈。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "如此，使君请来传令。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "不敢，赵将军请！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "请！ 嘚众将官！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同上。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "人马缓缓而行，一路之上，不可骚扰百姓，马踏青苗，违令者斩！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云欲上马，刘备向前牵马、捉镫。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "这做什么？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "与将军坠镫。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "这就不敢。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "当得的。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "不敢。请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备欲上马，赵云向前牵马、捉镫。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军这做什么？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "与使君坠镫。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "越发不敢！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "当得的。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "不敢。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云、刘备同上马。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军，你看天下惶惶，众诸侯刀兵四起，日后成王霸业者，但不知是谁？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "赵云方才言过，我乃草莽之夫，不识帝王之尊，使君请道其详。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦，赵将军不知？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "云不知。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请！赵将军不知么——哦哦哦，赵将军！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "刘使君！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "备想起一人。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "哪一人？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我想河北袁绍，有颜良、文丑辅佐于他，日后成王霸业，必定是袁绍了。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "就是那袁绍？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "我把他好有一比。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "比做何来？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "塚内枯骨！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "将军此言差矣。当世英雄，怎能比做塚内枯骨？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "他倚仗颜良、文丑，藐视天下英雄，焉能成其大事！袁绍他不能。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "他不能？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "他不能。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦哦哦，他不能。赵将军，备又想起一家英雄来了。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "哪一家英雄？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我想袁绍之弟袁术，人马颇多，粮草堆积如山，日后成王霸业，一定是袁术的 了！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "那袁术！我也把他好有一比。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "比做何来？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "守户之犬！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "怎么比做守户之犬？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "此人心小，行事短见，抢夺良民，无所不为。袁术他也不能。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "怎么，袁术他也不能？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "嗯，他不能！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "嗯，他不能。赵将军，备又想起一人来了！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "哪一人？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我想荆襄王刘表，有蔡瑁、张允辅佐于他，日后成王霸业，一定是刘表了。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "刘表？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "可称明主；怎奈蔡氏不贤，重用蔡瑁、张允，日后荆襄必丧二贼之手，刘表也 不能。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "刘表也不能！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "也不能！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军，想北鄙公孙兄，有赵将军辅佐于他，日后成王霸业，一定是我那公孙 兄的了。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "我主？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "正是。 赵云　　　刘备　　　（白）　　　　　哦，他也不能？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "他不能！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀，依将军说来，这天下就无有人了！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "眼前倒有一人！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "将军不言，备倒明白了。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "明白何来？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我想赵将军英雄盖世，皓月正照当空，日后成王霸业，一定是赵将军的了！啊 哈哈哈……"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "哎呀呀，俺赵云但愿侍奉明主，努力相扶，不过是一将足矣。待我实说了吧！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请讲！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "我看使君，乃汉室后裔，名震四海，日后这天下大事，一定是使君的了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "怎么，是我刘备？"
+        },
+        {
+          "character": "刘备",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军此言差矣！想我小小的平原县令，焉能成其大事！有道是：天上无云不 下雨，掌中无刀怎杀人哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "福又浅来命又薄， 县令焉能掌山河！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "美玉于斯，韫匵而藏之，求善价而沽之。赵将军，有道是：光阴似箭，"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "日月如梭。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "人生在世，"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "能有几何！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "沽之哉，沽之哉！为国江山，把一个人都急老了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云背供。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "哎呀，听刘备之言，果有爱将之意，俺好悔也！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮散板",
+          "text": "低头不语恨苍穹，"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "刘备身旁少英雄！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮散板",
+          "text": "俺好比孤星明月照，"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "现有明月照当空！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "请问使君志？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "怎么，赵将军问我的志么？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "有朝一日风云动，赵将军哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "春雷一响风云到， 一日得地掌龙朝。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "失言哪，失言！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "明明实言，怎说失言！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "明明失言，怎说实言！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "俺在磐河牧马时节，就有辅佐使君之意。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦，赵将军昔日在磐河桥就有心辅佐我刘备么？好哇，有道是：大将投明主， 雀鸟望高飞！赵将军，你看天色已晚，陶恭祖望兵如火，你我催马前行！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "明明知道故意问， 未必赵云有此心！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我好恨哪！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "恨着何来？"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "恨只恨足下不生云，"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "云在！"
+        },
+        {
+          "character": "刘备、赵云",
+          "type": "同笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "聪明不过赵将军。 二人催马往前进，"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮散板",
+          "text": "大破曹兵显奇能。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "着哇！请！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、赵云、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四蓝龙套、张飞同上。"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "大哥去借兵，未见信和音。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "刘使君借兵回营。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "三军的！"
+        },
+        {
+          "character": "四蓝龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "摆队相迎！"
+        },
+        {
+          "character": "四蓝龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。张飞、四蓝龙套同下。刘备、赵云、四龙套同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊，赵将军请！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "刘使君请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军，此处离大营不远，备先行一步。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、赵云、四龙套同下。张飞、四蓝龙套同上。四上手、刘备同上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟！大兵在后。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哦，大兵在后？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "愚兄这里下马。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "不消！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "不消？请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、刘备同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四龙套同上，过场，同下。赵云上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "呃！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。张飞、四蓝龙套同下。刘备、赵云、四上手、四龙套同上，张飞、四蓝龙套同随上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥北鄙搬兵，多受风霜之苦。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "为国求贤，何言风霜二字！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥借来兵马多少，大将几员？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "借来三千人马，大将一员。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "三千人马小弟也曾见过；大将今在哪里？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军就是。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "就是他？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "此位是？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "这就是我三弟。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "哦，三将军！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟，见过赵将军。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "看赵云高不过一膝，大不过一拳，倘若典韦讨战，离不了俺老张出马！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军请坐，请坐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云冷笑。"
+        },
+        {
+          "character": "赵云",
+          "type": "笑",
+          "text": "嘿嘿嘿……"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "典韦讨战！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "刘使君！既是典韦讨战，待俺赵云出马！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "有劳将军。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "呔，你此番前去打了胜仗，还则罢了；倘若打了败仗，岂不失了桃园的锐气！ 你与我坐下！ 三军的，马来，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蓝龙套、张飞同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军，我那三弟，乃是鲁莽之人，你不要见罪于他；你若是见罪于他，如同 见罪我刘备一般。备这厢赔礼！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "备这里再赔一礼！赵将军休得见怪，请哪！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "请！唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军！请请！糟糕！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。四上手、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套、典韦同上。"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "某、典韦。奉了曹丞相之命，攻打徐州。 众将官！"
+        },
+        {
+          "character": "四红龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "杀上前去！"
+        },
+        {
+          "character": "四红龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四蓝龙套、张飞同上，同会阵。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "典韦，三爹爹到此，还不下马投降！"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "张飞，前番饶你不死，今日又来做甚？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "一派胡言，吃咱一鞭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞、典韦同起打。张飞败下，典韦追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四龙套、赵云同上。"
+        },
+        {
+          "character": "赵云",
+          "type": "叫头",
+          "text": "且住！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "俺指望前来建功立业，谁想张飞灭却俺的威风，俺还与他破的什么曹，解的什 么围！"
+        },
+        {
+          "character": "赵云",
+          "type": "叫头",
+          "text": "众将官！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "将人马撤回北鄙！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军往哪道而去？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "使君哪！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮快板",
+          "text": "令弟他把人小量， 长他志气灭我强。 英雄哪怕天罗网， 蛟龙得水奔长江。"
+        },
+        {
+          "character": "刘备",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军，备先前言得明白，我那三弟，乃是鲁莽之人，你不要见罪于他，你若 见罪于他，如同见罪我刘备一般！我这厢下马赔礼！哎呀赵将军，你看追兵甚 急，我只得马上再赔一礼！赵将军休得见怪，请哪！唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        },
+        {
+          "character": "赵云",
+          "type": "叫头",
+          "text": "且住！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "看刘备这等仁义，这便怎么处！"
+        },
+        {
+          "character": "赵云",
+          "type": "叫头",
+          "text": "哦哦有了！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "俺不免去到阵前，观看两下交锋，若是张飞打了胜仗，俺便将人马撤回北鄙； 若是张飞打了败仗，俺就一马当先，杀退典韦，灭却张飞的威风！ 呔，典韦休要逞强，俺来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四上手、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊，看赵云来到此地，一战未交，他就要兵回北鄙，是何缘故？是了，想是赵 云外实内虚，也是有之！也罢，我与典韦交战，假意败在他的旗下，看他救我 不救！正是："
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "大事安排定，要试子龙心！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、四上手同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（张飞、典韦同上，同起打。刘备上，起打。张飞、刘备同败，同下。赵云上，赵云、典韦同起打，典韦败"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "下。赵云追下。〖急急风〗。张飞上。）"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "且住！看赵云与典韦交战，势如破竹，犹如雨打残花！赵云是个好的！赵云是 个好的！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞下。典韦、赵云同上，同起打。典韦败下，赵云追下。〖乱锤〗。四红龙套、典韦同上。"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "且住，赵云杀法厉害！ 众将官！"
+        },
+        {
+          "character": "四红龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "收兵！"
+        },
+        {
+          "character": "四红龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、赵云同上，同杀。典韦、四红龙套同败下。四上手、刘备、张飞同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赵将军，请哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云、刘备同下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "赵将军是好的！收兵，收兵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。张飞、四上手、四龙套同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,44 +1,44 @@
 {
-  "total_scripts": 448,
-  "total_utterances": 84803,
+  "total_scripts": 1473,
+  "total_utterances": 382099,
   "theme_count": 15,
   "top_cooc_pairs": [
     {
       "theme1": "忠诚报国",
       "theme2": "权力斗争",
-      "count": 225,
-      "pmi": 0.16
+      "count": 946,
+      "pmi": 0.14
     },
     {
       "theme1": "复仇雪恨",
       "theme2": "忠诚报国",
-      "count": 254,
-      "pmi": 0.113
+      "count": 1004,
+      "pmi": 0.085
+    },
+    {
+      "theme1": "兄弟情谊",
+      "theme2": "忠诚报国",
+      "count": 887,
+      "pmi": 0.084
     },
     {
       "theme1": "君臣关系",
       "theme2": "忠诚报国",
-      "count": 265,
-      "pmi": 0.093
-    },
-    {
-      "theme1": "忠孝节义",
-      "theme2": "忠诚报国",
-      "count": 251,
-      "pmi": 0.082
+      "count": 1042,
+      "pmi": 0.066
     },
     {
       "theme1": "忠诚报国",
       "theme2": "智谋策略",
-      "count": 253,
-      "pmi": 0.075
+      "count": 1017,
+      "pmi": 0.06
     }
   ],
   "top_rules": [],
   "type_distribution": {
-    "历史戏": 171,
-    "家庭戏": 237,
-    "公案戏": 29,
-    "神话戏": 11
+    "历史戏": 686,
+    "家庭戏": 669,
+    "公案戏": 85,
+    "神话戏": 33
   }
 }

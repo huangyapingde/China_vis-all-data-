@@ -1,0 +1,725 @@
+{
+  "script_id": "14002010",
+  "title": "宇宙锋",
+  "alias": [],
+  "source": "《戏典》",
+  "characters": [
+    {
+      "name": "赵女",
+      "hangdang": "正旦"
+    },
+    {
+      "name": "赵高",
+      "hangdang": "净"
+    },
+    {
+      "name": "秦王",
+      "hangdang": "小生"
+    },
+    {
+      "name": "门官",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "秦二世时，赵高非常专权，因与匡洪有仇，就差人至匡府盗取秦皇前赐匡洪的宝剑，剑名宇宙锋，去刺秦二\n世。没有成功，于是陷害匡洪。匡洪的儿子逃走他乡，匡洪的管家赵忠，因为像貌很像匡子，就慨然替主一\n死。赵高的女儿寡而美，被秦二世看见，欲招她进宫，赵高当即叩头谢恩愿意进献。但是他的女儿倒是深明\n大义，见秦二世如此荒淫无道，国必不久，定不肯答应。赵高因为已答应了秦二世，如何能够反悔，非逼令\n她去不可。赵女正在无可如何的时候，忽然看见她的哑丫头在旁边做手势，教她只有装疯。赵女一想不错，\n马上指手画脚、见神见鬼的装起疯来。赵高竟被她蒙过，信以为真，次日上殿去奏明秦二世。秦二世不信，\n令她上殿当面验明。赵女仍旧作出毫无忌惮的神情胡骂乱叫。秦二世信以为真只得放她回去。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵高上，门官随上。"
+        },
+        {
+          "character": "赵高",
+          "type": "引子",
+          "text": "月影照纱窗，梅花绕粉墙。"
+        },
+        {
+          "character": "赵高",
+          "type": "念",
+          "text": "人人道说老夫奸，我比世人心更偏。为人若无良谋智，焉能富贵两双全？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "老夫赵高，适才下朝回来，闻听外人言讲，道我儿叫那家人赵忠一声丈夫。不 免将儿唤出，问个明白。 来，门官。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "请小姐出堂。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "后堂传话，小姐出堂。"
+        },
+        {
+          "character": "丫头",
+          "type": "内白",
+          "text": "哑叭，哑叭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵女上，丫头随上。"
+        },
+        {
+          "character": "赵女",
+          "type": "念",
+          "text": "杜鹃心头气，血泣含悲啼。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "爹爹，孩儿万福。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "唤孩儿出堂，有何教训？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "适才为父下朝回来，闻听外人言讲，道我儿叫那家人赵忠一声丈夫。可是有的？"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "爹爹说哪里话来。想那赵忠，他是甚等样人，孩儿岂肯叫他一声丈夫？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "待为父修下本章，明日早朝，奏明圣上。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "爹爹宽恩。 哑奴磨墨伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫头磨墨。"
+        },
+        {
+          "character": "赵女",
+          "type": "西皮慢板",
+          "text": "老爹爹发恩德将本修上， 明早朝上金殿面奏吾皇。 我主爷有道君皇恩浩荡， 观此本免了儿一门祸殃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引秦王同上。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "摆驾。"
+        },
+        {
+          "character": "秦王",
+          "type": "西皮摇板",
+          "text": "适才间观花灯与民同乐， 观相府好一似龙楼凤阁。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "参见万岁。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "罢了，相国可在府中？"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "现在表本，待蝼蚁通报。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "不用通报，退下。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门官下。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "内侍摆驾。"
+        },
+        {
+          "character": "秦王",
+          "type": "西皮摇板",
+          "text": "内侍掩灯相府进， 灯光之下遇美人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵女下。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "赵高见驾，吾皇万岁。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "平身，赐座。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "卿家在此则甚？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "在此表本。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "原来匡府之事，寡人一概不究。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "谢万岁。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "适才灯光之下，见一妇人，她是何人？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "乃是老臣小女。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "孤王意欲宣进宫去，同掌山河，意下如何？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "明日早朝，送进宫去。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "好，卿家听封，封你掌朝太师之职。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "谢主龙恩。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "摆驾回宫廷。"
+        },
+        {
+          "character": "秦王",
+          "type": "西皮摇板",
+          "text": "内侍摆驾回宫廷， 明日早朝看美人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦王、四太监同下。赵女上。"
+        },
+        {
+          "character": "赵女",
+          "type": "念",
+          "text": "有事在心头，终日眉头皱。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "呀，爹爹，圣驾到此，为了何事？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "万岁到此，将匡府之事，一概不究。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "我主才是有道明君。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "本来是有道明君。恭喜我儿，贺喜我儿。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "喜从何来？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "适才万岁见我儿生得美貌，有意带进宫去，同掌山河。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "爹爹怎样回奏？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "明日早朝送你进宫。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "爹爹啊，你身为当朝首相，位列三台，连这三纲五常，都不晓得了么？"
+        },
+        {
+          "character": "赵女",
+          "type": "西皮摇板",
+          "text": "老爹爹你为人真个可厌， 儿岂做失节妇遗臭万年。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "儿啊，难道不遵父命么？"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "爹爹，有道是先嫁由父母，后嫁由自身。我看此事，就用不着你了。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "难道说不遵圣命么？"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "爹爹，慢说是圣命，就是一把钢刀，将儿首级割下，也是不能遵命的了。"
+        },
+        {
+          "character": "赵女",
+          "type": "西皮摇板",
+          "text": "见此情一时间不能言断， 必须要生巧计才得安然。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫头做手势教赵女装疯。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "赵女",
+          "type": "西皮摇板",
+          "text": "见哑奴她叫我把乌云扯乱， 抓花容脱绣鞋扯破了衣裳。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "儿敢是疯了么？"
+        },
+        {
+          "character": "赵女",
+          "type": "西皮摇板",
+          "text": "听说疯我乐得随机应变， 倒卧在尘埃地信口胡言。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "儿呀，你当真的疯了么？"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "疯了么？"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "哈哈哈。爹爹，孩儿要上天。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "天高上不去。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "呀呀呀。爹爹，孩儿要入地。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "地后无门下不去。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "呀呀呀。爹爹，我那亲……"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "亲什么？"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "亲生的儿啊。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "赵女",
+          "type": "反二黄慢板",
+          "text": "我这里假意儿懒睁杏眼， 摇摇摆摆摆摇扭捏向前。 我只得把官人一声唤，一声来唤， 奴的夫呀！"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "爹爹来呀。"
+        },
+        {
+          "character": "赵女",
+          "type": "反二黄慢板",
+          "text": "随儿到红罗帐倒凤颠鸾。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫头做手势。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "呸。"
+        },
+        {
+          "character": "赵女",
+          "type": "反二黄慢板",
+          "text": "猛然间又只见天昏地暗， 许多的冤鬼魂站立面前。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "打鬼！"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "儿呀，那不是鬼，乃是太湖石。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "太湖石呀。"
+        },
+        {
+          "character": "赵女",
+          "type": "反二黄慢板",
+          "text": "那一旁又来了牛头马面， 玉皇爷驾祥云接我上天。"
+        },
+        {
+          "character": "赵女",
+          "type": "笑",
+          "text": "哈哈哈，呀哈哈哈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫头、赵女同下。"
+        },
+        {
+          "character": "赵高",
+          "type": "念",
+          "text": "闭门家内坐，祸从天上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵高下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦王上。"
+        },
+        {
+          "character": "秦王",
+          "type": "念",
+          "text": "孤王御驾到龙廷，文臣武将朝寡人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵高上。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "启奏万岁：小女昨晚得了疯病。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "昨晚灯光之下，还是好好的，怎么得了疯病？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "天有不测风云，人有旦夕祸福。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "孤赐她龙车凤辇，带上金殿。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵高下。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "传御林军走上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四卫卒同上。赵高领赵女同上。"
+        },
+        {
+          "character": "赵女",
+          "type": "西皮摇板",
+          "text": "午门外下了那龙车凤辇， 行一步来至在御驾跟前。 到于今顾不得抛头露面， 看昏王他把我怎样旨传。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "儿啊，上面就是万岁，上前参见。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "我晓得呀，上面敢是皇帝老官？恭喜你万福，贺喜你发财。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "见了寡人，为何不跪？"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "你大人不下跪的。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "原来是个疯癫女子。寡人好笑，啊，哈哈哈。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "你好笑，我也好笑，哈哈哈。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "寡人笑你疯癫，你笑寡人何来？"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "你笑我疯癫，我就笑你无道的昏君。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "寡人有道，怎说无道。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "哦，你要问你的无道，列位大人老哥听了。你也听了。只因老王在世，东修岱 海，西建阿房，南修乌陵，北造万里长城。实指望江山万代，谁想你这昏王贪 淫恋酒，不理朝事。我想这天下，乃人人之天下，并非你一人之天下，我看你 这江山，未必能长久了。"
+        },
+        {
+          "character": "赵女",
+          "type": "西皮摇板",
+          "text": "想此事气得我乌云扯乱， 气得我舌尖儿咬破牙关。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "殿前武士，刀门架起。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "住了，我乃丞相之女，指挥老爷之妻，你们放肆大胆，还不与我退下。"
+        },
+        {
+          "character": "赵女",
+          "type": "西皮摇板",
+          "text": "我手中有镔铁定要试斩， 将这班众狂徒立斩马前。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "再若提起疯癫，抓头来见。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "儿啊，再若提起疯癫，万岁就要杀头了。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "住了，动不动你就要杀头，我且问你。一个人头，割将下来，难道还长得上么？"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "长不上了。"
+        },
+        {
+          "character": "赵女",
+          "type": "白",
+          "text": "呀啊啊啊，爹爹，我的儿啊。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "赵女",
+          "type": "西皮摇板",
+          "text": "我这里忙下金銮， 那昏王怎知我袖内机关。"
+        },
+        {
+          "character": "赵女",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵女下。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "老臣领罪。"
+        },
+        {
+          "character": "秦王",
+          "type": "白",
+          "text": "罚俸三月，退班。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦王下。"
+        },
+        {
+          "character": "赵高",
+          "type": "白",
+          "text": "谢主龙恩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵高、四卫卒同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

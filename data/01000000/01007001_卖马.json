@@ -1,0 +1,2055 @@
+{
+  "script_id": "01007001",
+  "title": "卖马",
+  "alias": [],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "秦琼",
+      "hangdang": "老生"
+    },
+    {
+      "name": "王老好",
+      "hangdang": "丑"
+    },
+    {
+      "name": "单雄信",
+      "hangdang": "净"
+    },
+    {
+      "name": "王伯当",
+      "hangdang": "小生"
+    },
+    {
+      "name": "谢映登",
+      "hangdang": "小生"
+    },
+    {
+      "name": "酒保",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "隋末，天下纷纷，盗寇横行，小民终岁无宁日。良由隋炀帝淫昏于上，官吏玩法贼民于下，以至纲纪荡然，\n民不聊生。卒至天下分裂，宗社邱虚。即观此《卖马》一剧，而当时州官贼民如虎畏盗亦如虎之情状，已可\n于戏情夹缝中，窥见一斑。时山东秦琼，为本县都头，因解犯十八名至天堂州，中途渴死一犯，该州官遂籍\n此延搁，不与批回文，致秦琼留待客店。经一年余，资斧匮绝，贫病落魄，因之屡遭店主人索催奚落。日者，\n店主复向秦琼逼取房饭金，备极揶揄。秦琼不获巳，只得将所乘黄骠马给与店主牵出沽卖。适遇该处土豪\n单雄信，甚爱此马，店主与单雄信同回面秦琼。彼此通姓氏，均系素昔慕名之人，谈次，甚相投洽，竟将卖\n马之事忘却。移时单雄信因故匆匆走，反将此马借乘之去，秦琼仍未得一钱。单雄信既去，店主人又向逼索，\n秦琼乃再与同出卖锏，幸遇王伯当、谢映登二人，得其资助，并代催取回文至，秦琼方得束装返命。盖王\n伯当、谢映登系当时绿林好汉，故均愿见好于秦琼，以广交结。然此戏情以外之天堂州官，对于秦琼则有意\n耽搁至一年余，见王伯当、谢映登二盗之名刺一到，则立即批回，非所谓畏盗贼民者而何？",
+  "notes": "此剧为谭贝勒生平之拿手戏。其一副颓唐潦倒之状，确与凡伶工不同。而“店主东”一段西皮慢板，则几乎\n三尺童子，皆知摹唱，其名下可知。而我尤爱其“但不知此黄骠落于谁家”之一句摇板，真是声泪俱下，足\n令人想见当时英雄落魄情形。此外，则贵俊卿私淑谭派，颇得三昧，故亦擅长。近来王又宸亦不弱。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老好上。"
+        },
+        {
+          "character": "王老好",
+          "type": "数板",
+          "text": "不赊不欠不算店，赊赊欠欠不见面。他在前面走，我在后面追。二人见了面， 他说不方便。再等两三天，再等两三天。"
+        },
+        {
+          "character": "王老好",
+          "type": "念",
+          "text": "开的是店，卖的是面。一人吃半斤，三人吃斤半。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "我，王老好。怎么叫王老好？我在这天堂地面，开了一座店房，有那南来北往 的客人，有钱没钱吃了就走，故而人送个绰号，叫做王老好。这且不言，只因 我这点中，来了一个山东的好汉，此人名叫秦琼。到我这里有一年多，分文未 有。今日不免将他请出，问他要房饭钱，亦好开销开销。二爷起来了没有？请 出来凉快凉快。"
+        },
+        {
+          "character": "秦琼",
+          "type": "内白",
+          "text": "哽哼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "引子",
+          "text": "英雄落魄困天堂，何日里，转回故乡？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "吓，店主东，"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "二爷起来呢。请坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、王老好同坐。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "有坐。啊，店主东，请你二爷请了出来，莫非饭熟了，酒熟了？去来你二爷所 用。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "咳，走出来，他就饿了。我对你说，酒也熟了，饭也熟了，我有句话说出来么， 有点难为情；不说吧，我也要说。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "店主东有话请讲。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "咳，二爷，你来到我这店中，一年多一个钱也无有……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼睡。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哎吓哎吓，真真倒霉！才走出来，他又困觉！二爷，哎，二爷！二爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼醒。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "怎么你睡呢？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你讲你的，我睡我的。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "那我说与谁听？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你讲，我听得见吓！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "一年多分文未付，买柴我拿钱去买，买米要拿钱去买……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼睡。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哎吓，他又睡着呢！二爷，二爷！倒叫不醒了。待我来拿饭骗他。 伙计们！开饭吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼醒。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "啊，店主东，饭在哪里吓？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "开饭他就醒了！ 我对你说话，你又睡着了！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你讲，我听见吓！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你不要睡！你到我店里有一年多，一个钱没有，今日要拿出来开销开销。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哦，听你之言，敢是要钱？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哽，叨光！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "啊，店主东，你家二爷，押解一十八名江洋大盗，只因天气炎热，在中途路上 损伤一名。那蔡大老爷不与批票回文，故而被困在此。但等蔡大老爷与我批票 回文，还你的房饭钱就是。何必这样着急？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "比方这么讲：蔡大老爷要是一年不与你批票回文？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你就等上一年。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "倘若十年不与你呢？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你就等他十年。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "要是一辈子不与你呢？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你就等上一辈子！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "假如你要死在我店里呢？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哦，你家二爷要死在你店中么？店主东，你就大大的发了财呢！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哎吓！怎么你死了我就发财？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "等你二爷死后，你买那寿衣寿帽。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "那总有的。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "买一口大大的棺材。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "有的。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "将你二爷成殓起来。店主东，你就不要这样打扮。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "要怎样打扮？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你头戴麻冠，身穿重孝。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "手拿哭丧棒，将你二爷灵柩送回山东，你回来，请他一个大大的份子，你岂不 是发了财了？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "这么说，我是你的儿子呢！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎，没有那个福气！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你不要拿我开心。到底有钱无钱？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "没有钱。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "有银票？我替你去换。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "当票有两张。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "呸！我还替你赎当呢！今天没有钱，对不起，我就要……"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你要怎样吓？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "我要剥你的衣裳！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哦？你要剥衣裳？剥剥看。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "我就剥！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你剥，你剥"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼点穴。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哎吓。救命吓！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "便宜你了！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哽，硬的不成，我来软的。 二爷，你倒底有钱无钱？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "要钱没有，要命拿去。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哎吓，还要拼命呢！你没钱，我就要去喊叫！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "任你去叫。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "街坊邻居听者：我们店中，有个山东好汉秦琼，来到店中一年多，分文未付， 还要讲打……"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎，店主东，我有拆换。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦，你有包烟灰？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "拆换。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "有什么拆换？请坐。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎，店主东，将你二爷的黄骠马，拉在大街之上，卖些银钱，还你的店饭钱就 是。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦，你那一匹马，好像纸紫店里的马灯，没人要！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "货卖与识家。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你的东西要卖与识家。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "店主东，牵马。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦，来呢！"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮慢板",
+          "text": "店主东带过了黄骠马，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老好带马。"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮慢板",
+          "text": "不由得秦叔宝两泪如麻。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "什么事哭起来了？"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮慢板",
+          "text": "提起了此马来头大，"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "怎样的来路？"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮慢板",
+          "text": "兵部堂王大人相送与咱。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦，王大人送与你的。"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮慢板",
+          "text": "遭不幸困至在天堂下， 欠下了店饭钱，没奈何只得来买它。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "我佃不起吓！"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮慢板",
+          "text": "摆一摆手儿你就牵去了吧！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦，马来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老好下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "但不知此黄骠落于谁家。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "单雄信、四青袍、家院同上。"
+        },
+        {
+          "character": "单雄信",
+          "type": "西皮摇板",
+          "text": "闲来无事郊外耍，"
+        },
+        {
+          "character": "单雄信",
+          "type": "西皮快板",
+          "text": "两旁的儿郎取笑咱。 知者俺是单雄信， 不知天堂降红煞。 家院带路你把大街下，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老好拉马上，过场，下。"
+        },
+        {
+          "character": "单雄信",
+          "type": "西皮快板",
+          "text": "只见一骑黄骠马。 人来与爷你就忙追下，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同追下。"
+        },
+        {
+          "character": "单雄信",
+          "type": "西皮摇板",
+          "text": "但不知此马出谁家？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "单雄信、家院同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "店主东卖黄骠不见回转， 倒叫我秦叔宝两眼望穿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老好上。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "二爷，马交与你，一根毛没少。买马的客人在后头，你们当面言价。我走呢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老好下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "啊，什么原故吓？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、单雄信、家院同上。"
+        },
+        {
+          "character": "单雄信",
+          "type": "念",
+          "text": "青鬃马黄骠，张口似气飘。浑身发金色，四蹄无杂毛。 胜似南山豹，亚塞浪里蛟！"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "好马吓，好马！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "呔，连夸数声“好马”，莫非有爱马之意？"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "好马人人皆爱，可惜骠头瘦了。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "草料不佳。此地不是讲话之所，请至店房。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、单雄信同坐。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "听兄台讲话，不像此地人氏。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "本不是此地人氏。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "哪里人氏？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "山东历城县人氏。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "山东历城县，我有一好友，兄台可知？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "有名便知，无名不晓。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "提起此人，大大的有名！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "是哪个？"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "姓秦名琼，字叔宝。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哦，秦琼。此人落魄的紧。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "人有穷富，但讲何妨？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "在下就是秦琼。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "哦，你是秦二哥！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "秦好汉！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "不敢！"
+        },
+        {
+          "character": "秦琼、单雄信",
+          "type": "同笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "听兄台讲话，也不像此地人氏。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "本不是此地人氏。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哪里人氏？"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "河南二贤庄人氏。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "河南二贤庄，我也有一好友，兄台可知？"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "有名便知，无名不晓。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "提起此人，大大的有名！"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "是哪个？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "姓单名通，字雄信。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "在下就是单雄信。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哦，你就是单通！"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "单二员外！"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "秦琼、单雄信",
+          "type": "同笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "二哥为何这等狼狈？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "贤弟哪里知道：只因愚兄，押解一十八名江洋……"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "哽……"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "绿林的好汉。天气炎热，在路上损伤了一名。那蔡大老爷不与我批票回文，故 而被困天堂州。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "这有何妨？待小弟叫那蔡知府，与二哥回文就是。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "多谢贤弟。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "来，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院允。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "拿我名帖，叫那蔡知府，速拿批票回文前来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院允，下。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "前日老伯母寿诞之期，愚弟有份厚礼，二哥可曾收下？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "但不知打从哪道而来？"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "打从那黑……"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "收下了，收下了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "启禀二员外：大事不好了！"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "大员外被唐李渊射死了！"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "天气炎热，就该搬柩才是。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "本待回去，怎奈跨下无马。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "秦二爷的马可以骑得。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "呸！秦二爷的马，岂是你家员外骑得的？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "二员外，乘肥马，衣轻裘，与朋友共，敞之而无撼。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "哦，骑得的？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "骑得的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院带马，家院、四青袍同下。"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "二哥，小弟此去，多则一月，少者十天就回。告辞。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "单雄信下。王老好上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "贤弟慢走，愚兄不能远送了。这才是我的好朋友！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "这才是你的“好同友”！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "好朋友！什么“好同友”？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你可认得他？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "河南二贤庄单二员外，哪个不晓？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "我们这里，三岁小孩，都认得他是个拐子，是个响马。把你的马骗去了！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "就是他？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "不是他，还是我？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎吓！"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "骂声秦琼瞎了眼， 把响马当作好宾朋。 我拉住店家撒个赖，"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "当官辨理，赔我的马吓！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "不要忙。我这店中出了强盗么？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "没有。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "贼挖了洞呢？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "也无有。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "却又来！无盗无贼，你把马送与人家，跟我要马，真不害羞！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "如此说我和你两丢开！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "两丢开，两丢开，还是拿钱来。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "要钱没有，要命现成！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你没有钱，我还要喊叫。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "任你去喊叫。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "街坊邻舍：我这店中，来了一个山东好汉，名叫……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼捂王老好嘴。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎，店主东，"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你想闷死我？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "我还有拆换。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "请坐，请坐。你又有什么拆换？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "兵架之上，霹雳双锏，拿在大街之上，卖些银两，还你的店饭前就是。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦，你这一对锏，做火筷子，拿不动；做烟枪通条，太粗，没人要。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎，货卖与识家。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦，又是“卖与识家”。待我来拿拿看。 呀，拿不动。有了，我来慌他一慌。 哎，二爷，它拿我不动。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "敢是你拿它不动？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "不错，我拿它不动。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "闪开了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼拿双锏。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "怪不得我拿不动，忘却这么两来。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "店主东带路。"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "家住山东历城县， 秦琼名儿天下传。 我本是顶天立地男儿汉，"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "不该欠人的钱！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "好汉无钱到处难。 出得店门我卖……"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你卖什么？"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "我卖……"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "卖什么，叫什么！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "我卖锏……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯当、谢映登同上，过场，同下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮快板",
+          "text": "抬头只见二军家。 明明知道是响马， 无有批票不敢拿。 叫声店家忙追下， 还你的店钱就是他！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼下。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦，还我钱。哎吓，他跑呢，待我追下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老好下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯当、谢映登同上。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "来此已是酒楼，你我在此沽饮一回。酒家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "念",
+          "text": "隔壁三家醉，开坛十里香。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "二位敢是用酒？"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "正是。将马带过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保允，王伯当、谢映登同进店。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "二位用些什么？"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "好酒取来！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "伙计们，好酒一壶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保端酒。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "到。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "换你再来，下去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保允，下。秦琼、王老好同上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "卖锏！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "卖脸！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "嚇，卖锏，怎么说“卖脸”？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "前街走到后街，没有人问信，可不是卖脸？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "卖锏！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "拿钱来！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "就是卖脸。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "可不是卖脸。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "君子不得时，反被小人欺！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "谁是小人？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你是小人！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你是大人，拿钱来！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎，就算我是小人。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "本来你是小人。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你来看，此地有两骑大马。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你要偷人家的马？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "里面必有军家，你去问问，可要买锏。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你等着，待我来看看。 哦，是我亲家的店，我来家他一声。亲家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哽哼。什么人？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哦，亲家遇亲家，"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "礼多人不差。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "亲家是我儿，"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "我儿是亲家。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "一点亏也不吃。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "什么事情？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你去问问里面两个客人，可要买锏？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "他们不洗衣裳，不要碱。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "这是两军阵前打战的霹雳双锏。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "买卖成功，你我二八扣。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "我还没有拿着，你去问问看，要不要。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "二位可要买锏？"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "当面言价。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "里面说呢：要当面言价。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "晓得了。 二爷，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼睡。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "他走到哪里困到哪里！待我来骗他。伙计们摆饭！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "店主东，哪里有饭吓？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老好丢锏。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你怎么呢？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "揝揝我的脚了！"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "锏在这里，会揝你的脚了！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "里面怎样言讲？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "要当面言价。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哦，走走。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "到哪里去？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "当面言价。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你进去，我不进去。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "一同进去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼拉王老好。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你拉住我干什么？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "我怕你跑了。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你该我的钱，怎么怕我跑了？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你跑了，我吃哪一个？"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "那么你算吃定我呢！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哽，你猜着了。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "你与我去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼进店。"
+        },
+        {
+          "character": "王老好",
+          "type": "白",
+          "text": "哎呀，慢着，你看一个马快，两个强盗，他们要打起来，我不要吃人命官司， 待我溜了吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老好下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "二位请坐。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "此锏可是卖的？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "放下我等观看。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "沉重的紧。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "不妨事。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "放下了。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "桌子压坏了！"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "此锏可会耍？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "略知一二。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "耍来我等观看。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "酒家带他下面用饭。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "来。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "吃饭去。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哦，吃饭去，走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、酒保同下。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "贤弟，你我做绿林买卖，怕的何人？"
+        },
+        {
+          "character": "谢映登",
+          "type": "白",
+          "text": "怕的秦琼。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "我看此人好像秦琼。"
+        },
+        {
+          "character": "谢映登",
+          "type": "白",
+          "text": "等他到来，用言语打动于他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "二位，这个人，吃了五百馒首，半担米，半个猪。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "白",
+          "text": "上在我二人账上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "多谢二位酒饭。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "可曾用饱？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "无非充饥而已。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "耍来我等观看。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "此地狭小。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "酒家可有宽阔之处？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "后面宽阔。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "带路。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒家允。众人同走圆场。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "耍来我等观看。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "献丑了。"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "站在庭前用目斜，"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮快板",
+          "text": "上面坐的二军家。 认得他人是响马， 无有批票怎能拿？ 此地若有历城县， 定把二人送官衙。 到如今说什么刚强话， 讲什么浪言把自夸。 拤头去尾将锏耍，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼耍锏。"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "反被二位取笑咱。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "请坐。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "听兄台讲话，不像此地人氏。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "本不是此地人氏。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "哪里人氏？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "山东历城县人氏。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "山东历城县，我有一好友，兄台可知？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "有名便知，无名不晓。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "提起此人，大大的有名！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "是哪个？"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "姓秦名琼，字叔宝。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "秦琼，此人落魄的紧。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "人有穷富，但讲何妨？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "在下就是秦琼。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "哦，原来秦二哥！失敬了！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "岂敢。请问二位尊姓大名？"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "在下王伯当。"
+        },
+        {
+          "character": "谢映登",
+          "type": "白",
+          "text": "在下谢映登。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哦，原来王、谢二位贤弟，失敬了！"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "岂敢。二哥为何这等狼狈？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "二位贤弟非知：只因愚兄解押一十八名江……"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "哽。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "绿林的好汉，到天堂州交纳。只为天气炎热，中途路上，伤了一名。那蔡大老 爷不与批票回文，故而被困在此。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "这有何难？拿小弟的名帖前去，叫那蔡知州，与二哥批票回文就是。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "多谢二位贤弟。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "来，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保允。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "拿我名帖，叫那蔡知州，速付批票回文前来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保允，下。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "二哥，前日老伯母寿诞，有份厚礼，可曾收下？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "但不知从哪道而来？"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "打从那黑……"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "收下了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "启二位：批票回文在此。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "二哥，批票回文在此，这有散碎银两，与为路费。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "二位贤弟的银两，我秦琼怎能用得？"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "敢是嫌轻不成？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "如此，愧领了。"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮摇板",
+          "text": "二位贤弟赠我银， 来生犬马报你恩。 心中恼恨单雄信， 不该拐我马能行。 有朝犯在秦琼手， 打一锏来问一声。 二位贤弟响马放， 纵有大祸我当承。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼下。"
+        },
+        {
+          "character": "王伯当、谢映登",
+          "type": "同白",
+          "text": "酒家，酒钱在此，我等去也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯当、谢映登同带马，同下。酒保下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

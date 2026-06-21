@@ -1,0 +1,846 @@
+{
+  "script_id": "01013009",
+  "title": "罗四虎",
+  "alias": [
+    "独虎营"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "罗四虎",
+      "hangdang": "净"
+    },
+    {
+      "name": "施世纶",
+      "hangdang": "老生"
+    },
+    {
+      "name": "黄天霸",
+      "hangdang": "武生"
+    },
+    {
+      "name": "朱光祖",
+      "hangdang": "武丑"
+    },
+    {
+      "name": "关泰",
+      "hangdang": "净"
+    },
+    {
+      "name": "玄空",
+      "hangdang": "副净"
+    },
+    {
+      "name": "乔四",
+      "hangdang": "丑"
+    },
+    {
+      "name": "乔四亲家",
+      "hangdang": "丑"
+    },
+    {
+      "name": "杨忠妹",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "此剧，系在霸王庄拿捉黄隆基之后，黄隆基被正法，其仆役乔四之乔三，亦同时被杀。乔四以黄隆基与罗四\n虎系郎舅姻亲，遂往投之。颇蒙罗四虎嬖幸。适施公按临临清州，沿途百姓纷纷投告。施公遂扮作星卜之士，\n至独虎私访。不意为乔四识破，几被杀。赖是日系武举杨忠之妹，为州吏勒派与罗四虎为妾之吉期，罗四\n虎恐于花烛不利，故暂将施公吊在马棚，得以保全。黄天霸、朱光祖等均暗为寻访，当即救回。罗四虎亦就\n擒正法。",
+  "notes": "此本武戏中之小剧，为花面硬角。昔年老何九曾演过，极为可观。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗四虎上。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "念",
+          "text": "家财万贯逞富豪，府县官员结故交。二目圆睁天地小，"
+        },
+        {
+          "character": "罗四虎",
+          "type": "笑",
+          "text": "啊，哈哈哈哈哈！"
+        },
+        {
+          "character": "罗四虎",
+          "type": "念",
+          "text": "最爱美貌女多姣。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "吾，罗四虎。人称“活阎罗”。在临清独虎营居住，家有万贯。结交绿林英雄 好汉，本城府县官员，皆与我交接。只因此地，有一杨忠，他有一妹子，长得 十分美貌，是我命家院前去提亲，亲事不准，倒还罢了；反将吾家院暴打一顿。 是我恼恨在心，将他送至州衙，道他欠我纹银三百两。若有银两还我，倒还 罢了；若无银两，将他妹子与我作妾。这般时候，怎么还不见到来？ 左右，伺候了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乔四上。"
+        },
+        {
+          "character": "乔四",
+          "type": "念",
+          "text": "忙将州衙事，禀报四太爷知。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "参见四太爷！"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "乔四，你回来了？"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "我回来了。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "命你所办之事，怎么样了？"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "启禀四太爷：是我去至州衙，将四太爷你能得话，说了一遍。那州官即刻升堂， 将杨忠叫上堂来。言道限他三天，还了咱的银子便罢；如若不然，就将他妹 子，送来与你能作妾。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "笑",
+          "text": "呵哈哈哈哈……"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "好一个会办事的州官！"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "他借咱们爷们的脸使么！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乔四亲家上。"
+        },
+        {
+          "character": "乔四亲家",
+          "type": "念",
+          "text": "奉了师傅命，来此独虎营。"
+        },
+        {
+          "character": "乔四亲家",
+          "type": "白",
+          "text": "里面有人么？"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "是谁呀？ 哦，原来是亲家呀！"
+        },
+        {
+          "character": "乔四亲家",
+          "type": "白",
+          "text": "可不是嘛！亲家你好吓！"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "好吓！亲家什么事吓？"
+        },
+        {
+          "character": "乔四亲家",
+          "type": "白",
+          "text": "我师傅请四太爷，到我们那里饮酒。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "亲家你等等，我与你回一声。 启四太爷：今有玄师傅，请你能到庙里去喝酒，你能是去不去？"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "即刻就到。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "嗻。 亲家，四太爷说啦：随后就到。"
+        },
+        {
+          "character": "乔四亲家",
+          "type": "白",
+          "text": "请假，你回来也去吓！"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "好，我去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乔四亲家下。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "来，带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗四虎下，乔四下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱光祖上。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "念",
+          "text": "离了河间地，来此是临清。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "俺，朱光祖。是我在霸王庄，投了施大人，请假探望师傅病症，且喜师傅病体 痊愈。是我来至临清，闻听大人在此下马，不免暗地保护便了。正是："
+        },
+        {
+          "character": "朱光祖",
+          "type": "念",
+          "text": "爬山越岭，探听大人虚实。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱光祖下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "玄空上。"
+        },
+        {
+          "character": "玄空",
+          "type": "引子",
+          "text": "带发修行，结交绿林。"
+        },
+        {
+          "character": "玄空",
+          "type": "念",
+          "text": "带发出家入空门，禅堂不喜读经文。爱惜刀枪与拳棒，最爱美貌女佳人。"
+        },
+        {
+          "character": "玄空",
+          "type": "白",
+          "text": "咱家，玄空。闻听施不全，在此下马，是我命人去请罗四太爷。等他到来，准 备行刺赃官，以替绿林英雄报仇！"
+        },
+        {
+          "character": "手下",
+          "type": "内白",
+          "text": "四太爷到！"
+        },
+        {
+          "character": "玄空",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗四虎上。"
+        },
+        {
+          "character": "玄空",
+          "type": "白",
+          "text": "四太爷驾到，未曾远迎，面前赎罪。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "岂敢！某家来得卤莽，望乞海涵。"
+        },
+        {
+          "character": "玄空",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "柬帖相邀，有何见谕？"
+        },
+        {
+          "character": "玄空",
+          "type": "白",
+          "text": "今有施不全，在此下马。今晚三更时分，去至公馆行刺赃官，替绿林英雄报仇！"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "若能杀却赃官，方可消我心头之恨！"
+        },
+        {
+          "character": "玄空",
+          "type": "白",
+          "text": "后堂摆宴，与四太爷痛饮。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "来此就要叨扰。请了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗四虎、玄空同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施世纶上。"
+        },
+        {
+          "character": "施世纶",
+          "type": "西皮摇板",
+          "text": "乔装打扮把贼访， 不知恶霸在何方？"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "本院，施……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施世纶四下瞧。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "施世纶。只因此处有一恶霸罗四虎，欺压良民，扰害百姓。是我出了行台，暗 地私访。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施世纶看。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "“独虎营”，“独虎营”。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乔四暗上。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "呔！我说你是个干什么的？在此东瞧西看！"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "我乃是个算命的呀！"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "你是个算命的？你是哪里人呐？"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "我是个乡下人呐！"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "好好好！你既会算命，我家四太爷正要找个算命看相的呐！你随我在这来，在 我这小屋坐坐。 我说伙计们，给这位先生泡茶吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施世纶下。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "哈哈，我看此人好似赃官施不全。我在霸王庄，曾看见过他。我哥哥乔三，就 叫他杀啦！今个碰着我，也是活该！ 正是："
+        },
+        {
+          "character": "乔四",
+          "type": "念",
+          "text": "世间无有好事，就怕碰见好人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乔四下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸、关泰同上。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "请了。大人出衙私访，你我前去找寻便了。来此已是独虎营，不免进庄观看。 请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸、关泰同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同上。〖水底鱼〗。罗四虎上。乔四迎上。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "四太爷回来啦？"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "唔噜噜噜噜……"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "四太爷，今个又多贪了几盅吧？"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "某吃得倒也爽快！"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "四太爷，我与你能找了个看相的，给你能看看好不好？"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "好，叫他前来。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "我说相面的先生，你这儿来，我们四太爷叫你呐！"
+        },
+        {
+          "character": "施世纶",
+          "type": "内白",
+          "text": "哦，来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施世纶上。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "四太爷在哪里？"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "跪下，磕头！"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "他乃是个乡下人，一旁坐下。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "好造化！坐下，坐下。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "先生与我看上一看。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "是是是。四太爷，将尊冠升上一升。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗四虎推巾。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "四太爷真乃是好贵相："
+        },
+        {
+          "character": "施世纶",
+          "type": "念",
+          "text": "天庭饱满地角方，眼如日月放明光。唇红面白多尊贵，日后定作并肩王。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "四太爷，"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "嘁。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "日后定有一字并肩王之位。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "一字并肩王之位！"
+        },
+        {
+          "character": "罗四虎",
+          "type": "笑",
+          "text": "呵呵哈哈哈哈……"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "好一个看相的先生！来，赏他纹银十两。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "嗻。 先生，四太爷赏你十两银子，等你再与你美言几句，你再闹上一份，你看好不 好？"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "多谢多谢！你要好话多讲。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "我说四太爷，你当他是谁呀？"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "他是何人？"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "他就是赃官施不全，到咱们这私访来啦！"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "就是他！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗四虎打。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "赃官呐！"
+        },
+        {
+          "character": "罗四虎",
+          "type": "西皮摇板",
+          "text": "赃官吃了熊心胆， 阎罗殿前乱胡言。 姐丈隆基被你斩， 仇报仇来冤报冤！ 家院与我乱棍打，"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "四太爷，若将他打死，与你能洞房花烛不利。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "依你之见？"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "以小子之见，将他交给我，把他吊在马棚之内，我拿小修脚刀，慢慢把他剐了， 看好不好？"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "与我搭下去！正是："
+        },
+        {
+          "character": "罗四虎",
+          "type": "念",
+          "text": "天堂有路你不走，地狱无门闯进来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗四虎、乔四同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱光祖上。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "来此已是独虎营，不免越墙而过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱光祖下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸、关泰同上。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "来此已是庄院，你我越墙而过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸、关泰同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乔四上。"
+        },
+        {
+          "character": "乔四",
+          "type": "念",
+          "text": "酒是高粱水，醉人先醉腿。嘴里说胡话，眼睛活见鬼。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "我，乔四的便是。只因我同哥哥乔三，在霸王庄黄大太爷那里当差服役。不料 黄大太爷，被施不全杀啦，把我哥哥也奏啦！我扉法子，投奔罗四太爷这儿混 饭吃。不想赃官施不全，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸、关泰同暗上。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "到我们这私访来啦！被我看破，对我们四太爷一说，四太爷大怒，叫小子们一 路乱棍，打死啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸吓。"
+        },
+        {
+          "character": "乔四",
+          "type": "白",
+          "text": "你别害怕，他扉有死。是我将他吊在西北犄角马棚里，我拿修脚刀要把他剐喽！ 我剐不了他，你把我先奏喽，就结啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸杀乔四，救施世纶，关泰背施世纶同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四青袍扶罗四虎同上。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "唔噜噜噜噜……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。杨忠妹、花轿上。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "尔等回避了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同闭门，同下。黄天霸、朱光祖同上。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "美人，你从了某家，你的造化不小！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨忠妹哭。黄天霸上前，打门。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "何方毛贼，敢在此偷盗！带我看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗四虎开门。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "你是何人，前来送死！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "你老爷，四霸天“赛罗成”黄天霸！"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "哎呀呀呀呀！"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "老兄弟，还不动手嘛！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸抓罗四虎衣服，罗四虎下，黄天霸、朱光祖同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗四虎上。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "原来是天霸前来拿我。众英雄走上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同上。"
+        },
+        {
+          "character": "罗四虎",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸、朱光祖同上，同起打，同捉罗四虎，同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

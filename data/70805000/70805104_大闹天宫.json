@@ -1,0 +1,4164 @@
+{
+  "script_id": "70805104",
+  "title": "大闹天宫",
+  "alias": [],
+  "source": "翁偶虹剧本选",
+  "characters": [
+    {
+      "name": "孙悟空",
+      "hangdang": "武生"
+    },
+    {
+      "name": "李长庚",
+      "hangdang": "老生"
+    },
+    {
+      "name": "玉帝",
+      "hangdang": "老生"
+    },
+    {
+      "name": "李天王",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "孙悟空到龙宫借用兵器，龙王对他十分藐视，骗他去搬定海神针铁。不料孙悟空神通广大，把定海神针铁变\n为称手的兵器金箍棒。龙王悔恨，到天宫恳求玉帝捉拿孙悟空。李长庚献策招抚。把孙悟空骗到御马监养马。\n孙悟空识破秘密，大闹御马监，返回花果山，树立起“齐天大圣“的旗号。李长庚再上花果山，假意请他\n赴会蟠桃宴。孙悟空来到天宫，从仙女口中得知蟠桃宴并未邀请于他，一怒之下，大闹瑶池，饱吃金丹。玉\n帝派二郎神捉拿孙悟空，因他食用金丹，已变成钢筋铁骨，刀枪不能伤身。玉帝又把他送到太上老君的八卦\n炉里，用火烧炼。结果，孙悟空仍然活跃地跳出炉来。天宫集中兵力，在李天王率领之下，和孙悟空大战。\n最后被机智而勇敢的孙悟空打得大败。孙悟空在众小猴欢呼簇拥之中，高唱凯歌，胜利回山。",
+  "notes": "一九七七年九月中国京剧院一团复排此剧，此剧本为翁偶虹为谷春章重新修改。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龙宫。幕启。众水族跳水旗舞引敖广同上。敖广饮宴。龟丞相侍立。虾将上。"
+        },
+        {
+          "character": "虾将",
+          "type": "白",
+          "text": "启禀龙君：花果山水帘洞天生大圣孙悟空来拜。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "呃！本爵安居东海，从不认得什么天生大圣，传旨不见！"
+        },
+        {
+          "character": "蟹将",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蟹将急上。"
+        },
+        {
+          "character": "蟹将",
+          "type": "白",
+          "text": "孙悟空闯进龙宫来了！"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广惊立。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "内哪吒令",
+          "text": "啊哈穿——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空翻上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "哪吒令",
+          "text": "穿波涛汪洋， 翻波涛汪洋， 分水越宫墙。 见玳瑁珊瑚光摇荡， 水晶宫真明爽， 俺只待呼虾问蟹见龙王。 借问龙王何在？"
+        },
+        {
+          "character": "虾将、蟹将",
+          "type": "同白",
+          "text": "这就是我家龙君！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "龙王请了。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "野客何来？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "三星洞中得道，花果山上称王。你我铁桥相界，入水来拜街坊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广傲慢。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": "敖广",
+          "type": "念",
+          "text": "与你夙无来往，擅闯龙宫猖狂！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "某有小事求助，何用虚礼文章？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广大剌剌。"
+        },
+        {
+          "character": "敖广",
+          "type": "念",
+          "text": "何事求助于我？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "乞借宝器干将。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "要它何用？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "只因山魈木怪，勾结一伙成帮。妄想毁灭我寨，把我子孙杀伤。"
+        },
+        {
+          "character": "敖广",
+          "type": "念",
+          "text": "就该迎敌对垒，"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "奈无称手刀枪！若蒙赐借宝器，一举扫灭强梁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广得意。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "敖广",
+          "type": "念",
+          "text": "你到龙宫借宝，算你造化荣光。只怕重器难举，"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "何妨试在当场。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "这个……好！ 虾、蟹二将，把那三千六百斤的通灵宝刀抬上来！"
+        },
+        {
+          "character": "虾将、蟹将",
+          "type": "同白",
+          "text": "啊——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虾将、蟹将同抬大刀。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "你且试来。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空不屑一视地拿起大刀，舞动几下。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嗳！不称手！"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "你有多大膂力，出此狂言？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "轻得很！"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广不忿。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "好！把那七千二百斤的方天画戟抬上来！"
+        },
+        {
+          "character": "虾将、蟹将",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虾将、蟹将同抬画戟。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "你再试来！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "待俺试来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空舞画戟，舞到酣处，戟折数段。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哎呀呀，不中用的东西！"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "啊？七千二百斤的方天画戟，还不中用，你这野客，也忒狂傲了！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "俺老孙天生神力，等闲之物，难称我手。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广怒。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "龙宫无有了！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嘿嘿！可怜你这堂堂海藏，竟无俺老孙用武之器，倒叫俺好笑啊，哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广恼羞成怒。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "龟丞相",
+          "type": "白",
+          "text": "啊——龙君……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龟丞相凑过去，附耳低语。"
+        },
+        {
+          "character": "龟丞相",
+          "type": "白",
+          "text": "那定海神针……"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "噢、噢、噢。孙悟空！俺海藏有一定海神针，乃禹王治水之时，镇定海底之宝， 从古至今，无人动得。老夫有意奉送，只怕你也动它不得。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "俺若动得它呢？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广负气。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "俺就送与你用！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "一言出口？"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "决不反悔。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "好！海藏一观。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "带路海藏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起音乐。换海藏景。定海神针光芒四射。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "你来看，这就是定海神针！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "光、声效果。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "鹊尾犯",
+          "text": "觑着伊——泛霞光烛天高， 似砥柱撑海礁。 说什么定海神针， 亘古无人动摇。 俺怪他——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空摇动神针。声光效果。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "鹊尾犯",
+          "text": "有些碍手碍脚， 俺叫他——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空用力摇动神针，使神针缩小。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "鹊尾犯",
+          "text": "节节矮，寸寸消， 变一个如意棒儿，能大能小。 （孙悟空将神针缩成金箍棒。兴极而舞。孙悟空大舞金箍棒。敖广、众水族看得眼花撩乱，心惊胆颤。敖广 在孙悟空舞棒中夹白。）"
+        },
+        {
+          "character": "敖广、众水族",
+          "type": "同白",
+          "text": "好大神力！好大法力！神力无穷！法力无边！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空舞至兴尽，把金箍棒变为寸针，藏于耳内。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哈哈哈……倒是个称手的兵器，多谢了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广一把扯住孙悟空。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "哎呀大圣呀！神针离位，海底动摇，我这龙宫就不安宁了！请大圣赐还于我， 再奉它宝。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呀呸！你有话在先，怎能言而无信？"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "我量大圣，动他不得，一时戏言，与你做耍。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊？俺老孙岂是你们做耍的么？"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "恕我糊涂冒犯，食言有愧。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "恕我认真从事，却之不恭。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "你还是不还？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "不还便怎么样？"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "这个……撞钟擂鼓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虾将、蟹将同撞钟擂鼓。〖急急风〗。敖钦、敖顺、敖闰各执兵器引众水族同上。"
+        },
+        {
+          "character": "敖钦、敖顺、敖闰",
+          "type": "同白",
+          "text": "大哥何事惊慌？"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "妖猴无礼，抢走定海神针！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "住口！分明你言而无信，怎说是抢？"
+        },
+        {
+          "character": "敖钦、敖顺、敖闰",
+          "type": "同白",
+          "text": "管你抢与不抢，快快还与龙王！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "你们失信于人，真真岂有此理！"
+        },
+        {
+          "character": "敖广、敖钦、敖顺、敖闰",
+          "type": "同白",
+          "text": "有理无理，我等不许，众水将，围住了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众水族、敖广、敖钦、敖顺、敖闰同围上孙悟空。孙悟空从容不迫地取出金箍棒。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嘿嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空从容御敌，边打边唱。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "雁儿煞",
+          "text": "却怎生闹吵吵把刀枪列？ 有谁敢把俺挡拦者！ 挡着俺呵， 管叫恁棒下身亡，目前命绝， 恁休逞雌黄口，卷澜舌！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广、敖钦、敖顺、敖闰、众水族同被打得狼狈闪躲。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "不恭啊，不恭！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "雁儿煞",
+          "text": "恁且来、来、来，好好说一句献与大圣， 俺便深深地谢。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "告辞了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空下。龙宫动摇，水声效果。"
+        },
+        {
+          "character": "敖钦、敖顺、敖闰、众水族",
+          "type": "同白",
+          "text": "神针被夺，龙宫不安，如何是好？"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "待我上奏天宫，捉拿妖猴！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "灯暗。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "音乐中现出灵霄殿。玉帝正座，众仙吏、马王、天喜、李长庚分侍左右。敖广捧笏恭立。"
+        },
+        {
+          "character": "玉帝",
+          "type": "粉蝶儿",
+          "text": "扰我清闲。 海龙王， 何事惊颤？"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "臣启陛下：今有花果山水帘洞妖猴孙悟空，大闹海藏，欺压老臣，抢去定海神 针，四海动荡，龙宫不安。伏乞速派天兵，扫荡妖孽。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "玉帝惊。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "噢。妖猴如此猖狂，今日搅乱海藏，说不得就要动荡灵霄。 李长庚，传孤旨意，调集天兵，速灭妖猴！"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "且慢。臣启陛下：那妖猴乃三百年前，天产石猴，他有天地育化之身，降龙伏 虎之能。若派天兵擒拿，只怕徒劳往返。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚停顿，把节奏压下来。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "不如用牢笼之计，将他宣上天来，授以微末仙职，一，显我上界之仁；二，免 得劳动人马。"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "臣启陛下：那妖猴野性，天宫不可收留。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "臣启陛下：小小妖猴，怎能与臣等同列仙班，有伤大雅，不可收留。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "臣启陛下：那妖猴抢去定海神针，海藏动摇，他既敢大闹海藏，说不得就敢扰 乱天宫。伏乞玉帝，速派天兵天将，征剿捉拿，万万不可收留。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "臣启陛下：那妖猴初得人身，不知世故，一派天真。只要严守机密，施以怀柔， 他纵然性野，得天宫之教化，自然循规蹈矩，俯首贴耳。这也显示玉帝宽洪 大量之怀，普救众生之德。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "这个……授他何职？"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "御马监缺少个正堂司事，就封他为弼马温，为陛下养马。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": "玉帝",
+          "type": "念",
+          "text": "依卿所奏宣妖猴，"
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "得罢休时且罢休。"
+        },
+        {
+          "character": "玉帝",
+          "type": "念",
+          "text": "敖广仍把东海守，"
+        },
+        {
+          "character": "敖广",
+          "type": "念",
+          "text": "空朝玉阙难报仇。"
+        },
+        {
+          "character": "敖广",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "敖广叹气下。玉帝写好牒文。"
+        },
+        {
+          "character": "玉帝",
+          "type": "念",
+          "text": "纶音付于长庚手，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚接过牒文。"
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "花果山前用机谋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚下。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "罢朝设宴。"
+        },
+        {
+          "character": "众仙吏",
+          "type": "同白",
+          "text": "隐蔽灵霄。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众仙吏自两边分下。"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "嘿，玉帝如此宽容，我等难以忍受！"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "是啊。待那妖猴上天之后，你我去至御马监，我以文才，你用武略，与他些厉 害的颜色，重重地羞他一场！"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "好！"
+        },
+        {
+          "character": "马王、天喜",
+          "type": "同出队子",
+          "text": "胆大妖猴， 大闹龙宫理不周， 御马监内把他羞， 文武兼施用鞭抽， 管教妖魔驯服低头。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马王、天喜自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花果山。"
+        },
+        {
+          "character": "众人",
+          "type": "内同伴唱",
+          "text": "水帘洞飞珠泻玉灿云霞， 花果山鸟语花香参造化。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众小猴、四健将在伴唱中嬉戏舞蹈。一猴跳上石台，吹海螺。〖急急风〗。四小猴、孙悟空同上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "粉蝶儿",
+          "text": "孕育洪荒， 俺可也孕育洪荒。 吸烟霞，摘日月， 吞吐万象。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水龙吟〗。孙悟空上高台。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "大闹龙宫海波扬，"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同念",
+          "text": "海波扬，"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "镇伏四海拱手降，"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同念",
+          "text": "拱手降。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "神针化做金箍棒， 金盔金甲献猴王。"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同念",
+          "text": "雄壮！辉煌！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众小猴、四健将同大笑。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "好一个雄壮，辉煌！哈哈哈……"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "谁个不知，哪个不晓，大圣爷爷拜访龙宫，借用兵器，那龙王大话欺人，言而 无信——"
+        },
+        {
+          "character": "小猴乙",
+          "type": "白",
+          "text": "我来讲。恼得大圣性起，闹翻龙宫——"
+        },
+        {
+          "character": "众小猴",
+          "type": "同念",
+          "text": "镇伏四海龙王，献上定海神针。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "说得不错，说得不错。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "今日我们就把这闹龙宫的事儿，学上一学，做个玩耍，祝贺大王。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "好个有趣的玩耍。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴甲跳到孙悟空面前。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "我学大圣！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "唔。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空摸小猴甲头。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "好好好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴甲向众猴。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "我学大王。"
+        },
+        {
+          "character": "小猴乙",
+          "type": "白",
+          "text": "我学东海龙王。"
+        },
+        {
+          "character": "小猴丙",
+          "type": "白",
+          "text": "我学西海龙王。"
+        },
+        {
+          "character": "小猴丁",
+          "type": "白",
+          "text": "我学南海龙王。"
+        },
+        {
+          "character": "小猴戊",
+          "type": "白",
+          "text": "我学北海龙王。"
+        },
+        {
+          "character": "小猴己",
+          "type": "白",
+          "text": "我学虾兵。"
+        },
+        {
+          "character": "小猴庚",
+          "type": "白",
+          "text": "我学蟹将。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "好好好，你们快快学来。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "唔！"
+        },
+        {
+          "character": "众小猴",
+          "type": "同白",
+          "text": "唔！"
+        },
+        {
+          "character": "小猴甲",
+          "type": "雁儿落",
+          "text": "冲波浪，入海洋， 冲波浪，入海洋！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴甲入水式。"
+        },
+        {
+          "character": "众小猴",
+          "type": "同雁儿落",
+          "text": "吓坏了鱼鳖虾蟹龟和蚌。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众小猴同翻躲。"
+        },
+        {
+          "character": "小猴乙",
+          "type": "雁儿落",
+          "text": "我是那老龙王急忙忙把诡话讲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴乙挺身而出，把小猴甲挡回。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "雁儿落",
+          "text": "激得俺性儿起， 激得俺闹一场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴乙一拦、两拦；小猴甲踢小猴乙屁股座子。"
+        },
+        {
+          "character": "小猴乙",
+          "type": "雁儿落",
+          "text": "慌忙，俺这里擂动鼍鼓， 俺这里擂动鼍鼓聚水将！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴乙坐着唱，做擂鼓状。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "雁儿落",
+          "text": "俺呵，打得你，拱手降， 打得你，拱手降！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴甲拉起小猴乙，五小猴同上前，小猴甲揪小猴乙毛，小猴甲吓退五小猴。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "快献宝来！"
+        },
+        {
+          "character": "众小猴",
+          "type": "同雁儿落",
+          "text": "无有宝，快躲藏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴甲追得众小猴乱跑。众小猴同逃下。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴甲做追状，跳矮子下。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哈哈哈……有趣呀，有趣！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头不断。七小猴拥李长庚同上。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "不要啰唣，我是来见你家大王的。"
+        },
+        {
+          "character": "五小猴",
+          "type": "同雁儿落",
+          "text": "擒来了，老龙王， 喜滋滋，献大王。"
+        },
+        {
+          "character": "五小猴",
+          "type": "同白",
+          "text": "启禀大王：我们把老龙王真个捉来了！"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "呃！我不是什么老龙王，我是三十三天的李长庚。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "唔？你是李长庚？"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "不错，我就是上界的李长庚。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚神气十足。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "吔！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空跳下高台。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "此老来从天上，倒也神气堂皇。且把来意道其详，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空向众小猴。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "尔等休得莽撞。"
+        },
+        {
+          "character": "五小猴",
+          "type": "同白",
+          "text": "唔。"
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "我奉玉帝敕旨，"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "做什么？"
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "请你同上天堂。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "请我做甚？"
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "大王威名镇四方，我们久仰久仰。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "分明一派鬼话，哪有真诚心肠！"
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "现有玉牒在身旁，玉帝十分盼望。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚欲开读牒文，孙悟空劈手抢过。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呃！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "不必装模作样，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空把牒文扔与众小猴。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "有话说在当场。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "啊，啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚有些着荒。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "天宫若是好地方，"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "果然新奇热闹么——"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "老孙倒可一往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚抓住机会，施展诡计。"
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "他问天宫景象，原是好耍儿郎。莫嫌老朽鼓舌簧，与你试说几样。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "快快讲来。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "哎呀呀，那天宫上的景象，新奇得很，热闹得很喏！"
+        },
+        {
+          "character": "李长庚",
+          "type": "石榴花",
+          "text": "恁看那清空碧朗，闪灵光， 瑞蔼蔼祥云散奇香。 还有那乘鸾跨鹤随意翱翔。 一个个霞佩云裳， 一处处金碧辉煌， 凌参造化好景象。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "大王，那天上有三十三座天宫，七十二重宝殿。一宫宫琉璃造就，一殿殿白玉 装成。奇花异草，到处芬芳；瑞兽灵禽，见人歌舞。那酒有酒海，桃有桃园， 丹有丹房，宝有宝库。吃的，喝的，穿的，用的，无一不奇；看的，听的，玩 的，耍的，无一不妙。还有千千万万的好马，供你乘骑。真所谓包罗万象，奥 妙无穷，一时难以说得尽致也！"
+        },
+        {
+          "character": "李长庚",
+          "type": "石榴花",
+          "text": "阆苑福地多异样。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "石榴花",
+          "text": "好叫我心驰意往，上云乡。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哈哈哈……哎呀妙啊！原来天宫之中，这等好耍，还有千千万万的好马，供我 乘骑！ 子孙们，待我先去看上一看，果然是好，就带你们一同前往。"
+        },
+        {
+          "character": "众小猴",
+          "type": "同白",
+          "text": "多谢大王。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "老头儿，俺老孙就与你同上天宫。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "多谢赏光。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "子孙们！"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同白",
+          "text": "大王。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "我去后切莫把刀枪轻放，"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同白",
+          "text": "我等不敢。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "待回来告尔等天宫景象。"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同白",
+          "text": "我等愿闻。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "我此去决不忘花果弟兄，"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同白",
+          "text": "我等也不忘大王。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "便回来接尔等水帘众将。"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同白",
+          "text": "我们等候大王。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "小心看守！ 老头儿随俺来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空翻跟头下。李长庚惊愕。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "啊？你家大王呢？"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "我家大王，驾起筋斗云，上天去了！"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "何为筋斗云？"
+        },
+        {
+          "character": "小猴乙、小猴丙",
+          "type": "同白",
+          "text": "筋斗云就是云筋斗，一翻就是十万八千里。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "哎呀！老夫枉列仙班，从来不曾见过筋斗云。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚一望。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "哎呀，他已踪影不见，叫我怎能赶得上？哎，待我拼了老力气，尽力追赶。 喂！大王慢走，大王慢走，老朽赶你来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚做慌张赶状，下。众猴对李长庚的慌张神气大笑。"
+        },
+        {
+          "character": "众猴",
+          "type": "同笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "你们看，大王刚刚翻了一个筋斗云，就把那个老头儿吓坏了！"
+        },
+        {
+          "character": "小猴乙、小猴丙、小猴丁、小猴戊、小猴己、小猴庚",
+          "type": "同白",
+          "text": "小猴你们看，咱家大王，把眼儿一睁，腿儿一弓，臂儿一松，腰儿一撑，说道， 呔！你们小心看守，老头儿随俺来！ （小猴乙、小猴丙、小猴丁、小猴戊、小猴己、小猴庚同学孙悟空翻跟头下。众小猴、四健将同学李长庚慌 张神气。）"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同白",
+          "text": "喂！大王慢走！大王慢走！老朽赶你来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众小猴、四健将同学李长庚慌张追赶状，有的连滚带爬。"
+        },
+        {
+          "character": "众小猴、四健将",
+          "type": "同笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众小猴、四健将愉快地同下。灯暗。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "御马监。监正、监副同上，做刷马、赶马等动作。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同越恁好",
+          "text": "闹垓垓刷马洗槽， 闹垓垓刷马洗槽， 急忙忙多加草料。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马嘶。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同越恁好",
+          "text": "拦不住紫燕咆哮， 止不住龙媒奔跳， 好叫人心下添焦躁。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "怕的是弼马温来了呵！"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同越恁好",
+          "text": "俺这里忙把青竹竿儿套着， 紫金鞭儿撵着， 忙把栅儿关着。 逢迎新任免烦恼， 逢迎新任免烦恼。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "寅翁。"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "堂翁。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "新弼马温上任来了，你晓得他是哪一个呀？"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "听说是下界的一个猴妖！"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "噤声，噤声！什么猴妖？你好大的胆哪！他本是通灵石猴，天生大圣，神通广 大，厉害得很。我们必须小心伺候，不可冲撞。"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "他既有广大神通，为何屈居这小小的弼马温呢？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "哎呀呀，你好不晓事。他初得人身，不知世故。我家玉帝，与他这样一个微末 的官儿，原是牢笼于他。"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "哎呀呀，倘若被他识破，岂不要大闹一场？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "所以太白星君，再三嘱咐我等，叫我们多磕头，少讲话，千万不要说破这弼马 温的底细。"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "此事关系重大，我们必须小心一二。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "岂止小心一二，必须谨慎再三。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空内嗽声。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "你看，弼马温穿着官服，摇摇摆摆来了。小心，小心！"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "谨慎，谨慎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正、监副小心翼翼地刷马。孙悟空穿官衣、持扇子、斯文地走上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "孙悟空",
+          "type": "玉山颓",
+          "text": "莫笑为官游戏， 到天宫原为好奇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空左右看马。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "玉山颓",
+          "text": "喜匹匹尽是龙驹， 更萧萧莫非骐骥。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空用手抚马。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哎呀，马呀！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "玉山颓",
+          "text": "我是尔等知己， 休错认是凶残暴戾。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "管监的官儿呢？"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "伺候大人。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "玉山颓",
+          "text": "你们殷勤多看觑， 莫呵斥， 养得形神两超逸， 养得形神两超逸。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起万年欢〗。孙悟空入公座。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "卑职参见大人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正、监副同拜。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "喂，喂！俺老孙不要这个调调儿，起来，起来。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "多谢大人。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "多谢大人。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呃！什么大人？要叫大王！"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "是、是、是。多谢大王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正、监副又磕一头。孙悟空厌烦。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "起来，起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空见桌上物件，都很新奇。翻看文簿，拿笔在薄上画了个斜十字，翻篇又勾。监正见势不妙，忙拦阻。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "啊大王，这簿上乃是宝马的名号，不要涂抹。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空无闻，涂。监正、监副急得无办法。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "我来问你，这监中共有多少好马？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "好马多得很，这里是骅骝、紫燕、绿駬、飞黄。"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "还有骕骦、赤兔、驼影、超光。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "上驷三万六千匹。"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "中驷十万八千匹。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "下驷不计其数。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "唔，有这么许多？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空兴奋。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "它们的脚程如何？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "哎呀呀，个个有九逸之能。"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "匹匹是八骏之选。"
+        },
+        {
+          "character": "孙悟",
+          "type": "白",
+          "text": "哪个最好？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "飞黄最好。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "好，你们骑来我看。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "骏马性烈，卑职等降他不住。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嗯！你们在此看马，怎说降他不得？分明是偷懒！欺瞒！"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "大王不要生气，卑职等骑来，卑职等骑来。只是——"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "只是什么？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "倘若我等跌下马来，还请大王宽恕。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "无妨事，无妨事。倘若真个难降，待老孙指拨尔等。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "如此，多谢大王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正转向监副。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "寅翁请来乘骑。"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "不敢。卑职无能，还是堂翁乘骑。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "寅翁先骑，倘若降他不得，再看我的手段。"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "堂翁既有手段，何不大显身手？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "定要看看我的手段？"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "领教，领教。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "好。我且谁备挨摔者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正、监副同牵马。马性烈，踢跳咆哮。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同调笑令",
+          "text": "奉大人令传， 奉大人令传， 大胆儿把马来牵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正上马。马跳起来。监正大惊。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "监正",
+          "type": "调笑令",
+          "text": "只见它踢跳喧嘶打转转， 急忙忙扯着了金嚼环， 战兢兢也不敢加鞭。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "救命啊！救命啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正颠下马来。监副赶来牵马，牵不住。孙悟空一把牵住。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "孙悟空",
+          "type": "调笑令",
+          "text": "呵哈，恁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空向监正。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "调笑令",
+          "text": "恁在这御马监内将些个草料儿来谋克赚， 它今日向你报冤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "卸去鞍鞯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空命监副卸鞍鞯。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "调笑令",
+          "text": "呵哈且—— 且看俺抓鬃骣马试一番。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空边唱边上马。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "好马！哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马不住声嘶。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "老孙面前休放野！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "调笑令",
+          "text": "老孙也不动蛮。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "看仔细！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "调笑令",
+          "text": "呵哈，俺！ 俺可也非弄险， 这不过牛刀试开端。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空趟马，马极驯，缓缓徐行。孙悟空下马，马不跳。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正、监副同接过马。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "好手段！好手段！大王真真是好手段！"
+        },
+        {
+          "character": "天喜",
+          "type": "内白",
+          "text": "天喜星君选马！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "何事喧哗？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "天喜星君，前来……拜访。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哦，天喜星君，前来拜访？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "正是。大王快快迎接。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哪个迎接于他？叫他自己进来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空拂袖而下。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "怎样？"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "怎样？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "代！"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "替！"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "迎！"
+        },
+        {
+          "character": "监副",
+          "type": "白",
+          "text": "接！"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "有请天喜星君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四云童、天喜同上。"
+        },
+        {
+          "character": "天喜",
+          "type": "出队子",
+          "text": "满怀锦绣， 要以文章服猴头， 且看状元信口诌， 舌剑唇枪有讲究， 摇摇摆摆， 自觉风流。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "迎接星君。小官叩头。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "免。"
+        },
+        {
+          "character": "监正、监副",
+          "type": "同白",
+          "text": "谢星君。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "喏！正堂官儿呢？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正回头看孙悟空未在。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "他俱怕星君虎威，不敢参见。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "怎么，他怕了我么？"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜拍手大笑。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "喏，喏，喏，你家状元公先声夺人，他见也不敢见了。真所谓，不着一字，占 尽风流，未发一语，神鬼皆愁。我制服他了，我制服他了，今日饶他一番，明 日再来选马。 来，打起状元锣，展开状元旗，带过状元马，转回状元府。"
+        },
+        {
+          "character": "四云童",
+          "type": "同白",
+          "text": "遵法谕。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜有意识地在监内摇摇摆摆转一个圈子。"
+        },
+        {
+          "character": "天喜",
+          "type": "出队子",
+          "text": "精神抖擞， 到底状元胜一筹， 妖魔闻名暗地溜， 满面春风笑悠悠， 鞭叩金橙， 凯歌低讴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空暗上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呔！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜出其不意，吓一跳。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "什么人在此鸣锣？"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "喏！天喜星君状元公。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "是个酸溜溜的人儿，倒也好耍。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "喏！你！你！你分明怕了我了！你怕了我了啊，哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜狂笑。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空莫名其妙。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "我老孙怕你何来？"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "你怕我是天上第一，人间无二，天子门生，御笔亲点的状元老爷！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "这状元老爷，是万中挑千，千中挑百，百中挑十，十中挑三，三中挑一，要经 过大考小考，乡考会考，春秋两考，金殿一考，才考出我这状元老爷。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "如此说来，你的学问大得很？"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "哼哼！也非状元夸口，我腹内有五车之书。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "无非是碎铜烂铁。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "我胸中有八斗之才。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "不过是残茶剩饭。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "上至三坟五典，八索九丘，无一不通，下至诗词歌赋，行令猜谜，无一不晓。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "如此说来，你倒会猜个谜儿？"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "堂堂状元公，哪有不晓得猜谜的道理！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "好，我有个猜字谜儿，你可猜得着？"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "任你说来，状元公一猜就中。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空略一思索，故意拿天喜取笑。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "好！你且听来：自大有一点。是个什么字？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜思索。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "自大有一点？是个“臭”字。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "猜得不错。半边墙，立个犬。是个什么字？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜思索。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "是个“状”字。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "不方不尖？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜思索。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "是个“元”字。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "不咸不甜？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜思索。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "是个“酸”字。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "非雾非烟？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜思索。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "是个“气”字。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "勇往向前？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜思索。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "是个“冲”字。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "人扛二棍，一长一短？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜思索。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "是个“天”字。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "共猜几个字？"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "“臭”、“状”、“元”、“酸”、“气”、“冲”、“天”。共是七个字。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "臭状元酸气冲天。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "着啊！臭状元酸气冲天。倒叫俺好笑啊！哈哈哈……"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "唗！胆大猴头，为何戏耍你状元老爷？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "你道什么？"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "我是状元老爷！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嘿嘿！我看你不是什么状元老爷，你是个象牙饭桶。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "啊？ 左右，他叫我什么？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "我叫你象牙饭桶！"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "这象牙饭桶，是哪里的典故啊？哎呀，看他不出，却有如此奇才。我这堂堂状 元公，倒被他考住了。 左右，快快回府，开书库，打书箱，查书目，翻书囊，找一找这象牙饭桶，出 在哪一部，哪一页。嘿嘿，象牙饭桶！哎呀，象牙饭桶！惭愧，惭愧，惭愧呀！ 哦哦……"
+        },
+        {
+          "character": "天喜",
+          "type": "出队子",
+          "text": "寡闻孤陋，求荣反辱把人丢， 自信才学世无俦， 还有能人在上头， 打点书箱，再读几秋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜哼哼唧唧干唱，不必唱完就可以下去。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "孙悟空",
+          "type": "哪吒令",
+          "text": "笑酸丁，喳喳！ 吔！他卖弄才华。 满肚皮絮花， 却装作风雅。 好叫俺笑哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。孙悟空入大座。幕内鸣锣。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "哪吒令",
+          "text": "又听得锣声炸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四侍从、马王同上。搜场。〖四击头〗。"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "马王到！马王到！马王到！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嗬嗬！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "哪吒令",
+          "text": "又一个狂徒妄自尊大！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呔！什么人在此喧哗？"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "马王在此！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "原来是个老马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "监正低声。"
+        },
+        {
+          "character": "监正",
+          "type": "白",
+          "text": "大王，大王，这是马王爷，我们的上司到了。快快迎接，不可冲撞。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "休得啰唣！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空指马王。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呃！我不管你什么马王牛王，老孙面前，不许你张牙舞爪，卖弄猖狂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空拍惊堂木。"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "孙悟空！你今做了弼马温，就是俺靴尖下的官儿。俺今前来查马，快快伏地叩 首，迎接于俺。少若迟延，定要治罪！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "你且住了！俺不晓得什么弼马温，俺在此玩耍，你查俺何来？"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "俺马王管尽天地之马，怎么查你不得？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "怎么，你管尽天地之马？"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "嗯！俺管尽天地之马。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "我来问你，那弦子上的码儿，你也管得了么？"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "这个？"
+        },
+        {
+          "character": "马王",
+          "type": "叫头",
+          "text": "孙悟空！"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "你这小小的弼马温，不过是人间的马伕头儿，与俺天宫的尊神，刷马清槽，牵 马坠镫，扬鞭就走，勒缰即住，官卑职小，无品无级。适才天喜星君前来选马， 你竟敢言语冒犯，羞辱天神，就是一行大罪！如今上司到此，你还敢口出狂 言，以小犯上！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "住口！我把你们这些骗人的猪狗，俺老孙在花果山上，称王做祖。怎么？骗俺 到此，与你们刷马清槽！快快传话金星，转告玉帝，俺老孙以宽宏之量，饶他 们一遭，若是恼了俺的性儿啊，嗬嗬，俺定要打翻天宫！"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "一派胡言。来呀！与我拿下了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四侍从同赶上前抓住孙悟空。孙悟空怒极。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "咋！咋！咋！气煞我也！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "鹊踏枝",
+          "text": "呵呵！激！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空脱衣跳出桌子。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "鹊踏枝",
+          "text": "激得我眸开竖！ 恼！ 恼得俺气转呆！ 恁看那金星玉帝毒似蜂虿！ 原来是欺瞒哄骗浑无赖。 俺本是顶天立地圣佛仙， 喒怎能不尴不尬学那折腰态。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马王指挥左右。"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "快快擒缚！ （四侍从、孙悟空同开打。孙悟空佯被马王捉住，四侍从同围扑过去，孙悟空乘机由四侍从空隙中闪出，四 侍从慌忙之间，捉住马王。孙悟空忙用定身法，定住四侍从、马王。孙悟空上公案，看看四侍从、马王很好 笑。）"
+        },
+        {
+          "character": "孙悟空",
+          "type": "笑",
+          "text": "嘿嘿！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "鹊踏枝",
+          "text": "笑你们形形色色一伙奴婢态。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "俺去也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "落幕。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "灵霄殿。大锣加钹抽头。李长庚引天喜、马王狼狈同上。"
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "好个刁恶猴头，"
+        },
+        {
+          "character": "天喜、马王",
+          "type": "同念",
+          "text": "猴头。"
+        },
+        {
+          "character": "马王",
+          "type": "念",
+          "text": "文武难用机谋，"
+        },
+        {
+          "character": "李长庚、天喜、马王",
+          "type": "同念",
+          "text": "机谋。"
+        },
+        {
+          "character": "天喜",
+          "type": "念",
+          "text": "卖弄文才落场羞，"
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "见玉帝，诉冤仇，"
+        },
+        {
+          "character": "马王、天喜",
+          "type": "同念",
+          "text": "派天兵，把他收，"
+        },
+        {
+          "character": "李长庚、天喜、马王",
+          "type": "同念",
+          "text": "擂鼓撞钟， 擂鼓撞钟朝玉楼， 不灭此妖誓不休。 （李长庚、天喜、马王同擂鼓撞钟。〖急急风〗。一阵慌乱。在乐声中现出灵霄殿。众仙吏、玉女、玉帝同 上。）"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "唗！好一群不知礼仪的逆臣，孤家正在饮宴，有何大事，撞钟擂鼓？"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "非是臣等乱击钟鼓，那孙悟空识破机密，反出御马监，回转花果山去了！"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "啊，有这等事。定是你等招惹于他。"
+        },
+        {
+          "character": "李长庚、天喜、马王",
+          "type": "同白",
+          "text": "这个！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚、天喜、马王对看。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "既是陛下追问，为臣不敢隐瞒，只因马王——"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "臣启陛下：那妖猴实实无礼。天喜选马，被他羞辱；为臣查马，也被他痛打。 并非臣等招惹于他。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "啊！妖猴如此猖狂，其情可恼！"
+        },
+        {
+          "character": "赵天君",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵天君急上。"
+        },
+        {
+          "character": "赵天君",
+          "type": "白",
+          "text": "启奏玉帝：孙悟空闯出天门，在花果山上，高立一旗，自称“齐天大圣”。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "有这等事？快快紧闭天门。"
+        },
+        {
+          "character": "赵天君",
+          "type": "白",
+          "text": "遵旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵天君下。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "李长庚，替孤传旨，命哪吒率领天兵天将，速往花果山水帘洞，捉拿妖猴。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "遵旨。下面听者，玉帝有旨，命哪吒率领天兵天将，速往花果山水帘洞，捉拿 妖猴！"
+        },
+        {
+          "character": "众神将",
+          "type": "内同白",
+          "text": "领法旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "幕内擂鼓。三冲头。加战鼓。哪吒伤左臂败上。"
+        },
+        {
+          "character": "哪吒",
+          "type": "白",
+          "text": "参见玉帝，大事不好了！"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "哪吒",
+          "type": "白",
+          "text": "为臣被妖猴杀得大败。他还要闯入天门，打上灵霄！"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "啊！小小猴头，如此刁恶！多派兵将，定要收伏！"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "且慢。依臣看来，增兵再战，恐难收伏，兴师动众，徒劳往返。不如将他再请 上天宫……"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "啊？再请上天宫？难道真真称他为齐天大圣，与孤分庭抗礼不成？"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "非也。明说是请，暗中是骗。将那妖猴，骗上天宫，就在这灵霄殿后，埋伏六 丁六甲、十二元辰，一声暗号，将他擒缚。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "玉帝满意。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚更阴险地说。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "然后再派兵将，把那花果山水帘洞的妖孽子孙，剿灭一空，永绝后患！"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "哈哈哈……真乃妙计。但不知你怎样诓骗那妖猴？"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "今乃蟠桃大会之期，陛下玉牒虚称，为了庆贺他齐天大圣的名号，开此盛宴， 请他赴会，他必欣然而来。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "玉帝写玉牒。"
+        },
+        {
+          "character": "马王、天喜",
+          "type": "同白",
+          "text": "啊，星君此去，多加小心。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "老夫随机应变，谁似你等骄躁糊涂！"
+        },
+        {
+          "character": "马王、天喜",
+          "type": "同白",
+          "text": "惭愧，惭愧。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "李长庚，玉牒在此。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "玉帝付玉牒。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "遵旨。正是："
+        },
+        {
+          "character": "李长庚",
+          "type": "念",
+          "text": "舌尖藏利刃，一语扫妖氛。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚下。"
+        },
+        {
+          "character": "玉帝",
+          "type": "白",
+          "text": "众神将，埋伏者！"
+        },
+        {
+          "character": "众神将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "隐蔽灵霄殿。"
+        },
+        {
+          "character": "天喜",
+          "type": "白",
+          "text": "哎呀妙啊！"
+        },
+        {
+          "character": "天喜",
+          "type": "出队子",
+          "text": "奇谋，奇谋， 老奸巨猾有来头。 大小妖猴一网收， 舌尖杀人胜吴钩， 比我才华，更上层楼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天喜下。"
+        },
+        {
+          "character": "马王",
+          "type": "白",
+          "text": "嘿嘿，酸气冲天！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马王下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（花果山外景。群山起伏，花果鲜艳。山头上立“齐天大圣”大纛。纛下有罗圈椅。四小猴各举刀枪，在乐"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "曲声中挥舞而上。）"
+        },
+        {
+          "character": "小猴甲",
+          "type": "念",
+          "text": "大王一鼓败强敌，"
+        },
+        {
+          "character": "小猴乙",
+          "type": "念",
+          "text": "撕破天宫鬼画皮。"
+        },
+        {
+          "character": "小猴丙",
+          "type": "念",
+          "text": "要把威名超玉帝，"
+        },
+        {
+          "character": "四小猴",
+          "type": "同念",
+          "text": "高竖哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。"
+        },
+        {
+          "character": "四小猴",
+          "type": "同念",
+          "text": "齐天大圣旗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "幕内号角声。"
+        },
+        {
+          "character": "四小猴",
+          "type": "同白",
+          "text": "看旌旗招展，觱篥齐鸣，我家大圣，奏凯回山也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。众小猴各举旌旗同上。一猴擎黄罗伞随孙悟空同上。"
+        },
+        {
+          "character": "四小猴",
+          "type": "同白",
+          "text": "祝贺大王，一战凯旋！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": "孙悟空",
+          "type": "醉花荫",
+          "text": "前呼后拥，威风浩， 立旗号，齐天也那皎皎！ 排雄阵，砺枪刀， 败瘟神，驱强暴。 管叫他胆战魂消， 玉帝折腰！ 按不住，怒气冲霄， 蔑看天宫——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚上。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "李长庚求见大圣。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "醉花荫",
+          "text": "这老儿又来耍滑溜溜的圈套！"
+        },
+        {
+          "character": "四小猴",
+          "type": "同白",
+          "text": "李长庚又来求见！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "押到花果山前！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四小猴押李长庚同走圆场。众小猴同列队大纛旗下。孙悟空跃上罗圈椅。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "叫头",
+          "text": "李长庚！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "你与天宫玉帝，狼狈为奸，欺藐于我。又命哪吒挑战，败北而逃。此时又来做 甚？你与我说！你与我讲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空做椅上身段。李长庚装作一副可怜相。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "哎呀大圣啊。"
+        },
+        {
+          "character": "李长庚",
+          "type": "江儿水",
+          "text": "蠢神太狂妄， 玉帝无主张。 来谢罪，拜请多原谅。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "俺老孙大量海涵，既往不究。你来看！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空做椅上身段。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "这大旗之上，标立何名？"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "齐天大圣！齐天大圣！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "着！着！着！俺老孙大圣齐天，要与天宫分庭抗礼，你们服也不服？你说！你 讲！你要与我讲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空做椅上身段。李长庚装作惶恐。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "哎呀呀，大圣威名齐天，我天宫怎敢不服，怎敢不服哟。"
+        },
+        {
+          "character": "李长庚",
+          "type": "江儿水",
+          "text": "秉洪钧，深符天地望， 这名号谁敢不奉上。"
+        },
+        {
+          "character": "众小猴",
+          "type": "同白",
+          "text": "哈哈哈……你们倒也知趣！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚抓住机会，施展阴谋。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "因此我家玉帝，下牒相邀，恭请大圣，再上天宫。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊？又来请俺做甚？"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "一来与大圣赔礼，二本庆贺这齐天大圣的名号，玉帝设下蟠桃大会，遍请西天 诸佛，大罗群仙，齐来瞻仰。从此，九天九地，四极八纮，俱仰大圣威名也！"
+        },
+        {
+          "character": "李长庚",
+          "type": "江儿水",
+          "text": "愿把圣名揄扬， 请驾光临，好叫诸天瞻仰。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "恭请大圣光临蟠桃大会，庆贺齐天名号。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚呈上玉牒。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "咋！咋！咋！起过了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。孙悟空接看玉牒。背躬。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "叫头",
+          "text": "𠲔！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "听这老儿所言，看此玉牒之请，说真便真，说假便假。这，这，这……哦呵有 了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空抛玉牒。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "stage",
+          "text": "孙悟空"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "李长庚，俺老孙以君子之量，不度小人之心，俺就再上天宫，赴此盛会。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "多谢大圣，就请同行。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "俺还有小事料理。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "老朽恭候。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "纵然候我同行，俺老孙的筋斗云，你也追赶不上。"
+        },
+        {
+          "character": "众小猴",
+          "type": "同白",
+          "text": "着啊。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "你且先行，老孙随后就至。"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "还是同行的好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空不耐烦。"
+        },
+        {
+          "character": "李长庚",
+          "type": "stage",
+          "text": "孙悟空"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "忒啰嗦了！你与我走！你与我走！你与我走！走！走！"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "是，是，是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李长庚慌忙而下。冲头。"
+        },
+        {
+          "character": "李长庚",
+          "type": "stage",
+          "text": "孙悟空"
+        },
+        {
+          "character": "李长庚",
+          "type": "叫头",
+          "text": "兄弟子孙们！"
+        },
+        {
+          "character": "李长庚",
+          "type": "白",
+          "text": "李长庚请俺赴会，说真便真，说假便假，俺怎能草率行事，再陷圈套！你等坚 守灵山，提防意外骚扰！待俺用隐身法儿，去至天宫，暗查一番，看个真假虚 实，再做道理。 众小猴"
+        },
+        {
+          "character": "李长庚",
+          "type": "同白",
+          "text": "大王明鉴！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "小心看守！"
+        },
+        {
+          "character": "孙悟空、众小猴",
+          "type": "同八声甘州",
+          "text": "扬威奋勇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空、众小猴同亮相。灯暗。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "瑶池。二童子同守宴。众仙女同上。"
+        },
+        {
+          "character": "众仙女",
+          "type": "画眉序",
+          "text": "结伴跨青鸾， 祝群仙增几多寿算。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众仙女同设摆仙桃、仙肴、仙酒。孙悟空上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "喜迁莺",
+          "text": "望瑶池祥云笼罩， 见苍松翠柏荫交。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "来此已是瑶池，待俺进去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众仙女同欲出瑶池，遇孙悟空。"
+        },
+        {
+          "character": "众仙女",
+          "type": "同白",
+          "text": "啊？你是哪路神仙，到此赴会？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哦，哦，哦，我乃心吾大师，应邀而来。"
+        },
+        {
+          "character": "众仙女",
+          "type": "同白",
+          "text": "为时尚早，请至通明殿暂歇法驾。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "是，是，是。借问一声，今日蟠桃大会，请的是哪些仙佛？"
+        },
+        {
+          "character": "众仙女",
+          "type": "同白",
+          "text": "请的是西天如来佛，南海观世音，五百阿罗汉，上、中、下八洞神仙。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "听说此会，原为庆贺什么齐天大圣，为何无有他的名号？"
+        },
+        {
+          "character": "众仙女",
+          "type": "同白",
+          "text": "哎呀呀，什么齐天大圣，不过是下界的妖猴，灭之不及，怎能请他赴会！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空强压怒火。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哦，哦，哦！是了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空虚下。"
+        },
+        {
+          "character": "众仙女",
+          "type": "同白",
+          "text": "看此客来得蹊跷。 童儿，小心看守。"
+        },
+        {
+          "character": "二童子",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众仙女同下。孙悟空转身至正场。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "叫头",
+          "text": "且住！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "果不出俺所料，玉帝、金星，又来诓骗老孙。真真可恼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空望瑶池。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "俺不免把这瑶池盛宴，闹它个颠颠倒倒，吃它个干干净净，方消俺胸中恶气！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空见童子。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "有两个童儿在此，不免拔下毫毛，变做磕睡虫儿，叫他们撞着就睡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空吹。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "两个童儿竟自睡去，待俺闯进瑶池。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空入内。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嘿！见景如见人，怎不叫俺恼怒呵！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "喜迁莺",
+          "text": "俺可也息焦躁， 且饱餐赤麟蹄龙肝凤脑， 有酒在此。饮琼浆玉液香醪， 饮琼浆玉液香醪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空怒抛杯盏，抓桃吃桃。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "叫你们开得盛会！叫你们诓骗老孙！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空大吃大喝。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哎呀且住，这些东西，俺一时焉能吃尽。有了，俺不免拨下毫毛，变个口袋， 统通装将回去，与我那子孙们受用。嗳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空取口袋，装桃果。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "仙桃仙果，尽装在袋儿之内。再到诸天，暗查一番！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "灯暗。变兜率宫景。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "刮地风",
+          "text": "虽然把瑶池恣意闹， 怎能平这心头怒火缭绕！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊，信步走来，却到了兜率宫。此乃老君住处，待俺进去，再盘问盘问这个老 头儿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空入内。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊老头儿，老头儿！老头儿不见？哦哦是了。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "刮地风",
+          "text": "莫不是众仙家齐来到， 赴蟠桃把他相邀。 那壁厢隐隐的祥光绕， 俺可也向前去细看分晓。 却原来紫金荷玉烛烧， 赤葫芦闪烁光毫！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哦，原来是金丹！葫芦上还有封条。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空看封条。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "“玉帝御用”，“玉帝御用”！呀呸！不提玉帝，还则罢了，提起玉帝，心头 火起！待俺将它饱吃一空！玉帝呀，猪狗！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "刮地风",
+          "text": "你独享禁脔真霸道！ 俺老孙呵…… 只当作炒豆儿嚼一饱， 哎…… 炒豆儿嚼一饱。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空吃丹，摇葫芦。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "无有了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空扔葫芦。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嘿！金丹被俺吃得干干净净，倒也爽快！俺且回山，整顿兵马，打上天宫！"
+        },
+        {
+          "character": "风火童",
+          "type": "内白",
+          "text": "呔！何人在此？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "风火童上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "俺是拜访你家老君的。"
+        },
+        {
+          "character": "风火童",
+          "type": "白",
+          "text": "我家老君，赴蟠桃大会去了。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嘿，来得不凑巧。再会了，再会了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空下。"
+        },
+        {
+          "character": "风火童",
+          "type": "白",
+          "text": "啊？此客来得蹊跷，不像是哪家仙长！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "风火童发现葫芦抛在地上。"
+        },
+        {
+          "character": "风火童",
+          "type": "白",
+          "text": "哎呀！葫芦的金丹，被他偷吃一空，快快报与太上！"
+        },
+        {
+          "character": "二郎神",
+          "type": "内白",
+          "text": "追赶妖猴！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二郎神率六丁、六甲同上。"
+        },
+        {
+          "character": "风火童",
+          "type": "白",
+          "text": "参见尊神。"
+        },
+        {
+          "character": "二郎神",
+          "type": "白",
+          "text": "可曾见妖猴过去？"
+        },
+        {
+          "character": "风火童",
+          "type": "白",
+          "text": "哦，哦，哦，看见了！他把金丹偷吃一空，刚刚过去！"
+        },
+        {
+          "character": "二郎神",
+          "type": "白",
+          "text": "众神将！紧紧追赶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二郎神率六丁、六甲同下。灯暗。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "云路。〖急急风〗。孙悟空急上。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "内白",
+          "text": "大圣慢走！大圣慢走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴甲急上。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "哭",
+          "text": "大圣啊……"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊？为何这等模样？"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "恨、恨、恨煞人也！"
+        },
+        {
+          "character": "小猴甲",
+          "type": "扑灯蛾",
+          "text": "天宫忒毒狠，忒毒狠！ 骗走大圣剿山林，剿山林！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空大惊。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊？快快讲来！"
+        },
+        {
+          "character": "小猴甲",
+          "type": "扑灯蛾",
+          "text": "凶神恶煞既毒狠， 风火雷霆更阴森！ 花果水帘恣蹂躏， 刀砍斧剁烈火焚。 我等奋勇冲敌阵， 怎奈是群龙无首，溃败不成军，不成军。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "这也难怪尔等。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "扑灯蛾",
+          "text": "可……可怜那弟兄们东逃西窜难全命， 子……子孙们尸横遍野血淋淋。 冒死前来寻大圣， 快报此仇反天廷，反天廷！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "咋！咋！咋！气煞俺也！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "杏花天",
+          "text": "败北非因畏敌狂， 中阴谋又添血账！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "叫头",
+          "text": "好兄弟！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "你且速回花果山，召集旧部，重整山林，接应于我，我即刻打回天宫，誓报此 仇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空抛口袋与小猴甲，小猴甲接口袋。"
+        },
+        {
+          "character": "小猴甲",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小猴甲下。"
+        },
+        {
+          "character": "二郎神",
+          "type": "内白",
+          "text": "妖猴哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。二郎神、六丁、六甲、哮天犬同追上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "来得正好！"
+        },
+        {
+          "character": "二郎神",
+          "type": "白",
+          "text": "妖猴，你大闹瑶池，偷吃金丹，还不受缚认罪！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呀呀呸！你们三番两次，暗施毒计，诓骗于我！又将俺弟兄子孙，惨加杀戮！ 俺老孙正要打上天宫，与你们算账！"
+        },
+        {
+          "character": "二郎神",
+          "type": "白",
+          "text": "本想将你诓至灵霄，设下埋伏，一举擒拿。不想被你识破机关，幸免一死，反 而大闹瑶池，玉帝正要捉你算账！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空长啸。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哇呀呀……真真毒计，吃我一棒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空、二郎神同起打。六丁、六甲同败。二郎神命哮天犬咬住孙悟空。孙悟空被六丁、六甲擒住。"
+        },
+        {
+          "character": "二郎神",
+          "type": "白",
+          "text": "妖猴，你还有什么本领？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "可怜你们天兵天将，还不如一条狗呢！"
+        },
+        {
+          "character": "二郎神",
+          "type": "白",
+          "text": "还敢猖狂，绑见玉帝者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "六丁、六甲拥孙悟空同下。二郎神随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兜率宫。灯亮。现出丹房。〖笛子小开门〗。四道童、风火童、老君同上。"
+        },
+        {
+          "character": "老君",
+          "type": "浪淘沙",
+          "text": "丹皂紫烟高， 九转功饶， 一朝烂嚼付猴妖！ 今朝， 骨烬神销！"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "可恨妖猴，大闹瑶池，擅闯丹房，多亏哮天犬将他咬住，绑上天庭。谁知他偷 吃了我的金丹，炼成了铜筋铁骨，刀枪不入，雷火难轰。玉帝大怒，命我将他 放入八卦炉中，炼为灰烬。 嘚！众神将！"
+        },
+        {
+          "character": "二郎神、六丁、六甲",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "将妖猴押上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。二郎神、六丁、六甲押孙悟空同上。"
+        },
+        {
+          "character": "二郎神",
+          "type": "白",
+          "text": "妖猴当面！"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "猴头啊，猴头！你将我葫芦内的金丹，尽情偷吃，一粒不留，可知你今日犯在 我手？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呀呀呸！你们天宫，阴谋陷害于我，休道这小小丹房，便是灵霄宝殿，俺也要 踏为齑粉！"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "还是这等无礼！ 众神将！"
+        },
+        {
+          "character": "二郎神、六丁、六甲",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "将他放入八卦炉中，炼出金丹还我！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "六丁、六甲同将孙悟空放入炉中。"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "尔等回避。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二郎神、六丁、六甲同下。"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "风火童儿！"
+        },
+        {
+          "character": "风火童",
+          "type": "白",
+          "text": "伺候太上。"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "与我多添炉炭者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "全场灯灭。"
+        },
+        {
+          "character": "老君",
+          "type": "唢呐二黄导板",
+          "text": "八卦炉炼妖猴天威显耀，"
+        },
+        {
+          "character": "老君",
+          "type": "回龙",
+          "text": "按三才天地人烈火焚烧。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "内白",
+          "text": "好热呀！好热！"
+        },
+        {
+          "character": "老君",
+          "type": "唢呐二黄原板",
+          "text": "小妖猴热难当高声喊叫， 霎时间管叫他皮骨全焦。 谁叫你把我的金丹偷盗， 九转功一旦间供尔贪饕。 到如今领受这风狂火暴！"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "猴头哇，猴头！这比你偷吃金丹的滋味如何？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "内白",
+          "text": "快活呀快活！"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "说什么快活，分明是难过。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "内白",
+          "text": "难过难过，叫你听俺大乐！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "内笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "这猴头真个顽皮。待我运用三昧真火，使炉内风火相交，定要将他化为灰烬也！"
+        },
+        {
+          "character": "老君",
+          "type": "唢呐二黄散板",
+          "text": "你还敢在炉内恣意讽嘲！ 炼七七四九日尔焦头烂脑， 尔纵有通灵手命也难逃。"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "猴头，猴头！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老君神气。"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "无有声息，想已化为灰烬了。嘿嘿，任尔卖弄神通，施展变化，也难逃这八卦 炉中皮焦肉烂也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老君打开炉盖。孙悟空跳出炉外，炼就火眼金睛。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呔！老头儿，我又出来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老君大惊。四道童同跑下。"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "风火童啊——"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "老头儿！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "扑灯蛾",
+          "text": "你这老儿真短见，真短见！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "扑灯蛾",
+          "text": "把俺当作金丹炼，金丹炼！ 如今八卦全不灵，"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呸！呸！呸！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "扑灯蛾",
+          "text": "咱老孙打你个巽下断，巽下断！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "老君",
+          "type": "扑灯蛾",
+          "text": "乾不连，坤不断， 我的八卦剩了七卦半，七卦半！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空脱去老君鞋，向老君掷去。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "看法宝！"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老君惊慌跑下。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嘿嘿！不中用的东西！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空亮相，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花果山前。"
+        },
+        {
+          "character": "四天君、青龙、白虎、南斗、北斗、鸿鸾、天喜、月孛、九耀、罗睺、计都",
+          "type": "内同点绛唇",
+          "text": "十万熊罴，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四天君、青龙、白虎、南斗、北斗、鸿鸾、天喜、月孛、九耀、罗睺、计都同上。"
+        },
+        {
+          "character": "四天君、青龙、白虎、南斗、北斗、鸿鸾、天喜、月孛、九耀、罗睺、计都",
+          "type": "同点绛唇",
+          "text": "星辰齐集，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二郎神、哪吒、巨灵、四云童、李天王、风神、雨神、雷神、电神、六丁、六甲同上。"
+        },
+        {
+          "character": "李天王",
+          "type": "点绛唇",
+          "text": "尊天地，剿灭渠魁，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李天王上高台。"
+        },
+        {
+          "character": "四天君、青龙、白虎、南斗、北斗、鸿鸾、天喜、月孛、九耀、罗睺、计都、二郎神、哪吒、巨灵、风神、雨神、雷神、电神、六丁、六甲",
+          "type": "同点绛唇",
+          "text": "扫尽如斯辈。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "马、赵、温、刘四天君听令。"
+        },
+        {
+          "character": "四天君",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "带领青龙、白虎、罗睺、计都。"
+        },
+        {
+          "character": "青龙、白虎、罗睺、计都",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "隐在山前埋伏者。"
+        },
+        {
+          "character": "李天王",
+          "type": "混江龙",
+          "text": "隐在山前，迎战施法力！"
+        },
+        {
+          "character": "四天君、青龙、白虎、罗睺、计都",
+          "type": "同白",
+          "text": "领法旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四天君、青龙、白虎、罗睺、计都同下。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "巨灵神。"
+        },
+        {
+          "character": "巨灵",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "带领风、雨、雷、电。"
+        },
+        {
+          "character": "风神、雨神、雷神、电神",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "隐在山后接应者。"
+        },
+        {
+          "character": "李天王",
+          "type": "混江龙",
+          "text": "隐在山后，运动神机。"
+        },
+        {
+          "character": "巨灵、风神、雨神、雷神、电神",
+          "type": "同白",
+          "text": "领法旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "巨灵、风神、雨神、雷神、电神同下。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "哪吒、二郎神。"
+        },
+        {
+          "character": "哪吒、二郎神",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "带领鸿鸾、天喜、九耀星君、月孛星斗。"
+        },
+        {
+          "character": "鸿鸾、天喜、九耀、月孛",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "南北星斗、六丁六甲。"
+        },
+        {
+          "character": "南北、星斗、六丁、六甲",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "以为四路都接应，必须擒拿妖猴者！"
+        },
+        {
+          "character": "李天王",
+          "type": "混江龙",
+          "text": "必须要齐心戮力， 务必要扫灭渠魁。"
+        },
+        {
+          "character": "南斗、北斗、鸿鸾、天喜、月孛、九耀、二郎神、哪吒、六丁、六甲",
+          "type": "同白",
+          "text": "领法旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南斗、北斗、鸿鸾、天喜、月孛、九耀、二郎神、哪吒、六丁、六甲、李天王同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（花果山前。八小猴、孙悟空、大纛同上。四天君、青龙、白虎、罗睺、计都、巨灵、风神、雨神、雷神、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "电神同迎上。四天君、青龙、白虎、罗睺、计都、巨灵、风神、雨神、雷神、电神与孙悟空轮战，均败。群"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "打，八小猴夺得神将的盔、巨灵的锤。四天君、青龙、白虎、罗睺、计都、巨灵、风神、雨神、雷神、电神"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "同败下。八小猴、孙悟空、大纛同舞。）"
+        },
+        {
+          "character": "孙悟空、八小猴",
+          "type": "同凯旋歌",
+          "text": "腐朽天宫装门面， 千钧棒下絮一团。 天将狼狈逃， 天兵鸟兽散。 凯歌唱彻花果山。 凯歌唱彻花果山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。幕闭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

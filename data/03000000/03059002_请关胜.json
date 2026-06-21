@@ -1,0 +1,2928 @@
+{
+  "script_id": "03059002",
+  "title": "请关胜",
+  "alias": [
+    "收关胜"
+  ],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "关胜",
+      "hangdang": "武净"
+    },
+    {
+      "name": "宋江",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "宋江攻大名府，梁世杰告急京师，蔡京请大刀关胜，直攻梁山泊。宋江遣扈三娘迎敌，兵败芦林坡；张横劫\n营，复遭擒。宋江回救，关胜连败诸将；呼延灼投关胜诈降，赚关胜夜袭引至水滨，梁山男女头领合力擒获\n关胜，劝同聚义。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "王定",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王定上。"
+        },
+        {
+          "character": "王定",
+          "type": "念",
+          "text": "漫天烽火乾坤暗，卷地兵戈社稷残。"
+        },
+        {
+          "character": "王定",
+          "type": "白",
+          "text": "俺、大名府梁中书标下，后军统制王定是也。今有宋江攻打大名府，事在危急， 中书修下告急密书，差俺星夜赶奔京师，报与蔡太师知道。早奏朝廷调遣精 兵前去救应，就此马上加鞭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王定下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、二院子引蔡京同上。"
+        },
+        {
+          "character": "蔡京",
+          "type": "引子",
+          "text": "职掌台卿，蒙君宠，恩眷殊深。"
+        },
+        {
+          "character": "蔡京",
+          "type": "念",
+          "text": "历职台卿名不虚，运筹帷幄掌枢机。代替山河非吾愿，荣华富贵享期颐。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "老夫、蔡京。大宋重和天子驾前为臣，蒙君宠爱，倚畀甚殷，位列三公之首， 职司枢密权衡。正是："
+        },
+        {
+          "character": "蔡京",
+          "type": "念",
+          "text": "开济艰难和中外，朝廷股肱心腹臣。"
+        },
+        {
+          "character": "王定",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王定上。"
+        },
+        {
+          "character": "王定",
+          "type": "念",
+          "text": "赍领密书信，匹马快如飞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王定望，下马。"
+        },
+        {
+          "character": "王定",
+          "type": "白",
+          "text": "来此已是太师府，门上哪位在？"
+        },
+        {
+          "character": "院子甲",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "王定",
+          "type": "白",
+          "text": "烦劳通报：大名府梁中书差人有告急之事，求见太师。"
+        },
+        {
+          "character": "院子甲",
+          "type": "白",
+          "text": "候着。 启禀太师：梁中书差人有告急之事，求见太师。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "唤他进来！"
+        },
+        {
+          "character": "院子甲",
+          "type": "白",
+          "text": "是。 太师唤你进来。"
+        },
+        {
+          "character": "王定",
+          "type": "白",
+          "text": "是。 参见太师！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王定跪。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "罢了。起来！"
+        },
+        {
+          "character": "王定",
+          "type": "白",
+          "text": "谢太师！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "你叫什么名字？"
+        },
+        {
+          "character": "王定",
+          "type": "白",
+          "text": "小将王定。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "奉何人所差？"
+        },
+        {
+          "character": "王定",
+          "type": "白",
+          "text": "奉中书所差，有告急密书在此，太师请看。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "呈上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王定呈书，蔡京接。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "待老夫拆开一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。蔡京看书惊。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "蔡京",
+          "type": "唱",
+          "text": "看罢来书心惊战， 咬牙切齿骂梁山。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "好草寇！"
+        },
+        {
+          "character": "蔡京",
+          "type": "唱",
+          "text": "大名危如石垒卵， 快请枢密众院官。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "来！去请枢密院官急来，商议军情重事。"
+        },
+        {
+          "character": "院子乙",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子乙下。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "王定，鞍马劳顿，且去馆驿安歇，待老夫会官商议，自有定夺。"
+        },
+        {
+          "character": "王定",
+          "type": "白",
+          "text": "谢太师！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王定出门，拉马下。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "且住。大名危如累卵，破在旦夕，倘若失陷，河北县郡如之奈何！"
+        },
+        {
+          "character": "蔡京",
+          "type": "唱",
+          "text": "宋江屡次来造反， 对敌将官数千员。 也有效命疆场战， 也有背叛降梁山。 如今贼寇声势险， 怕是大名玉石残。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高俅、童贯、杨戬、宣赞同上。"
+        },
+        {
+          "character": "高俅",
+          "type": "唱",
+          "text": "忽闻太师忙传唤， 高俅会同文武官。"
+        },
+        {
+          "character": "杨戬",
+          "type": "唱",
+          "text": "枢密院使名杨戬， 执掌天下军机权。"
+        },
+        {
+          "character": "童贯",
+          "type": "唱",
+          "text": "东厅太尉名童贯， 内廷行走有数年。"
+        },
+        {
+          "character": "宣赞",
+          "type": "唱",
+          "text": "掌管兵马某宣赞，"
+        },
+        {
+          "character": "高俅、杨戬、童贯、宣赞",
+          "type": "同唱",
+          "text": "白虎节堂把太师参！"
+        },
+        {
+          "character": "高俅、杨戬、童贯、宣赞",
+          "type": "同白",
+          "text": "参见太师！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "少礼。请坐！"
+        },
+        {
+          "character": "高俅、杨戬、童贯、宣赞",
+          "type": "同白",
+          "text": "谢坐！太师相召，有何台谕？"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "梁山宋江攻打大名甚急，刻下危如累卵，破在旦夕，如今将何计策，用何良将， 可退贼兵，以保城郭？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同惊，互相看。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "太师，宣赞荐举一人，管保解得此围。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "将军荐举何人？"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "此人乃汉末三分义勇武安王嫡派子孙，姓关名胜。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "关胜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡京沉思。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "此人现居何职？"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "现做蒲东巡检，屈在下僚。此人幼读兵书，深通武艺，有万夫不当之勇。若以 礼币请他，拜为上将，可以扫清水泊，殄灭狂徒。小将当初与他相识，乞请钧 旨，宣赞愿往蒲东为使。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "好，准备彩币、鞍马，就命将军为使去请关胜。待老夫修起文书。 来，溶墨伺候！"
+        },
+        {
+          "character": "院子乙",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子乙溶墨。蔡京入座修书。〖牌子〗。"
+        },
+        {
+          "character": "蔡京",
+          "type": "唱",
+          "text": "白虎节堂把将荐， 举荐关胜扫梁山。 修下文书交宣赞，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡京出座交宣赞文书，归小座。"
+        },
+        {
+          "character": "蔡京",
+          "type": "唱",
+          "text": "连夜星火莫迟延。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "宣赞",
+          "type": "唱",
+          "text": "出了节堂跨雕鞍，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四车夫载吊斗元宝同上，马夫上，与宣赞带马。"
+        },
+        {
+          "character": "宣赞",
+          "type": "唱",
+          "text": "去请关胜来救援。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马夫拉马，宣赞、四车夫同下。"
+        },
+        {
+          "character": "蔡京",
+          "type": "唱",
+          "text": "众位大人后堂转，"
+        },
+        {
+          "character": "高俅、杨戬、童贯",
+          "type": "同唱",
+          "text": "会议军情讨梁山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡京、高俅、杨戬、童贯同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四车夫、马夫引宣赞同上。"
+        },
+        {
+          "character": "宣赞",
+          "type": "唱",
+          "text": "生得面如锅底样， 彪形八尺武艺强。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "俺、姓宣名赞，人称丑郡马。官居兵马保义使。今奉太师钧命，前往蒲东礼请 关胜，赴京议论军情重事。 车夫们，趱行者！"
+        },
+        {
+          "character": "四车夫",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "宣赞",
+          "type": "唱",
+          "text": "赍了文书与彩币， 备得鞍马紫丝缰。 催动车辆朝前往， 巡检司内请栋梁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": "关胜",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜上。"
+        },
+        {
+          "character": "关胜",
+          "type": "引子",
+          "text": "赤面长须，奋忠义，文武健全。"
+        },
+        {
+          "character": "关胜",
+          "type": "念",
+          "text": "我本圣贤宗脉传，面如重枣长须髯。青龙偃月电光闪，蒲东解梁第一关。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "某、关胜。乃蒲东人氏。幼读兵书，深通武艺，职司巡检。结拜义弟郝思文， 此人颇有勇敢，我二人常谕古今兴废之事。目下，梁山草寇搅乱天下，屡陷州 郡，朝廷不能克服，某关胜有意效命疆场，扫除逆贼，也好显姓扬名。只恨屈 沉在此，无人荐拔。正是："
+        },
+        {
+          "character": "关胜",
+          "type": "念",
+          "text": "满怀济世安邦愿，不知何日定狼烟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝思文上。"
+        },
+        {
+          "character": "郝思文",
+          "type": "念",
+          "text": "东京使命至，报与大哥知。"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "参见大哥！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "贤弟少礼。"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "启禀大哥：有一人口称奉东京使命，姓宣名赞，请见大哥。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "哦！敢是那丑郡马？"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "故友久不相见，今番此来必有所为。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜沉思。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "你我一同迎接。"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四车夫、马夫引宣赞同上。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "关兄！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "宣弟！久别了。"
+        },
+        {
+          "character": "宣赞、关胜",
+          "type": "同笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜、宣赞、郝思文同进门。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "不知宣弟驾到，有失远迎，望乞恕罪。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "岂敢！宣赞来得卤莽，关兄海涵。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣赞看郝思文。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "此为是？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "是我拜义兄弟，姓郝名思文。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "哦！敢是井木犴？"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "正是小弟。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "久仰了！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "有坐！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "故友久不相见，今日何事，远劳亲自到此？"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "只因梁山草寇攻打大名，宣某在蔡太师面前一力保举兄长有安邦定国之策，降 兵斩将之才，特奉朝廷勅旨，太师钧命，彩币鞍马，礼请起行，兄长勿得推却。"
+        },
+        {
+          "character": "关胜",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈……"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "关兄为何发笑？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "英雄屈沉在此，不想今日有了出头之日了。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "关兄说的是。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "宣弟不知，关某久有意效命疆场，肃清水泊，只是未得大用。今感宣弟保举， 太师相召，今日此去，定当协力报国。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "彩币、鞍马请来收纳。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "鞍马留下，彩币还回。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "这作何意？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "鞍马可以乘骑，彩币岂能收得！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "如此，就请收拾赴京。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "郝思文！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "命你带领关西壮汉，收拾刀马盔甲，一同前去。"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "请兄登程。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "英雄屈沉在此间， 好似蛟龙困沙滩。 胸怀济世安邦愿， 职司巡检有数年。 东京使命是宣赞， 保举关某掌兵权。 但愿此去把功建， 我定要活捉宋江，肃清水泊，灭梁山。 带过爷的追风千里战，"
+        },
+        {
+          "character": "四上手、四壮士",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、四壮士自两边分上。关胜、宣赞、郝思文同上马。"
+        },
+        {
+          "character": "宣赞",
+          "type": "唱",
+          "text": "千军易得一将难。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、二院子、童贯、杨戬、高俅引蔡京同上。"
+        },
+        {
+          "character": "蔡京",
+          "type": "唱",
+          "text": "执掌权衡立朝纲， 曾命宣赞请栋梁。 但愿我主洪福广，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童贯、杨戬、高俅、蔡京同归座。"
+        },
+        {
+          "character": "蔡京",
+          "type": "唱",
+          "text": "剿灭梁山水泊亡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣赞上。"
+        },
+        {
+          "character": "宣赞",
+          "type": "唱",
+          "text": "星夜请来关胜将， 见了太师报端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣赞进门。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "参见太师！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "罢了。关胜可曾到来？"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "现在府外听候传见。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "吩咐节堂相见！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "遵命。 太师吩咐节堂相见！"
+        },
+        {
+          "character": "关胜",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜上。"
+        },
+        {
+          "character": "关胜",
+          "type": "念",
+          "text": "一片忠心烈肝胆，要与我主定江山。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "见过太师！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "关胜参见太师！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "将军少礼，坐下！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "宣赞坐下！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "我观将军堂堂一表人才，但不知青春多少？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "小将三十有二。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "宣赞保举将军有安邦定国之策，降兵斩将之才。礼请到此计议军情，以遏乱萌。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "小将久蓄报国之心，今感宣赞保举，又蒙太师重用，关胜愿竭死力歼灭梁山。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "将军忠诚爱国，实令祖遗风。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "太师夸奖了。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "启禀太师：还有一人姓郝名思文，十八般武艺无有不能，今随同到此，请太师 录用。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "引来相见！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "遵命。 思文贤弟快来。"
+        },
+        {
+          "character": "郝思文",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝思文上。"
+        },
+        {
+          "character": "郝思文",
+          "type": "念",
+          "text": "白虎堂上一声唤，急忙向前问根源。"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "宣兄唤我何事？"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "太师唤你，随我进来！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "见过太师！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "参见太师！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "少礼，坐下！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "适才宣赞道你武艺精通，破敌之时汝为先锋。"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "关将军！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "太师！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "刻下梁山草寇围困大名，请问将军，施何妙策以解其围？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "久闻草寇占住水洼，惊群动众；今擅离巢穴，自取其祸。若救大名，虚耗人力。 乞请精兵数万，先取梁山，后拿贼寇，教他首尾不能相顾，乃围魏救赵之计 也。"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "此计正合吾意。 高太尉！"
+        },
+        {
+          "character": "高俅",
+          "type": "白",
+          "text": "太师！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "可即调拨山东、河北精锐军兵一万五千。"
+        },
+        {
+          "character": "高俅",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "关将军！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "太师！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "汝为领兵指挥使。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "郝思文为先锋，宣赞为合后，择选吉日发兵。"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": "蔡京",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "蔡京",
+          "type": "念",
+          "text": "贪看天上中秋月，"
+        },
+        {
+          "character": "众人",
+          "type": "同念",
+          "text": "失却盘中照殿珠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": "戴宗",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "俺、神行太保戴宗。今有蔡京搬请蒲东大刀关胜，领兵攻打水泊，寨中头领主 张不定，为此飞奔大名，报与大哥知道便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗急下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵引吴用、宋江同上。"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "统领兵将困大名， 要与索超见输赢。 离山已久心不定， 怕是寨中少能人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗上。"
+        },
+        {
+          "character": "戴宗",
+          "type": "唱",
+          "text": "卸去甲马大营进， 见了大哥报军情。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "参见大哥！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "少礼，请坐！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "谢坐。 军师！"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "贤弟！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟此来必有所为？"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "今有蔡京搬请蒲东大刀关胜，领兵攻打水泊，寨中头领主张不定，请兄长、军 师早早收兵回去，以解梁山之难！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀，这便如何是好？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "虽然如此，全师不可急还。"
+        },
+        {
+          "character": "宋江、戴宗",
+          "type": "同白",
+          "text": "军师怎样调度？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "先叫扈三娘迎敌关胜，留下军马在飞虎峪左右埋伏，城中知道我等退兵，必然 追赶，若不如此，我军不战先乱矣！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "言之有理。 戴宗！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "传令下去：扈三娘全身披挂，迎敌关胜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江掷令旗。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗接令旗。"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "下面听者！"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "大哥有令：扈三娘全身披挂，迎敌关胜！"
+        },
+        {
+          "character": "扈三娘",
+          "type": "内白",
+          "text": "得令！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "传令已毕。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "再命你速回梁山，教李俊等小心防守水泊，不得有误！"
+        },
+        {
+          "character": "戴宗",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戴宗下。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "宋江",
+          "type": "念",
+          "text": "遣得女将敌关胜，"
+        },
+        {
+          "character": "吴用",
+          "type": "念",
+          "text": "再设埋伏擒索超。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江、吴用同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣赞上，起霸。"
+        },
+        {
+          "character": "宣赞",
+          "type": "念",
+          "text": "头戴缨盔明璨亮，身披铠甲似秋霜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝思文上，起霸。"
+        },
+        {
+          "character": "郝思文",
+          "type": "念",
+          "text": "胯下马如龙搅海，掌中枪盖世无双。"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "宣赞"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "郝思文。"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "将军请了！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "元帅发兵攻打水泊，你我两厢伺候！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "发点。四文堂、四上手、八大刀手引关胜同上。"
+        },
+        {
+          "character": "关胜",
+          "type": "点绛唇",
+          "text": "生长蒲东，面如枣红，蒙起用，执掌兵戎，与主定江洪。"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "少礼！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "关胜",
+          "type": "念",
+          "text": "掌管三军有略韬，唐猊甲胄绛红袍。胯下追风千里豹，上阵全凭偃月刀。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "本帅、关胜。今奉太师之命，授与兵马指挥使，领兵一万五千，剿灭梁山草寇。 闻得宋江攻打大名，山寨空虚，趁此机会，先取贼的巢穴，断其归路，宋江 可擒也。 宣、郝二将！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "人马可齐？"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "早已齐备。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "兵发水泊！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "得令！ 众将官！"
+        },
+        {
+          "character": "四文堂、四上手、八大刀手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "兵发水泊！"
+        },
+        {
+          "character": "四文堂、四上手、八大刀手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜、宣赞、郝思文同上马。众人同引绕场。〖牌子〗。众人斜门同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "扈三娘上，大纛旗上。扈三娘起霸。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "念",
+          "text": "女将生来盖世雄，全凭日月宝刀弓。跨下一骑桃花马，冲锋对垒任纵横。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手、四女兵自两边分上。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "奴家、扈三娘。奉了大哥将令，迎敌关胜。 众女兵，迎敌去者！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手、四女兵同下。扈三娘趟马，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（〖急急风〗。四文堂、四上手、八大刀手、关胜、郝思文、宣赞同上。四文堂、四下手、四女兵、扈三娘"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "自下场门同上。双斜门，关胜、扈三娘会阵。）"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "大刀关——"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "“关”什么？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "关胜。女将通名！"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "一丈青扈——"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "“扈”什么？"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "扈氏三娘。关将军你带领人马攻打水泊，是何道理？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "住了！宋室天下，被尔等搅得社稷不安，某关胜领奉圣命，扫除叛逆，奠定社 稷。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "住了！想我梁山，替天行道，除暴安良，何言叛逆？关胜，你好不识天命也！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "你道你爷不识天命，稳坐雕鞍，听爷道来！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "三军呐喊旌旗摆，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起鼓。众人同走十字架。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "对对儿郎列两排。 宋室江山数百载， 将士各个是英才。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "扈三娘",
+          "type": "唱",
+          "text": "大刀一举威风在， 好似关帝转下来。 劝你识命归山寨， 保定梁山永无灾。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "贼子竟敢贪胜败， 不由关某怒胸怀。 劝尔早早献山寨， 稍有迟延刀下灾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜、扈三娘同架住。众人同钻下。关胜、扈三娘同对刀。扈三娘败下，关胜耍大刀花，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手、四女兵引扈三娘同败上。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "且住！关胜来得厉害。 众女兵，回归水泊。"
+        },
+        {
+          "character": "四文堂、四下手、四女兵",
+          "type": "同白",
+          "text": "啊！ （四文堂、四下手、四女兵引扈三娘下场门同上船。四文堂、四上手、八大刀手、关胜、郝思文、宣赞同追 上。扈三娘执旗摇，下。）"
+        },
+        {
+          "character": "关胜",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈……"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "唔呼呀！"
+        },
+        {
+          "character": "关胜",
+          "type": "念",
+          "text": "波浪滔滔天连水，松柏青青树连云。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "且住，这贼倚仗水势逞强。 宣赞听令！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "命你差派干员速回殿帅府请令拨船！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣赞下。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四文堂、四下手、八大刀手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "那旁有座高坡，可知什么地方？"
+        },
+        {
+          "character": "四文堂、四下手、八大刀手",
+          "type": "同白",
+          "text": "芦林坡。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "就在芦林坡上安营扎寨！"
+        },
+        {
+          "character": "四文堂、四下手、八大刀手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李俊上。"
+        },
+        {
+          "character": "李俊",
+          "type": "粉蝶儿",
+          "text": "水泊英豪，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。张顺、张横同上。"
+        },
+        {
+          "character": "李俊、张顺、张横",
+          "type": "同粉蝶儿",
+          "text": "欢腾腾，水泊英豪。 聚雄兵替天行道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵、四英雄自两边分上。"
+        },
+        {
+          "character": "李俊",
+          "type": "念",
+          "text": "芦林坡前战鼓鼕，"
+        },
+        {
+          "character": "张横",
+          "type": "念",
+          "text": "金沙渡口水逆行。"
+        },
+        {
+          "character": "张顺",
+          "type": "念",
+          "text": "坚城只用靴尖踏，"
+        },
+        {
+          "character": "李俊、张横、张顺",
+          "type": "同念",
+          "text": "哪怕天朝兵将雄。"
+        },
+        {
+          "character": "李俊、张横、张顺",
+          "type": "同白",
+          "text": "某——"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "混江龙李俊。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "船火儿张横。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "浪里白条张顺。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "二位贤弟！"
+        },
+        {
+          "character": "张横、张顺",
+          "type": "同白",
+          "text": "头领！"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "大哥、军师攻打大名，命你我把守金沙渡口。今有蔡京搬请蒲东关胜为兵马指 挥使，前来袭击水泊。前命戴宗驰往大名报信，大哥命我等小心防守山寨。闻 得军师先教扈三娘迎敌关胜，尚不知胜负如何？"
+        },
+        {
+          "character": "张横、张顺",
+          "type": "同白",
+          "text": "且听喽兵一报。"
+        },
+        {
+          "character": "喽兵",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "喽兵上。"
+        },
+        {
+          "character": "喽兵",
+          "type": "白",
+          "text": "启禀头领：扈三娘回山。"
+        },
+        {
+          "character": "李俊、张横、张顺",
+          "type": "同白",
+          "text": "擂鼓迎接！"
+        },
+        {
+          "character": "喽兵",
+          "type": "白",
+          "text": "擂鼓迎接！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "喽兵下。四喽兵、四英雄、李俊、张横、张顺同出门。〖吹打〗。扈三娘上。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "众位哥弟！"
+        },
+        {
+          "character": "李俊、张横、张顺",
+          "type": "同白",
+          "text": "三娘！请！"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同进门。"
+        },
+        {
+          "character": "李俊、张横、张顺",
+          "type": "同白",
+          "text": "请坐！"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "闻得贤妹迎抵关胜，不知胜负如何？"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "关胜英勇非常，小妹败归水泊，大家商议退兵之策。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "贤妹后寨歇息，我等自有破敌之策。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "全仗众位哥弟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "扈三娘下。"
+        },
+        {
+          "character": "喽兵",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "喽兵上。"
+        },
+        {
+          "character": "喽兵",
+          "type": "白",
+          "text": "关胜人马在芦林坡上安营扎寨。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "喽兵",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "喽兵下。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "二位贤弟！"
+        },
+        {
+          "character": "张横、张顺",
+          "type": "同白",
+          "text": "头领！"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "愚兄有意点齐合寨人马，大战关胜。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "我等只管水军，陆地作战，倘若不相救应，岂不惹人耻笑。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "头领，咱张横有计在此。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "既是关胜在芦林坡上扎营，俺张横愿往行刺于他，然后头领带兵劫其营寨，大 功必成。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "好，小心前去。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "李俊",
+          "type": "念",
+          "text": "安排打虎牢笼计，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四英雄引李俊、张顺同下，张横出门。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "行刺惊天动地人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张横亮相，急下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起初更鼓〗。"
+        },
+        {
+          "character": "关胜",
+          "type": "内白",
+          "text": "家将带路！"
+        },
+        {
+          "character": "二家将",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "关胜",
+          "type": "内西皮导板",
+          "text": "只听营中起初更，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家将引关胜同上。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "夜静悄悄出营门。 星斗依稀紫微正， 月光朗照满乾坤。"
+        },
+        {
+          "character": "关胜",
+          "type": "念",
+          "text": "朔风阵阵寒，战马不离鞍。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "某今日临阵，虽然大获全胜，只恐贼寇前来偷营劫寨。为此悄悄出营，窥探路 角，望观水势，也好便宜行事。 来，将红灯挂在柳树枝上，我们在高坡之上远观动静。"
+        },
+        {
+          "character": "二家将",
+          "type": "同白",
+          "text": "元帅既将红灯挂在柳树之上，为何又在高坡之上远观动静？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "你等哪知六韬三略，此处汪洋湖水，乃梁山汛地，岂无人哨探？常言道：有火 必有人。倘若贼匪暗放冷箭，那时岂不受他人之害？远避红灯此乃马陵道之计 耳！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "行军必须要机巧， 大将临阵智谋高。 春秋卷上兵法好， 使尽多少计笼牢。 且撇红灯入小道，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜、二家将同上坡。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "上得高坡四下瞧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四船夫引张横驾舟同上。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "月光远看扁舟小， 想是贼子出穴巢。 且看如何行计巧，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四船夫引张横同下。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "芦花渡口船急摇。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "你们可曾看见？"
+        },
+        {
+          "character": "二家将",
+          "type": "同白",
+          "text": "看见什么？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "他们将船摇往芦花荡口去了，我们速速回营准备便了！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "这事儿落了我圈套，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜、二家将同下坡，同走圆场，同进门。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "任是雀鸟难飞逃。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "传宣、郝二将进帐！"
+        },
+        {
+          "character": "家将甲",
+          "type": "白",
+          "text": "宣、郝二将进帐！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣赞、郝思文同上。"
+        },
+        {
+          "character": "宣赞",
+          "type": "念",
+          "text": "芦林坡上扎营垒，"
+        },
+        {
+          "character": "郝思文",
+          "type": "念",
+          "text": "虎皮帐内议军情。"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "罢了！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "有何将令？"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "今夜必有贼将偷营，命你二人巡哨，须要小心！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": "张横",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张横上，走边。"
+        },
+        {
+          "character": "张横",
+          "type": "念",
+          "text": "束发英雄帽，虬髯项下掏。只为义气好，行刺关大刀。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "咱、船火儿张横。只因关胜在芦林坡上扎营，窥探水泊虚实，是俺在李大哥面 前夸下海口，前去行刺于他，就此走遭也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张横走圆场，看。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "哎呀且住，看坡上营垒重重，但不知关胜住在哪座营房？也罢，待俺踹进营垒 暗探虚实。正是："
+        },
+        {
+          "character": "张横",
+          "type": "念",
+          "text": "不入虎穴，焉得虎子！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张横进营垒。宣赞、郝思文、四上手暗同上，同用绊脚绳擒住张横。"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "有请元帅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家将引关胜同上。"
+        },
+        {
+          "character": "关胜",
+          "type": "念",
+          "text": "满营不准灯光照，宝帐一烛度今宵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜入小座。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "拿住探营奸细。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "绑上来！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同推张横向前。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "唗！胆大奸细竟敢前来窥探，通名上来！"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "住了，俺乃梁山好汉船火儿张横。只为你侵犯水泊，特来行刺于你，不料被擒， 要杀开刀，何必多言！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "将他押在后帐，打上囚车，好生看守！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手押张横同下。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启元帅：殿帅府拨来二百只战船，请令定夺。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "知道了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "宣、郝二将！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "吩咐大小将官，天明帐前听点！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵、四下手、四英雄引李俊同上。李俊上高台。〖点绛唇〗。"
+        },
+        {
+          "character": "李俊",
+          "type": "念",
+          "text": "头戴金盔照日红，身披铠甲扣玲珑。水泊英雄义气重，谁人不知混江龙！"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "某、李俊。今有张横行刺关胜去了，待俺点齐喽兵前去偷营劫寨。 众喽兵，偷营劫寨去者！"
+        },
+        {
+          "character": "四喽兵、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "张横被擒。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "来，有请张头领！"
+        },
+        {
+          "character": "喽兵甲",
+          "type": "白",
+          "text": "有请张头领！"
+        },
+        {
+          "character": "张顺",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺上。"
+        },
+        {
+          "character": "张顺",
+          "type": "念",
+          "text": "兄长去行刺，未知吉和凶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺进门。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "呼唤小弟有何吩咐？"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "喽兵报道，张横贤弟被擒！"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "啊！请头领急速搭救才是。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "张顺听令！命你带领哨船二十只，喽兵二百名，前去搭救张横，愚兄带兵随后 接应。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手引张顺同下。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "众喽兵，登舟去者！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四文堂、四上手、八大刀手、宣赞、郝思文引关胜同上，同入大帐。"
+        },
+        {
+          "character": "关胜",
+          "type": "念",
+          "text": "堂堂男儿志，巍巍将相材。狼烟今日扫，即早拜金阶。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "某、关胜。昨日拿住张横，今日与那贼子交战，全仗我主洪福，一战成功。 宣赞听令！命你带领战船，抵挡水寇，不得有误！"
+        },
+        {
+          "character": "宣赞",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引宣赞同下。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "郝思文听令！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "命你带领一哨人马，摇旗擂鼓，候本帅登岸，速来接应，不得有误！"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝思文下。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "众将官，登舟去者！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人引斜门同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四上手、宣赞、船夫甲、四下手、张顺、船夫乙同上。二龙出水，水战。张顺、四下手、船夫乙同败下。"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "宣赞、四上手、船夫甲同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（八大刀手、关胜同上。四喽兵、四英雄、李俊同上。二龙出水，水战。李俊、四喽兵、四英雄同败下。关"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "胜、八大刀手同追下。四上手、宣赞、四下手、张顺同上，水战。张顺、四下手同败下。宣赞、四上手同追"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵、四英雄、李俊同上。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "弃舟登岸！"
+        },
+        {
+          "character": "四喽兵、四英雄",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李俊、四喽兵、四英雄同登岸，同上马，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八大刀手、关胜同追上。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "弃舟登岸！"
+        },
+        {
+          "character": "八大刀手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜、八大刀手同登岸，同上马，同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四下手、四女兵、顾大嫂、孙二娘、扈三娘同上。八大刀手、关胜同上。会阵。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "对方来了三女将， 内中认识扈三娘。 芦林坡前曾打仗， 弃马离岸芦苇藏。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "扈三娘",
+          "type": "唱",
+          "text": "关胜休得大话讲， 今朝对阵非寻常。 三马连环战场上，"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "大刀一举神鬼忙。 （关胜、顾大嫂、孙二娘、扈三娘同打，关胜、八大刀手同败下。四下手、四女兵、顾大嫂、孙二娘、扈三 娘同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 22,
+      "name": "第二十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四下手、四梁山将引花荣同上。关胜、八大刀手同上。会阵。"
+        },
+        {
+          "character": "花荣",
+          "type": "唱",
+          "text": "对面一军是关胜， 逞什么威风显什么能！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "我本忠臣祖为神， 大刀勇武超凡群。 无端草贼真可恨， 扰乱天下不太平。 关某今日显本领， 收取梁山众绿林。 贼子快快通名姓，"
+        },
+        {
+          "character": "花荣",
+          "type": "唱",
+          "text": "花荣便是俺的名。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜、花荣同起打。关胜、八大刀手同败下，花荣、四下手、四梁山将同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 23,
+      "name": "第二十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四下手、四将引林冲同上。八大刀手引关胜同上。会阵。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "马队冲来兵一标， 首将使得丈八矛。 豹头环眼异相貌， 是不是林冲说根苗。"
+        },
+        {
+          "character": "林冲",
+          "type": "唱",
+          "text": "既知林冲爷来到， 就该卸甲来抛刀。 一同替天行正道， 免得双方把兵交。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "替天行来行何道， 尔本朝廷一臣僚。 不思报国反落草， 今日战场见低高。"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜、林冲同起打。关胜、八大刀手同败下，林冲、四下手、四将同收下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 24,
+      "name": "第二十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（〖风入松〗。四上手押张横囚车、宣赞、郝思文同护上，同走圆场。四下手引张顺、李俊自下场门同上，"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "劫囚车救张横同下。四下手、四梁山将、花荣同上，花荣、宣赞、郝思文同混战。宣赞、郝思文同被擒，花"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "荣、四下手、四梁山将同收下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 25,
+      "name": "第二十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延灼上。"
+        },
+        {
+          "character": "呼延灼",
+          "type": "白",
+          "text": "俺、双鞭呼延灼。奉宋大哥将令，赚取大刀关胜，教俺随机应变，不免远观动 静便了。 （呼延灼登坡望。八大刀手、关胜同上，四下手、四将、林冲同追上，大开打。呼延灼假做救援，林冲、四 下手、四将同假败下。）"
+        },
+        {
+          "character": "呼延灼",
+          "type": "白",
+          "text": "末将助阵来迟，将军恕罪。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "你是何人？"
+        },
+        {
+          "character": "呼延灼",
+          "type": "白",
+          "text": "俺乃呼延灼。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "敢是“双鞭将”么？"
+        },
+        {
+          "character": "呼延灼",
+          "type": "白",
+          "text": "小将便是。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "闻得将军落草可是么？"
+        },
+        {
+          "character": "呼延灼",
+          "type": "白",
+          "text": "小将误了军机，无有面目去见高太尉。昨闻将军到来，诚恐他等伤犯足下，特 地前来助阵，生擒林冲等寇，解赴京师，不惟将军建立大功，小将借此机会也 好还京见驾。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "好，当先引路，杀奔水泊。"
+        },
+        {
+          "character": "呼延灼",
+          "type": "白",
+          "text": "随我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延灼、关胜、八大刀手同走圆场，呼延灼引关胜同进山。呼延灼下。冲头。关胜惊。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "忽听一声号炮响， 恐有埋伏在山岗。 霎时不见呼延将， 择路回头抖丝缰。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜反转出山。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "转出山角用目望，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜望。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "月明如昼照四方。 眼前又有红灯亮，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四女兵、四将、林冲、花荣、顾大嫂、孙二娘、扈三娘同上。"
+        },
+        {
+          "character": "林冲",
+          "type": "唱",
+          "text": "快快下马来投降。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同起打，同败下。时迁、白胜同上，夺盔同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 26,
+      "name": "第二十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵引宋江同上。"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "离了大名阳关上， 收取关胜要埋藏。 众家头领安停当，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江下马上山。"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "站立山头把旗扬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。"
+        },
+        {
+          "character": "关胜",
+          "type": "内西皮导板",
+          "text": "远望红灯发光亮，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜上。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "贼兵布满在山旁。 处处都有埋伏将，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关胜四望。众人同抄下。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "关胜哪里走！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "关胜将军无躲藏。"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "尔是何人快来讲，"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "替天行道是宋江。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "无知小吏敢猖狂， 关某岂是小儿郎！ 尔知天命随予往， 归顺朝廷息刀枪。"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "此话不是这样讲， 请兄聚首忠义堂。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "关胜",
+          "type": "唱",
+          "text": "赫赫威名关胜将， 岂负先祖神灵光。 虽然中计入罗网， 尽忠阵亡有何妨！ 抖擞精神来抵挡，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四女兵、四将、林冲、花荣、顾大嫂、孙二娘、扈三娘同上，同起打。"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "挠钩齐出擒栋梁。 （众人同打，关胜被拖下雕鞍，四下手同夺大刀，关胜被擒。宋江下山引众人与关胜解缚。关胜作惭愧。众 人拥关胜同下。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

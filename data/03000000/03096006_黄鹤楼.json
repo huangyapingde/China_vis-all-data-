@@ -1,0 +1,1842 @@
+{
+  "script_id": "03096006",
+  "title": "黄鹤楼",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "周瑜",
+      "hangdang": "小生"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "赵云",
+      "hangdang": "武生"
+    },
+    {
+      "name": "诸葛亮",
+      "hangdang": "老生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "周瑜欲讨荆州，请刘备过江饮宴，于黄鹤楼四围，密布伏兵，如刘备不还荆州，不准下楼。刘备与赵云临行\n时，诸葛亮曾给赵云竹节一枝，并嘱危急时始可开视。刘备等知已中计，即将诸葛亮所赠之竹节劈开，得周\n瑜令箭一枝，君臣遂持令下楼，安然脱险。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂、四大铠引刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "引子",
+          "text": "义得人和，灭孙曹，孤心安乐。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "日月重明照英雄，全仗卧龙建奇功。虽得地土归王化，依然未遂高祖风。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "孤、刘备。乃大树楼桑人氏。自从桃园结拜以来，弟兄三人也曾共破黄巾；三 顾茅庐，请来诸葛先生，共扶社稷。只因荆州之事，东吴屡屡催讨，使孤常怀 忧虑。正是："
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "苍天遂人意，重整汉帝基。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘封上。"
+        },
+        {
+          "character": "刘封",
+          "type": "念",
+          "text": "忙将东吴事，报与父王知。"
+        },
+        {
+          "character": "刘封",
+          "type": "白",
+          "text": "参见父王！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "罢了，进帐何事？"
+        },
+        {
+          "character": "刘封",
+          "type": "白",
+          "text": "东吴有书信到来，父王请看。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "呈上来，待孤一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急三枪〗。刘备看信。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "来，有请诸葛先生。"
+        },
+        {
+          "character": "刘封",
+          "type": "白",
+          "text": "有请诸葛先生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘封下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "东吴摆下杀人场，狸猫焉能胜虎狼。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "参见主公。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生少礼，请坐！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "谢坐。宣臣进帐，有何军情议论？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "东吴有书信到来，先生请看。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人不必观看，也曾打发甘宁回复他主，说主公即刻过江。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊先生，此番过江，那东吴是好意呀，还是奸计呢？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "那周瑜诡计多端，焉有好意！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "既无好意，孤就不去了。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "主公不去，荆州岂不是他人的了？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "孤去便去，必须多带人马才是。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人自有调遣。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "全仗先生。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "来，四将军进帐！"
+        },
+        {
+          "character": "赵云",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云上。"
+        },
+        {
+          "character": "赵云",
+          "type": "念",
+          "text": "忆昔长坂建奇功，冲锋对垒气概雄。曹兵闻名皆丧胆，谁人不知赵子龙！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "赵云告进！参见主公！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "四弟少礼，见过先生。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "参见先生！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "四将军少礼，一旁坐下！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "谢坐。唤为臣进帐，有何差遣？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生有差。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "先生有何差遣？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "东吴有书信到来，请主公过江饮宴，命将军保驾前往。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "但不知赐我君臣多少人马？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "不带人马，就是你君臣二人。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "且慢！前番临江会上就是一君一臣，险些儿命丧东吴；此番过江又是君臣二人， 要去你去，孤是不去的了。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "主公啊！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮原板",
+          "text": "自古道吉人有天相， 主公何必挂愁肠？ 忆昔当年临江上， 二千岁保驾过长江。 此一番大胆东吴闯， 四将军保驾料无妨。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "先生把话错来讲， 休提起当年赴会在临江。 孙、刘结仇山海样， 孤岂肯把性命送与周郎！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "千言万语主不往， 倒叫山人无主张。 用言激动常山将，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "将军！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "难道你也怕周郎？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "先生哪！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "百万军中曾独闯， 当阳救主姓名扬。 出入曹营无人档， 常山将军天下扬。 主公但把宽心放， 为臣保主过长江，料也无妨。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "他二人把话一样讲， 倒叫孤王无主张。 孤王若在东吴丧，"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "招孤的灵魂入庙堂。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生，孤去便去，还是多带人马才是。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "方才言过，就是你君臣二人。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "先生！我君臣此番黄鹤楼赴宴，不带人马，倘若伏兵四起，难道叫俺拳打足踢 不成？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "着哇！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "四将军莫非是要退兵之策么？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "来来来，这有竹节一根，带在身旁，倘若黄鹤楼下伏兵四起，打开竹节一观， 能退周郎千员上将，百万雄兵！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "得令哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云接竹节。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "慢来，慢来！四弟，你打开竹节，看看里面有多少人马？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "待臣看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云欲看。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "且慢，看过就不灵了！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "是呀！看过就不灵了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哪里是看过不灵，分明是孤的“引魂幡”喏！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "主公啊！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "小小竹节三尺长， 妙算神机个中藏。 将军且自好执掌， 自有妙计退周郎。"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "先生妙计无虚谎， 君臣何日转还乡？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "本月十六日迎接你君臣还朝就是。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哼哼！到那时你接孤的灵魂吧！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "主公，不要多虑，为臣自有安排！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "看衣更换！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "好一个大胆诸葛亮， 立逼孤王过长江。 龙潭虎穴孤去闯，"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二红文堂同带马，刘备、赵云同上马。四红文堂、四大铠、赵云同下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "送主公！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "你分明送孤王去见阎王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "主公难把宽心放， 面带忧愁过长江。"
+        },
+        {
+          "character": "张飞",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哇呀呀呀……"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮摇板",
+          "text": "心中恼恨诸葛亮， 做事不与某商量！ 怒气不息宝帐闯！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "呔！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮摇板",
+          "text": "快快还俺大兄王！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "可恼哇可恼！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三千岁怒气不息，为着谁来？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "某就为你来！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "为山人何来呢？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我且问你，俺大哥过江赴宴，怎不叫俺老张知道？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "叫你知道，也要前去；不叫你知道，也要前去。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我且问你，俺大哥过江赴宴，带领多少人马，大将几员？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "不带人马，就是子龙一人。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊！四弟一人，焉能成功？待俺老张赶他回来！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "且慢！赶他回来，也要前去；不赶他回来，也要前去。此事用你不着，出帐去 吧！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "诸葛亮啊，诸葛孔明！想俺大哥三顾茅庐，请你下山，实指望辅保汉室基业， 谁想你一事未成，反将俺大哥送入了虎口！诸葛亮啊，诸葛孔明！你好狠毒也！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮快板",
+          "text": "东吴摆下杀人场， 你叫俺大哥过长江。 手摸胸膛想一想， 你是个人面兽心肠。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "主公过江把宴上， 本月十六转还乡。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "你算得准？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "算得准。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "量得就？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "量得就。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "本月十六日若不回来呢？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "也罢！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "山人妙计有虚谎， 首级送到你营房。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好先生哪！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮摇板",
+          "text": "先生妙计无虚谎， 休怪俺老张语癫狂， 不辞诸葛出宝帐，"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮快板",
+          "text": "背转身来自参详： 小周郎他的韬略广， 他不该一封书信将咱的大哥诓过江。 随带着常山子龙四弟一员将， 单单就不差涿州翼德俺老张。 先生的八卦无虚谎， 他算就了，俺的大哥，本月十六，驾定小舟，子龙保驾，一齐转还乡。 东吴地，摆战场， 俺老张带领人马杀长江。 俺大哥若在东吴丧： 我与那周郎刀对刀来枪对枪； 俺兄王若有那好和歹，"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "周郎啊，咱的儿呀！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮摇板",
+          "text": "难逃咱老张的丈八枪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞亮相，下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "东吴纵有千员将， 霜雪怎能见太阳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白文堂、周瑜同上。"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮摇板",
+          "text": "水军冲破长江浪， 东吴的将士各个强。 刘备过江命必丧， 讨回荆州取襄阳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜坐。甘宁上。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "参见都督！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "罢了。甘将军回来了。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "命你邀请刘备，可曾请到？"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "刘备过江来了。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哦，刘备过江来了？"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "带来多少人马，大将几员？"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "并无人马，只是子龙一人。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哦！怎么，并无人马，就是子龙一人么？"
+        },
+        {
+          "character": "周瑜",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈……"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "甘将军听令！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "命你速备船只，本督迎接。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁下。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "众将官，摆队相迎！"
+        },
+        {
+          "character": "四白文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白文堂、周瑜同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四红文堂、四白文堂自两边分上，二船夫、甘宁、赵云自两边分上。甘宁、赵云同亮相。"
+        },
+        {
+          "character": "甘宁、赵云",
+          "type": "同白",
+          "text": "有请（都督）（主公）！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、周瑜自两边分上。赵云向刘备。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "周都督江上迎接。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁向周瑜。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "刘皇叔过江来了。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "皇叔！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "都督！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "皇叔过江来了？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "备过江来了。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "久违了。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "久违了。"
+        },
+        {
+          "character": "周瑜",
+          "type": "笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备强笑。"
+        },
+        {
+          "character": "刘备",
+          "type": "笑",
+          "text": "呵呵呵……"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "皇叔请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "不敢，都督请！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "你我挽手而行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜挽刘备欲行，赵云紧随，甘宁拦，周瑜见赵云，问。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "皇叔，身后何人？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "四弟子龙。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "甘将军不必拦阻，开船。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜挽刘备同下，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四红文堂、四白文堂、甘宁、赵云、周瑜、刘备同上。周瑜、刘备分坐。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "不知皇叔驾到，未曾远迎，面前恕罪。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "岂敢！备来得卤莽，都督海涵。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备两望。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "看什么？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "为何不见吴侯？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "只因太后染病在床，吴侯侍奉，不离左右，命瑜奉陪皇叔。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "告辞！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "进宫问安。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "且慢！黄鹤楼宴罢之后，一同进宫。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "到此就要叨扰。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "甘将军，将酒宴摆在黄鹤楼上，命鲁大夫把盏。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁下。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "皇叔请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "都督请！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "周瑜",
+          "type": "念",
+          "text": "重逢花上锦，"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "知己叙衷肠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜让刘备先行，周瑜欲随行，赵云挡，周瑜、赵云同比粗，刘备回视，急扯赵云，赵云随下。周瑜冷笑。"
+        },
+        {
+          "character": "周瑜",
+          "type": "笑",
+          "text": "嘿嘿嘿……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小开门〗。鲁肃上，备宴。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "有请都督！"
+        },
+        {
+          "character": "周瑜",
+          "type": "内白",
+          "text": "皇叔请！"
+        },
+        {
+          "character": "刘备",
+          "type": "内白",
+          "text": "都督请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。刘备、周瑜同上。赵云随上。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "皇叔！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "鲁大夫！"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "过江来了？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "备过江来了。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "久违了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "久违了！"
+        },
+        {
+          "character": "鲁肃、刘备",
+          "type": "同笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "皇叔请来上楼！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "都督请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备看楼梯迟疑，赵云打手势，刘备上楼。周瑜欲上楼，赵云抢上。周瑜气，上楼。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "鲁大夫辞别皇叔，料理军务去吧！"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "遵命！ 皇叔，肃要少陪了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "大夫请便！"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "鲁肃",
+          "type": "念",
+          "text": "黄鹤楼上酒一席，"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "刘备呀刘备！"
+        },
+        {
+          "character": "鲁肃",
+          "type": "念",
+          "text": "死在眼前还不知。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "哼，死定了，死定了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁肃下。赵云两望门。〖四击头〗。刘备、赵云、周瑜同亮相。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "皇叔请，皇叔请，呔，皇叔请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊……都督请！"
+        },
+        {
+          "character": "刘备、周瑜",
+          "type": "同白",
+          "text": "干！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云暗下。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "皇叔！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "都督！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "这！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "这！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘备、周瑜",
+          "type": "同笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "啊皇叔，瑜有一言，不好启齿。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "都督有何金言，请讲当面。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "想当年赤壁鏖兵，火烧战船，费了我国多少兵马钱粮，得来荆州，又被皇叔借 去。如今久借不还是何理也？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "这个——"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "久借不还是何理也？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎，都督哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备哭。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "呃！他又来了！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "周都督他那里提前情， 倒叫我刘玄德有口难云。 我虽然入西川根基未稳， 望都督把荆州再借几春。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "此言差矣！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "是是是！"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮原板",
+          "text": "出言怎不口问心，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云暗上，刘备复振作。"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮原板",
+          "text": "三番两次蒙哄人； 赤壁鏖兵开雄阵，"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮快板",
+          "text": "你国何曾费刀兵？ 东吴多少兵将损， 文臣武将日夜劳心！ 血战挣来了荆州郡， 你久借不还是何情？ 劝你早还荆州郡， 不然插翅难飞腾！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "周瑜休要出言蠢， 竟敢藐视我主君： 想当年曹兵百万如云涌； 要把东吴一扫平， 你国君臣全无用， 个个丧胆失掉魂！ 鲁肃亲往荆州郡， 百般哀告请卧龙。 诸葛先生阴阳准， 南屏山下借东风。 借得东风排火阵， 烧得曹兵甲无存。 曹操兵败华容奔， 从此东吴得安身。 劝你莫把荆州论， 休要惹恼俺赵云。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "大胆！"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮小导板",
+          "text": "周瑜一怒山摇动，"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮快板",
+          "text": "霎时要尔一命倾。 我今奉了吴侯命， 誓讨荆州此日中。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜、赵云对立怒视。"
+        },
+        {
+          "character": "赵云、周瑜",
+          "type": "同白",
+          "text": "哼哼哼……"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "着打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云欲打。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唗！大胆！放肆！这还了得！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备示意赵云勿动武。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "都督啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "四弟说话太莽撞， 恶言恶语把都督伤！ 周都督他倒有容人量，"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊都督！我家四弟言语冒犯，喏喏喏，备这厢赔礼了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备施礼。周瑜不理。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊都督，我家四弟，言语冒犯，喏喏喏，备这厢赔礼了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备施礼。周瑜不理。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉，都督啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "还望都督好商量。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "主公！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "主公休要学尧舜， 汉室基业谁敢争！ 四百年来正汉鼎，"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "周郎！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "东吴胆敢夺乾坤！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮摇板",
+          "text": "楼下兵多早围困，"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "猛虎何惧你犬一群！"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮摇板",
+          "text": "谅你一人难取胜，"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "子龙将军胆包身。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "还俺的荆州来！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "还俺的东风来！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮摇板",
+          "text": "赵云说话惹人恨，"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "刘备呀，刘备！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜扯衣。"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮摇板",
+          "text": "不还荆州难逃生！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备惊坐。"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "你要荆州俺应允，"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "拿来！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "周郎！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "你东吴还有几美人？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜气极，下楼。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "众将官，尔等高声喊叫：叫那刘备写下腾国文约。有本督令箭，放他君臣回转 荆州，无有本督令箭，不许放他君臣下楼，违令者斩！"
+        },
+        {
+          "character": "周瑜",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜下。刘备昏。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "主公醒来！主公醒来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备醒，惊，两望。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "诸葛亮啊！你害死我君臣也！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "勒逼孤王把宴饮， 黄鹤楼上遇灾星， 周郎今日要孤的命！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "四弟呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "快想良策救孤身！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀，四弟呀，周郎叫孤写下腾国文约，这便如何是好？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "主公可记得在那长坂坡——"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "嘿嘿！又是他那长坂坡！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "马踏曹营七进七出，何惧这小小的黄鹤楼上啊。"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮散板",
+          "text": "长坂坡前逞英勇， 何惧东吴百万兵！ 周郎虽然有本领， 为臣赤手也要斗蛟龙！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀四弟呀！想当年你在那长坂坡前掌中有枪，胯下有马，今日在这黄鹤楼上， 难道叫你拳打足踢不成？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "哎呀！这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乱锤。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "主公啊，临行之时，先生赐俺竹节一根，言道：你我君臣在黄鹤楼有难，打开 竹节，能退周郎千员猛将。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉，此乃是那妖道的谣言哪。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "待臣看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云望竹节自语。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "竹节呀竹节！先生道你能退周郎千员猛将，事到如今，我君臣在黄鹤楼上有难， 你是怎的不言，怎的不语？"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮散板",
+          "text": "先生道你能退兵， 此时怎不现真形？ 打破竹节观动静，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云破竹节。"
+        },
+        {
+          "character": "赵云",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈……"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮散板",
+          "text": "内藏周郎令一根。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "主公醒来，你我君臣有救了。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "救在哪里？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "是臣打破竹节，内藏周郎令箭一支。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我却不信。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "主公请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备看。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "水军都督周。嘿嘿，这才是孤的好先生！ 四弟快快搀孤下楼。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云搀刘备同下楼。甘宁、鲁肃同上。"
+        },
+        {
+          "character": "鲁肃、甘宁",
+          "type": "同白",
+          "text": "你君臣为何私自下楼？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "现有你家都督令箭在此。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "我却不信？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "拿去看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云递令箭。鲁肃接令箭看。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "有请都督！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白文堂、周瑜同上。"
+        },
+        {
+          "character": "周瑜",
+          "type": "念",
+          "text": "子龙性命在我手，刘备难下黄鹤楼。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "啊大夫，那刘备可曾写下腾国文约？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "他君臣下楼走了。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "啊！何人放他君臣下楼？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "是都督放他君臣下楼的呀。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "我何曾放他君臣下楼啊？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "现有都督令箭在此。都督请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁肃交令箭。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "拿来我看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜接令箭看。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜气。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "啊都督，既放他君臣下楼，为何又生气呀？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "呃！我岂肯放他君臣下楼？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "都督不肯，这支令箭又是哪里来的？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哎呀大夫啊，想当年赤壁鏖兵，火烧战船，我命那孔明，在南屏山祭借东风， 赐他这支令箭，谁想东风一起，他带箭逃走！不料如今它、它、它、它还在！ 诸葛亮啊，诸葛孔明！我不杀你，誓不为人也！"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "啊，都督，谅他君臣走之不远，何不驾舟追赶？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "言得极是。 众将官，快快驾舟追赶刘备去者！"
+        },
+        {
+          "character": "四白文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜前行，背身亮住。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "啊都督，你小心令箭哪！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "这！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜气。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜掏翎子、亮相，下。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

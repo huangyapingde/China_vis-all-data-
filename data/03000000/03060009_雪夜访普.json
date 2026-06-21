@@ -1,0 +1,647 @@
+{
+  "script_id": "03060009",
+  "title": "雪夜访普",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "赵匡胤",
+      "hangdang": "红生"
+    }
+  ],
+  "plot": "赵匡胤初登基，四方不靖，雪夜至赵普家。赵普方读《论语》，君臣围炉共话天下大势，继遣曹彬等将士分\n下江南、西川、两广、吴越。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二太监掌灯引赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "几处干戈不得宁，寡人日夜费辛勤。不避御路寒风冷，私离宫殿访贤臣。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "寡人、乾德王赵。只因陈桥兵变，众臣立孤为主。四寇未宁，寡人日夜忧虑。 乘此风雪满天，去到相府，议论国家大事。就此走遭也！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "夜广寒冷透了鲛绡锦帐， 有孤王离却了水晶宫墙。 出禁门私来在天街之上， 阵阵瑞雪满空飏。 回头来观不见龙凤景， 万里山河似银装。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张千暗上，坐。"
+        },
+        {
+          "character": "二太监",
+          "type": "同白",
+          "text": "来此相府。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "回避了！"
+        },
+        {
+          "character": "二太监",
+          "type": "同白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二太监同下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "站在府前用目望， 又只见掩重门铁壁围墙。 孤将双环来叩响，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤叩门。"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "呔！何人敲动双环？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "听者！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "俺是那万里山河赵大郎。"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "夜已更深，说什么大郎小郎？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "料想他堂上无伴客，"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "我家相爷在灯下看文章哪！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "俺特来听相爷评讲文章。"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "既要听讲，何不到南寺中、北寺院，请几个没头发的长老？岂不知：调和鼎鼐 三公府，燮理阴阳宰相家！再说，这半夜三更，大雪纷飞，你就不怕冷吗？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "好不分晓！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "为国家哪顾得寒夜雪降， 有机密大事情特来商量。"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "既有机密大事，何不早讲？待我与你通报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张千击錪。"
+        },
+        {
+          "character": "赵普",
+          "type": "内白",
+          "text": "何人击錪？"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "张千禀事。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "所禀何事？"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "府外一人，言有机密大事，要见相爷。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "可曾问过名姓？"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "他说是什么万里山河赵大郎。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "原来圣驾到了。快摆香案，大开正门！"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "喳！哎呀，原来圣驾到了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖细吹打〗。张千开门，拿灯引赵普上，同出门。赵普跪。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "臣，赵普接驾来迟，吾皇万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "丞相！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "丞相你休忙， 把门的不要慌。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤、赵普、张千同进门，赵匡胤中坐。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "赵普见驾，愿我皇万岁！万万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "丞相，把门者何人？"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "门下张千。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "好大胆的张千！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵普跪，张千随跪。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "恁道是，调和鼎鼐三公府， 燮理阴阳宰相家。 似这等，大雪纷飞， 叫寡人哪里去， 请几个没头发的唐三藏？ 卿道是，卿道是当朝宰相。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "老臣知罪！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵普起，张千随起。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "恁看那银台上灯花结蕊， 一霎时瑞雪儿遍体生凉。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "臣有内宅书房，请主避寒。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "掌灯！"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "领旨。 张千掌灯！"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "将身儿且把这书房来进， 桌案上摆的是什么文章？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "桌案之上是什么书？"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "此乃半部《论语》。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "《论语》乃儿童所读，卿居相位，看它作甚？"
+        },
+        {
+          "character": "赵普",
+          "type": "念",
+          "text": "齐家治国安天下，尽在半部《论语》中。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "好个“尽在半部论语中”！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "评古论今把文讲， 齐家治国定家邦。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "夫人，圣驾在此，快来见驾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵夫人上。"
+        },
+        {
+          "character": "赵夫人",
+          "type": "白",
+          "text": "臣妾见驾，吾皇万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "赵夫人",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "启万岁：现有煖酒，臣不敢献上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "领旨。 张千捧酒上来！"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张千捧酒呈。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "有美酒和丞相同饮欢畅，"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "老臣执壶。"
+        },
+        {
+          "character": "赵夫人",
+          "type": "白",
+          "text": "臣妾把盏。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "又何必劳嫂嫂捧霞觞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤饮酒。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "此乃糟糠之妻，怎当万岁“嫂”称之？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "丞相！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "有道是糟糠之妻不下堂， 贫贱之交岂可忘？ 夫妻恩爱山海样， 两下和好免灾殃。 孤与你好比太甲伊尹降， 兄嫂梁鸿配孟光。 琼浆玉液来欢畅， 但愿你夫妻们福寿安康。"
+        },
+        {
+          "character": "赵普、赵夫人",
+          "type": "同白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "嫂嫂暂请回避，孤有国事议论。"
+        },
+        {
+          "character": "赵夫人",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "赵夫人",
+          "type": "念",
+          "text": "妾身归香阁，捧茶待君王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵夫人下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "赐坐！"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "谢坐。万岁，这等大雪纷飞，驾临臣门，有何国事议论？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "丞相，寡人只为四寇呵！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "忧只忧那河东无有能将，"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "河东有钱王、李王镇守。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "忧只忧败国贼钱王、李王， 忧只忧当军的持矛戈降， 忧只忧百姓们受锋惊铓。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "启万岁：臣有四将，名唤曹彬、石守信、王全宾、潘仁美。今举四人，可能前 去镇守。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "宣来见朕！"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "领旨。 张千，传曹、石、王、潘进府参驾！"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "是。他们都在曹彬家中，待我唤来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张千向内。"
+        },
+        {
+          "character": "张千",
+          "type": "白",
+          "text": "呔！相爷有令，命曹、石、王、潘进府参驾！"
+        },
+        {
+          "character": "曹彬、石守信、王全宾、潘仁美",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹彬上。"
+        },
+        {
+          "character": "曹彬",
+          "type": "念",
+          "text": "忽听阃外将军令，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石守信上。"
+        },
+        {
+          "character": "石守信",
+          "type": "念",
+          "text": "耳闻朝中天子宣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王全宾上。"
+        },
+        {
+          "character": "王全宾",
+          "type": "念",
+          "text": "赤胆忠心来保国，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘仁美上。"
+        },
+        {
+          "character": "潘仁美",
+          "type": "念",
+          "text": "匡扶社稷佐明君。"
+        },
+        {
+          "character": "曹彬、石守信、王全宾、潘仁美",
+          "type": "同白",
+          "text": "丞相！"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "圣驾在此，上前见驾！"
+        },
+        {
+          "character": "曹彬、石守信、王全宾、潘仁美",
+          "type": "同白",
+          "text": "臣等见驾，吾皇万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "曹彬、石守信、王全宾、潘仁美",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "站立两厢，听朕晓谕。"
+        },
+        {
+          "character": "曹彬、石守信、王全宾、潘仁美",
+          "type": "同白",
+          "text": "领旨！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "乾德王坐相府提兵调将， 左和右站四将曹、石、潘、王。 命曹彬带人马江南抵挡， 石守信取吴越扫灭钱塘。 王全宾守四川把贼扫荡， 潘仁美镇两广保随孤王。 一个个齐把元戎掌， 一个个雄壮似虎狼， 一个个抖擞英雄将， 一个个血战把名扬。 休得要拆毁民房路， 休得要欺帅自为王。 一路开道民安定， 犒赏三军享安康。"
+        },
+        {
+          "character": "曹彬、石守信、王全宾、潘仁美",
+          "type": "同白",
+          "text": "臣等领旨！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "寡人回宫去也！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "四员虎将气昂昂， 他与孤王定家邦。 大宋江山归一统，"
+        },
+        {
+          "character": "赵普、曹彬、石守信、王全宾、潘仁美",
+          "type": "同白",
+          "text": "臣等送驾！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "丞相！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "孤将他一个一个来封王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二太监同上，引赵匡胤同下。"
+        },
+        {
+          "character": "赵普",
+          "type": "白",
+          "text": "列位将军，此去须要齐心，不负老夫所望！"
+        },
+        {
+          "character": "曹彬、石守信、王全宾、潘仁美",
+          "type": "同白",
+          "text": "丞相提拔！"
+        },
+        {
+          "character": "赵普",
+          "type": "念",
+          "text": "但愿鞭敲金蹬响，"
+        },
+        {
+          "character": "曹彬、石守信、王全宾、潘仁美",
+          "type": "同念",
+          "text": "齐唱升平凯歌还。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

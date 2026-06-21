@@ -1,0 +1,1124 @@
+{
+  "script_id": "02003005",
+  "title": "斩华雄",
+  "alias": [],
+  "source": "《国剧大成》",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "华雄",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "曹操会同十八路诸侯，声讨董卓，兵进汜水关。董卓令华雄应战。北海太守部将武安国、南阳太守部将俞徒\n涉、北平太守部将鲍忠、翼州刺史部将潘凤均被斩首。时关公为公孙瓒部下马弓手，在营外大笑，袁绍闻知\n大怒，令将关公赶出。曹操认为关公绝非常人，乃令甲胄出战华雄，临行并特为斟酒，以示鼓励。关公谓待\n斩华雄后再领。及斩华雄后，杯酒尚温，即俗谓“温酒斩华雄”也。",
+  "notes": "《三国演义》中的虚构人物俞涉，在剧本中作俞徒涉。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠同上，同站门，华雄上。"
+        },
+        {
+          "character": "华雄",
+          "type": "引子",
+          "text": "惊人才量，拔山力谁敢挡。且看俺盔甲显昂，我精神抖擞，指日里烟尘扫荡。"
+        },
+        {
+          "character": "华雄",
+          "type": "念",
+          "text": "壮志粗豪气吐虹，单刀匹马力无穷。烽烟四起乌合众，指挥谈笑一扫空。"
+        },
+        {
+          "character": "华雄",
+          "type": "白",
+          "text": "某，华雄。乃关西人也，身长九尺，腰大十围，扛刀能扛鼎拔山，气吐虹霓， 马前无三合之将，旗到处即奏凯歌。昔日曾为黄巾羽党，今投董太师门下，为 骁骑将军，闻得曹操协同十八路诸侯，前来攻打汜水关隘，今奉董太师将令， 统领雄兵，前往讨贼。 众将官，杀上前去。"
+        },
+        {
+          "character": "华雄",
+          "type": "甘州歌",
+          "text": "齐心奋勇， 看烟尘四起，杀气朦朦。 鞭稍指处，神鬼尽皆惊恐。 三军旗动， 千里镇，八面威风，谁能攻？ 剑戟兴，咆哮战骑尽无踪。 人如虎，马似龙， 据看一战便成功。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八旗纛同上，公孙瓒上。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "红衲袄",
+          "text": "俺本是镇北平侠燕交，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袁术上。"
+        },
+        {
+          "character": "袁术",
+          "type": "红衲袄",
+          "text": "后将军南阳道，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩馥上。"
+        },
+        {
+          "character": "韩馥",
+          "type": "红衲袄",
+          "text": "俺本是镇翼州刺史超，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张超上。"
+        },
+        {
+          "character": "张超",
+          "type": "红衲袄",
+          "text": "广陵郡威名号，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孔融上。"
+        },
+        {
+          "character": "孔融",
+          "type": "红衲袄",
+          "text": "俺镇北海为郡守清野高。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲍信上。"
+        },
+        {
+          "character": "鲍信",
+          "type": "红衲袄",
+          "text": "济北相名布标，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马腾上。"
+        },
+        {
+          "character": "马腾",
+          "type": "红衲袄",
+          "text": "俺镇西凉西夏运筹调。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶谦上。"
+        },
+        {
+          "character": "陶谦",
+          "type": "红衲袄",
+          "text": "让徐州自逊消。"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同红衲袄",
+          "text": "今日个会诸侯把国贼来讨， 也清朝纲显忠正凌烟标。"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同念",
+          "text": "汉助乾坤锦绣邦，调和数载清朝纲。而今国贼长奋乱，议师旌旗把叛降。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "某，北平太守公孙瓒。"
+        },
+        {
+          "character": "袁术",
+          "type": "白",
+          "text": "南阳太守袁术。"
+        },
+        {
+          "character": "韩馥",
+          "type": "白",
+          "text": "翼州刺史韩馥。"
+        },
+        {
+          "character": "张超",
+          "type": "白",
+          "text": "广陵太守张超。"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "北海太守孔融。"
+        },
+        {
+          "character": "鲍信",
+          "type": "白",
+          "text": "济州刺史鲍信。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "西凉太守马腾。"
+        },
+        {
+          "character": "陶谦",
+          "type": "白",
+          "text": "徐州刺史陶谦。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "列位请了。"
+        },
+        {
+          "character": "袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "我等蒙曹孟德檄文相请，为因董卓弄权，目无天子，残暴生灵。"
+        },
+        {
+          "character": "袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "为此我等齐集前来，今立渤海太守袁绍为盟主，共讨董卓。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "且待盟主升帐，一同进见。"
+        },
+        {
+          "character": "袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。〖大开门〗。四红文堂、四红大铠同上，同站门，曹操、袁绍同上。"
+        },
+        {
+          "character": "袁绍",
+          "type": "点绛唇",
+          "text": "忠义心同，报君恩重，旌旗义师讨攻，把国贼黄泉送。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦同上，分两边坐。"
+        },
+        {
+          "character": "袁绍",
+          "type": "念",
+          "text": "乱臣贼子真堪恨，"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "有德人人扫奸臣。"
+        },
+        {
+          "character": "袁绍",
+          "type": "念",
+          "text": "干戈早定诛奸佞，"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "大家共享太平春。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "某，渤海太守袁绍。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "骁骑尉曹操。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "为因董卓弄权，目无天子，残害生灵，我等十八路诸侯，尽起义师，会同讨贼。 蒙列公推我为盟主，掌握兵权。前者命孙文台前部前锋，不想败于华雄之手。 今日会议兵机。 列公！"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "盟主。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "今日此举须念君恩国难，协力同心，奋勇杀贼，以表青史也。"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "盟主运筹帷幄，燮理阴阳，我等尽听指挥，管叫指日国安贼灭也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "念",
+          "text": "两脚犹如千里马，肩上横担令字旗。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "探子告进。探子叩头。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "所探何事？起来讲。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "众位爷容禀！"
+        },
+        {
+          "character": "报子",
+          "type": "战滴溜",
+          "text": "兵戈到，兵戈到， 华雄好勇暴。 车骑云腾，统兵四哨， 招展旗牌，截住要道。 速点兵将， 休要使他强暴。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "赏尔银牌一面，再去打探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "多谢盟主。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "既是华雄领兵前来，我等一同出城。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "量此鼠辈，何劳列公出马。请坐。 令官传令：各营部下将官，有人敢退华雄，上帐听令。"
+        },
+        {
+          "character": "武安国、俞徒涉、鲍忠、潘凤",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武安国、俞徒涉、鲍忠、潘凤同上。"
+        },
+        {
+          "character": "武安国、俞徒涉、鲍忠、潘凤",
+          "type": "同念",
+          "text": "忽听帐上宣，前来听令传。"
+        },
+        {
+          "character": "武安国、俞徒涉、鲍忠、潘凤",
+          "type": "同白",
+          "text": "盟主在上，我等愿往，擒拿华雄前来献功。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "哪名将官，报名上来。"
+        },
+        {
+          "character": "武安国",
+          "type": "白",
+          "text": "北海太守麾下部将武安国。"
+        },
+        {
+          "character": "俞徒涉",
+          "type": "白",
+          "text": "南阳太守麾下俞徒涉。"
+        },
+        {
+          "character": "鲍忠",
+          "type": "白",
+          "text": "北平太守麾下骁将鲍忠。"
+        },
+        {
+          "character": "潘凤",
+          "type": "白",
+          "text": "翼州刺史麾下大将潘凤。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "好。难得尔等奋勇当先。斩得华雄回来论功升赏。"
+        },
+        {
+          "character": "武安国、俞徒涉、鲍忠、潘凤",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂领武安国、俞徒涉、鲍忠、潘凤同下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "我等各执器械，往阵前观看者。"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": "袁绍",
+          "type": "唱",
+          "text": "堪叹数年动刀兵， 黄巾灭后出乱臣。 董卓专权朝纲混， 共起义师把贼平。 人马撒在两军阵， 来到军前看分明。 耳听号炮天地震，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起鼓〗，〖内喊声〗。"
+        },
+        {
+          "character": "袁绍",
+          "type": "唱",
+          "text": "贼将华雄动刀兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠引华雄同上。"
+        },
+        {
+          "character": "华雄",
+          "type": "唱",
+          "text": "太师台前领将令， 汜水关前扎大营。 十八路诸侯把兵进， 指日奏凯把功成。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武安国、俞徒涉同上，同会阵。四文堂、华雄杀死武安国、俞徒涉。鲍忠、潘凤同上。"
+        },
+        {
+          "character": "华雄",
+          "type": "白",
+          "text": "马前来将通名受死。"
+        },
+        {
+          "character": "鲍忠",
+          "type": "白",
+          "text": "大将鲍忠。"
+        },
+        {
+          "character": "潘凤",
+          "type": "白",
+          "text": "勇将潘凤。"
+        },
+        {
+          "character": "华雄",
+          "type": "白",
+          "text": "无名贼将，看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华雄杀死鲍忠、潘凤，鲍忠、潘凤同下。"
+        },
+        {
+          "character": "华雄",
+          "type": "笑",
+          "text": "哈哈哈哈！"
+        },
+        {
+          "character": "华雄",
+          "type": "唱",
+          "text": "堪笑诸侯动刀兵， 无名小辈有何能！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华雄下。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启元帅：四将被华雄斩首。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "胆大华雄，连伤四将，众诸侯一齐会战。"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华雄、四文堂同上，同会阵，华雄杀，公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦同下。"
+        },
+        {
+          "character": "曹操、袁绍",
+          "type": "同唱",
+          "text": "耳听号炮响连天， 诸侯交兵在阵前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦同上。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "胜负如何？"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "败下阵来。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "哎呀，诸侯不能取胜，此贼如此猖狂，可惜我颜良、文丑未曾随来，若得一人 在此，擒华雄如探囊取物也。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "华雄讨战。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袁绍、曹操、公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦同惊。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "吩咐免战高悬。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。关羽、张飞自两边分上。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "神威能奋武，"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "儒雅更知文。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "丹诚心如镜，"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "春秋义薄云。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "三弟。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "二哥。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "俺弟兄三人随公孙将军讨贼，众诸侯被华雄战得他大败，不能进兵，真个好笑。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "二哥，这是主帅无能，累及三军。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同笑",
+          "text": "哈哈哈哈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "辕门以外，何人发笑？查出斩首。"
+        },
+        {
+          "character": "四红大铠",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "且慢。此人大笑，必有大用。唤进帐来。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "传发笑人进帐。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同上。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "参见元帅。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "哪部将官，报名上来。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "公孙将军帐下马弓手关。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "步弓手张。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "唔，无名小卒，敢来发笑，藐视诸侯，念尔无知，赶出帐去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "盟主，我看马弓手气宇轩昂，品貌不俗，非寻常可比，何不令彼出战。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "骁骑令一弓马手出战，恐被华雄取笑。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "吾观此人，勇略非凡，况用人之际，何论出身。赐他甲胄前去，那华雄焉能知 晓。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "既然如此，传他进帐。"
+        },
+        {
+          "character": "四红大铠",
+          "type": "同白",
+          "text": "传弓马手进帐。"
+        },
+        {
+          "character": "关羽",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "参见元帅。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "命你接战华雄，可有此胆量？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某若不胜华雄，愿将首级献上。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "好。赐你半付掩心甲，请在将房披挂。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "多谢元帅。"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "令出山动非寻常， 关某今日把名扬。 未曾出阵某料想， 华雄首级如探囊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "唱",
+          "text": "丹凤眼来卧蚕眉， 五柳胡须飘胸膛。 观他容貌非凡相， 气吐虹霓世无双。"
+        },
+        {
+          "character": "关羽",
+          "type": "内西皮导板",
+          "text": "曾破黄巾初起义，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马夫、关羽同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "河北袁绍把兵提。 华雄战将勇无比， 某与他未曾见高低。 半付掩心遮身体， 青龙大刀手内提。 迈步且进营门里， 奉请元帅把兵提。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "披挂起来，倒也称得一员上将。"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "好一员虎将。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "看酒来。 吓将军，我有巨觥一樽，以壮军威。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "多谢骁骑。哎呀酒太热了，放在玉石栏杆，斩了华雄，回来再领。"
+        },
+        {
+          "character": "袁术",
+          "type": "白",
+          "text": "呔，好狂言！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唔！"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "将军不必眉皱起， 关某言来你听知： 华雄虽然勇无比， 未遇大将来对敌。 小校带过追风骑， 回来饮酒献首级。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "列公各自回营擂鼓助威，"
+        },
+        {
+          "character": "袁绍",
+          "type": "念",
+          "text": "眼观旌捷报，"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同念",
+          "text": "耳听好消息。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "关羽",
+          "type": "内西皮导板",
+          "text": "大鹏展翅恨天低，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖擂鼓〗。马夫上，舞旗引关羽上。"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "豪杰怒气贯须弥。 董卓抚弄汉献帝， 恶贯满盈有归期。 吕布、华雄太山势， 何用关某费心机。 耳听战鼓连声起，"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "小校！"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "关某言来听端的。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "小校，战饭可吃得饱？"
+        },
+        {
+          "character": "马夫",
+          "type": "白",
+          "text": "吃得饱。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "还是胆大胆小？"
+        },
+        {
+          "character": "马夫",
+          "type": "白",
+          "text": "胆大。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "胆大逞雄威，胆小失了机。"
+        },
+        {
+          "character": "马夫",
+          "type": "念",
+          "text": "华雄是好将，二爷哪在意。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "好！"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "紧拔弓鞋忙扎衣， 青龙偃月手中提。 一马闯进敌队里， 华雄好比笼内鸡。"
+        },
+        {
+          "character": "马夫",
+          "type": "白",
+          "text": "来在关前。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "前去叫关。"
+        },
+        {
+          "character": "马夫",
+          "type": "白",
+          "text": "呔！华雄出关受死。"
+        },
+        {
+          "character": "华雄",
+          "type": "内白",
+          "text": "开关！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华雄上。"
+        },
+        {
+          "character": "华雄",
+          "type": "白",
+          "text": "呔，何人关前叫骂？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "来将可是华雄？"
+        },
+        {
+          "character": "华雄",
+          "type": "白",
+          "text": "老爷正是。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "汜水关有几个华雄？"
+        },
+        {
+          "character": "华雄",
+          "type": "白",
+          "text": "就是老爷一人。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "身后何人？"
+        },
+        {
+          "character": "华雄",
+          "type": "白",
+          "text": "在哪里？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华雄死，下。"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "汜水关前尔第一， 遇着关某失了机。 一言未罢头落地， 斩华雄不费某的力。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。四文堂抬华雄过场同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（八下手、公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦自两边分上，袁绍、曹操同上。〖出队子〗，"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "〖吹打〗。马夫上。）"
+        },
+        {
+          "character": "马夫",
+          "type": "白",
+          "text": "马弓手得胜。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "马夫",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽拿首级上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "华雄首级献上。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "好，将军刀斩华雄，此功第一，灭了董卓，汉室安宁，自有封赠。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "谢元帅。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "吓将军，樽酒尚温，请饮干了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "多谢骁骑。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "待我口占一首，庆贺将军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起鼓〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "威震乾坤第一功，辕门架鼓响咚咚。云长今日施英勇，酒尚温时斩华雄。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "哈哈哈承赞了。"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "敢蒙骁骑美言加， 些小微功何足夸。 丈夫志在安天下， 乱臣贼子岂容他。 辞别骁骑把帐下， 燕雀敢笑鸿鹄家。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。"
+        },
+        {
+          "character": "曹操",
+          "type": "唱",
+          "text": "关云长秀雅真潇洒， 斩华雄好比井底蛙。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "列公，今日斩了华雄，董卓锐气已挫，吩咐大排筵宴，与刘、关、张贺功。"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同白",
+          "text": "言之有理。"
+        },
+        {
+          "character": "袁绍",
+          "type": "念",
+          "text": "若要天下奇男子，"
+        },
+        {
+          "character": "公孙瓒、袁术、韩馥、张超、孔融、鲍信、马腾、陶谦",
+          "type": "同念",
+          "text": "须立人间未有功。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

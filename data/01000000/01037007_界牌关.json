@@ -1,0 +1,725 @@
+{
+  "script_id": "01037007",
+  "title": "界牌关",
+  "alias": [
+    "盘肠大战；一名：罗通扫北"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "罗通",
+      "hangdang": "武生"
+    },
+    {
+      "name": "苏宝同",
+      "hangdang": "净"
+    },
+    {
+      "name": "王伯超",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "北番兴兵犯境，番帅苏宝同，大举入寇。唐皇命秦怀玉挂帅，罗家父子罗通、罗章为先行，统领大兵征讨。\n军至界牌关，两军相拒，秦怀玉亲自出马，初颇得手，岂知被苏宝同用飞镖打伤，唐营即遭不利。既而罗通\n出战，鞭打苏宝同，彼此主帅遭挫，可称折伤相等。不意番营王伯超，用车轮战之计，率领诸番将，出与罗\n通更番轮战，以疲其力。罗通虽骁猛，怎禁得力战十数将，能无疲乏？至后手法一疏，果被王伯超一枪戳破\n腹肚，将脂肠挑出。罗通大怒拼命将肠盘绕腰腹间，重与死战。番将见之，皆大惊骇。盖惊其神勇，肠出而\n仍能力战也。一唶愕间，王伯超亦卒被罗通刺中要害而死。至是虽已力尽，乃回营而没。",
+  "notes": "界牌关罗通盘肠大战王伯超，系出唐代小说中。往时昆腔中亦有此戏，江浙乱弹班，时常演奏。京徽班亦继\n之。此脚本中，纯用新水令、折桂令、侥侥令等小唢呐吹腔，可见尚是昆戈之遗音，惟辗转相传，唱白词句\n间，不无讹传尔。\n此脚本中，为罗通被创伤回营，顷刻身亡。其子罗章，立即出战，卒能刺杀王伯超，以报父仇等情，与前所\n云不同。似乎与“盘肠大战”四字，名实亦不副也。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大旗上。罗通上，起霸。"
+        },
+        {
+          "character": "罗通",
+          "type": "念",
+          "text": "白盔白甲白银枪，白旗白马似秋霜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗章上，起霸。"
+        },
+        {
+          "character": "罗章",
+          "type": "念",
+          "text": "父子冲锋无人敌，扫尽狼烟护圣邦。"
+        },
+        {
+          "character": "罗通、罗章",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "越国公罗通。"
+        },
+        {
+          "character": "罗章",
+          "type": "白",
+          "text": "笑面虎罗章。 参见爹爹！"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "罢了。今有苏宝同打来战表，要与我主争斗江山。你我父子，去至营门候令。 带马！"
+        },
+        {
+          "character": "大旗",
+          "type": "白",
+          "text": "来在营门。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "打了几鼓？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鼓响。"
+        },
+        {
+          "character": "大旗",
+          "type": "白",
+          "text": "打了二鼓。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "退下。"
+        },
+        {
+          "character": "大旗",
+          "type": "白",
+          "text": "呵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大旗下。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "元帅未曾升帐，你我父子，马台石打坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗通、罗章同坐。发点。四龙套、众马夫、秦怀玉同上。"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "新水令",
+          "text": "奉王命征战西辽邦， 领雄兵无人敢挡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦怀玉坐帐。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "报！罗通带子——"
+        },
+        {
+          "character": "罗章",
+          "type": "白",
+          "text": "罗章。"
+        },
+        {
+          "character": "罗通、罗章",
+          "type": "同白",
+          "text": "打恭！"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "白",
+          "text": "贤弟、贤侄少礼。"
+        },
+        {
+          "character": "罗通、罗章",
+          "type": "同白",
+          "text": "谢元帅！"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "念",
+          "text": "战鼓咚咚出皇朝，芦花荡内钓金鳌。本帅作了擎天柱，要灭西辽护圣朝。"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "白",
+          "text": "本帅，秦怀玉。今有苏宝同打来连环战表，要与主上争斗江山。圣上挂我为帅。 来，伺候了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报！苏宝同讨战。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "元帅，苏宝同讨战，待我父子单枪——"
+        },
+        {
+          "character": "罗章",
+          "type": "白",
+          "text": "匹马！"
+        },
+        {
+          "character": "罗通、罗章",
+          "type": "同白",
+          "text": "生擒那贼进帐！"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "白",
+          "text": "那贼用暗器伤人，尔等不可出马。看守大营。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "得令。 带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗通、罗章同下。"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "白",
+          "text": "抬枪带马！"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "新水令",
+          "text": "保定锦家邦， 要把那贼一齐扫荡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦怀玉下。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、众番将、苏宝同同上。〖牌子〗。"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "某，苏宝同。统领人马，要夺唐室。 吧嘚喽，杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦怀玉、四龙套同上。会阵。"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "白",
+          "text": "呔！马前可是苏宝同？"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "然。"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "白",
+          "text": "苏宝同，你今侵犯，是何理也？"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "俺今夺取唐室天下！"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "白",
+          "text": "胡说！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。苏宝同、秦怀玉同开打。苏宝同、四龙套、众番将同败下。"
+        },
+        {
+          "character": "秦怀玉",
+          "type": "白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦怀玉、四龙套同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏宝同、四龙套、众番将同上。"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "且住！他人杀法厉害，不免飞镖伤他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦怀玉上，苏宝同打飞镖，秦怀玉带伤下。"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "回关！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗通上。"
+        },
+        {
+          "character": "罗通",
+          "type": "念",
+          "text": "兴兵交战日，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗章上。"
+        },
+        {
+          "character": "罗章",
+          "type": "念",
+          "text": "何日得太平？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套抬秦怀玉同上。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "元帅怎么样了？"
+        },
+        {
+          "character": "龙套",
+          "type": "同白",
+          "text": "中了那贼金镖。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "后面调治。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套抬秦怀玉同下。罗章下。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "苏宝同吓，贼吓！"
+        },
+        {
+          "character": "罗通",
+          "type": "折桂令",
+          "text": "身背着锦甲胄世无双， 管教尔与罗爷魂枪丧， 仗妖法伤，云戎或开丈， 顷刻间举枪，一命丧亡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗章上。"
+        },
+        {
+          "character": "罗章",
+          "type": "白",
+          "text": "元帅不醒。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "元帅中了那贼毒药镖，一时怎能得好？我儿看守大营，待为父出马。"
+        },
+        {
+          "character": "罗章",
+          "type": "白",
+          "text": "且慢，只可以守，不可出战。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "唗！不许多言，出帐去吧！"
+        },
+        {
+          "character": "罗章",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗章下。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "抬枪带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同上。"
+        },
+        {
+          "character": "罗通",
+          "type": "雁儿落",
+          "text": "呀呀呀，全凭着猛勇将，谁敢当， 管教尔与罗爷魂枪丧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏宝同、四龙套、众番将同上。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "马前可是苏宝同？"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "然。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "苏宝同，你乃西辽好汉，俺乃天朝大将若有暗器伤人，非为丈夫也！"
+        },
+        {
+          "character": "罗通",
+          "type": "雁儿落",
+          "text": "两下里非贪生祸开丈， 也不许仗妖法把人伤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏宝同、罗通同开打。苏宝同中伤下。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "哪里走！"
+        },
+        {
+          "character": "罗通",
+          "type": "雁儿落",
+          "text": "紧加鞭催战马往前赶， 今一朝把番奴一扫光， 今一朝把番奴一扫光！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏宝同、四龙套、众番将同上。"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "被罗通伤了一鞭，疼煞我也！回关！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、众番将、王伯超同上，同出城。众人同进城，同下，同上。"
+        },
+        {
+          "character": "王伯超",
+          "type": "白",
+          "text": "元帅为何这等模样？"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "被罗通伤了一鞭。"
+        },
+        {
+          "character": "王伯超",
+          "type": "白",
+          "text": "元帅，待俺王伯超出马，生擒罗通入帐！"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "有此胆量？"
+        },
+        {
+          "character": "王伯超",
+          "type": "白",
+          "text": "有此胆量！"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "如此，王伯超听令！"
+        },
+        {
+          "character": "王伯超",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "苏宝同",
+          "type": "白",
+          "text": "命你带领人马，大战罗通！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏宝同下。"
+        },
+        {
+          "character": "王伯超",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗通上。"
+        },
+        {
+          "character": "罗通",
+          "type": "侥侥令",
+          "text": "眼望着旗幡招展，似飘扬，定埋藏， 俺这里身为英勇，准备下天朝家邦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯超、四下手、众番将同上，四下手、众番将同下。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "马前来将通名！"
+        },
+        {
+          "character": "王伯超",
+          "type": "白",
+          "text": "大将王伯超！"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "看枪！ （王伯超、罗通同开打。王伯超败下。众番将同上，同开打。王伯超上，盘肠，罗通下。王伯超、众番将同 追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗通上。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "杀败了，杀败了！哎呀哎呀！我与那贼交战，一时枪法作乱，被那贼一枪，哎 呀哎呀，把我肚腹挑破，挑出肚肠在外。圣上吓，圣上吓！只怕为臣，不能保 全江山社稷了！吓吓吓！"
+        },
+        {
+          "character": "罗通",
+          "type": "侥侥令",
+          "text": "臣宰就一命亡，臣宰就一命亡， 鬼门关前走一场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯超上。"
+        },
+        {
+          "character": "王伯超",
+          "type": "白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗通、王伯超同开打，罗通败下。"
+        },
+        {
+          "character": "王伯超",
+          "type": "白",
+          "text": "那罗通与某交战，被某一枪，枪挑肠外，可算盘肠大战。好汉子，好汉子！ 追！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗章拿枪上。"
+        },
+        {
+          "character": "罗章",
+          "type": "唱",
+          "text": "俺心中只觉焦躁， 俺心中只觉焦躁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报！罗将军带伤而回！"
+        },
+        {
+          "character": "罗章",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗章下。报子下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗通翻上。罗通叫门，罗章上，开门。罗通、罗章同哭，同进门。罗章问，罗通比试，倒。"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "儿吓！ （罗通死。罗章哭，罗章抬罗通同下。四龙套同上，带马。罗章上，出。王伯超、众番将同上，罗章、王伯 超同开打。龙套同下。）"
+        },
+        {
+          "character": "罗章",
+          "type": "白",
+          "text": "来的可是王伯超？"
+        },
+        {
+          "character": "王伯超",
+          "type": "白",
+          "text": "然也！"
+        },
+        {
+          "character": "罗章",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯超败下。罗章刺死众番将。王伯超上，罗章刺死王伯超，王伯超下。"
+        },
+        {
+          "character": "罗章",
+          "type": "三叫头",
+          "text": "爹爹！吾父！吓吓吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "罗章下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

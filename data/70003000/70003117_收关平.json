@@ -1,0 +1,1440 @@
+{
+  "script_id": "70003117",
+  "title": "收关平",
+  "alias": [],
+  "source": "李洪春剧本选",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "关定",
+      "hangdang": "老生"
+    },
+    {
+      "name": "关平",
+      "hangdang": "武生"
+    },
+    {
+      "name": "关宁",
+      "hangdang": "小生"
+    },
+    {
+      "name": "马童",
+      "hangdang": "武生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "曹操",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "桃园弟兄古城团聚，大宴三军，操练人马。一日，关羽游猎，夜宿关定庄，关定仰慕关羽仁义，命子关平认\n关羽为父，追随左右。时曹操因桃园弟兄在古城招兵买马，率兵进袭。古城城小人孤，刘备率众弃城而走。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "许褚、张辽、李典、乐进、曹仁、曹洪、徐晃、夏侯惇同上，同起霸。〖点绛唇〗。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "许褚。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "张辽。"
+        },
+        {
+          "character": "李典",
+          "type": "白",
+          "text": "李典。"
+        },
+        {
+          "character": "乐进",
+          "type": "白",
+          "text": "乐进。"
+        },
+        {
+          "character": "曹仁",
+          "type": "白",
+          "text": "曹仁。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "曹洪。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "徐晃。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "夏侯惇。 众位将军请了！前者关羽，挂印封金，过关斩将，伤损我军。今日丞相升帐， 定有事故。我等两厢候令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、四龙套、四大刀手、程昱、郭嘉、曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "盖世奇才，统雄师，扫荡中原，震乾坤。"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "桃园义气实可钦，厚待关羽枉费心。挂印封金弃某去，过关斩将伤我军。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "某，曹操。汉室称臣，可恨刘备，闻雷失箸，设计逃脱吾营。赚城斩了车胄， 夺了徐州。前者某剿了桃园，得了徐州，收伏关羽，厚待一十二载，闻得刘备 之讯，挂印封金而走。五关伤我六员大将，实为可恨！这且不言。刘辟、龚都 谋反，某命蔡阳二次攻打汝南，未知胜负。也曾命探马前去哨探，未见回报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "丞相在上，探子叩头。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "打探了哪路军情？起来讲。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "丞相容禀！"
+        },
+        {
+          "character": "报子",
+          "type": "念",
+          "text": "蔡老将军奉将令，二次攻打汝南城。中途闻听报凶信，回军报仇命归阴。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "蔡老将军只因要与他外甥秦琪报仇，被关公刀劈落马。桃园弟兄在古城聚义， 招军养马，好不威严也！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "赏尔金牌一面，再去哨探！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "可恼哇可恼！"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "咬牙切齿骂桃园， 竟敢伤吾大将军。 亲统大兵将他征， 夺取古城气方平。"
+        },
+        {
+          "character": "许褚、张辽、李典、乐进、曹仁、曹洪、徐晃、夏侯惇",
+          "type": "同白",
+          "text": "丞相！桃园弟兄，在古城聚义招军，若不早灭，乃我军后患也！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众位将军言得极是。 郭嘉、程昱，紧守许都，不是有误。"
+        },
+        {
+          "character": "郭嘉、程昱",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭嘉、程昱同下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众将官！兵发古城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蓝龙套、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "想当年在范阳弟兄结义， 虎牢关战吕布名闻各地。 徐州破兄弟们忍痛分离， 十二年我桃园奔走东西。 到今日又团圆古城聚义， 南灭吴北剿曹重整华夷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜芳、糜竺、简雍、孙乾同上。"
+        },
+        {
+          "character": "孙乾",
+          "type": "唱",
+          "text": "喜的是我三军团圆相聚， 刘玄德笑颜开谢天谢地。"
+        },
+        {
+          "character": "孙乾",
+          "type": "白",
+          "text": "启禀主公：酒宴齐备。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "有请二爷、三爷。"
+        },
+        {
+          "character": "四蓝龙套",
+          "type": "同白",
+          "text": "有请二爷、三爷。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "内同白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "兄南弟北十二春，"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "喜得聚义在古城。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "参见大哥。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟、三弟少礼，请坐。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "谢座。唤弟等前来，有何事议论？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "想吾等弟兄，自徐州失散，一十二载，如今又得相聚，实为万千之幸。备得酒 宴，一来赏军，二来庆贺。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "多谢大哥。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "众将进帐！"
+        },
+        {
+          "character": "糜芳",
+          "type": "白",
+          "text": "众将进帐！"
+        },
+        {
+          "character": "四将、周仓",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、四马童、四将、周仓同上。"
+        },
+        {
+          "character": "四将、周仓",
+          "type": "同念",
+          "text": "弃暗投明主，共扶刘关张。"
+        },
+        {
+          "character": "四将、周仓",
+          "type": "同白",
+          "text": "参见使君，有何将令？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "备特设酒宴，庆贺三军。"
+        },
+        {
+          "character": "四将、周仓",
+          "type": "同白",
+          "text": "谢主公！"
+        },
+        {
+          "character": "孙乾",
+          "type": "白",
+          "text": "酒宴摆下！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "众位将军请！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥，看今日天气晴和，何不去到校场，大家演习兵法？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "就依三弟。众将官，同往校场去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同走圆场。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "三军的！先将拳术演来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四将、周仓同演毕。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "闪开了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞与四将同比武较量，四将不敌。"
+        },
+        {
+          "character": "张飞",
+          "type": "三笑",
+          "text": "哈哈，哈哈，呵哈哈哈！"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "啊！久闻三将军部下，步军齐整，今日一见，也只平常而已！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "住了！你有何能，出此狂言？"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "三将军若问，听某道来："
+        },
+        {
+          "character": "周仓",
+          "type": "念",
+          "text": "我本关西一员将，勇力过人镇疆场。平原展腿如飞箭，登山越岭似鹿獐。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "嗯！周元福，尔自逞步下能行，你可敢随某步行试马？"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "二将军！慢说是试马，就是登山涉水，足行如飞。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "好，周元福带马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、周仓同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "二弟上马威风凛， 周仓步行似风云。 耳旁又听雷声震， 黄沙四起马奔腾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上，周仓随上。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮散板",
+          "text": "好一关西猛周仓， 步行如飞世无双， 登山越岭如平路， 亚赛风云闪电光。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "元福步行如飞，勇不可当，好一员步行猛将！"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "君侯台爱！我情愿在名下认为螟蛉。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "这……某担当不起。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "君侯请勿推却。父侯请上，受儿一拜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。周仓叩拜。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "周仓！速回卧牛山，点齐兵将，同到古城。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周仓下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "众位将军！"
+        },
+        {
+          "character": "四将",
+          "type": "同白",
+          "text": "主公！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "汝等也有旧日的兵丁，也有新投将士，今后望诸位将军，协力相助桃园弟兄， 灭奸除恶，扶国救民。他日成功，大家均不失封侯之望。"
+        },
+        {
+          "character": "四将",
+          "type": "同白",
+          "text": "主公这等仁义，我等万死不辞。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我军真义气忠贤之士。众将官，各回队伍！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四家将、丑院子、关平同上。"
+        },
+        {
+          "character": "关平",
+          "type": "引子",
+          "text": "幼习孔孟，喜兵法，武艺精通。"
+        },
+        {
+          "character": "关平",
+          "type": "念",
+          "text": "少小男儿志凌云，文韬武略艺随身。自叹不逞平生志，何日才得会风云。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "俺，关平。爹爹关定，兄长关宁。是俺幼习孔孟，深通兵法，平生好武，每日 带领家丁在庄外西村演习武艺。看今日天气晴和，不免去到西村，演武一回。 家丁们，带马西村去者！"
+        },
+        {
+          "character": "关平",
+          "type": "唱",
+          "text": "平生志向除国患， 奈无机会显英贤， 家丁带路出庄院， 攀鞍催马快如烟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、吴赖、赫辖仁同上。"
+        },
+        {
+          "character": "吴赖、赫辖仁",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "吴赖",
+          "type": "白",
+          "text": "吴赖。"
+        },
+        {
+          "character": "赫辖仁",
+          "type": "白",
+          "text": "赫辖仁。"
+        },
+        {
+          "character": "吴赖",
+          "type": "白",
+          "text": "兄弟请啦！"
+        },
+        {
+          "character": "赫辖仁",
+          "type": "白",
+          "text": "请啦！"
+        },
+        {
+          "character": "吴赖",
+          "type": "白",
+          "text": "昨天关平这小子到咱们西村演武打拳，平整地方全都变成坑坑凹凹的啦。今天 他再来，咱们打这小子的！"
+        },
+        {
+          "character": "赫辖仁",
+          "type": "白",
+          "text": "有理。走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四家将、丑院子、关平同上。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "带住了马。演习上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四家将同演习完毕。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "哈哈，哈哈，哈哈哈哈！大家歇息歇息再走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、吴赖、赫辖仁同上。"
+        },
+        {
+          "character": "吴赖、赫辖仁",
+          "type": "同白",
+          "text": "呔！关平，你天天在我们西村胡蹦乱跳，凡是平整地方，都叫你砸坏啦。今天 饶了你，快快滚蛋。明天再来呀，教你吃不了兜着走！"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "啊？你是何人，在此絮絮叨叨，教俺听的不明不白。"
+        },
+        {
+          "character": "赫辖仁",
+          "type": "白",
+          "text": "你没听明白？教你小孩拉屎，挪挪窝儿。你要是不听，今天要子孙娘娘下厨房 揍活孩子！"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "吴赖",
+          "type": "白",
+          "text": "要揍你！"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "着打！一齐动手！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关宁、关定同上。"
+        },
+        {
+          "character": "关定",
+          "type": "西皮摇板",
+          "text": "可叹汉室运不正， 内患外寇不安宁； 但愿早日干戈静， 免遭涂炭得太平。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑院子上。"
+        },
+        {
+          "character": "丑院子",
+          "type": "白",
+          "text": "员外大事不好了！二公子在西村与人打起来啦！"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "有这等事？速速带路。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平、四家将、吴赖、赫辖仁、四下手同上，争打。关宁、关定、丑院子同上。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "嗯！大胆的奴才，如此无理非为！ 啊，众位乡邻，小儿关平无知，得罪列位，老汉这厢赔礼。"
+        },
+        {
+          "character": "吴赖",
+          "type": "白",
+          "text": "赔礼事小，您看我们这地都给砸坏啦。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "无妨，老汉明日找庄丁们前来收拾收拾。二位乡邻，多多原谅，我这里赔礼了。"
+        },
+        {
+          "character": "吴赖",
+          "type": "白",
+          "text": "老爷子，这是怎么啦？我们都是小孩子，打架过去就完，您干嘛这么客气，折 煞我们，您快请回去吧！"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "老汉拜别了！请啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关定、关宁、关平、四家将、丑院子同下。"
+        },
+        {
+          "character": "吴赖",
+          "type": "白",
+          "text": "这骂都挨绝啦！走吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴赖、赫辖仁、四下手同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": "关羽",
+          "type": "内高拨子导板",
+          "text": "紧勒丝缰阳关上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四马夫、大马夫、关羽同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "高拨子碰板",
+          "text": "弟兄们身经百战在疆场， 到如今古城相会心欢畅！ 平生抱负非寻常， 志气刚强把名扬， 跨下赤兔千里马， 青龙，青龙偃月斩上将， 凭俺，凭俺春秋一部书， 百战百胜驰疆场。 霎时乌云——"
+        },
+        {
+          "character": "关羽",
+          "type": "高拨子散板",
+          "text": "从空降，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "风雨大作。"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "急风骤雨袭身上。 紧急加鞭朝前往， 飞奔前村躲雨忙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关定上。关宁、关平同上。"
+        },
+        {
+          "character": "关定",
+          "type": "西皮散板",
+          "text": "霎时乌云来得紧， 老天降下雨甘霖。 手扶拐杖站庄门， 庄前来的是何人？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四马夫、大马夫、关羽同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "迎风冒雨路途奔， 见一老丈立庄门。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "那旁来的敢是斩颜良、诛文丑的关将军乎？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "正是。老丈怎样知我？"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "风雨甚大，将军请到草堂再叙。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "打扰了！"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "何出此言？关宁、关平，引关将军随从后面款待。"
+        },
+        {
+          "character": "关宁、关平",
+          "type": "同白",
+          "text": "随我来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关宁、关平、四马夫、大马夫同下。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "将军请坐。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "有座。冒造贵府，老丈恕罪！"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "岂敢。久闻将军威名，自恨无缘相遇。今日得会尊颜，真敝庄之幸也！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "关平打茶来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平上。"
+        },
+        {
+          "character": "关平",
+          "type": "念",
+          "text": "捧茶进草堂，偷视关二王。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "关将军请茶。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "老丈请。此是令郎吗？"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "不敢，次子关平。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "长者何名？"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "长子关宁喜文，次子关平好武。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "原来如此。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关宁上。"
+        },
+        {
+          "character": "关宁",
+          "type": "白",
+          "text": "启爹爹，酒宴齐备。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "关将军请至后堂小饮。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "叨扰了！请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "二弟游猎未回程， 倒叫刘备心不宁。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "昨日二弟带领随从数名，出城游猎，不想天降甘霖，未回古城，使吾一夜未宁。 适才闻报：二弟在关定庄中投宿。因此带领亲随兵丁，前往关定庄，接吾二 弟同回古城。 军士们！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "趱行者！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "汉刘备坐雕鞍自思自忖， 数年来为国家费尽精神； 东西征南北剿心血用尽， 到如今还是这奔波伶仃。 军士们前引路关庄投奔， 桃园义讲的是一片诚心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平、关宁、关定、关羽同上。"
+        },
+        {
+          "character": "关定",
+          "type": "西皮散板",
+          "text": "草舍陋公多原谅，"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮散板",
+          "text": "承公美意似孟尝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑院子上。"
+        },
+        {
+          "character": "丑院子",
+          "type": "白",
+          "text": "启员外：庄外来了一伙军官，说是由古城县来的，名叫刘备，迎请关将军，特 来报知。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某大哥来了！"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "一同出庄迎接。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、四龙套同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "家人通禀未回信，"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥！"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "玄德公！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "诸公何必礼相迎。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥！这是关定老翁。昨日遇雨投宿，承蒙老丈款待。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "关老先生，吾弟多有打扰，备这厢致谢！"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "贵驾光临，敝庄之幸也。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "关宁、关平",
+          "type": "同白",
+          "text": "参见使君。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "此二位？"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "长子关宁，次子关平。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二位相公请坐。"
+        },
+        {
+          "character": "关宁、关平",
+          "type": "同白",
+          "text": "不敢。长者在此，哪有我们小孩子的座位。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "有话叙谈，只管坐下。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "实实不敢坐。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "老丈，何妨叫公子坐下。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "还不上前谢过！"
+        },
+        {
+          "character": "关宁、关平",
+          "type": "同白",
+          "text": "晚生谢座！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "吾看二位公子，品格非凡。每日有何消遣？"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "长子习文，次子好武。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "壁上悬挂青锋，何人佩带？"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "晚生每日习演剑术。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "相烦公子，舞剑赐观。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "草堂狭小，请至后庭院。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "请君劳步，赏观赐教。请！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "公子宽衣赐教。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "献丑了！"
+        },
+        {
+          "character": "关平",
+          "type": "西皮散板",
+          "text": "习文好武平生愿， 誓心为国保家邦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平舞剑完。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "观此子好剑法绝妙可赏， 亚赛过养由基将中豪强； 关云长若能够收下此将， 扶汉室又一个架海金梁。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "公子好剑术！"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "夸奖了。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "啊！关将军，你也姓关，我也姓关。小儿关平，自幼好武，我有意命小儿，跟 随将军，学习武艺。不知将军可容纳否？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "公子年长几何？"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "一十八岁。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "蒙长者厚意。吾弟尚未有子，今即以贤令郎为子，不知老丈尊意如何？"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "哈哈哈！多承不弃。关平，拜过你父。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平拜。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "哈哈哈！请起。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "再拜过你伯父。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平拜。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请起。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "后堂摆宴，大家吃杯喜酒。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "这喜酒总是要吃的。"
+        },
+        {
+          "character": "关定",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报，曹操带领人马，直古城而来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同惊。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "速速回城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、关平、四龙套同急下。关定、关宁自上场门同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": "曹操",
+          "type": "内西皮导板",
+          "text": "战鼓喧天旌旗绕，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、许褚、张辽、李典、乐进、曹仁、曹洪、徐晃、夏侯惇引曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮流水板",
+          "text": "杀气连天神鬼嚎。 鞭梢一指催前哨， 城上儿郎听根苗： 快叫刘备城献了， 若迟一步定不饶。"
+        },
+        {
+          "character": "刘备",
+          "type": "内西皮导板",
+          "text": "耳边厢又听得马嘶人闹，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平、周仓、张飞、关羽、刘备同上城楼。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "看曹兵围古城状如海潮。 站城楼扶垛口忙把话表， 问曹公统雄兵所为哪条？"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮原板",
+          "text": "刘玄德休得要假装不晓， 问云长你不该斩我英豪。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮原板",
+          "text": "某挂印离京都你全知晓， 众守将阻去路某岂能饶？"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮原板",
+          "text": "关云长休得要饶舌乖巧， 速速地献城池免吃一刀。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "咋，咋，咋！哇呀呀呀！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮原板",
+          "text": "听一言来怒满膛， 活活气死俺老张。 三军快把吊桥放， 舍死忘生战一场。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "二弟保嫂与车辆， 大家奋勇到战场。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操下。开打。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、曹操同上。老军上，开城。曹操、四龙套进城同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关平、周仓、张飞、关羽同上，同打下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关平、周仓、张飞、关羽同败上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "兵撤古城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操、许褚、张辽、李典、乐进、曹仁、曹洪、徐晃、夏侯惇同上。"
+        },
+        {
+          "character": "许褚、张辽、李典、乐进、曹仁、曹洪、徐晃、夏侯惇",
+          "type": "同白",
+          "text": "桃园败走古城！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "人马收回！"
+        },
+        {
+          "character": "许褚、张辽、李典、乐进、曹仁、曹洪、徐晃、夏侯惇",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

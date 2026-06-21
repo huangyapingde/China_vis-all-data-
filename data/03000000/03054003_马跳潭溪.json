@@ -1,0 +1,1935 @@
+{
+  "script_id": "03054003",
+  "title": "马跳潭溪",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "刘表",
+      "hangdang": "老生"
+    },
+    {
+      "name": "蔡瑁",
+      "hangdang": "净"
+    },
+    {
+      "name": "蔡氏",
+      "hangdang": "旦"
+    },
+    {
+      "name": "赵云",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "蔡氏权重，拟立己子刘琮，废长子刘琦。刘表患之，请教刘备。刘备居馆驿，蔡瑁谋袭，经伊籍报信，刘备\n星夜奔新野。蔡瑁假托庆功，再邀刘备宴襄阳，筵前行刺未果。刘备伺机入厕，急出西门，马跳潭溪，幸免\n于难。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "光阴似箭催得紧， 分别不觉整一春。 玄德每日自思论， 只愁汉业一旦倾。 刘备但得一步稳， 必整汉室锦乾坤。 怎能除却曹奸佞， 玄德才称智谋人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家将同上。"
+        },
+        {
+          "character": "家将甲",
+          "type": "白",
+          "text": "启主公：荆州有书信前来，主公请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家将甲呈书。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "宗兄有书信到来，待我拆开观看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备看书。〖牌子〗。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦，原来宗兄请我议事。 来，对下书人言讲，说我随后就到。"
+        },
+        {
+          "character": "家将甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家将甲下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "来，带马伺候！"
+        },
+        {
+          "character": "家将乙",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家将乙带马。家将甲上。"
+        },
+        {
+          "character": "家将甲",
+          "type": "白",
+          "text": "启主公：小人吩咐下书人回往荆州去了。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "好，荆州去者！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "宗兄来了书和信， 必有军务大事情。 家将与爷带能行，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上马。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "去往荆州走一程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、二家将同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引刘表同上。"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "且喜干戈得宁静， 难解心中肺腑情。 命人去把玄德请， 心腹之事对他明。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监上。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "启主公：刘使君到。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "听说玄德到来临， 急忙出府来接迎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家将引刘备同上，二家将同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊宗兄！一向可好？"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "有劳承问！贤弟请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "刘表、刘备",
+          "type": "同笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "弟兄挽手府门进，"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请哪！"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "许久未见兄挂心。 人来将宴来摆定！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监摆酒。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "弟又要叨扰了哇，哈哈哈……"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "贤弟说远了，哈哈哈……贤弟请哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "兄长请！"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "待兄亲自把酒斟。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "弟不敢当了，哈哈哈……"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "贤弟请！"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "手擎酒杯把话论， 说与贤弟智谋人： 去岁劝孤攻许郡， 曹操不在去破城。 金石良言孤未允， 失却机会难再寻。 袁绍被曹遭灭尽， 招降数万精壮兵。 青、冀、幽、兖俱归顺， 班师回郡显奇能。 又差曹仁把兵领， 命他前来镇樊城。 眼看荆州被吞并， 请弟商量怎样行。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "机会错过休再等， 迟早不同自有因。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘表哭。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "兄长如何这光景， 为难之事向弟云。"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "贤弟既然再三问， 且听愚兄细言明： 荆妻陈氏早丧命， 至今留下一条根。 长子刘琦过柔性， 办理国事非贤能。 自从续娶你蔡氏嫂， 所生刘琮有雄心。 看他行事颇聪敏， 说出言语甚中听。 意欲立他秉国政， 又怕群臣心不平。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡氏暗上，偷听。"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "欲待立长按本礼， 内有事情颇难心。 将佐兵丁甚齐整， 执掌都是蔡家人。 掌管军务权衡重， 要想削除万不能！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘表哭。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "兄长，自古废长立幼乃取乱之道。若忧蔡氏权重，可削除之。不可溺爱幼子而 废长也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘表沉吟。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备哭。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "贤弟呀！"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "谁废谁主心不定， 不能取决故伤心。 贤弟因何珠泪滚， 请对为兄细说明。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "兄长既要听其情， 且听愚弟讲分明： 心中不爽添忧闷， 只为汉业一旦倾。 何时除却贼奸佞， 何人整理汉江洪。 刘备不觉白双鬓， 老将至矣功未成。"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "贤弟当初多侥幸， 你在许昌兄知闻。 青梅煮酒英雄论， 言语到今记得真。 能大能小亦能隐， 须要等待时机临。 此时求得身安稳， 纵横四海显奇能。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "那曹操昔年青梅煮酒论英雄时，曾问贤弟：“猜一猜天下英雄是谁？”贤弟答 言：“淮南袁术。”曹操说：“他乃塜中枯骨。”弟又言：“河北袁绍。”曹 操说：“色厉胆薄，好谋寡断，干大事而惜身，见小利而忘命，非英雄也！” 弟乃又问：“愚兄刘表，江东孙伯符，益州刘季玉，张绣、张鲁、韩遂等如何？ ”曹操彼时言到：“这些人皆算不了英雄。今天下之英雄，惟使君与操耳。” 以曹操之权力，犹不敢居贤弟之先，何愁功业不建乎！哈哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "宗兄，恨小弟如今无栖身之地。若有基业，天下碌碌之辈，诚不足虑也！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "君子之心能容忍， 大丈夫能屈也能伸。 小弟若能有天运， 立志整理旧乾坤。 现无居址空亡奔， 碌碌庸庸暂寄身。 龙逢浅水遭了困， 虎落平川怎能行！ 有朝一日春雷震， 轰轰烈烈显威名。"
+        },
+        {
+          "character": "刘表",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "言多语失不敢论， 默默无闻自思忖。 告辞回馆弟安寝，"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "兄送贤弟到府门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡氏暗下。二家将同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "告辞兄长跨鞍镫， 不觉红日向西沉。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家将同下，刘备下。"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "天下英雄属使君， 不禁腹内暗沉吟。 骨肉相逢谈不尽， 怎叫寰宇不三分？ 将身且把内室进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二宫娥引蔡氏自下场门同上。"
+        },
+        {
+          "character": "蔡氏",
+          "type": "唱",
+          "text": "急忙向前笑相迎。 主公请坐同坐定， 有语开言禀府君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡氏怒。"
+        },
+        {
+          "character": "蔡氏",
+          "type": "白",
+          "text": "主君，我想皇叔不过汉室宗支。自他进荆州以来，何相待如同骨肉一般！"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "蔡氏",
+          "type": "白",
+          "text": "常人言，他的仁义过天，四海闻名。适才妾在屏风后面听了半晌，原来传言失 真。对主公不思感恩报德，反讲大话压人！"
+        },
+        {
+          "character": "蔡氏",
+          "type": "唱",
+          "text": "带笑开言尊主君， 妾身拙言听分明： 当言不言缺恩爱， 没了你我夫妻情。 你待皇叔情意重， 可惜辜负一片心。 说什么他乃同宗姓， 同宗共祖一脉亲。 方才狂语欺太甚， 只知有己目无人。 要对旁人还可论， 不该在荆州乱胡云。 英雄之气他怎称？ 未必他心似我心。 相劝主公细思忖， 莫把皇叔当好人。 若不早把注意定， 将来为患定非轻！"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "唉，这是哪里说起！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘表摇头怒，急下。"
+        },
+        {
+          "character": "蔡氏",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "蔡氏",
+          "type": "唱",
+          "text": "越思越想越难忍，"
+        },
+        {
+          "character": "蔡氏",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "蔡氏",
+          "type": "唱",
+          "text": "快请蔡瑁进内厅！"
+        },
+        {
+          "character": "二宫娥",
+          "type": "同白",
+          "text": "有请蔡都督！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡瑁上。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "念",
+          "text": "要去心头恨，拔却眼中钉。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "啊贤妹！"
+        },
+        {
+          "character": "蔡氏",
+          "type": "白",
+          "text": "兄长请坐！"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "告坐。贤妹唤兄前来，有何事议？"
+        },
+        {
+          "character": "蔡氏",
+          "type": "白",
+          "text": "我想刘备虽然镇守新野，此人奸诈太甚，若不早除，将来荆州九郡付与他人。 刘备现在馆驿，不如及早害了刘备，荆襄可保。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "待我暗派五百精壮兵丁，今夜围困馆驿，哪怕刘备飞上天去！"
+        },
+        {
+          "character": "蔡氏",
+          "type": "白",
+          "text": "只要急速行事！"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "蔡氏",
+          "type": "念",
+          "text": "兄妹定下牢笼计，"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "念",
+          "text": "刘备难逃掌握中。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡氏、蔡瑁同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "刘备",
+          "type": "内二黄导板",
+          "text": "馆驿中打罢了初更十分，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家将引刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "因何故心不安坐卧不宁？ 白昼间言语失自悔自恨， 酒醉后透露了腹内真情。 想必是宗兄他心中怀恨， 怕的是那蔡氏暗中窃听。 刘景升若听信蔡氏讲论， 嫉妒妇搬是非波浪自生。 秉灯烛心烦闷难以安寝， 到天明别宗兄急早登程。"
+        },
+        {
+          "character": "伊籍",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊籍上。"
+        },
+        {
+          "character": "伊籍",
+          "type": "唱",
+          "text": "适才间众兵丁纷纷议论， 那蔡瑁设巧计起下毒心。 急忙忙到馆驿前来送信， 泄机关早叫那玄德逃生。"
+        },
+        {
+          "character": "伊籍",
+          "type": "白",
+          "text": "皇叔，快些开门来！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "耳听得有人声将门叩定，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备开门，看。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "原来是伊先生大驾光临。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦，伊先生，夤夜来至馆驿何事？"
+        },
+        {
+          "character": "伊籍",
+          "type": "白",
+          "text": "哎呀皇叔啊，大事不好了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "伊籍",
+          "type": "白",
+          "text": "今有蔡瑁派兵五百，来围馆驿，欲害皇叔。是我夤夜前来送信。皇叔急速起身； 若是迟慢，大祸临身！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "待等辞别景升。"
+        },
+        {
+          "character": "伊籍",
+          "type": "白",
+          "text": "皇叔若是辞别，必遭蔡瑁之害。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "多谢先生救命之恩！就此拜别！ 来，快些备马！"
+        },
+        {
+          "character": "二家将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "打开玉笼飞彩凤， 顿断金锁走蛟龙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家将、刘备同下。"
+        },
+        {
+          "character": "伊籍",
+          "type": "念",
+          "text": "恼恨蔡瑁贼奸佞，为何要害智谋人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊籍下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手、四将官引蔡瑁同上。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "俺，蔡瑁。我与贤妹定下稳军之计，去到馆驿捉拿刘备。天已四更。 众将官，馆驿去者！"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "来到馆驿。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "众将官，一半人马围住馆驿，一半人马打了进去。"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同挖门。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "上房搜来！"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四将官同搜。"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "上房无有。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "四下搜来！"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四将官同一翻、两翻。"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "并无刘备。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "起过了。 啊！想必走漏风声，连夜逃出城去。也罢！待我替他墙上写反诗一首。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡瑁写诗。〖牌子〗。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "等到天明，奏与主公知道。 众将官，兵至府前伺候！"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引刘表同上。"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "孤王有道荆州掌， 民安国泰乐安康。 扫灭二贼凯歌唱， 全仗桃园刘、关、张。 何惧孙曹齐反上， 怎当荆襄水军强。 桃园威镇多兴旺， 张鲁怎敢犯边疆！ 玄德足智韬略广， 子龙、关、张威名扬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手、四将官引蔡瑁同上。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "唱",
+          "text": "玄德逃出天罗网， 纵放猛虎上山岗。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "参见主公！"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "都督有何军情议论？"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "启主公：刘备有叛乱之意。在馆驿墙壁之上题了反诗四句，不辞而去！"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "孤王不信。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "主公不信，即请主公亲到馆驿观看，便知真假。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "好，孤亲去观看。 内侍摆驾，馆驿去者！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "遵旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场，同进馆驿。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "墙上现有诗句，主公请看！"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "待孤看来。唔呼呀！"
+        },
+        {
+          "character": "刘表",
+          "type": "念",
+          "text": "“数年徒守困，空对旧山川。龙岂池中物，乘雷欲上天！”"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘表怒。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "咳：誓杀无义之徒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘表悟省。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "哎呀，我与玄德相处，不曾见他作诗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘表背供。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "此必外人离间之计。唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘表按剑。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "待孤用剑尖削去此诗。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "启主公：军士俱已点齐，即往新野去擒玄德。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "呃！不可不可，慢慢商议。 内侍，带马回府！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监、刘表同下。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "且住！看主公迟疑不决，回府去了！哦呵有了，待我与妹子商议，正厅设宴， 其名“襄阳会宴”。暗中派军五百，埋伏两廊，就请刘备前来赴宴，席前杀之。 他若席前逃走，东北南三门俱有军卒五百把守，只有西门以外，有一道潭溪 阻路，料他插翅难以飞过潭溪。正是："
+        },
+        {
+          "character": "蔡瑁",
+          "type": "念",
+          "text": "我与妹子计议定，然后再奏主公知。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "众将官，带马回府！"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监同上，同站门。刘表上。"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "玄德与我同宗姓， 焉能题写反诗文？ 不辞而去新野奔， 叫人难信假和真？ 此事叫孤心忧闷，"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "刘表",
+          "type": "唱",
+          "text": "离间之计久自明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡瑁上。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "唱",
+          "text": "昨夜与妹把计定， 今日早朝奏主君。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "臣，蔡瑁参见主公千岁！"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "都督平身！"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "都督有何本奏？"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "臣启主公：自玄德征剿江夏回郡，未曾庆贺功臣。理当召集文武，襄阳设宴， 以示抚慰。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "孤气疾作痛，实实难忍，坐卧不宁，怎能筵宴群臣？可命刘琦、刘琮陪宴，如 孤一样。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "启主公：公子年幼，恐失于礼节。"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "这也言之有理。也罢！可往新野，请玄德为孤侍客。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "领旨。臣即差人去往新野，相请玄德公来荆州。请驾回宫！"
+        },
+        {
+          "character": "刘表",
+          "type": "白",
+          "text": "退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘表、四太监、大太监同下。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "正中某家之计也！"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "唱",
+          "text": "即速差人玄德请， 料他难逃计牢笼。 刘备中计迷不醒， 叫他还在梦寐中。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡瑁下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙乾、赵云、张飞、关羽、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "多亏伊籍来相告， 险些中了计笼牢。 自知失言语颠倒， 馆驿之内起风涛。 心中恼恨贼蔡瑁， 要害玄德为哪条？ 侥幸未中贼圈套， 细想此事甚蹊跷。 未得辞别兄刘表， 星夜乘马新野逃。 景升一定心着恼， 且听荆州信音耗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家将上。"
+        },
+        {
+          "character": "家将",
+          "type": "白",
+          "text": "启主公：荆州差人前来，相请主公去襄阳会宴。"
+        },
+        {
+          "character": "孙乾",
+          "type": "白",
+          "text": "昨日臣见主公星夜匆匆而回，意甚不乐。愚意度之，主公在荆州必有事故。今 请赴宴，不可轻往。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我在荆州与景升饮宴，酒后自知失言。哪想蔡瑁心中记恨，带兵围困。幸喜先 有伊籍先生前来泄机，是孤夤夜乘马逃回新野。今日请我赴会，想是蔡瑁暗设 巧计，也未可知。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "兄长自己疑心语失，刘荆州并无嗔怪之意。外人之言，不可轻信也！"
+        },
+        {
+          "character": "关羽",
+          "type": "唱",
+          "text": "口尊兄长脸带笑， 弟有一言听根苗： 若论荆州兄刘表， 相待兄长如同胞。 兄长自疑言颠倒， 莫把旁人记心梢。 有约不往惹人恼， 赴会焉能起祸苗？"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "二弟讲的兄方信， 所言不差句句真。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥呀！"
+        },
+        {
+          "character": "张飞",
+          "type": "唱",
+          "text": "大哥休听二哥论， 常言知面不知心。 虽然刘表同宗姓， 只恐旁人巧计生。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥，岂不知宴无好宴，会无好会？总是不去为妙！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟，愚兄若是不去，岂不叫他人看兄无有胆量！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "这个——"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "主公，俺赵云愿带领三百步兵保护主公前去，管保一路无事。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "既然如此，不可迟延，急速前往荆州赴会。贤弟即刻派兵，你一人保我前去。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "赵云",
+          "type": "念",
+          "text": "急选兵和将，保主赴襄阳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟、三弟，你二人后面饮酒，兄同子龙前往荆襄。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "大哥请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠、四下手、四将官、四文官、蔡瑁、张允、伊籍、蒯越、刘琦、刘琮同上。"
+        },
+        {
+          "character": "刘琦",
+          "type": "念",
+          "text": "摆齐御酒浆，文武赴襄阳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监上。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "启二位公子：新野刘使君到。"
+        },
+        {
+          "character": "刘琦",
+          "type": "白",
+          "text": "哦，刘皇叔到了。 众文武，一同出迎！"
+        },
+        {
+          "character": "蔡瑁、张允、伊籍、蒯越、四将官、四文官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四文堂、四上手、赵云引刘备同上，四文堂、四上手同下。"
+        },
+        {
+          "character": "刘琦、刘琮",
+          "type": "同白",
+          "text": "啊皇叔！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊二位公子！"
+        },
+        {
+          "character": "刘琦、刘琮",
+          "type": "同白",
+          "text": "皇叔请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二位贤侄请！"
+        },
+        {
+          "character": "刘琦、刘琮",
+          "type": "同白",
+          "text": "皇叔请上，侄男参拜。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二位贤侄少礼，请坐。"
+        },
+        {
+          "character": "刘琦、刘琮",
+          "type": "同白",
+          "text": "侄男告坐。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二位贤侄，为何不见你父王？"
+        },
+        {
+          "character": "刘琦、刘琮",
+          "type": "同白",
+          "text": "我父皇气疾发作，不能行动。特请皇叔在此待客。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "本不敢当此重任。既有兄命，不敢不从。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "启使君、二位公子：九郡四十二处文武官员俱已到齐。"
+        },
+        {
+          "character": "刘琦",
+          "type": "白",
+          "text": "看酒宴伺候！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘琦",
+          "type": "白",
+          "text": "皇叔请来上坐！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "备斗胆了哇，哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备中坐，刘琦、刘琮分两边坐，蔡瑁、张允、伊籍、蒯越、四将官、四文官依次两边坐。"
+        },
+        {
+          "character": "刘琦、刘琮",
+          "type": "同白",
+          "text": "皇叔请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二位贤侄请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、刘琦、刘琮、蔡瑁、张允、伊籍、蒯越、四将官、四文官同饮酒。〖牌子〗。文聘、王威同上。"
+        },
+        {
+          "character": "文聘、王威",
+          "type": "同白",
+          "text": "我二人相请赵将军外厅赴席。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "俺赵某此来，焉敢擅去饮酒！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "四弟只管前去，不必多疑。我宗兄相待恩重，料无别情。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "臣遵命！"
+        },
+        {
+          "character": "文聘、王威",
+          "type": "同白",
+          "text": "将军，随我二人来呀，哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文聘、王威、赵云同下。"
+        },
+        {
+          "character": "刘琦",
+          "type": "白",
+          "text": "皇叔请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "贤侄请！"
+        },
+        {
+          "character": "刘琮",
+          "type": "白",
+          "text": "众卿请！"
+        },
+        {
+          "character": "蔡瑁、张允、伊籍、蒯越、四将官、四文官",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、刘琦、刘琮、蔡瑁、张允、伊籍、蒯越、四将官、四文官同饮酒。〖牌子〗。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "启皇叔：我主吩咐，今日会集文武，有一人善舞双锤，席前献艺，为的是劝众 饮宴。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "如此甚好。叫他席前演习演习。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "遵命！ 吉成，席前舞锤！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吉成抱锤上。"
+        },
+        {
+          "character": "吉成",
+          "type": "白",
+          "text": "小人吉成叩头！"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "快些舞锤！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "下面演来！"
+        },
+        {
+          "character": "吉成",
+          "type": "白",
+          "text": "小人遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吉成舞锤。"
+        },
+        {
+          "character": "吉成",
+          "type": "唱",
+          "text": "小人即忙身站定， 席前舞锤门路分。 先拉四门慢慢舞， 次舞锤法紧又精。 上三路锤撒花盖顶， 下三路锤枯树盘根。 前三锤乌龙探爪舞， 后三锤黄龙三转身。 越耍越近步步紧， 相离刘备数步零。 耍着眼色心意狠， 手抡双锤下绝情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吉成打刘备，刘备惊，刘备拉刘琮挡。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "贤侄休怕，有为叔在此！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡瑁使眼色。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "唉，舞锤人退下！"
+        },
+        {
+          "character": "吉成",
+          "type": "白",
+          "text": "是！是！是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吉成下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "贤侄，随我这里来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备拉刘琮同下，伊籍随下，刘琦、张允、伊籍、蒯越、四将官、四文官自两边分下。蔡瑁恨。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡瑁下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备拉刘琮同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "公子在此等候，愚叔小解就回。"
+        },
+        {
+          "character": "刘琮",
+          "type": "白",
+          "text": "叔父，要快些来呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘琮下。刘备走圆场，伊籍上。伊籍低声。"
+        },
+        {
+          "character": "伊籍",
+          "type": "白",
+          "text": "皇叔啊，蔡瑁设计害君，城外东、南、北门三处，皆有兵马把守，只有西门可 走，请公即速逃去！我伊籍去也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊籍下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀，竟有这等事！待我寻马逃走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上马，走小圆场。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "鳌鱼脱去金钩钓， 摆尾摇头潜身逃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "场设城门。二兵丁同上，刘备上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "马来！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "刘备逃出天罗网， 犹如蛟龙下长江。 催马且把西门闯，"
+        },
+        {
+          "character": "二兵丁",
+          "type": "同白",
+          "text": "玄德公，要往哪里去？"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "并不答言抖丝缰。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备出城，下。"
+        },
+        {
+          "character": "兵丁甲",
+          "type": "白",
+          "text": "伙计，刘皇叔闯出西门，必有缘故。你我紧急报与蔡都督知道便了！"
+        },
+        {
+          "character": "兵丁乙",
+          "type": "白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二兵丁同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠、四下手、四将官、蔡瑁同上。〖急急风〗。二兵丁同上。"
+        },
+        {
+          "character": "二兵丁",
+          "type": "同白",
+          "text": "启都督：今有刘皇叔匹马单人闯出西门，我等阻拦不住，特来报知。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "知道了。与尔等无干。待我追赶擒拿，料他插翅难飞。 众将官！"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "往西门追赶！"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "唱",
+          "text": "闯出西门想逃生， 料他插翅难飞腾。 锤下未曾丧了命， 要想过溪万不能。 众将与我朝前赶， 捉住刘备除祸根。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备骑马上。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "锤下险些遭不幸， 多亏伊籍泄牢笼。 三弟劝孤孤不信， 幸有四弟赵子龙。 勒住丝缰来观定，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "水声。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "一道大溪横路中。 宽有半箭水势涌， 波浪滚滚甚是凶。 襄阳会上逃出命， 苍天哪！ 莫非溪水送了终？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊呀且住！无有摆渡船只，又无桥梁可过，俺意欲涉水而过，不知水的深浅？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊杀声。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀，看城内尘土飞空，无数追兵，看看追上。哎呀，此乃是天绝我也！天哪！ 苍天！我刘备倘能日后恢复旧业，重整江山，今日马跳潭溪，逃命过去；不 然只有死在水中，焉肯落在贼人之手也！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "此时叫我心忙乱， 好似钢刀把心穿。 溪河水势多凶险， 令人一见心胆寒。 襄阳邀请来赴宴， 谁知设下巧机关。 只望同心共扶汉， 心如日月义同天。 越思越想心好惨， 活活拆散我桃园。 纵马下溪催走战，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备三打马。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "波浪滔滔往上翻。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀，果应伊籍所说，此马妨主，此马不可骑也！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "此话今日方应验， 只恐性命难保全。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备三打马。"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "马跳潭溪身纵起， 恰似云雾一样般。 飞身一纵过西岸，"
+        },
+        {
+          "character": "刘备",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "跳过了潭溪回头观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠、四下手、四将官、蔡瑁同上。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "啊使君，请公作陪，抚慰群臣，何故逃席而去？岂不辜负我主公待公一片好心！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "将军哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "唱",
+          "text": "蔡将军不必假殷勤， 你自己做事自己明。 我与你无仇又无恨， 两次三番害我身。 你主待我多亲近， 刘备并无生异心。 还望将军细思忖， 谁是谁非谁不仁？ 不是逃席是逃命， 险些溪内丧残生。 请回不必多言论， 他年相逢再补情。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "备失陪了哇，哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "唱",
+          "text": "只见刘备他逃命， 众将拨马进西门。 本督马上传将令， 回转城中捉赵云。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手引赵云同上。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "马来！"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "适才外厅把酒饮， 只听一阵喊杀声。 保驾前来暗防定， 不敢贪杯加小心。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "且住！果然蔡瑁内有奸计，寻我主公不见。听说主公乘马向西门逃走，蔡瑁带 兵追赶。不免紧紧奔往西门去者！"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "手提银枪上白龙， 前去保驾莫消停。 追寻主公无踪影， 急往西门外面行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊杀声。"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "又听对面杀声起，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠、四下手、四将官、蔡瑁同上。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "蔡瑁带来许多兵。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "呔！蔡瑁看枪！"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "将军休要动手，有话请讲！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "蔡瑁，我主公哪里去了？"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "使君逃席而去。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "蔡瑁，我且问你，我主公赴宴，何故引着军马追来？"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "白",
+          "text": "将军，我奉主公之命，请皇叔作陪。二位公子不知事物，恐于礼有失，故此特 请皇叔款待文武，抚慰公卿，不知皇叔何故逃席而走！"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "唱",
+          "text": "相请皇叔来宴饮， 抚慰朝中武共文。 将军休要胡思论， 蔡瑁并无别的心。 俺在水军为头领， 上将之中我为尊。 四十二州人烟盛， 特带兵马来查城。"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "蔡瑁不必胡讲论， 谁问你这些闲事情？ 我主哪里把身定， 快快对俺早说明。"
+        },
+        {
+          "character": "蔡瑁",
+          "type": "唱",
+          "text": "适才我把军门问， 言说你主出西门。 蔡某随后赶来请， 至此不见你主君。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "听一言来吃一惊， 好叫赵云难解情。 为何到此无踪影？ 众军与爷四下寻。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠、四下手、四将官、蔡瑁同上同下。四文堂、四上手同找寻。"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "并无踪影。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "众将官，蔡瑁哪里去了？"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "已然进城。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "带门军上来！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同下。四上手押二兵丁同上。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "我主皇叔今在何处？快快讲来！"
+        },
+        {
+          "character": "二兵丁",
+          "type": "同白",
+          "text": "我们不敢撒谎。刘皇叔出了西门，我家的水军都督赶出城去啦。此乃句句实言。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "饶了尔等。去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二兵丁同下。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "众将官，追赶蔡瑁去者！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

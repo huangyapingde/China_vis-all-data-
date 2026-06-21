@@ -1,0 +1,876 @@
+{
+  "script_id": "70003116",
+  "title": "训弟",
+  "alias": [],
+  "source": "李洪春剧本选",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "马童",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "关羽斩了蔡阳，张飞羞愧难当，亲迎关羽入城，深夜前往请罪。关羽义责张飞，并历述为了保嫂寻兄，饱受\n千辛万苦。刘备也来为张飞求情，弟兄三人和好如初。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "引子",
+          "text": "天意困英雄，何日里，得会风云。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "东奔西驰路重重，南征北剿建立功。奸佞埋没平生愿，何日才得显英雄。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "刘备。桃园弟兄自徐州乱军失散，十有二载，幸得三弟，占了古城，是我脱离 袁绍营中，昨日来在古城。探马报道：二弟保嫂寻兄至此，三弟出城，去会二 弟去了。许久还不见到来。正是："
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "兄弟失散十二春，喜得重圆到古城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞上。"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "老张作事太鲁莽，不该城外刺云长。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎呀大哥呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你出城会见你二哥，为何这样回来？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "小弟在城外，言语之中，得罪我家二哥，求大哥替小弟在二哥面前讲个人情。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "想你我弟兄，徐州失散，今日幸得你二哥来到古城，你如此莽撞，得罪你二哥， 我呀，不管你的闲事！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎，桃园哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我看你实在可怜，向他讲个人情倒可，你要依我三件大事。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "这一？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "卸了甲胄，文职官员打扮。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "这二件？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "头顶香盘，迎接你二哥进城。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "这三件？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "跪在你二哥面前听他训教。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "小弟件件依从。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "好！快去改扮。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "旗牌！准备官袍带履，与二爷送去，就说备请他进城。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "悲喜交加心方稳，且候二弟叙衷情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童引关羽同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "这一阵只杀得某力尽气衰， 险些的二弟兄厮杀起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雁鸣声。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唔呼呀！原来大雁空中喧哗。当年我弟兄，在徐州失散，大雁空中喧哗，今日 古城相见，又来喧哗，真乃奇事也！"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "南来雁不住地当头叫， 只叫得关云长英雄心内好焦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同上。"
+        },
+        {
+          "character": "旗牌甲、旗牌乙",
+          "type": "同白",
+          "text": "哪位听事？"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "甚么人？"
+        },
+        {
+          "character": "旗牌甲、旗牌乙",
+          "type": "同白",
+          "text": "烦劳通禀，大爷差役求见。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "启二爷：大爷差人求见。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唤他们进来。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "是。我家二爷唤你们，小心了！"
+        },
+        {
+          "character": "旗牌甲、旗牌乙",
+          "type": "同白",
+          "text": "是。与二爷叩头。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "到此何事？"
+        },
+        {
+          "character": "旗牌甲、旗牌乙",
+          "type": "同白",
+          "text": "奉大爷之命，送来官袍带履，请二爷进城。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "看衣更换。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽换衣。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你二人先行回去，我随后即至。"
+        },
+        {
+          "character": "旗牌甲、旗牌乙",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "带路！"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "卸连环露出了绿袍甲胄， 大英雄今日里才得出头。 耳边厢又听得人声马吼，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内呐喊声。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "是何处军卒们吵闹所为何由？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "何处人马喧哗？"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "何处人马在此喧哗？"
+        },
+        {
+          "character": "龙套",
+          "type": "内白",
+          "text": "蔡阳人马，无处投奔，故而在此喧哗。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "启二爷：蔡阳人马在此喧哗。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "愿降者开名上册，不愿降者，各自散去。"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "教他们愿降者开名上册， 不愿意归降者赏银两， 叫他们各自逃生。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "蔡阳人马听者！愿归降者，开名上册，不愿归降者，各自逃生去吧。"
+        },
+        {
+          "character": "龙套",
+          "type": "内白",
+          "text": "我们散去了！"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "吩咐过了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、张飞同上。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "作什么的？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "古城县令，带令人役，迎接二爷进城！"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "候着！ 古城县令，带领人役，迎接二爷进城。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "不用，下去！"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "不用，下去！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "上跪，上跪！"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "他们跪上来了！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "打了下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童打张飞。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "狗仗人势！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞下，四青袍同随下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "带路！"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "军卒们将队伍且慢来摆， 关二爷一步一步儿走进了城来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童、关羽同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "弟兄重相见，枯木又逢春。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "二爷到。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上。马童随上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟！"
+        },
+        {
+          "character": "关羽、刘备",
+          "type": "同白",
+          "text": "（大哥）（二弟）呀！"
+        },
+        {
+          "character": "关羽、刘备",
+          "type": "同哭相思",
+          "text": "弟兄徐州曾失散， 今日古城又团圆。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "谢座。 马童，见过大爷。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "与大爷叩头。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "一路劳乏，歇息去吧。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "马童",
+          "type": "念",
+          "text": "行程多劳苦，今日才得安。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "看宴来，待我与二弟把盏。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "折煞小弟了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "看酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "傍妆台牌。刘备、关羽同入座。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟在曹营一十二载，怎样逃出龙潭虎穴？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "弟在曹营呵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侥侥令。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟请过来，受兄一拜。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "施礼为何？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "在曹营受尽千辛万苦，保护二嫂，兄这里谢过。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "份内之事，理当效劳。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "天时不早，安歇了吧！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥请便。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥！这个人情讲得怎么样了？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀呀！只顾与你二哥讲话，忘怀了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎呀！你怎么给忘了？好大哥，与小弟讲个人情去吧！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "看你的造化如何。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我的造化是不错的。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟请上，受兄一全礼！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "施全礼为何？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟在城外得罪二弟，少时跪在你的面前，替兄教导于他。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "小弟不敢。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "打也打得。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "小弟越发不敢。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "弟遵命！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "告便。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "请便。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "这个情讲得怎么样了？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你二哥性情不好，讲不下来，你自己去哀告去吧！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥随小弟一同进去。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "太罗嗦了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我又罗嗦了！自家兄弟，我怕的什么，待我自己进去。哎呀呀，我的腿它倒打 起战来了！老腿呀，老腿！你不要害怕，有你张三爷作主，待咱老张溜了进去。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唉，心中烦闷，待某看书解闷。"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "看古书看的是南北交战， 楚汉相争两国为难， 孙庞斗智均都是英雄汉，"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "似这样绝义厮杀，关某何须看它。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唉！想我在曹营一日，与二嫂三次问安，难道说，来到古城废却此礼不成？待 我去到后面，问候二位皇嫂金安。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "二哥！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "何人在此？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "燕人翼德张飞。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "我道何人，原来是张三爷！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "不敢，张飞，张飞！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "三将军！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "小三，小三！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "跪在尘埃，为了何事？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "得罪二哥，前来磕头赔礼。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "自己弟兄，何出此言。三弟快快请起。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好个有仁有义的二哥哥！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "嗯！好个张三爷，好个三将军！想当年，我弟兄有徐州失散，愚兄困于土山， 那曹操差去大将张辽，顺说愚兄降曹。兄宁死不降。皆因不知兄弟存亡，二嫂 失在下邳城中，无所依赖。兄万般无奈，与张辽约下三事，曹操件件应允。兄 自进曹营，那曹操三日一小宴，五日一大宴，上马献金，下马献银，赠袍赐马， 待兄十分恩厚。兄在曹营，无一日不思兄，无一日不想弟。只因兄奉曹操将 令，统领人马，攻打汝南，在阵前得遇孙乾先生，言道大哥已在河北袁绍军中。 此事未辨真假，恐其有诈，兄回至许昌，闷闷不乐。忽然大哥使陈震先生前 来下书，兄连辞曹操，回避高挂，不容相见。兄万般无奈，挂印封金，写柬辞 曹，保定二位皇嫂，过关斩将，远路而来。实指望来在古城，弟兄相见。三弟 见了愚兄，一言不发，提枪就刺。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二哥，你看我这一枪刺得好不好？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "哼，你这一枪刺得不关紧要，险些弟南兄北，各自东西。古城楼上，你赐我三 通战鼓，十名小卒，蒙天护佑，我斩了蔡阳。若是斩不了蔡阳，我的性命，断 送你手。哎呀，似你这样不讲情义之人，还有什么桃园义气？话已讲明，我要 回转蒲州去了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备暗上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀二弟呀！三弟跪在你的面前，慢说结拜弟兄，就是一母同胞，也不过如此。 你来看，兄也跪下了！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥！"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "大哥哥家住在大树楼桑， 小弟我家住在蒲州解良， 三兄弟家住有涿郡范阳， 仁兄弟均都是汉室栋梁。"
+        },
+        {
+          "character": "刘备、关羽、张飞",
+          "type": "同白",
+          "text": "望空一拜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "刘备、关羽、张飞",
+          "type": "同白",
+          "text": "正是："
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "桃园结拜义气同，乌牛白马祭苍空。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "徐州失散古城会，"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "二哥可算大英雄！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥是英雄。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟、三弟均是英雄。"
+        },
+        {
+          "character": "刘备、关羽、张飞",
+          "type": "同白",
+          "text": "啊，哈哈哈！请啊，哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞、关羽、刘备同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

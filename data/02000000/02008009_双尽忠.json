@@ -1,0 +1,1363 @@
+{
+  "script_id": "02008009",
+  "title": "双尽忠",
+  "alias": [],
+  "source": "《国剧大成》",
+  "characters": [
+    {
+      "name": "李广",
+      "hangdang": "老生"
+    },
+    {
+      "name": "朝臣甲",
+      "hangdang": "末"
+    },
+    {
+      "name": "朝臣乙",
+      "hangdang": "净"
+    },
+    {
+      "name": "朝臣丙",
+      "hangdang": "丑"
+    },
+    {
+      "name": "杨国贞",
+      "hangdang": "旦"
+    },
+    {
+      "name": "李广妻",
+      "hangdang": "旦"
+    },
+    {
+      "name": "李文妻",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "五代时周朝之李广（并非汉之李广），因功高封为奉命侯。奉旨出外放饷，公毕回朝。及抵皇城，城门紧闭，\n不准入内。询问护兵，始知系要斩正宫杨国真。李广大为惊讶。当既向护兵特别通融，得以入城。迳赴法\n场，与监斩官石彦龙交涉，要与国母杨国真面谈。石彦龙慑于李广威名，只好应允。杨国真乃将西凉不进贡，\n而进美人石美容，周义王宠幸，封为西宫，荒淫无度，不理朝政，入宫进谏，反诬为有意谋反，竟问斩刑\n云云。李广不得已，赴宫廷见周义王，力谏国母不能斩之原因，周义王不听，反将宝剑悬于午门。再有谏者，\n一同问罪。李广不得已，将其弟李文从校场找回，商议营救国母，毫无良策。其家将李福等，遂劝造反。\n最后李广为营救国母，乃先到法场，救出国母，并换刀杀死自己妻子，杀出皇城。中途李文中箭身亡。李广\n保护国母逃出后，途中遇虎冲散。杨国贞行至中途，腹痛难行，避至女娲庙内，产生太子。李广与国母失散\n后，遇半架山大王李刚，带领喽啰下山。交战之下，被李刚擒住，缚至山岗，预备作下酒之用。李刚之母闻\n知哭声，询问根由，发见李广即其丈夫之子，乃令李刚与李广相见。骨肉团圆，喜出望外。一日忽一乞婆带\n一幼子求见，即国母与皇太子。相离已整七年，李广于是奉命发兵，杀入庆阳时，周义王已死。乃由太子即\n位，李广封为一字并肩王，李刚封为太平侯云。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "好奸贼！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "他兄妹三人皇王宠， 常怀篡逆狗奸臣。 撩袍端带玉阶进， 两旁站立文武臣。 是奸臣一边哈哈笑， 忠良一边放悲声。 自古道忠良不怕死， 怕死岂保国母身？ 含悲忍泪上龙庭， 品级台上面圣君。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "臣，李广见驾，愿吾皇万岁！"
+        },
+        {
+          "character": "周义王",
+          "type": "内白",
+          "text": "卿家几时回京？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "今日回京。"
+        },
+        {
+          "character": "周义王",
+          "type": "内白",
+          "text": "散饷一事奏来。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "臣边外散饷，干戈宁靖，特来交旨。"
+        },
+        {
+          "character": "周义王",
+          "type": "内白",
+          "text": "好。卿家散饷有功，免一月不朝王见驾。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "臣还有本启奏。"
+        },
+        {
+          "character": "周义王",
+          "type": "内白",
+          "text": "有何本奏？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "杨国母身犯何罪，推出问斩？"
+        },
+        {
+          "character": "周义王",
+          "type": "内白",
+          "text": "她手执玉玺要将孤王打死，她要做一朝女王皇帝，故而斩首。 中国京剧戏考 《双尽忠》【三本】 2"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "臣启万岁：别家娘娘在朝，有三兄四弟，杨国母独自一人，要这江山何人所坐？ 万岁不要误听谗言。"
+        },
+        {
+          "character": "周义王",
+          "type": "内白",
+          "text": "想是她私通哪部大臣，也是有的。不必多奏，下殿。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "往日里奏本，本本准， 今日奏本王不听。 含羞带愧下龙庭， 只见圣谕面前存。"
+        },
+        {
+          "character": "李广",
+          "type": "念",
+          "text": "“父母遗体重，朝廷发怒言”。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "哎呀，圣上不准本章，不能保全国母性命，也罢。回府与母亲问安。正是："
+        },
+        {
+          "character": "李广",
+          "type": "念",
+          "text": "世人千般语，忠孝最为先。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "且住。想本爵不能保全国母，我的忠在何处？家中不能与母亲问安，我的孝在 哪里？也罢。我十大功劳不要，上殿保全国母便了！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "拚着生死上金殿， 二次保全国母身。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "哎哟，万岁吓！"
+        },
+        {
+          "character": "李广",
+          "type": "念",
+          "text": "堂堂七尺躯，紧防三寸舌。舌尖有龙泉，杀人不见血。 君听臣该死，父听子该灭。朋友听疏远，夫妻听离别。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "国母身怀有孕，龙凤不知，等分娩之后，再斩不迟。"
+        },
+        {
+          "character": "周义王",
+          "type": "内白",
+          "text": "内侍！有宝剑一口，悬挂午门。有人保奏，一同问罪。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "万岁爷宝剑挂午门， 眼见国母无救星。 迈步且把金殿下，"
+        },
+        {
+          "character": "二朝臣",
+          "type": "内同白",
+          "text": "李大人等着！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "朝房来了二老臣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朝臣甲上。"
+        },
+        {
+          "character": "朝臣甲",
+          "type": "唱",
+          "text": "国不正奸贼来弄权，"
+        },
+        {
+          "character": "朝臣乙",
+          "type": "唱",
+          "text": "家不幸逆子惹祸端。"
+        },
+        {
+          "character": "二朝臣",
+          "type": "同白",
+          "text": "李大人回来了？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "二朝臣",
+          "type": "同白",
+          "text": "少备夫马迎接，望乞恕罪。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "岂敢。二位伯父慌慌张张，为了何事？"
+        },
+        {
+          "character": "二朝臣",
+          "type": "同白",
+          "text": "国母犯罪，我等上殿保奏。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "好。二位伯父的本头，是侄男的本尾。"
+        },
+        {
+          "character": "二朝臣、李广",
+          "type": "同白",
+          "text": "请吓！"
+        },
+        {
+          "character": "朝臣甲",
+          "type": "唱",
+          "text": "自古道忠良不怕死，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朝臣甲下。"
+        },
+        {
+          "character": "朝臣乙",
+          "type": "唱",
+          "text": "又道是怕死岂忠臣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朝臣乙下。"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "二位伯父去保本， 但愿保全国母身。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二刀手押二朝臣同上。"
+        },
+        {
+          "character": "二朝臣",
+          "type": "同白",
+          "text": "哎呀，贤侄不好了，我二人保本，圣上大怒，将我二人推出问斩。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "二位伯父请上，受我一拜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广拜。二朝臣同哭下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "西宫院昏了周国君， 平白无事乱杀人。 李广正在为难处，"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "内白",
+          "text": "慢着。我来了！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "那旁来了年迈人。 中国京剧戏考 《双尽忠》【三本】 3"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朝臣丙上。"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "唱",
+          "text": "撩袍端带出朝房， 见了李广问端详。"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "白",
+          "text": "贤侄回来了？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "我道是谁，原来是老伯父。侄男有礼。"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "丑",
+          "text": "还礼。贤侄为何这等模样？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "伯父朝阁之事，难道伯父也不知么？"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "白",
+          "text": "我倒也知道。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "伯父既知道，就该上殿保本。"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "白",
+          "text": "贤侄说那里话来，方才二家老臣前去保本，自家把自家脑袋保掉了。你又叫我 去保本，你把我的吃饭家伙留一留罢。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "这等说来，伯父想是怕死？"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "白",
+          "text": "为人何不惜命。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "你既怕死。去罢。"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "白",
+          "text": "哎呀，哎呀，岂有此理！"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "唱",
+          "text": "叫声李广大不该， 我与你父把香摆。 今日没有说歹话， 为何打下我的纱帽来，不该，不该！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朝臣丙下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "吓，怕死的谗臣！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "在王驾前愿王兴， 食王爵禄报王恩。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "人头不要我去保本， 李广有罪奏主听！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "臣李广有十大汗马功劳不要，愿保国母不死。"
+        },
+        {
+          "character": "周义王",
+          "type": "内白",
+          "text": "李广，你还是忠臣，还是奸臣？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "臣是大大的忠臣。"
+        },
+        {
+          "character": "周义王",
+          "type": "内白",
+          "text": "既是忠臣，午门外设下油锅数口，你跳油锅不死，寡人准你本章。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "万岁一言出了唇， 想救国母万不能。 将身来在午门外， 只见油锅在面前存。 本待不把油锅下， 忠良名儿化灰尘。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "不要性命下油鼎，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李福上。"
+        },
+        {
+          "character": "李福",
+          "type": "唱",
+          "text": "大人还要三思行！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广、李福同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广、李福同上。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "老爷醒来！"
+        },
+        {
+          "character": "李广",
+          "type": "西皮导板",
+          "text": "适才在午门扑油鼎，"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "国母千岁，哎呀！国母吓。"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "未救国母险丧身。 手指奸贼高声骂，"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "奸贼吓，奸贼吓！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "眼见得国母无救星。 中国京剧戏考 《双尽忠》【三本】 4"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "李福。有请二老爷。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "吓，有请二老爷。"
+        },
+        {
+          "character": "李文",
+          "type": "内白",
+          "text": "二老爷不在府中，教场骑射去了。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "启爷：二老爷不在府中，教场骑射去了。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "李福。拿令箭吩咐一班传一班，传二老爷急速回府。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "一班传一班，传二老爷急速回府！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、李文同上。"
+        },
+        {
+          "character": "李文",
+          "type": "唱",
+          "text": "适才教场操兵将， 兄长的令箭鬼神忙。 哥哥边外去散饷， 想必是贼反要我定边疆。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "俺，李文。正在教场骑射，兄长传令唤我回府，不知为了何事。不免前去问个 明白。 兄长在上，小弟有礼。小弟有礼。 啊，想是兄长边外散饷回来，有莫大之功。小弟见礼，故此扬秋不睬，好不轻 视人也！"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "二老爷回府。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "你是李文贤弟？"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "你往哪里去了？"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "教场骑射去了。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "要他何用？"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "习学文武艺，好保帝王都。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "眼前国母有罪，怎么不上殿保本？"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "兄长为何不上殿保本？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "愚兄连保数本，险丧性命。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "却又来！兄长边外散饷，有莫大之功，圣上不准。小弟并无寸箭之功，是怎么 保本？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "贤弟请上，受我一托。"
+        },
+        {
+          "character": "李广",
+          "type": "扑灯娥",
+          "text": "贤弟请上受兄托，受兄托， 愚兄不愿在朝歌。 高堂老母你侍奉， 辞官不作落快乐。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "李文",
+          "type": "唱",
+          "text": "听言怒发三千丈， 太阳头上冒火光。 袍服脱在衣架上， 去到金殿打昏王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文下。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "二老爷上殿去了。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广、李福同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文上。"
+        },
+        {
+          "character": "李文",
+          "type": "唱",
+          "text": "昏王无道斩皇娘， 贼兄妹起意谋龙床。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李福、李广同上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "贤弟还要回去，定下一计，搭救皇娘便了。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "定要前去。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "贤弟若不回去，我就是……唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文、李广、李福同下。"
+        },
+        {
+          "character": "李广",
+          "type": "stage",
+          "text": "中国京剧戏考 《双尽忠》【三本】 5"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文、李广、李福同上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "苍天吓，苍天吓。国母犯罪不能保全，好不气气杀我也。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "李福，大老爷昏迷不醒，如何是好？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "小人有计。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "二爷与大老爷叙话，小的将大老爷的令箭盗来，逼众将造反。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "此计甚好。众将伺候。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "众将官，大堂伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众手下自两边分上。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "大哥，自古道君不正臣逃外国，父不慈子奔他乡。国母犯罪不能搭救，莫若反 了罢！"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "大老爷，二老爷，还是反的好！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李福拿令箭，众手下同下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "李福，有人造反，提头来见。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "有人造反，提头来见。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众手下同上。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "李福，大老爷不反，如何是好？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "大老爷不反，将他杀了。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "哪有弟杀兄的道理？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "不过是逼他造反。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "有理。"
+        },
+        {
+          "character": "李福、李文",
+          "type": "同白",
+          "text": "众将，逼大老爷造反。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "兄长还是反的好。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "李福",
+          "type": "福",
+          "text": "大老爷还是反的为妙。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "众手下",
+          "type": "同白",
+          "text": "反反反！"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "反反反！"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "反反反。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "反反反。贤弟。这是反得的？"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "反得的。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "反得高？"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "反得高。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "李福，这是反得的？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "反得的。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "反得妙？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "反得妙。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "罢罢罢！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "恼恨昏王莫来由， 苦苦要斩国母头。 李广造反心意就， 扶保国母向外投。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "二弟听令！"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "少时去到法场，先救国母回来，再作道理。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "回头！二弟，这是反得的？"
+        },
+        {
+          "character": "李文、李福",
+          "type": "同白",
+          "text": "这是反得的。 中国京剧戏考 《双尽忠》【三本】 6"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "反得高？"
+        },
+        {
+          "character": "李文、李福",
+          "type": "同白",
+          "text": "反得高。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "反得妙？"
+        },
+        {
+          "character": "李文、李福",
+          "type": "同白",
+          "text": "反得妙。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "反反反！李福，备马伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李福上，备马。李广、李文同上。"
+        },
+        {
+          "character": "李广",
+          "type": "念",
+          "text": "杀气腾腾贯九州，"
+        },
+        {
+          "character": "李文",
+          "type": "念",
+          "text": "汗马功劳一笔勾。"
+        },
+        {
+          "character": "李广",
+          "type": "念",
+          "text": "弟兄今日披甲冑，"
+        },
+        {
+          "character": "李文",
+          "type": "念",
+          "text": "不反庆阳誓不休。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "二弟听令：去到法场救国母回来，不得有误。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文下。李广下。李文、李福同上，石彦龙上，递。众手下同会阵，打两段。李福背杨国贞同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广上。"
+        },
+        {
+          "character": "李广",
+          "type": "念",
+          "text": "眼跳心惊，坐卧不宁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文、李福、杨国贞同上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "国母请至后面。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨国贞、李福同下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "二弟，那贼兵势如何？"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "犹如潮水一般。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "哎呀，贤弟。保了国母，难保家眷。保了家眷，难保国母。愚兄有心换刀杀……"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "杀什么？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "换刀杀妻，保全国母。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "小弟早有此心。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "好。请。 （李广、李文自两边分下。李广、李广妻同上，李广杀，同下。李文、李文妻同上，李文杀，同下。李广、 李广妻同上，李广杀，李广妻死，同下。李文、李文妻同上，李文杀，李文妻死，同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广、李文自两边分上。〖牌子〗。李福上。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "启二位老爷：太夫人坠楼而亡。"
+        },
+        {
+          "character": "李广、李文",
+          "type": "同白",
+          "text": "哎呀，不好了。带路！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文、李广、李福同下，李广、李文同上。"
+        },
+        {
+          "character": "李广、李文",
+          "type": "同白",
+          "text": "母亲，亲娘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "扫头。李福上，哭。"
+        },
+        {
+          "character": "李广、李文",
+          "type": "同白",
+          "text": "李福，你为什么啼哭？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "小人也把老婆杀了。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "好。忠在一家。李福，吩咐众将大堂伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众手下自两边分上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "有请国母。 中国京剧戏考 《双尽忠》【三本】 7"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨国贞上。"
+        },
+        {
+          "character": "杨国贞",
+          "type": "念",
+          "text": "用手捧起湘江水，难洗今朝满面羞。"
+        },
+        {
+          "character": "李广、李文",
+          "type": "同白",
+          "text": "参见国母。"
+        },
+        {
+          "character": "杨国贞",
+          "type": "白",
+          "text": "二卿平身。为何这等模样？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "我弟兄换刀杀妻，保全国母。"
+        },
+        {
+          "character": "杨国贞",
+          "type": "白",
+          "text": "真乃忠良也。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "兄长好好保定国母，待小弟与李福杀出皇城，再作道理。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "请国母上马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石彦龙、石彦虎同上，会阵，同起打。李福死，下。李广、杨国贞同上。〖牌子〗。李文上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "贤弟胜负如何？"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "大败而回。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "贤弟保了国母，待愚兄决一死战。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石彦龙、石彦虎同上，会阵，同起打。李文、杨国贞同上。〖牌子〗。李广上。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "兄长胜负如何？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "败下阵来。"
+        },
+        {
+          "character": "李文",
+          "type": "白",
+          "text": "看四门紧闭，如何得出皇城？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "贤弟。北门有一水闸，去那里托闸而过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文托闸。石彦龙、石彦虎、众弓箭手同上，众弓箭手同射李文，李文带箭杀下。"
+        },
+        {
+          "character": "石彦龙",
+          "type": "白",
+          "text": "提闸追赶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广、杨国贞同上。〖牌子〗。李文带箭上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "李文贤弟吓！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "一见贤弟带雕翎， 好似乱箭攒我的心。 哭声二弟难得应，"
+        },
+        {
+          "character": "李广",
+          "type": "西皮滚板",
+          "text": "我哭一声二弟，我叫一声李文！"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "你我弟兄在朝何等不好？ 为国母起下反心。 换刀杀妻保定国母， 谁知你今日身带刁翎。 我哭哭二弟，我叫叫李文！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众手下自两边分上，同抄下。李广两边望。"
+        },
+        {
+          "character": "杨国贞",
+          "type": "西皮导板",
+          "text": "适才李文带雕翎，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众手下自两边分上，同抄下。杨国贞两边望。"
+        },
+        {
+          "character": "杨国贞",
+          "type": "唱",
+          "text": "二卿倒在地埃尘。"
+        },
+        {
+          "character": "杨国贞",
+          "type": "西皮滚板",
+          "text": "我哭、哭李广，我叫、叫李文，"
+        },
+        {
+          "character": "杨国贞",
+          "type": "唱",
+          "text": "卿家为本宫丧了命， 你弟兄换刀杀妻好不伤情。 我骂贱人恨昏君， 叫李广，哭李文，二卿吓！"
+        },
+        {
+          "character": "杨国贞",
+          "type": "白",
+          "text": "卿家醒来。"
+        },
+        {
+          "character": "李广",
+          "type": "西皮导板",
+          "text": "为国亡家好伤情，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众手下自两边分上，同抄下。"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "请国母将我二弟封。"
+        },
+        {
+          "character": "杨国贞",
+          "type": "唱",
+          "text": "哀家身怀有了孕， 我封太子早降生。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "叩罢头来谢龙恩， 金枪刺地埋尸灵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广埋。石彦龙、石彦虎同上，同杀。杨国贞、李广同下。"
+        },
+        {
+          "character": "李广",
+          "type": "stage",
+          "text": "中国京剧戏考 《双尽忠》【三本】 8"
+        },
+        {
+          "character": "押旨官",
+          "type": "内白",
+          "text": "圣旨下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "押旨官上。"
+        },
+        {
+          "character": "押旨官",
+          "type": "白",
+          "text": "圣旨下跪：老王宴驾，娘娘有旨，请大国舅回朝议论国事。圣旨读罢，谢恩！"
+        },
+        {
+          "character": "石彦龙",
+          "type": "白",
+          "text": "千千岁！ 二弟听令：命你追赶他君臣回朝问罪。愚兄要坐一个逍遥自在皇帝。 带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石彦龙下。"
+        },
+        {
+          "character": "石彦虎",
+          "type": "白",
+          "text": "众将官追赶前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。石彦虎下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

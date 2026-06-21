@@ -1,0 +1,542 @@
+{
+  "script_id": "01023007",
+  "title": "百凉楼",
+  "alias": [
+    "兴隆会；一名：常遇春救驾；一名：乱石山"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "吴桢",
+      "hangdang": "外"
+    },
+    {
+      "name": "蒋忠",
+      "hangdang": "副净"
+    },
+    {
+      "name": "朱元璋",
+      "hangdang": "老生"
+    },
+    {
+      "name": "刘福通",
+      "hangdang": "净"
+    },
+    {
+      "name": "沐英",
+      "hangdang": "副净"
+    },
+    {
+      "name": "常遇春",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "按是剧为明太祖时事，似系本诸《英烈传》，然考其情节，又与《英烈传》不符。按说传第十一回，载滁阳\n王郭子兴既死，遗命归朱元璋统其师众，朱元璋仍拥立其子郭和为和阳王，而己则为开基侯。濠州孙德崖，\n自以为兵权应归其掌管，心殊愤愤不服。因伪请朱元璋赴宴，名兴隆会，议定于席中擒之。朱元璋窥知其意，\n虽阳为轻装赴宴，而暗中已设备矣。随往者为吴桢，而令胡大海往后策应。迨至中席，孙德崖命部下舞剑，\n以逼朱元璋，赖吴桢起与对舞，斩其部将，并挟孙德崖同行，以为吓制计，始得脱险出。既而孙德崖又率\n兵出追，卒被胡大海斩杀。",
+  "notes": "全段情节，仿佛汉高之赴鸿门宴，然说传中，始终未曾有常遇春同去接应之事，故其回目，只称为“兴隆会\n吴桢保驾”云云，盖确系吴桢之功也。今剧本中则作为刘福通请宴，而常遇春在外策应救驾，中间又多沐英\n来投一节，与说传中迥异。大抵以常遇春较为有名，故将此功移赠于常遇春云。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四番将、刘福通同上。"
+        },
+        {
+          "character": "刘福通",
+          "type": "念",
+          "text": "一边设下金钩钓，哪怕鱼儿不上钩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "启大王：明主驾到。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "摆队相迎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四大铠、吴桢、朱元璋同上。〖吹打〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四番将同出城，刘福通上，看，坐。四龙套、四大铠、吴桢、朱元璋同上。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "御弟！"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "皇兄！"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "御弟请。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "还是皇兄请。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "你我挽手而行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同入城，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠上。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "进得城来，不知我主哪里去了？看那厢老将军来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴桢上。"
+        },
+        {
+          "character": "吴桢",
+          "type": "白",
+          "text": "将军在此做甚？"
+        },
+        {
+          "character": "蒋忠",
+          "type": "白",
+          "text": "俺欲将战马拴在柳林，随同老将军前去保驾。"
+        },
+        {
+          "character": "吴桢",
+          "type": "白",
+          "text": "将军此言差矣！"
+        },
+        {
+          "character": "吴桢",
+          "type": "二黄摇板",
+          "text": "大将军说话欠思量， 大将无坐骑怎赴战场？ 望将军牵战马高坡上， 有老夫保圣驾料也无妨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴桢下。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "二黄摇板",
+          "text": "老将军秉忠心把国掌， 威风凛凛气刚强。 我这里且把山坡上， 准备战马再做主张。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四番将、四大铠、吴桢同上，刘福通扯朱元璋同上。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "御弟驾到，孤家未曾远迎，面前恕罪。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "岂敢，小弟来得卤莽，皇兄海涵。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "皇兄见召，必有所为。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "备得酒宴，要与御弟痛饮。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "到此就要叨扰。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "看宴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "来，舞剑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴通耍剑，刺朱元璋，吴桢踢吴通。"
+        },
+        {
+          "character": "吴桢",
+          "type": "白",
+          "text": "大胆！"
+        },
+        {
+          "character": "吴桢",
+          "type": "二黄摇板",
+          "text": "小番儿行事太狂妄， 擅敢在酒宴前刺杀君王。 事到如今无有话讲， 杀了那刘福通再做商量。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴桢砍刘福通，众人同拦，吴桢拉朱元璋同下，众人同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "放火。朱元璋上，烧，跑下。众人同上，跑圆场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠上，看两边。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "二黄摇板",
+          "text": "站立在坡前用目望， 又只见楼上放火光。 倘若是有人将吾主来挡， 今日里我定要血战沙场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱元璋上，烧。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "二黄摇板",
+          "text": "恼恨那刘福通贼奸党， 为何故放火焚烧百凉？ 四下里火焰起无处逃往， 怕的是君臣们难回朝堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱元璋倒。吴桢上，看两边，扶朱元璋起。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "二黄导板",
+          "text": "一霎时烧得孤三魂飘荡，"
+        },
+        {
+          "character": "朱元璋",
+          "type": "二黄摇板",
+          "text": "又只见老将军站立一旁。 我君臣今入了天罗地网，"
+        },
+        {
+          "character": "吴桢",
+          "type": "二黄摇板",
+          "text": "那贼兵好一似铁壁铜墙。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "二黄摇板",
+          "text": "老将军你一人怎能抵挡？"
+        },
+        {
+          "character": "吴桢",
+          "type": "二黄摇板",
+          "text": "但愿得大兵到转回朝堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒋忠上。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "二黄摇板",
+          "text": "牵战马来至在乱石岗上， 只见那老吴桢扶保吾王。 走向前请我主快把马上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱元璋上马，急下。"
+        },
+        {
+          "character": "蒋忠",
+          "type": "二黄摇板",
+          "text": "老将军与某家同赴战场。"
+        },
+        {
+          "character": "吴桢",
+          "type": "二黄摇板",
+          "text": "我这里提枪把马上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴桢夺旗内枪，上马。"
+        },
+        {
+          "character": "吴桢",
+          "type": "二黄摇板",
+          "text": "要与番贼动刀枪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴桢、蒋忠同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、沐英同上。"
+        },
+        {
+          "character": "沐英",
+          "type": "白",
+          "text": "俺，沐英。哪里有喊杀之声，登高一望。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "沐英上山。吴桢上，刘福通追上，开打，吴桢败下。蒋忠上，开打，众人同败下，蒋忠追下。"
+        },
+        {
+          "character": "沐英",
+          "type": "白",
+          "text": "乃是番兵与吾主交战，待我向前帮助便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、沐英同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、刘福通同上。"
+        },
+        {
+          "character": "刘福通",
+          "type": "白",
+          "text": "看那厮杀法厉害，来，弓箭手伺候！ （蒋忠上，四龙套同追上，同开打。刘福通败下，四龙套同追下。四弓箭手同上，埋伏。刘福通上，蒋忠追 上。四弓箭手同放箭，沐英上，救蒋忠同下。众人同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴桢、朱元璋同上，沐英背蒋忠同上。蒋忠哭。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "你是何人前来帮助？"
+        },
+        {
+          "character": "沐英",
+          "type": "白",
+          "text": "臣沐英，救驾来迟，万岁恕罪！"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "你敢么就是钱塘大汉沐英么？"
+        },
+        {
+          "character": "沐英",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "久已闻名，今日相逢，孤之幸也。保孤回朝，定有封赠。"
+        },
+        {
+          "character": "沐英",
+          "type": "白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引刘福通同上，朱元璋下。开打，吴桢、沐英同败下，众人同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四龙套、八将、常遇春同上。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "俺，常遇春。我主去赴兴隆大会，恐有不测，不免前去保驾便了。 众将官，杀上前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、刘福通同上，对阵，起打。八股荡连环，刘福通、四龙套同败下，常遇春、八将、四龙套同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、刘福通同上，同入城，关门。常遇春、八将、四龙套同追上。城内摇旗。常遇春三笑，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱元璋、吴桢、沐英同上。四龙套、八将、常遇春同上。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "臣，常遇春救驾来迟，吾主恕罪。"
+        },
+        {
+          "character": "朱元璋",
+          "type": "白",
+          "text": "卿之功也。一同回朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

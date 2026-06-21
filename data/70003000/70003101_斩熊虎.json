@@ -1,0 +1,1526 @@
+{
+  "script_id": "70003101",
+  "title": "斩熊虎",
+  "alias": [
+    "关公出世"
+  ],
+  "source": "李洪春剧本选",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "生"
+    },
+    {
+      "name": "熊虎",
+      "hangdang": "净"
+    },
+    {
+      "name": "张继昌",
+      "hangdang": "老生"
+    },
+    {
+      "name": "张鸾姣",
+      "hangdang": "旦"
+    },
+    {
+      "name": "苗信",
+      "hangdang": "丑"
+    },
+    {
+      "name": "熊祥",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "蒲州太守熊虎之子熊祥，勾结县令苗信，强占士人张继昌之女张鸾姣。关羽闻讯不平，去公堂辩理，打死恶\n霸熊祥，火焚衙署，劈监救出张鸾姣和所有犯人，逃至圣母庙。熊虎率众捕快追赶，火焚庙宇。关羽从火中\n冲出，在路旁小河净面，脸色变成丹红。时熊虎从后面追来，关羽劈死熊虎，逃奔范阳。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍抬礼物同上，四文官、四武官、苗信同上，站门。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "众位年兄、年弟请了。"
+        },
+        {
+          "character": "四文官、四武官",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "熊太守千秋之日，我们大家一同前去拜寿。"
+        },
+        {
+          "character": "四文官、四武官",
+          "type": "同白",
+          "text": "一同前往。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "开道，熊府去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊祥上。"
+        },
+        {
+          "character": "熊祥",
+          "type": "念",
+          "text": "吾父蒲州太守，仗势惯把人压。最喜美貌女姣娃，官府我都不怕。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "我，熊祥。今乃我父寿诞之日，本州大小官员，必定前来拜寿。我不免请爹爹 出来，与他老人家拜寿。 有请爹爹。"
+        },
+        {
+          "character": "熊虎",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊虎上。"
+        },
+        {
+          "character": "熊虎",
+          "type": "念",
+          "text": "老夫官居为太守，全凭势力压蒲州。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "爹爹请上，孩儿拜寿。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "生受你了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊福上。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "启禀太守：文武官员前来拜寿，礼单呈上。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍抬礼物同上，四文官、四武官、苗信同上。"
+        },
+        {
+          "character": "苗信、四文官、四武官",
+          "type": "同白",
+          "text": "太守请上，门生等拜访寿。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "不必拜了，哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊虎笑。众人同拜。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "酒宴摆下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。熊虎正坐，四文官、四武官分两边坐。〖牌子〗。众人同饮酒。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "再饮几杯。"
+        },
+        {
+          "character": "苗信、四文官、四武官",
+          "type": "同白",
+          "text": "我等告辞。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "送客。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四青袍、四文官、四武官、苗信同出门，同下。熊虎暗下。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "哎呀可完事啦。 熊福，我在家闷极啦。咱们爷儿俩，外边游玩游玩。福儿带路。"
+        },
+        {
+          "character": "熊祥",
+          "type": "唱",
+          "text": "主仆二人出府门， 寻找美貌女佳人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊祥、熊福同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "车夫、张鸾姣、张继昌同上。"
+        },
+        {
+          "character": "张继昌",
+          "type": "西皮摇板",
+          "text": "只因内弟身染病， 带领女儿去探亲。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "老汉张继昌。只因内弟身染病症，带领小女前去看望。幸喜内弟病休痊愈，回 转家中。 女儿，我们速速回去吧。"
+        },
+        {
+          "character": "张继昌",
+          "type": "西皮摇板",
+          "text": "心忙似箭往家奔——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊祥、熊福同上，熊祥看张鸾姣。张继昌、张鸾姣、车夫同下。"
+        },
+        {
+          "character": "熊祥",
+          "type": "西皮摇板",
+          "text": "这个女子动我心。 熊福带路回府门，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊祥、熊福同走圆场，同回家。"
+        },
+        {
+          "character": "熊祥",
+          "type": "西皮摇板",
+          "text": "你快想妙计娶佳人。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "大爷，您看上那个女子啦吧？"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "不错，你认识吗？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "那个老头子叫张继昌，就在前面大街居住。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "那么你就给我提这门亲事自怎么样？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "您放心，我一说就成。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "事成之后，重金赏赐。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "您听喜信吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊祥、熊福自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌、张鸾姣同上，同进门，张鸾姣下。院子自下场门上。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "家中可有人来访？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "无人来访。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊福上。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "门上有人吗？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "烦劳通禀一声：熊府管家求见。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "请稍待。 启禀员外：外面有熊府管家求见。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "我与熊府并无来往呀！好，请他进来。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "参见张员外。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "罢了。到此何事？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "恭喜员外，贺喜员外！"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "喜从何来？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "我奉熊府之命，前来向小姐求婚，与我家公子结为秦晋之好。您是一定不能推 辞啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌冷笑。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "嘿嘿嘿……熊府父子仗势欺人，人人愤恨，老汉是安善良民，岂肯与那万恶官 吏结亲。 家院，将他轰了出去！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌、院子同下。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "老小子，瞧着我的吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊福出门，走圆场，进门。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "有请公子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊祥上。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "回来啦，亲事成啦吧？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "把我骂回来啦。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "这真是给脸不要脸。你有什么好主意，把那小妞弄到手才好？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "这事好办。咱们造一张假字据，上写“张继昌借银三千两，限期三月归还。三 个月不还，情愿将女儿送上熊府为妾。空口无凭，立字为证。”拿着这张假字 据，到县衙去求苗老爷作主，苗知县是老太爷的门生，一定替您办好这件美事。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "好，好！你就快写去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊福下。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "好妙计也！"
+        },
+        {
+          "character": "熊祥",
+          "type": "西皮散板",
+          "text": "满口扯谎摇舌剑， 尽将假话作真言。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊福上。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "写好啦。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "带路县衙走走！"
+        },
+        {
+          "character": "熊祥",
+          "type": "西皮散板",
+          "text": "见机而行随机变， 花言巧语胡乱谈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊祥、熊福同走圆场，到县衙。"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "哪位听事？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子上。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "熊公子求见。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "请稍候。 禀老爷：熊公子求见。"
+        },
+        {
+          "character": "苗信",
+          "type": "内白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苗信上，迎熊祥同进。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "师兄请坐。"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "有座。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "师兄驾临，有何见教？"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "有人欺诈小弟，这有字据一张，请师兄作主。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苗信接过字据，看。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "岂有此理！这还了得！ 传捕快前来。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "捕快进见。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四捕快同上。"
+        },
+        {
+          "character": "四捕快",
+          "type": "同白",
+          "text": "太爷有何吩咐？"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "你等随同熊公子，将张继昌女儿拿来听审！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊祥、熊福、四捕快同下。苗信暗下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌、张鸾姣同上。"
+        },
+        {
+          "character": "张继昌",
+          "type": "念",
+          "text": "收拾俱停当，"
+        },
+        {
+          "character": "张鸾姣",
+          "type": "念",
+          "text": "避祸奔他乡。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "儿啊，那熊府说亲不成必来肇事。你我赶快他乡躲祸去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四捕快、熊福、熊祥同上。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "你们是作什么的？"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "你借我的银子，还我不还？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "你们熊府欺人忒甚，哪个借你的银子？"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "不与你多说，咱们堂上说去，把他女儿带走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四捕快、熊福带张鸾姣同下。张继昌揪熊祥，被熊祥推倒。熊祥下。张继昌追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、苗信同上。四捕快带张鸾姣同上。"
+        },
+        {
+          "character": "张鸾姣",
+          "type": "白",
+          "text": "叩见太爷。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "你是张继昌的女儿吗？"
+        },
+        {
+          "character": "张鸾姣",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "你父借熊府三千两银子，不能偿还，将你送上熊府，你知道吧？"
+        },
+        {
+          "character": "张鸾姣",
+          "type": "白",
+          "text": "无有此事啊。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "什么无有此事！ 来呀，传女禁卒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁婆上。"
+        },
+        {
+          "character": "禁婆",
+          "type": "白",
+          "text": "伺候老爷。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "将此女带去收监。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁婆对张鸾姣。"
+        },
+        {
+          "character": "禁婆",
+          "type": "白",
+          "text": "随我走吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁婆押张鸾姣同下。张继昌上。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "冤枉！"
+        },
+        {
+          "character": "青袍",
+          "type": "白",
+          "text": "有人喊冤。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "上堂回话。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "与太爷叩头。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "你叫什么名字？有什么冤枉？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "小人张继昌，只因太守公子将我女儿抢来，求太爷作主。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "胡说！你欠熊府银子，还来喊冤哪！"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "我不曾借他的银两！"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "有你亲笔写的借约，你还敢强辩！"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "把借约拿来我看。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "你看？你要给扯啦哪！我在上面念，你在下边听：“立借约人张继昌，今借到 熊府银三千两，言明三月后，连本带利一并归还。如若无银归还，情愿将女儿 送上熊府为妾。空口无凭，立字为证。”这是假的吗？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "哎呀，太爷呀！实实无有此事。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "哈哈，这么大岁数耍无赖呀。 来呀，与我乱棍打出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同轰打张继昌。苗信退堂下。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "好狗官哪！"
+        },
+        {
+          "character": "张继昌",
+          "type": "西皮摇板",
+          "text": "狗赃官行事令人恨， 他官官相护欺良民。"
+        },
+        {
+          "character": "张继昌",
+          "type": "叫头",
+          "text": "好王法呀！好王法！"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "熊祥这贼串通狗官将我女儿押入监中，将我打……下堂来。这……也罢！拚着 我的老命不要，上告于他。我就是这个主意，我就是这个主意。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": "关羽",
+          "type": "内白",
+          "text": "嗯哼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "咳，困煞英雄也！"
+        },
+        {
+          "character": "关羽",
+          "type": "新水令",
+          "text": "风尘埋没俺英雄， 二十年一场春梦。 徒有凌云志， 奈机缘未逢。 这宝刀要尔何用？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内吵嚷声。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "听那厢争吵！"
+        },
+        {
+          "character": "关羽",
+          "type": "新水令",
+          "text": "这一伙痴迷汉子， 也不顾国家兴亡， 每日里吵吵喧嚷， 实不愧狂生样。 行过了十字街前， 且到那酒肆中沽饮佳酿。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "来此酒馆，待俺沽饮几杯。酒家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "念",
+          "text": "隔壁三家醉，开坛十里香。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "关大爷，您吃酒来啦！请到里面，上座眼亮。您今天吃什么酒？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "好酒取来。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是啦。 伙计，好酒一壶。 酒到，我给您斟上，您请用吧。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "好酒。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "多年的老酒啦。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "好酒。酒家，我来问你，适才大街之上，有许多人吵嚷喧哗，为了何事？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "咳，只因那熊太守之子熊祥，在大街上抢夺民女……"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "啊，清平世界，朗朗乾坤，擅抢民女，难道他就不怕王法么？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "什么王法！蒲州大小官员都是熊太守的门生。他们是官官相护啊！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "反了哇，反了！"
+        },
+        {
+          "character": "关羽",
+          "type": "新水令",
+          "text": "清平世界，竟出这恶霸土棍， 他倚仗势力欺人， 这官府也不理事。 恼恨不平，恼恨不平。 俺一怒除尽狂佞。"
+        },
+        {
+          "character": "张继昌",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌上。"
+        },
+        {
+          "character": "张继昌",
+          "type": "西皮摇板",
+          "text": "年纪迈血气衰路途难奔， 走得我喘吁吁冷汗淋淋。 似这样不平事哪里去论……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌倒地。酒保上前扶起。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "反了哇，反了！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "张大爷，您这是怎么啦？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "哎呀，小哥呀！可恨熊太守之子，将我女儿抢去了！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "您不会去告他吗？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "哎呀，小哥呀！大小衙门与他父子均有来往，我上得堂去，不容分说，将我打 下堂来，叫我何处去告，何处去诉哇……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌哭。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "咱本县有一位关大爷，好打不平，您怎么不去求他去？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "此人住在何处？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "巧啦，在我这里面吃酒哪。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "小哥带我进去求他。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "随我来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌、酒保同进门。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "这位就是关大爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌向关羽。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "哎呀爷爷呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌叩头。关羽搀起张继昌。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "起来，起来！老头儿，你家住哪里，姓甚名谁，为了何事，如此悲痛？慢慢讲 来。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "小老儿名叫张继昌，就是蒲州解良人氏。只因熊太守之子名叫熊祥，将我女儿 抢去……"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "啊，清平世界，擅抢民女，你为何不去告他？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "哎呀，关大爷呀！大小衙门与他均有来往，我上堂去，不容分说，将我打下堂 来。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "嗯……我有心带你前去击鼓鸣冤，你意如何？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "哎呀，关大爷呀！若蒙救出我的女儿，慢说是小老儿，就是我那张氏祖先，也 是感恩非浅。请上受我一拜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌叩头。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌站起。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "唉，女儿呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌哭。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "老头儿，你不要哭。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "女儿呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌哭。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "呔，老头儿休得啼哭。喘息定了，领俺前往。 酒家，酒钱上账。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽拉张继昌同走圆场，下场门击鼓。四青袍、捕快甲、熊福、熊祥、苗信同上。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "何人击鼓？"
+        },
+        {
+          "character": "捕快甲",
+          "type": "白",
+          "text": "张继昌。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "张继昌上堂回话。"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "与老爷叩头。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "哈哈，又是你。来，扯下去打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上堂。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "那一大汉，你上得堂来，因何拦阻动刑？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "我来问你，张继昌身犯何罪，将他扯去要打？"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "他欠熊府的银子不还。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "有何为证？"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "有借约为证。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "拿来我看。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "你看——要是扯啦哪？我念你听：“立借约人张继昌，今借到熊府银子三千两， 言明三月后，连本带利一并归还，如若无银归还，情愿将女儿送上熊府为妾。 空口无凭，立字为证。”这还是什么假的吗？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "张继昌，你借了熊府的银两，立有借约，怎说是冤枉？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "那借约乃是假的！小老怀中尚有亲书字柬一张，关大爷一对字迹，便知真假。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌将字柬交与关羽。关羽取过借约对字迹。"
+        },
+        {
+          "character": "关羽",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈……"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "太爷你看，这两张字样不同，分明熊府诬赖好人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽扯碎字据。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "唗，真假与你什么相干。 来，打他！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "住了！你可知：路不平，要人铲；话不公，有人论。想你乃民之父母，不与百 姓平冤，反倒助强为恶。似你这样糊涂的官儿，岂不臭名万代，骂名千载！"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "哎呀呀，师兄啊，你这件事倒是真是假呀？"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "这个——我问问他去。 呔，那一大汉，你是个什么东西，敢多管闲事！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "啊，你是何人，敢在此多言？"
+        },
+        {
+          "character": "熊祥",
+          "type": "白",
+          "text": "我就是熊太守之子，你少爷熊祥在此。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽扭住熊祥。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "熊祥贼子！你父子仗势欺人，今日遇见俺关云长，你休想活命，招打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽打死熊祥，熊福跪下。苗信惊。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "啊呀，快快将熊公子尸首抬了下去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍抬熊祥同下。熊福随下。"
+        },
+        {
+          "character": "苗信",
+          "type": "白",
+          "text": "唗，大胆狂徒，打死熊公子，哪里容得。 来呀，将大汉与我拿下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。关羽杀死苗信、捕快甲、四青袍。关羽对张继昌。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你的女儿现在何处？"
+        },
+        {
+          "character": "张继昌",
+          "type": "白",
+          "text": "囚入监中。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "随俺来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张继昌同走圆场，关羽劈监，四男犯人同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你们逃命去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四男犯人同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "女监看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张继昌同走圆场，关羽劈监，三女犯人扶张鸾姣同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你们快快去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三女犯人同下。张鸾姣见张继昌。"
+        },
+        {
+          "character": "张鸾姣",
+          "type": "白",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你父女逃走了吧。"
+        },
+        {
+          "character": "张继昌、张鸾姣",
+          "type": "同白",
+          "text": "恩公请上，受我父女一拜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张继昌、张鸾姣同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "待俺火焚衙署。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽放火。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "此祸闯的不小，待俺逃走了吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。熊虎上。"
+        },
+        {
+          "character": "熊虎",
+          "type": "念",
+          "text": "每日饮酒取乐，哪替国家耽忧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、熊福抬熊祥同上。熊虎惊。"
+        },
+        {
+          "character": "熊虎",
+          "type": "哭",
+          "text": "哎呀儿啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "公子因何而死？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "被一大汉打死。那一汉子名叫关云长。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "走的可远？"
+        },
+        {
+          "character": "熊福",
+          "type": "白",
+          "text": "走的不远。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "各执兵器，追拿行凶之人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。关羽上，前栽、后坐、甩髯，往前搓步。关羽看。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "来此已是圣母庙，圣母庙。待俺进庙藏躲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽进庙。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "哎呀圣母啊！保佑弟子脱了此难，异日到此，重修庙宇，塑画金身！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽拜。四兵引熊虎同上。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "且住，追到此处，那大汉因何不见？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "熊虎看庙。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "想是藏在庙内。来呀，放火焚庙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵同放火。关羽从火中冲出。"
+        },
+        {
+          "character": "关羽",
+          "type": "小上楼",
+          "text": "霹雳震，烈火焚， 烟雾弥漫，闪光磷。 倒教俺无处存身， 倒教俺无处存身， 奋雄威急忙脱险境， 奋雄威抖擞精神远飞腾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽冲出庙门，熊虎用剑砍关羽，被关羽托住。"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "呔！你可是关云长？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "正是。汝乃何人？"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "老夫熊虎。打死我儿可是你？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "关大爷与民除害。熊虎，你父子仗势欺人，擅抢民女，无恶不做。今日遇见关 某，就是尔的对头到了！"
+        },
+        {
+          "character": "熊虎",
+          "type": "白",
+          "text": "好个大胆狂徒！ 来呀，拿下了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵同开打，关羽杀四兵。熊虎欲逃，被关羽杀死。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "且住，冲出火围，杀却赃官，一路行来，只觉口内焦渴！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽看。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "那旁有一清泉，待我净面饮水。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽用手捧水净面、饮水，向清泉看，照见脸色变红。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "哎呀妙哇！霎时脸变丹红，想是圣母助俺逃脱关隘盘阻之危！待俺一拜。此祸 闯的不小，俺不免投奔范阳避祸便了！"
+        },
+        {
+          "character": "关羽",
+          "type": "沽美酒",
+          "text": "恨赃官，横征敛， 霸庄田，欺良善， 抢夺民女胆包天， 俺今日与民除患， 斩熊虎其祸匪浅！ 哎呀—— 清泉水，容颜变， 蒙圣母法力指点， 俺呵—— 奔范阳投效军前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽亮相。〖尾声〗。关羽下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

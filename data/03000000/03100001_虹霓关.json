@@ -1,0 +1,1827 @@
+{
+  "script_id": "03100001",
+  "title": "虹霓关",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "秦秀英",
+      "hangdang": "旦"
+    },
+    {
+      "name": "王伯当",
+      "hangdang": "小生"
+    },
+    {
+      "name": "辛文礼",
+      "hangdang": "净"
+    },
+    {
+      "name": "秦琼",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "瓦岗秦琼挂帅，攻打虹霓关。守将辛文礼拒战，为秦琼先锋王伯当射死。辛文礼妻秦秀英，替夫报仇，生擒\n王伯当。因慕其英俊，遂改嫁王伯当归顺瓦岗。",
+  "notes": "此本系清朝咸丰七年钞本。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐国远、尤俊达、程咬金、单雄信同上，同起霸。"
+        },
+        {
+          "character": "齐国远",
+          "type": "念",
+          "text": "齐心协力聚瓦岗，"
+        },
+        {
+          "character": "尤俊达",
+          "type": "念",
+          "text": "打劫皇纲惹祸殃。"
+        },
+        {
+          "character": "程咬金",
+          "type": "念",
+          "text": "上阵全凭宣花斧，"
+        },
+        {
+          "character": "单雄信",
+          "type": "念",
+          "text": "扶保李密西魏王，"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "齐国远",
+          "type": "白",
+          "text": "齐国远。"
+        },
+        {
+          "character": "尤俊达",
+          "type": "白",
+          "text": "尤俊达。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "程咬金。"
+        },
+        {
+          "character": "卑雄信",
+          "type": "白",
+          "text": "单雄信。"
+        },
+        {
+          "character": "齐国远",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "尤俊达、程咬金、单雄信",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "齐国远",
+          "type": "白",
+          "text": "元帅升帐，两厢伺候。"
+        },
+        {
+          "character": "尤俊达、程咬金、单雄信",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四大铠引秦琼同上。〖点绛唇〗。"
+        },
+        {
+          "character": "秦琼",
+          "type": "念",
+          "text": "威风凛凛镇瓦岗，马壮兵精个个强！将令一出山摇动，扶保李密西魏王。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "本帅、秦琼。李密驾下为臣。可恨辛文礼，每日操兵练将，要剿灭瓦岗。西魏 王拜我为帅，领兵对敌。今乃黄道吉日，正好兴兵。 众位贤弟，人马可齐？"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信",
+          "type": "同白",
+          "text": "俱已齐备。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "人马发往虹霓关！"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖玉芙蓉〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "念",
+          "text": "打探军情事，名为夜不收。日间藏草内，晚来过荒丘。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "俺、能行探子是也。打听瓦岗拜秦琼为帅，攻打虹霓关。就此回关报与元帅知 道！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手引辛文礼同上。〖粉蝶儿〗。"
+        },
+        {
+          "character": "辛文礼",
+          "type": "念",
+          "text": "镇守虹霓威四方，贼寇不敢犯边疆。隋主驾前为上将，率领精兵定家邦。"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "本帅、辛文礼。隋朝炀帝驾前为臣，官拜虹霓关总镇。可恨瓦岗作乱，本帅日 夜操练兵马，定要剿灭贼寇，保我隋朝天下。这且不言。昨晚三更时分，偶得 一梦，只见斗大红星，从东南角而起，忽喇喇落向西北海底。某家醒来，浑身 是汗，不知主何吉凶。为此今日全身披挂，升坐大帐，看看有何军情。 来，伺候了！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "念",
+          "text": "上马銮铃响，下马报军情。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报：探子吿进！帅爷在上，探子叩头！"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "打听哪路军情？一一报来！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "帅爷容禀："
+        },
+        {
+          "character": "报子",
+          "type": "念",
+          "text": "探子领将令，四路探军情。打听瓦岗事，贼寇发来兵。 秦琼拜帅印，伯当为先行。帅爷发人马，开关退贼兵。"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "他的兵势如何？"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "帅爷容禀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖江儿水〗。"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "赏你银牌一面，再去打探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "谢帅爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "且住！瓦岗拜秦琼为帅。我想此人攻无不取，战无不胜，只恐此关有失。 来，转堂！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手同下。院子暗上。"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "来，请夫人！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请夫人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。秦秀英上，丫鬟随上。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "念",
+          "text": "夫主镇边疆，皇家一栋梁。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "王爷！"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "夫人！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "妾身有礼！"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "夫人少礼，请坐！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英坐。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "王爷为何愁眉不展？"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "夫人有所不知，今有瓦岗拜秦琼为帅，攻打虹霓关。我想此人攻无不取，战无 不胜，因此烦闷。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "王爷，妾身颇知兵法，何惧小小瓦岗！"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "夫人言得极是。我想此番出兵，胜负未定。倘若战死沙场，为国尽忠，理所当 然；只恐夫人效那贾氏之故耳！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "听一言来心自惊， 尊声王爷听详情： 我若有三心并二意， 愿对苍天把誓盟。"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "但凭夫人！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "秦秀英下跪把誓盟， 祝吿空中过往神： 我若有三心并二意， 三尺青锋丧奴身！"
+        },
+        {
+          "character": "辛文礼",
+          "type": "白",
+          "text": "夫人请起！"
+        },
+        {
+          "character": "辛文礼",
+          "type": "唱",
+          "text": "听一言来自思忖， 不由本帅喜在心。 夫人且把二堂进——"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英下，丫鬟随下。四龙套、四下手同暗上。"
+        },
+        {
+          "character": "辛文礼",
+          "type": "唱",
+          "text": "回言叫声众三军。 本帅今日把兵进， 各个争先显奇能。 传令已毕跨金镫，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "下手甲带马，辛文礼上马。"
+        },
+        {
+          "character": "辛文礼",
+          "type": "唱",
+          "text": "要把那瓦岗一扫平！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四大铠、齐国远、尤俊达、程咬金、单雄信、秦琼同上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "历城曾为英雄首， 赫赫威名冠九州。 我与杨林结仇扣， 夜打登州血水流。 众家英雄将我救， 豪杰一怒上山头。 扶保李密自为首， 虹霓关前统貔貅。 将身且坐宝帐口， 且听探马报从头。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "辛文礼讨战！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "且住！辛文礼讨战，岂肯容他猖狂？ 众位贤弟，杀向前去！"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信",
+          "type": "同白",
+          "text": "啊！ （秦琼下，四龙套、四大铠、齐国远、尤俊达、程咬金、单雄信同走圆场。辛文礼、四龙套、四下手同上， 会阵，同起打。齐国远、尤俊达、程咬金、单雄信、四龙套、四大铠同败下。辛文礼、四龙套、四下手同追 下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手推车同上，同站斜门。王伯当上。"
+        },
+        {
+          "character": "王伯当",
+          "type": "唱",
+          "text": "山寨领了魏王令， 解押粮草回大营。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "俺、王伯当。奉了魏王将令，解押粮草，军前应用。 众将官，趱行者！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "王伯当",
+          "type": "唱",
+          "text": "豪杰催马往前进——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内呐喊声〗。"
+        },
+        {
+          "character": "王伯当",
+          "type": "唱",
+          "text": "何处人马乱纷纷！"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "且住！何处人马呐喊？ 众将官，高坡一望！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！ （齐国远、尤俊达、程咬金、单雄信同败上，辛文礼、四龙套、四大铠同追上，同起打。齐国远、尤俊达、 程咬金、单雄信同败下，辛文礼、四龙套、四大铠同追下。）"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "啊！前面败的众家英雄，后面追的辛文礼。俺今不救，等待谁来！ 众将官，将粮草搭过一边！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！ （齐国远、尤俊达、程咬金、单雄信同上，辛文礼、四龙套、四下手同上，同起打。齐国远、尤俊达、程咬 金、单雄信同败下。王伯当接打。王伯当、四上手同败下，辛文礼、四龙套、四下手同追下。王伯当、四上 手同上。）"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "辛文礼来得厉害。 众将官把粮草转在中途，挡他去路！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！ （四上手同推车挡路。齐国远、尤俊达、程咬金、单雄信引辛文礼同上，同起打。齐国远、尤俊达、程咬金、 单雄信同下。王伯当上，接打，败下。辛文礼挑粮车，杀四上手死，追下。齐国远、尤俊达、程咬金、单 雄信同败上，王伯当随上。）"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信",
+          "type": "同白",
+          "text": "王贤弟，辛文礼杀法厉害，如何是好？"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "众位仁兄不必惊慌。他若追来，小弟用神箭伤他便了！"
+        },
+        {
+          "character": "辛文礼",
+          "type": "内白",
+          "text": "哪里走！ （辛文礼上，起打。齐国远、尤俊达、程咬金、单雄信同败，王伯当射箭，辛文礼带箭。四龙套同上，搀辛 文礼同下。）"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信、王伯当",
+          "type": "同三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟引秦秀英同上。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "念",
+          "text": "王爷去出兵，未见转回营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子急上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "启夫人：王爷被王伯当一箭射死了！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英昏倒。"
+        },
+        {
+          "character": "院子、丫鬟",
+          "type": "同白",
+          "text": "夫人醒来！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "西皮导板",
+          "text": "听说王爷丧了命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英醒。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "三叫头",
+          "text": "王爷！我夫！喂呀夫啊！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "不由奴家两泪倾。 王爷英灵归天境，"
+        },
+        {
+          "character": "秦秀英",
+          "type": "哭头",
+          "text": "喂呀王爷呀！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "定把贼子一扫平！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子暗下。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "丫鬟，传令下去：吩咐大小将官，全身披挂，大堂听点！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英下。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "下面听者：夫人有令，大小将官，全身披挂，大堂听点！"
+        },
+        {
+          "character": "韩龙、韩虎",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙、韩虎同上，同起霸。"
+        },
+        {
+          "character": "韩龙",
+          "type": "念",
+          "text": "凛凛威风勇，腾腾杀气高。"
+        },
+        {
+          "character": "韩虎",
+          "type": "念",
+          "text": "玲珑护心甲，日照紫罗袍。"
+        },
+        {
+          "character": "韩龙、韩虎",
+          "type": "同白",
+          "text": "俺、（韩龙）（韩虎）。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "韩虎",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "夫人发兵，在此伺候。"
+        },
+        {
+          "character": "韩虎",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "内西皮导板",
+          "text": "全身披挂似秋霜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手同上，秦秀英孝服上。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "为夫报仇上战场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。场设灵牌，众人同祭灵。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "三叫头",
+          "text": "王爷，夫主，夫啊！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "秦秀英在灵前悲声大放， 哭一声去世夫细听端详： 可叹你半生来东奔西闯， 可叹你为皇家受尽了风霜， 可叹你秉忠心沙场命丧， 可叹你汗马功劳无有下场。 望王爷在天灵神威保佑，"
+        },
+        {
+          "character": "秦秀英",
+          "type": "哭头",
+          "text": "喂呀我的夫啊！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "保佑妻灭贼寇大败瓦岗！"
+        },
+        {
+          "character": "韩龙、韩虎",
+          "type": "同白",
+          "text": "参见夫人！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "站立两厢，听我吩咐。今日出兵，非比往常，一来为国家报效，二来与主帅报 仇。向前者有功有赏，退后者斩首营门！尔等要奋勇杀敌！"
+        },
+        {
+          "character": "韩龙、韩虎、四龙套、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、韩龙、韩虎同下。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "王爷！我夫！罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐国远上，秦秀英、韩龙、韩虎、四龙套、四下手同上，同会阵。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "来的敢是王伯当？"
+        },
+        {
+          "character": "齐国远",
+          "type": "白",
+          "text": "齐国远！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英、齐国远同起打，齐国远败下。尤俊达上。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "来的敢是王伯当？"
+        },
+        {
+          "character": "尤俊达",
+          "type": "白",
+          "text": "尤俊达！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英、尤俊达同起打，尤俊达败下。单雄信上。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "来的敢是王伯当？"
+        },
+        {
+          "character": "单雄信",
+          "type": "白",
+          "text": "单雄信！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英、单雄信同起打，单雄信败下。程咬金上。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "咦！"
+        },
+        {
+          "character": "程咬金",
+          "type": "唱",
+          "text": "白盔白甲桃花马， 怎么杀出一个花不拉！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "来的敢是王伯当？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金背供。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "这个婆娘，来一个，她也问是不是王伯当，来俩，她也问是不是王伯当。哦， 是啦！想是她被那王贤弟杀怕了。想俺老程，乃堂堂大将，岂肯充那娃娃的名 字？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金向秦秀英。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "呔！老子程咬金，看斧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英、程咬金同起打，程咬金败。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "这个婆娘，我杀你不过，咱们回头见！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金跑下，秦秀英追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯当、四上手同上。"
+        },
+        {
+          "character": "王伯当",
+          "type": "唱",
+          "text": "众家英雄去出兵， 且候探马报军情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐国远、尤俊达、单雄信、程咬金同上。"
+        },
+        {
+          "character": "齐国远、尤俊达、单雄信、程咬金",
+          "type": "同白",
+          "text": "王贤弟，秦秀英杀法厉害，单要贤弟出马。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "啊！单要小弟出马？众家哥弟，一同杀上前去！"
+        },
+        {
+          "character": "齐国远、尤俊达、单雄信、程咬金",
+          "type": "同白",
+          "text": "啊！ （王伯当、齐国远、尤俊达、单雄信、程咬金、四上手同走圆场。秦秀英、韩龙、韩虎、四龙套、四下手同 上，同会阵。）"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "来的敢是王伯当？"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "老爷便是！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "两阵交锋对垒，为何暗箭伤人，将我丈夫射死？俺今日定要生擒你这匹夫，碎 尸万段，与我丈夫报仇。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "两军阵前，枪杀刀斩，各尽所能。箭射又待何妨？"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "休得多言，看枪！"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "劝你早早收兵，将关献上，饶尔不死；如若不然，杀进关去，悔之晚矣！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "阵头上闪出了白袍小将， 不由奴秦秀英心意彷徨。 赛韦驮缺少那降魔杵杖， 赛吕布缺少那画戟长枪。 勒住了马丝缰好言奉上， 尊一声小将军细听端详： 你若是弃瓦岗将我归降， 愿与你做夫妻地久天长。"
+        },
+        {
+          "character": "王伯当",
+          "type": "唱",
+          "text": "老爷本是英雄将， 岂肯与你配鸾凰！ （秦秀英、王伯当同起打，秦秀英、韩龙、韩虎、四龙套、四下手同败下，王伯当、齐国远、尤俊达、单雄 韩虎同上，同擒王伯当。）"
+        },
+        {
+          "character": "信、程咬金、四上手同追下。秦秀英上，王伯当上，同起打。秦秀英挑王伯当下马。四龙套、四下手、韩龙、韩龙、韩虎、四龙套、四下手",
+          "type": "同白",
+          "text": "王伯当被擒。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "绑回大营！"
+        },
+        {
+          "character": "韩龙、韩虎、四龙套、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英、韩龙、韩虎、四龙套、四下手押王伯当同上。"
+        },
+        {
+          "character": "韩龙、韩虎",
+          "type": "同白",
+          "text": "众将叩头！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "请起！"
+        },
+        {
+          "character": "韩龙、韩虎",
+          "type": "同白",
+          "text": "谢夫人！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "将王伯当绑上来！"
+        },
+        {
+          "character": "韩龙、韩虎",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙、韩虎同推王伯当上堂。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "唗！大胆王伯当，见了夫人，为何不跪？"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "呀呀呸！你老爷乃堂堂大将，岂能跪你！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "这个！将他囚在后营！"
+        },
+        {
+          "character": "韩龙、韩虎",
+          "type": "同白",
+          "text": "夫人，擒来王伯当理应与王爷报仇，将他囚在后营，是何道理？"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "这个！掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩秀英下。"
+        },
+        {
+          "character": "韩龙、韩虎",
+          "type": "同白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙、韩虎、四龙套、四下手押王伯当同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐国远、尤俊达、程咬金、单雄信同上。"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信",
+          "type": "同唱",
+          "text": "你我齐把元帅请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、四龙套、四大铠同上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "众将慌忙为何情？"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信",
+          "type": "同白",
+          "text": "启元帅：王贤弟被擒！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎呀不好了！"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "听说擒去王伯当， 不由本帅着了慌。 众位贤弟把马上！"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、齐国远、尤俊达、程咬金、单雄信同上马。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "有何脸面见魏王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、韩虎同上。"
+        },
+        {
+          "character": "韩虎",
+          "type": "唱",
+          "text": "王爷阵前把命丧， 夫人二次摆战场。 众将齐把敌楼上， 观看瓦岗众儿郞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、齐国远、尤俊达、程咬金、单雄信、四龙套、四大铠同上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "来在城下勒丝缰， 城上儿郞听端详： 方才擒去王伯当， 千万不可把他伤。 你若放出王伯当， 本帅收兵回瓦岗； 你若杀了王伯当， 将你城池踏平阳！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "韩龙",
+          "type": "唱",
+          "text": "贼子说话忒猖狂， 且听老爷说端详： 要我放出王伯当， 除非是我家老爷又还阳！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "贼子出言忒无状， 气得秦琼怒满膛。 众位贤弟把城上， 管敎贼子一命亡！"
+        },
+        {
+          "character": "韩龙",
+          "type": "唱",
+          "text": "滚木擂石朝下打！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同打滚木擂石，秦琼、齐国远、尤俊达、程咬金、单雄信、四龙套、四大铠同下。"
+        },
+        {
+          "character": "韩龙",
+          "type": "唱",
+          "text": "瓦岗儿郞跑慌忙。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "众将官，把守城池，待俺禀明夫人知道！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、齐国远、尤俊达、程咬金、单雄信、四龙套、四大铠同上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎呀且住！不想那贼用滚木擂石打将下来，不是本帅马走如飞，险遭毒手。这 便怎么处？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "元帅不必惊慌，小弟有计献上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "有何妙计？快快讲来！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "元帅即传将令，将他城池团团围住，叫他们不能出入，饿也饿死那些囚娘养的！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "此计甚妙，照计而行！"
+        },
+        {
+          "character": "齐国远、尤俊达、程咬金、单雄信、四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、齐国远、尤俊达、程咬金、单雄信、四龙套、四大铠同围城，同抄下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英上，丫鬟随上。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "喂呀王爷呀！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "叹夫君阵前把命丧， 奴家夜夜守空房。 擒来小将王伯当， 怎奈他性傲不肯降。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "奴家、秦秀英。那日出兵，擒来王伯当，看他像貌堂堂、人才出众，意欲将终 身托付于他，怎奈我不好出口。一时口内焦渴。 丫鬟，取茶来！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟下。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "本当前去向他言明，又恐众将谈论，此事叫我好为难也！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "柔肠百转无计想， 怎能与他配鸾凰。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "好个王伯当啊，好个王伯当！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟端茶上。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "茶到。夫人，众将问道，王伯当死不投降，怎样发落？"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "将他押了上来。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟向内。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "将王伯当押了上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手押王伯当同上。四下手同暗下。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "胆大王伯当，见了夫人，为何不跪？"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "住了！你老爷堂堂大将，岂肯跪你？要杀开刀，何必多言！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人，此贼这等猖狂，何不将他杀死，与我家王爷报仇雪恨哪？"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "不要你管，夫人自有主见。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人有何主见？"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "不要你管。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我就不管。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "王将军，想你在瓦岗有何好处？听我相劝，归顺奴家，我将关内大事，付你执 掌，将军你意下如何？"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "住了！若要老爷归降，除非日从西起！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "哎呀呀，糊涂的东西，气死我也！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人，这贼竟敢如此，将他杀了，与王爷报仇！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "如此，看刀来！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟取刀。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "刀到。夫人杀呀！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "唱",
+          "text": "三番两次来劝降， 反出恶言把人伤。 手执钢刀将你斩， 管叫你一命见阎王。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人杀呀！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "我杀！我杀！我杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英掉刀。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "啊！掉下来了。夫人不杀。待我来——"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "嗯！住手！这与你什么相干？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "唱",
+          "text": "小丫鬟心暗想， 背转身来自思量： 王爷阵前把命丧， 夫人报仇到战场。 观看伯当容貌好， 心想成亲配鸾凰。 回头我把好言讲， 尊声夫人听端详： 不幸王爷把命丧， 夫人怎能守空房？ 我看伯当英雄将，"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "唱",
+          "text": "堪与夫人配成双。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "待我前去说合。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "你若说成此事，重重有赏。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "当得效劳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟向王伯当。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "啊王将军，你要好好想想，你在瓦岗有什么好处？若是归顺夫人——"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "讲得好啊！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "成就亲事，将关中大事付你执掌。你若不从，将你一刀两断，岂不失了一世英 名？将军，你要再思呀再想！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "难为你了，说得好！"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "王伯当",
+          "type": "唱",
+          "text": "听罢言来心不定， 背转身来自思忖： 倘若再三不应允， 打量性命活不成。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "即蒙夫人见爱，我应允就是。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "待我松绑。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "唉！待我亲自松绑。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人要亲自松绑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英与王伯当松绑。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "将军受惊了！"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "夫人，小将乃山野村夫，怎敢髙攀？"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "奴家情愿，何必推辞！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人，今乃良辰吉日，就拜花烛吧！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "看衣更换！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英、王伯当同换衣。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人看您头上。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "呃！拜堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。王伯当、秦秀英同拜堂。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "喂呀王爷呀！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人不要哭了，看那个好脑袋吧！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "啐！怎么讲话！看酒！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟摆酒。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "将军请！"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "夫人请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯当、秦秀英同饮酒。〖牌子〗。韩龙上。"
+        },
+        {
+          "character": "韩龙",
+          "type": "念",
+          "text": "忙将瓦岗事，报与夫人知。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "启夫人：今有瓦岗贼——"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "咳!"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "讲！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "瓦岗贼子前来讨战，请夫人定夺。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "唗！今乃夫人大喜之日，你敢在此胡言乱语？ 来，将他推出斩了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同暗上，四下手推韩龙同下。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "做什么？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "你该与他讲个人情啊！"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "是呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯当向内。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "刀下留人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王伯当向秦秀英。"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "啊夫人，今乃良辰吉日，斩了此人，只恐花烛不利。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "新姑爷讲情，是要准的。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "如此将他放回来！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟向内。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "将韩将军放回来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手押韩龙同上。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "谢夫人不斩之恩！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "哪里是不斩于尔？此乃新姑老爷讲情。死罪已免，活罪难容，将他扯下去重责 四十！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同打韩龙。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "一十！二十！三十！四十！打完。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "起过！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "谢夫人的责！"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "往后有事无事，不许进我的后堂。 将他赶了下去！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "出去。你真糊涂！他们俩人如今是——你这不是讨打吗！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "哦，哦！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "再打四十，也不多吧。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "是，是，是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙下。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "请入洞房。"
+        },
+        {
+          "character": "秦秀英",
+          "type": "白",
+          "text": "将军请！"
+        },
+        {
+          "character": "王伯当",
+          "type": "白",
+          "text": "来了。"
+        },
+        {
+          "character": "秦秀英、王伯当",
+          "type": "同笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦秀英、王伯当同下。〖尾声〗。四下手、丫鬟同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

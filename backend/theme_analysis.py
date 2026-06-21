@@ -253,7 +253,7 @@ def main():
     script_texts = {}
     scene_texts = defaultdict(list)
 
-    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "*.json"))):
+    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "**/*.json"), recursive=True)):
         with open(fpath, "r", encoding="utf-8") as f:
             s = json.load(f)
         scripts.append(s)

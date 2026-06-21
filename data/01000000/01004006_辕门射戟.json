@@ -1,0 +1,1404 @@
+{
+  "script_id": "01004006",
+  "title": "辕门射戟",
+  "alias": [
+    "夺小沛"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "吕布",
+      "hangdang": "小生"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    },
+    {
+      "name": "纪灵",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "刘备屯军小沛，袁绍从长史杨大将先擒刘备，后图吕布之议，遣纪灵率雷、陈二将往攻之，恐吕布援备，一\n面又令韩胤赍书往徐州，馈送粮米于布，冀吕布绝刘备。时刘备尚力弱，势不克敌袁绍，闻讯大惊。遂与关\n羽、张费、孙乾等，商议御纪灵之策。关、张等请与背城一战，刘备不敢。乃从孙乾计，修书与吕布乞援。\n吕布得袁、刘二书，颇左右难。既而熟权与己之利害关系，遂决计暗助刘备，不令袁军南下得势。因折柬激\n纪灵至，设筵为之排解。刘备得书，尚未知其命意，迳率关、张赴宴。张飞本鲁莽，席间殊傲睨轻吕布，刘\n备欲谀吕布，因屡斥其无礼，既而纪灵至，见刘备在，即反身出，为吕布强拽之乃还，纪盖疑吕、刘之合而\n谋己也，然刘备至此亦颇恐怖。酒过数巡，吕布乃言明与两家解围之意，即命左右取画戟，树于辕门之外，\n自引弓射之，谓：若命中，各宜罢兵；如不中则再听二君归营，一决雌雄，设不从者，吕布必拼力击之。纪\n灵利其远，私念未必有如此箭法，因姑允之；而刘备则惟有默祝天佑而已。不意箭发，果中戟尖，刘布乃大\n笑顾左右言曰：此乃天意欲令两家息兵也。纪灵欲不从，慑于吕布之强。又无如何，只得乞吕布作书为证，\n忍气吞声，回淮北复命而去。吕布则屡向刘备作大言市惠，并谆嘱他日勿忘此恩。刘备惟唯唯受命。",
+  "notes": "此剧去吕布者最难的当，盖须有几副辞色，对于纪灵则纯乎强硬，如玩小儿；对于刘备则骄傲而一味讨好；\n对于张飞，则又含怒不发，莫可如何。而举止动作之间，又须英雄倜傥，从容不迫，不改其翩翩风度，方合\n温侯身份。雉尾生做工之难，即难于此也。惟朱素云有此全才。观此剧者，安得不推朱素云为第一杰作哉。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴兰、雷同同上，同起霸。"
+        },
+        {
+          "character": "吴兰、雷同",
+          "type": "同念",
+          "text": "大将威风凛，腾腾杀气高。金盔齐眉扫，身披血战袍。"
+        },
+        {
+          "character": "吴兰、雷同",
+          "type": "同白",
+          "text": "（吴兰）（雷同），请了请了。元帅发兵在此伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同上，纪灵上。纪灵上高台点将。"
+        },
+        {
+          "character": "纪灵",
+          "type": "念",
+          "text": "大将生来盖世雄，十万雄兵称英雄。今日夺取小沛地，灭去刘备方称心。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "本帅，纪灵。奉了我主之命，夺取小沛，灭却刘备。又想前面乃是徐州吕布镇 守，想那刘备与吕布两下交好，不能让俺过去生擒刘备，我也曾送下一份厚礼 与那吕布，教他休管我两家闲事。二位将军，人马可齐？"
+        },
+        {
+          "character": "吴兰、雷同",
+          "type": "同白",
+          "text": "齐备多时。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "起兵前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吕布上。"
+        },
+        {
+          "character": "吕布",
+          "type": "引子",
+          "text": "辕门站立三千将，统领貔貅百万郎。"
+        },
+        {
+          "character": "吕布",
+          "type": "念",
+          "text": "少小英雄世间奇，手持画杆方天戟。跨下赤兔胭脂马，战败桃园三结义。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "某，姓吕名布字奉先，乃是西川邬原郡人氏。是我占据徐州，屯军养马。今日 升帐，面红耳热，必有军情，来，伺候了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "人行千里路，马过万重山。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "来此已是，门上哪位在？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "何人到此？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "送礼人要见。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着。 启温侯：送礼人要见。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "传。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "温侯传。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "参见温侯。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "你奉何人所差？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "奉纪将军所差，现有礼单在此。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "呈上来，下面伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "纪将军送来一份厚礼，不知为了何事？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "下书人上。"
+        },
+        {
+          "character": "下书人",
+          "type": "念",
+          "text": "奉了使君命，送书到此来。"
+        },
+        {
+          "character": "下书人",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "下书人",
+          "type": "白",
+          "text": "下书人要见。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着。 启温侯：下书人要见。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "传。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "温侯传。"
+        },
+        {
+          "character": "下书人",
+          "type": "白",
+          "text": "参见温侯。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "你奉何人所差？"
+        },
+        {
+          "character": "下书人",
+          "type": "白",
+          "text": "奉使君所差，有书信在此。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "呈上来，下面伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "下书人下。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "刘使君有书到来，待我拆开一看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "哦吓，原来纪灵带领十万之众，夺取小沛。那刘使君请我前去，拔刀相助，这 便如何是好？哦，有了，代我修书两封。请他二人到此。与他两家解围。中军， 浓墨伺候。"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮导板",
+          "text": "看过了笔墨纸二张，"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮原板",
+          "text": "手提羊毫写几行： 一非待客葡萄酿， 共同大事有商量。 二封请贴忙修上， 明日清晨候午光。 回去你对使君讲： 叫他只管放心肠。 明日清晨早须往， 席前大事有商量。 三军暂退莲花帐， 明日席前做商量。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吕布、中军同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上，四龙套同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "镇守小沛地，日夜不安宁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "纪灵带领人马，夺取小沛。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "来，有请二爷、三爷。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有请二爷、三爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "胸中志气广略韬，"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "大破黄巾美名标。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "白马祭天牛祭地，"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "弟兄胜似亲同胞。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "参见大哥。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟少礼，两厢请坐。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "谢坐。传小弟进帐，有何军情议论？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟、三弟有所不知，只因纪灵带领人马，夺取小沛。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊，三军们，抬枪带马！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "且慢，你我去到城楼，看过明白，再作道理，带马。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "时才探马报一声， 纪灵带兵来困城。 你我带马敌楼进， 旌旗招展好惊人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同上城，纪灵、四龙套同上，过场，同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "重重叠叠兵和将，"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哇呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "叫声三弟莫高声。 下得城来把帐进， 想一妙计破贼兵。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟、三弟有何妙计？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "小弟倒有一计。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "有何妙计。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "你我弟兄三人开城，与那纪灵决一死战。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "若是胜了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "杀了纪灵，擒了袁术。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "倘若败了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "你我弟兄溜他娘呢。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "此计不好。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥将小弟黑头割下，挂在城楼。纪灵人马一见，他就收兵回转。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "此计不好。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "小弟无计了。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "伺候了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "吕温侯有书信在此。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "拿过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟手中拿的什么？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "乃是吕布狗贼的信！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "拿来愚兄观看。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "没有什么好看。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "愚兄要看。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "要看拿去看。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "温侯有书信到来，待我拆开观看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥，书信上面，写得什么言语？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请我前去，与我二家解围。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "三弟可去？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "小弟不去。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "为何不去？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "吕布性子傲，小弟性子燥，有道是：仇人见面，不是吵，就是闹，还是不去的 稳当！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "哪里是不去，分明惧怕吕布！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊！我怕他？我怕他？大哥、二哥走！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟吓！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "三弟作事休莽撞， 大事总要来商量。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥吓！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮摇板",
+          "text": "要去何必多议论， 老张出世不怕人。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞下。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "弟兄三人徐州闯， 准备两下动刀枪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吕布上。"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮原板",
+          "text": "战罢疆场在濮阳， 诸侯见我也心忙。 丁公不仁被我斩， 戟刺董卓为貂婵。 虎牢关前打一战， 偶遇刘备与关张。 三人扣住连环战， 掩杀儿郎让刁鞍。 方天画戟情不让， 张飞误挑紫金冠。 含羞带愧收兵转， 谁人不知俺吕奉先。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吕布坐。刘备、关羽同上。"
+        },
+        {
+          "character": "刘备、关羽",
+          "type": "同念",
+          "text": "离了小沛地，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞上。"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "来此狗辕门！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "来此已是辕门，我心中有些害怕。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥，有小弟在此，不要害怕。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "待我上前。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥哪里去？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "上前投帖。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "投帖乃是小事，待小弟上前。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你不会讲话。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我连话都不会讲呢？呔，有人么，滚出一个来！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "吕布狗子，可曾升帐？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "他升帐不升帐与你什么相干？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "你就说大伯伯、二伯伯、三老子来了！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "这是什么话？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "你不通报，呸，照打！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，你不会讲话。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "他不与我通报。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你站远些。烦劳通禀，桃园弟兄求见。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "少站一时。 启禀温侯：桃园弟兄求见。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "温侯，"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "使君。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "温侯，"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "君候"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞进。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "刘备、关羽",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "吓，贤弟……"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "呔，俺大哥乃中山靖王之后，孝景皇帝阁下玄孙，你敢叫他贤弟！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，温侯，温侯。吓，三弟，温侯叫我贤弟，与你什么相干？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我不许他叫。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你不要讲话。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我就不讲话。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你与我坐下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我就坐下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，温侯，"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "不知使君驾到，未得远迎，当面恕罪。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "少来问候，都督海涵。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "岂敢，二君候可好？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "温侯驾安。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟，与温侯见礼。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "俺老张不会见礼。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，桃园呢？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "咳，俺老张不与吕布狗子见礼，俺大哥在一旁“桃园”“桃园”呢！俺老张一 生一世，就吃这“桃园”亏了。吕布狗子，请了！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "哪个是狗子？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "你是狗子！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "你是狗子！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，温侯！ 吓，你怎么叫他狗子？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "他本来就是狗子！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我不许你讲话！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我就不讲话！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你与我坐下！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我就坐下！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "温侯，"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎，咦咦咦……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，温侯，"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "黑脸的可好？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "俺老张无病，怎么不好？"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "身为大将，事要正办，酒要少饮。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "呔，俺老张不过一时酒醉，你不该夺我徐州！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哪个？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，温侯！ 吓，事到如今，提起徐州则甚？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "这样之人我要顶他两句！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你不要讲话！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我就不讲话！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你与我坐下！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我就坐下！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，温侯，"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我坐下，你请安！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "温侯相邀我等有何见论？"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "请使君到此，与你二家解围。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "不知怎样的解法？"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "等纪灵到此，自有定夺。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "纪将军到。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "告辞。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "不妨，有某担任。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "纪灵、四龙套同上。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "温侯！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "将军。"
+        },
+        {
+          "character": "纪灵、吕布",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "告辞。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "且慢，为何去心太急？"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "营中有事。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "吓，营中有事，你就不该来，坐下了！"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "有坐，温侯敢是欺某？"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "非也，俺无霸王之勇，不过与你二家解围，不必多疑，请坐。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "但不知怎样的解法？"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "宴罢之后，再为定夺。刘使君见过纪将军。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，纪将军，"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "哪个与你见礼！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "宴罢之后，自有道理。来，将宴摆下。"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮导板",
+          "text": "中军帐内饮琼浆，"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哇呀！"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "是哪里响雷？"
+        },
+        {
+          "character": "龙套",
+          "type": "白",
+          "text": "张将军虎威。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "吓了我一跳！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "原来是草包！"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮摇板",
+          "text": "只为和好免争强。 怒气不息纪灵将， 那一旁闷坏了刘、关、张。 回言便对将军讲： 看某且免动刀枪。"
+        },
+        {
+          "character": "纪灵",
+          "type": "西皮摇板",
+          "text": "多蒙温侯赐琼浆， 某家言来听端详： 不看温侯脸面上， 霎时席前摆战场。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "走上前来忙告退， 今日此宴难奉陪。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "帐下听真：有人不服者，要杀抬枪，要战何惧！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "呔，纪灵！想你带领不过十万之众，可记得大破黄巾雄兵百万，被俺枪挑鞭打！"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "你敢上来？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "你敢下来？"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "且慢，与你两家解围，谁叫你等争斗起来！"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "不知怎样的解法？"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "辕门之外立一方天画戟，本侯一箭箭射中心，你两家收兵回转……"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "倘若不中？"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "但凭你二家所为。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "告便。且住，温候言道，辕门之外，立一方天画戟，箭射红心，我两家收兵回 转。"
+        },
+        {
+          "character": "刘备、关羽",
+          "type": "同白",
+          "text": "但愿得射得着。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "但凭温侯。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "有佔了！"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮快板",
+          "text": "画戟抬在辕门外， 两家人马站两旁。 人来看过弓和箭，"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮快板",
+          "text": "汉刘备上前来祝告神威： 但愿得老天爷扶保刘备，"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮快板",
+          "text": "使君休要心发愁。 双手搭上珠红扣，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吕布照箭，射。"
+        },
+        {
+          "character": "吕布",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮快板",
+          "text": "这一箭射去了兵有数千！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "还有什么话讲？"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "想我怎样回复我主？"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "待我修下书信，回复你主。"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "但凭温侯。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "浓墨伺候。"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮快板",
+          "text": "上写拜上多拜上， 拜上袁王看端详： 刘备看在我面上， 免得两下动刀枪。 一封书信忙修上， 烦劳将军奏你王。"
+        },
+        {
+          "character": "纪灵",
+          "type": "西皮快板",
+          "text": "纪灵接书面带愧， 背转身来把胸槌。 上前施个分别礼， 奉命夺沛空走一回。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "纪灵、四龙套同下。"
+        },
+        {
+          "character": "吕布",
+          "type": "西皮快板",
+          "text": "这一箭射却了百万雄队，"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮快板",
+          "text": "吕温侯可算得将中之魁！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "使君，后来若有得地之日，切不可忘却了辕门射戟的情由！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "温侯，后来忘了辕门射戟情由，这天……"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥天色不早了，你我弟兄回去了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "纪灵讨战。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "刘备、关羽、张飞",
+          "type": "同白",
+          "text": "待俺弟兄出马！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "且慢，请在后面。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同下。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "众将官抬枪带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "纪灵上，会阵。"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "纪将军为何去而复转？"
+        },
+        {
+          "character": "纪灵",
+          "type": "白",
+          "text": "奉了我主之命，灭尔的徐州！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "一派胡言！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "纪灵、吕布会阵，同开打。纪灵败下。"
+        },
+        {
+          "character": "吕布",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "吕布",
+          "type": "白",
+          "text": "收兵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吕布下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

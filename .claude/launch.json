@@ -3,10 +3,11 @@
   "configurations": [
     {
       "name": "opera-dashboard",
-      "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "5173", "--directory", "frontend/dist"],
-      "port": 5173,
-      "autoPort": true
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["vite", "preview", "--port", "4200"],
+      "port": 4200,
+      "autoPort": true,
+      "cwd": "frontend"
     }
   ]
 }

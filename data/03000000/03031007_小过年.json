@@ -1,0 +1,1580 @@
+{
+  "script_id": "03031007",
+  "title": "小过年",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "王小",
+      "hangdang": "丑"
+    },
+    {
+      "name": "丁氏",
+      "hangdang": "花旦"
+    },
+    {
+      "name": "王老西",
+      "hangdang": "丑"
+    },
+    {
+      "name": "白瞎子、县官",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "王小好赌。除夕，因无法度岁，夫妻争吵；幸邻人借赠，始举炊。但债主相继又来索账，夫妻设计，不仅勾\n销欠账，且剥债主衣冠。赌事虽平，复因言语冲突，相赌忌话：先说话者负全年费用。翌晨，王甥来拜，见\n二人不语，疑被人害，即鸣于官。及见县官，夫妻比手划脚，百问不答。王小装死。妻放声大哭，终于被罚。",
+  "notes": "第二场之县官由第一场之白瞎子赶扮。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "王小",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小上。"
+        },
+        {
+          "character": "王小",
+          "type": "数板",
+          "text": "穷苦难熬，新年来到！头戴开花帽，身穿破衣袍；三餐吃一顿，饥饿哪知饱、 哪知饱！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我，王小。自幼赶脚为生。一生一世好耍钱。前两天把牲口拉出来，叫我给卖 啦，钱也都输啦。今儿个到了大年三十啦，一个大也没有，回家左不是跟着我 媳妇吵吧！要什么，没什么！我回家瞧瞧。到啦。门也没有关，这么冷冷清清 的。 家里的！家里的！"
+        },
+        {
+          "character": "丁氏",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁氏上。"
+        },
+        {
+          "character": "丁氏",
+          "type": "数板",
+          "text": "风扫地，月当灯，三十儿晚上冷如冰；柴米油盐全无有，这个年儿过不成、过 不成！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "啊嘚……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁氏抖。王小抖。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "啊嘚……"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "啊嘚……"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "啊嘚……"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "啊嘚……"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "得啦得啦！哪儿吃了烟袋油子，跑这儿哆嗦来啦？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "我说王小儿啊！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "“王小儿”也是你叫的吗？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "啊，我叫定了你啦！我说你还回来呀？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我的家吗，我不回来！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "你出去七八天了，也不回来，你还管我呀！我问你，今儿是几儿啦？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "今儿个是三十儿啦！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "还是的呀！今儿个是三十儿啦，人家街坊过年，买的鸡、鸭、鱼、肉、等等的……"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你等等，鸡、鸭、鱼、肉有地方买，“等等”哪儿卖呀？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "“等等”就是都有啦。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我没给你留下吗？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "留下什么啦？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "四两棉花、十个鸡蛋您哪！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "你还提呢，你给我留下四两棉花、十个鸡蛋您哪！你走后，我把鸡蛋搁在锅里 啦，坐在火上，把棉花搁在火里点着啦，一会儿就把棉花着光啦，鸡蛋也没熟， 你让我吃生鸡蛋哪！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "拿棉花煮鸡蛋吃，我有多大家当呀？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "我就这样吗！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你过来！接嘴巴！"
+        },
+        {
+          "character": "王小",
+          "type": "念",
+          "text": "贱人无礼、无礼，无故把我欺。今日打死你，免得惹是非。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "好贱人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小打。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "你怎么打人哪！ 哎哟，王小儿打人喽！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老头上。"
+        },
+        {
+          "character": "老头",
+          "type": "白",
+          "text": "你们夫妻因何争吵起来？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您听我说！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "您听我说！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您听我说！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "我先说！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我先说！"
+        },
+        {
+          "character": "老头",
+          "type": "白",
+          "text": "你让你妻子先说！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "天生的孝母不孝父！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "老爷子，我告诉您吧：他出去七八天没回来，也没给我留下嚼谷儿。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我没给你留下嚼谷儿？我给她留下四两棉花、十个鸡蛋，我让她棉花纺线，可 以卖钱，鸡蛋孵小鸡儿可以卖钱。她拿棉花煮鸡蛋吃，我有多大家当让她这么 抖落呀！您别拦着我，我还得打她！"
+        },
+        {
+          "character": "老头",
+          "type": "白",
+          "text": "原来为了吃的。不要紧，少时我老汉与你们送来就是。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "别介，您可别送来呀！"
+        },
+        {
+          "character": "老头",
+          "type": "白",
+          "text": "我要走了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老头下。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您走了，我不送了，别掉臭沟里。 你瞧，还是打你打得好吧？打出落儿来了。他呆会儿让人送东西来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小二上。"
+        },
+        {
+          "character": "小二",
+          "type": "白",
+          "text": "王小儿，我给你送来啦。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "都是什么呀？"
+        },
+        {
+          "character": "小二",
+          "type": "白",
+          "text": "五斤酱、五斤醋、五斤酱油、五斤肉。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你瞧，都有啦。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "短一样没有？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "富贵有。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "什么叫“富贵有”哇？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "就是鱼。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "不要啦。"
+        },
+        {
+          "character": "小二",
+          "type": "白",
+          "text": "回头给你们送来。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "不用送了，不要那个啦。"
+        },
+        {
+          "character": "小二",
+          "type": "白",
+          "text": "一定送来，我走啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小二下。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你瞧见没有？咱们打出落儿来啦。一会儿连鱼都送来，回头我还打你。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "我怎那么贱骨头啊！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我告你说呀，我假装打你，就说送的东西里有鱼，叫你生着给偷吃了。咱们两 人一嚷，老梆子过来一问，立刻就送鱼来了。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "那成吗？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "成！咱们试验试验。 好贱人！这鱼你生着就给偷着吃啦！你真气死我啦！打！打！打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老头上。"
+        },
+        {
+          "character": "老头",
+          "type": "白",
+          "text": "怎么又吵起来了？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "您听我说！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您听我说！"
+        },
+        {
+          "character": "老头",
+          "type": "白",
+          "text": "这一回叫他先说。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "改了孝父不孝母啦！"
+        },
+        {
+          "character": "老头",
+          "type": "白",
+          "text": "王小儿，你先说！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您送来的东西有鱼，她生着就给偷吃了，我还得打她？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "您听我说，您送来的东西，不知有鱼没鱼，不知是哪个杂种没送来，也不知哪 个混账诬赖我！"
+        },
+        {
+          "character": "老头",
+          "type": "白",
+          "text": "不妨！待我算来。五斤酱、五斤醋、五斤酱油、五斤肉，无有鱼。少时一定给 你们送来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老头下。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您别送啦！您走啦！别让车闯死！ 咳！你瞧见没有？鱼呀，一会儿就来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小二上。"
+        },
+        {
+          "character": "小二",
+          "type": "白",
+          "text": "王小儿，王八啦！王小儿，王八啦！送来了。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你这小子又来啦？"
+        },
+        {
+          "character": "小二",
+          "type": "白",
+          "text": "王小儿，你们别打架啦，再打架我们就要家产尽绝啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小二下。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你瞧见没有？鱼来啦。这不短什么了吧？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "还短一样。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "插花瓶。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "不要啦。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "不行！不要，一年不吉祥。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我找去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小拿夜壶。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你瞧！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "你怎么把夜壶拿来了？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "这有吉祥话儿。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "什么吉祥话儿？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "“甲鱼当三牲，夜壶插花瓶”。关上门儿，静等搪账。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老西上。"
+        },
+        {
+          "character": "王老西",
+          "type": "念",
+          "text": "曲曲弯弯路，层层叠叠山。燕飞不到处，原为利名牵。"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "我、王老西。我是哪儿的人？我是山西、陕西、山陕西，西北旮旯儿的老西西。 我在煤铺当跑外的。王小儿短我们柜上一笔钱，日子可不少啦。今天腊月三 十儿啦，我找他要账去。到啦。 王小儿在家没有？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "外边儿谁叫门哪？"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "是我。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "噢，煤铺孙掌柜的！"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "王掌柜的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁氏开门。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "呕，王掌柜的。我告诉您说，我们当家的七八天没回来啦。欠您的钱，明天我 给您送去得啦。"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "好哇！又没钱？今天有钱钱见人，没钱人见人。他不回来，我在这儿等着他。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "您别在这儿等着，您上里边儿等着，暖和暖和好不好？"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "你是谁呀？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "王小儿是我当家的。"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "不是外人，你是王大娘！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "王大娘，我们可不会锯大缸啊！"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "你就是王大嫂子。王小儿是没在家呀？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "没在家。"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "那我进去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小儿藏。王老西、丁氏同进门。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "您请坐！"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "大嫂坐着。这王小儿出去多少天啦？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "七八天没有回来啦！"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "这小子不顾家？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "不顾家。"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "你这屋里怎这么冷啊？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "没有煤生火。"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "不要紧的，明天我给你送几千斤煤来，我开了十几个煤铺呢。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "那好极啦！"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "这王小儿他几时才能回来呢？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "他这时候不回来，就许不回来啦。"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "他真不顾家呀？"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "他就是不顾家。"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "大嫂子，王小儿不在家，咱俩人好一好吧！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "好小子！你跑这儿掏“掺头”来了？"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "王小儿你在家哪？好，你还钱吧！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你要账怎么跑炕头上要来啦？"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "你媳妇她叫我进来的。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "干脆！你是官罢，你是私休吧？"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "“官罢”怎说，“私休”怎么讲？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "“官罢”，咱们打官司！"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "俺老西怕打官司。“私休”吧！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "私休，就好办啦：该你多少一笔勾消！"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "俺老西受不了。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你不是说有十几个煤铺哪吗？"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "那不是我的。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "瞧瞧账，欠你多少钱？"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "王小儿。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "什吗？"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "王大爷，欠钱八十八吊六，把这“六”勾了吧！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "不行，一笔勾消！"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "好！一笔勾消。你可害苦了我啦！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "出去吧！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "你把账留下！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "给我出去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小推出王老西。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "王小儿，你娶我这样的媳妇有好处，准会给你搪帐吧？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "好！照你这样，我差点儿当了王八！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "再有要账的，我还不管了哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老西对台下。"
+        },
+        {
+          "character": "王老西",
+          "type": "白",
+          "text": "列位，您开买卖找跑外的，照我这样的找，有十个铺子准保关九个。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王老西下。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "再有要账的，你甭管，瞧我的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白瞎子上。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "念",
+          "text": "为了一笔账，跑了好几趟。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "我，白瞎子。是我攒了俩钱儿，放个小印子。王小儿借了我一笔钱，本利都没 有给我。今儿个到了大年三十儿啦，我得找他去。到了。 王小儿在没有？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小用小嗓。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "外面叫门的是谁呀？"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "我是白瞎子。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "噢！白先生啊？您是要我们当家的欠您那笔印子钱吧？等他回来给您送去。您 走啦，我不送啦！"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "谁走啦？王小儿呢？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "他出去七八天没回来啦。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "那我这儿等着他。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "哟！外面儿怪冷的，您进来暖和暖和吧！我给您开门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小开门。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "快开门吧！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您干吗还打着灯笼啊？"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "啊！瞎子打灯笼——白费一支蜡吗！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您坐着吧。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "坐着坐着。这王小儿是没在家呀？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "这小子不顾家。啊嘚……"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "大嫂子，您怎么啦？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我们身上还耍着单儿哪！"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "王小儿没给您留下棉袄啊？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "没有。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "那您先穿我的吧。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "那合适吗？"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "合适，您穿吧！这么冷的天儿，不穿衣裳哪行啊！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "该您钱不给您，还穿您的衣裳。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "我是热心肠的人，见不得这个。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "啊嘚……"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "您又怎么啦？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我这脑袋受了风啦，脑浆子疼。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "那您把我的帽子戴上吧！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我们可不敢戴呀！您忘啦，“男怕穿靴、女怕带帽”吗！"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "得啦！没那讲究儿。您戴吧！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您真是好人。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "我是热心肠的人，就见不得这个。我刚要了一笔钱，我也用不着，给您垫办着 花吧！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "哟！穿您衣裳，还花您的钱？"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "没关系。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "您真好。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "我好倒是好，就是没有眼睛啦！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "这么好人，怎么没有眼睛啊？"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "不单没眼睛，连个媳妇儿都没有。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "不要紧，明儿个我给您说一个。"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "那得等到几儿呀？要不结我看王小没在家，咱们俩人好一好得啦？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小用大嗓。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "哈哈！好小子，你上这儿冒坏来啦！"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "王小儿你在家哪？还钱吧！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "哎！你这瞎子，怎么把眼睛睁开啦？"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "这是治瞎子的偏方。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你给我滚出去吧！"
+        },
+        {
+          "character": "白瞎子",
+          "type": "白",
+          "text": "得！马杆也用不着啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白瞎子下。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你瞧见没有？我这个搪帐的比你还强吧？衣裳、帽子全有啦。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "你真行，比我强。咱们烧香吧！"
+        },
+        {
+          "character": "丁氏、王小",
+          "type": "同念",
+          "text": "夫妻关系，顺溜顺溜，一年四季，到头到头。 多欢乐，解千愁，富贵荣华年年常有、年年常有。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "这一年太丧气啦，我得放炮崩崩。你到大街上告诉人家，有小孩儿的抱远着点 儿，别吓着。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "我说街坊！邻居！你们有小孩儿抱远着点儿，我们王小儿要放炮啦，别吓死了！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "别崩着，你这娘儿们大年下的，你怎么不说吉祥话呀？你也别崩死！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "我死不了。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "坏啦！药捻啦。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "王小儿干杆儿啦？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "没了硝啦。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "呕！王小儿挨刀啦！"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "真丧气！封财门大吉。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "封牢门不吉。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "唉，你可怎么好？来吧，咱们夫妻俩喝个“团圆酒”。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "咱们夫妻俩喝个“断头酒”。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "你这娘儿们，自娶了你也没说过一句吉祥话儿，照这样儿，咱们得忌话！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "什么叫“忌话”呀？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "咱们把这盅酒喝下去，谁也不许说话了。谁要是先说话，这一年的嚼谷找他要。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "比方别人问咱们话，说对了怎样，不对又怎样哪？"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "说对了，咱们打花巴掌；说不对，摇头！"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "我不会打花巴掌。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "我教给你。来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小打。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "对啦，就这样。我先喝酒啦！我喝下去，你可不准不喝；你要是不喝，我嘴里 不能说话，我心里也饶不了你。我喝啦。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "王小儿，你可喝酒了，不能说话啦，我可要骂你啦，唉！得啦，我也喝了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同睡觉。〖起五更鼓〗。王小、丁氏同醒，同洗脸，同拜年，拿方盘出门。孝子上，哭。"
+        },
+        {
+          "character": "孝子",
+          "type": "白",
+          "text": "王小儿啊，我爸爸死啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孝子磕头，跑下。王小、丁氏同进门，王小、丁氏同坐生气。"
+        },
+        {
+          "character": "小孩",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小孩上。"
+        },
+        {
+          "character": "小孩",
+          "type": "念",
+          "text": "小孩拜年，为的是钱！"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "我给我舅舅、舅妈拜年去。到啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小孩进门。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "舅舅、舅妈在家吗？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同站起来表示欢迎。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "您请坐，我给您拜年。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小孩磕头。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "您过年过得好哇？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同点头。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "您过年买了几斤肉哇？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小伸出双手，张开十指。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "十斤。买了几斤酱啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小伸出双手，张开十指。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "十斤。买了几斤醋啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小伸出双手，张开十指。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "也是十斤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小孩想。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "您怎么不说话呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小向小孩示意，和丁氏打花巴掌。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "他们不说话，八成是叫人给害了吧！我上老爷那儿给他们喊冤去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小孩下。王小、丁氏同着急，同跑下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、县官上。"
+        },
+        {
+          "character": "县官",
+          "type": "数板",
+          "text": "庆贺新年、庆贺新年，家家门户贴对联。上联写春王正月，下联写天子万年、 天子万年。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小孩上。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "冤枉！"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "有人喊冤，咱们问问案吧。升堂！ 那一个小孩你有什么冤枉啊？"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "我舅舅、舅妈让人给害了，不说话啦。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "带来没有啊？"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "带来啦。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "带上堂来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同暗上。"
+        },
+        {
+          "character": "小孩",
+          "type": "白",
+          "text": "舅舅、舅妈您上堂吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小孩下。王小、丁氏同上堂，同跪。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "哈哈！老爷这身衣裳丢了不少日子了，是你偷去了，快脱下来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小脱衣，县官穿。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "你姓什么呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小用手比一“王”字。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "噢！粪叉子？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小摇头。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "噢！姓王啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小点头。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "这位堂客姓什么呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁氏用手比一“丁”字。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "噢！鸟架子？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁氏摇头。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "噢！姓丁啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁氏点头。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "你是他什么人，他是你什么人呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同比划。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "噢我明白啦，你们俩是把兄弟，你是大爷，她是老台？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同摇头。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "噢，是两口子呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同点头。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "你们怎么不说话呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同示意为什么不说话，县官点头，王小、丁氏同打花巴掌。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "你们刚学会打花巴掌呀！这不用说，你们大年三十晚上没干好事，诸神下界， 你们冲了神啦。老爷的板子最辟邪，一打就好。趴下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同趴下。四青袍同打，王小、丁氏同装死。"
+        },
+        {
+          "character": "县官",
+          "type": "白",
+          "text": "坏了！打死啦。我赶紧溜了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "县官下。四青袍自两边分下。丁氏起，看王小死，用凉水喷，用纸熏，摇之不醒。"
+        },
+        {
+          "character": "丁氏",
+          "type": "白",
+          "text": "王小儿，你真死啦！"
+        },
+        {
+          "character": "丁氏",
+          "type": "哭",
+          "text": "我的天呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小急起。"
+        },
+        {
+          "character": "王小",
+          "type": "白",
+          "text": "哈哈！你可先说话啦？这一年的嚼谷跟你要了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小、丁氏同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

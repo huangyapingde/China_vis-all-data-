@@ -1,390 +1,390 @@
 {
   "历史戏": {
-    "count": 247,
+    "count": 886,
     "cooccurrence": {
-      "avg_density": 0.7104,
-      "std_density": 0.2817,
-      "avg_avg_clustering": 0.6577,
-      "std_avg_clustering": 0.3592,
-      "avg_avg_path_length": 1.2244,
-      "std_avg_path_length": 0.2926,
-      "avg_components": 1.4818,
-      "std_components": 1.1124,
-      "avg_modularity": 0.0628,
-      "std_modularity": 0.122,
-      "avg_community_count": 1.8664,
-      "std_community_count": 1.4151,
-      "avg_nodes": 6.166,
-      "std_nodes": 4.9065,
-      "avg_edges": 10.7166,
-      "std_edges": 13.058,
-      "avg_centralization": 0.2633,
-      "std_centralization": 0.259
+      "avg_density": 0.7604,
+      "std_density": 0.2756,
+      "avg_avg_clustering": 0.6083,
+      "std_avg_clustering": 0.4026,
+      "avg_avg_path_length": 1.1592,
+      "std_avg_path_length": 0.2799,
+      "avg_components": 1.4052,
+      "std_components": 1.2931,
+      "avg_modularity": 0.0423,
+      "std_modularity": 0.1028,
+      "avg_community_count": 1.658,
+      "std_community_count": 1.5619,
+      "avg_nodes": 5.3837,
+      "std_nodes": 4.2915,
+      "avg_edges": 9.5813,
+      "std_edges": 14.9631,
+      "avg_centralization": 0.2262,
+      "std_centralization": 0.2728
     },
     "dialogue": {
-      "avg_density": 0.5379,
-      "std_density": 0.3057,
-      "avg_avg_clustering": 0.3754,
-      "std_avg_clustering": 0.344,
-      "avg_avg_path_length": 1.1974,
-      "std_avg_path_length": 0.6314,
-      "avg_components": 1.6397,
-      "std_components": 1.2516,
-      "avg_modularity": 0.078,
-      "std_modularity": 0.1571,
-      "avg_community_count": 2.2429,
-      "std_community_count": 1.7581,
-      "avg_nodes": 6.166,
-      "std_nodes": 4.9065,
-      "avg_edges": 12.4696,
-      "std_edges": 12.9773,
-      "avg_centralization": 0.7561,
-      "std_centralization": 0.5905
+      "avg_density": 0.5949,
+      "std_density": 0.3096,
+      "avg_avg_clustering": 0.3838,
+      "std_avg_clustering": 0.3632,
+      "avg_avg_path_length": 1.1472,
+      "std_avg_path_length": 0.5679,
+      "avg_components": 1.5237,
+      "std_components": 1.405,
+      "avg_modularity": 0.0564,
+      "std_modularity": 0.1354,
+      "avg_community_count": 1.9605,
+      "std_community_count": 1.7984,
+      "avg_nodes": 5.3837,
+      "std_nodes": 4.2915,
+      "avg_edges": 11.2923,
+      "std_edges": 12.1203,
+      "avg_centralization": 0.6896,
+      "std_centralization": 0.5978
     },
     "power": {
-      "avg_density": 0.1611,
-      "std_density": 0.2328,
-      "avg_avg_clustering": 0.0325,
-      "std_avg_clustering": 0.0978,
-      "avg_avg_path_length": 0.1792,
-      "std_avg_path_length": 0.4164,
-      "avg_components": 4.1943,
-      "std_components": 3.5086,
-      "avg_modularity": 0.0885,
-      "std_modularity": 0.1686,
-      "avg_community_count": 3.4291,
-      "std_community_count": 3.9504,
-      "avg_nodes": 6.166,
-      "std_nodes": 4.9065,
-      "avg_edges": 2.7247,
-      "std_edges": 3.2874,
-      "avg_centralization": 0.3242,
-      "std_centralization": 0.3502
+      "avg_density": 0.1742,
+      "std_density": 0.2281,
+      "avg_avg_clustering": 0.0429,
+      "std_avg_clustering": 0.1262,
+      "avg_avg_path_length": 0.162,
+      "std_avg_path_length": 0.406,
+      "avg_components": 3.5305,
+      "std_components": 3.1827,
+      "avg_modularity": 0.0696,
+      "std_modularity": 0.1509,
+      "avg_community_count": 2.8758,
+      "std_community_count": 3.544,
+      "avg_nodes": 5.3837,
+      "std_nodes": 4.2915,
+      "avg_edges": 2.6061,
+      "std_edges": 3.0164,
+      "avg_centralization": 0.3464,
+      "std_centralization": 0.3631
     },
     "top_characters": [
       {
         "name": "诸葛亮",
-        "total_pr": 6.2107,
-        "appearances": 24
-      },
-      {
-        "name": "刘备",
-        "total_pr": 4.0086,
-        "appearances": 19
+        "total_pr": 19.2905,
+        "appearances": 78
       },
       {
         "name": "关羽",
-        "total_pr": 3.3884,
-        "appearances": 12
+        "total_pr": 17.6385,
+        "appearances": 66
       },
       {
-        "name": "赵云",
-        "total_pr": 2.9686,
-        "appearances": 14
-      },
-      {
-        "name": "张飞",
-        "total_pr": 2.8418,
-        "appearances": 12
+        "name": "刘备",
+        "total_pr": 17.4749,
+        "appearances": 75
       },
       {
         "name": "曹操",
-        "total_pr": 2.4528,
-        "appearances": 10
+        "total_pr": 15.5357,
+        "appearances": 58
+      },
+      {
+        "name": "张飞",
+        "total_pr": 14.3778,
+        "appearances": 59
+      },
+      {
+        "name": "赵云",
+        "total_pr": 9.8774,
+        "appearances": 42
       },
       {
         "name": "鲁肃",
-        "total_pr": 2.2207,
-        "appearances": 9
-      },
-      {
-        "name": "貂蝉",
-        "total_pr": 1.5453,
-        "appearances": 4
-      },
-      {
-        "name": "杨延昭",
-        "total_pr": 1.4406,
-        "appearances": 6
+        "total_pr": 7.2563,
+        "appearances": 29
       },
       {
         "name": "赵匡胤",
-        "total_pr": 1.2814,
-        "appearances": 5
+        "total_pr": 6.704,
+        "appearances": 23
+      },
+      {
+        "name": "伍员",
+        "total_pr": 6.3859,
+        "appearances": 18
+      },
+      {
+        "name": "薛平贵",
+        "total_pr": 6.1766,
+        "appearances": 17
       }
     ]
   },
   "家庭戏": {
-    "count": 159,
+    "count": 397,
     "cooccurrence": {
-      "avg_density": 0.7473,
-      "std_density": 0.2839,
-      "avg_avg_clustering": 0.7385,
-      "std_avg_clustering": 0.3319,
-      "avg_avg_path_length": 1.2292,
-      "std_avg_path_length": 0.3302,
-      "avg_components": 1.4717,
-      "std_components": 1.051,
-      "avg_modularity": 0.0643,
-      "std_modularity": 0.1311,
-      "avg_community_count": 1.8742,
-      "std_community_count": 1.4439,
-      "avg_nodes": 6.5849,
-      "std_nodes": 5.5608,
-      "avg_edges": 12.6352,
-      "std_edges": 16.102,
-      "avg_centralization": 0.2254,
-      "std_centralization": 0.2516
+      "avg_density": 0.7822,
+      "std_density": 0.274,
+      "avg_avg_clustering": 0.6998,
+      "std_avg_clustering": 0.367,
+      "avg_avg_path_length": 1.1681,
+      "std_avg_path_length": 0.2808,
+      "avg_components": 1.5013,
+      "std_components": 1.5217,
+      "avg_modularity": 0.0448,
+      "std_modularity": 0.1096,
+      "avg_community_count": 1.8035,
+      "std_community_count": 1.789,
+      "avg_nodes": 6.194,
+      "std_nodes": 5.0474,
+      "avg_edges": 12.9698,
+      "std_edges": 17.9941,
+      "avg_centralization": 0.1924,
+      "std_centralization": 0.2418
     },
     "dialogue": {
-      "avg_density": 0.5748,
-      "std_density": 0.3113,
-      "avg_avg_clustering": 0.4645,
-      "std_avg_clustering": 0.3651,
-      "avg_avg_path_length": 1.1048,
-      "std_avg_path_length": 0.6081,
-      "avg_components": 1.6478,
-      "std_components": 1.2496,
-      "avg_modularity": 0.0692,
-      "std_modularity": 0.1636,
-      "avg_community_count": 2.2704,
-      "std_community_count": 1.7793,
-      "avg_nodes": 6.5849,
-      "std_nodes": 5.5608,
-      "avg_edges": 14.6289,
-      "std_edges": 16.0006,
-      "avg_centralization": 0.682,
-      "std_centralization": 0.5608
+      "avg_density": 0.6033,
+      "std_density": 0.2985,
+      "avg_avg_clustering": 0.4492,
+      "std_avg_clustering": 0.3595,
+      "avg_avg_path_length": 1.166,
+      "std_avg_path_length": 0.5418,
+      "avg_components": 1.6096,
+      "std_components": 1.6405,
+      "avg_modularity": 0.0609,
+      "std_modularity": 0.1486,
+      "avg_community_count": 2.1864,
+      "std_community_count": 2.045,
+      "avg_nodes": 6.194,
+      "std_nodes": 5.0474,
+      "avg_edges": 15.0403,
+      "std_edges": 16.4348,
+      "avg_centralization": 0.6936,
+      "std_centralization": 0.5659
     },
     "power": {
-      "avg_density": 0.0853,
-      "std_density": 0.1496,
-      "avg_avg_clustering": 0.0117,
-      "std_avg_clustering": 0.0627,
-      "avg_avg_path_length": 0.066,
-      "std_avg_path_length": 0.2577,
-      "avg_components": 5.239,
-      "std_components": 4.6126,
-      "avg_modularity": 0.0558,
-      "std_modularity": 0.1476,
-      "avg_community_count": 3.6981,
-      "std_community_count": 4.8716,
-      "avg_nodes": 6.5849,
-      "std_nodes": 5.5608,
-      "avg_edges": 1.673,
-      "std_edges": 2.5734,
-      "avg_centralization": 0.2304,
-      "std_centralization": 0.2771
+      "avg_density": 0.106,
+      "std_density": 0.1775,
+      "avg_avg_clustering": 0.0225,
+      "std_avg_clustering": 0.0919,
+      "avg_avg_path_length": 0.0802,
+      "std_avg_path_length": 0.2828,
+      "avg_components": 4.5668,
+      "std_components": 4.0994,
+      "avg_modularity": 0.0823,
+      "std_modularity": 0.1689,
+      "avg_community_count": 3.403,
+      "std_community_count": 4.4776,
+      "avg_nodes": 6.194,
+      "std_nodes": 5.0474,
+      "avg_edges": 2.1285,
+      "std_edges": 3.0497,
+      "avg_centralization": 0.2441,
+      "std_centralization": 0.2944
     },
     "top_characters": [
       {
-        "name": "贾宝玉",
-        "total_pr": 1.2904,
-        "appearances": 5
-      },
-      {
         "name": "王宝钏",
-        "total_pr": 1.2837,
-        "appearances": 4
+        "total_pr": 4.7837,
+        "appearances": 11
       },
       {
-        "name": "王氏",
-        "total_pr": 1.1857,
-        "appearances": 4
+        "name": "赵匡胤",
+        "total_pr": 3.3453,
+        "appearances": 12
       },
       {
-        "name": "公子",
-        "total_pr": 1.0833,
-        "appearances": 4
-      },
-      {
-        "name": "薛丁山",
-        "total_pr": 0.9826,
-        "appearances": 3
-      },
-      {
-        "name": "院子",
-        "total_pr": 0.9759,
-        "appearances": 4
-      },
-      {
-        "name": "黄天霸",
-        "total_pr": 0.9218,
+        "name": "王允",
+        "total_pr": 2.2837,
         "appearances": 6
       },
       {
-        "name": "张三",
-        "total_pr": 0.8936,
-        "appearances": 2
+        "name": "曹操",
+        "total_pr": 2.064,
+        "appearances": 7
       },
       {
-        "name": "陈氏",
-        "total_pr": 0.8701,
-        "appearances": 2
+        "name": "关羽",
+        "total_pr": 2.0154,
+        "appearances": 8
       },
       {
-        "name": "武松",
-        "total_pr": 0.8164,
-        "appearances": 3
+        "name": "薛平贵",
+        "total_pr": 1.9665,
+        "appearances": 6
+      },
+      {
+        "name": "张广才",
+        "total_pr": 1.8414,
+        "appearances": 4
+      },
+      {
+        "name": "刘备",
+        "total_pr": 1.8194,
+        "appearances": 10
+      },
+      {
+        "name": "春香",
+        "total_pr": 1.7833,
+        "appearances": 5
+      },
+      {
+        "name": "杜丽娘",
+        "total_pr": 1.7833,
+        "appearances": 5
       }
     ]
   },
   "公案戏": {
-    "count": 32,
+    "count": 93,
     "cooccurrence": {
-      "avg_density": 0.7944,
-      "std_density": 0.2575,
-      "avg_avg_clustering": 0.8171,
-      "std_avg_clustering": 0.2555,
-      "avg_avg_path_length": 1.1943,
-      "std_avg_path_length": 0.3412,
-      "avg_components": 1.4688,
-      "std_components": 1.4787,
-      "avg_modularity": 0.0477,
-      "std_modularity": 0.1176,
-      "avg_community_count": 1.8125,
-      "std_community_count": 1.8103,
-      "avg_nodes": 6.375,
-      "std_nodes": 5.2663,
-      "avg_edges": 12.1875,
-      "std_edges": 14.3928,
-      "avg_centralization": 0.163,
-      "std_centralization": 0.1783
+      "avg_density": 0.8075,
+      "std_density": 0.2404,
+      "avg_avg_clustering": 0.75,
+      "std_avg_clustering": 0.3298,
+      "avg_avg_path_length": 1.1533,
+      "std_avg_path_length": 0.2553,
+      "avg_components": 1.6022,
+      "std_components": 2.0115,
+      "avg_modularity": 0.0326,
+      "std_modularity": 0.0834,
+      "avg_community_count": 1.9462,
+      "std_community_count": 2.4642,
+      "avg_nodes": 6.7419,
+      "std_nodes": 6.152,
+      "avg_edges": 16.4731,
+      "std_edges": 25.7066,
+      "avg_centralization": 0.1795,
+      "std_centralization": 0.2122
     },
     "dialogue": {
-      "avg_density": 0.6336,
-      "std_density": 0.3136,
-      "avg_avg_clustering": 0.5854,
-      "std_avg_clustering": 0.3371,
-      "avg_avg_path_length": 1.0707,
-      "std_avg_path_length": 0.5464,
-      "avg_components": 1.625,
-      "std_components": 1.691,
-      "avg_modularity": 0.0658,
-      "std_modularity": 0.1743,
-      "avg_community_count": 2.25,
-      "std_community_count": 2.1506,
-      "avg_nodes": 6.375,
-      "std_nodes": 5.2663,
-      "avg_edges": 13.9062,
-      "std_edges": 12.5034,
-      "avg_centralization": 0.6026,
-      "std_centralization": 0.5441
+      "avg_density": 0.6281,
+      "std_density": 0.298,
+      "avg_avg_clustering": 0.5392,
+      "std_avg_clustering": 0.351,
+      "avg_avg_path_length": 1.1414,
+      "std_avg_path_length": 0.5439,
+      "avg_components": 1.7204,
+      "std_components": 2.1819,
+      "avg_modularity": 0.0383,
+      "std_modularity": 0.135,
+      "avg_community_count": 2.3871,
+      "std_community_count": 2.6193,
+      "avg_nodes": 6.7419,
+      "std_nodes": 6.152,
+      "avg_edges": 17.2903,
+      "std_edges": 18.5898,
+      "avg_centralization": 0.6579,
+      "std_centralization": 0.5308
     },
     "power": {
-      "avg_density": 0.1328,
-      "std_density": 0.1607,
-      "avg_avg_clustering": 0.0304,
-      "std_avg_clustering": 0.0822,
-      "avg_avg_path_length": 0.0938,
-      "std_avg_path_length": 0.2915,
-      "avg_components": 4.5312,
-      "std_components": 4.0388,
-      "avg_modularity": 0.0779,
-      "std_modularity": 0.1515,
-      "avg_community_count": 3.6562,
-      "std_community_count": 4.7144,
-      "avg_nodes": 6.375,
-      "std_nodes": 5.2663,
-      "avg_edges": 2.6562,
-      "std_edges": 3.0063,
-      "avg_centralization": 0.3668,
-      "std_centralization": 0.404
+      "avg_density": 0.1261,
+      "std_density": 0.1708,
+      "avg_avg_clustering": 0.0292,
+      "std_avg_clustering": 0.0961,
+      "avg_avg_path_length": 0.0842,
+      "std_avg_path_length": 0.3,
+      "avg_components": 4.7634,
+      "std_components": 4.8269,
+      "avg_modularity": 0.0887,
+      "std_modularity": 0.1683,
+      "avg_community_count": 3.9355,
+      "std_community_count": 5.4749,
+      "avg_nodes": 6.7419,
+      "std_nodes": 6.152,
+      "avg_edges": 2.7312,
+      "std_edges": 3.6075,
+      "avg_centralization": 0.2812,
+      "std_centralization": 0.3398
     },
     "top_characters": [
       {
         "name": "包拯",
-        "total_pr": 1.0405,
-        "appearances": 4
-      },
-      {
-        "name": "王氏",
-        "total_pr": 0.823,
-        "appearances": 3
-      },
-      {
-        "name": "秦香莲",
-        "total_pr": 0.7818,
-        "appearances": 2
-      },
-      {
-        "name": "徐策",
-        "total_pr": 0.7034,
-        "appearances": 2
-      },
-      {
-        "name": "薛蛟",
-        "total_pr": 0.7034,
-        "appearances": 2
-      },
-      {
-        "name": "宋江",
-        "total_pr": 0.6108,
-        "appearances": 2
-      },
-      {
-        "name": "书童",
-        "total_pr": 0.593,
-        "appearances": 2
+        "total_pr": 2.294,
+        "appearances": 8
       },
       {
         "name": "苏三",
-        "total_pr": 0.5918,
-        "appearances": 2
+        "total_pr": 1.7818,
+        "appearances": 7
       },
       {
-        "name": "张公道",
-        "total_pr": 0.5918,
-        "appearances": 2
+        "name": "寇准",
+        "total_pr": 1.2907,
+        "appearances": 4
       },
       {
-        "name": "戴宗",
-        "total_pr": 0.5806,
-        "appearances": 2
+        "name": "秦琼",
+        "total_pr": 1.0743,
+        "appearances": 3
+      },
+      {
+        "name": "刘世昌",
+        "total_pr": 1.0651,
+        "appearances": 4
+      },
+      {
+        "name": "秦香莲",
+        "total_pr": 1.0636,
+        "appearances": 3
+      },
+      {
+        "name": "崇公道",
+        "total_pr": 1.0546,
+        "appearances": 5
+      },
+      {
+        "name": "曹操",
+        "total_pr": 0.9684,
+        "appearances": 3
+      },
+      {
+        "name": "赵德芳",
+        "total_pr": 0.9253,
+        "appearances": 5
+      },
+      {
+        "name": "宋江",
+        "total_pr": 0.8903,
+        "appearances": 3
       }
     ]
   },
   "神话戏": {
-    "count": 3,
+    "count": 4,
     "cooccurrence": {
-      "avg_density": 0.9,
-      "std_density": 0.1414,
-      "avg_avg_clustering": 0.5667,
-      "std_avg_clustering": 0.419,
-      "avg_avg_path_length": 1.1,
-      "std_avg_path_length": 0.1414,
+      "avg_density": 0.925,
+      "std_density": 0.1299,
+      "avg_avg_clustering": 0.425,
+      "std_avg_clustering": 0.438,
+      "avg_avg_path_length": 1.075,
+      "std_avg_path_length": 0.1299,
       "avg_components": 1.0,
       "std_components": 0.0,
-      "avg_modularity": 0.0102,
-      "std_modularity": 0.0144,
-      "avg_community_count": 1.3333,
-      "std_community_count": 0.4714,
-      "avg_nodes": 3.3333,
-      "std_nodes": 1.2472,
-      "avg_edges": 3.6667,
-      "std_edges": 2.4944,
-      "avg_centralization": 0.1667,
-      "std_centralization": 0.2357
+      "avg_modularity": 0.0076,
+      "std_modularity": 0.0133,
+      "avg_community_count": 1.25,
+      "std_community_count": 0.433,
+      "avg_nodes": 3.0,
+      "std_nodes": 1.2247,
+      "avg_edges": 3.0,
+      "std_edges": 2.4495,
+      "avg_centralization": 0.125,
+      "std_centralization": 0.2165
     },
     "dialogue": {
-      "avg_density": 0.6389,
-      "std_density": 0.3068,
-      "avg_avg_clustering": 0.1,
-      "std_avg_clustering": 0.1414,
-      "avg_avg_path_length": 1.2778,
-      "std_avg_path_length": 0.2079,
-      "avg_components": 1.3333,
-      "std_components": 0.4714,
-      "avg_modularity": 0.0383,
-      "std_modularity": 0.0542,
-      "avg_community_count": 1.3333,
-      "std_community_count": 0.4714,
-      "avg_nodes": 3.3333,
-      "std_nodes": 1.2472,
-      "avg_edges": 3.6667,
-      "std_edges": 1.2472,
-      "avg_centralization": 0.6667,
-      "std_centralization": 0.9428
+      "avg_density": 0.7292,
+      "std_density": 0.3083,
+      "avg_avg_clustering": 0.075,
+      "std_avg_clustering": 0.1299,
+      "avg_avg_path_length": 1.2083,
+      "std_avg_path_length": 0.2165,
+      "avg_components": 1.25,
+      "std_components": 0.433,
+      "avg_modularity": 0.0288,
+      "std_modularity": 0.0498,
+      "avg_community_count": 1.25,
+      "std_community_count": 0.433,
+      "avg_nodes": 3.0,
+      "std_nodes": 1.2247,
+      "avg_edges": 3.25,
+      "std_edges": 1.299,
+      "avg_centralization": 0.5,
+      "std_centralization": 0.866
     },
     "power": {
       "avg_density": 0.0,
@@ -393,14 +393,14 @@
       "std_avg_clustering": 0.0,
       "avg_avg_path_length": 0.0,
       "std_avg_path_length": 0.0,
-      "avg_components": 3.3333,
-      "std_components": 1.2472,
+      "avg_components": 3.0,
+      "std_components": 1.2247,
       "avg_modularity": 0.0,
       "std_modularity": 0.0,
       "avg_community_count": 0.0,
       "std_community_count": 0.0,
-      "avg_nodes": 3.3333,
-      "std_nodes": 1.2472,
+      "avg_nodes": 3.0,
+      "std_nodes": 1.2247,
       "avg_edges": 0.0,
       "std_edges": 0.0,
       "avg_centralization": 0.0,
@@ -414,6 +414,16 @@
       },
       {
         "name": "牡丹",
+        "total_pr": 0.5,
+        "appearances": 1
+      },
+      {
+        "name": "赵匡胤",
+        "total_pr": 0.5,
+        "appearances": 1
+      },
+      {
+        "name": "陈抟",
         "total_pr": 0.5,
         "appearances": 1
       },
@@ -445,16 +455,6 @@
       {
         "name": "青狮",
         "total_pr": 0.2085,
-        "appearances": 1
-      },
-      {
-        "name": "白象",
-        "total_pr": 0.2085,
-        "appearances": 1
-      },
-      {
-        "name": "王大娘",
-        "total_pr": 0.0904,
         "appearances": 1
       }
     ]

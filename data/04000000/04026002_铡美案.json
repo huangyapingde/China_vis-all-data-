@@ -1,0 +1,1452 @@
+{
+  "script_id": "04026002",
+  "title": "铡美案",
+  "alias": [
+    "明公断"
+  ],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "包拯",
+      "hangdang": "净"
+    },
+    {
+      "name": "秦香莲",
+      "hangdang": "旦"
+    },
+    {
+      "name": "陈士美",
+      "hangdang": "老生"
+    },
+    {
+      "name": "皇姑",
+      "hangdang": "旦"
+    },
+    {
+      "name": "国太",
+      "hangdang": "老旦"
+    }
+  ],
+  "plot": "“铁面无私”的包拯，接受了秦香莲对她丈夫陈士美的控诉——“杀妻灭嗣”，在公堂上，教秦香莲与陈士\n美当对质。陈士美倚仗驸马身份，强词狡辩，包拯秉公处断，不顾皇姑、国太的阻挠，铡死了陈士美。",
+  "notes": "《铡美案》是一个流传很广的民间故事，也是一个优秀的传统剧目。这个剧本是以中国京剧团演出的《秦香\n莲》中的《铡美案》一折为底本，由中国京剧团王泉奎、娄振奎、赵文奎、郑亦秋与本院编辑处邱炘、吕瑞\n明共同整理的。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四侍卫、张龙、赵虎引包拯同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "引子",
+          "text": "赤胆忠心，保宋主，锦绣龙廷。"
+        },
+        {
+          "character": "包拯",
+          "type": "念",
+          "text": "乌纱罩铁面，与民断屈冤。眼前皆赤子，头上有青天。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "老夫，包拯。宋室驾前为臣，官拜龙图阁大学士，兼理开封府府尹。适才朝罢 而归，偶遇秦香莲拦轿喊冤，状告当朝驸马陈士美，杀妻灭嗣。老夫也曾命她 前去写状，这般时候，未见到来。 左右，伺候了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马汉、秦香莲携冬哥、春妹同上。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "白",
+          "text": "参见相爷。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "呈状上来。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊？老夫命你前去写状，因何白纸呈上？"
+        },
+        {
+          "character": "秦香莲",
+          "type": "白",
+          "text": "状告当朝驸马，无人敢写。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "哦！状告当朝驸马，就无人敢写？"
+        },
+        {
+          "character": "秦香莲",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "来！将她带在官代书写状，哪个不写抓来见我！"
+        },
+        {
+          "character": "马汉",
+          "type": "白",
+          "text": "随我来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马汉、秦香莲携冬哥、春妹同下，同上。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "白",
+          "text": "状纸写毕，相爷请看。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "呈上来。 “具告状人秦氏香莲，年三十二岁，状告当朝驸马陈士美，杀妻灭嗣”……"
+        },
+        {
+          "character": "秦香莲",
+          "type": "哭",
+          "text": "喂呀……"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "带下去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦香莲携冬哥、春妹同下。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "来。"
+        },
+        {
+          "character": "马汉",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "拿我名帖，请陈驸马过府一叙。"
+        },
+        {
+          "character": "马汉",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "太监",
+          "type": "内白",
+          "text": "驸马到。"
+        },
+        {
+          "character": "马汉",
+          "type": "白",
+          "text": "驸马不请自到。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "哦，我正要寻他，他倒来了。 有请。"
+        },
+        {
+          "character": "马汉",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉、大太监引陈士美同上。四校尉同下。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "驸马。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "明公。"
+        },
+        {
+          "character": "陈士美、包拯",
+          "type": "同笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "有座。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "不知驸马驾到，未曾远迎，当面恕罪。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "岂敢，本宫来得鲁莽，明公海涵。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "岂敢。驸马到此，必有所为。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "我命韩琪出京办事，不想被响马杀死。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "响马可曾拿获？"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "现在堂下。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "何不带上堂来，一同审问。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "那是自然。 来！"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "带响马。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "带响马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉带王朝同上。四校尉同下。"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "参见相爷。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊，你可是王朝？"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "正是小人。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "为何身带绑绳？"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "驸马言道，韩琪是小人杀死。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "可曾招认？"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "招认了。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "嗯！人命关天，你就不该招认。"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "小人若不招认，驸马焉能过府。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯点头。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊，驸马。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "明公。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "此人乃是我府的王朝，怎说是杀人的响马？"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "明明是杀人的响马，怎道你府的王朝！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "王朝也罢，响马也罢。 来，与他松绑。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "且慢，走脱响马，哪个担待？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "驸马你来看！走脱了响马，走不了包拯！ 来，与他松绑。"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "谢相爷。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊，驸马，真响马倒被我拿获了。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "倒被明公拿获了？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "正是。并非一人。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "莫非三五成群？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "正是三五成群。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "就该带上堂来，你我一同审问。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "原要一同审问。 来！"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "带响马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯向王朝示意。"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "秦香莲母子上堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦香莲携冬哥、春妹同上。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮摇板",
+          "text": "忽听相爷一声叫， 走上前来问根苗。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "唗！"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮散板",
+          "text": "一见贱人心头恼， 三番两次为哪条？ 三尺龙泉出了鞘， 管叫你母子命难逃！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯拦，秦香莲、冬哥、春妹同下。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "驸马，你太莽撞了，莽撞了，啊哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、陈士美同落座。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "驸马，她母子既然找进京来，你就该相认才是。"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "嗯！本宫命你审问响马，你倒盘问起本宫来了。 来，顺轿！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯拦。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "回府。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "只恐你来得就去不得！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮导板",
+          "text": "包龙图打坐在开封府，"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮原板",
+          "text": "尊一声陈驸马细听端的： 曾记得端午日朝贺天子， 我与你在朝房曾把话提。 提起了招赘事你神色不定， 我料你在原郡定有那结发妻。 到如今她母子前来寻你， 你为何不相认反把心欺。 我劝你认香莲是正理， 祸到临头悔不及。"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮原板",
+          "text": "明公说话言太偏， 细听本宫说根源： 甲子年间开科选， 天下举子来求官， 头一名进士陈士美，"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮快板",
+          "text": "御笔亲点为状元； 跨马三日游宫院， 才将公主配良缘。 一无证来二无见， 你叫我相认为哪般？"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮摇板",
+          "text": "驸马不必巧言讲， 现有凭据在公堂。 人来看过香莲状——"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "驸马！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮快板",
+          "text": "驸马近前看端详： 上写着秦香莲三十二岁， 状告当朝驸马郎。 抛妻子、藐皇上， 后婚男儿招东床。 状纸押至在我的大堂上—— 咬定牙关你为哪桩！"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮散板",
+          "text": "既然有人将我告， 你何不升堂问根苗！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "你劝我升堂有什么好， 霎时叫你的魂魄消。 王朝击鼓带原告！"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "击鼓升堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四衙役、四刽子手自两边分上。包拯入座。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "带上了香莲看他招不招！"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "香莲上堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦香莲携冬哥、春妹同上。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "母子三人把堂进， 包相爷与我把冤伸。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "那旁坐的陈士美， 上前对质这负义人。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "你如今来到开封府， 包相爷不饶负义人！"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮散板",
+          "text": "你冒认官亲将我告， 公堂之上还放刁。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "我身上穿的是公婆孝， 你身上穿的是蟒龙袍； 恨你不过剜尔眼！"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮散板",
+          "text": "一足要你命一条！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "大胆！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "你差韩琪行刺到， 来到开封还不招！"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮散板",
+          "text": "我差韩琪有谁晓？"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "现有你府杀人刀！"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮散板",
+          "text": "为何有刀无有鞘？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": "秦香莲",
+          "type": "白",
+          "text": "相爷！"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "刀鞘现在韩琪腰！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "着着着！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "王朝与爷取刀鞘！"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王朝、秦香莲携冬哥、春妹同下。王朝上。"
+        },
+        {
+          "character": "王朝",
+          "type": "西皮散板",
+          "text": "取来刀鞘相爷瞧。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "大堂之上刀对鞘， 件件是实你还不招！"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮散板",
+          "text": "大堂之上刀对鞘， 心想一计我要脱逃。 内侍与我快顺轿！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "明公啊！"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮散板",
+          "text": "我有本章奏当朝。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "开封府有人将你告， 先打官司后上朝！"
+        },
+        {
+          "character": "陈士美",
+          "type": "西皮散板",
+          "text": "纵然有人将我告， 你把我当朝驸马怎开销！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "慢说你是驸马到， 就是那凤子龙孙我也不饶！ 头上打下乌纱帽！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯打去陈士美纱帽，太监下。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "身上再脱你的蟒龙袍！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刽子手同剥去陈士美龙袍。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "人来捆绑陈士美！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刽子手同抬起陈士美。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "陈驸马！"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "包明公！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "陈士美！"
+        },
+        {
+          "character": "陈士美",
+          "type": "白",
+          "text": "包黑贼！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "呀呀呸！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "杀妻灭子罪难逃。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "刽子手！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "将陈士美押至在二堂道！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刽子手抬陈士美同下。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "铡了这负义人再奏当朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "皇姑",
+          "type": "内白",
+          "text": "摆驾。"
+        },
+        {
+          "character": "皇姑",
+          "type": "太监、四宫女引皇姑同上。",
+          "text": "⑴"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮快板",
+          "text": "忽听内待一声禀， 倒叫本宫吃一惊。 来在开封住车辇， 快叫包拯来把我迎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王朝暗上。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "皇姑驾到。"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "启相爷：皇姑驾到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四侍卫、马汉、张龙、赵虎引包拯同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "忽听王朝一声请，"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "皇姑驾到。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "皇姑驾到府门庭。 走上前来忙跪定， 问声皇姑可安宁？"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "本宫口内传旨意， 包拯莫跪且平身。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "皇姑不在宫院内， 来在开封为何情？"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "驸马过府来议事， 为何不见转回程？"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "开封府无有陈驸马， 有一个犯官负义人。"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "犯罪的官儿是哪一个？"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "陈士美就是他的名。"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "驸马犯了何条律？"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "杀妻灭子欺祖宗。"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "欺了祖宗该何罪？"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "包拯的铜铡不容情！"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "既然有人将他告， 快带原告问分明。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "回头便把香莲叫，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦香莲上。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "相爷唤我为哪条？"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "龙凤辇、五彩轿， 里面坐的龙凤娇。 你只管向前莫胆小， 看她把你怎开销！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯下。四侍卫、王朝、马汉、张龙、赵虎随下。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "来至在堂外用目看，⑵ 前护后拥好威严。 下首不跪上首站， 她问我一声我答一言。"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "龙凤辇内用目看， 你是何人站我面前？"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "自幼配夫陈士美， 我的名字秦香莲。"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "驸马家无妻和子， 你冒认官亲理不端！"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "我夫妻结亲十年整， 我与他生下女和男。"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "你不用与我巧言辩， 见皇姑不下跪所为哪般？"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "论国法我应当与你跪， 论家法你就该把我参。"
+        },
+        {
+          "character": "皇姑",
+          "type": "白",
+          "text": "唗！"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "我本是金枝玉叶女， 敢在我面前发狂言！"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "先娶我来我为大， 后娶你来你为偏。"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "好一个大胆秦香莲， 竟敢与皇姑论正偏。 吩咐宫人皮鞭打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宫女打秦香莲，秦香莲下。四侍卫、王朝、马汉、张龙、赵虎引包拯同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "你打香莲为哪般？"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "她敢与我分大小，"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "你二人应当姐妹称。"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "为了此事将她打，"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "包拯在此你打不成！"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "要打要打定要打！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "哼哼！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "休在我开封乱胡行！"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮散板",
+          "text": "吩咐内侍催车辇， 搬来国太讲人情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监、四宫女、皇姑同下。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "金枝玉叶少训教， 来在开封搅老包。 慢说搬来国太到， 宋王爷到此我也不饶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "国太",
+          "type": "内西皮导板",
+          "text": "适才内侍一声报，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引国太同上。"
+        },
+        {
+          "character": "国太",
+          "type": "西皮原板",
+          "text": "不由哀家怒冲霄。 包拯作事真可恼， 要铡驸马为哪条？ 闷坐宫院心焦躁， 皇儿回来问根苗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宫女引皇姑同上。"
+        },
+        {
+          "character": "皇姑",
+          "type": "西皮摇板",
+          "text": "未下车辇泪先掉， 搬请母后把案消。"
+        },
+        {
+          "character": "国太",
+          "type": "白",
+          "text": "驸马之事怎么样了？"
+        },
+        {
+          "character": "皇姑",
+          "type": "白",
+          "text": "今有包拯将驸马搭至铡口……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皇姑哭。"
+        },
+        {
+          "character": "国太",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "内侍摆驾开封到！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。王朝上。"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "快叫包拯把我朝。"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "启禀相爷：国太驾到。"
+        },
+        {
+          "character": "包拯",
+          "type": "内西皮散板",
+          "text": "王朝禀来马汉报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四侍卫、马汉、张龙、赵虎引包拯同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "果然是国太驾临朝。"
+        },
+        {
+          "character": "王朝、马汉",
+          "type": "同白",
+          "text": "国太驾到。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "走向前来忙跪倒， 接驾来迟把臣饶。"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "哀家口内传旨意， 包相免礼且平身。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "叩罢头来谢罢恩， 国太到此为何情？"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "驸马身犯何条罪， 为何不回紫墀宫？"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "香莲母子将他告， 杀妻灭子罪难饶。"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "驸马是我皇家婿， 庶民告官罪不容。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "说什么皇亲与国戚， 王子犯法与民同。"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "好一个胆大小包拯， 哀家讲情你不听， 我这里大堂来坐定， 看你把他怎样行！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "国太大堂来坐定， 倒叫包拯无计行！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "刽子手！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "忙将铜铡来搭定，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刽子手搭铜铡同上，过场，同下。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "霎时叫他命难存！"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "一见铜铡搭上堂， 不由哀家着了慌。 何人告下冤枉状， 快把原告带上堂。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "回头便把香莲叫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦香莲携冬哥、春妹同上。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "相爷叫我为哪条？"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "大堂坐的龙国太， 那旁坐的龙凤娇。 我命你向前苦哀告， 也免得老包把心操。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四侍卫、张龙、赵虎、包拯同下。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "带领儿女忙跪倒，"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "一见贱人气难消。 内侍抢他的儿和女！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监抢冬哥、春妹同下。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "倒叫香莲无计行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王朝示意击鼓。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "急急忙忙击堂鼓——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四侍卫、张龙、赵虎引包拯同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "香莲击鼓为何情？"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "国太抢去我的儿和女，"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "你为何抢她的小姣生？"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "哪个见她儿和女！"
+        },
+        {
+          "character": "王朝",
+          "type": "西皮散板",
+          "text": "内侍抢去了小姣生。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "王朝追回她儿和女！"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王朝下，领冬哥、春妹同上。"
+        },
+        {
+          "character": "王朝",
+          "type": "西皮散板",
+          "text": "相爷与她把冤伸。"
+        },
+        {
+          "character": "国太",
+          "type": "西皮散板",
+          "text": "我纵然抢她的儿和女， 你敢把哀家怎样行！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "一见国太把脸变， 倒叫包拯为了难。"
+        },
+        {
+          "character": "秦香莲",
+          "type": "白",
+          "text": "相爷作主！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "王朝！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "看过俸银三百两！"
+        },
+        {
+          "character": "王朝",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王朝取银。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "双手交与秦香莲。 这是纹银三百两， 拿回家去度饥寒。 教你儿女把书念， 千万读书莫作官； 你丈夫倒把高官作， 害得你一家就不团圆。 带领儿女回家转！"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮散板",
+          "text": "接过银两泪涟涟！ 人道包相是铁面， 却原来他官官相护有牵连。 三百两银子我不要， 从今后屈死也不喊冤！ 手拉儿女回家转——"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "回来！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "她母子三人泪不干。 香莲下堂把我怨， 她道我官官相护有牵连。 本当铡了陈士美——"
+        },
+        {
+          "character": "国太",
+          "type": "白",
+          "text": "大胆！"
+        },
+        {
+          "character": "皇姑",
+          "type": "哭",
+          "text": "喂呀……"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "国太一旁来阻拦。 有心不铡陈士美——"
+        },
+        {
+          "character": "秦香莲",
+          "type": "哭",
+          "text": "喂呀……"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "倒叫我包拯两为难。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯摘冠。"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "拼着官儿我不作， 塌天大祸我承担。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "刽子手！"
+        },
+        {
+          "character": "包拯",
+          "type": "西皮散板",
+          "text": "将陈士美搭在铜铡案， 铡了这负义贼再见龙颜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刽子手抬陈士美同上，过场，同下。国太、皇姑同急扑，包拯拦阻。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "开铡！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同允。堂鼓。开铡。"
+        },
+        {
+          "character": "国太、皇姑",
+          "type": "同白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦香莲揽冬哥、春妹入怀，以袖掩面。幕落。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        },
+        {
+          "character": "国太、皇姑",
+          "type": "stage",
+          "text": "—————————— ⑴一般演出本，此处系皇姑在宫内，上西皮慢板。中国京剧团演出的《秦香莲》整理本，改为已到开封府，上快 板，在结构上较为精炼，故采用了后者。 ⑵中国京剧团的《秦香莲》整理本。此段二六板。附录唱词，供作参考："
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮摇板",
+          "text": "来至在堂外用目看，"
+        },
+        {
+          "character": "秦香莲",
+          "type": "西皮二六板",
+          "text": "前护后拥好威严！ 八宝凤冠头上戴， 身上穿着龙凤衣衫； 她满头珠翠耀人眼， 我的青丝赶成了毡； 她八幅罗裙腰中系， 我的罗裙扯去了半边； 她好比一轮明月圆又亮。 却怎么我这月缺月黑乌云遮满天就不能够重圆。 她好比三春牡丹鲜又艳， 我好比雪里梅花耐霜寒！ 恨只恨陈士美把良心改变， 贪荣华丧天良变了心田， 上首不跪下首站， 她问我一声我答一言。"
+        }
+      ]
+    }
+  ]
+}

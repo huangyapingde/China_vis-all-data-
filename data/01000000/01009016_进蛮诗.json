@@ -1,0 +1,1101 @@
+{
+  "script_id": "01009016",
+  "title": "进蛮诗",
+  "alias": [
+    "太白醉酒"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "李白",
+      "hangdang": "老生"
+    },
+    {
+      "name": "唐明皇",
+      "hangdang": "老生"
+    },
+    {
+      "name": "杨国忠",
+      "hangdang": "净"
+    },
+    {
+      "name": "高力士",
+      "hangdang": "丑"
+    },
+    {
+      "name": "使臣",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "俗传明皇时有黑蛮国遣使进表，表用蛮文缮写，语多不逊，谓中国如无人识得此表，彼即将兴师夺取唐朝天\n下。时盈廷学士，俱不能辨，明皇甚惭虑。旋由贺知章、孟浩然等，举荐李白能识。明皇乃以殊礼迎召太白，\n并赐以学士官。太白即至殿，余酲尚未醒，因前曾受过杨国忠、高力士等恶气，乃令磨墨脱靴以报，卒乃\n朗诵蛮表，译明原意，亦草就蛮诗，仍交该臣带回，嘱其弗生妄想。蛮使战兢而退。此亦可谓战胜於朝廷之\n上矣。",
+  "notes": "昆剧《彩毫记》中系《吟诗脱靴》，京剧翻为此本，剧情大异。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠引使臣同上。"
+        },
+        {
+          "character": "使臣",
+          "type": "念",
+          "text": "手捧黑蛮表，进贡大唐朝。"
+        },
+        {
+          "character": "使臣",
+          "type": "白",
+          "text": "俺，普海国使者是也。奉了我国狼主之命，去到大唐献表。 孩子们趱行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠、使臣同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨国忠、高力士、孟浩然、贺知章同上。〖牌子〗。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "老夫杨国忠。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "咱家高力士。"
+        },
+        {
+          "character": "贺知章",
+          "type": "白",
+          "text": "下官贺知章。"
+        },
+        {
+          "character": "孟浩然",
+          "type": "白",
+          "text": "下官孟浩然。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "众位大人请了。"
+        },
+        {
+          "character": "高力士、贺知章、孟浩然",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "今有普海国使臣前来献表，少时万岁登殿，你我一同启奏。"
+        },
+        {
+          "character": "高力士、贺知章、孟浩然",
+          "type": "同白",
+          "text": "香烟渺渺，圣驾临朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨国忠、高力士、贺知章、孟浩然分班站，四太监引唐明皇同上。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "引子",
+          "text": "凤阁龙楼，万古千秋。"
+        },
+        {
+          "character": "杨国忠、高力士、贺知章、孟浩然",
+          "type": "同白",
+          "text": "参见万岁。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "杨国忠、高力士、贺知章、孟浩然",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "念",
+          "text": "金殿当头紫阁重，仙人掌上玉芙蓉。太平天子朝元日，五色云车驾六龙。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "孤，大唐天子。登基以来，风调雨顺，国泰民安。今当早朝。 众卿！"
+        },
+        {
+          "character": "杨国忠、高力士、贺知章、孟浩然",
+          "type": "同白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "有何本奏？"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "今有普海国使臣前来献表，在午门候旨。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "替孤传旨：宣普海国使臣上殿。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "领旨。 万岁有旨：宣普海国使臣上殿。"
+        },
+        {
+          "character": "使臣",
+          "type": "内白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "使臣上。"
+        },
+        {
+          "character": "使臣",
+          "type": "念",
+          "text": "来在大朝地，又是一重天。"
+        },
+        {
+          "character": "使臣",
+          "type": "白",
+          "text": "参见大朝皇帝。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "平身。头顶何物？"
+        },
+        {
+          "character": "使臣",
+          "type": "白",
+          "text": "太平表章。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "呈上来。 众卿！"
+        },
+        {
+          "character": "杨国忠、高力士、贺知章、孟浩然",
+          "type": "同白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "一同观看。"
+        },
+        {
+          "character": "杨国忠、高力士、贺知章、孟浩然",
+          "type": "同白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四大铠同暗上。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "唗！大胆使臣，进来鸟兽字迹！ 殿前武士，推出斩了！"
+        },
+        {
+          "character": "使臣",
+          "type": "白",
+          "text": "且慢。我国狼主言道：你朝有人能解此表，每年供奉，岁岁来朝；无人能解此 表，呵呵……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "押下殿去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠押使臣同下。"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "启奏万岁：杨国忠常到外邦催贡，可能解得此表。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "归班。 杨国忠！"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "你常到外邦催贡，可能解得此表？"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "老臣俱有通师答话，不能解得此表。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "归班。 咳，想孤堂堂大朝，无人能解此表，好不愧煞孤王也！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "西皮慢板",
+          "text": "普海国进来了黑蛮一片， 满朝的文武官解它不明。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "众臣！"
+        },
+        {
+          "character": "杨国忠、高力士、贺知章、孟浩然",
+          "type": "同白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "西皮慢板",
+          "text": "孤昨晚在龙床偶得一梦，"
+        },
+        {
+          "character": "杨国忠、高力士、贺知章、孟浩然",
+          "type": "同白",
+          "text": "我主有何龙兆？"
+        },
+        {
+          "character": "唐明皇",
+          "type": "西皮慢板",
+          "text": "梦见了一秀士仰貌朝天。"
+        },
+        {
+          "character": "杨国忠、高力士、贺知章、孟浩然",
+          "type": "同白",
+          "text": "这秀士他是何人，可曾讲些什么？"
+        },
+        {
+          "character": "唐明皇",
+          "type": "西皮原板",
+          "text": "他言道名李白家住蜀郡， 解此表除非是应梦呈臣。"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "启奏万岁：高、杨二家，在科场之中，也曾会过那李白。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "归班。 高、杨二卿，"
+        },
+        {
+          "character": "高力士、杨国忠",
+          "type": "同白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "在科场之中，可曾见过李白？"
+        },
+        {
+          "character": "高力士、杨国忠",
+          "type": "同白",
+          "text": "他乃酒醉狂生，被臣等赶出贡院。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "哽，欺谩贤士也！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "西皮快板",
+          "text": "高杨做事真胆大， 欺谩贤士犯皇法。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "贺、孟二卿，"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "李白现在何处？"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "现在臣府。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "宣来见朕。"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "他乃秀士，怎好朝驾。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "不妨，孤王封他翰林学士，跨朕龙驹，宣来见孤。"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "领旨。"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同西皮原板",
+          "text": "谢罢万岁金殿下， 宣来李白见君家。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贺知章、孟浩然同下。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "西皮原板",
+          "text": "不要你分班且退下，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨国忠、高力士同下。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "西皮原板",
+          "text": "宣来李白问根芽。"
+        },
+        {
+          "character": "李白",
+          "type": "内西皮导板",
+          "text": "叙皇封好一似琼林赴宴，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李白上，贺知章、孟浩然同上，马夫上。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "勒住了龙驹马睁眼细观。"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "先生，你要仔细了。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "唐天子因甚事将我诏宣？"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "今有普海国使臣，进来黑蛮一篇，众臣不解。万岁特诏先生开读。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "杨国忠、高力士可在殿前？"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "万岁大怒，将他二人赶下金殿。先生为何隐姓埋名？"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "非是我埋名姓不把君见，"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "万岁昨晚三更，梦见先生。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "万岁爷得龙兆三生有缘。"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "此地离金殿不远，先生请下龙驹。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "眼望着金銮殿相离不远，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马夫下。杨国忠、高力士同上。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮原板",
+          "text": "李太白今日里跨马朝天。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "学士公请了。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "原来是国舅大人。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "在贡院之中，多有冒犯，望乞海涵。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "你学士老爷量如沧海，谁来怪你，是谁来怪你。"
+        },
+        {
+          "character": "李白",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "呔，你仔细点！"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "哦，原来是高公爷。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "你还认识咱家。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "怎么不认识？在贡院之中，也曾领过你的高才。少时见了万岁，再要领教你的 高才。还要领教吓，哈哈……"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "启万岁：李白宣到。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "替孤传旨：宣李白上殿。"
+        },
+        {
+          "character": "贺知章、孟浩然",
+          "type": "同白",
+          "text": "万岁有旨：宣李白上殿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贺知章、孟浩然同下。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高力士、杨国忠同下。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮摇板",
+          "text": "听说是宣李白随来朝天， 醉醺醺可算得前朝神仙。 整乌纱端袍带忙上金殿， 手捧着象牙笏拜倒君前。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "臣西蜀李白见驾，吾皇万岁！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "卿家为何不抬头？"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "臣不敢仰面视君。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "恕卿无罪。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "西皮快板",
+          "text": "孤王金殿用目望， 夜梦贤臣果不差。 不要施礼且坐下， 君臣们对坐说根芽。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "谢万岁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高力士、杨国忠同上。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮摇板",
+          "text": "谢罢了万岁爷臣坐金殿，"
+        },
+        {
+          "character": "杨国忠、高力士",
+          "type": "同白",
+          "text": "哽。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮摇板",
+          "text": "杨国忠、高力士二大能员，"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "孤王尽知。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮摇板",
+          "text": "臣被他扯文章赶出贡院， 骂为臣枉生在天地之间。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "寡人皆晓。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "宣臣上殿，有何国事议论？"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "今有普海国使臣，进来黑蛮一篇，众臣不解，特请学士公开读。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "要臣开读黑蛮不难，依臣一件。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "哪一件？"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "高、杨二家，与臣侍立左右，赐臣御酒三杯，方可开读。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "孤王准奏。 高、杨二卿，"
+        },
+        {
+          "character": "杨国忠、高力士",
+          "type": "同白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "与学士公侍立左右。"
+        },
+        {
+          "character": "杨国忠、高力士",
+          "type": "同白",
+          "text": "他乃甚等样人，臣能与他站班？"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "哽，孤王传旨，怎能违抗。"
+        },
+        {
+          "character": "杨国忠、高力士",
+          "type": "同白",
+          "text": "领旨。"
+        },
+        {
+          "character": "高力士",
+          "type": "念",
+          "text": "站在廊檐下，"
+        },
+        {
+          "character": "杨国忠",
+          "type": "念",
+          "text": "谁敢不低头。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "扬尘舞蹈口代天， 先落高、杨在殿前。 大喝一声高内监！"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "在这里。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "你与我宣上了献表官。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "使臣上殿。"
+        },
+        {
+          "character": "使臣",
+          "type": "内白",
+          "text": "统旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "使臣上。"
+        },
+        {
+          "character": "使臣",
+          "type": "白",
+          "text": "参见大朝皇帝。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "殿脚伺候。 内侍看酒。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "谢万岁。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "万岁爷赐臣的皇封御宴， 他那知李太白海量宏宽。 番邦的使臣把表献上，"
+        },
+        {
+          "character": "李白",
+          "type": "西皮摇板",
+          "text": "醉眼朦胧仔细观： “普海国无宝献， 进来黑蛮诗一篇： 天朝若是有人念， 年年进贡到君前； 天朝若是无人念， 即时反上起狼烟。” 掀开黑蛮诗一篇， 可有一字不周全？ 来来来随我上金殿， 龙书案前奏龙颜。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "可有一字差错？"
+        },
+        {
+          "character": "使臣",
+          "type": "白",
+          "text": "一字无差。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "推出斩了！"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "且慢，两国相争，不斩来使。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "押下殿去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠押使臣同下。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "依卿之见？"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "依臣之见，命哪部大臣，写下飞龙草诏，晓谕他邦，年年进贡，岁岁来朝。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "就命卿家，写下飞龙草诏。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "要臣写诏，却也不难，依臣一件。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "哪一件？"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "要杨国忠与臣磨墨，高力士与臣脱靴，赐臣御酒三杯，方可写诏。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "孤王准奏。 杨国忠与学士公磨墨，高力士与学士公脱靴。"
+        },
+        {
+          "character": "杨国忠、高力士",
+          "type": "同白",
+          "text": "他乃甚等样人，臣与他脱靴磨墨？"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "孤王传旨，怎敢违抗。"
+        },
+        {
+          "character": "杨国忠、高力士",
+          "type": "同白",
+          "text": "领旨。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "高公爷，"
+        },
+        {
+          "character": "杨国忠",
+          "type": "念",
+          "text": "冤仇不可结，"
+        },
+        {
+          "character": "高力士",
+          "type": "念",
+          "text": "结下无有歇。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "吓，二位大人，"
+        },
+        {
+          "character": "李白",
+          "type": "念",
+          "text": "量人须量己，何必把冤记。"
+        },
+        {
+          "character": "李白",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "内侍看酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内监允。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "高公爷请来用酒，哈哈！杨大人请吓，哈哈！高力士与你老爷脱靴。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "你是甚等样人，我与你脱靴？"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "高力士与学士公脱靴！"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "奴婢伺候万岁，怎能与他脱靴？"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "孤王传旨，谁敢不遵。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "领旨。 嚇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高力士与李白脫靴。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "高公爷，你的手腌臜得很！哈哈！"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "你的脚也不见得香！"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "杨国忠与你老爷磨墨。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "你是甚等样人，叫老夫与你磨墨？"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "杨国忠与学士公磨墨！"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "他乃甚等样人，叫老夫与他磨墨？"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "孤王旨意，怎敢违拗。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "领旨。 咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李白做身段。"
+        },
+        {
+          "character": "杨国忠",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": "李白",
+          "type": "念",
+          "text": "一封丹草诏，晓谕他邦知。"
+        },
+        {
+          "character": "李白",
+          "type": "西皮慢板",
+          "text": "头顶天朝坐大邦， 晓谕他国小边疆： 我主爷洪福是天降， 胜似尧舜与商汤。 年年进贡来朝上， 岁岁称臣到我邦。 再若兴兵来犯界， 准备人马在朝阳。 一封草诏忙修上， 打发使臣早还乡。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "内侍，宣使臣上殿。"
+        },
+        {
+          "character": "内监",
+          "type": "白",
+          "text": "使臣上殿。"
+        },
+        {
+          "character": "使臣",
+          "type": "内白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "使臣上。"
+        },
+        {
+          "character": "使臣",
+          "type": "白",
+          "text": "参见大朝皇帝。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "这里有飞龙草诏，晓谕你邦：年年进贡，每岁来朝。下殿。"
+        },
+        {
+          "character": "使臣",
+          "type": "念",
+          "text": "我说此表无人解，谁知李白有大才。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "使臣下。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "高、杨二卿，光禄寺摆宴，与学士公同饮。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "谢万岁！请驾回宫。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "退班。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引唐明皇同下。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "吓，高、杨二位大人！"
+        },
+        {
+          "character": "杨国忠、高力士",
+          "type": "同白",
+          "text": "学士公。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "在金殿之上，可公道么？"
+        },
+        {
+          "character": "杨国忠、高力士",
+          "type": "同白",
+          "text": "罢了罢了，你把我二人太欺负了。"
+        },
+        {
+          "character": "李白",
+          "type": "白",
+          "text": "高公爷，你来看。哈哈……"
+        },
+        {
+          "character": "杨国忠、高力士",
+          "type": "同白",
+          "text": "咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李白、杨国忠、高力士同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

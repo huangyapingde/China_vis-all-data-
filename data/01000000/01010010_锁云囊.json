@@ -1,0 +1,897 @@
+{
+  "script_id": "01010010",
+  "title": "锁云囊",
+  "alias": [],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "梅花娘",
+      "hangdang": "花旦"
+    },
+    {
+      "name": "朱母",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "朱小姐",
+      "hangdang": "旦"
+    },
+    {
+      "name": "梅公子",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "按剧中事迹，乃一朱氏女，本名门闺秀，姿首幽娴，忽为强梁花光讹诈，欲强配成婚。母女二人，伶仃孤苦，\n无计可施。忽夜间一女盗自屋上跳入，说明来由，将彼母女救出，寄至伊兄家中安顿。己则代其遣嫁，交\n拜成婚，至夜间将花灌醉，设法逃出。卒能将朱氏母女保全他往，未被奸占，是亦旧时说部中，一段好关目\n也。",
+  "notes": "《锁云囊》情节，系一义侠女盗，救困扶难之事。其女盗出场，大致与《新安驿》仿佛，惟事实不同。此剧\n四盏灯前每演唱。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅花娘上，起霸。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "念",
+          "text": "我本侠义女佳人，终朝每晚盗金银，乔妆打扮人难解，叫人惊怕魂落身。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "俺，梅花娘，闻得朱府小姐出嫁，因此前去走走。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "西皮导板",
+          "text": "洒开大步往前奔，"
+        },
+        {
+          "character": "梅花娘",
+          "type": "叫",
+          "text": "哇呀哇呀！"
+        },
+        {
+          "character": "梅花娘",
+          "type": "西皮快板",
+          "text": "嘴上胡须乱纷纷。 迈动金莲如飞腾， 不觉已是朱府门。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "吓，为何门户紧闭，这、这、这便怎么处？哦呵有了！那旁一垛花墙，侍俺越 墙而过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅花娘过桌子，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱母、朱小姐同上。"
+        },
+        {
+          "character": "朱小姐",
+          "type": "唱",
+          "text": "闺阁窈窕国色倾， 不幸爹爹命归阴。 只因上坟献国宝， 花光讹诈强配亲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅花娘暗上，上桌，听。"
+        },
+        {
+          "character": "朱母",
+          "type": "唱",
+          "text": "哭得老身珠泪淋， 怎不叫人痛伤心。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "打鬼打鬼！"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "咱不是鬼。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "敢是大王？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "咱也不是大王。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "你是何人，站在我家房上？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "咱乃大王的奶奶。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "我却不信。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "你且看来。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "梅花娘",
+          "type": "西皮导板",
+          "text": "尊一声夫人休要吓，"
+        },
+        {
+          "character": "梅花娘",
+          "type": "叫",
+          "text": "哇呀哇呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅花娘下桌。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "西皮摇板",
+          "text": "奴家乃是女豪侠。 头上取下红毡帽， 身上现出绣花袄。 手举钢刀往下砍，"
+        },
+        {
+          "character": "梅花娘",
+          "type": "叫",
+          "text": "哇呀哇呀！"
+        },
+        {
+          "character": "朱母、朱小姐",
+          "type": "同白",
+          "text": "哎呀，饶命吓！"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "唔。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "西皮摇板",
+          "text": "唬得他母女乱如麻。 迈动金莲摆几摆，"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "吓，夫人。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "哎，你还有嘴上呢……"
+        },
+        {
+          "character": "梅花娘",
+          "type": "西皮摇板",
+          "text": "嘴上胡须不要它。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "吓，夫人。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "哦，原来是位大娘。请坐。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "有坐。吓夫人，小姐因何欲寻短见？"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "大娘有所不知，只因花光贼子，讹我老爷在日，借了他家一万两银子。如今本 利全要，大约十万有余。有了银子便罢，如若不然，要将我家宝贝锁云囊，同 着女儿抬过府去，抵押此款。乞求大人作主！"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "哦。花公子之父在朝为官，这门亲事，可以允得。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "大娘，我女乃窈窕之体，岂肯配那蠢郎为妻么？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "哦，原来如此，请小姐退下。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "儿且退下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱小姐允，下。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "夫人，我替小姐前去如何？"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "我家为难之事，怎好劳动大娘？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "这有何妨。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "你代吾女前去，只恐难出花府。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "夫人放心。我既有进路，定有出路。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "我母女哪里安身？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "夫人不嫌，到我家中暂住，再作道理。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "怎好补报。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "不必过谦。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "但不知从哪条路去？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "前面大街，见有红灯一盏，便是我家。用手敲门，定有人来开门，不要害怕于 他。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "知道了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣。梅花娘换衣。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "夫人，现有包裹一个，吩咐他家人来，不许开看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱院上。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "花府来人呢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花院上。"
+        },
+        {
+          "character": "花院",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "朱院",
+          "type": "白",
+          "text": "我家小姐，有包裹一个，不许开看。"
+        },
+        {
+          "character": "花院",
+          "type": "白",
+          "text": "文契呢？"
+        },
+        {
+          "character": "朱院",
+          "type": "白",
+          "text": "在这里。叫他们搭轿上来。"
+        },
+        {
+          "character": "花院",
+          "type": "白",
+          "text": "搭轿上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四青袍、轿夫同上，梅花娘坐轿，同下。朱小姐上。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "家院。我与小姐往邻居家住，尔等在家看守门户。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱院允，下。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "儿吓，随我来罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "来此已是，有红灯一盏，待我叫门。 有人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁上君上。"
+        },
+        {
+          "character": "梁上君",
+          "type": "白",
+          "text": "是谁吓？"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "是我。"
+        },
+        {
+          "character": "梁上君",
+          "type": "白",
+          "text": "你们哪里来的？"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "梅花娘叫我们来的。"
+        },
+        {
+          "character": "梁上君",
+          "type": "白",
+          "text": "哦，他叫你们来的，进去。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "梁上君",
+          "type": "白",
+          "text": "如今梅花娘哪里去了？"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "被花府抢去了。"
+        },
+        {
+          "character": "梁上君",
+          "type": "白",
+          "text": "被花府抢去了？哦，想她认得路径，必然回来，进去罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱母、朱小姐同允，同下。"
+        },
+        {
+          "character": "梁上君",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "梁上君",
+          "type": "白",
+          "text": "我想梅花娘此去，莫说物件，连人都盗了两个来了。"
+        },
+        {
+          "character": "梁上君",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁上君下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花光上。"
+        },
+        {
+          "character": "花光",
+          "type": "念",
+          "text": "两朵金花插两旁，今日打扮做新郎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花院上。"
+        },
+        {
+          "character": "花院",
+          "type": "白",
+          "text": "大爷，花轿到了，宝贝也来了。"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "吩咐搭上堂来。"
+        },
+        {
+          "character": "花院",
+          "type": "白",
+          "text": "搭上堂来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四青袍、轿夫、梅花娘同上。"
+        },
+        {
+          "character": "花院",
+          "type": "念",
+          "text": "一块沉香木，雕成一马鞍。新贵来上跨，四季永平安。"
+        },
+        {
+          "character": "花院",
+          "type": "白",
+          "text": "请新人交拜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。梅花娘、花光交拜。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "恭喜大爷！"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "下面领赏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同允，同下。"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "小姐前日亮的什么宝贝？取出与卑人一看。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "相公欲看此宝，须要取枝御香。"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "御香在此。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "待我焚香。"
+        },
+        {
+          "character": "花光",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "妙吓！"
+        },
+        {
+          "character": "花光",
+          "type": "西皮慢板",
+          "text": "顿然间绣房内香风阵阵， 锁云囊果然是价值千金。 一霎时浑身软眉头锁紧， 昏沉沉倒椅上气喘吁吁。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "西皮慢板",
+          "text": "这狂徒顿然间昏迷不醒，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅花娘与花光换衣。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "西皮慢板",
+          "text": "俺这里换行装混出府门。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "吓，这贼子将门闭起，如何是好。哦，有了。 呔！府中有了强盗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同上。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "拿强盗！拿强盗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅花娘混下。花院上。"
+        },
+        {
+          "character": "花院",
+          "type": "白",
+          "text": "不要打，不要打！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "哦。"
+        },
+        {
+          "character": "花院",
+          "type": "白",
+          "text": "原来是大爷醉倒在此，看解药来。大爷醒来，大爷醒来！"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "哎呀，小姐吓！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "小人们在此。"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "唗！你们这些狗头，怎么跑到绣房来了？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "大爷你头上？"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "哎呀，贼帽子！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "身上？"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "贼衣裳！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "还有嘴上？"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "这是贼胡子！小姐呢？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "不见了。"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "宝贝呢？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "也不见了。"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "倘若朱夫人，问我要小姐宝贝，拿何言答对？"
+        },
+        {
+          "character": "花院",
+          "type": "白",
+          "text": "大爷做张状纸，当堂去告。追着宝贝，就有小姐的下落。"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "好。速去办来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花院允。"
+        },
+        {
+          "character": "花光",
+          "type": "白",
+          "text": "咳，强盗吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅花娘上。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "开门来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁上君上。"
+        },
+        {
+          "character": "梁上君",
+          "type": "白",
+          "text": "谁吓？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "大郎。"
+        },
+        {
+          "character": "梁上君",
+          "type": "白",
+          "text": "大娘请进。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "大郎，可有个老夫人带一小姐到此？"
+        },
+        {
+          "character": "梁上君",
+          "type": "白",
+          "text": "有的。 老夫人请出来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱母上。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "大娘回来了？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "夫人请坐。请问令爱可曾许配与人？"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "无有门当户对。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "胞弟人才出众，不知夫人意下如何？"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "现在哪里？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "兄弟哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅公子上。"
+        },
+        {
+          "character": "梅公子",
+          "type": "白",
+          "text": "姐姐何事？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "见过夫人。"
+        },
+        {
+          "character": "梅公子",
+          "type": "白",
+          "text": "老夫人。"
+        },
+        {
+          "character": "朱母",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "果然人才出众。愿将小女许配令弟。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "过来谢过岳母。"
+        },
+        {
+          "character": "梅公子",
+          "type": "白",
+          "text": "是。岳母请上，受小婿一拜。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "罢了。这有宝贝锁云囊，你带至京中，文章得中便罢，如若不然，即将此宝献 上皇家，也能得一官半职。"
+        },
+        {
+          "character": "梅公子",
+          "type": "白",
+          "text": "多谢岳母。姐姐将此宝打在行李之内。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "晓得。"
+        },
+        {
+          "character": "梅公子",
+          "type": "白",
+          "text": "岳母请上，小婿拜别。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。梅公子下。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "我母女回去罢。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "夫人回去不得。"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "那贼一计不成，二计又来，待我夫妻保你逃往苏州去罢！"
+        },
+        {
+          "character": "朱母",
+          "type": "白",
+          "text": "如此甚好。"
+        },
+        {
+          "character": "梅花娘",
+          "type": "白",
+          "text": "夫人，天已明了，赶路要紧！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

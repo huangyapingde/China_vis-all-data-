@@ -1,0 +1,4906 @@
+{
+  "script_id": "03037001",
+  "title": "金瓶女",
+  "alias": [
+    "佛门点元"
+  ],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "金瓶女",
+      "hangdang": "旦"
+    },
+    {
+      "name": "金钱元",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "潼关总镇李定邦偕妻避乱，途产一女，弃于中道，为报恩寺和尚普明捡去，取名金瓶女。连氏有子金钱元，\n进城投亲，被虎冲散，亦为普明收养，后殿攻读。金瓶女、金钱元既长，于寺院花园邂逅相遇，私订白首之\n约。金钱元赶考，误投班却黑店。班却欲杀之，经班却叔班能相救得免。班却追金钱元不果，复杀周员外之\n女，为遗祸计，曾遗僧帽一顶。周员外持帽鸣冤。巡按文嘉祥，暗访报恩寺，见金瓶女，疑凶手为普明，普\n明、金瓶女因同被拘。时连氏与李夫人为仆。李夫人被邀往文府款宴，闲谈之间，文夫人言及血案，并饬带\n金瓶女于内厅面询。金瓶女备诉往事，李夫人始认其女。金钱元高中，往救普明，并将班却治罪。金瓶女、\n金钱元完婚，连氏母子亦得团聚。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李定邦上。"
+        },
+        {
+          "character": "李定邦",
+          "type": "引子",
+          "text": "一片丹心，镇潼关，扶保朝廷。"
+        },
+        {
+          "character": "李定邦",
+          "type": "念",
+          "text": "奉王旨意出朝门，上报君恩下教民。统领雄兵潼关镇，敌人不敢犯边廷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院暗上。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "本镇、李定邦。蒙圣恩御赐总镇之职，坐镇潼关一带等处。自到任以来，地方 倒也安靖。这且不言。只因我年将半百，膝下并无子女，甚是忧虑。今日闲暇 无事，不免请出夫人，闲谈解闷。 家院！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "请你家夫人出堂！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是。 有请夫人出堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人上。"
+        },
+        {
+          "character": "李夫人",
+          "type": "念",
+          "text": "夫受皇家禄，妻沾雨露恩。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "夫人来了，请坐！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "有坐。啊老爷，将妾身唤了出来，有何话讲？"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "咳！想你我夫妻年将半百，膝下并无子女，甚是烦闷。特将夫人请了出来，闲 谈散闷。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "我说老爷，您怎么还不知道妾身早已怀孕？不久就要分娩啦。倘若生下一男， 也好接续李门的后代香烟。老爷您何必发愁啊？"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "但愿夫人生下一男，我们李氏门中也就有了后了。 家院！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "酒宴摆下，我与夫人痛饮几杯。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院摆酒筵。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "夫人请！"
+        },
+        {
+          "character": "李定邦",
+          "type": "唱",
+          "text": "夫妻们坐花厅闲谈消遣， 盼夫人生一子接续香烟。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "老爷啊！"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "老爷为人忠心耿， 苍天不负善良人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启禀老爷：大事不好了！"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "今有西羌牛邈造反，逢州夺州，遇县抢县，看看就要杀到潼关了。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "胆大牛邈，竟敢兴兵前来，真真可恼！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "即是牛邈造反，老爷就该发兵抵挡才是呀！"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "中军听令！吩咐下去：满营将官，全身披挂，校场伺候！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "李定邦",
+          "type": "念",
+          "text": "校场点动人和马，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李定邦下。"
+        },
+        {
+          "character": "李夫人",
+          "type": "念",
+          "text": "阵前定把反贼拿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人下。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "下面听者：大小三军，全身披挂，校场听点！"
+        },
+        {
+          "character": "四将",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、四羌将引牛邈同上。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "俺、牛邈。今日带领倾国人马，夺取中原天下。逢州夺州，遇县抢县。前面已 是潼关地面。 巴图噜！"
+        },
+        {
+          "character": "四羌将",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "杀上前去！"
+        },
+        {
+          "character": "四羌将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、四羌将同下。牛邈耍大刀，下场，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四龙套、四上手、四将、中军引李定邦同上。"
+        },
+        {
+          "character": "李定邦",
+          "type": "念",
+          "text": "营门大炮响，兴兵摆战场。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "本镇、李定邦。今有牛邈造反，扰乱中原，岂肯容他猖狂！ 众将官！"
+        },
+        {
+          "character": "四将",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "杀上前去！"
+        },
+        {
+          "character": "四将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四上手、四将、中军、李定邦同出城。四龙套、四下手、四羌将、牛邈同上，会阵。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "面前来的敢是牛邈？"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "然！"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "胆大牛邈！我朝不曾亏负尔等，竟敢兴兵前来，是何道理？"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "某家兴兵到此，及早下马归顺。稍若迟延，叫你死无葬身之地！"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "满口胡言！放马过来！ （李定邦、牛邈同起打。四龙套、四上手、四将、四龙套、四下手、四羌将同钻烟筒下。李定邦、牛邈双下。 四龙套、四上手、四将、四龙套、四下手、四羌将同打。牛邈上，杀二将。李定邦上，败下。牛邈、四龙 二将同上。）"
+        },
+        {
+          "character": "套、四下手、四羌将同走圆场，四龙套、四下手、四羌将同下。牛邈耍花枪下。李定邦领四龙套、四上手、李定邦",
+          "type": "白",
+          "text": "哎呀且住！牛邈杀法厉害，速速收兵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李定邦率四龙套、四上手、二将同入城。牛邈、四龙套、四下手、四羌将同上。"
+        },
+        {
+          "character": "牛邈",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "巴图噜，将城池团团围住！"
+        },
+        {
+          "character": "四羌将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人上。"
+        },
+        {
+          "character": "李夫人",
+          "type": "念",
+          "text": "老爷去出征，未见转回程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李定邦上，坐椅。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "老爷醒来！"
+        },
+        {
+          "character": "李定邦",
+          "type": "唱",
+          "text": "在阵前杀得我神魂飘荡，"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "妾身在此。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "李定邦",
+          "type": "唱",
+          "text": "只觉得身无力二目无光。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "老爷，怎么样啦？"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "夫人有所不知，那牛邈杀法骁勇，连斩我二员大将，又将某杀得大败而回。我 有意今晚三更时分，悄悄开城，前去敌营劫寨，乘其不备，杀他一个措手不及！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "此计甚好。老爷后堂歇息去吧！"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李定邦、李夫人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、四羌将引牛邈同上。"
+        },
+        {
+          "character": "牛邈",
+          "type": "唱",
+          "text": "今日里在阵前打了胜仗， 这时候倒叫我得意洋洋。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "今日在阵前与李定邦交战，杀得那厮城门紧闭。今晚必定前来偷营。 巴图噜！"
+        },
+        {
+          "character": "四羌将",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "今晚人不卸甲，马不离鞍，以防不测！"
+        },
+        {
+          "character": "四羌将",
+          "type": "同白",
+          "text": "啊！ （牛邈、四龙套、四下手、四羌将同假睡。李定邦、四龙套、四上手、二将同上，同杀。李定邦、四龙套、 四上手、二将同败下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟、家院引李夫人同上。"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "忽听号炮连声震， 老爷领兵去劫营。 来在高坡且站定，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人上高坡。"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "且看老爷把贼平。 （李定邦、四龙套、四上手、二将同败上，牛邈、四龙套、四下手、四羌将同追上。李定邦、四龙套、四上 手、二将同败下，牛邈、四龙套、四下手、四羌将同追下。）"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "一见老爷败了阵， 不由奴家胆战惊。 丫鬟与我把路引，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人下高坡。"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "怕的是潼关难保存。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李定邦上。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "哎呀夫人啊！为丈夫前去劫营，不料牛邈已有准备。看来这潼关城池有些难保！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "事到如今，为妻我倒有一个妙计。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "妾身有一兄长，镇守四川。你我夫妻去到那里搬兵求救，你看怎么样哪？"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "此计甚好。待某保定夫人，杀出城去，再做道理。夫人快快改扮起来。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人改装。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "家院带马！ （家院带马。李定邦上马，出城。牛邈、四龙套、四下手、四羌将同冲上。李定邦边打边退，保李夫人、丫 鬟、家院同下。）"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "巴图噜！"
+        },
+        {
+          "character": "四羌将",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "追！"
+        },
+        {
+          "character": "四羌将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李定邦带李夫人同上。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "且喜杀出重围。夫人快快逃走，免得贼兵赶来。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "李定邦",
+          "type": "唱",
+          "text": "且喜杀出重围地， 你我夫妻快些行。 催马加鞭往前进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李定邦、李夫人同走圆场。李夫人坐。"
+        },
+        {
+          "character": "李定邦",
+          "type": "唱",
+          "text": "为何坐在地埃尘？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "老爷呀！"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "一霎时只觉得肚腹疼痛， 想必是小冤家就要降生。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "哎呀，这便怎么处？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、四羌将同冲上，过场，同下。"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "心神不定疼难忍， 婴儿落在地埃尘。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "老爷，为妻生下来啦。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "夫人产生下来了，待我看看是男是女？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "是个姑娘。她还是个六指儿哪。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "哎呀夫人哪！你我正在逃难之际，要这姑娘何用。倒不如将她抛弃，也落得干 净。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "老爷您说的这是哪儿的话哪？想我们妇道人家，怀胎十月，受了多少痛苦，真 好像上刀山、下油锅的一般，才把她养活下来。虽然是个女孩子，也是你我的 骨肉。叫我把她抛弃了，那我可舍不得！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内擂鼓、喊声〗。"
+        },
+        {
+          "character": "李定邦",
+          "type": "白",
+          "text": "夫人，贼兵已到，快快上马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李定邦扶李夫人上马，弃婴儿急下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": "普明",
+          "type": "内白",
+          "text": "阿弥陀佛！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明上。"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "自幼儿出家入佛门， 去到那峨嵋山抄取经文。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "贫僧、普明。在成都报恩寺出家。是我去到峨嵋山朝山拜顶，抄来了几卷经文。 就此回寺便了！"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "数十年念经文参禅悟道， 左朝山右拜顶去把香烧。 我这里挑经卷阳关大道，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明走圆场。〖婴儿哭声〗。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "在道旁婴儿啼所谓哪条？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "啊，这大路旁边，哪里来的婴儿啼哭？待我寻找寻找。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明见婴儿。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "啊！哎呀呀，原来是个初生婴儿。为何弃在此地？这是谁家的？待我看看是男 是女。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明抱婴儿看。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "原来是个女孩儿。想我出家之人，要她作甚，由她去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明放婴儿。〖婴儿哭声〗。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "哎！想我们出家之人，方便为本，慈悲为心。今遇着这个娃娃，也是有缘。我 若不救，将她放在此地，岂不活活地饿死？待我将她抱回庙去，买些糕干，将 她抚养成人。救她一命，岂不是一番功德也。"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "我这里抱婴儿挑起经担， 急忙忙回庙去我不敢耽延。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏上。"
+        },
+        {
+          "character": "连氏",
+          "type": "引子",
+          "text": "家道贫寒，母子们，受尽熬煎。"
+        },
+        {
+          "character": "连氏",
+          "type": "念",
+          "text": "家无半亩田，每日受饥寒。一口清凉水，须我自己担。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "老身、连氏，金门为妻。丈夫早亡，只有一子，取名钱元。我母子二人，无以 为生。我有一表弟，现在城内居住。不免去到那里，借些银两，也好度日。 钱元哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元上。"
+        },
+        {
+          "character": "金钱元",
+          "type": "念",
+          "text": "忽听母亲唤，急忙到跟前。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "母亲在上，孩儿拜揖！"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "将孩儿唤出，有何话讲？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "想你我母子饥寒交迫，为娘意欲带你去到城中，找你的表舅，借些银钱，也好 度日。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "但不知几时启程？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "即刻启程。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "如此走啊！"
+        },
+        {
+          "character": "连氏",
+          "type": "唱",
+          "text": "都只为家贫寒饥难糊口， 终日里受煎熬珠泪交流。 叫我儿随为娘急忙行走， 去到那城市里把亲来投。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏、金钱元同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明上。"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "每日里在禅堂经卷读罢， 还要去买糕干抚养娇娃。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "自那日在大道旁拾来一个女娃，每日用糕干抚养，倒也强健。看天色不早，尚 未与女娃用饭。待我去买糕干。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伙计暗上。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "掌柜的，我要买糕干。"
+        },
+        {
+          "character": "伙计",
+          "type": "白",
+          "text": "买多少钱的？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "买一钱银子的。"
+        },
+        {
+          "character": "伙计",
+          "type": "白",
+          "text": "好。给你，拿去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伙计下。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "普明",
+          "type": "念",
+          "text": "手捧糕干回寺转，哺乳女娃一命全。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏、金钱元同上。"
+        },
+        {
+          "character": "连氏",
+          "type": "唱",
+          "text": "急急走来急急行，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "风旗上，过场，下。"
+        },
+        {
+          "character": "连氏",
+          "type": "唱",
+          "text": "忽然之间起大风。 手拉娇儿往前进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虎形上，连氏吓倒。虎形背金钱元下。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "连氏",
+          "type": "唱",
+          "text": "我儿不见为何情？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "且住！适才一阵狂风，将我母子冲散，钱元儿不知哪里去了。哎呀这！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏寻，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虎形背金钱元上，虎形下。普明上。"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "忽听门外一声响， 急忙开门看端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明开门，看。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "原来是个小顽童。待我将他唤醒。 顽童醒来！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "一阵风吹得我心中迷闷， 又只见一老僧站在庙门。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "你是何人，因何至此？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "我名钱元。是我与母亲进城投亲，行至荒郊，忽然起了一阵大风，因此将我刮 到此地。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "看这小孩童，生得聪明俊秀。倒不如将他收在庙内，做为螟蛉义子。 啊小孩童，老僧意欲将你作为义子，你可愿意呀？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "如此爹爹请上，孩儿参拜！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "哈哈哈！不用拜了。来，随我到后堂用斋饭去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明、金钱元同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却上，走边。"
+        },
+        {
+          "character": "班却",
+          "type": "念",
+          "text": "终日杀人放火，最爱美貌娇娥。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "俺、班却。自幼习学一身武艺，也曾结识不少绿林英雄。是俺随同叔父班能， 在这三叉路口开了一座店房。遇见过往客官带得银两，我便将他杀死，得些银 钱也好使用；若有绝色女子，俺便采花作乐，一生倒也快乐逍遥。适才前村探 友，看天时不早，俺不免回家便了。正是："
+        },
+        {
+          "character": "班却",
+          "type": "念",
+          "text": "图财害命得银两，不顾道德与天良。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "斑却下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班能上。"
+        },
+        {
+          "character": "班能",
+          "type": "念",
+          "text": "独坐招商店，每日甚忧烦。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "老汉、班能。在这三叉路口开了一座招商客店。我有一侄儿，名叫班却，吃酒 行凶，不安本份。屡屡伤害来往客商。老汉再三相劝，他执意不听。今天出门 不归，不知又往哪里去了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却上。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却进门。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "叔父，我回来啦。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "你又往哪里闯祸去了？"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "前村探友，不曾闯祸。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "想你终日吃酒行凶，不知好歹，日后难免报应！"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "叔父说哪里话来？想我一生喜的是美貌娇娥，爱的是金银财宝，得乐且乐，任 意逍遥。你又何必如此唠叨！"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "班能",
+          "type": "唱",
+          "text": "天理循环有报应， 祸到临头活不成！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班能下。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "这么大年纪，不知养养精神，又来管我的闲事，岂有此理！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明上。"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "在禅堂读罢了经文卷， 去到后殿看一番。 为的是义儿女努力不倦， 不负我一片好心肝。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "老僧普明。十七年前，拾着一男一女：男名金钱元，女名金瓶女。今日天气晴 和，不免将他们唤出，分别说明便了。 金瓶女儿哪里？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女上。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "引子",
+          "text": "身长寺院，每日里，侍奉严亲。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "谢坐。唤女儿出来，有何训教？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "儿啊，你我父女，久居寺中，儿可知自己的来历？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "这个！女儿不知，爹爹指示！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "只因那年牛邈造反，为父朝罢峨嵋山而回，行至中途，将儿拾得来的，抚养一 十七载。如今我儿已长大成人。从今以后，只可在花园玩耍，不可去到前院。 你要牢牢谨记！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "听他言来方知情， 多蒙抚养十七春。 走上前来忙跪定， 粉身难报你的养育恩。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "儿呀，起来。我这里有金钗一只，戴在身旁，以为谨记。我儿后面学习针黹去 吧！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "遵命。正是："
+        },
+        {
+          "character": "金瓶女",
+          "type": "念",
+          "text": "爹爹来指引，今日才知情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女下。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "金钱元哪里？"
+        },
+        {
+          "character": "金钱元",
+          "type": "内白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元上。"
+        },
+        {
+          "character": "金钱元",
+          "type": "念",
+          "text": "男儿须立志，平步登青云。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "谢坐。唤孩儿出来，有何吩咐？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "儿呀，你的文章可曾做好？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "已作完了，爹爹请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元呈文。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "待我看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明看文。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "大有进展。待我与你改上几句。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明改文。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "儿呀，你要用功读书，但得功名成就，方不负为父一片苦心。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "孩儿每日专心攻读，日日上进，不敢有违父命。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "这便才是。为父这有玉钱一枚，我儿带在身旁，以作纪念。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "孩儿遵命。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "从今往后，不可往后园中玩耍，以免冲撞仙姑。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "谨遵父命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元下。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "看我儿文章进步神速。明年正是科选之期，不免叫他进京应考便了。正是："
+        },
+        {
+          "character": "普明",
+          "type": "念",
+          "text": "佛门生宝地，文章耀门庭。"
+        },
+        {
+          "character": "普明",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女上。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "春风吹杨柳摇絮花飞舞， 三月景难画描万种情愁。 居寺院终日间清闲快乐， 一阵阵心中事紧皱眉头。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "奴家、金瓶女。爹爹普明。在这寺院居住，十分快乐。今日闲暇无事，不免去 至花园游玩一回便了！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "荡漾春风吹人面， 万种春愁锁眉尖。 冉冉春光快如箭， 绵绵春恨软似绵。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "看红花满地，绿草成茵，夭桃如锦，好一派艳阳春色也！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "花开花落飞满天， 红消香断有谁怜？ 柔丝如线吹不断， 一阵悠情被纠缠。 柳絮癫狂无意落， 此情却比困人天。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖胡琴牌子〗。金瓶女看花、摘花、玩赏。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "此花艳的难画描， 恰似闺阁女多娇。 红白相映千般俏， 含羞带笑怕人瞧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元上。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "走啊！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "每日书房心闷倦， 无事花园闲游玩。 用目留神来观看，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元、金瓶女对看。"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "那旁坐定女婵娟。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "唗！你是哪里来的，到我们花园做什么来了？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "唗！你是哪里来的，到我们花园做什么来了？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "这分明是我家花园，怎说是你家的？难道你还要欺骗不成么？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "你这人真真岂有此理！这明明是我家花园，怎么还说我冒认，你才是欺骗呢！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "是我家爹爹的！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "是我家爹爹的！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "你爹爹是哪个？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "你爹爹是谁？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "我爹爹是方丈普明。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "我爹爹也是方丈普明啊！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "我爹爹只有我一个女儿，哪里有你呀？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "我爹爹只有我一个儿子，哪里有你呀？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "我是爹爹的义女。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "我是爹爹的义子。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "有何为凭？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "我有玉钱为凭。你哪？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "我有金钗为凭。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "如此说来，你我是兄妹了。但不知你叫什么名字，今年多大年纪了？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "我叫金瓶女，今年一十七岁了。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "如此说来，我还比你痴长四岁呢。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "你是我的哥哥了。但是你到此地，为何不曾见过，你叫什么名字？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "我名金钱元，只因那年被大风刮到此地，蒙爹爹把我收留，作为义子。每日在 前堂攻读，足不出户，故此与小妹不曾相见。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "噢，噢，是了。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "啊小妹，愚兄有一言，不好启齿。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "有何金言，请讲当面！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "想为兄今日一见小妹，温柔儒雅。愚兄醉心倾倒，愿结——"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "有什么难讲的话，你倒是讲啊！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "愿结——"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "愿结什么？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "只是难以开口。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "四下无人，但讲无妨。愿结什么呀？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "愿结姻缘。但不知你意下如何？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "此事必须爹爹作主。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "虽然如此，但是你我今日两下许了心愿，待我进京，求得功名回来，再与爹爹 说明此事，谅无不成之理。现有玉扇坠一枚，以作定礼，请你好好收起。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女接玉扇坠。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "奴有金钗一支，你将它好好带起。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "多谢小妹。你我在此对天一表！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "走向前来忙跪定，"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "但愿早早得功名。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "今日你我在此私定婚姻，但愿你努力攻读，直上青云才是！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "小妹言得极是。此番进京，金榜题名，荣耀归来，再完花烛。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "看你的志向如何。天气不早，你快快到前殿去吧！免得爹爹找你。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "告辞了！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "辞别小妹前殿往， 怎不叫人快心肠。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元下。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "请！看金郎生得倒也英俊，日后必有发展。得此佳偶，也颇自慰矣！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "且喜今日得佳偶， 私订婚约乐悠悠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明上。"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "大比之年开科选， 打发我儿赴长安。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元上。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "罢了。今当大比之年，我儿进京求取功名。一路之上，须要小心。为父将盘川 早已预备妥当。我儿就此启程才是！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "孩儿遵命。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "待为父送你出去。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "孩儿告辞了！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "辞别爹爹往前奔， 但愿此去跳龙门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元下。"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "我儿此番求功名， 但愿得中转回程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元上。"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "催马加鞭往前进， 不觉来到一店门。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "看天色已晚，我不免在此居住，明日再走。 店家店家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却上。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "敢是住店的吗？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "请到里面吧！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "可有上房？"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "有啊！里边儿请吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元进。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "用点什么饭食，可快说话。一会儿落了火，可就不能做了。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "饭在前边已然用过。只取明灯一盏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却取灯。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "灯到。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "唤你再来。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "是啦。正是："
+        },
+        {
+          "character": "班却",
+          "type": "念",
+          "text": "阎王注定三更死，谁敢留你到天明！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却下。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "看这店家，狗头狗脑，定不是好人。必须留心。关上房门，安歇了吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元睡。班却上，拨门，进。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "呔！看刀！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "听一言吓得我魂飞胆破， 好汉爷发慈悲饶我命活。 常言说好心人必有善果，"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "好汉爷呀！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "此一生忘不了你的恩德。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "住啦吧！我看你小小年纪，哭得甚是可怜，赏你一个全尸！免得咱家动手。这 儿有钢刀一把、麻绳一条，你与我快快的死！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却下。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "一见钢刀胆吓坏， 倒叫我无计来安排。 哭一声爹爹今何在？"
+        },
+        {
+          "character": "金钱元",
+          "type": "哭头",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "怕只怕今晚难逃开！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元哭。班能上。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "前面有啼哭声音，想是我侄儿又在那里害人。带我前去看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班能走圆场，看。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "原来是一个小娃娃。 这一顽童，你家住哪里，姓甚名谁？对我说来！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "老伯呀！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "家住四川报恩寺， 金钱元进京求功名。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "这位老伯，你救我一救啊！"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "不必啼哭，我放你出去也就是了。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "放我逃走，感恩非浅。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "不必多言，快快随我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班能、金钱元同走圆场。班能开门放金钱元。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "你出了门，往南行走。将这靴鞋抛在西北路上，你就去吧！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "多谢老伯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元行，转回。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "请问老伯尊姓大名？日后也好答报。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "老汉名叫班能。方才害你的那人是我的侄儿，名叫班却，实在不是好人。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "记下了。老伯请了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元下。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "我只顾将这娃娃放走，倘若我那侄儿与我要人，这便怎么处？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班能想。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "有了，这有钢刀，我不免将手指割破，就说那小顽童将我砍伤的。我就是这个 主意。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班能割手指、叫。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "哎呀不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却上。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "怎么样啦？那顽童哪？"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "适才那顽童手持钢刀，正要逃走；我紧紧赶了出去，被他这一刀，将我手指割 破了。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "他往哪儿去了？"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "出了店门，往西北去了。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "带我将他赶上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却急下。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "哈哈哈！他往东南而去；你往西北去赶，岂不是越走越远，一辈子也赶不上？ 我到房中睡觉去了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班能下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土地、土地婆同上。"
+        },
+        {
+          "character": "土地",
+          "type": "念",
+          "text": "今奉玉帝命，"
+        },
+        {
+          "character": "土地婆",
+          "type": "念",
+          "text": "把守四川境。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "我乃土地他爷爷是也。"
+        },
+        {
+          "character": "土地婆",
+          "type": "白",
+          "text": "我乃土地他奶奶是也。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "啊，你是土地的老婆子，怎么说是土地的奶奶？"
+        },
+        {
+          "character": "土地婆",
+          "type": "白",
+          "text": "你是土地，也不是土地的爷爷呀。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "别胡说八道啦！今有状元金钱元，在中途遇难，我要变个小鬼，指点他一条明 路。"
+        },
+        {
+          "character": "土地婆",
+          "type": "白",
+          "text": "好，你且变来！"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "一变两变，小鬼出现。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土地下，小鬼翻上。"
+        },
+        {
+          "character": "小鬼",
+          "type": "白",
+          "text": "土地奶奶，你看我变的可像？"
+        },
+        {
+          "character": "土地婆",
+          "type": "白",
+          "text": "变的倒像。你在哪儿等他哪？"
+        },
+        {
+          "character": "小鬼",
+          "type": "白",
+          "text": "就在前途等候。你且回避，俺要去了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土地婆下，小鬼走圆场。"
+        },
+        {
+          "character": "小鬼",
+          "type": "白",
+          "text": "看那旁金钱元来了，在此等候便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元上。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "走哇！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "奔走不顾崎岖路， 逃命哪管错路途。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "适才在三叉路口，住了黑店，险些丧了我的性命。多蒙班老丈搭救，才得逃出 虎口。跑了十数余里，两腿疼痛，俺不免寻个石台，歇息歇息再走！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "两足疼痛实难忍，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元看石台。"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "石台之上暂安身。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元坐石台。小鬼乱跳，金钱元看。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "金钱元",
+          "type": "扑灯蛾",
+          "text": "一见妖鬼胆战惊、胆战惊， 魄散魂飞站不成。 两足无力难逃命， 口呼苍天天不灵、天不灵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元吓倒。小鬼背金钱元走圆场，放。小鬼下。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "吓得我战兢兢三魂出窍，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元看。"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "坐至在古庙前所为哪条？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "哎呀且住！适才被妖鬼追赶，来到此地，原来是座土地庙，待我进入。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元进。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "身体困倦，我不免打睡片时再走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元睡。土地、土地婆同上。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "贵人醒来！现在桌上有纹银二百两，你上京赶考，必中状元。快快去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元醒。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "啊，适才在梦中，土地对我言讲：桌上有纹银二百两，说我有状元之份。是真 是假，待我看来。 咦！果然有二百两纹银。待我谢谢土地：倘若得中魁元，必定重修庙宇，答报 圣灵之恩！"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "叩头忙把土地谢，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土地、土地婆同暗下。"
+        },
+        {
+          "character": "金钱元",
+          "type": "唱",
+          "text": "得中魁元塑金身。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却上。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "追了十余里，也不见那厮踪迹。也不知这奴才逃往哪里去了。看前面乃周员外 家中，他有一女儿，长的十分美貌，俺不免前去采花便了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟引周小姐同上。"
+        },
+        {
+          "character": "周小姐",
+          "type": "唱",
+          "text": "丫鬟带路西院进， 又听谯楼鼓三更。"
+        },
+        {
+          "character": "周小姐",
+          "type": "白",
+          "text": "你歇息去吧！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟下。周小姐入帐。班却由桌上跳下，开门。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "小姐醒来！"
+        },
+        {
+          "character": "周小姐",
+          "type": "白",
+          "text": "啊，你是什么人，来到我的绣房作甚？"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "俺乃绿林英雄好汉，特来向你借些银两。"
+        },
+        {
+          "character": "周小姐",
+          "type": "白",
+          "text": "那箱内有银两，你自己去取。取完快快走去！"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "小姐，我爱你容颜美艳，有心与你成其好事，你可愿意？"
+        },
+        {
+          "character": "周小姐",
+          "type": "白",
+          "text": "好强盗！再要胡言乱语，我便喊叫！"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "你从是不从？"
+        },
+        {
+          "character": "周小姐",
+          "type": "白",
+          "text": "救人哪！"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却杀周小姐死。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "我今将她杀死，将这僧帽留下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却遗僧帽。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "待我说与他们知道。 呔！周家有贼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却下。丫鬟上。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "小姐嚷什么哪？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟看。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "啊，小姐怎么叫人给杀啦？我告诉员外去吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟走圆场。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "有请员外！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周德上。"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "大事不好啦！"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我们小姐不知被谁给杀啦！"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "现在哪里？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "在绣房哪。"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "头前带路！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周德、丫鬟同走圆场。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "您瞧！"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "周德",
+          "type": "唱",
+          "text": "一见我儿命丧了， 怎不叫人泪双抛。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "这儿有一顶和尚帽子。"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "待我看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周德看僧帽。"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "现有僧帽一顶，此事定是出家人所为。待我当官报案便了。 儿啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周德哭下。丫鬟下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 22,
+      "name": "第二十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍引邹士成同上。"
+        },
+        {
+          "character": "邹士成",
+          "type": "引子",
+          "text": "身为县令，为黎民，哪得安宁！"
+        },
+        {
+          "character": "邹士成",
+          "type": "白",
+          "text": "下官、邹士成。职授华阴县令。今乃三、六、九日放告之期。 来，将放告牌抬了出去！"
+        },
+        {
+          "character": "青袍甲",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "青袍甲抬放告牌。周德上。"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "冤枉！"
+        },
+        {
+          "character": "邹士成",
+          "type": "白",
+          "text": "将喊冤人带了进来！"
+        },
+        {
+          "character": "青袍甲",
+          "type": "白",
+          "text": "喊冤人上堂回话！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周德进。"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "叩见太爷！"
+        },
+        {
+          "character": "邹士成",
+          "type": "白",
+          "text": "为何堂口喊冤？"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "太爷有所不知：小老儿名叫周德，在前村居住，所生一个女儿，昨夜三更被人 杀死。留下僧帽一顶，求太爷作主！"
+        },
+        {
+          "character": "邹士成",
+          "type": "白",
+          "text": "你且回去，待本县与你严查凶犯便了。退堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "邹士成下。四青袍同下。"
+        },
+        {
+          "character": "周德",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周德下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 23,
+      "name": "第二十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、门子引文嘉祥同上。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "引子",
+          "text": "身受皇恩，一路上，访查民情。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "念",
+          "text": "身为巡按出朝门，沿途私访众官民。剪除贪官和污吏，捉拿贼盗与刁绅。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "本院、文嘉祥。奉旨出朝，代天巡狩。一路行来，倒也官清民顺。看前面已是 四川。 左右，打道！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四龙套、门子、文嘉祥同走圆场。二青袍引邹士成同上。"
+        },
+        {
+          "character": "邹士成",
+          "type": "白",
+          "text": "华阴县知县叩见老大人！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "起！免！打躬！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "贵县，此地民情如何？"
+        },
+        {
+          "character": "邹士成",
+          "type": "白",
+          "text": "官是清官，民是顺民。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "可有什么奇巧事件无有？"
+        },
+        {
+          "character": "邹士成",
+          "type": "白",
+          "text": "启禀老大人：此处有一周家庄，周员外家中有人偷盗。将他的女儿杀死，留下 僧帽一顶，至今凶犯尚未拿获。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "将原状呈上。回衙理事！"
+        },
+        {
+          "character": "邹士成",
+          "type": "白",
+          "text": "多谢老大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "邹士成、二青袍同下。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "转堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文嘉祥、四龙套、门子同走圆场。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "想此处出了这样命案，定是僧人所为。 来！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "传地保！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "大人有命：传地保回话！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "地保上。"
+        },
+        {
+          "character": "地保",
+          "type": "白",
+          "text": "叩见老大人！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "我且问你：此处可有什么大庙院么？"
+        },
+        {
+          "character": "地保",
+          "type": "白",
+          "text": "此处有二个大庙院：一个是清虚观，一个是报恩寺。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "这两个庙寺是僧是道？"
+        },
+        {
+          "character": "地保",
+          "type": "白",
+          "text": "启大人：清虚观是道，报恩寺是僧。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "好。你且退下。"
+        },
+        {
+          "character": "地保",
+          "type": "白",
+          "text": "多谢大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "地保下。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "来，看衣更换！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文嘉祥换衣。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "来！本院要出衙私访，不可走漏消息，要小心了！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "待我到报恩寺走走！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "唱",
+          "text": "周家出了人命案， 擅杀幼女罪非凡。 本院今日巧改扮， 寺内查访走一番。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文嘉祥下。门子、四龙套自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 24,
+      "name": "第二十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明上。"
+        },
+        {
+          "character": "普明",
+          "type": "念",
+          "text": "晨昏三叩首，早晚一炉香。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文嘉祥上。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "唱",
+          "text": "只为周家人命案， 明查暗访到寺前。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "来此已是报恩寺。待我进入。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "啊！施主来了！请到里面！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "师傅请！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "请到禅堂待茶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明、文嘉祥同进。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "施主请坐！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "有坐。请问师傅上下，在寺有多少年了？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "贫僧普明，在报恩寺出家，已四十年了。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "但不知有多少僧徒？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "游方僧人，时来时往，这庙内只有小徒五六人。请问客官尊姓大名？"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "在下姓李名文，贩卖绸缎为生。看这庙甚是宽大，在下要游玩一回，不知可否？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "随意游览，恕不相陪。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "请便！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "啊施主，游览各处，俱听尊便，惟有后面小黑门内，不要进去！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "却是为何？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "啊，不是呀！那门内有一只疯犬，它十分凶恶，恐怕伤了施主你呀！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "记下了，记下了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明下。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "好大一座庙院，果然宽敞的很。适才那僧人言道：不许我到后院黑门之内，是 何道理？其中必有缘故。待我寻找寻找。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文嘉祥走圆场。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "不错，正是黑色小门。待我走了进去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文嘉祥进，看。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "那旁有人来了，待我闪在一边。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女上。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "走啊！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "巧梳云髻倾城样， 风流不让杜兰香。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女浇花。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "往昔名人怎能比， 锦绣皆在腹内藏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女下。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "啊呀且住！无怪适才那僧人言道：后面黑门之内有一条疯犬，不许我进入。分 明是暗藏妇女。我想周员外一案，定是此僧所为。待我回衙，将此僧人拿来究 问便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文嘉祥下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 25,
+      "name": "第二十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "普明上。"
+        },
+        {
+          "character": "普明",
+          "type": "唱",
+          "text": "读罢经文无别干， 去到后院走一番。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "女儿哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女上。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "来了！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "忽听爹爹一声唤， 急忙迈步到跟前。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "儿呀，每日居住小院，不觉幽闷么？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "有鲜花绿柳陪伴，亦不觉幽闷。爹爹，你在前殿念经修行，亦很有趣吧！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "倒也消闲自在。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小和尚上。"
+        },
+        {
+          "character": "小和尚",
+          "type": "白",
+          "text": "师傅，外面来了许多差人，捉拿师傅来啦！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "我并未作什么歹事，拿我作甚？待我去看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二公差、二青袍同上。"
+        },
+        {
+          "character": "公差甲",
+          "type": "白",
+          "text": "来，将他锁了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二青袍同锁普明。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "啊，你们为什么将我爹爹锁走，是何道理？"
+        },
+        {
+          "character": "公差甲",
+          "type": "白",
+          "text": "来，把她也带了走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二青袍同锁金瓶女。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "为什么将我们锁了？"
+        },
+        {
+          "character": "公差甲",
+          "type": "白",
+          "text": "跟我们到衙门，你就明白了。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "爹爹，我们不去！我们不去！"
+        },
+        {
+          "character": "公差甲",
+          "type": "白",
+          "text": "由不了你。 来呀，拉着走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二青袍拿普明、金瓶女同下，二公差同随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 26,
+      "name": "第二十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、二禁卒引文嘉祥同上。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "念",
+          "text": "为国秉忠心，昼夜不安宁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二公差同上。"
+        },
+        {
+          "character": "公差甲",
+          "type": "白",
+          "text": "僧人拿到。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "押上来！"
+        },
+        {
+          "character": "公差甲",
+          "type": "白",
+          "text": "押上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二青袍押普明、金瓶女同上。"
+        },
+        {
+          "character": "普明、金瓶女",
+          "type": "同白",
+          "text": "叩见大人！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "唗！胆大僧人，竟敢私藏妇女，从实招来，免得皮肉受苦！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "启禀大人：小人自幼出家，从未做过犯法之事。望大人开恩！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "我且问你：你这后院的女子是从哪里来的？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "这女子乃是小僧之女。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "你乃出家之人，哪里来的女儿？讲！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "他实是小僧之女。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "来，暂将此僧押了下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "青袍甲带普明同下。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "喂呀爹爹呀！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "那一女子，你是谁家之女，从实说来，本院将你送回。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "启禀大人：那个和尚是我的爹爹，我是他的女儿呀！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "啊！不动大刑，谅你不招。 来，大刑伺候！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "喂呀爹爹呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁婆暗上。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "啊！此事甚为希奇，这是什么缘故？ 禁婆，将此女暂且收监。下去！"
+        },
+        {
+          "character": "禁婆",
+          "type": "白",
+          "text": "走吧！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "我爹爹呢？"
+        },
+        {
+          "character": "禁婆",
+          "type": "白",
+          "text": "他上男监啦。你是女子，不能跟他在一块儿。走，跟我去吧！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女哭下，禁婆下。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "哎呀且住！看这女子，并非淫荡之辈，其中定有缘故。待本院再慢慢查访便了。 掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文嘉祥、四龙套、二禁卒自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 27,
+      "name": "第二十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人上。"
+        },
+        {
+          "character": "李夫人",
+          "type": "引子",
+          "text": "闷坐衙中，想女儿，好不伤情！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "我、马氏。老爷李定邦。只因那年牛邈造反，打破潼关。是我身怀有孕，在中 途产生一女，因贼兵苦苦追赶，无奈弃置荒郊，算来已有十七年啦。终日思想， 甚是伤心。这且不言，只因我们老爷调任四川，自到任以来，什么事情也不 方便，也没人伺候我。我想买一个丫头，早晚也好伺候我。 家院！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院暗上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "你到大街上，给我买一个丫鬟来，早晚也好伺候我呀。快去快去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人下。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是。 我不免街前走走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 28,
+      "name": "第二十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏上。"
+        },
+        {
+          "character": "连氏",
+          "type": "唱",
+          "text": "偶遭回禄贫如洗， 衣单身寒腹内饥。 头插草标长街里， 卖人为仆实惨凄！"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "老身、连氏。只因那年带领我儿金钱元到四川投亲，不想中途狂风大作，我儿 失踪，至今无有下落。是我在亲戚家住了数载，不想又遭了大火。无奈衣食无 着，只得自卖自身。看天时尚早，不免去到大街之上卖身便了！"
+        },
+        {
+          "character": "连氏",
+          "type": "唱",
+          "text": "将身且往大街奔， 来到街心叫卖人。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "卖人哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "念",
+          "text": "奉了夫人命，大街买仆人。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "行了半日，也不曾买着一个。这便如何是好？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "卖人哪！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "那旁有一老妈妈，口嚷卖人，待我问来。 那一妈妈，你手拿草标，是人卖草呢，还是草卖人哪？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "人卖草能值几何？自然是草卖人。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "但不知你要多少银两？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "你看我偌大年纪，还值多少钱？只要管饱饭就可以了。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "如此说来，与你五两银子如何？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "五两银子倒也不少。但是一件！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "哪一件？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "须要管饱饭哪！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "那是自然。莫非你饿怕了不成么？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "老身已有三天不曾用饭，腹内饿的紧哪！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "你随我来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院、连氏同走圆场。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "你在此少待。 有请夫人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人上。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "什么事呀？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "适才在大街之上，丫鬟并未买到，买了一个老婆子来。但不知夫人可愿意否？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "老妈子也成。你叫她进来。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是。 夫人唤你。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏进。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "这就是我家夫人。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "与夫人叩头！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "起来吧。我问问你：你会作什么？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "贫寒出身，不过作些粗糙针线、浆洗衣服而已。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "你可能做菜做饭吗？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "略知一二。只要夫人教导就是。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "我看你倒很诚实的。就是身上的衣服有点儿褴褛。 家院！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "你带她到后边儿，教她洗洗澡，换上两件干净衣服。去吧！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院领连氏同下。门子上。"
+        },
+        {
+          "character": "门子",
+          "type": "唱",
+          "text": "急急催马往前进， 不觉来到李府门。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "来此已是。待我前去叩门。 门上哪位在？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "外面何人叩门？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院开门。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "到此何事？"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "奉了我家夫人之命，有请帖呈上，请你家夫人过府饮宴。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "候着。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "启夫人：文府送来请帖，夫人请看！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院呈帖。李夫人看帖。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "你说我随后就到。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是。 我家夫人随后就到。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "是。请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子下。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "家院，你看那老婆子换好了衣裳没有？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "老妈妈，衣服换好了无有？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏上。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "换好了。夫人请看。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "你这一捯饬像样多啦。文夫人请我过府饮宴，我把你带去。你到那儿千万别多 言多语，看我的眼色行事。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "吩咐外面顺轿！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "轿夫走上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "轿夫上。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "赴宴去者！"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "适才文府将我请， 前去赴宴走一程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人、连氏同下。家院下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 29,
+      "name": "第二十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟引文夫人同上。"
+        },
+        {
+          "character": "文夫人",
+          "type": "唱",
+          "text": "每欲清谈逢客至， 偶思小饮报花开。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子上。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "李夫人到。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人、连氏同上。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "李夫人！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "文夫人！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "李夫人请坐吧！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "今天文夫人又要费心啦！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "家常便饭，也没有什么好吃的，也就是请李夫人过来谈谈心。 丫鬟，酒宴摆下！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟摆酒。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "请！啊，我说文太太，自你们老爷上任以来，案子不少吧？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "可不是吗？一天到晚，竟忙这些事啦！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "有什么稀奇案子没有啊？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "有一个特别案子，听着才新鲜哪。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "怎么回事情，你说给我听听！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "有一个和尚，有了女儿啦。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "和尚怎么会有了女儿啦？真怪！这和尚一定不是好和尚。怎么打了官司啦？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "这话说起来，可就长啦。此地有一周员外，他有一个女儿，在三更半夜，被贼 杀啦。临行留下僧帽一顶。我们老爷看这案子，一定是和尚所为，上报恩寺私 访，不想这和尚他有家眷。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "和尚有家眷，可不是好和尚！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "谁说不是哪？我们老爷就将他们一齐拿来啦。到堂上一问，这个和尚说这女子 是他的女儿；问姑娘，她说这和尚是她父亲。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "这案子，你们老爷怎么定的哪？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "一点儿口供也没有。看那和尚是个安分守己的人；那姑娘也不像那不正经的人。 所以这个案子还没有定哪。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "文夫人，你看咱们闲着也是闲着，把姑娘带来，咱们问问好不好？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "好。 丫鬟，告诉女禁卒，把那个姑娘带来！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是啦。 女禁卒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "女禁卒上。"
+        },
+        {
+          "character": "女禁卒",
+          "type": "白",
+          "text": "什么事？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人说啦，叫你把那个和尚的女儿带来，夫人要审问审问！"
+        },
+        {
+          "character": "女禁卒",
+          "type": "白",
+          "text": "是啦。 金瓶女走动啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女上。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "苦哇！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "忽听得一声唤心惊胆战， 只吓得身颤抖不敢向前。 我低声向禁婆细问一遍， 却为何唤至在夫人面前？"
+        },
+        {
+          "character": "女禁卒",
+          "type": "白",
+          "text": "夫人要审问审问你！来，跟我进来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "女禁卒、金瓶女同走圆场，同进。金瓶女怕。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "叩见二位夫人！"
+        },
+        {
+          "character": "李夫人、文夫人",
+          "type": "同白",
+          "text": "罢啦。为何不抬起头来？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "有罪不敢抬头。"
+        },
+        {
+          "character": "李夫人、文夫人",
+          "type": "同白",
+          "text": "恕你无罪。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "谢夫人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金瓶女抬头。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "嘿！真好看，多么漂亮啊！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "这姑娘眉清目秀，绝不是歹人。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "我问你，你爹爹是自幼出家，还是半路出家？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "乃是自幼出家。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "傻孩子，他自幼出家，哪来的你呀？我明白啦，不用说，是抢来的？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "不是。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "拐来的？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "不是。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "买来的？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "也不是。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "这不是、那不是，你们到底是怎么一档子事呀？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "夫人不知，这内中有个情由。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "什么“情由”？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "只因牛邈造反——"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "“牛邈造反”？ 我说文夫人，这酒我也不喝啦，咱们细细地问问，您看好不好？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "正合我意。 丫头们，搭座！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟打座，李夫人、文夫人同朝前坐。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "金瓶女，慢慢讲来！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "二位夫人容禀！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "西皮导板",
+          "text": "未开言不由我珠泪满面，"
+        },
+        {
+          "character": "李夫人、文夫人",
+          "type": "同白",
+          "text": "不用难过，有什么话，慢慢说你的！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "夫人哪！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "西皮原板",
+          "text": "听难女已往事细说根源； 都只为牛邈造了反， 我的母她将我抛在道边。 义父峨嵋朝山转， 听我啼哭甚可怜。 放下经担抱回院， 终日哺乳喂糕干。 光阴荏苒如轮转， 养至今天十七年。 只为兵荒和马乱， 生身父母隔一边。 才出娘胎便遭乱， 不知何处是我的家园。 义父修行不方便， 将我抚养在后花园。 每日刺绣攻书卷， 佛光禅灯照红颜。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "啊，敢情和尚是她义父，从出娘胎，就被抛弃啦。说来真够可怜的！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "可不是吗！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "你在庙里住着，就不出来吗？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "每日住在花庭院， 鲜花绿柳甚娇妍。 寒来暑往轮流转， 光阴似箭年复一年。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "那和尚他就有你一个女儿，还有别人没有？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "那一日门外哭声喊， 爹爹忙去看根源。 是个顽童失方向， 倒在门前大道边。 我父问他何处往， 他道是母子投亲度饥寒。 中途忽被风吹散， 他母亲不知流落在哪边。 因此收留为义子， 苦读诗书后房间。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "喂呀呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏哭。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "你为什么哭哇？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "我的儿子也失踪了，故尔悲伤落泪。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "我们在这儿说话哪，你干嘛哭哭啼啼的？后站！"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "是！是！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "他现在哪儿哪？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "在庙内终日读书卷， 才高北斗志非凡。 大比之年开科选， 我父命他到长安。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "赶考去啦。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "那么，你订了婚没有？不用害臊，说吧！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "提起婚姻好羞惭， 事到此不敢稍隐瞒。 兄妹花园见了面， 扇坠、金钗订良缘。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "呦！自己定的婚啊！将来他要真得中了，她也是个夫人哪。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "可不是吗？说了半天，你这个未婚夫他是哪儿的人，姓什么、叫什么呀？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "姓金家住在四川， 自幼取名叫钱元。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "哎，儿呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏哭。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "啊，你这是怎么啦？不要脸！你哭什么呀？他提金钱元是她的丈夫，与你有什 么关系？讨厌！往后站！"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏后站、哭。"
+        },
+        {
+          "character": "连氏",
+          "type": "哭",
+          "text": "儿呀！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "不叫你哭，你偏哭！你再哭，我可要打你啦！"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "夫人有所不知，我有一个儿子，也叫金钱元。是我那年到四川投亲，不想行到 四川边境，忽然起了一阵狂风，将我母子刮散，至今无有下落。这位小姑娘提 起我儿的名字，怎能不叫我伤心落泪呀！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "啊，是这么回事呀！那么他多大岁数啦？"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "他今年二十一岁了。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "啊，你说金钱元，他多大岁数啦？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "他今年已过二十整， 在庙内度过十六春。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "不错，正是五岁失落的。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "那么为什么把你们拿到这儿来哪？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "那一日闲立小庭院， 忽然来了二差官； 说我父女犯了案， 拉拉扯扯就到了当官。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "你爹爹素日的行为怎么样啊？"
+        },
+        {
+          "character": "金瓶女",
+          "type": "唱",
+          "text": "我的父一生好行善， 奉守清规非等闲。 黑天冤枉难分辨， 养育的深恩未报全。 望求夫人行方便， 大人台前进美言。 倘若冤狱得平反， 来生犬马当报还。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "喂呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人哭。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "哟！李夫人，您哭什么呀？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "她这么一说，也勾起我的心事来啦。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "您有什么心事呀？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "那年牛邈造反，我同我们老爷逃出潼关，我在中途产生一女，因贼兵追赶甚紧， 我把她抛弃啦。至今算来，也有十七年啦。正跟她同岁。想起来怎不叫我难 受啊！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "同岁数的人可多着哪。十几年啦，就是见面也不容易认啦！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "我那个女儿，见面有法认，她有个记号。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "有什么记号呀？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "她左手是个六指儿。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "那么我瞧她是不是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文夫人看金瓶女手，金瓶女羞。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "我瞧瞧你的左手。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文夫人看。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "哟！她左手就是六指，这就是你女儿吧？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "我不信！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "夫人请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人看金瓶女手。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "哎呀女儿呀！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "母亲哪！"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "媳妇啊！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "得啦，别哭啦。这是大喜的日子，哭的是哪一门子啊？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "此事还求文夫人与文大人说明才好！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "那是自然。如此说来，这位老妈妈是李夫人的亲家啦。 来，姑娘，见过你的婆婆！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "婆母请上，待孩儿拜见！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "这就是我们的亲家太太。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。金瓶女、李夫人、连氏同拜。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "内白",
+          "text": "大人回衙！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "哟！大人回来啦。你把这件事，跟他说明白了就是啦。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "那是一定。您先请到后边儿坐吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人、连氏、金瓶女同下。文嘉祥上。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "夫人！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "老爷！请坐！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "夫人为何这样高兴？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "你没在衙门，我倒替你审清了一件案子。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "什么案件？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "就是和尚有女儿那一案。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "但不知夫人是怎样的审法呢？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "从你走了以后，我请李总镇的夫人前来饮宴。提起这个案子，很觉奇怪。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "本来少有。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "把这个女子提出来一问，正是李夫人的女儿。她今年十七岁，是牛邈造反的那 年，李夫人途中生下来的。因为贼兵追赶甚紧，故此将她抛弃。后来遇见这个 和尚，将她捡了去啦，放在后花园抚养。至今正是十七岁，她母女相认啦。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "呃，世间同庚女子甚多，未必就是此女。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "李夫人的女儿有个记号，万不会错的。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "什么记号？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "左手是个六指儿。这个女子也是个六指。怎么会有错哪？"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "巧的很哪！"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "不但她母子见面啦，就是连她的婆婆也来啦。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "这又是什么原故？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "那女子未婚夫的母亲，卖身与李夫人为仆，此人姓金，她们全见着啦。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "但不知他儿子叫什么名字？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "他的儿子名叫金钱元。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "哎呀，今科的状元，就是金钱元，他乃是四川人氏。"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "哟！怎么金钱元中了状元啦？"
+        },
+        {
+          "character": "文夫人",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "夫人你有什么毛病么？"
+        },
+        {
+          "character": "文夫人",
+          "type": "白",
+          "text": "你才有毛病哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子上。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "启禀老爷：新科状元金钱元前来拜见。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "金状元来了。夫人回避了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文夫人下。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金钱元上。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "大人！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "新贵人请坐！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "请问大人：报恩寺有一老僧，他身犯何罪，囚在监中？"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "此事亦是下官一时误会。因周家庄杀死幼女，留下僧帽一顶；因此将老僧拿下。 适才贱内曾将老僧之女提出监来，说是新贵人的令正夫人。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "原来如此。想那周员外之案，晚生已将凶手拿到了。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "此事你怎生知晓？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "晚生求取功名之时，夜宿旅店，乃是黑店，此人名唤班却，杀人放火，夤夜采 花，时常假扮僧人模样。周家之事，定是此人无疑了。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "你住在黑店，为何不曾被害？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "大人有所不知，那班却正要杀害晚生之时，他的叔父班能将我放走，晚生才有 今日！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "噢，原来如此。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "晚生经过他的店房之时，已将他二人带来了。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "吩咐升堂。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "升堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四青袍同上。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "带班却！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "将犯人班却押上堂来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二公差押班却同上。"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "叩见大人！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "胆大班却，夜入民宅，杀死周家小姐，还不从实招来！"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "小人开店为生，从不晓得杀人。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "谅你不招。 将他夹起来！"
+        },
+        {
+          "character": "班却",
+          "type": "白",
+          "text": "不用夹，我全招啦。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "画供上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班却画供。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "押下去！秋后凌迟！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二公差押班却同下。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "将班能带上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二公差押班能同上。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "叩见大人！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "前者多蒙老丈搭救。这有纹银三百两，拿去另谋生活去吧！"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "多谢状元老爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班能出门。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "班能",
+          "type": "念",
+          "text": "善恶到头终有报，只看来早与来迟。"
+        },
+        {
+          "character": "班能",
+          "type": "白",
+          "text": "看起来，还是做好事的好哇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班能下。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "转堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四青袍同下。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "晚生义父、贱内在此，可容我一见？"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "不但令正与令义父在此，令岳母及太夫人亦在此地。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "怎么家慈亦来了？好，请出一见。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "有请金太夫人、李夫人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "连氏、李夫人、金瓶女同上。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "母亲哪！"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "夫啊！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "妻呀！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "新贵人，这就是你的岳母大人李夫人。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "岳母在上，小婿拜见！"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "别拜啦。我们姑娘真是福气不小，遇见这么一个才貌双全的小女婿子。"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "大人，我那义父大人呢？"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "快去请老方丈前来！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子下。门子、普明同上。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "参见大人！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "义父大人，孩儿得中状元回来了。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "我儿果然得中状元，可喜可贺！"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "义父请过来！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "作什么？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "母亲，这就是孩儿的义父，抚养孩儿一十六载。"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "多谢老方丈养育之恩！蒙你教养，才有今日的荣誉。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "大人，我的女儿呢？"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "敢是状元令正夫人么？"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "这是哪里说起？"
+        },
+        {
+          "character": "金钱元",
+          "type": "白",
+          "text": "爹爹有所不知，我与小妹订了婚约，望义父大人成全。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "想你乃是状元，才子佳人，正得其所。"
+        },
+        {
+          "character": "金瓶女",
+          "type": "白",
+          "text": "多谢义父大人！ 啊母亲，这就是教养孩儿成人的义父大人。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "老方丈慈心救世，真乃普渡众生也！"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "罪过罪过！"
+        },
+        {
+          "character": "连氏",
+          "type": "白",
+          "text": "老方丈请上，受我等大家一拜！"
+        },
+        {
+          "character": "普明",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "普明",
+          "type": "念",
+          "text": "头上冥冥有青天，善恶分明难隐瞒。一片慈心得儿女，"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "念",
+          "text": "佛门之内点状元。"
+        },
+        {
+          "character": "普明",
+          "type": "白",
+          "text": "好！好一个“佛门之内点状元”！"
+        },
+        {
+          "character": "文嘉祥",
+          "type": "白",
+          "text": "后堂摆宴！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

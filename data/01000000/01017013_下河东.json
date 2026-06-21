@@ -1,0 +1,1091 @@
+{
+  "script_id": "01017013",
+  "title": "下河东",
+  "alias": [
+    "河东刺驾；一名：斩寿廷；一名：大战白龙"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "呼延寿廷",
+      "hangdang": "老生"
+    },
+    {
+      "name": "欧阳方",
+      "hangdang": "净"
+    },
+    {
+      "name": "赵匡胤",
+      "hangdang": "红生"
+    },
+    {
+      "name": "刘崇",
+      "hangdang": "副净"
+    },
+    {
+      "name": "呼延妹",
+      "hangdang": "武旦"
+    },
+    {
+      "name": "呼延妻",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "周世宗既殂，赵匡胤因陈桥兵变，猝然黄袍加身众拥为帝。五代之局，从此而终。大宋之基，由此而创。受\n禅后，南征北伐，虏者虏，降者降，灭者灭。窃据之群雄，已芟除殆尽，而负固不服者，只有北汉刘崇。相\n臣欧阳方，居心险诈，虽在宋主左右，颇有帝制自为之思想，密遣人致书于刘崇，约其入寇，原作内应，乘\n机杀宋主而平分天下。刘崇克日兴师犯境。宋主不知其底蕴，御驾亲征，命欧阳方为帅，赐以上方剑，便宜\n行事。欧阳方即推荐呼延寿廷为先锋。盖欧阳方与呼延寿廷，素有嫌隙，欲借此以倾陷者也。呼延寿廷之妹，\n极有武艺，请同行以防不测。及兵抵河东，欧阳方又约敌人，夜间袭击宋营。宋营毫无准备，果受大创。\n宋主几濒于危，幸呼延寿廷偕其妹，出死力以抵御，杀退北汉兵。宋主召方来前，以疏忽诘责之。欧阳方犹\n哓哓抗辩，且恨呼延寿廷破败其垂成之功，竟诿过于呼延寿廷。适呼延寿廷入帐报功，欧阳方恐漏泄卖国之\n奸计，即拔佩剑斩之，宋主惊问其故，忽又挺剑上前，欲行杀逆之事。赖有武士众多，持戟交卫不得逞其志。\n宋主惋惜呼延寿廷之忠勇，愤恨欧阳方之跋扈，然欧阳方掌握大权，宋主亦无如何也。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "引子",
+          "text": "兵变陈桥，天赐下，赭黄龙袍。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "一轮红日照乾坤，东荡西除扫烟尘。万里山河归大宋，风调雨顺享太平。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "孤，赵匡胤。自从柴大哥宴驾，众文武扶孤即位。自登基以来，风调雨顺，国 泰民安。今当早朝。 内侍，闪放龙门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方上。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "念",
+          "text": "捧定连环表，把本奏当朝。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "臣欧阳方见驾，我主万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "欧相平身。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "上殿有何本奏？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "臣启万岁：今有河东白龙太子，带领人马，来犯我邦，打来有连环战表。请我 主观看。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "待孤看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "孤有意御驾亲征，只是一件……"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "哪一件？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "我朝无人，可以挂帅。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "老臣不才，愿挂帅印。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "爱卿乃是文职官员，怎能挂得帅印？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "臣启万岁：臣幼年习文，中年习武："
+        },
+        {
+          "character": "欧阳方",
+          "type": "念",
+          "text": "练就文共武，扶保帝王都。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "既然如此，就命卿家挂帅。但不知何人，可为前部先锋？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "今有呼延寿廷，武艺超群，可以作得前部先锋。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "如此，就令卿家宣他上殿。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "领旨。 万岁有旨：宣呼延寿廷上殿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延寿廷上。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "念",
+          "text": "忽听皇王宣，撩袍上金銮。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "臣呼延寿廷见驾，吾皇万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "万万岁！宣臣上殿，有何国事议论？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "今有河东白龙，打来战表，孤王御驾亲征，已令欧相挂帅，欲令卿家，以为前 部先锋。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "臣启万岁：臣与欧相，昔年有打牙之仇，此番征剿，恐怕他公报私仇。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "臣启万岁：今日征剿河东，乃是国家大事，臣怎敢公报私仇！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "是吓！二卿只管前去，待等河东平靖，孤家定与二家解和。"
+        },
+        {
+          "character": "欧阳方、呼延寿廷",
+          "type": "同白",
+          "text": "谢主隆恩！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "就令二卿点动人马，校场伺候，孤王即日起兵。领旨下殿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤下。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "念",
+          "text": "金殿领圣命，"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "念",
+          "text": "校场点雄兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方、呼延寿廷同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延妻、呼延妹同上。"
+        },
+        {
+          "character": "呼延妻",
+          "type": "念",
+          "text": "老爷受皇恩，"
+        },
+        {
+          "character": "呼延妹",
+          "type": "念",
+          "text": "阵前立功勋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、呼延寿廷同上。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "可恼吓，可恼！"
+        },
+        {
+          "character": "呼延妻",
+          "type": "白",
+          "text": "老爷今日下朝，为何这等烦恼？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "今有河东白龙，打来战表，万岁御驾亲征，挂欧阳方为帅，某家以为前战先行。 我与那贼，有打牙仇恨，只恐他公报私仇。好一有道明君，言道：平定河东， 还要与我两家解和。但是那贼，狠毒非常，必须要提防一二。"
+        },
+        {
+          "character": "呼延妹",
+          "type": "白",
+          "text": "兄长此番出征，小妹一同前往，也好暗地保护。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "有劳贤妹。正是："
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "念",
+          "text": "山中伴猛虎，"
+        },
+        {
+          "character": "呼延妹",
+          "type": "念",
+          "text": "刻刻要防闲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延寿廷、呼延妻、呼延妹同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四上手、欧阳方同上。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "先行可到？"
+        },
+        {
+          "character": "四龙套、四上手",
+          "type": "同白",
+          "text": "先行未到。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "伺候了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延寿廷上。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "参见元帅。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "我且问你，自兴兵以来，还是元帅伺候先行，还是先行伺候元帅？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "自然是先行伺候元帅。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "你既知先行伺候元帅，本帅到此多时，你往哪里去了？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "末将披挂来迟，望元帅恕罪。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "我且问你，身为将帅，可知为将之道？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "身为大将，怎么不知！"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "这一卯不到？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "一捆四十！"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "这二卯不到？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "重责八十！"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "这三卯不到？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "这三卯不到，也不过是项上人头。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "你既知项上人头，你就要与我小心了。圣驾到此，速报我知。"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "圣驾到！"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "一同接驾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四武士、赵匡胤同上。"
+        },
+        {
+          "character": "欧阳方、呼延寿廷",
+          "type": "同白",
+          "text": "参见万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "二卿少礼。人马可齐？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "具已齐备。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "传旨下去：文武官员，一概免送。人马打从得胜门而出，就此响炮离京。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "领旨。 先行！"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "万岁有旨、本帅有令：文武官员，一概免送。人马打从得胜门而出，就此响炮 离京。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "得令。 呔！下面听者，圣上有旨，元帅有令：文武官员，一概免送。人马打从得胜门 而出，就此响炮离京。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同大转场。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "前面人马为何不行？"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "来此已是河东地界。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "候着！ 启元帅：来此已是河东地界。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "安营扎寨。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "众将官，安营扎寨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、呼延妹同上，同转场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、刘崇同上。"
+        },
+        {
+          "character": "刘崇",
+          "type": "白",
+          "text": "俺白龙太子是也。只因欧阳方，有书信到来。约某家领兵，夺取宋室天下。 巴图鲁，杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙旗、欧阳方同上。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "老臣甲胄在身，不能全礼，望千岁恕罪。"
+        },
+        {
+          "character": "刘崇",
+          "type": "白",
+          "text": "可曾将昏王诓下河东？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "已到河东。"
+        },
+        {
+          "character": "刘崇",
+          "type": "白",
+          "text": "待孤家杀上前去。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "启千岁：那昏王驾下，有一呼延寿廷，武艺高强，千岁要提防一二。"
+        },
+        {
+          "character": "刘崇",
+          "type": "白",
+          "text": "依你之见？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "依老臣之见，必须除却此人，方好行事。老臣须与千岁假战三合，以掩耳目。"
+        },
+        {
+          "character": "刘崇",
+          "type": "白",
+          "text": "孤家枪尖厉害，你须要小心了。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "咋！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方、刘崇同起打。刘崇败下，欧阳方退下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延寿廷上。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "念",
+          "text": "营门战鼓响，儿郎报端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "元帅与白龙交战，看堪落马。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "来，带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同上，呼延寿廷上马，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘崇上。"
+        },
+        {
+          "character": "刘崇",
+          "type": "白",
+          "text": "那欧阳方不知进退，倘若来时，将他挑下马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方上，两过河，欧阳方落马，欧阳方下。呼延寿廷上，开打，刘崇败下，呼延寿廷追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、欧阳方同上。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "且住！适才与白龙交战，被他枪挑落马。不是先行搭救，险遭不测。好先行呐， 好先行！ 说什么“好先行”？难道这打牙之仇，就罢了不成？ 来，传先行。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "传先行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延寿廷上。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "元帅受惊了！"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "呔！本帅与白龙交战，你冲上阵去，莫非要夺本帅的功劳么？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "末将不敢。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "量你也不敢。我且问你，此番出阵，可有圣上旨意？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "无有。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "可有本帅的将令？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "也无有。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "唗！一无旨意，二无将令，私自出兵，就该论斩！ 来，推出斩了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同跪，求情。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "也罢。本当将你斩首，念在众将讲情。死罪已免，活罪难饶。 牢子手，与我重打四十军棍！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二龙套推呼延寿廷同下。内打四十棍。二龙套扶呼延寿廷同上。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "方解俺心头之恨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延寿廷跪。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "谢元帅的责！"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "我且问你，本帅打的你可公？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "打的公！"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "打的你可服？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "白",
+          "text": "打的服！"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "从今以后，有圣上旨意、本帅的将令，方准你出兵。无有圣上旨意、本帅将令， 不准你出兵。此处用你不着，与我叉出帐去，掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方下。二龙套同扶呼延寿廷起。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "二黄摇板",
+          "text": "狗奸贼他责打我四十棍， 打得我两腿鲜血淋。 叫人来搀扶爷把小营进。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延妹上。"
+        },
+        {
+          "character": "呼延妹",
+          "type": "二黄摇板",
+          "text": "兄长受责为何情？"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "二黄摇板",
+          "text": "狗奸贼想起前仇恨， 责打愚兄受苦刑。 贤妹搀扶我后营进， 看他把我怎样行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延妹扶呼延寿廷同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方上。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "二黄摇板",
+          "text": "听谯楼打罢了三更时分， 打牙仇恨记在心。 来在番营下能行，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方射箭。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "二黄摇板",
+          "text": "对着番营放雕翎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方下。更夫上。"
+        },
+        {
+          "character": "更夫",
+          "type": "念",
+          "text": "为人莫打更，打更受苦情。风里也得去，雨里也要行。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "这是什么东西？乃是一枝信箭。待我报于太子知道便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "更夫下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、刘崇同上。"
+        },
+        {
+          "character": "刘崇",
+          "type": "念",
+          "text": "统领大小众三军，要夺宋室锦乾坤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "更夫上。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "启太子：现有信箭一枝，特来呈上。"
+        },
+        {
+          "character": "刘崇",
+          "type": "白",
+          "text": "呈上来。 原来是欧阳方，叫我今夜抢夺宋营。命三军呐喊，就说呼延寿廷造反。 巴图鲁儿，你等于我喊起来！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "吓！ 呼延寿廷造反！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘崇、四番兵同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延寿廷上。"
+        },
+        {
+          "character": "呼延寿廷",
+          "type": "二黄摇板",
+          "text": "谯楼打罢四更尽， 眼跳心惊为何情？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊声。四番兵自两边分上，冲场同下。呼延寿廷提枪上马。呼延妹上，扯枪，拦。呼延寿廷夺枪下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四番兵、刘崇同上。呼延寿廷上。呼延寿廷、刘崇同起打，连环。刘崇败下，呼延寿廷追下。众人同上，"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "开打，同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤、欧阳方自两边分上，分看两旁。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "原来是欧相在此。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "老臣特来保驾。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "那先行，往哪里去了？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "老臣不知。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "传先行。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "传先行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延寿廷提人头上。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "先行，番兵劫营，你往哪里去了？万岁宣你，你要与我仔细了，你要与我小心 了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延寿廷弃人头，跪。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "番兵劫营，你往哪里去了？似你这等临阵脱逃，就该论斩……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方杀呼延寿廷。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "孤家尚未传旨，你为何将他斩首？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "似这等贪生怕死之人，斩者无亏！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "好一个“斩者无亏”！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方把剑。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你这是做什么？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "老臣……保驾。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "不用你保驾，出帐去罢。"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "臣，领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方下。欧阳方上，看。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你又做什么？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "老臣在此保驾。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "欧阳方，你三番两次，敢是要行刺寡人不成？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "老臣不敢！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "量你也不敢。你可记的孤王，单身下南唐之故事？"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "老臣尽知。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "既然尽知，从今以后，有孤王旨意，方许你进龙棚；无有孤王旨意，不许你进 龙棚。此时用你不着，出帐去罢！"
+        },
+        {
+          "character": "欧阳方",
+          "type": "白",
+          "text": "臣，领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "欧阳方下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "御林军，转至龙棚。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

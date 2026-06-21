@@ -1,0 +1,1072 @@
+{
+  "script_id": "70003108",
+  "title": "白马坡",
+  "alias": [
+    "斩颜良"
+  ],
+  "source": "李洪春剧本选",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "颜良",
+      "hangdang": "净"
+    },
+    {
+      "name": "曹操",
+      "hangdang": "净"
+    },
+    {
+      "name": "许褚",
+      "hangdang": "净"
+    },
+    {
+      "name": "夏侯惇",
+      "hangdang": "净"
+    },
+    {
+      "name": "程昱",
+      "hangdang": "老生"
+    },
+    {
+      "name": "张辽",
+      "hangdang": "老生"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "孙乾",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "刘备从徐州败走，投奔袁绍。袁绍起兵攻打曹操，遣大将颜良进攻白马坡，连斩曹将，声势大振。曹操请关\n羽出马。关羽急欲立功，以便辞曹寻兄，乃跃马出阵，立斩颜良。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上。"
+        },
+        {
+          "character": "刘备",
+          "type": "引子",
+          "text": "青梅煮酒，忆奸曹，炎汉家，社稷倾倒。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "东奔西走路重重，时不遇人叹困穷。独对青山思往事，老天何不佑英雄。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "刘备。自徐州失散，家小不知存亡。幸我逃脱在袁绍帐下为将，暂且安身，欲 借兵破曹。今日袁绍，拜大将颜良为先锋，进取白马坡，特来把盏送行。正是："
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "借人檐下易，举头世上难。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙乾上。"
+        },
+        {
+          "character": "孙乾",
+          "type": "念",
+          "text": "待等时运到，风云天地宽。"
+        },
+        {
+          "character": "孙乾",
+          "type": "白",
+          "text": "启主公：颜良将军到。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吩咐伺候把盏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。颜良、马夫、四龙套同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊，颜将军，刘备在此把盏送行。"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "有劳使君。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "看酒。"
+        },
+        {
+          "character": "孙乾",
+          "type": "白",
+          "text": "酒在。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "将军请饮此酒，但愿此去马到成功，立斩曹操首级，以安天下。"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "非是颜良夸口，此去白马坡前，必斩曹操首级，以消心中恶气，方算英雄。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哈哈哈，将军之言，真乃威壮也。"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "使君。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "将军。"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "俺恼恨沮受，在袁公台前，说俺勇而无谋，不可任为先锋。今日幸有使君识俺 是个英雄，可谓有了知已。此去到了白马坡前，我战死沙场方休。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "呀，将军有勇有谋，何出此不利之言。"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "大丈夫临阵，不死即伤，有何惧哉！"
+        },
+        {
+          "character": "颜良",
+          "type": "西皮快板",
+          "text": "使君说话真奥妙， 何惧孟德小儿曹。 辞别使君跨虎豹， 白马坡前立功劳。"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良、马夫、四龙套同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀，颜良性情急躁，有勇无谋，袁绍此番起兵，恐成画饼也。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "指望河北泰山靠， 借他兵将兴汉朝。 颜良此去多浮躁， 十万雄兵恐徒劳。 天意不灭贼曹操， 先锋用了假英豪。 且回营帐再计较， 埋没英雄恨难消！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "俺，曹丞相麾下探事军官是也。探得袁绍命大将颜良以为先锋，统大兵十万进 攻白马坡。飞报丞相知道。呔，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹八将、四上手、四龙套、曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "文韬武略，辅佐汉朝，比周公，谋高计巧，灭群雄如削草，统雄师，烟尘齐扫。"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "朝朝虎帐夜谈兵，纷纷宇宙何日平。身系安危吾肩重，愿做霖雨沛苍生。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫曹操。闻得袁绍，起兵前来谋窥许昌。特此统领兵将，前来白马坡地方扎 营，以观动静。曾命探子哨探，未见回报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "念",
+          "text": "打听军情事，报与丞相知。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报，探子告进。丞相在上，探子叩首。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "探听袁绍人马如何？"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "袁绍命大将颜良为先锋，统领大兵十万，来犯白马坡。特来报知。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "赏你金牌，再去哨探。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "来，吩咐随营将官听点。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起鼓点名。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众将官，颜良乃河北名将，今为先锋前来，休得视为小敌。听我号令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖玉芙蓉〗。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "颜良讨战。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "颜良讨战，哪位将军出马？"
+        },
+        {
+          "character": "宋宪、魏绩",
+          "type": "同白",
+          "text": "丞相，我二人情愿出马，立斩颜良。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "好，须要小心。"
+        },
+        {
+          "character": "宋宪、魏绩",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋宪、魏绩同下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "宋宪、魏绩乃吕布手下之勇将，此番出马，定斩颜良。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操看。三冲头。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报，宋宪、魏绩被颜良刀劈马下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哎呀呀，可叹二位将军，命丧颜良之手。不知何人能敌颜良？"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "丞相但放宽心，末将不才，情愿立斩颜良。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军出马，留心在意。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐晃下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "徐晃出马，不知胜负如何。且听探马一报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三冲头。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启丞相：徐晃被颜良砍伤左膀，败回营来。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "快快抬往后营，好好医治。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龙套抬徐晃同上，过场，同下。众将同惊。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "唉，幸喜伤了左膀，不致伤命。颜良如此英雄，连伤数将，这便怎么处？"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "启禀丞相：程昱保举一人，能敌颜良。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "所举何人？"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "非关羽不可。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "我也知非他不可，恐他立功便想辞去。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "想刘玄德若在，必投袁绍。今若使关羽斩了颜良，袁绍必疑玄德而杀之矣。玄 德既死，关羽又何往哉？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哈哈哈！借关羽之手，以杀玄德。程昱此计甚佳！ 张辽听令！命你速去请关羽前来。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽下。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "丞相，想俺曹营，岂无杀退颜良之人，何必去请关羽，俺许褚情愿出马，去战 颜良。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "仲康既要出马，我带领兵将，在土山之上观战，以助将军之威。须要小心在意。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "丞相但放宽心，俺定斩颜良之首级，献与丞相。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "许褚下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "许褚虽然英勇，恐亦不能胜过颜良。 众将官，随我去到白马坡上，观战去者。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "英雄虽非蠢袁绍， 他地广兵强将也骁。 此番胜负实难料， 不可大意我要运略韬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良、马夫、四龙套同上。"
+        },
+        {
+          "character": "颜良",
+          "type": "西皮摇板",
+          "text": "立斩二将血染袍， 徐晃左膀中宝刀， 颜良今日如虎啸——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "许褚上。"
+        },
+        {
+          "character": "许褚",
+          "type": "西皮摇板",
+          "text": "来了许褚将英豪。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "呔，来将可是颜良？"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "然。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "你可知俺许褚的威风？"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "无名小辈，倒也不晓。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "呸，你且听了！"
+        },
+        {
+          "character": "许褚",
+          "type": "西皮摇板",
+          "text": "力分双牛谁不晓，"
+        },
+        {
+          "character": "颜良",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "颜良",
+          "type": "西皮摇板",
+          "text": "村夫蠢子莫逞英豪。"
+        },
+        {
+          "character": "许褚",
+          "type": "西皮摇板",
+          "text": "你河北反寇送死到，"
+        },
+        {
+          "character": "颜良",
+          "type": "西皮摇板",
+          "text": "要拿曹操祭宝刀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良、许褚比刀，许褚败下，颜良追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": "曹操",
+          "type": "内西皮导板",
+          "text": "杀声连天红日淡，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操、四上手、四龙套、众将同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮流水",
+          "text": "金鼓声敲心胆寒， 统领诸将土山站，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操上山。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "但愿斩将奏凯还！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "许褚上，颜良追上。复战，许褚败下，颜良追下。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "只见许褚刀法乱， 怕的是阵前有伤残。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "看许褚刀法已乱。 夏侯惇听令：快快出马护救。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "西皮摇板",
+          "text": "提刀出马去助战， 好比蛟龙浪里翻！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯惇下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": "关羽",
+          "type": "内西皮导板",
+          "text": "紧勒丝缰坐雕鞍——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童、关羽、飞旗手同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮原板",
+          "text": "正气冲霄日光寒。 弟兄三人徐州散， 为保皇嫂暂从曹瞒。 身在曹营心在汉， 不知兄长驾可安？ 孟德有令将某遣， 正好立功报效还。 催马来到黄河岸——"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "云长来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操下山，迎接。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "迎接将军上土山。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "二将军请上土山。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相请。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小吹打〗。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相传唤，有何事议？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "只因颜良连斩宋宪、魏绩二将。徐晃亦被刀伤左膀，此人勇不可挡，特请将军 前来退敌。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "容某一观，便知分晓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊声。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "呀，二将军，你看颜良与许褚杀来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "许褚、颜良同上，起打，许褚败下，夏侯惇上接战，败下。颜良追下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "河北人马，如此骁勇，真不愧雄师也。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "以某看来，犹如土鸡瓦犬耳！"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "土鸡瓦犬兵十万， 有名无实不足观。 丞相且把心放宽， 马到成功即刻还。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯惇、许褚同败上。"
+        },
+        {
+          "character": "夏侯惇、许褚",
+          "type": "同白",
+          "text": "启禀丞相：颜良勇猛非常，不能取胜。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "各归队伍。 朱灵、路昭听令！快去敌住颜良，不要叫他冲上土山。"
+        },
+        {
+          "character": "朱灵、路昭",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱灵、路昭同下。"
+        },
+        {
+          "character": "颜良",
+          "type": "内西皮导板",
+          "text": "人似天神刀光闪——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、颜良同上。"
+        },
+        {
+          "character": "颜良",
+          "type": "西皮快板",
+          "text": "杀退曹营众将官。 鞭梢一指云雾散！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良走阵势。"
+        },
+        {
+          "character": "颜良",
+          "type": "西皮摇板",
+          "text": "大骂曹操尔敢下山？"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "呔，曹操你敢下得山来，与你颜老爷战上几个回合，方算英雄好汉。踞山不出， 真乃匹夫之辈。 众将官，将土山围住了。 呸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良、四龙套同下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哎呀，将军，你看麾盖之下，绣袍金甲，手持大刀，那就是河北颜良。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "我观颜良，犹如插标卖首！"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "分明鲁莽一蠢汉， 插标卖首几文钱。 青龙偃月金光闪——"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军！"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "我营将士心胆寒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良上。朱灵、路昭同上，起打，颜良杀朱灵、路昭。"
+        },
+        {
+          "character": "颜良",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "可怜二将，又死于颜良之手！无人能敌，如何是好？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相休惊，某虽不才，愿去万军之中取颜良首级，来献麾下。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "啊，二将军，有道是军无戏言。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "文远，你好小量关某也。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "非是关某敢斗胆， 熟读春秋志不凡。 精神贯日扶炎汉， 气盖群雄社稷安。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽卸袍。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "辞别丞相跨雕鞍，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下山。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "即刻立功寻兄还！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良、四龙套同上。"
+        },
+        {
+          "character": "颜良",
+          "type": "西皮摇板",
+          "text": "曹操被某杀破胆， 并无有一人到阵前。 颜良要战你们哪一个敢？"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "哈……谁敢来，谁敢来？"
+        },
+        {
+          "character": "颜良",
+          "type": "西皮摇板",
+          "text": "得意洋洋站土山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上，斩颜良。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "赤兔追风快如闪， 青龙偃月饱血餐。 颜良已斩兵将散，"
+        },
+        {
+          "character": "报效曹公第一番！",
+          "type": "下。",
+          "text": ""
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "遥望刀光猛一闪， 颜良尸首落雕鞍？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众将，你们可曾看见云长斩颜良么？"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "我等俱已看见。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "看得可真？"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "明明白白看见刀起，颜良首级落下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哈哈哈，我好喜也！颜良已死，袁绍，袁绍，你命休矣！"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "这等神勇世上罕， 刀光闪处人马翻。 捧酒下山迎好汉——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操下山。关羽上。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "丞相虎威得胜还。 献上首级请观看！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "将军武艺果不凡！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "看酒来，将军，暂饮此酒，以贺大功！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小吹打〗。关羽接酒，谢天地，坐下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军真乃虎将也！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某何足道哉！我三弟张翼德，于万马军中，取上将之首级，如探囊取物一般！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众将同惊。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "唔呼呀，这样的英勇，还不足为奇，张翼德，在万马军中，取上将之首级，如 探囊取物一般，不可轻视。 取笔砚过来，记在袍襟之下，日后遇张莫战。尔等也记下了！"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "笔墨在此。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众将官，快快写好了！ 颜良已灭，河北兵将败走。我今保奏关将军，进爵汉寿亭侯之职，请到大营设 筵贺功。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

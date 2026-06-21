@@ -1,0 +1,1303 @@
+{
+  "script_id": "04004002",
+  "title": "两将军",
+  "alias": [],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "马超",
+      "hangdang": "武生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "马超奉张鲁之命，攻打刘备所辖的葭萌关。马超是个勇悍绝伦的武将；诸葛亮用激将法派张飞去抵敌。张飞、\n马超二人在葭萌关前力战，日以继夜，不分胜负。在敌楼上观战的刘备，见马超武艺超群，顿生爱将之念。\n想到“二虎相争，必有一伤”，乃下城解围。马超表面上虽不理睬，但实已衷心赞佩刘备，怀着归顺之心\n了。",
+  "notes": "《两将军》是《三国演义》中的一节故事。此剧系根据中国京剧团演员李少春的演出本由本院（中国戏曲研\n究院）编辑处邱炘整理。个别词句，略有修删，均征得李少春的同意。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延、任奎、吴兰、雷同分上。起霸。〖点绛唇〗。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "魏延。"
+        },
+        {
+          "character": "任奎",
+          "type": "白",
+          "text": "任奎。"
+        },
+        {
+          "character": "吴兰",
+          "type": "白",
+          "text": "吴兰。"
+        },
+        {
+          "character": "雷同",
+          "type": "白",
+          "text": "雷同。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "众位将军请了。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "军师升帐，你我两厢伺候。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "引子",
+          "text": "统领雄兵，扶汉室，鼎足三分。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "参见军师。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "站立两厢。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "高卧南阳岁月深，为酬知遇出山林。隆中料就三分势，底定西川拒曹兵。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人诸葛亮。昨日擒了张任，取得雒城。闻得张鲁有意发兵，相助刘璋，也曾 命探马前去打探，未见回报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启禀军师：东川张鲁派马超攻打葭萌关甚紧！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "军师，既是马超攻打葭萌关，军师就该遣将去救的才是。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "这——那马超英勇非常，待山人筹思再遣。退帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮下。"
+        },
+        {
+          "character": "张飞",
+          "type": "内白",
+          "text": "三军的，回营哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八兵士、张飞同上。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "三将军回来了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "连夜出差辛苦了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好说，好说。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "主公面前，交过差否？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "俺大哥面前，交过差了。众位将军，这几日有什么军情无有？"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "今有东川张鲁，派马超为将，攻打葭萌关来了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "军师就该遣将去救。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "军师言道：筹思再遣。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "他筹思的是哪一个呢？哦哦是了，想是等俺老张回来，你道是也不是？"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "想是有的。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "你我再请军师。"
+        },
+        {
+          "character": "张飞、魏延",
+          "type": "同白",
+          "text": "有请军师。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "众位将军何事？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "参见军师。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三将军回来了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "连夜出差，辛苦了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好说，好说。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "主公面前，可曾交过差否？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "俺大哥面前，交过差了。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "交过便好。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "咦！他怎么不提葭萌关之事呢？待俺问过。 军师，这几日有什么军情无有？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "今有东川张鲁，派马超攻打葭萌关来了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "军师就该遣将去救。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "黄忠、赵云出差未归，你二兄长一时不能来到；待山人筹思再遣。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "咦！他把俺就忘怀了！ 军师，咱老张可能担此重任？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三将军，你么？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "喳喳喳！咱老张可能担此重任？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三将军，你么……"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "喳喳喳！军师，咱老张可能担此重任哪？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "将军哪！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "马超本是英雄将， 怕你此去有损伤。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮摇板",
+          "text": "闻言怒发三千丈， 军师小看咱老张。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "军师！咱老张出师以来，虎牢关三战吕布，当阳桥喝退曹兵。那马超他不过是 一个人儿，他就是天上的蛟龙，俺也要打，打落他的甲；丈八枪，挑断他的筋！ 你为何长他人锐气，灭咱老张的威风！是何道理？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三将军既要讨令，待我先遣一将。 魏延听令。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你攻打头阵！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三将军听令。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领本部人马，大战马超，不得有误！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "喳喳喳，得令！ 马来，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八兵士、张飞同下。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "主公到。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。四兵士、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "主公。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "这几日可有军情无有？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "今有东川张鲁，派马超攻打葭萌关来了。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生命何人应敌去了？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三将军应敌去了。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "想那马超英勇无敌，恐我三弟不是他的对手。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人三思后而行之，定无差错。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "马超本是英雄将， 唯恐三弟有损伤。 人来带马忙赶上， 追赶三弟回营房。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、刘备同下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "吩咐三军忙退帐， 且听好音报端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、杨柏同上。"
+        },
+        {
+          "character": "杨柏",
+          "type": "白",
+          "text": "俺，杨柏。随定马超攻打葭萌关，待俺出马，抢他个头功。 众将官，杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、魏延同上。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "杨柏",
+          "type": "白",
+          "text": "大将杨柏！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延、杨柏同起打。杨柏败下，魏延追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、马岱同上，过场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨柏、魏延同上，起打，杨柏败下。马岱挑上，将魏延打下。马岱追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八兵士同上，过场，同下。张飞上，趟马，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延、马岱同上，起打，魏延败下。张飞挑上，将马岱打下。张飞追下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、刘备同上，过场，同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱上，张飞追上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "呔，留个名儿再走！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "西凉马岱。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "咦！我当是马超，原来是马岱。 马岱！我今放你回去。对你兄长言讲，就说燕人张翼德在此等候，叫他拿命来！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "一派胡言，看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起打，马岱败下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "跑了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟你要往哪里去？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "小弟要去大战马超！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "想那马超英勇，三弟不可轻视于他。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊大哥，你怎么也听信那诸葛亮之言，长那马超的威风，想小弟呵……"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮摇板",
+          "text": "当阳曾破兵百万， 哪怕虎穴与龙潭。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "今日暂且歇一晚， 明日再战也不难。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "怎么？明日再战，叫那马超多活一夜？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "叫他多活一夜。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮摇板",
+          "text": "弟遵兄命且罢战。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "紧守城池莫出关。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八兵士、马超同上。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "万马营中无人敌， 大将阵前血染衣。 将身且坐宝帐里， 且听探马报端的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、马岱、杨柏同上。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "参见兄长。"
+        },
+        {
+          "character": "杨柏",
+          "type": "白",
+          "text": "参见元帅。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "罢了。你二人为何这等模样？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "小弟奉命巡营嘹哨，观见杨柏被魏延杀得大败，若不是小弟将他救回，险遭不 测。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "杨柏！你私自出兵，是何道理？"
+        },
+        {
+          "character": "杨柏",
+          "type": "白",
+          "text": "啊，元帅，末将此番出兵若是打了胜仗，这个功劳，岂不是元帅你的吗？"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "杨柏",
+          "type": "白",
+          "text": "元帅之功！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "大胆！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮散板",
+          "text": "藐视军令太无理， 擅自出马误军机。 传下将令取首级！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "且慢，斩了此人，只恐张使君多疑。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "哦！来呀！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮散板",
+          "text": "四十棍管叫尔皮开肉飞。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二兵士、杨柏同下。内喊打声。二兵士、杨柏同上。"
+        },
+        {
+          "character": "杨柏",
+          "type": "西皮散板",
+          "text": "低头不语进帐里， 多谢元帅留首级。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮散板",
+          "text": "今日暂且饶恕你， 无令不许把帐离。"
+        },
+        {
+          "character": "杨柏",
+          "type": "西皮散板",
+          "text": "四十大板他出了气， 只得暂且把头低！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨柏下。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "贤弟，你既然战败魏延，为何狼狈而回？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "小弟战败魏延，忽然闪出一将，单叫兄长出马。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "可曾问过那人姓名？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "此人名叫张飞。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "哦！张飞！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "久闻此将，勇冠三军，今日倒要会他一会。马岱听令！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "紧守大营，不得有误！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱下。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "众将官，葭萌关去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "前道为何不行？"
+        },
+        {
+          "character": "众兵士",
+          "type": "同白",
+          "text": "来到葭萌关。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "人马列开！ 来此已是葭萌关！葭萌关！众将官！尔等高声呐喊，单叫张飞出马！"
+        },
+        {
+          "character": "马超",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众兵士、马超同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞上。"
+        },
+        {
+          "character": "众兵士",
+          "type": "内同白",
+          "text": "张飞出马！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "三军的，马来，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟要往哪里去？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "小弟要大战马超！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟执意要去，且随愚兄到敌楼一观。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "就依大哥。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "带马伺候！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "敌楼之上观动静， 且看马超发来兵。"
+        },
+        {
+          "character": "马超",
+          "type": "内西皮导板",
+          "text": "万马军中旌旗展，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八兵士、马超同上。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮快板",
+          "text": "催马来到城下边。 三军与爷齐呐喊， 单叫张飞快出关。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥这就是马超。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮快板",
+          "text": "尔是好汉来交战， 你贪生！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "喳！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮快板",
+          "text": "怕死！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "嗳！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮快板",
+          "text": "就不要出关。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "喳喳喳，哇呀呀！三军的，开关，开关！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟使不得。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "嗳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞下城，出城。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "汉将张飞！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "西凉马超！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": "张飞",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "张飞！为何发笑？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "马超！我当你三头六臂，八臂哪吒，今日一见，嘿嘿！你也是个人儿。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "一派胡言，放马过来！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众兵士自两边分下。张飞、马超同起打，双下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "好一场厮杀也！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "只杀得红日把光隐， 只杀得遍地起灰尘。 只杀得马走如雷震， 越杀越勇越精神。"
+        },
+        {
+          "character": "张飞",
+          "type": "内西皮导板",
+          "text": "今日要擒西凉汉，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众兵士、张飞、马超同上。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮散板",
+          "text": "一来一往各争先。"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "丈八蛇矛分心刺，"
+        },
+        {
+          "character": "马超",
+          "type": "西皮散板",
+          "text": "银枪一抖刺胸前。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "马超！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "我不擒你不回转！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "张飞！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮散板",
+          "text": "我不擒你不回还！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮散板",
+          "text": "叫三军！"
+        },
+        {
+          "character": "众兵士",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮散板",
+          "text": "与爷齐呐喊！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "擒不住马超你莫开关！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞、马超同起打。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "马超，敢是怯战？"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "两家鸣金收兵，明日再战，何为怯战！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我不擒你，誓不上关！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞、马超同起打。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "且慢哪！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "马超！敢是怕你三爹爹不成？"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "焉能惧你！看，天色已晚，你我掌起灯笼火把夜战，张飞！你敢是不敢？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好哇！你三爹爹出师以来，最喜的是夜战！"
+        },
+        {
+          "character": "马超、张飞",
+          "type": "同白",
+          "text": "你我各传将令。"
+        },
+        {
+          "character": "众将官三军的！掌起灯笼火把，夜战",
+          "type": "张飞",
+          "text": "（马超）！"
+        },
+        {
+          "character": "众兵士",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众兵士自两边分下。张飞、马超双下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "真乃是两员虎将也！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "站立敌楼来观瞧， 二将战场比英豪； 三弟好比南山豹， 马超好比浪里蛟。 俺对苍天来祝告， 相助刘备收马超。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "走灯。群打。张飞、马超同上，起打，双下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "且住！二虎相争，必有一伤；待俺亲自出城，先与他二人解围。再与军师计议 说降马超便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。张飞、马超同上，起打。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众兵士、刘备同上，将张飞、马超冲开。刘备劝张飞。张飞、众兵士同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "马将军，备三弟莽撞，备这厢陪礼了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超不理。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "马将军，你二人战了一日一夜，身体疲乏，请回营歇息去吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超不理。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "马将军，今日天色已晚，暂且收兵，明日再战，也还不迟，备要少陪了。请了， 请了！ 嗳，一员好将也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备向马超表示爱喜之意，不住回顾。进城下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超向城内两望，表示敬佩刘备，带有心折之意。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "带马回营！"
+        },
+        {
+          "character": "八兵士",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

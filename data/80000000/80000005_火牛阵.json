@@ -1,0 +1,8962 @@
+{
+  "script_id": "80000005",
+  "title": "火牛阵",
+  "alias": [],
+  "source": "录音、唱片本",
+  "characters": [
+    {
+      "name": "田单",
+      "hangdang": "老生"
+    },
+    {
+      "name": "田法章",
+      "hangdang": "小生"
+    },
+    {
+      "name": "伊立",
+      "hangdang": "净"
+    },
+    {
+      "name": "殷惠娥",
+      "hangdang": "旦"
+    },
+    {
+      "name": "皂隶",
+      "hangdang": "丑"
+    },
+    {
+      "name": "侯栾",
+      "hangdang": "丑"
+    },
+    {
+      "name": "王通",
+      "hangdang": "老生"
+    },
+    {
+      "name": "殷尚",
+      "hangdang": "老生"
+    },
+    {
+      "name": "齐湣王",
+      "hangdang": "丑"
+    },
+    {
+      "name": "乐毅",
+      "hangdang": "净"
+    },
+    {
+      "name": "王孙贾",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "战国时，齐湣王宠信邹妃及太监伊立，不理朝政。燕昭王任用乐毅为帅伐齐，连破七十余城。邹妃及伊立设\n计，诬陷东宫世子田法章，无礼于邹妃，齐湣王大怒，命伊立斩杀世子回奏。世子逃出东宫，遇巡城卸史田\n单将世子扮成己妹，瞒过伊立搜查；又陪同世子买通守城官，连夜逃出城关，被大军冲散。田法章投靠退职\n太守殷尚，与殷尚之女殷惠娥私定婚姻。田单据守即墨，先用反间计，使燕以骑劫替回乐毅为帅，后又用火\n牛阵大破燕兵，恢复齐国。太守殷尚送田法章至即墨与田单君臣重会，始知田法章为男子，遂允与殷惠娥成\n婚。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "乐毅",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乐毅上。"
+        },
+        {
+          "character": "乐毅",
+          "type": "西皮散板",
+          "text": "军机战策某精通， 三韬六略在腹中。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "俺，乐毅。乃赵国人也，先祖乐羊，师以领授。某自幼熟读兵书，深通战策。 前者，投奔齐王，可恨伊立，嫉贤妒能，将某责打四十军棍，赶出不用。闻得 燕昭王，高筑黄金台，招贤纳士。俺此番前去投效，若蒙重用，必然灭却齐邦， 以报此仇！看，前面已是燕国都城，就此马上加鞭。"
+        },
+        {
+          "character": "乐毅",
+          "type": "西皮散板",
+          "text": "怀才不遇风尘困， 伊立嫉贤妒才能。 若蒙燕王来重用， 灭却齐邦方称某心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乐毅下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "四大臣",
+          "type": "内同白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大臣同上。〖点绛唇〗。"
+        },
+        {
+          "character": "大臣甲",
+          "type": "白",
+          "text": "列位大人请了。"
+        },
+        {
+          "character": "三大臣",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "大臣甲",
+          "type": "白",
+          "text": "今有赵国乐毅，前来投效。少时大王升殿，把本奏上。"
+        },
+        {
+          "character": "三大臣",
+          "type": "同白",
+          "text": "看：香烟缭绕，圣驾临朝，分班伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引燕昭王同上。"
+        },
+        {
+          "character": "燕昭王",
+          "type": "引子",
+          "text": "龙门展放，众文武，齐贺孤王。"
+        },
+        {
+          "character": "四大臣",
+          "type": "同白",
+          "text": "臣等见驾，大王千岁！"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "四大臣",
+          "type": "同白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "燕昭王",
+          "type": "念",
+          "text": "可恨齐王理不端，不顾情义谋江山。孤王招贤来对战，但愿齐唱凯歌还。"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "孤，燕昭王在位。可恨齐邦，累次兴兵犯境。孤与齐王有雪耻之仇。 众卿，"
+        },
+        {
+          "character": "四大臣",
+          "type": "同白",
+          "text": "臣。"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "何计以安塞？"
+        },
+        {
+          "character": "大臣甲",
+          "type": "白",
+          "text": "臣启大王：今有赵国乐毅前来投效，请旨定夺。"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "好，宣乐毅上殿。"
+        },
+        {
+          "character": "大臣甲",
+          "type": "白",
+          "text": "领旨。 大王有旨，乐毅上殿。"
+        },
+        {
+          "character": "乐毅",
+          "type": "内白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乐毅上。"
+        },
+        {
+          "character": "乐毅",
+          "type": "念",
+          "text": "欲展平生志，来投霸业人。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "草民乐毅见驾，大王千岁！"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "卿家哪里人氏？有何本领，前来投效？"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "草民乃赵国人氏，先祖乐羊。草民幼读兵书，深通战策。闻得大王招贤纳士， 特来投效。"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "孤与齐王有雪耻之仇，卿家何计安塞？"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "想那齐邦，地旷人众，士卒习战。又有渔盐之富，未可攻也。大王欲报先君之 仇，必须联络列国人马，方可破之。想那赵国，乃我国近邻，赵合则韩必从。 孟尝君在位，方恨齐王，意无不从。那秦国嫉齐之强盛，又恐天下诸侯背秦事 齐，亦无不从。若得此四国人马，兵合一处，破那齐邦岂不是易如反掌？"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "就命卿家即日金台拜帅，下面更衣。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "谢大王！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乐毅下。"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "众卿，"
+        },
+        {
+          "character": "四大臣",
+          "type": "同白",
+          "text": "臣。"
+        },
+        {
+          "character": "燕昭王",
+          "type": "白",
+          "text": "你等金台伺候，退班。"
+        },
+        {
+          "character": "四大臣",
+          "type": "同白",
+          "text": "请驾回宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐胜、薛成同上，同起霸。"
+        },
+        {
+          "character": "徐胜",
+          "type": "念",
+          "text": "头带盔盔缨明亮，"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同念",
+          "text": "身披甲甲似秋霜。跨下马如同戏水，掌中枪盖世无双。"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "徐胜",
+          "type": "白",
+          "text": "徐胜。"
+        },
+        {
+          "character": "薛成",
+          "type": "白",
+          "text": "薛成。 将军请了。"
+        },
+        {
+          "character": "徐胜",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "薛成",
+          "type": "白",
+          "text": "今有乐毅，金台拜帅。约请我等，一同兵发齐邦。远远望见，"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "元帅来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。乐毅、四龙套同上。"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "二位将军免礼。"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "圣驾到此，速报我知。"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "龙套",
+          "type": "内白",
+          "text": "圣驾到。"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "圣驾到。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "一同接驾。"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "接驾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "燕昭王、四大臣同上。燕昭王拜帅。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "送圣驾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "燕昭王下，四大臣同下。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "二将听令。"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "命你二人操练士卒，且候四国人马到此，一同伐齐。带马！"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉、伊立同上。"
+        },
+        {
+          "character": "伊立",
+          "type": "引子",
+          "text": "执掌齐邦，压朝臣，谁不尊咱！"
+        },
+        {
+          "character": "伊立",
+          "type": "念",
+          "text": "身入皇宫有数秋，满朝文武咱为头。双手能写梅花篆，执掌齐邦半壁瓯。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "咱家，伊立。我乃西凉下国的人氏，自幼净身进宫，伺候狼主，甚是得宠。只 因我国缺少齐邦三载的贡奉，是我国狼主将邹娘娘与咱家献与齐邦。齐王见喜， 封邹娘娘以为西宫下院。齐王见咱双手能写梅花篆字，因此封咱卷帘的御史 之职，这且不言。今有满朝文武在议事厅前等候咱家议论国事。 孩子们！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "打道议事厅。"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。"
+        },
+        {
+          "character": "探子",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "念",
+          "text": "打探军情事，鞍眠夜不收。日间藏草内，夜晚走荒丘。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "探子是也！今有乐毅在燕邦金台拜帅，不免报与公公知道，就此马上加鞭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子走圆场。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "来此已是，待我击点。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子击点。"
+        },
+        {
+          "character": "校尉",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "急报求见。"
+        },
+        {
+          "character": "校尉",
+          "type": "白",
+          "text": "伺候。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": "校尉",
+          "type": "白",
+          "text": "急报求见。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "传。"
+        },
+        {
+          "character": "校尉",
+          "type": "白",
+          "text": "随我进来，"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "是。 急报告进，参见公公。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "探听哪路的军情，慢慢地报来。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "今有乐毅在燕邦金台拜帅，统领五国人马，前来伐齐，特来报知啊！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "他国的人马哪？"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "他国的人马犹如潮水的一般，那贼的人马好不威严也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "赏你金牌一面，再探再报，"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哈哈！好一个大胆的乐毅呀！前番投奔我国，是咱家不重用于你。责打四十军 棍，赶出境地。哎！怎么着？投奔燕邦，金台拜帅，带领人马要前来伐齐？哈 哈……孩儿啊！孩儿啊！有你伊公公在朝，谅尔又反得了哪儿喀吗？哎哟！慢 着！想我家大王每日贪恋酒色，不理朝政，嘿嘿！可也是嘚儿枉然哪！哦呵！ 有啦！想东宫殿下颇有韬略，不免去至东宫，与殿下商议发兵退敌之策。 孩子们，"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "打道东宫！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立、四校尉同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、内侍同上。"
+        },
+        {
+          "character": "田法章",
+          "type": "引子",
+          "text": "堪叹父王，恋酒色，不理朝纲。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "小王田法章，只因西凉国进来邹妃、伊立，父王见喜，将邹妃封为西宫下院。 父王每日贪恋酒色，不理朝政。眼看齐国祸不远矣！正是："
+        },
+        {
+          "character": "田法章",
+          "type": "念",
+          "text": "兴邦犹如针挑土，败国好似浪洗尘。"
+        },
+        {
+          "character": "伊立",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立上。"
+        },
+        {
+          "character": "伊立",
+          "type": "念",
+          "text": "只为发兵事，来见智谋人。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "待咱叩环。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "何人叩环？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "烦劳通禀：伊立求见千岁。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "候着。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "启殿下：伊立求见。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！宣他进宫，"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "是。 伊立进宫啊！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "是。 参见小千岁！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "赐座。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "谢座！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "进宫何事？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "千岁有所不知，今有乐毅投奔燕邦，金台拜帅。带领人马，前来伐齐。奴婢特 地前来，与殿下商议发兵退敌之策。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "可曾奏过父王？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "这个！倒未曾禀知大王。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "与满朝文武商议？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哎哟！哈哈……这满朝文武，谁还大得过奴婢去吗？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "唗！先前乐毅投奔我邦，被你这奸贼赶出不用。还敢前来见我！近前来。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "千岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章踢伊立。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "还不与我走了出去！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哈哈！好一个大胆的田法章啊！发兵不发兵，任凭与你，怎么着？一脚将咱家 踢出了宫门！哈哈……是喽，你仗着你是守阙之龙，还把咱家卷帘的御史放在 你的心上吗？哦呵！有啦！我不免去至西宫搬弄是非，正是："
+        },
+        {
+          "character": "伊立",
+          "type": "念",
+          "text": "一脚成仇恨，我点点记心头。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "启殿下：伊立怒出宫门。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": "田法章",
+          "type": "念",
+          "text": "暂将两眼观螃蟹，看尔横行到几时！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、内侍同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "邹妃、娥云、四宫女同上。"
+        },
+        {
+          "character": "邹妃",
+          "type": "念",
+          "text": "每日西宫院，陪王伴君眠。"
+        },
+        {
+          "character": "伊立",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立上。"
+        },
+        {
+          "character": "伊立",
+          "type": "二黄散板",
+          "text": "田法章小奴才其情可恼， 他把我卷帘的御史不放在心梢。 进宫去见娘娘双膝跪倒， 望娘娘救奴婢性命一条。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "参见娘娘，"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "谢娘娘！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "赐座。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "谢座！可恼！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "为何这样烦恼？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "娘娘有所不知，只因乐毅投奔燕邦，金台拜帅。带领人马，前来伐齐。奴婢去 至东宫，与殿下商议发兵退敌之策。发兵不发兵，还则罢了，他在背地里，言 讲娘娘几句谗语，嘿嘿！奴婢我实实地不敢启奏。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "恕你无罪，你且讲来。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "娘娘啊！"
+        },
+        {
+          "character": "伊立",
+          "type": "二黄散板",
+          "text": "田法章说出话无有人道， 把娘娘比妲己不差分毫。 有一日田法章身躬大宝， 要把娘娘万剐千刀！"
+        },
+        {
+          "character": "邹妃",
+          "type": "二黄散板",
+          "text": "听一言来怒冲起， 大胆奴才乱胡为！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "果有此事么？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "奴婢不敢妄奏。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "嗯，你且出宫，我自有道理。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "谢娘娘。正是："
+        },
+        {
+          "character": "伊立",
+          "type": "念",
+          "text": "点起一把火，要烧万重山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立下。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "内白",
+          "text": "摆驾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐湣王、太监同上。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "二黄摇板",
+          "text": "内侍摆驾后宫进， 梓童免礼且平身。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "妾妃见驾，大王千岁！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "爱妃请起，一旁坐下。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "内侍，看酒来，我与娘娘同饮。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "遵旨。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "怎么样了？"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "妾妃今日饮不得酒了。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "怎么饮不得酒了哇？"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "身体不爽。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "你病了？ 内侍，"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "奴婢在。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "宣太医进宫，与娘娘调治病症。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "遵旨。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "慢来！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "呃！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "君臣怎好携手号脉？"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "依你之见呢？"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "闻得东宫世子，受过异人传授，深通医道。何不宣他进宫，与妾妃调治病症？"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "好！ 娥云过来。"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "命你晓谕东宫世子，叫他进宫，与娘娘调治病症，快去。"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "遵旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "娥云下。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "梓童，随孤来呀！哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐湣王、邹妃同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、内侍同上。"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄摇板",
+          "text": "伊立轻贤惹是非， 一怒赶他出宫闱。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "娥云上。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "娥云到此何事？"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "只因大王有旨：命殿下前去与娘娘调治病症。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "知道啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "娥云下。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "启禀殿下：大王有旨，请殿下去至西宫与娘娘调治病症。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "背了药箱，西宫去者。"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄摇板",
+          "text": "侍儿带路西宫往， 调治病症走一场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、内侍同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "邹妃、娥云、四宫女同上。"
+        },
+        {
+          "character": "邹妃",
+          "type": "二黄摇板",
+          "text": "心腹之患安排定， 要害世子命残生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、内侍同上。"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄摇板",
+          "text": "将身来在西宫院， 见了母亲问一番。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "前去叩环。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍叩门。"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "殿下到。"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "启禀娘娘：殿下到。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "宣他进宫。"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "随我进宫啊！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "领旨。儿臣见驾，母亲千岁！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "赐座。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "谢座。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "儿啊，为娘身体不爽，不知得的何病？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "脉乃人之根本。必须先诊脉，然后下药。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "就依我儿。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "脉枕伺候。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章号脉。〖小开门〗。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄摇板",
+          "text": "母亲身体本无病， 假装有恙为何因？"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "儿啊！为娘得的何病？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "母亲不过微有小恙，待儿臣取些太平丹药，母后用下，必然痊愈。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "宫娥退下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "娥云、内侍、四宫女同下。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "啊，儿啊，为娘并非有病，只因你父王年迈，不能欢乐。我儿上得龙床，与为 娘同乐一回。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "真真无有廉耻！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章下。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "且住！实指望调戏于他，不想被他羞辱一场。嗯，我不免将粉脸抓破，上殿奏 知大王。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "宫娥，"
+        },
+        {
+          "character": "四宫女",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "随我上殿去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "邹妃、四宫女同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐湣王、太监同上。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "二黄摇板",
+          "text": "内侍摆驾金殿进，"
+        },
+        {
+          "character": "邹妃",
+          "type": "内白",
+          "text": "喂呀！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "二黄摇板",
+          "text": "殿角以外放悲声。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "邹妃上。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "喂呀！大王啊！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "梓童，为何这等模样啊？"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "今有东宫世子，进宫调戏妾妃，大王做主！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "呃！想那世子，乃是我的好儿子，焉能做出此事？你说此话，我却不信哪。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "大王不信，现有东宫世子将妾妃粉脸抓破，大王请看。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "好奴才！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "二黄散板",
+          "text": "奴才做事太无礼， 不该戏弄孤爱姬！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "梓童快快起来，一旁坐下，"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "谢座。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "内侍，"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "奴婢在。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "宣世子上殿，"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "遵旨。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "且慢！宣他上殿，为了何事？"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "呃，将那世子宣上殿来，杀了他，哼，剐了他，与你出出气，也就是了哇。"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "倘若文武保奏，如何是好？"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "依梓童之见呢？"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "依妾妃之见，就命伊立，赐他宝剑。三更时分，去至东宫，将世子斩杀回奏。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "此计甚好。 内侍，"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "奴婢在！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "宣伊立上殿。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "遵旨。 大王有旨，伊立上殿哪！"
+        },
+        {
+          "character": "伊立",
+          "type": "内白",
+          "text": "领旨啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立上。"
+        },
+        {
+          "character": "伊立",
+          "type": "念",
+          "text": "忽听大王宣，迈步到金銮。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "伊立见驾，大王千岁！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "千千岁！ 娘娘千岁！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "谢娘娘！ 宣奴婢上殿，有何国事议论？"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "今有世子人伦大变，赐你宝剑一口，三更时分，斩杀世子回奏。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "转来。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "今晚不闭宫门，等你回奏，"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "伊立",
+          "type": "念",
+          "text": "金殿领圣旨，拔剑要斩仇人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立下。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "齐湣王",
+          "type": "念",
+          "text": "恼恨世子太无理，"
+        },
+        {
+          "character": "邹妃",
+          "type": "念",
+          "text": "不该子淫父的妻！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "念",
+          "text": "宝剑一举人头落，"
+        },
+        {
+          "character": "邹妃",
+          "type": "念",
+          "text": "气化清风肉化泥。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "好个“气化清风肉化泥”，好端端的一个儿子，他此番前去，一命就要归西了！ 唉！儿啊！"
+        },
+        {
+          "character": "邹妃",
+          "type": "白",
+          "text": "啊！大王！不必如此，妾妃这里还有一个。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "噢！哦！妾妃肚内还有一个？唉！你哦，随孤来呀！哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐湣王、邹妃同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "娥云上。"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "哎呀！且住！只因奸妃在大王面前搬弄是非，大王传下旨意，今晚三更时分， 斩杀世子回奏。我不免前去送信便了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "娥云下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、内侍同上。"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄摇板",
+          "text": "奸妃做事理不端， 苦苦害我为哪般？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "娥云上，叩门。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "何人叩环？"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "娥云求见。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "候着。 启殿下：娥云求见。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "宣她进宫。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "是。 娥云进宫啊！"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "是。 参见殿下。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "平身。进宫何事？"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "哎呀！殿下呀！只因奸妃在大王面前搬弄是非，大王命伊公公，宝剑一口，今 晚三更时分，要斩杀您回奏哪！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！是哪里传旨？"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "金殿传旨。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "可有文武保奏？"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "并无文武保奏。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！是了，想是娘娘虐待于你，在小王面前搬弄是非。 侍儿，"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "轰了出去！"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "你呀，出去吧！"
+        },
+        {
+          "character": "娥云",
+          "type": "白",
+          "text": "且住！是我娥云好心前来与他送信，谁想他不肯深信于我，反将我轰出宫门。 有何脸面活在世上？不免碰头金殿之下，以表忠心！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "娥云碰死。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "启禀殿下：娥云碰死殿角之下啦！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "有这等事！待我看来！ 哎呀！"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄散板",
+          "text": "一见娥云丧了命， 怎不叫人痛伤心！ 回头我对侍儿论， 快快搭救我命生。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "殿下！殿下不必惊慌，倒不如扮做奴婢模样，混过一时，再做道理。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "你在此小心守候，待我改扮起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章下，上。"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄散板",
+          "text": "侍儿请上受一礼， 拜你如同拜先人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章下，内侍下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立上。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "伊立",
+          "type": "二黄散板",
+          "text": "听谯楼打罢了三更时分， 今夜晚拔宝剑就斩断了龙根。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "来此已是。开门来！开门来！呔！开门来呀！"
+        },
+        {
+          "character": "内侍",
+          "type": "内白",
+          "text": "谁？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "咱家。"
+        },
+        {
+          "character": "内侍",
+          "type": "内白",
+          "text": "谁？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哎哟嗬！连你伊公公的语声都听不出来吗？"
+        },
+        {
+          "character": "内侍",
+          "type": "内白",
+          "text": "噢！伊公公来啦！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "快着点儿！这么慢慢腾腾的，"
+        },
+        {
+          "character": "内侍",
+          "type": "内白",
+          "text": "来啦！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "快着点儿！"
+        },
+        {
+          "character": "内侍",
+          "type": "内白",
+          "text": "来啦！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "快着点儿！我打进去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍上。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "侍儿。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "公公。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "世子哪儿去喀啦？"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "殿下呀！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "哦！上书房读书哪！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "待咱赶到上书房。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立下。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "且住！那伊立去到上书房，寻找殿下。寻找不着，回来岂能与我干休哪？这！ 这！也罢！我不免碰死殿角之下，给他个死无对证！嗯！我就是这个主意啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍碰死。伊立上。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "上书房没有哇！这孩子他怎么会糊弄起我来了？这孩子怎么会糊弄起我来啦？ 啊！哈哈！好孩子！你把东宫世子放走，碰死在殿角之下，与咱家个死无对证。 哼！孩儿啊！孩儿！哦！有啦！想世子逃走不远，不免启奏大王便了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立走圆场。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "伊立二次见驾，大王千岁！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "内白",
+          "text": "卿家平身。何事？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "不知何人走漏消息，将世子放走，大王降旨。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "内白",
+          "text": "原为此事，赐卿校尉四十名，各府搜查，出宫去吧！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "谢大王！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同上。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "校尉的，"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "随定咱家，不分昼夜，各府搜寻世子去者！带马！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立、四校尉同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起四更鼓〗。"
+        },
+        {
+          "character": "田单",
+          "type": "内白",
+          "text": "掌灯。"
+        },
+        {
+          "character": "二衙役",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "田单",
+          "type": "内二黄导板",
+          "text": "听谯楼打四更玉兔东上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二衙役同上，田单上。"
+        },
+        {
+          "character": "田单",
+          "type": "回龙",
+          "text": "为国家秉忠心昼夜奔忙。"
+        },
+        {
+          "character": "田单",
+          "type": "二黄原板",
+          "text": "西凉国欠我邦三载贡饷， 献邹妃和伊立来见大王。 我主爷见邹妃龙心欢畅， 每日里贪酒色不理朝纲。 小乐毅要伐齐兵无人抵挡， 眼见得这江山付与了汪洋。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "下官田单，齐王驾前为臣，官拜巡城御史之职。今当巡城之期。 左右，"
+        },
+        {
+          "character": "二衙役",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "掌灯。"
+        },
+        {
+          "character": "二衙役",
+          "type": "同白",
+          "text": "是！"
+        },
+        {
+          "character": "田单",
+          "type": "二黄散板",
+          "text": "叫人来掌红灯御街来进， 若有那面生人盘查内情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章上。二衙役同拿田法章。"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "哎！拿住啦！拿住啦！"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "拿住啦！"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "你看住他，我讨赏去。"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "好啦！"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "回禀老爷的话：小人拿住犯夜的了。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦，你拿着犯夜的了？"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "好，回衙有赏。"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "谢老爷！"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "伙计，怎么样啦？"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "我有赏了。"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "我也来一份。"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "你来一份去。"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "启禀老爷：小人拿住犯夜的了。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "怎么！你也拿住犯夜的了？"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "对啦。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "好回衙也有赏。"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "多谢老爷。"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "哎，怎么着啦？"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "我也来了一份儿啦。"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "我再赶一份儿去。"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "再赶一份儿，好哇！"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "我也再赶一份儿去。回禀老爷的话：小人我又拿住犯夜的了。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "嗯！黑夜之间，哪有许多犯夜之人？掌灯，待你老爷观看哪！"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单看。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎呀！卿……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "噤声！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单踢灯，扯田法章同下。二衙役同摸灯。"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "伙计！"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "伙计！"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "伙计！"
+        },
+        {
+          "character": "衙役乙",
+          "type": "白",
+          "text": "伙计！“哎呀！卿！”"
+        },
+        {
+          "character": "衙役甲",
+          "type": "白",
+          "text": "“噤声！”得了！别招说啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "衙役甲扯衙役乙同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单、田法章同上。乳娘上，开门。田单、田法章同进门。"
+        },
+        {
+          "character": "田单、乳娘",
+          "type": "同白",
+          "text": "千岁醒来！"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄散板",
+          "text": "这一阵跑得我昏迷不醒，"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎呀！卿家呀！"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄散板",
+          "text": "见卿家不由我珠泪淋淋。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "千岁！"
+        },
+        {
+          "character": "田单",
+          "type": "二黄散板",
+          "text": "问千岁因何事逃出宫院？ 一一的对为臣细说根源。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "卿家呀！"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄散板",
+          "text": "伊立定下阴狠计， 要害小王命残生。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "好贼！"
+        },
+        {
+          "character": "田单",
+          "type": "二黄散板",
+          "text": "恨伊立把我的牙咬断， 苦害我主为哪般？"
+        },
+        {
+          "character": "家院",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "伊立前来搜府！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "知道了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "千岁，方才家院报道：伊立前来搜府。这便如何是好？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎呀！卿家要救我一救！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "千岁！事到如今，并无别计。臣妹现在原郡，千岁扮做臣妹模样，混过一时， 再作道理。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "但凭卿家！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "乳娘！快与千岁改扮起来！"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、乳娘同下。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "田单",
+          "type": "二黄导板",
+          "text": "水不清皆因是鱼儿搅混。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同上，过场，同下。伊立上。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "嘚！马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立下。"
+        },
+        {
+          "character": "田单",
+          "type": "二黄散板",
+          "text": "料不想又出了卖国的馋臣！ 急急忙忙千岁请，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、乳娘同上。"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄散板",
+          "text": "万般无奈扮妇人。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "啊！卿家。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "呃。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "看小王扮得可像？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "扮得倒像，必须要学妇人家行走的才是。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎呀！这倒不晓得！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "乳娘教导千岁。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "啊，千岁，这妇人家行走么，必须要这样走。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "妇人行走，必须要这样走。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦呵！着着着！"
+        },
+        {
+          "character": "家院",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "伊立来到府门。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "快快的有请。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、乳娘同下。四校尉、伊立同上。"
+        },
+        {
+          "character": "伊立",
+          "type": "二黄散板",
+          "text": "御史衙前下了马，"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "公公！"
+        },
+        {
+          "character": "伊立",
+          "type": "二黄散板",
+          "text": "有劳大人相迎咱。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哎！嘿嘿！咱家不敢当啊！不敢当啊！哈哈！哎！快请上坐，哈哈……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "不知公公驾到，未曾远迎，当面恕罪！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "岂敢！岂敢！咱家来得鲁莽，田大人你恕个罪罢！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！岂敢哪！岂敢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同喊。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "啊，公公，黑夜之间，带领许多校尉，驾临敝衙，但不知有何贵干？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "田大人，难道说这件事情，你还不知道么？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎，但不知何事呀？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "既然不知，待咱家我慢慢地告诉于你。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "公公请讲。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "只因东宫世子田法章，人伦大变，子要淫父妃。大王大怒，赐咱家宝剑一口， 三更时分，斩杀回奏。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦哦哦！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "不知是何人走漏了消息。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "呃！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "世子连夜逃出皇城。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎哎！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "咱家二次回奏大王，大王赐咱家四十名校尉，各府搜寻。各府俱已搜到，并不 见世子。我想世子他定然藏在你府！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "噢！原来为此！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "啊，公公，想你我为大臣者，就该上殿保本的才是呀。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哪个？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "唉！咱家连保数本，大王不准，嘿嘿！可也是嘚枉然哪！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "怎么？公公保过本了？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哎哟！哎哟！我早就保过本喽。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀呀！这也难怪呀！哎！也罢！待下官差下人役，四下寻访。若有世子的下 落，报与公公知道么，哦，也就是了。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哎！田大人！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "这话你可不是这么样的说法。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "要怎样的讲法呢？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "世子若在你府，你将他交与咱家我带上金殿。保你满门无事，嘿嘿！那可也就 完了！"
+        },
+        {
+          "character": "田单",
+          "type": "笑",
+          "text": "呵呵……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀！多承公公的美意！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "怎奈世子他……"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哎！在这儿哪？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "未在敝衙。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "当真不在？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "当真不在。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "果然不在？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "果然不在。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "这儿来！田大人！你说世子不在你府，咱家我就要……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "你要怎样？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "我就要搜哇！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "公公！当真要搜？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "当真要搜。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "果然要搜？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "果然要搜。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎，好好好，请搜。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "校尉的，"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "两厢搜来！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同两边搜。田法章、乳娘同上。"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "有两个妇人。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "起过！ 田大人。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "你说世子不在你府，顺着咱家手儿来看她，是嘚儿谁？"
+        },
+        {
+          "character": "田单",
+          "type": "笑",
+          "text": "哈哈！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀呀！这是乳娘同小妹，小妹同乳娘啊！呵呵……"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "噢！原来是令妹田大姑娘。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎，不敢，不敢，小妹。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "请过来，咱家我见个礼儿。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "她的礼貌不周，冲撞公公，那还了得！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "嘿嘿！你我一殿为臣，见见何妨哪？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "不见也罢！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "我一定要见！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "要见？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "要见。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "就见。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "这不结啦！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "乳娘同小妹见过公公。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "看她怎样行走！"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "哦！小姐礼到！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "还礼！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "回避！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、乳娘同下。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "且住！世子不在他府，莫非这孩子他上了天了吗？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "他怎样地上法？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "他入了地了吗？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "他怎样地入法呢？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "那么这孩子他哪喀了呢？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "着哇！真真奇怪得紧哪！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哦呵！有啦！待咱家我再上金殿，多讨校尉，再来搜寻！田大人！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！公公！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "咱家吃了几杯水酒，酒言酒语的，有些个莽撞。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀！何出此言？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "嗯！得罪了！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀！忒谦了哇！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哎哟！哎哟！这倒怪不得的。"
+        },
+        {
+          "character": "田单",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "告辞了哇！"
+        },
+        {
+          "character": "伊立",
+          "type": "二黄散板",
+          "text": "辞别御史把马跨，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉带马，同下。"
+        },
+        {
+          "character": "伊立",
+          "type": "二黄散板",
+          "text": "多讨校尉我再搜查！"
+        },
+        {
+          "character": "伊立",
+          "type": "三笑",
+          "text": "哈哈！哈哈！哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立下。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "好贼！"
+        },
+        {
+          "character": "田单",
+          "type": "二黄散板",
+          "text": "一见伊立跨金镫， 不由田单恨在心！ 二次再把千岁请，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、乳娘同上。"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄散板",
+          "text": "奸贼可曾出府门？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "千岁！那贼临行言道：多讨校尉，再来搜查。这、这、这便如何是好哇？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "卿家，你要救小王一救！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "有了哇！千岁！趁此天还未明，你我君臣扮做烧香还愿的模样，混出城去，再 做道理。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "如此改扮起来。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "乳娘，两厢看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单、田法章同换行头。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "乳娘，这有官宝一锭，收拾收拾，逃回原郡去吧。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "哦！多谢老爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘下。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "卿家。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单带马。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "卿家呀！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "噤声！唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单、田法章同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": "侯栾",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侯栾上。"
+        },
+        {
+          "character": "侯栾",
+          "type": "数板",
+          "text": "做官好，做官妙，做官头戴着乌纱帽，与祖增光耀。这坟地立着旗杆刁斗，家 里贴着门封告条。有朝一日我出任为官好，我也坐着个人儿抬轿。前头有帘， 后头有靠，离地足有那么二三尺高。这个造化可真不小，乐得我拍手哈哈笑。 一伸腿，底儿掉了，扑通通可吓了我这么一大跳。他们在外头跑，我在里头跑。 跑来跑去跑得我两脚的燎浆泡。这个梦才惊醒了，可笑！可笑！"
+        },
+        {
+          "character": "侯栾",
+          "type": "念",
+          "text": "我想四衙，反被二衙辖。二衙比他大，哎，他比二衙多俩衙。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "下官，侯栾。我父侯尚卫，在齐王驾前为臣。多蒙与我父同年好友，巴结我这 么一个小差事。哎，这且不言。伊公公有札子到来，命我把手关口，不准闲杂 人等乱出乱入。今儿该上关啦，我说来呀，来呀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皂隶上。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "来、呵！好精神哪！这出来就着了啊！我说，来呀，醒醒，哎！吃面啦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，好咸卤！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么的，好咸卤哇！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你说吃面了吗！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你瞧瞧，你扣着食哪！我这儿叫你哪！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哟！这个来呀，来呀的，是叫我哪？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "可不是叫你的吗？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我小名叫“来呀”吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎哟！我说你们当差的，就是你一个人吗？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "人多着的哪！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "还是的，我叫你们哪！就是“来呀”，“来呀”。谁听见，谁搭个喳儿不就得 了吗？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "这么说，我倒霉！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "怎么你倒霉呀？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "就是我听见了吗！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "就是你听见啦？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那就是你吧。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哪？是我怎么着？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你、你不知道哇？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "什么事？又叫我知道啦？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你瞧，我说给你听听啊！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你说呀！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "只因东宫世子田法章。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "人伦大变，子要淫父妃。大王大怒，赐伊公公宝剑一口，哎，三更时分，斩杀 回奏。不知何人走……哎！好好！哎哎……"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "我这儿跟你说话哪！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你说什么来着？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你看这全没听见这个！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你说你的。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你睡你的？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你说吧，我听得见，听得明白。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "听得明白？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "别睡啊！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "听着啊！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "说！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "只因东宫世子田法章，人伦大变，子要淫父妃。大王大怒，赐伊公公宝剑一口， 三更时分……"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，得得得！三更时分。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "去至东宫，斩杀世子回奏。不知何人走漏消息，世子连夜逃出皇城。伊公公有 谕，命你把守关口，不准闲杂人等乱出乱入。是这么回事不是？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "对对！是！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你告诉我干什么呀？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！我不告诉你，告诉谁去？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "那你告诉我，怎么着？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "今儿咱们该上关啦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "上关哪？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "他你就说上关得了吗？说这个废话，干什么呢？这是！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "走吧！走！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "走哇！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "走哇！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "他你走我好走哇！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我说你讲理不讲理呀？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "他老爷么！不讲理？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我是干什么的？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你呀？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你是跟着我的。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "还是呀！我要是在头里走，那不是你跟着我的了吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎哟！混蛋哪！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "好说！混蛋出尖儿！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么又出尖儿呀！他是呀，我是老爷，你是兵。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哦！呵呵！老爷吃几碗干饭哪？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么叫老爷吃几碗干饭哪？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "兵又应该挣多少钱哪？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么应当挣多少钱哪？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "这怎么回事呀？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你呀！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "在头里呵道，轰散闲人，那我才能走哪，这是嘚儿官事。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "官事？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "官事！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "对！官事官办，别打哈哈！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "这不结啦了吗？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "走着走。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "走着走。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，官事。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那是！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嗯！这还官事！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "嘿嘿！怎么碴儿？怎么碴儿这是？留神人头你倒是。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "他你这个人头儿有什么瞧头儿哇？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么？什么有什么瞧头儿哇？不叫你喝道吗？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，总得喝道？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "总得喝道。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "轰散闲人哪？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "不就是轰人吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "是啊！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "交给我啦！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎，瞧你。这不起哄吗？给我轰人吧！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！哦！屎来喽！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "嘿嘿嘿！什么屎来啦？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你不是叫我给你轰闲人吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "轰闲人哪！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "睁眼瞧瞧。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "瞧什么？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "头里头走的这个都比你的官大。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "嗯。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我敢轰谁呀？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我说这个屎来啦，人家都嫌臭，一捂鼻子，扭头您就过去了，不省事吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么省事！你这是！不能说“屎”啊！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "那么说什么？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "要说俩字的。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "俩字的？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "俩字的。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "成！成！来！你听这俩字的！屎蛋来喽！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "嘿嘿！怎么又屎蛋了？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你瞧瞧，这风干的！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "风干的？更臭那个。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你不说俩字吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "俩字的，要说老爷。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "“姥爷”？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！对啦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嘿！舅舅在哪儿呢？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哪儿跑出舅舅来了？你瞧瞧。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你不说俩字的吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "这是，你不会，干脆。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！怎么着？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "咱们也别喝道啦，不喝道，抄道儿，赶紧走得了！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "这不结了！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！走吧！走吧！嘿嘿嘿！你哪儿去？你上哪儿呀你？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "上哪儿呀我？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "我上东关。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "上东关？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "对。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎哟！这是西门。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "啊！这儿过错了。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "来来来，回去吧，"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "回去，回去，回去。哎呀，这是哪儿的事情？这不是跟着起哄吗？这不是？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎呀，这下白跑啦。哎呀，坐着比站着舒服。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那是，你躺着还舒坦哪！你起来！起来！你哪位呀你？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我、我、我哪位？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "躲躲躲，什么事儿？你坐在这儿，摆在这儿啦？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "那那那，就不是人坐的吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "是人坐的，这不是你坐的，这是给老爷预备的。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哟！给您预备的？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "对啦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "那么我们应该站在哪儿？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你？得了，你就跟我这儿戳戳得啦。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "就我们应该这儿戳戳？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那可不？你就戳戳吗？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "得！我们就戳戳的命，"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎，那是。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，戳会儿吧！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！哎哟嗬！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎哟！怎么啦？怎么着？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎呀，乏啦。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "乏了，添劈柴。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么添劈柴呀？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你说乏了吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "困了有点儿。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "干什么那么困哪？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "这两天有点事情啊，我熬了几宿夜儿。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊啊。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "怪困的，嘿！我说咱俩商量商量，"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "商量什么？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那个……"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "那个什么？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那个，我这儿冲个盹儿，你那儿先给支应会儿怎么样？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嘿嘿！冲个盹儿。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "嘿嘿！对啦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你先等等。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "这是官事！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你瞧，别介！哈哈！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嗯？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "咱们有交情啊。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "噢！睡觉就论交情啦？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你瞧啊，我睡会儿。呆会儿我醒了换你呀。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "噢！你先睡？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，睡够了，睡醒了换我？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "睡醒了换你，你再睡。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "那好极了，那你就赶紧睡。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎，还不结啦！我睡醒了，我就换你。是不是？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你可想着！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！是不是？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "睡醒了，可想着换我。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那当然。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "别回头您睡醒了，又拿老爷脾气？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那不能！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "这是官事，那可不成！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "他、你这么磨烦！我还睡不睡啦？你这跟我穷叨叨？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你爱睡不睡，不睡这儿耗着。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "别介，别介，有交情，"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嘿嘿！有交情？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "我睡会儿，一定换你。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "睡睡睡吧。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎，你先支应会儿。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "赶紧睡。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "反正我换你，换你。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嗯嗯，使劲睡。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "嗯。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "睡着啦？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "睡着啦。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "睡着啦吗？还说话！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那你问我，怎么不说话哪？这个！这不是成心搅吗你这是！你要是这么成心搅， 那我不睡啦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "那趁早甭睡！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！别介！还是那句话，咱们有交情。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "有交情？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "一定换你，一定换，一定换。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "得，不搅你啦，你赶紧睡。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "好好好，你别搅啦。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "甭我哄着？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "还哄着，我？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你赶紧地睡吧。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎呀！我睡啦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你那儿先支应着啊！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "得啦，我这儿支应着。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "嗯嗯。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "说着就着还是。哼！火炉子脑袋，哼！还官事哪！动不动老爷先睡啦！嘿嘿！ 有乱儿是你的，与当兵的不相干。嘿嘿！你会睡呀！哼哼！我也会睡！哼！这 么办，哎哟嗬！搁到这儿，我呀，我这儿打个盹儿啊！"
+        },
+        {
+          "character": "田单",
+          "type": "内白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单、田法章同上。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎呀！卿……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "噤声！"
+        },
+        {
+          "character": "田单",
+          "type": "二黄碰板",
+          "text": "千岁爷休得要放悲声，"
+        },
+        {
+          "character": "田单",
+          "type": "二黄原板",
+          "text": "惊动了把关人难以逃生。 那一旁松林内暗暗藏隐，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章下。"
+        },
+        {
+          "character": "田单",
+          "type": "二黄原板",
+          "text": "寻一个良谋好出城。 抓一把灰土把脸罩定，"
+        },
+        {
+          "character": "田单",
+          "type": "二黄散板",
+          "text": "我装一个疯魔要混出城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单执板打皂隶，皂隶夺板。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哟！嘿！你拿过来吧，这个玩意儿也是你动的？胡动乱动。嗯？哈哈！你不是 田……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "呃，田、田、田什么哇？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，我想起来啦，田家庄住的那位老哥哥。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "呵呵！怎么？你认得我？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "自己哥们儿，哪有不认识的哪？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！你认得我，我姓什么？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你有姓。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "岂有此理呀！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "容我想想。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "呃，赵？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "不赵。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，我看你这样就不兆。哎，钱？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "无有钱。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，没钱，我也得信哪！哎，孙、李、周、吴、郑、王？啊！哎！王一，王一 哥！哎！哈哈……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "不错！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哈哈，你倒好哇？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "好哇。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，哥俩可老没见啦？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，老太太好哇？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎，老太太好。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，好哇？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，这个，我说您这个时候，到这儿干什么来啦？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "呃，前者老母偶得急症。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊，是。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "是我出城烧香还愿。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "今儿个要出城？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "烧香去？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎哟！不巧！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "今儿个可不成！伊公公有谕：不准闲杂人等出入。今儿个不成，您哪，改日。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀，为老母的心愿，一定要前去呀。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎哟！那不成啊！这是官事啊！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "贤弟！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "方便方便。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "要是成，我何必跟您废话哪？您这不是叫我为难吗？这！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单付银。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "商量商量啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皂隶收银。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "咳！嗯！这么办，哎，怎么商量着瞧。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我们有老爷。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我做不了主。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我得见见翅子，你这儿候候，你这儿候候。 嘿嘿……哈哈……好哇！还睡哪！嘿嘿……别睡啦！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什、什么事儿？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "来啦。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么来啦？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "过关的来啦。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "过关的？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "胡说八道！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "怎么着？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "伊公公有谕：不准闲杂人等乱出乱入，过关哪儿成啊？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "是是，不是外人哪！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "不是外人？谁呀？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "王一哥。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "王一哥？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哪儿这么一个王一哥呀？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你瞧瞧，小茶馆给您引见的那个，人家还候茶钱来着哪！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "呵！谁还记得那个！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "得了，出城有点事儿，您就让他过去得了。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "出城？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "不成！不成！不成！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "得了！得了！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "伊公公有谕：不准闲杂人等乱出乱入，你还不知道吗？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，这个，瞒上不瞒下，你怎么了这是？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么叫“瞒上不瞒下”呀？这是嘚儿官事！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "官事？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "官事！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "好小子！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "怎、怎么啦？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你这小子，不懂交情啊！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "我怎么不懂交情？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你都忘啦？你没落子，连整裤子都没有哇！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你提那个干什么呀？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "病在我家啦！我当裤子卖袄，给你将养病。病好了，出去找落儿去，穿我的裤 子。这会儿朋友求你了，你跟我弄官事！小子！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "怎么着？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你脱裤子还钱吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皂隶抓侯栾。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你等等，你等等。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你脱裤子还钱！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你等等，你等等。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "等什么呀？我今儿就要！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "别介！别介！别介！这么着，好办，好办，好办。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "什么好办啊？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那个什么？王一哥是不是？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "是王一哥。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那个要出城？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "就是出城有点事儿。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "好啦，好啦，成了，成了，冲你的面子，"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "那是是是。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你把他叫过来。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "让他过去就得啦！叫他干什么？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那不成！我问话。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "问什么呀！真是！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "官事，得交待官事，得交待下去呀！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "交待，交待，得得得，就问一句啊！问一句就走啦！ 嘿嘿！王一哥。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我们老爷呀，见见你问一句话。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀，我见官，说不出话来呀！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "不要紧，有我在一边哪！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦哦哦！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "来来来！嘿嘿嘿！ 王一来啦！得得得，这就是王一。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "这就是王一？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "我说你就是王一呀？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "是的。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你出城上哪儿啊？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "东岳庙烧香还愿。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "东……胡说八道！下去！下去！胡说八道！怎么回事情？到这儿净胡说！胡说！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "这是怎么话儿说的？ 王一哥，"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你怎么了出东岳庙来啦？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "本来是东岳庙哇！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我们的地面，查过庙，有没有，我还不知道吗？哪有东岳庙？没有！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "有个东岳庙。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "行行行，我说没有就没有哇！您这是叫我着急呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单付银。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "有个东岳庙哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皂隶收银。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嘿嘿！我想起来了。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "土地祠旁边，西北旮旯，那个小东岳庙。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！不错，是的，小东岳庙。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，你在这儿候会儿，耽误您会儿工夫。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！是是！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我再给您言语一声。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！是是！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！老爷！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哪儿的事情啊！东岳庙了又！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你什么记性啊！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "是不是，怎么了？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "有个东岳庙。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "没有！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！这儿就有！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "咱们这地面，你天天跟我查庙。有没有的，我还不知道？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "唉！他我说有就有！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你说有就有？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "嘿嘿！我说没有就没有！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "小子！脱裤子还钱！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你怎么又来啦！你、你真是！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你瞧这句灵吗？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "这句灵，别介，别介，成成成，有东岳庙，有东岳庙，好了！好啦！你这是真 的。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我说成，好，我想起来了，那不是土地祠壁儿那个。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "对，旮旯里头那个，那个小东岳庙。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎哟！都要塌啦，短修理呀！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那你早提个醒，我就想起来了。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "得了，让他出去就得了。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "不成！不成！不成！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "那怎么着？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "你再把他叫过来。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "又叫过来干什么？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "我还得问一句话哪！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "您哪儿那么些话呀？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎，这是官事，我得交待下去呀。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "就问一句？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "就问一句，就问一句。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "别多问了。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "就问一句。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！得得！嘿嘿！ 哎！再去一趟。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀！忒罗嗦了哇！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，不要紧的，你别胡说得了。来来来，嘿嘿！老爷，他又来啦。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "又来啦？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "我说王一啊？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "我问问你，出城烧香还愿几个人啊？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "兄妹二人。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "胡说八道！下去！下去！滚下去！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "下去！下去！滚下去！什么东西！什么东西！老爷！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "瞎吵吵。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！老爷！老爷！ 哎哟！你这是怎么啦？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你怎么又兄妹二人啦？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "是兄妹二人。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你说了半天一个人啊？俩人那可不成啊！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎！是兄妹二人。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎哟！你这是成心叫我嘬瘪子！你这是怎么话儿说的！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单付银。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "是兄妹二人哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皂隶收银。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嗯！怎么着？哎！老妹子也来了吗？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "我们哥俩还没见着哪！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！您把她请过来，我看看。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "噢，是是是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章上。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "来来来，见过，小妹在此。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哦！这不是东……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "呃！“东”什么哇？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "嗯！哼！是东跨院添的那位老妹子，是不是啊？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎，是的，是的。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你瞧，都这么高啦，我把她忘啦。这儿候候，我再给您言语一声。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "噢，是是是。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，老爷。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "这是哪儿的事情？这么了出兄妹？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "你的耳朵那是干什么吃的那是？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "怎么啦？怎么啦？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "您没听出来？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "什么呀？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "说的时候就俩人啊！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！你可跟我说的一个人，哪儿俩人？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！不不不，说的是兄妹二人。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "不！他你说的是一个人！马马虎虎叫他过去啦，俩人可不成啊！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "呃！不不不，是兄妹二人哪！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "这是嘚儿官事！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "官事？小子！"
+        },
+        {
+          "character": "侯栾、皂隶",
+          "type": "同白",
+          "text": "脱裤子还钱！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊！你也会？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那什么话！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "叫他们出去吧？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "好好好，出去吧，走走走吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章下。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！王一哥！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "走着！走着！走着！不送您啦！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "啊，贤弟，"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "呃？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "有累你了。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哪儿的话呀！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "辛苦你了。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "这算什么！自己哥们儿！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "来来。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "这、这、这是干什么呀？这个？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "我这里有一茶之敬，"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，得了！得了！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "吃饭，哎，不饱。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎，让您花钱。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "饮酒么，不醉。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！嘿嘿！这倒怪不得的了。嗯！哈哈！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "我的路费要紧，对不住！对不住！对不住！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单下。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "好哇！临完了，他空了我一嗦儿啊！哎呀！慢着！哪儿这么个王一哥呀？我瞅 他眼熟哇！这是巡城御史田单哪！他哪儿有老妹子？别是东宫世子他们俩人出 去了吧？哎呀！要是他们俩人出去，我这个吃饭的家伙儿不保哇！哎呀！糟了！ 糟了！糟了！这！哎！有了！哼，摘个肩儿，哼，我弄他身上。得，就这么 办了。 呵哈，哈哈，老爷，罢了，还是您哪！我真做情您就得了！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "怎、怎、怎么啦？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "做了脸啦？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "做了脸啦。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "合了适了？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "谁合了适了？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "过了把喽！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "谁过了把啦？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "别介！大河有鱼，小河有虾。您哪吃肉，我们也得喝点汤。无多有少，随您便。 老爷！我们弄双鞋穿横成吧？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "这都哪儿跟哪儿的事情？你这！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哪儿跟哪儿？你别跟我装糊涂哇！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "谁跟你装糊涂哇？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "出去那谁呀？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "那是王一哥、老妹子吗？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "什么王一哥呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立、四校尉同上。"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "参见公公！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "守城的官儿，"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "见东宫世子过去了没有？"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "没过去！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "没有！公公！他图了三千银子，给放啦！没我的事儿！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "没你的事儿？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "没我的事儿！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "好小子！走你的！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "哎！得！谢谢您哪！哎哟！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皂隶下。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "好小子！贪图贿赂将世子放走，吃咱家一剑！"
+        },
+        {
+          "character": "侯栾",
+          "type": "白",
+          "text": "哎呀！公公！念在我父与公公一殿为臣，求公公饶恕！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哈哈……咱家与你父一殿为臣，不肯伤害你的性命。 校尉的，"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "将他带在马后，追赶世子去着！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伊立、皂隶、四校尉同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、廉颇、白起、暴鸢、晋鄙同上。"
+        },
+        {
+          "character": "廉颇",
+          "type": "白",
+          "text": "某，赵国大将廉颇。"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "某，秦国大将白起。"
+        },
+        {
+          "character": "暴鸢",
+          "type": "白",
+          "text": "某，韩国大将暴鸢。"
+        },
+        {
+          "character": "晋鄙",
+          "type": "白",
+          "text": "某，魏国大将晋鄙！"
+        },
+        {
+          "character": "廉颇",
+          "type": "白",
+          "text": "众位将军请了。"
+        },
+        {
+          "character": "白起、暴鸢、晋鄙",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "廉颇",
+          "type": "白",
+          "text": "今有乐毅在燕国金台拜帅，约请我等共灭齐邦。众将官！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "廉颇",
+          "type": "白",
+          "text": "燕营去者！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "来到燕营，"
+        },
+        {
+          "character": "廉颇",
+          "type": "白",
+          "text": "上前通禀。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "将官",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "将官",
+          "type": "白",
+          "text": "四国将军求见。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着"
+        },
+        {
+          "character": "将官",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "有请元帅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乐毅上。"
+        },
+        {
+          "character": "乐毅",
+          "type": "念",
+          "text": "四国兵将到，同把齐国讨。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "四国大将求见。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "说我有请。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "元帅有请！"
+        },
+        {
+          "character": "廉颇",
+          "type": "白",
+          "text": "啊！元帅！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "不知四位将军驾到，未曾远迎，当面恕罪！"
+        },
+        {
+          "character": "廉颇、白起、暴鸢、晋鄙",
+          "type": "同白",
+          "text": "岂敢！我等来得鲁莽，元帅海涵！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "岂敢！有劳四位将军远路而来，鞍马劳顿。你我就在此地，歇兵三日，一同伐 齐。后面备酒，与众位将军接风！"
+        },
+        {
+          "character": "廉颇、白起、暴鸢、晋鄙",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单、田法章同上。"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄散板",
+          "text": "逃京外不知道何处避难？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "田单",
+          "type": "二黄散板",
+          "text": "险些儿在西门泄露机关。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎呀，卿家。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "千岁。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "你我逃出城来，投奔哪里？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "千岁不必惊慌，想即墨太守王通，为人正直，素怀忠心，与臣有八拜之交。你 我君臣逃奔那里，再做道理。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "如此马上加鞭！"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄原板",
+          "text": "听谗言杀亲子古今罕见， 思想起不由人泪洒胸前。"
+        },
+        {
+          "character": "田单",
+          "type": "二黄原板",
+          "text": "非是臣背地里把主埋怨， 贪色酒父子情抛在一边。 臣早料我齐国定生大乱， 劝千岁暂保龙体，休得要珠泪不干。"
+        },
+        {
+          "character": "田法章",
+          "type": "二黄原板",
+          "text": "我心中只把那伊立来怨， 害得我父子们不能团圆。 三更时带宝剑身入宫院， 险些儿宝剑下命丧黄泉！"
+        },
+        {
+          "character": "田单",
+          "type": "二黄原板",
+          "text": "老王爷全不把社稷惦念， 只闹得我齐邦地覆天翻！ 千岁爷切莫要长吁短叹， 臣保你登大宝辅佐银安。 正行走忽听得人马呐喊，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊声。"
+        },
+        {
+          "character": "田单",
+          "type": "二黄散板",
+          "text": "又听得金鼓声震动平川。 逃性命顾不得山高路险，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单、田法章同下，乐毅、徐胜、薛成、四龙套同上。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "将临淄城团团围住了！"
+        },
+        {
+          "character": "徐胜、薛成",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王通、中军同上。"
+        },
+        {
+          "character": "王通",
+          "type": "西皮摇板",
+          "text": "每日操演兵和将， 提防乐毅小儿郎。 将身且坐宝帐上， 一片丹心保齐王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单上。"
+        },
+        {
+          "character": "田单",
+          "type": "西皮摇板",
+          "text": "单人独自即墨到， 见了王通说根苗。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "来此已是，门上哪位在？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "烦劳通禀，田单求见王大人。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着。太守故友田单求见，"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "好，说我出迎。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "太守出迎。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "仁兄在哪里？ 啊！仁兄！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "贤弟！"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "啊，仁兄，为何这等模样？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "唉，贤弟呀！"
+        },
+        {
+          "character": "田单",
+          "type": "西皮摇板",
+          "text": "齐国强盛人人晓， 伊立、邹妃乱当朝。 因此我把世子保， 中途失散无下梢。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "哦！仁兄不必忧虑，慢慢打探世子下落，重整齐邦就是。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "但得如此，正合我心愿。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "仁兄后面更衣。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "有劳贤弟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单下。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "中军过来。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "打探乐毅兵势如何，速报我知。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王通、中军同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、淖齿同上。"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "某，楚国大将淖齿。今有齐王约请于我，前来解围。只因乐毅统领五国人马， 占了齐国七十余城。乘此机会，拿住齐王，分他的疆土。 众将官！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "要路去者！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、淖齿同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐湣王、伊立同上。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "二黄散板",
+          "text": "君臣们逃出了天罗地网， 到如今失江山投奔哪厢？"
+        },
+        {
+          "character": "伊立",
+          "type": "二黄散板",
+          "text": "劝大王且忍耐休要慌张， 有为臣保王驾避祸邻邦。 正行走耳听得连声炮响，"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "哎呀！卿家呀！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "二黄散板",
+          "text": "响声大炮心内慌。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "卿家这便如何是好哇？"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "大王不要慌张，他若前来，奴婢抵挡一阵。"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "须要小心！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐湣王下。"
+        },
+        {
+          "character": "淖齿",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "淖齿、四龙套同上。"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "来的敢是淖将军吗？"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "然！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "淖将军兴兵前来，敢是救援我国的吗？"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "住了！只因你主无道，每日贪恋酒色。拿你君臣前去问罪！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "哈哈！淖齿啊！我把你这无耻的小人！"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "伊立",
+          "type": "白",
+          "text": "我家大王求救你国，就该发兵前来援救才是。怎么着？反来助强为恶，难道你 就不怕骂名千载，遗臭万方吗？"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "一派的胡言！看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "淖齿扎死伊立。"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "捉拿齐王！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "淖齿、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐湣王上，过场，淖齿、四龙套同上，齐湣王下。"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "哪里走！捉拿齐王！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "淖齿、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 22,
+      "name": "第二十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾上。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "西皮摇板",
+          "text": "豪杰隐居在山林， 文韬武略腹内存。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "俺，王孙贾，乃齐国人士。我父生前官居上大夫之职。不想被奸佞陷害，随同 母亲逃出门来。是我练就全身武艺，闻得太守王通招兵破燕，不免前去投军， 也好与国家出力报效，就此走遭也！"
+        },
+        {
+          "character": "王孙贾",
+          "type": "西皮摇板",
+          "text": "急急忙忙大营奔， 耳听一片呐喊声。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "哎呀！且住！哪里这样人马呐喊？待我登高一望。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾上台。齐湣王上，过场，下。淖齿、四龙套同上，过场，同下。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "哎呀！且住！看一伙贼兵，掳定我家大王。此时不救，等待何时？ 呔！贼兵休得张狂，王孙老爷来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 23,
+      "name": "第二十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "齐湣王上，淖齿、四龙套同上。"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "昏王啊！昏王！你这昏王每日贪恋酒色，今日被擒，也是你循环报应也！"
+        },
+        {
+          "character": "淖齿",
+          "type": "西皮散板",
+          "text": "昏王本是无道的君， 贪恋酒色你害忠臣。 金枪一抖要尔的命，"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "呔！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "西皮散板",
+          "text": "你要杀我是何人？"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "哎！我说你死乞白赖地要杀我，你姓什么？叫什么呀？"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "楚国大将淖齿！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "哦！你就是楚国大将淖齿啊？"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "我把你这狠心的王八羔子啊！"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "齐湣王",
+          "type": "白",
+          "text": "想孤王备得金银财礼向楚国求救，你呀，就该救我。不救我，倒归顺了乐毅。 打破城池，杀死孤的爱姬，又要杀死我，叫我骂你什么？难道说，你就不怕骂 名千载，是一臭万方了吗？"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "哎呀！喳喳……哇呀呀……"
+        },
+        {
+          "character": "淖齿",
+          "type": "西皮散板",
+          "text": "听一言来怒满膛， 叫骂于我你为哪桩？ 将他吊在高竿上， 霎时叫你一命亡！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾上。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "休伤我主！"
+        },
+        {
+          "character": "淖齿",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾、淖齿同开打。淖齿、四龙套同下。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "哎呀！老王被日晒而死，不免将他葬埋了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾埋齐湣王。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "投奔王太守去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 24,
+      "name": "第二十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷惠娥上。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮慢板",
+          "text": "我的父在齐国为官清正， 因谗臣乱当道告老归林。 不为官辞爵禄居家欢庆， 遭不幸高堂母命赴幽冥。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "奴家，殷惠娥。我父殷尚，膝下无儿，只生奴家一人，不幸母亲去世。我父在 齐国官居太史，只因万岁听信谗言，我父辞官告居林下。这几日，闻得五国伐 齐，眼看我国旦夕难保。我爹爹探听消息去了，还不见回来，好令人忧疑也！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "内白",
+          "text": "哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟上。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "念",
+          "text": "奴非窈窕淑女，不望君子好逑。 我说小姐。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "嗯。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "老爷回来啦。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "噢！我爹爹回来了？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是啊！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "待我前去迎接。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "咱们去迎接去。"
+        },
+        {
+          "character": "殷尚",
+          "type": "内白",
+          "text": "小姐随我来，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷尚、田法章同上。"
+        },
+        {
+          "character": "殷尚",
+          "type": "西皮摇板",
+          "text": "燕军到此都破了， 可叹家乡不逍遥。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "爹爹回来了？"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "参见爹爹。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "参见老爷。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "免礼。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "啊！爹爹！探听兵势如何？"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哎！可叹老王逃出皇城，乐毅已然安抚百姓，日前是无有事了。为父在中途路 上，救来此女。这就是你田单叔父的女儿，你姊妹向前见过。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "哦！田小姐！奴家万福！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！还礼！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟！这行的什么礼呀！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "啊，田小姐，适才在中途路上，我救你之时，未曾将我家中之事对你言讲。老 夫名唤殷尚，在朝中与你父有八拜之交哇。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "噢！原来是殷伯父！侄女不知，伯父恕罪！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哦！免礼！啊，田小姐，只因老王昏淫无道，是我告退林下。家中只有女儿一 人，你安心在我家中居住。待我打听令尊的下落，你父女自有团圆之日。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "若得如此，感恩匪浅！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "休得过谦。 丫鬟，"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "陪定田小姐与你姑娘去到楼上，梳洗玩耍去吧。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是啦！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！慢来！ 啊！殷伯父！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "还是在两处的好。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "呃！适才我也曾言过，与你父有八拜之交。一切嫌疑莫避，有何拘泥呀？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎！还是各讨方便的好。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哎呀呀！女孩儿家，在一处玩耍，若是玩耍熟悉，日后若要分离之时，只恐你 们还不乐意呢！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "对啦！我说这个田小姐，您跟我们小姐，岁数相仿，嗯，还有什么拘泥的哪？ 我们老爷不是说了吗，你们要是在一块儿呆惯了的话，日后哇，谁还不愿意离 开谁哪！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "是啊！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "你们去到楼上去吧，我要歇息歇息去了。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "你歇着去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷尚下。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "田小姐请。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "呃，小姐请。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "二位小姐随我来。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "小姐请。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "小姐请。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "小姐请。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "请上楼吧。 小姐请坐。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "有座。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "看茶来。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。 田小姐请用茶，小姐请用茶。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "小姐请。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "请问田小姐，青春几何呀？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！二十一岁。哦！请问小姐，青春几何呀？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "一十九岁。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！如此说来，你还长长了些呢。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "是啊，你是姐姐。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "啊，田小姐，几月生辰哪？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦，二月初六日。小姐是几时的生辰哪？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "七月十九。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！七月十九。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "啊，田小姐，可有姐妹？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "无有。小姐可有姐妹呀？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "也是无有。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！如此说来，彼此。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "一样。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "田法章",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我说二位小姐。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "嗯。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "性情相投。依我看来，不如趁着这个月色光辉，拜个姐妹，哎！您瞧好不好哇？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "嗯！正合我意！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！慢来！慢来！改日再拜吧。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟！今儿个拜就姐妹，日后岂不是更近乎了吗？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "是啊！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "呃！呃！还是容日再拜吧。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哎哟！今儿个楼上就是咱们三个女人，又没有男子在内，干嘛，您那么拘泥呀？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！不是喏！择一吉日再拜。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "这又不是拜天地，干嘛还要挑日子呀？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "是啊，田小姐，既为你我结为金兰，真乃幸事啊！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "是的。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "您就别推辞啦。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我拿拜毡去。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "田小姐请！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "请哪！"
+        },
+        {
+          "character": "田法章",
+          "type": "西皮摇板",
+          "text": "姐妹双双跪楼上，"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮摇板",
+          "text": "祝告天地日月光。"
+        },
+        {
+          "character": "田法章",
+          "type": "西皮摇板",
+          "text": "日后若把今朝忘，"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮摇板",
+          "text": "神目鉴察在上苍！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我来给您预备点儿酒，一边喝酒，一边赏月，好不好？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "好，看酒伺候。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！我是不会吃酒的。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "哎呀，少用一些吧。姐姐请。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "我不会吃酒，"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "这是喜酒，多喝点，不要紧的。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮慢板",
+          "text": "姐妹双双饮酒浆，"
+        },
+        {
+          "character": "田法章",
+          "type": "西皮慢板",
+          "text": "有话难言暗惆怅。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "姐姐请，"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮慢板",
+          "text": "人逢喜事精神爽，"
+        },
+        {
+          "character": "田法章",
+          "type": "西皮慢板",
+          "text": "昏昏沉沉无主张。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章醉。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "醉啦！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "田小姐吃醉了，丫鬟，你看田小姐吃下几杯酒去，脸上倒也好看。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "可不是吗？脸上红的真红，白的真白，真像一个小苹果似的。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "哦，丫鬟。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "你看我二人可好像一对姐妹？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "对啦！真像一对儿姐妹。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "啊！丫鬟！你看，田小姐怎么不戴耳环哪？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "没戴耳箝子吗？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "是啊！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我瞧瞧。哟！可不是吗？怎么连个耳朵眼儿也没有哇？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "啊！她莫非是个男子？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "嗯，其中有个缘故。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "你去问来。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我问问她。 我说田小姐你醒醒，"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "啊！做什么哇？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "你到底是谁呀？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！你问小王么？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟！怎么叫“小王”啊？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "是啊！你问她到底是男子，还是个女子？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "对啦！ 你到底是个男子，还是个女子呀？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "我是个男子！怎说是女子？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟！他怎么是男的呀？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "那他为何装扮女子模样啊？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "就说的是哪！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "快去问来！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "你到底是男的，是女的呀？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "啊！我本来是个女子，怎说是男子？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "你既是个女的，你怎么说“小王”、“小王”的？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "唉！本是小王，说什么女子？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "他是小王！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "丫鬟！你叫他说了实话便罢，如若不然，禀知老爷，叫他吃罪不起！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是啊！ 说了实话便罢，如若不然，叫你吃罪不起！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎呀！小姐呀！我乃齐王东宫世子，田法章！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "噤声！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "说你的！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "唉！因遭伊立之害，多亏田单，将我扮做女子的模样，混出皇城。不想行至中 途，又被贼兵冲散。小姐你要救我一救哇！"
+        },
+        {
+          "character": "田法章",
+          "type": "西皮散板",
+          "text": "恨伊立与邹妃要我命丧， 定下了胭粉计要害小王！ 实指望随田单逃出罗网， 小姐呀！ 又谁知来到了太史的门墙！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "啊！呀！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮流水板",
+          "text": "听他言倒叫我心中暗想， 这一件事儿费惆怅。 他本是金枝玉叶君王子， 被人陷害扮红妆。 低下头来细思量，"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮摇板",
+          "text": "左右两难无主张！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "小姐！别哭哇！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "别哭哇！您倒是有什么主意没有哇？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "唉！无有什么主意。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "没主意呀？哎。 我说，哎您哪！倒是有什么主意没有哇？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎呀！我无有什么主意，丫鬟姐，你要救我一救哇！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哎哟！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "你也没主意，你也没主意，哎哟！这可怎么好哇？ 哎呀！慢着！我们以为他是田小姐哪！闹了半天，敢情是齐国的太子改扮的！ 我们小姐跟他拜了半天的姐妹，男女混在楼上，黑更半夜的，将来要是传扬出 去的话，我们的名声，都有点不大好听吧？哎哟！哎哟！这可怎么办哪？我看 这位太子，相貌英俊，我们小姐哪，是温柔大方。他们两个人，要是配个小两 口儿，倒是挺合适的。再要说，人家太子久后复国的话，我们小姐也是一位娘 娘啦！对！就这么办！我来给他们说合说合。 您哪，请起。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "噢！是是是！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我说，这个小姐，我瞧你们真是郎才女貌，不如将错就错，结为夫妻。太子久 后复国的话，您哪，不就是一位娘娘吗？我说的这个话儿，哎！您想一想，认 为对不对哪？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎！就这么办吧！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "哎！婚姻之事，自有父母做主。若是私订，岂不是苟合？被人耻笑！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哎！只要是您本人乐意的话，什么都行啦！好不好哇？啊？说呀！说呀！没有 什么害臊的。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "无有媒证哪！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟！还要媒人哪！哎！这么办，您来瞧，我就是大媒嘛！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎！我先拜媒人！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "嘿！您着急什么？ 我说小姐，你瞧瞧风清月朗的，你们当着我这个媒人，再拜回天地吧！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "改日再拜吧。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟！今儿好日子，甭改日了。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "择一吉日再拜吧。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟！怎么还要挑日子哪？对了，光我一个人说了，人家还没言语哪！ 哎，我说这个太子，您心里有什么话，跟我们小姐说说吧。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "噢！是是是！ 啊！小姐！小王若能恢复齐邦，决不忘小姐的恩情！既承丫鬟姐的美意，你我 何不对天一拜？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "对啦！您就拜吧！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "请哪！"
+        },
+        {
+          "character": "田法章",
+          "type": "西皮摇板",
+          "text": "有一日我齐国社稷重掌，"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮摇板",
+          "text": "那时节我和你龙凤呈祥。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟！这么会儿，天都怪亮啦！老爷也该起来啦。咱们到后楼上，梳洗梳洗。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "好，正是："
+        },
+        {
+          "character": "殷惠娥",
+          "type": "念",
+          "text": "一对窈窕入绣房，"
+        },
+        {
+          "character": "田法章",
+          "type": "念",
+          "text": "夜半更深女变郎。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "念",
+          "text": "男女私会无人主，"
+        },
+        {
+          "character": "丫鬟",
+          "type": "念",
+          "text": "丫鬟今把月老当！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！我再谢媒人！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "您别客气了，我的田小……哎！太子，您哪，随我来。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哦！是是是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、殷慧娘、丫鬟同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 25,
+      "name": "第二十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、骑劫同上。"
+        },
+        {
+          "character": "骑劫",
+          "type": "念",
+          "text": "新主登龙位，趁此夺兵权。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "某，燕国大将骑劫。今有老王晏驾，新主继位，思念贤臣，调乐毅回国。趁此 机会，夺他的兵权。 众将官！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "大营去者。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 26,
+      "name": "第二十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、廉颇、白起、暴鸢、晋鄙、乐毅同上。"
+        },
+        {
+          "character": "乐毅",
+          "type": "西皮摇板",
+          "text": "身先士卒统领雄兵， 四国兵将聚齐城。 休兵降师除暴令， 勉卒宽役聚齐临。"
+        },
+        {
+          "character": "中军",
+          "type": "内白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启元帅：圣旨下。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "香案接旨！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "香案接旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四龙套、骑劫同上。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "圣旨下，跪！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "听宣读诏曰：“今有燕国老王晏驾，新主登基，思念贤臣。乐毅将印信付于骑 劫执掌。”旨意读罢，望诏谢恩！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "有劳将军捧旨前来，一路之上，多受风霜之苦！"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "为国辛劳，何言辛苦！圣旨到来，就请开付哇！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "那个自然。 中军，"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "看印！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。骑劫拜印。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "啊，将军，某乃赵国人氏，意欲回归本国去了，有劳将军代为转奏！"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "那是自然！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "啊！四位将军！"
+        },
+        {
+          "character": "白起、暴鸢、晋鄙、廉颇",
+          "type": "同白",
+          "text": "元帅！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "某今回转赵国，你等各回本国去吧，"
+        },
+        {
+          "character": "白起、暴鸢、晋鄙、廉颇",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廉颇、白起、暴鸢、晋鄙同下。"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "乐毅",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乐毅下。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "小心防守！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 27,
+      "name": "第二十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、中军引王通、田单同上。"
+        },
+        {
+          "character": "田单",
+          "type": "西皮摇板",
+          "text": "小乐毅投齐邦前来报效，"
+        },
+        {
+          "character": "田单",
+          "type": "西皮流水板",
+          "text": "贼伊立四十棍惹下祸苗。 因此上他恶气难消燕国到， 统领着五国人马前来把齐讨。 偌大的齐国俱丧了， 只剩下即墨弹丸之地，不能复齐朝！ 因此上招军旗在空中飘绕，"
+        },
+        {
+          "character": "田单",
+          "type": "西皮摇板",
+          "text": "苍天鉴我苦心劳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾上。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "西皮摇板",
+          "text": "离了临淄即墨到， 见了太守说根苗。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "哪位听事？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "烦劳通禀：投军人求见。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着！ 启太守：投军人求见。"
+        },
+        {
+          "character": "田单、王通",
+          "type": "同白",
+          "text": "唤他进来。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "是！ 随我进来。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "是！叩见二位大人！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "投军人家住哪里？姓字名谁？有何本领？一一讲来。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "小人名唤王孙贾，乃齐国人氏。我父在朝为官，被奸佞陷害，随同母亲逃出门 来。是我练就全身武艺，闻得大人招兵破燕，特地前来投军，与国家出力报效。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！原来是王公子，请起！"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "谢大人！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "王公子打从何处而来？"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "临淄而来。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "临淄军事不知怎样？"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "二位大人容禀："
+        },
+        {
+          "character": "王孙贾",
+          "type": "西皮摇板",
+          "text": "独自一人闯楚寨， 杀得贼兵俱散开。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "王孙贾",
+          "type": "西皮摇板",
+          "text": "一怒杀死淖元帅， 数万儿郎哭悲哀。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "噢！可知老王的下落？"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "唉！大人哪！"
+        },
+        {
+          "character": "王孙贾",
+          "type": "西皮摇板",
+          "text": "可叹老王被日晒， 因此投军到此来。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "田单",
+          "type": "西皮散板",
+          "text": "听说老王被日晒， 临淄百姓受兵灾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报：今有燕国老王晏驾，新主即位。骑劫挂帅，乐毅统领四国人马回转本国， 特来报知！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "好！赐尔银牌一面，再去打探！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "田单",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊！呵！哈哈……"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "啊，仁兄为何发笑？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "贤弟，你我复齐有日了！"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "何出此言？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "你有所不知：想那骑劫乃是酒色之辈，兵法全不知晓。待愚兄略施小计，管叫 那贼全军覆没！"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "田仁兄计将安出？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "噢！唤民壮走上。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "唤民壮走上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "民壮走上！"
+        },
+        {
+          "character": "众百姓",
+          "type": "内同白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同上。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "叩见大人！"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "田大人有差。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "田大人有何差遣？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "命你等扮做城内绅士模样，出城去见骑劫。言道：奉了太守之命，请他不必攻 城。九月初九日，开城纳降。你们出纹银千两，请他笑纳。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同下。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "来。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "去至妓院，挑选二十名美女前来。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "王公子，"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "命你扮做差人模样，带领美女去见骑劫。言道：奉了太守之命，请他不必攻城。 九月初九日，开城纳降。初八日夜晚，我前去偷营，你在里面做一内应，不 可放走骑劫！"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "报：妓女唤到！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "令她们去吧。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "哦！是是是！随我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾下。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "唤副将来见。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "副将来见！"
+        },
+        {
+          "character": "副将",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "副将上。"
+        },
+        {
+          "character": "副将",
+          "type": "念",
+          "text": "将相本无种，男儿当自强！"
+        },
+        {
+          "character": "副将",
+          "type": "白",
+          "text": "参见太守，有何吩咐？"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "田大人有差。"
+        },
+        {
+          "character": "副将",
+          "type": "白",
+          "text": "田大人有何差遣？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "命你备办耕牛五百匹，通身俱用五色彩画；头上绑利刀二口；尾上绑麻一束、 爆竹一挂。初八日夜晚俱要用齐，不得有误！"
+        },
+        {
+          "character": "副将",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "田单",
+          "type": "念",
+          "text": "田单巧用火牛阵，"
+        },
+        {
+          "character": "王通、副将",
+          "type": "同念",
+          "text": "管叫那贼一命倾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 28,
+      "name": "第二十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引骑劫同上。"
+        },
+        {
+          "character": "骑劫",
+          "type": "西皮摇板",
+          "text": "即墨城池不用打， 把他当做井底蛙！ 将身且坐宝帐下， 且听来人报根芽。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同上。"
+        },
+        {
+          "character": "百姓甲",
+          "type": "白",
+          "text": "里面哪个听事？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "百姓甲",
+          "type": "白",
+          "text": "我等乃是即墨百姓，求见元帅。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着。"
+        },
+        {
+          "character": "百姓甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启禀元帅：即墨百姓求见，"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "搜查已毕，叫他们进来！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "是！ 你等前来，可有夹带？"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "并无夹带。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "某家要搜！"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "哦！好好！请搜！请搜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军搜身。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "随我进来！"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "是！ 参见元帅！"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "你等是做什么的？"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "我等乃是即墨百姓。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "哦！你们是即墨百姓么？"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "正是。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "到此何事啊？"
+        },
+        {
+          "character": "百姓甲",
+          "type": "白",
+          "text": "闻听人言：元帅要带领人马攻打城池。不必攻打，九月初九日，开城纳降。我 等备得银两……"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "望求元帅笑纳！"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "好！银两收下！ 我来问你：即墨城池有多少兵将？"
+        },
+        {
+          "character": "百姓甲",
+          "type": "白",
+          "text": "即墨城池俱是老弱残兵。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "太守王通用兵如何？"
+        },
+        {
+          "character": "百姓甲",
+          "type": "白",
+          "text": "太守王通软弱无能。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "好！回去对他言讲：叫他早早地归降；如若不然，杀进城去，鸡犬不留！"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "哦！是是！遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同下。王孙贾上。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "王太守差人求见。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着！"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启禀元帅：王太守差官来见。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "叫他进来。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "是！ 随我进来。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "哦！是是是！ 参见元帅！"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "罢了！奉何人所差？"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "太守所差。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "到此何事啊？"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "王太守言道：元帅不必攻城，九月初九日，开城纳降。带领美女，进献元帅。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "好！美女今在何处？"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "现在帐外。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "快快唤她们前来！"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "哦！是是是！ 哦！随我进来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众妓女同上。"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "见过元帅。"
+        },
+        {
+          "character": "众妓女",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "抬起头来！"
+        },
+        {
+          "character": "骑劫",
+          "type": "笑",
+          "text": "哎！哈哈……"
+        },
+        {
+          "character": "骑劫",
+          "type": "西皮散板",
+          "text": "一见美女呵呵笑， 王通可算是英豪。 回头便对差官叫， 赏你美酒与羊羔！"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "下面去饮！"
+        },
+        {
+          "character": "王孙贾",
+          "type": "白",
+          "text": "谢元帅！"
+        },
+        {
+          "character": "王孙贾",
+          "type": "西皮散板",
+          "text": "辞别元帅出帐道， 他人中了巧计高！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王孙贾下。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "尔等两厢退下！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同下。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "天时不早，安歇了罢！"
+        },
+        {
+          "character": "众妓女",
+          "type": "同白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "骑劫、众妓女同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 29,
+      "name": "第二十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众齐兵引副将同上。"
+        },
+        {
+          "character": "众齐兵",
+          "type": "同白",
+          "text": "离贼营不远！"
+        },
+        {
+          "character": "副将",
+          "type": "白",
+          "text": "火牛点起！"
+        },
+        {
+          "character": "众齐兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "擂鼓。骑劫上。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同上，同开打。"
+        },
+        {
+          "character": "骑劫",
+          "type": "白",
+          "text": "哇呀呀！嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "骑劫下。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 30,
+      "name": "第三十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷尚、家院同上。"
+        },
+        {
+          "character": "殷尚",
+          "type": "西皮散板",
+          "text": "适才闻得燕军败， 田单果有将英才！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "闻得田单，大破燕军，已然大功告成，不免将田小姐唤出，送她前去，她父女 也好团圆。 家院，"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "有请田小姐与姑娘出堂。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是。 有请田小姐与姑娘出堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章、殷惠娥、丫鬟同上。"
+        },
+        {
+          "character": "田法章",
+          "type": "念",
+          "text": "避患难男扮女装，到何日改换装裳？"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "念",
+          "text": "瞒父亲私订姻好，羞惭惭难把口张！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "殷伯父万福！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哎呀！与田小姐你道喜呀！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "喜从何来呀？"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "今有令尊，大破燕邦，大功告成，岂不是一喜呀？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "待我谢天谢地！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "啊！田小姐，我有意送你前去，使你父女团圆，你看如何呀？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "伯父之言，小女唯命是听。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "好好好！ 家院，"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "准备轿马伺候。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "女儿。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "哦。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "在此少陪田小姐一时，为父去至后面更换衣巾。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷尚下。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "千岁呀！你我今日一别，不知何日相逢？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "小姐不必忧虑，我今回到即墨，若能恢复齐邦，必来迎接小姐入宫！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "哭",
+          "text": "喂呀！千岁呀！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "别哭啦！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮散板",
+          "text": "不料今日双分手，"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "哭",
+          "text": "千岁呀！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "西皮散板",
+          "text": "早日接我免忧愁。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "小姐呀！"
+        },
+        {
+          "character": "田法章",
+          "type": "西皮散板",
+          "text": "小姐不必心内忧， 小王岂是薄幸流！ 劝小姐莫忧且等候，"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷尚上。"
+        },
+        {
+          "character": "殷尚",
+          "type": "西皮散板",
+          "text": "轿马齐备莫久留。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "轿马已然齐备，田小姐请登程前往。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "啊！姐姐！你、你要多多的保重！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "是啊！你也要多多的保重！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "是！啊！爹爹！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "早些回来呀！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哦！那个自然。"
+        },
+        {
+          "character": "殷惠娥",
+          "type": "白",
+          "text": "不要忘怀！喂呀！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "我儿回转楼上去吧。 带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷尚、田法章同下。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "别哭啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷慧娘、丫鬟同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 31,
+      "name": "第三十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田单、王通同上。"
+        },
+        {
+          "character": "田单",
+          "type": "念",
+          "text": "除了戎装换锦衣，一战成功复大齐！"
+        },
+        {
+          "character": "中军",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "殷大人到！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "太史来了，好！快快有请！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷尚上。"
+        },
+        {
+          "character": "殷尚",
+          "type": "西皮摇板",
+          "text": "来在营门下丝缰， 见了贤弟说端详。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "太史，请坐。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "不知仁兄驾到，恕弟等未曾远迎，"
+        },
+        {
+          "character": "田单、王通",
+          "type": "同白",
+          "text": "当面恕罪！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "岂敢！闻得贤弟大战燕邦，大功告成。一则前来贺功，二则专送令嫒前来。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哦！仁兄此话从何而起？小弟并无女儿！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哎！贤弟避难之时，带领令嫒逃出皇城，幸亏愚兄将她收留，贤弟你怎么说无 有女儿啊？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "小弟并无女儿。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "哎，但不知此女今在何处？"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "噢！现在营外。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "哎，请来相见。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哦！是是是！ 哎呀！这倒奇了！他怎么说无有女儿呀？ 哦！有请田小姐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章上。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀！千岁呀！"
+        },
+        {
+          "character": "田单",
+          "type": "西皮散板",
+          "text": "怪不得殷兄他言道， 原来是世子往莒州逃！ 快请后堂换衣帽，"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "田单",
+          "type": "西皮散板",
+          "text": "只恐他内中还有蹊跷！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "我好错也！"
+        },
+        {
+          "character": "殷尚",
+          "type": "西皮散板",
+          "text": "见他们行罢君臣礼， 倒叫老夫心内急。 我只说他是田单女， 却原来他是假扮的！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哎，贤弟，请过来，你请过来！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎！仁兄何事？"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "他是何人哪？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "齐国太子田法章！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "啊！为何扮做女子模样啊？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "因国事大乱，若不改装，焉能脱离虎口？"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哎呀！帝王之家，擦胭脂抹粉，成何体统啊？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "那时命在旦夕，还讲什么体统不体统啊？"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "当日幸亏愚兄将他收留，若是不堪之处，如何是好哇？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎！太子并非真女子，纵然落在不堪之处，也无妨碍呀！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哎呀呀！若是落在女子场中，岂不是祸上又加祸了吗？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎！若知他是齐国太子，结婚联姻还求之不得，岂不省事？"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "呃！这个……哎呀！贤弟呀！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "怎么样？"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "唉！你、你、你问过世子他吧！哎呀呀！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀呀！好不得明白！ 有请千岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "田法章上。"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "千岁！你我君臣分别，千岁在哪里安身？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "哎！殷太史府中安身。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "住了几日？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "三月有余。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "何处饮食？何处安睡？还是一人？还是有人陪伴？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哪个？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "小王不揣冒昧，与殷小姐……"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "私订婚姻了。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎呀！怪不得如此！ 哎！仁兄！快请！快快见过千岁！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哦！老臣见驾！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "哎，仁兄这里来！"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哎哎！"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "快快将令嫒接到临淄与千岁完婚。"
+        },
+        {
+          "character": "殷尚",
+          "type": "白",
+          "text": "哦！是是是！ 呵呵……哎呀！我这才明白了哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷尚下。副将、王孙贾同上。"
+        },
+        {
+          "character": "副将、王孙贾",
+          "type": "同白",
+          "text": "启禀大人：我等夺回七十余城，安抚百姓，特来交令。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "见过千岁！"
+        },
+        {
+          "character": "副将、王孙贾",
+          "type": "同白",
+          "text": "叩见千岁！"
+        },
+        {
+          "character": "田法章",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "田单",
+          "type": "白",
+          "text": "如今国事已定，不可一日无君。就此摆驾临淄，请千岁亲登大宝！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同拜田法章。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

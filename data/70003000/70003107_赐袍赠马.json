@@ -1,0 +1,891 @@
+{
+  "script_id": "70003107",
+  "title": "赐袍赠马",
+  "alias": [],
+  "source": "李洪春剧本选",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "曹操",
+      "hangdang": "净"
+    },
+    {
+      "name": "张辽",
+      "hangdang": "老生"
+    },
+    {
+      "name": "程昱",
+      "hangdang": "老生"
+    },
+    {
+      "name": "糜夫人",
+      "hangdang": "旦"
+    },
+    {
+      "name": "甘夫人",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "关羽奉甘、糜二夫人进曹营，曹操厚待之，赐予锦袍。筵前，见关羽内穿锦袍，外罩旧袍，问其何故。关羽\n告以：旧袍乃兄长所赐，不敢得新而忘旧。曹操又赠以赤兔马，关羽大礼相谢。曹操怪而问之，关羽答以蒙\n赐良骥，得知兄长下落，一日可见。曹操乃知关羽去心甚坚，难以动摇。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠、曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪、程昱、郭嘉、曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "满腹经纶，掌兵权，位压群臣。"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "老夫兴兵鬼神愁，刘备兵败在徐州。关羽被困土山口，张辽顺说把吾投。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫曹操，官居首相。昨日带兵袭了徐州，杀得刘备打败，不知生死存亡。那 关羽被吾困在土山之上，进退两难，也曾命张辽顺说来降。这般时候，为何还 不见到来？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽上。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "参见丞相。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "关羽可曾到来？"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "已离营门不远。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众位将军，随同文远，一同迎接。"
+        },
+        {
+          "character": "曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "内西皮导板",
+          "text": "英雄无奈奔曹营——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪、张辽、二马童、关羽同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮快板",
+          "text": "弟兄失散在徐州城， 曹操领兵亲临阵， 将吾围困在土山顶， 张辽劝某来归顺， 三件大事俱应承。 催马加鞭往前进——"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "含羞带愧进曹营！ （众人同下。四文堂、四大铠、曹操同上，曹操下马。曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪、张 辽、二马童、关羽同上，关羽下马。）"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "关将军，哈哈哈…… （曹操拉关羽同下，四文堂、四大铠、二马童、曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪同随下。曹 操、关羽、曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪、张辽同上，曹操引关羽上坐。）"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "久慕将军盛名，今日得近威仪，吾之幸也。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "岂敢，某请文远兄，在丞相台前，约请三事，丞相万勿失信。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军说哪里话来，老夫自出世以来，以信义服天下，怎能失信与将军！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "嗯——"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "就请将军同回许昌。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "待某迎接二位皇嫂同往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上马，下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "看关羽相貌魁梧，威风抖擞，真英雄也。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "久闻关羽志量大， 今日看来果不差。 人来与爷忙带马，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操上马。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "许昌门外迎接他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（〖吹打〗。四马童同上，甘夫人、糜夫人坐车同上。曹操随曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "洪、张辽出城迎接同上。甘夫人、糜夫人同入城。关羽上，旗牌捧银盘跪迎，献上，关羽下马，曹操迎入城。"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "夏侯惇、乐进、许褚、曹洪、张辽同上，关羽、曹操同坐。）"
+        },
+        {
+          "character": "曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪、张辽同随下。曹操、关羽、四马童、曹仁、李典、徐晃、关羽",
+          "type": "白",
+          "text": "但不知吾二位皇嫂，居住何处？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫已命人安排馆舍。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "如此待某去问皇嫂金安。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌捧金盘跪献，马童接，关羽上马，下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "张辽听令。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "命你去至馆舍，将关羽与甘、糜二夫人，安置在一处，以乱他君臣之礼。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "掩门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘夫人、糜夫人同上。"
+        },
+        {
+          "character": "甘夫人",
+          "type": "西皮摇板",
+          "text": "二人闷坐深庭院，"
+        },
+        {
+          "character": "糜夫人",
+          "type": "西皮摇板",
+          "text": "思念皇叔泪涟涟。"
+        },
+        {
+          "character": "甘夫人",
+          "type": "西皮摇板",
+          "text": "夫妻徐州遭失散，"
+        },
+        {
+          "character": "糜夫人",
+          "type": "西皮摇板",
+          "text": "不知何日得团圆。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "思念桃园挂心间，不知二嫂驾可安？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "参见二位嫂嫂。"
+        },
+        {
+          "character": "甘夫人、糜夫人",
+          "type": "同白",
+          "text": "二弟少礼，请坐。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "有座。"
+        },
+        {
+          "character": "甘夫人、糜夫人",
+          "type": "同哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "二位嫂嫂长叹落泪，所为何事？"
+        },
+        {
+          "character": "甘夫人、糜夫人",
+          "type": "同白",
+          "text": "想我姊妹二人，自从在徐州与皇叔失散，来到曹营，一不知皇叔生死存亡，二 不知何日才能出离许昌，因此落泪。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "二位嫂嫂但放宽心，弟虽在曹营，无日不思想兄长，也曾命人各处打探，若得 大哥音信，定要保护二位嫂嫂出离许昌。"
+        },
+        {
+          "character": "甘夫人、糜夫人",
+          "type": "同白",
+          "text": "那曹操待你十分恩厚，只恐他未必叫你走脱。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "曹公虽然待弟恩厚，奈弟桃园结义，誓同生死。小弟心如铁石，曹公虽有百计 千方，怎能打动关某之心也。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮原板",
+          "text": "二皇嫂休得要泪悲淋， 细听小弟说分明： 曹孟德虽待我恩情重， 他怎知我桃园义共死生。 我也曾命人去四路打听， 不知我大哥何处存身， 倘若是得了准音信， 保定二皇嫂离曹营。"
+        },
+        {
+          "character": "甘夫人、糜夫人",
+          "type": "同西皮摇板",
+          "text": "听一言来喜在心， 寻访皇叔莫因循。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘夫人、糜夫人同下、关羽自上场门下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、曹操、曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪、张辽、程昱、郭嘉同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "关羽行事人钦仰， 秉烛达旦世无双。 将身且坐宝帐上， 再与程昱计端详。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "程昱听令，现有锦袍一件，命你去到关羽馆舍，就说老夫赠与他锦袍，明日在 演武厅中与诸将贺功，请他前来赴宴。不得有误。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程昱下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众将听令！明日在演武厅中饮宴，文武官员，俱要各穿红袍，不得有误。"
+        },
+        {
+          "character": "曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪、张辽",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。关羽上。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "自从下邳来归曹，思想兄长泪双抛。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程昱上。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "啊，将军。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "先生请坐。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "有座。今奉丞相之命，有锦袍一件，送与将军。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某当拜领。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "明日丞相与诸位将军贺功，请将军前去赴宴。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "下官告辞。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "恕不远送。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "程昱",
+          "type": "念",
+          "text": "丞相用尽千般计，打动关羽一片心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程昱下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、曹仁、李典、徐晃、夏侯惇、乐进、许褚、曹洪、张辽、程昱、曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "关羽为人真可敬， 话不虚传果是真。 将身来在宝帐等， 准备酒宴贺群英。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "这般时候为何还不见关羽到来？"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "想必来也。"
+        },
+        {
+          "character": "马童",
+          "type": "内白",
+          "text": "关将军到。"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童引关羽同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军请坐。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "告坐。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "昨日老夫奉送将军红袍一件，今日为何不见穿来？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽掀袍。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "这不是丞相所赠之袍？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军为何这等的俭朴，一件红袍能值几何，为何还用旧袍遮盖？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相有所不知，这新袍乃是丞相所赠，旧袍乃是吾兄长所赐，旧袍穿在外面， 见袍如见兄长，不敢得新而忘旧也。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "原来如此。 来，看宴伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军请。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相请。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军今日为何来迟？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某身驱魁重，所乘之马，十分瘦小，况又多病，故而来迟。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "吾营中倒有一骑好马，只是生性太劣。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某家所用马童，颇能服劣马。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "就请将军唤他前来。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "马童走上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童上。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "叩见丞相。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "你可能骑劣马？"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "小人能骑。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "吾营中后糟之上，有一红马，你与吾速速牵来。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "转来。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "须要小心。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "咋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "不知丞相之马，有何贵重之处？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "此马遍体皆赤，日行千里，夜行八百，只是其性过劣，竟无人敢乘骑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童牵马上。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "马到。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "此马果然不差，只是可惜无有鞍鞯。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "现有鞍鞯。 马童，速将鞍镮鞦鞯取来。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "此马老夫曾经乘骑一次，被它摔将下来，险伤性命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童上。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "鞍鞯到。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "速速备来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童备马。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "马到。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "待某乘骑。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军须要小心，这马劣得很哪！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "马童，带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上马，走圆场，下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "看关羽身体魁梧，威风凛凛，上得马去，人高马大，犹如天神一般，真虎将也！"
+        },
+        {
+          "character": "关羽",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上，转场，下马。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "此马生来世间稀，身如火炭果出奇。左右两腋生麟甲，逐电追风快如飞。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "好马呀，好马。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军可知此马之来历耶？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "莫非虎牢关前，吕布所骑之赤兔马乎？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "然也！将军真好眼力。将军口称好马，莫非有爱马之意？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "好马人人皆爱。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "既然如此，将此马就送与将军如何？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相此话当真？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "当真。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "果然？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "果然。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "如此待某大礼相谢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽行大礼。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军自到许昌，老夫相待以礼。上马献金，下马献银，三日一小宴，五日一大 宴，又赠美女、锦袍，并未见将军道一谢字。今日赠马一匹，竟这样大礼相谢， 岂非轻人而重畜么？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "想吾关羽，终日思念兄长，今见此马，日行千里，仰蒙丞相恩赐，若得兄长的 下落，一日即可相见矣，故而拜谢。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "唔呼呀！曹操呀，曹操！你这一计又错了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相啊！"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮二六板",
+          "text": "躬身施礼把话言， 细听关某说根源： 自从下邳降了汉， 蒙丞相待我情义厚， 上马赠金下马把银献， 又赠我美女锦袍绣团圞， 似这等恩情诚非浅， 怎奈这财色二字不挂我心间， 今日赐某赤兔马， 千里寻兄不费难， 倘若我弟兄从此得相见， 不忘丞相恩如山， 深施一礼跨雕鞍，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上马。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "良骥千里名不虚传。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "桃园恩义深似海， 他思念刘备常挂怀。 声色利禄他全不爱， 倒叫老夫枉费心裁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

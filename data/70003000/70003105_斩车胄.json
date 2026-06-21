@@ -1,0 +1,1030 @@
+{
+  "script_id": "70003105",
+  "title": "斩车胄",
+  "alias": [],
+  "source": "李洪春剧本选",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "生"
+    },
+    {
+      "name": "郑康成",
+      "hangdang": "生"
+    },
+    {
+      "name": "陈登",
+      "hangdang": "生"
+    },
+    {
+      "name": "车胄",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "董卓已除，吕布被斩。曹操封为丞相，疑忌桃园弟兄，命刘备助车胄镇守徐州，但暗中致书车胄，命图刘备。\n车胄与陈登计议，欲于刘备放粮回城之时，乱箭射死。陈登秉性正直，泄密于关羽。关羽乃与张飞乘夜赚\n车胄出城，将其杀死。刘备占领徐州。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、车胄同上。"
+        },
+        {
+          "character": "车胄",
+          "type": "引子",
+          "text": "统领雄兵，奉将令，镇守徐州。"
+        },
+        {
+          "character": "车胄",
+          "type": "念",
+          "text": "幼习枪法有数年，久敌疆场马蹄欢。东西征讨南北剿，才得领军掌兵权。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "本太守车胄。自从丞相攻取徐州，斩了吕布，奉命镇守此郡。前者袁术兴兵前 来，连战数阵不能取胜，我也曾请兵援助，不知丞相命何人前来。 站堂军，伺候了！"
+        },
+        {
+          "character": "上手",
+          "type": "内白",
+          "text": "桃园弟兄到。"
+        },
+        {
+          "character": "龙套",
+          "type": "同白",
+          "text": "桃园弟兄到。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四上手、刘备、关羽、张飞同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "车将军。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "刘使君，请坐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "车胄、刘备同坐。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "谢座。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "使君兄弟到此何事？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "奉丞相之命，帮助将军同镇徐州。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "我与袁术交兵，屡战不胜，今幸贵兄弟前来相助，徐州无忧矣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启将军，今有袁术，差纪灵带兵前来讨战。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "车将军，待俺老张出马，杀退纪灵之兵。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "将军须要小心。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "得令！ 马来，马来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、张飞同下。内战鼓声。四上手、张飞同上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "咱老张斩了纪灵，杀退袁术人马，特来交令。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "三将军之功也。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "车将军的虎威。徐州之围已解，刘备还要探望家小，告辞了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四上手、刘备、关羽、张飞同下。旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "门上哪位听事？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "京城有信到此。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着。 启将军：京城有信到此。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "传。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "与车将军叩头。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "你奉何人所差？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "奉丞相所差，书信呈上。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "呈上来。待某拆书一观！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "拜上丞相，说车胄修书不及，照书行事。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "来，请众位将军、陈参谋进帐！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "众位将军、陈参谋进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈登、四将同上。"
+        },
+        {
+          "character": "陈登",
+          "type": "念",
+          "text": "常怀忠义性，胸藏百万兵。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "参见太守。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "参谋、诸位将军少礼。"
+        },
+        {
+          "character": "陈登、四将",
+          "type": "同白",
+          "text": "谢太守。传我等进帐，有何军情议论？"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "桃园刘、关、张到此言道，奉丞相将令同镇徐州。丞相又有书信前来，叫我灭 除桃园。参谋、众位将军有何高见灭却桃园？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": "将甲",
+          "type": "白",
+          "text": "末将倒有一计献上。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "将甲",
+          "type": "白",
+          "text": "先命桃园弟兄去往四乡放粮。放粮回来，将东西南三门紧闭，只留北门。他弟 兄进城之时，乱箭齐发，哪怕桃园不灭！"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "此计甚好。中军过来，传我将令，命桃园弟兄，速往四乡放粮，不得违误。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "众将各归本队准备。掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "车胄下。四将自两边分反下。"
+        },
+        {
+          "character": "陈登",
+          "type": "叫头",
+          "text": "且住。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "原来车胄要害桃园弟兄。我想刘、关、张为国安民，久战疆场，乃有用之材。 况且我与刘备乃同窗契友，俱是郑老先生门生。我岂能眼睁睁看他遭此毒手？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈登想。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "啊哈，有了。刘备此番放粮，一定拜望郑老先生。我不免赶到郑老先生家中， 与他送上一信。我就是这个主意，唉，我就是这个主意！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈登下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "郑康成",
+          "type": "唱",
+          "text": "谗臣当道天下乱， 告职归林隐家园。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "老师在家么？"
+        },
+        {
+          "character": "郑康成",
+          "type": "白",
+          "text": "哦，刘使君来了，请坐。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "谢座。老师近日可好？"
+        },
+        {
+          "character": "郑康成",
+          "type": "白",
+          "text": "好，刘使君转回徐州来了？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "正是。董卓已灭，曹操掌权，命我协助车胄，共守徐州。如今奉令四乡放粮， 前来拜谒老师来了。"
+        },
+        {
+          "character": "郑康成",
+          "type": "白",
+          "text": "既有公务在身，不可停留，闲时再叙。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "门生告辞了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。双冲头。陈登上，现惊慌之状。"
+        },
+        {
+          "character": "郑康成",
+          "type": "白",
+          "text": "陈登，为何如此慌张？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "老师，那刘使君可曾前来？"
+        },
+        {
+          "character": "郑康成",
+          "type": "白",
+          "text": "来过不久，往四乡放粮去了。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "哎呀，刘备性命休矣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑康成惊讶。"
+        },
+        {
+          "character": "郑康成",
+          "type": "白",
+          "text": "何出此言？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "哎呀，老师呀！那车胄设计命桃园弟兄四乡放粮，将东西南三门紧闭。桃园放 粮回来，须进北门，那时乱箭齐发，要灭除桃园弟兄。"
+        },
+        {
+          "character": "郑康成",
+          "type": "白",
+          "text": "刘使君走了不久，你何不速速追赶，与他送上一信才是。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "哎呀，老师呀！想我在车胄营中吃粮，前去送信，恐他多疑。若当着老师面前， 说明此事，他定不见疑。我眼睁睁看他遭此毒手，我又于心何忍？这……倒 难了。"
+        },
+        {
+          "character": "郑康成",
+          "type": "白",
+          "text": "待老夫修书一封，你与他送去，他定不生疑。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "待门生溶墨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑康成修书。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "老师，那刘使君从哪条道路而去？"
+        },
+        {
+          "character": "郑康成",
+          "type": "白",
+          "text": "从那条道路而去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑康成、陈登双冲三翻身同亮相下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四车夫、四上手、刘备、关羽、张飞同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟听令！东厢放粮。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞领二车夫同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二弟就在此处放粮！兄去南厢去了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备领二车夫同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "军士们！四乡放粮，不许欺压百姓，若有不遵者，斩！听俺吩咐。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮摇板",
+          "text": "连年争战民遭困， 四乡放粮要公平。 耳旁听得人声震——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈登上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "呔！行走慌张，定是奸细！休走看剑！"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "不……是奸细，我是下书的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈登跪。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "下书的？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "送、送、送信的。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "送信的？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "送信的。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈登起。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "我来问你，书信下与何人？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "下与刘使君的。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "刘使君？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "拿来我看。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "这……书信要面交本人。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "刘使君即我，我即刘使君也。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "请问公何人也？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某乃关云长。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "原来是二将军，失敬了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "岂敢，书信何在？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "有……将军请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽看信，惊。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "下书的，你叫什么名字？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "我叫陈登。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "陈登？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你在何人帐下？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "我在车胄营中。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "住了，你在车胄帐下，前来送信，分明有诈，看剑！"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "将军留头讲话，容我说明。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "好，起来！"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "我来问你，与刘使君有亲？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "非亲。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "有故？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "正是有故。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "何故？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "哎呀，将军呀！我与刘使君乃同窗契友，俱是郑康成先生门生，若是眼睁睁看 你弟兄遭此毒手，我的义在哪里？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "哦呵！原来是某大哥同窗契友，关某失敬了。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "岂敢，告退。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "为何去心忒急？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "恐车胄见疑。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "恕不强留了。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "二将军对刘使君言讲，千万不可回城。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "二将军对刘使君言讲，是陈登前来送信。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "知道了。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "啊，二将军。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "记下了，请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈登下。张飞上，看。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "何人到此？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥学友前来送信，那车胄要灭桃园弟兄。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊，待俺进城与车胄辩理，要了他的狗命！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "且慢！三弟在可打草惊蛇。你我今晚三更时分，不执灯笼火把，高打许褚、张 辽旗号，赚开城池，杀他个措手不及。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好，二哥高见。正是："
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "量小非君子，无毒不丈夫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "车胄、陈登、四将同上。"
+        },
+        {
+          "character": "车胄",
+          "type": "西皮摇板",
+          "text": "探马连次报得紧， 城外发来一支兵。 叫我恍惚心不定，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "车胄、陈登、四将同上城。"
+        },
+        {
+          "character": "车胄",
+          "type": "西皮摇板",
+          "text": "黑夜间分不出哪路兵。"
+        },
+        {
+          "character": "关羽",
+          "type": "内西皮导板",
+          "text": "徐州城外放号炮，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、关羽、张飞同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮流水板",
+          "text": "许、张旌旗空中飘。 人马驻扎在吊桥， 车胄小儿命难逃！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "呔，开城。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "何人叫城？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "俺乃许褚。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "俺乃张——辽。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "二位将军到此何事？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "奉丞相密令，会同将军灭却桃园弟兄！"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "黑夜之间，难分皂白，明日五鼓天明开城。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "若是走漏消息，桃园弟兄逃走，何人担待？"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "这个……陈参谋此城开得么？"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "此城嘛，开得，开得。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "守城军，开城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "车胄出城。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "张将军在哪里？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "车将军在哪里？看枪！"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "车胄跑下。张飞进城，关羽追下，小开打。混战。车胄上。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "且住，桃园弟兄有变，我不免急速回城，调动人马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "车胄走圆场，叫城。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "开城！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "何人叫城？"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "太守车胄。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "车胄，咱老张占了城池了。"
+        },
+        {
+          "character": "车胄",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "关羽",
+          "type": "内白",
+          "text": "呔，车胄老儿，关羽来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上，斩车胄。张飞出城。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "二哥，车胄家眷被小弟斩尽了。"
+        },
+        {
+          "character": "刘备",
+          "type": "内白",
+          "text": "刘使君到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备匆忙上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊？为何将车胄杀死？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "这厮谋害桃园。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "诈城将贼杀死。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "斩了车胄，其罪非小。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈登急迎上。"
+        },
+        {
+          "character": "陈登",
+          "type": "白",
+          "text": "贵弟兄先占徐州，再图后举。"
+        },
+        {
+          "character": "刘备、关羽、张飞",
+          "type": "同白",
+          "text": "好！同进徐州！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

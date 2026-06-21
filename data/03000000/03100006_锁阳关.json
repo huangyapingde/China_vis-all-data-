@@ -1,0 +1,1076 @@
+{
+  "script_id": "03100006",
+  "title": "锁阳关",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "薛丁山",
+      "hangdang": "小生"
+    },
+    {
+      "name": "柳迎春",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "程咬金",
+      "hangdang": "丑"
+    },
+    {
+      "name": "薛金莲",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "薛仁贵保驾西征，被困锁阳关。其子薛丁山，前于汾河湾射雁时，被父误伤，为王敖老祖救去，学得全身武\n艺，今已长成，又值父难，遂奉师命下山揭榜，挂帅征西。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小吹打〗。四童儿、王敖同上。"
+        },
+        {
+          "character": "王敖",
+          "type": "引子",
+          "text": "祥云缭绕，瑞气千条。"
+        },
+        {
+          "character": "王敖",
+          "type": "念",
+          "text": "云蒙修炼数千年，神机妙算法无边。水莲洞中俺为主，稳坐蒲团乐安然。"
+        },
+        {
+          "character": "王敖",
+          "type": "白",
+          "text": "吾乃王敖老祖是也。今有紫微星被困锁阳城，白虎屋有难。当年收得门徒薛丁 山，教习兵法武艺，今日应他父子团圆。不免唤他出来，命他下山，前往西番 救驾。 童儿！"
+        },
+        {
+          "character": "童儿甲",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "王敖",
+          "type": "白",
+          "text": "唤你师兄丁山来见！"
+        },
+        {
+          "character": "童儿甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童儿甲向内。"
+        },
+        {
+          "character": "童儿甲",
+          "type": "白",
+          "text": "丁山师兄，师傅唤你。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛丁山上。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "念",
+          "text": "忽听师傅唤，急忙走向前。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "弟子丁山与师傅叩头！"
+        },
+        {
+          "character": "王敖",
+          "type": "白",
+          "text": "罢了。一旁坐下。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "谢师傅！唤弟子出来，有何吩咐？"
+        },
+        {
+          "character": "王敖",
+          "type": "白",
+          "text": "丁山，你学艺已成，灾难期满，应该下山建功立业去了。今有西番国作乱，唐 王困在锁阳城，你父被飞镖所伤。命你下山一来救驾，二来父子相会。下山去 吧。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "请问师傅，弟子之父究竟何人？弟子因何上得山来？"
+        },
+        {
+          "character": "王敖",
+          "type": "白",
+          "text": "徒儿呀！"
+        },
+        {
+          "character": "王敖",
+          "type": "西皮原板",
+          "text": "本师尊坐蒲团把话来论， 叫一声薛丁山细听分明： 汾河湾你射雁把母养奉， 你的父薛仁贵误伤尔身。 为师我命猛虎将你救定， 算起来到如今整整七春。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "西皮原板",
+          "text": "听师尊把前言对我来论， 不由我薛丁山两眼泪淋。 到西番救父命与贼会阵， 怕的是武艺弱有损师名。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "师傅，想弟子武艺平常，此番到了西番，倘有差错，岂不是有损师名，不能救 得君父，岂不是枉费辛劳！"
+        },
+        {
+          "character": "王敖",
+          "type": "白",
+          "text": "这有何难？ 童儿！"
+        },
+        {
+          "character": "童儿甲",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "王敖",
+          "type": "白",
+          "text": "将宝贝取来！"
+        },
+        {
+          "character": "童儿甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童儿甲取宝。"
+        },
+        {
+          "character": "童儿甲",
+          "type": "白",
+          "text": "宝贝到。"
+        },
+        {
+          "character": "王敖",
+          "type": "白",
+          "text": "这有宝贝十件，你先到长安揭榜，领兵前往，可以破得番军。还有仙丹数粒， 好救你父之命。下山去吧！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "多谢师傅！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "西皮摇板",
+          "text": "拜别恩师忙出洞，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛丁山下。"
+        },
+        {
+          "character": "王敖",
+          "type": "西皮摇板",
+          "text": "他年师徒再相逢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王敖、四童儿同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "程咬金",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": "程咬金",
+          "type": "内西皮导板",
+          "text": "心急加鞭恨马慢，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金上。"
+        },
+        {
+          "character": "程咬金",
+          "type": "西皮流水板",
+          "text": "一心只想奔长安。 恨只恨苏宝童兴兵造反， 御驾亲征到西番。 飞镖打伤薛元帅， 君臣被困锁阳关。 唐王爷，身遭难， 军师大帐把将令传。 差咬金，回朝转， 不分昼夜诈出番营把兵搬。 太平年，多闲散， 如今方知保国难。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "老夫、程咬金。奉了军师将令，诈出番营，回转长安搬取救兵。就此马上加鞭！"
+        },
+        {
+          "character": "程咬金",
+          "type": "西皮摇板",
+          "text": "加鞭打马往前奔， 伹愿搬兵早回程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "薛丁山",
+          "type": "内西皮导板",
+          "text": "辞恩师下山林阳关路奔，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛丁山上。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "西皮原板",
+          "text": "离仙山一路上仆仆风尘。 我祖居山西省龙门县郡， 我的父薛仁贵盖世功勋。 自幼儿学会了射雁本领， 汾河湾遇我父误伤我身。 多亏了我师尊——"
+        },
+        {
+          "character": "薛丁山",
+          "type": "西皮快板",
+          "text": "将我救定， 在山中教武艺整整七春。 皆因是西番贼兴兵犯境， 我的父挂帅印随驾亲征。 遭不幸锁阳城君臣被困， 此一番救君父要舍死忘生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛丁山下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳迎春上，薛青暗上。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "引子",
+          "text": "王爷领兵去西征，好叫我、悬挂在心。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "念",
+          "text": "我儿下世已七年，生死存亡各一天。丈夫争战西番地，不知何日得胜还！"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "老身、柳迎春。配夫薛仁贵。所半一儿一女：长子丁山，当年在汾河湾打雁， 被他父误射身死。女儿金莲，尚在年幼。王爷随驾征西，数载未归，不知何日 才得还朝。思想起来，好不愁闷人也！"
+        },
+        {
+          "character": "柳迎春",
+          "type": "二黄正板",
+          "text": "柳迎春在二堂心中烦闷， 叹儿夫随驾征难得回程。 遭不幸丁山儿早年丧命， 眼见得薛门中绝了后根。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "哭",
+          "text": "我的儿呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛金莲上。"
+        },
+        {
+          "character": "薛金莲",
+          "type": "唱",
+          "text": "我爹爹征西番无有音信， 我母女终日里悬挂在心。 将身儿且把那二堂来进， 老娘亲她又在两泪淋淋！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛丁山上。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "唱",
+          "text": "辞别师傅回原郡， 转眼来到王府门。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "来此已是自家门首。 门上有人么？"
+        },
+        {
+          "character": "薛青",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "你去通报，就说薛丁山回家来了。"
+        },
+        {
+          "character": "薛青",
+          "type": "白",
+          "text": "曾听老夫人讲过，我家小主人早年命丧汾河湾，怎么今日还能回来呢？莫非你…… 你是——"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "我被仙人搭救，故尔未死。不必多疑，快快进去通禀。"
+        },
+        {
+          "character": "薛青",
+          "type": "白",
+          "text": "如此，待小人回禀夫人知道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛青进门。"
+        },
+        {
+          "character": "薛青",
+          "type": "白",
+          "text": "恭喜夫人！贺喜小姐！"
+        },
+        {
+          "character": "柳迎春、薛金莲",
+          "type": "同白",
+          "text": "喜从何来?"
+        },
+        {
+          "character": "薛青",
+          "type": "白",
+          "text": "我家小主人回来了。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "哪个小主人？"
+        },
+        {
+          "character": "薛青",
+          "type": "白",
+          "text": "就是当年在汾河湾去世的小主人丁山，因被仙人救去，故尔未死。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "如此快快领他进来！"
+        },
+        {
+          "character": "薛青",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛青出门。"
+        },
+        {
+          "character": "薛青",
+          "type": "白",
+          "text": "小主人，夫人唤你。随我进来！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "带路！"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "丁山在哪里？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "母亲在哪里？"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "唉，儿呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳迎春哭。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "唉，母亲哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛丁山哭。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "西皮小导板",
+          "text": "见娇儿不由人肝肠痛坏，"
+        },
+        {
+          "character": "柳迎春",
+          "type": "三叫头",
+          "text": "丁山！我儿！唉，儿呀！"
+        },
+        {
+          "character": "柳迎春",
+          "type": "唱",
+          "text": "一霎时似梦境真假难猜。 曾记得汾河湾儿身不在， 朝也思暮也盼魂梦归来。 母子们乍别离忽又七载， 今日里怎能够转回家来？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "唱",
+          "text": "母亲且莫悲伤坏， 且听孩儿说开怀： 多亏师尊将儿带， 救回仙山好培栽。 习武修文学七载， 今奉师命下山来。 揭榜领兵身挂帅， 誓救君父奏凯归来！"
+        },
+        {
+          "character": "柳迎春",
+          "type": "唱",
+          "text": "遥望仙山身下拜，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳迎春拜。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "唱",
+          "text": "苍天有眼巧安排。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "金莲过来，见过你的兄长。"
+        },
+        {
+          "character": "薛金莲",
+          "type": "白",
+          "text": "拜见兄长！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "贤妹少礼，落坐叙话。"
+        },
+        {
+          "character": "薛金莲",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "儿呀，当年你在汾河湾打雁，忽然来了一只猛虎，你父一箭射去，竟误将我儿 射死。你父赶上前去，儿的尸首不知去向。你是怎样被仙人救去？儿呀，你…… 你快对为娘讲来呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳迎春哭。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "母亲容禀：是那日孩儿被箭误伤倒地，多亏王敖老祖派来猛虎，将儿背上山去， 从他学艺，才有今日。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "原来如此。啊儿呀，你父随驾西征，至今音信全无，不知吉凶如何？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "师傅言道：我爹爹现被飞镖所伤，不能出战。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "儿待怎讲？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "我爹爹被飞镖所伤。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "哎呀，不好了！"
+        },
+        {
+          "character": "柳迎春",
+          "type": "唱",
+          "text": "听一言来雷贯顶， 四肢无力走真灵。 眼望西番身战震，"
+        },
+        {
+          "character": "柳迎春",
+          "type": "哭头",
+          "text": "王爷呀！"
+        },
+        {
+          "character": "柳迎春",
+          "type": "唱",
+          "text": "不知你命死或生？"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "儿呀，这便如何是好哇？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "母亲不必悲伤。下山之时，师傅曾赐儿金丹数粒，能救我父性命。儿就此前往 长安揭榜，即可领兵西征。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "儿呀，闻得西番兵凶将狠，我儿尚在年幼，出兵怎能取胜？"
+        },
+        {
+          "character": "薛金莲",
+          "type": "白",
+          "text": "母亲不必担心。孩儿也曾受过仙师传授武艺，情愿随同兄长前往锁阳城，拯救 君父。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "贤妹有此胆量？"
+        },
+        {
+          "character": "薛金莲",
+          "type": "白",
+          "text": "有此胆量。"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "你二人虽然一同前去，为娘还是放心不下。不如为娘也随儿等前去。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "母亲同去也好。府中之事，何人照管？"
+        },
+        {
+          "character": "柳迎春",
+          "type": "白",
+          "text": "无妨。府中之事，自有家人照管。后堂摆宴与儿接风。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "谢母亲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引李治同上。"
+        },
+        {
+          "character": "李治",
+          "type": "唱",
+          "text": "父王御驾往西番， 日夜担心费熬煎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内发点声。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "何人击点？"
+        },
+        {
+          "character": "程咬金",
+          "type": "内白",
+          "text": "鲁国公有本启奏。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "候着！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监进门。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "启奏千岁：鲁国公回朝候旨。"
+        },
+        {
+          "character": "李治",
+          "type": "白",
+          "text": "快快宣他上殿！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "遵旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监向内。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "千岁有旨：鲁国公上殿哪！"
+        },
+        {
+          "character": "程咬金",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金上。"
+        },
+        {
+          "character": "程咬金",
+          "type": "念",
+          "text": "西番遭围困，回朝搬救兵。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "臣、程咬金见驾，殿下千岁！"
+        },
+        {
+          "character": "李治",
+          "type": "白",
+          "text": "老皇伯快快平身。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "李治",
+          "type": "白",
+          "text": "赐坐！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "李治",
+          "type": "白",
+          "text": "老皇伯回朝，必有军情大事？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "臣启千岁：如今老主被困锁阳城，薛元帅误被飞镖所伤。军师命我杀出番营， 急转长安，与千岁商议速发援兵！"
+        },
+        {
+          "character": "李治",
+          "type": "白",
+          "text": "哎呀！这长安城内兵将虽有，但缺主将挂印领兵，这便如何是好？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "千岁可赐臣旨意一道，就在校场挂榜招贤，倘有良将，也未可知。"
+        },
+        {
+          "character": "李治",
+          "type": "白",
+          "text": "如此就命老皇伯在校场出榜招贤，不得有误。快快领旨下殿去吧。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "遵旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四家将、薛青、薛丁山、薛金莲、柳迎春同上。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "薛青，府中之事，勤慎照管，救驾回京，另加赏赐。"
+        },
+        {
+          "character": "薛青",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙奉、中军引程咬金同上。"
+        },
+        {
+          "character": "程咬金",
+          "type": "唱",
+          "text": "宝童小儿真可恼， 兴兵犯境实难饶。 御驾亲征把贼剿， 元帅失机中飞镖。 命咬金，转回朝， 在校场出挂榜文把贤招。 我今急把校场到， 但愿早得将英豪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛丁山上。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "唱",
+          "text": "师尊命我将山下， 西番救驾把贼杀。 辕门且揭招贤榜， 见了千岁把话答。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "念",
+          "text": "要为天下奇男子，须立人间未有功。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "来此已是，待俺揭榜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛丁山揭榜。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "呔！什么人揭榜？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "烦劳通禀：就说揭榜人叩见。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军进门。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启千岁：揭榜人叩见。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "传他进来！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军向薛丁山。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "千岁传你，要小心了！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "有劳了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛丁山进门。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "揭榜人与千岁叩头！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "罢啦。看你这年纪轻轻的，有何本领，竟敢前来揭榜哪？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "兵法武艺，请千岁面试。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "我来问你，两军交战，何物当先？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "弓箭当先。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "好，帐下演来！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军领薛丁山同下，同上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启禀千岁：这一小将一马三箭，俱射红元。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "唔呼呀！这一小将，家住哪里，姓甚名谁？"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "家住山西绛州龙门县，姓薛名丁山。我父薛仁贵，官拜平辽王之职。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "嗳呀呀！原来是薛元帅之子，怪不得有此本领。随老夫上殿面见千岁。 来，带马上朝！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。"
+        },
+        {
+          "character": "程咬金、薛丁山",
+          "type": "同白",
+          "text": "臣（程咬金）（薛丁山）见驾，殿下千岁！"
+        },
+        {
+          "character": "李治",
+          "type": "内白",
+          "text": "有何本奏？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "今有平辽王薛元帅之子名唤丁山，兵法精通，武艺超群，可以挂帅领兵。请千 岁定夺。"
+        },
+        {
+          "character": "李治",
+          "type": "白",
+          "text": "就命薛丁山为二路元帅，即日领兵救驾，外赐尚方宝剑，以壮军威。领旨下殿！"
+        },
+        {
+          "character": "程咬金、薛丁山",
+          "type": "同白",
+          "text": "领旨！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "来，打道校场！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四龙套、四上手、罗通、罗章、程千忠、尉迟青山引薛丁山同上。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "念",
+          "text": "辕门揭榜领雄兵，西番救驾建奇功！战鼓如雷天地动，旌旗招展日不明。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "本帅、薛丁山。奉了千岁旨意，挂帅征西救驾。 罗通将军听令！"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "命你以为前部先锋，逢山开路，遇水搭桥，不得有误！"
+        },
+        {
+          "character": "罗通",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "尉迟将军听令！"
+        },
+        {
+          "character": "尉迟青山",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "命你催押粮草，不得有误！"
+        },
+        {
+          "character": "尉迟青山",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟青山下。"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "中军听令！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "薛丁山",
+          "type": "白",
+          "text": "传令下去，文武官员免送，就此响炮起营！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "得令！ 下面听者：元帅有令，文武官员免送，响炮起营。"
+        },
+        {
+          "character": "四龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "script_id": "70902176",
+  "title": "铁冠图·撞钟",
+  "alias": [],
+  "source": "俞振飞剧本选",
+  "characters": [
+    {
+      "name": "崇祯帝",
+      "hangdang": "官生"
+    },
+    {
+      "name": "王承恩",
+      "hangdang": "末"
+    },
+    {
+      "name": "张丞相",
+      "hangdang": "净"
+    },
+    {
+      "name": "杜勋",
+      "hangdang": "丑"
+    },
+    {
+      "name": "门官",
+      "hangdang": "杂"
+    },
+    {
+      "name": "巡军",
+      "hangdang": "杂"
+    }
+  ],
+  "plot": "风雪之夜为酬粮饷，崇祯帝前往众臣府第借钱，结果遭到冷遇。无奈之余，命人撞响景阳宫，招群臣议政，\n三撞之后，竟只有监军杜勋一人前来，而此人早已暗降李自成。",
+  "notes": "此折通过描绘恶劣的自然环境，和对明王朝君臣的刻画，表现了大明王朝将亡前的一片灰暗、惨淡景象。此\n折前有一组北曲，表现了崇祯帝在风雪中焦急、忧虑的心情。后又有一组南曲，表现了崇祯帝等待中的烦闷、\n凄凉的心境。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "初更鼓。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "内白",
+          "text": "王承恩。"
+        },
+        {
+          "character": "王承恩",
+          "type": "内白",
+          "text": "在。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "内白",
+          "text": "带路！"
+        },
+        {
+          "character": "王承恩",
+          "type": "内白",
+          "text": "领旨。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "内新水令",
+          "text": "顶风冒雪出禁门，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崇祯帝、王承恩同上。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "新水令",
+          "text": "时遭颓运寇兵困， 金汤不稳山河震， 群臣皆奸佞！ 叹助饷无人， 因此上踏雪夜访求皇亲！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "朕嗣位一十七年，勤政爱民，以图全盛。不料上天不悯，岁不丰登，盗贼猖炽。 巨寇李自成拥兵直犯帝京，旦夕江山不保。怎奈军中粮饷全无，将士饥寒交 迫。为此朕命王承恩前去向朝中文武大臣借饷，谁料他们一个个装聋作哑，无 动于衷。唉！朕只得深更半夜，顶风冒雪，整冠换巾，撤马步行，亲幸国丈、 丞相之家，面呈其事，以解这燃眉之急！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "折桂令",
+          "text": "佩星纹宝剑防身， 微服走天街，朦胧月影。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "巡军上。"
+        },
+        {
+          "character": "巡军",
+          "type": "白",
+          "text": "呔，什么人？"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "圣驾在此，回避了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "巡军下。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "王承恩，什么样人？"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "是御林军巡夜的。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "吖！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "折桂令",
+          "text": "原以为宵禁无人， 却原来羽林夜值防范严紧。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "来此已是相府。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "与我叫门。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "领旨。 开门！"
+        },
+        {
+          "character": "家院",
+          "type": "内白",
+          "text": "何人叩门？"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "圣上在此！"
+        },
+        {
+          "character": "家院",
+          "type": "内白",
+          "text": "候着。 启禀丞相：圣上驾到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张丞相上。"
+        },
+        {
+          "character": "张丞相",
+          "type": "念",
+          "text": "平明登紫阁，日宴下彤帏。"
+        },
+        {
+          "character": "张丞相",
+          "type": "白",
+          "text": "啊，王公公，你怎么来了？"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "圣驾在此！"
+        },
+        {
+          "character": "张丞相",
+          "type": "白",
+          "text": "吖！老臣不知圣驾降临，伏乞赐罪！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "啊呀爱卿哪！只为太仓空虚，内币已竭，难以招兵御敌。想爱卿乃阁臣首辅， 还望……"
+        },
+        {
+          "character": "张丞相",
+          "type": "白",
+          "text": "啊呀万岁啊！老臣禄薄俸微，岁岁空亏……"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "唔……"
+        },
+        {
+          "character": "张丞相",
+          "type": "白",
+          "text": "吖，这助饷平寇，乃国家大事，老臣岂能等闲视之。愿献白银……"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "吓——"
+        },
+        {
+          "character": "张丞相",
+          "type": "白",
+          "text": "三百两。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "三百两还不够军中一餐！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "身为当朝丞相，只有三百两……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张丞相背供。"
+        },
+        {
+          "character": "张丞相",
+          "type": "白",
+          "text": "自古以来，只有皇帝赐赏臣民，那有臣民借钱与皇帝的。 老臣送驾，送驾，送驾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张丞相下。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "唔，唔……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二更鼓。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "启万岁，时已二更，周皇亲家还是不去了吧。请万岁爷回宫。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "且慢。想那周奎，乃当今国丈，国家兴亡，与之休戚相关，定能为国分忧。王 承恩！"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "你我速速趱行者！"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖节节高〗。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "吓，这是谁家宅第？"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "这就是周皇亲宅第！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "吖，这就是周奎宅第么？"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "叫门！"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "领旨。 开门！"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "请吓、吓哈、哈……"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "启奏万岁：门上无人应声。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "啊呀。目前流贼攻城，势如压卵。不思为国分忧，只图酣乎畅饮。唔，苟有人 心，决不至此。 王承恩，"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "竟说朕躬在此！"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "领旨。 门上人听者，圣驾在此，快快开门接驾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门官上。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "谁呀？半夜三更，大呼小叫的。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "圣驾在此。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "圣驾？嘿嘿，你别逗了，这么冷的下雪天，他怎么会到这儿来？恐怕正搂着东 宫、西宫寻欢作乐呢？"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "快去通报！"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "我家主人正在宴请六部大人，不便通报，不便通报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门官关门，下。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "啊呀了不得！启万岁爷，门上人说，家爷请六部大堂在内饮宴，不肯通报。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "啊呀！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "雁儿落",
+          "text": "只听得奏笙歌欢腾声， 全不想邦国危社稷将倾。 你竟敢寻欢作乐眠高枕， 抗圣旨负君恩，其心何忍。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "吖，呵呵呵……"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "启禀万岁：皇亲抗旨慢君，国法当诛。但国家安危未定，不必介意。请圣驾回 宫，将景阳钟击起，待文武百官到齐，商定退兵之策，到那时再加以慢君之罪。 请万岁爷三思！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "下雪声。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "唔……"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "又下雪了，请万岁爷回宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三更鼓。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "啄木儿",
+          "text": "愁云蔽怨雪倾， 又听铜壶滴三更。 步踉跄不辨高低， 意彷徨歧路难分。"
+        },
+        {
+          "character": "王承恩",
+          "type": "啄木儿",
+          "text": "龙楼凤阁行行近， 阴云散处蟾光莹， 请圣驾登临少憩神。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "王承恩，快将景阳钟击起！"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王承恩撞钟三记。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "黄莺儿",
+          "text": "午夜听钟鸣， 更凄凉玉漏沉， 好一似茫茫夜雪悲凄清， 风儿又侵，雪儿又倾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四更鼓。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "启禀万岁：时已四更，满朝文武，无有一人前来。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "王承恩，再……再击景阳钟。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王承恩撞钟五记。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "王承恩，你看远远一带火光，想是群臣来了。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "待奴婢看来。 果有火光，吓，为何忽隐忽现？怎么全灭了？ 启禀万岁爷：一霎时火光全灭了。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "吖！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "黄莺儿",
+          "text": "原来是磷磷鬼火明幽径，"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "啊呀！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "黄莺儿",
+          "text": "痛伤心， 悬悬遥望并没有一人临。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "五更鼓。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "王承恩，再、再……再击景阳钟吓！"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王承恩撞钟七记。"
+        },
+        {
+          "character": "杜勋",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "哈哈！有人来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杜勋上。"
+        },
+        {
+          "character": "杜勋",
+          "type": "白",
+          "text": "咱家杜勋。奉旨巡夜，适才听得景阳钟鸣，我不免假作慌张，探听虚实，见机 行事便了。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "呔！楼下是何官员？"
+        },
+        {
+          "character": "杜勋",
+          "type": "白",
+          "text": "奴婢杜勋见驾。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "候着。 启万岁爷：杜勋见驾。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "宣上来。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "领旨，圣上有旨，杜勋上楼。"
+        },
+        {
+          "character": "杜勋",
+          "type": "白",
+          "text": "领旨。奴婢杜勋见驾。吾皇万岁，万万岁！"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "杜勋",
+          "type": "白",
+          "text": "万万岁。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "卿家督守九门，勤劳王事，但不知贼势如何？"
+        },
+        {
+          "character": "杜勋",
+          "type": "白",
+          "text": "贼势虽然猖獗，臣当鞠躬尽瘁，定要杀贼建功！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "啊呀杜卿，汝之忠义，朕所深知。但今国计存亡未卜，惟卿可保，卿须努力为 之。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "猫儿坠",
+          "text": "匡君灭寇赖汝作长城， 号令须兼威共恩。"
+        },
+        {
+          "character": "杜勋",
+          "type": "猫儿坠",
+          "text": "一腔碧血报明君。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "合头",
+          "text": "叮咛， 是必安邦破贼，早建奇勋。"
+        },
+        {
+          "character": "杜勋",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "杜勋",
+          "type": "念",
+          "text": "虚情假意诓圣驾，暗通关节迎闯王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杜勋下。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "启禀万岁，夜静更深，请万岁回宫，将息圣体。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "尾声",
+          "text": "通宵劳瘁身如病， 可再挨得几宵光景？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鸡叫。"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "白",
+          "text": "苍天吓，朕之身命啊！"
+        },
+        {
+          "character": "崇祯帝",
+          "type": "尾声",
+          "text": "却似漏尽更筹鸡乱鸣。"
+        },
+        {
+          "character": "王承恩",
+          "type": "白",
+          "text": "请万岁爷回宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崇祯帝、王承恩同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

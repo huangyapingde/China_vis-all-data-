@@ -1,0 +1,888 @@
+{
+  "script_id": "70003110",
+  "title": "阅军教刀",
+  "alias": [],
+  "source": "李洪春剧本选",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "徐晃",
+      "hangdang": "净"
+    },
+    {
+      "name": "曹操",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "曹操击败袁绍兵归来，操练兵马，图谋霸占中原。教场之上，关羽独占鳌头。徐晃素与关羽友好，过邸求教，\n关羽见徐晃心诚，授以春秋刀法。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁双趟马上，领四合如意，同走圆场，同挖门，同"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "归正场一字变一排。）"
+        },
+        {
+          "character": "蔡阳",
+          "type": "念",
+          "text": "刀闪如风似秋霜，"
+        },
+        {
+          "character": "张辽",
+          "type": "念",
+          "text": "利刃杀敌震疆场。"
+        },
+        {
+          "character": "曹洪",
+          "type": "念",
+          "text": "六略三韬习铁砚，"
+        },
+        {
+          "character": "徐晃",
+          "type": "念",
+          "text": "兵书战策满腹装。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "念",
+          "text": "东荡西杀南北剿，"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "念",
+          "text": "冲锋对垒马蹄忙。"
+        },
+        {
+          "character": "许褚",
+          "type": "念",
+          "text": "建立功勋扶汉业，"
+        },
+        {
+          "character": "曹仁",
+          "type": "念",
+          "text": "文修武备气轩昂。"
+        },
+        {
+          "character": "蔡阳",
+          "type": "白",
+          "text": "蔡阳。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "张辽。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "曹洪。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "徐晃。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "夏侯惇。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "夏侯渊。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "许褚。"
+        },
+        {
+          "character": "曹仁",
+          "type": "白",
+          "text": "曹仁。"
+        },
+        {
+          "character": "蔡阳",
+          "type": "白",
+          "text": "众位将军请了。"
+        },
+        {
+          "character": "张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "蔡阳",
+          "type": "白",
+          "text": "我军出征以来，攻无不取，战无不胜，扬名天下，各路诸侯，闻名丧胆。昨日 丞相传下将令，今日校场阅军比试，我们与那关云长，要见过高下，分个雌雄。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "蔡老将军休出此言。我等与那关将军同营，千万不可心怀二意，伤了和气。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "张将军所言极是。"
+        },
+        {
+          "character": "蔡阳",
+          "type": "白",
+          "text": "这个……末将不过一句戏言耳。"
+        },
+        {
+          "character": "曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁",
+          "type": "同白",
+          "text": "大家和睦。齐至辕门候令！"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "好，大家辕门去者。请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖出队子〗。蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁分四队走。郭嘉、程昱双上。"
+        },
+        {
+          "character": "郭嘉、程昱",
+          "type": "同白",
+          "text": "诸位将军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁同下马。"
+        },
+        {
+          "character": "蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁",
+          "type": "同白",
+          "text": "二位先生，丞相可曾升帐？"
+        },
+        {
+          "character": "郭嘉",
+          "type": "白",
+          "text": "丞相尚未升帐。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "众将到齐，待我禀知丞相。"
+        },
+        {
+          "character": "蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁",
+          "type": "同白",
+          "text": "有劳先生。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "禀丞相。"
+        },
+        {
+          "character": "曹操",
+          "type": "内白",
+          "text": "何事？"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "众将到齐。"
+        },
+        {
+          "character": "曹操",
+          "type": "内白",
+          "text": "吩咐击鼓升帐。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "击鼓升帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "发点。四长枪手、四藤牌手、四文堂引曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "智压孙武，论机谋——"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "前营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蔡阳、张辽双进。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "满腹珠玑，谁能轻——"
+        },
+        {
+          "character": "郭嘉",
+          "type": "白",
+          "text": "后营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐晃、曹洪双进。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "统三军，南征北战——"
+        },
+        {
+          "character": "程昱、郭嘉",
+          "type": "同白",
+          "text": "左右营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "许褚、曹仁、夏侯惇、夏侯渊双进。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "扫群雄，独霸中原。"
+        },
+        {
+          "character": "蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁",
+          "type": "同白",
+          "text": "参见丞相。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "站立两厢。"
+        },
+        {
+          "character": "蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "陈留举义会诸侯，董卓、吕布一命休；汉室名臣我为首，文韬武略胜伊筹。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫，曹操，汉室为臣。位居首相，掌握兵符，剿灭诸侯，扫荡四路烟尘，攻 必取，战必胜。自关羽归降我营，斩颜良、诛文丑，甚是骁勇，老夫更加厚意 相待。昨日传下将令，今日在校场阅军，为此升帐理事。 众将官！校场去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖泣颜回〗。众人走场同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "关羽",
+          "type": "内西皮导板",
+          "text": "旌旗飘摇金鼓闹——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "月华旗手、大纛旗手、马童引关羽同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮快板",
+          "text": "杀气腾腾冲九霄， 各个儿郎如虎豹， 气吐长虹万丈高。 全凭赤兔胭脂豹， 斩将擒敌显英豪。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "兄弟聚义在范阳，桃园结义刘关张；熟读春秋习战策，凌云壮志满胸膛。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某自下邳从曹，约下三事，曹公件件应允。前者白马坡解围，刀劈颜良落马， 延津又诛文丑。两次出战，打探大哥下落，并无音信。昨日曹公传下将令，今 日在校场阅军操演。为此全身披挂，去至校场。 军士们！校场去者！"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮流水板",
+          "text": "坐雕鞍勒丝缰自思自想， 愧煞我将英才汉室云长。 进曹营与张辽三事约讲， 知兄信立功劳离却许昌。 今日里校军场比试较量， 论英雄分魁首哪有心肠！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。月华旗手、大纛旗手、马童同随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（〖长锤〗。曹操、蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁、郭嘉、程昱、四藤牌手、四"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "文堂同上。）"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "威风凛凛杀气升，"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮原板",
+          "text": "队伍齐整密层层。 河北袁绍实可恨， 两次兴师敢战争。 颜良、文丑俱丧命， 河北儿郎胆战惊。 我军凯歌许都进， 耀武扬威众群英。 今日阅军来观定， 看一看谁强谁弱与谁能？ 画鼓咚咚连声震， 鞭梢一指战马停。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "各归队伍！ （蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁同下。〖急急风〗。月华旗手、大纛旗手、马童 引关羽同上。曹操迎上高台。）"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "二将军为何来迟？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某先至辕门，丞相尚未升帐。回营少停，又到辕门，丞相已起军校场，故而来 迟。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "原来如此。 程昱听令。"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "传令下去，今日校场比试，不准各怀私怨，哪家伤人立斩号令，决不宽容。起 鼓开操！"
+        },
+        {
+          "character": "程昱",
+          "type": "白",
+          "text": "下面听者：今日校场比试，不准各怀私怨，哪家伤人立斩号令，决不宽容。起 鼓开操！ （蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁同开操，四藤牌手、四长枪手、蔡阳、张辽、曹 洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁比武毕，各回本队。）"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "二将军，你看我营军士，可雄壮否？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "丞相军威。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "二将军真识势英才也。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "过奖了。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "相烦将军，与我营将士，比试消遣。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮流水板",
+          "text": "适才将台阅兵将， 蔡阳刀法果无双。 校军场丞相把令降， 风云聚会各争强。 宽锦袍紧甲胄校军场上， 提偃月跨坐骑论论谁强！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽耍刀，趟马下。关羽、徐晃同上，比武。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "徐公明为何不往前进？"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "关兄相让。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "敢是不识此刀？"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "正是。某刀法已乱。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "公明刀法不佳。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "求兄指教。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "明日请至舍下一叙。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "小弟遵命。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "拨马再战，提刀劈面砍来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、徐晃同比武。蔡阳、张辽、曹洪、夏侯惇、夏侯渊、许褚、曹仁同上，合操，各亮势。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "好威严也！ （〖牌子〗。蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁各站原处，曹操下将台，向郭嘉、程 昱。）"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "速回安排酒宴，犒赏三军。"
+        },
+        {
+          "character": "郭嘉、程昱",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭嘉、程昱同下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众将官，回军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引李典同上。"
+        },
+        {
+          "character": "李典",
+          "type": "白",
+          "text": "俺，李典。奉丞相将令，带领人马探听四路军情。如今刘辟、龚都在汝南谋反， 不免回营报与丞相知道。 呔，众将官，回营交令去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李典下，四龙套同随下。〖牌子〗。月华旗手、大纛旗手、马童引关羽同上，关羽下马，小座。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "疆场厮杀统貔貅，拜将封侯非自由。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "今日校场比试，除蔡阳刀法精通，余者皆平常武艺。徐公明虽然刀法不佳，识 人求教，令人佩服！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽看。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "看天已正午，俺不免去至内室，问过二位嫂嫂金安。"
+        },
+        {
+          "character": "关羽",
+          "type": "吹腔",
+          "text": "读圣贤达礼仪平生本性， 我关羽虽武夫通贯古今。 观春秋习兵法谨遵古训——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "使女上。"
+        },
+        {
+          "character": "使女",
+          "type": "白",
+          "text": "迎接二爷。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "二位主母何在？"
+        },
+        {
+          "character": "使女",
+          "type": "白",
+          "text": "二爷。"
+        },
+        {
+          "character": "使女",
+          "type": "吹腔",
+          "text": "二夫人身不爽劳倦安寝。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "知道了，退下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "使女下，马童上。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "徐将军求见。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌抬刀同上，徐晃上。"
+        },
+        {
+          "character": "徐晃",
+          "type": "西皮散板",
+          "text": "校场比试艺不精， 特来求教拜府门。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "关兄。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "公明！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、徐晃同笑。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "有座。校场多蒙相让，小弟这里谢过。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "谦而好学，令人钦佩。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "夸奖了。小弟特来求兄指教。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "理应效劳。 马童，看刀伺候，带路前庭院。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、徐晃同走圆场，挖开，各执刀。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "徐公明，关某献丑了。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮散板",
+          "text": "徐公明英勇某久仰！"
+        },
+        {
+          "character": "徐晃",
+          "type": "西皮散板",
+          "text": "怎比关兄天下扬。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮散板",
+          "text": "此间好比战场上。"
+        },
+        {
+          "character": "徐晃",
+          "type": "西皮散板",
+          "text": "求教学刀永不忘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、徐晃比试，停刀。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "徐公明，可知此刀名？"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "小弟不知。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "此乃春秋刀法：前进者——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽亮势。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "刀劈落马；后退者——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽亮势。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "人马回扎；左冲来——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽亮势。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "立取首级；右冲来——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽亮势。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "横刀剪腰；拨马迎面——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽亮势。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "劈面便砍；进攻猛者，催马围绕。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽亮势。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "此乃春秋宝刀六十四路之外，暗隐绝命六招，百发百中，徐公明要牢牢紧记。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "承兄指教，真我师也。小弟拜谢了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "何必过谦。 马童，备酒伺候。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "且慢，恐营中有事，改日再来叨扰。小弟告辞了。"
+        },
+        {
+          "character": "徐晃",
+          "type": "西皮散板",
+          "text": "躬身施礼出府门， 改日拜府叙衷情！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐晃、二旗牌同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮散板",
+          "text": " 好个聪明徐公明， 拜府求教令人钦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老军上。"
+        },
+        {
+          "character": "老军",
+          "type": "西皮散板",
+          "text": "适才曹府闻一信， 报与二爷得知情。"
+        },
+        {
+          "character": "老军",
+          "type": "白",
+          "text": "启禀二爷：今有刘辟、龚都，与河北袁绍同盟，在汝南谋反。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你是从何处得来此信？"
+        },
+        {
+          "character": "老军",
+          "type": "白",
+          "text": "小人由丞相府中得来消息。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "知道了，退下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老军下。"
+        },
+        {
+          "character": "关羽",
+          "type": "叫头",
+          "text": "且住！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "老军报道，刘辟、龚都在汝南谋反，俺不免去曹公台前，讨令出战，攻打汝南， 探听兄信，倘有兄长下落，也未可知。 马童，吩咐小校伺候。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "小校伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小校自两边分上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "马童，带马伺候！"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮散板",
+          "text": "在许昌每日里心不安静， 思兄长使关某珠泪常浸。 讨将令统军士汝南对阵， 倘若是得兄信离却曹营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

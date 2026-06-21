@@ -1,0 +1,1584 @@
+{
+  "script_id": "70003124",
+  "title": "取襄阳",
+  "alias": [],
+  "source": "李洪春剧本选",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "关平",
+      "hangdang": "武生"
+    },
+    {
+      "name": "周仓",
+      "hangdang": "净"
+    },
+    {
+      "name": "廖化",
+      "hangdang": "生"
+    },
+    {
+      "name": "费诗",
+      "hangdang": "生"
+    },
+    {
+      "name": "糜芳",
+      "hangdang": "丑"
+    },
+    {
+      "name": "傅士仁",
+      "hangdang": "丑"
+    },
+    {
+      "name": "诸葛瑾",
+      "hangdang": "生"
+    },
+    {
+      "name": "孙权",
+      "hangdang": "净"
+    },
+    {
+      "name": "曹仁",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "曹操遣满宠往东吴求和，步隲献策，孙权命诸葛瑾向关羽为世子求婚，以结纳西蜀，共同抗曹。关羽拒之，\n称虎女焉能配犬子。孙权大怒，决心与曹操联盟。刘备进位汉中王，封关羽、张飞、赵云、马超、黄忠为五\n虎上将，密嘱关羽攻取襄阳、樊城。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张昭、诸葛谨、步隲、阚泽同上。"
+        },
+        {
+          "character": "众人",
+          "type": "同点绛唇",
+          "text": "三国纷纷，屡起战争，何日里，干戈宁静，军民齐安定。"
+        },
+        {
+          "character": "张昭",
+          "type": "白",
+          "text": "张昭。"
+        },
+        {
+          "character": "诸葛谨",
+          "type": "白",
+          "text": "诸葛谨。"
+        },
+        {
+          "character": "步隲",
+          "type": "白",
+          "text": "步隲。"
+        },
+        {
+          "character": "阚泽",
+          "type": "白",
+          "text": "阚泽。"
+        },
+        {
+          "character": "张昭",
+          "type": "白",
+          "text": "列公请了。"
+        },
+        {
+          "character": "诸葛谨、步隲、阚泽",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "张昭",
+          "type": "白",
+          "text": "今有曹操差满宠前来求和，稍时吴侯登殿，把本启奏。看！香烟缭绕，圣驾临 朝，分班伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引孙权同上。"
+        },
+        {
+          "character": "孙权",
+          "type": "引子",
+          "text": "占据江东，承父业，虎踞龙争。"
+        },
+        {
+          "character": "张昭、诸葛谨、步隲、阚泽",
+          "type": "同白",
+          "text": "臣等见驾，吴侯千岁！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "众卿平身。"
+        },
+        {
+          "character": "张昭、诸葛谨、步隲、阚泽",
+          "type": "同白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "孙权",
+          "type": "念",
+          "text": "承父兄业守江东，人杰地灵称英雄。刘备借去荆州地，久据不还恼心中。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "孤，姓孙名权字仲谋。承父兄基业，虎踞江东。当年赤壁鏖兵，得了荆襄九郡。 可恨刘备，借去荆州，屯兵养马，久据不还，欺人忒甚。今日设立早朝，商 议讨回荆州之策。"
+        },
+        {
+          "character": "张昭",
+          "type": "白",
+          "text": "臣启吴侯：今有曹操，命满宠前来求和，现在殿角候旨。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "代孤传旨，满宠上殿。"
+        },
+        {
+          "character": "张昭",
+          "type": "白",
+          "text": "满宠上殿。"
+        },
+        {
+          "character": "满宠",
+          "type": "内",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "满宠上。"
+        },
+        {
+          "character": "满宠",
+          "type": "念",
+          "text": "离了许昌地，求和到东吴。"
+        },
+        {
+          "character": "满宠",
+          "type": "白",
+          "text": "满宠见驾，吴侯千岁。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "罢了。先生驾临江东，有何见教？"
+        },
+        {
+          "character": "满宠",
+          "type": "白",
+          "text": "奉了我主之命，前来议和，现有书信呈上。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张昭接信递与孙权。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "曹公有书信到来，待孤拆开一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急三枪〗。孙权观书信。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "请满先生暂到迎宾馆待茶，容我君臣商议。"
+        },
+        {
+          "character": "满宠",
+          "type": "白",
+          "text": "告退。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "满宠下。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "众卿！曹操差满宠前来，会同东吴合攻荆州，众卿之意如何？"
+        },
+        {
+          "character": "步隲",
+          "type": "白",
+          "text": "臣有一计献上。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "卿家有何妙计？"
+        },
+        {
+          "character": "步隲",
+          "type": "白",
+          "text": "闻得关羽生有一女，甚为贤淑，我主世子，聪明过人。可命一人前去求婚，倘 若应允，孙刘合兵，共破曹操；若不成功，孙曹联盟，先取荆州，后破西蜀， 有何难哉。千岁圣裁。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "此计甚好，就命子瑜速往荆州求婚，联盟破曹，不得有误。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛瑾下。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "子布准备酒宴。款待满宠。退班。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四马夫过场。关平、廖化、王甫、周仓、四绿文堂、四上手、糜芳、傅士仁、马良、伊籍、关兴、赵累、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "关羽同上。）"
+        },
+        {
+          "character": "关羽",
+          "type": "引子",
+          "text": "绿袍金甲须似灰，凤目蚕眉美髯公。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "参见君侯。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "少礼，站下。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "谢君侯。"
+        },
+        {
+          "character": "关羽",
+          "type": "诗",
+          "text": "志气凌云贯斗牛，平生最喜读春秋。丈夫须抱凌云志，自然谈笑觅封侯。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某，汉室关。今奉大哥与军师将令，镇守荆州一带等处。可恨曹操，命曹仁据 守襄阳、樊城，久欲前去攻取，怎奈未奉大哥诏谕，未便妄动。我想荆州乃东 吴之地，未必就此罢休，为此每日操演人马，紧防对敌。 站堂军！"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "伺候了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启禀君侯：诸葛瑾求见。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唔呼呀！想诸葛瑾乃军师令兄，不可慢待。 来！"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "有请诸葛先生。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "有请诸葛先生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛瑾上。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "念",
+          "text": "奉了吴侯命，讲和来求亲。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "君侯在上，瑾大礼参拜。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "子瑜远道而来，只行常礼。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "哪有不拜之理。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "来！与先生看座。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "慢来，君侯帐下，哪有瑾的座位！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "远来贵客，焉有不坐之礼。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "谢座。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "先生到此，必有所为。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "恭喜君侯，贺喜君侯！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "何喜之有？"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "我主有一世子，聪明过人，闻得君侯令爱十分贤淑。瑾奉我主之命，前来求婚， 两家结为秦晋之好，共同破曹。望乞君侯，幸勿推辞。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "汝主犬子，岂配关某虎女？"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "公言犬子不配虎女。可记得令兄玄德公，在甘露寺招亲之事乎？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "子瑜大胆！"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮二六板",
+          "text": "闻言怒发三千丈， 一言怒恼关云长； 若不看军师诸葛亮， 定斩尔首级挂营房。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唗！胆大诸葛瑾，进得帐来，信口胡言。若不看有令弟之面，定要汝头。 来，叉出帐去！"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "出帐去吧！"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "念",
+          "text": "用手捧尽湘江水，难洗今朝满面羞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛瑾下。"
+        },
+        {
+          "character": "廖化",
+          "type": "白",
+          "text": "二君侯失计了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "廖化",
+          "type": "白",
+          "text": "诸葛瑾前来提亲，君侯既不应允，就该用善言回复，不该将他羞辱一场。他今 回去，定在孙权面前，搬动是非。倘若孙曹合兵，同取荆州，岂不又费波折。 望君侯从速准备应敌，以防措手不及。君侯三思。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "瓮中之水，能起多大波浪；蝼蚁之辈，焉能撼动泰山。且勿多言。 掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、步隲、张昭、孙权上。"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮散板",
+          "text": "子瑜荆州去求婚， 但愿相去把功成。 誓扫中原烟尘定， 同心破曹方趁心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛谨上。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "西皮散板",
+          "text": "可恨关羽言不顺， 上殿启奏我主君。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "参见主公。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "子瑜回来了，提亲之事如何？"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "关羽不允亲事，反而出言不逊，臣未敢冒奏。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "无妨，只管奏来。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "是他言道：虎女不配犬子。并将为臣羞辱一场。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "可恼哇，可恼！"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮散板",
+          "text": "恼恨关羽言不逊， 不该胡云伤孤身。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "可恨关羽品出不逊，藐视东吴，欺孤忒甚，众卿有何对策？"
+        },
+        {
+          "character": "张昭",
+          "type": "白",
+          "text": "臣启主公：既然如此，正好命满宠回复曹公，照书行事，孙曹合兵，攻打荆州。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "卿言正合孤意，满先生上殿。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "满面先生上殿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "满宠上。"
+        },
+        {
+          "character": "满宠",
+          "type": "白",
+          "text": "参见吴侯。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "罢了！拜上你主，照书行事，请速进兵，先取荆州，后破西蜀。"
+        },
+        {
+          "character": "满宠",
+          "type": "白",
+          "text": "告退。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "满宠下。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "众卿！不知命何人挂帅，方可当此重任？"
+        },
+        {
+          "character": "步隲",
+          "type": "白",
+          "text": "速调吕蒙还朝议事，就命子明挂帅，必然成功。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "子布替孤传旨，速调子明还朝议事。"
+        },
+        {
+          "character": "张昭",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "退班。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平、周仓同上。"
+        },
+        {
+          "character": "关平、周仓",
+          "type": "同念",
+          "text": "父子同心秉忠义，扶保汉室锦乾坤。"
+        },
+        {
+          "character": "费诗",
+          "type": "内白",
+          "text": "诏命下。"
+        },
+        {
+          "character": "关羽",
+          "type": "内",
+          "text": "香案接诏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂引关羽、费诗同上。众将自两边分上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "司马为何不开读？"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "有密言相告，请过圣命。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "香案供奉。司马有何密言？当面赐教。"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "主公进位汉中王了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某大哥进位汉中王，封某何职？"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "五虎上将之首。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "五虎将不知都是何人？"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "关、张、赵、马、黄。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "关、张、赵、马、黄？翼德，我弟也。子龙久随大哥，建立功勋，犹我弟也。 孟起世代名家。黄忠老儿乃长沙一武夫耳，焉能与某等并列？关某不受此爵。"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "二君侯此言差矣！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "二君侯何必计位高下，昔日高祖与萧、曹共议大事，韩信乃楚国之亡将耳，后 封三齐王，并未曾闻萧、曹争过爵位。汉中王与君侯亲同手足，视为一体，汉 中王即君侯，君侯即汉中王。君侯受汉中王厚恩，当与同共休戚，不宜计较官 爵之高下，望君侯三思。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唔呼呀！若不是司马明言指教，险误大事，看印拜过。"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "现有密旨一道，命二君侯攻打襄阳、樊城。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "领旨。 糜芳、傅士仁听令！"
+        },
+        {
+          "character": "糜芳、傅士仁",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "命你二人以为前站先锋，城外扎营，听候调遣。"
+        },
+        {
+          "character": "糜芳、傅士仁",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜芳、傅士仁同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "备有酒宴与司马同饮。"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "到此就要叨扰。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "关平把盏。 司马请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启禀君侯：城外营中失火。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "关平听令！"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "速往城外查看。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "司马请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平上。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "启父王：糜芳、傅士仁纵军饮酒，自不小心，因而起火，伤损粮草军器炮火， 死伤本部军卒数名。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "噢！竟有这等事，将他二人抓来见我。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "司马请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平上。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "糜芳、傅士仁传到。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "周将！"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "叫他二人报门而进。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜芳、傅士仁同上。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "嘚！糜芳、傅士仁，君侯叫你二人报门而进。要仔细了！要打点了！ 报门！"
+        },
+        {
+          "character": "糜芳、傅士仁",
+          "type": "同白",
+          "text": "报！（糜芳）（傅士仁）告进！参见君侯。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "唗！你二人竟敢纵军饮酒，伤损本部军卒，推出斩了！"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "且慢！用兵之际，斩将不利。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "司马敢是与他二人讲情？"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "君侯开恩！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "看在司马份上，每人重责四十军棍。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手押糜芳、傅士仁同下，责打，同上。"
+        },
+        {
+          "character": "糜芳、傅士仁",
+          "type": "同白",
+          "text": "谢君侯的责！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "撤回先锋大印，命你二人镇守公安、南郡，若有差错，提头来见。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "出去！"
+        },
+        {
+          "character": "糜芳、傅士仁",
+          "type": "同白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜芳、傅士仁同下。"
+        },
+        {
+          "character": "廖化",
+          "type": "白",
+          "text": "启君侯：想糜芳、傅士仁既然重用，就不该责打；今犯军令，撤去先锋之职， 又不该再为重用。想公安、南郡，乃荆州之命脉，倘若二人心怀二意，则荆州 危矣。赵累将军，为人忠正，不如命他将糜、傅二人换回，望君侯思之。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某素知他二人行为，既已派定，不须更改。"
+        },
+        {
+          "character": "费诗",
+          "type": "白",
+          "text": "下官告辞。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "恕不远送。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂引费诗同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "廖化听令。"
+        },
+        {
+          "character": "廖化",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "命你以为前站先锋。"
+        },
+        {
+          "character": "廖化",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "关平以为副将。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "马良、伊籍听令。"
+        },
+        {
+          "character": "马良、伊籍",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "以为随军参谋。"
+        },
+        {
+          "character": "马良、伊籍",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "余下之将，随营调遣。掩门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜芳、傅士仁同上。"
+        },
+        {
+          "character": "糜芳",
+          "type": "白",
+          "text": "将军受屈了！"
+        },
+        {
+          "character": "傅士仁",
+          "type": "白",
+          "text": "彼此一样，只是当着满营众将面前受责，十分可恨，你看关公近日性情高傲， 你我不如投——"
+        },
+        {
+          "character": "糜芳",
+          "type": "白",
+          "text": "噤声！投什么？"
+        },
+        {
+          "character": "傅士仁",
+          "type": "白",
+          "text": "投顺东吴，你意如何？"
+        },
+        {
+          "character": "糜芳",
+          "type": "白",
+          "text": "正合吾意，但等东吴攻取荆州之时，顺水推舟，将公安、南郡献与东吴，关公 可擒也！正是："
+        },
+        {
+          "character": "糜芳",
+          "type": "念",
+          "text": "量小非君子，"
+        },
+        {
+          "character": "傅士仁",
+          "type": "念",
+          "text": "无毒不丈夫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜芳、傅士仁同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、法正同上。"
+        },
+        {
+          "character": "法正",
+          "type": "白",
+          "text": "下官法正。今奉汉中王之命，去往荆州传旨。 军士们！"
+        },
+        {
+          "character": "四文堂",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "法正",
+          "type": "白",
+          "text": "趱行者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手、关羽同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮散板",
+          "text": "某家兴兵谁敢挡， 威风凛凛镇荆襄。 但愿烟尘齐扫荡， 扭转汉室锦家邦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众将同上。"
+        },
+        {
+          "character": "众将",
+          "type": "白",
+          "text": "启君侯：圣旨下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "香案接旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "法正上。"
+        },
+        {
+          "character": "法正",
+          "type": "白",
+          "text": "圣旨下跪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、众将同跪下。"
+        },
+        {
+          "character": "关羽、众将",
+          "type": "同白",
+          "text": "万岁。"
+        },
+        {
+          "character": "法正",
+          "type": "白",
+          "text": "跪听读诏曰：汉中王有旨，命二将军攻打襄阳、樊城。旨意读罢，望诏谢恩。"
+        },
+        {
+          "character": "关羽、众将",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "法正",
+          "type": "白",
+          "text": "请过圣命。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "香案供奉。太傅一路之上，多受风霜之苦。"
+        },
+        {
+          "character": "法正",
+          "type": "白",
+          "text": "为国效劳，何言辛苦。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "后堂留宴。"
+        },
+        {
+          "character": "法正",
+          "type": "白",
+          "text": "朝命在身，不敢久停，告辞。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "奉送。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引法正同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "关平听令！"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "攻打头阵。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "得令！带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引关平同下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "众将",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "各带器械，随某出战者。"
+        },
+        {
+          "character": "众将",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹洪、张辽、许褚、文聘、夏侯惇、于禁、李典、乐进同起霸上。"
+        },
+        {
+          "character": "众曹将",
+          "type": "粉蝶儿",
+          "text": "中原纷纷起战争， 烟尘四起马不停。 协力同心扶社稷， 封妻荫子报君恩。"
+        },
+        {
+          "character": "众曹将",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "张辽。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "许褚。"
+        },
+        {
+          "character": "文聘",
+          "type": "白",
+          "text": "文聘。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "夏侯惇。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "曹洪。"
+        },
+        {
+          "character": "于禁",
+          "type": "白",
+          "text": "于禁。"
+        },
+        {
+          "character": "李典",
+          "type": "白",
+          "text": "李典。"
+        },
+        {
+          "character": "乐进",
+          "type": "白",
+          "text": "乐进。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "众位将军请了！"
+        },
+        {
+          "character": "众曹将",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "元帅升帐，两厢伺候。"
+        },
+        {
+          "character": "众曹将",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手、曹仁同上。点绛水龙吟牌。"
+        },
+        {
+          "character": "众曹将",
+          "type": "同白",
+          "text": "参见元帅。"
+        },
+        {
+          "character": "曹仁",
+          "type": "白",
+          "text": "站立两厢。"
+        },
+        {
+          "character": "曹仁",
+          "type": "念",
+          "text": "大将生来盖世无，要与国家立帝都。统领中原人和马，杀却刘备灭东吴。"
+        },
+        {
+          "character": "曹仁",
+          "type": "白",
+          "text": "本帅曹仁。奉了魏王旨意，镇守襄阳、樊城，闻得关羽进兵来犯，也曾命人打 探，未见回报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "关平讨战。"
+        },
+        {
+          "character": "曹仁",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "曹仁",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "曹仁",
+          "type": "白",
+          "text": "带马，杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同上马，出城，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、关平、众曹将、曹仁自两边分上。会阵，关平败下，曹仁追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四旗手、马良、王甫、赵累、周仓同上，站门。马童翻引关羽同上。众人转场同下。马童自下场门斜场翻"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "上。关羽亮相。马童引关羽同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（关平上，曹仁追上，开打，关平败下。于禁、曹洪、文聘、李典同上，关羽上，交战。四将同败下，关羽"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "下。关平过场下。曹仁追上，关羽挡住，交战，曹仁败下，关羽亮相下。兵追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、六曹将、曹仁同上。"
+        },
+        {
+          "character": "曹仁",
+          "type": "白",
+          "text": "兵撤樊城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "下场门扯城。众曹将出城同下。四旗手、四关将、关羽上，同进城。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "启父王：襄阳已得。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "挂榜安民。王甫听令！"
+        },
+        {
+          "character": "王甫",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "沿江一带，或三十里，或二十里，选高冈之处，建造烽火台，若有吴兵偷袭， 日则放烟，夜则举火，某当亲往击之。"
+        },
+        {
+          "character": "王甫",
+          "type": "白",
+          "text": "得令，带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王甫下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "赵累听令！"
+        },
+        {
+          "character": "赵累",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "攻打樊城！"
+        },
+        {
+          "character": "赵累",
+          "type": "白",
+          "text": "得令，带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵累下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "关平听令！"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "坐镇襄阳！"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "攻打樊城。 （马童扛刀带马，关羽出门转身，抄刀提左右贴上马亮相。扯城。众人反领出城同下。关羽左走反圆场，随 众人同出城，停步抖刀，面向上场门亮相。）"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "送父王。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "小心防守。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽自上场门下。关平进城下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

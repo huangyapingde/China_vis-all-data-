@@ -1,0 +1,1350 @@
+{
+  "script_id": "02008052",
+  "title": "九龙峪",
+  "alias": [],
+  "source": "《国剧大成》",
+  "characters": [
+    {
+      "name": "詹重阳",
+      "hangdang": "旦"
+    },
+    {
+      "name": "杨延昭",
+      "hangdang": "老生"
+    },
+    {
+      "name": "柴郡主",
+      "hangdang": "旦"
+    },
+    {
+      "name": "詹免",
+      "hangdang": "丑"
+    },
+    {
+      "name": "詹尤吉",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "杨延昭自在九龙峪战败，独坐营中，闷闷不乐。适王夫人进帐，谓河东老将詹尤吉之女名重阳，言与元帅曾\n定姻缘，特来认夫。并谓詹重阳武艺超群，若能收下，可保宋王回朝。杨延昭谓如此当可收下，但须再问柴\n郡主一次。不意杨延昭至柴郡主处，柴郡主则坚决不允。杨延昭不得已乃径往詹营佯为招亲，将詹老将刺死。\n詹重阳大怒，直杀进宋营，如入无人之境，且至八千岁赵德芳住所。赵德芳不得已，乃免杨延昭职，改拜\n詹重阳为帅。萧天佐派鞠化龙前来讨战，詹重阳亲自出战，枪杀洒纳金、洒纳银，并将鞠化龙击退云。",
+  "notes": "按此剧剧情，颇不伦类，究竟何所根据，无从考证。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨延昭上。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "西皮导板",
+          "text": "南宋、北国二君王，"
+        },
+        {
+          "character": "杨延昭",
+          "type": "唱",
+          "text": "各为其主摆战场。 我国有个宋皇上， 北国有个天庆王。 他有韩延寿来韩延广， 宋王爷全凭我杨六郎。 他有萧天佐佑二员将， 我有焦赞和孟良。 九龙峪口交一仗， 战贼不胜败回营房。 免战牌挂在营门上， 候大兵到来摆战场。 本帅且坐中军帐， 见一部古书看端详。 前三皇后五帝历代皇上， 有一个商纣王乱了朝纲。 将文臣和武将尽行斩丧， 好一个老比干剖心而亡。 贾氏夫人坠楼死， 黄家父子反出朝堂。 周文王夜得梦飞熊入帐， 渭水河访子牙扶保龙床。 观兵书无良谋自思自想， 又听得小军报吉祥。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小军上。"
+        },
+        {
+          "character": "小军",
+          "type": "白",
+          "text": "王夫人到。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "小军",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王夫人上。"
+        },
+        {
+          "character": "王夫人",
+          "type": "唱",
+          "text": "忽听三军一声请， 见了元帅礼相迎。"
+        },
+        {
+          "character": "王夫人",
+          "type": "白",
+          "text": "妾身有礼。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "还礼。请坐。"
+        },
+        {
+          "character": "王夫人",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "夫人来在前营何事？"
+        },
+        {
+          "character": "王夫人",
+          "type": "白",
+          "text": "河东詹尤吉有一女名曰重阳，乃是元帅先定姻缘。如今打了认夫旗号，前来认 夫。元帅为何不收留？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "那女子韬略如何？"
+        },
+        {
+          "character": "王夫人",
+          "type": "白",
+          "text": "那女将呵！"
+        },
+        {
+          "character": "王夫人",
+          "type": "唱",
+          "text": "河东有一詹老将， 所生一女叫重阳。 枪挑刘英太子丧， 她的威名天下扬。 元帅若是收女将， 保定贤爷回朝堂。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "唱",
+          "text": "夫妻二人把话讲， 可敬夫人甚贤良。 若要本帅收女将， 要与宫主作商量。"
+        },
+        {
+          "character": "王夫人",
+          "type": "唱",
+          "text": "辞别元帅出宝帐， 快快去请那重阳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王夫人下。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "唱",
+          "text": "王夫人适才对我讲， 见了宫主作商量。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨延昭下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴郡主上。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "唱",
+          "text": "昨日阵前打败仗， 丫头武艺果然强。 满营将官纷纷讲， 笑坏焦赞、孟伯苍。 闷恹恹且坐中军帐， 耳听小军报其详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小军上。"
+        },
+        {
+          "character": "小军",
+          "type": "白",
+          "text": "元帅到。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "小军",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨延昭上。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "唱",
+          "text": "吃王爵禄难消受， 为国忘家作马牛。 本帅来到宝帐口， 夫妻见面礼相酬。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "郡马请坐。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "宫主请坐。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "郡马来在后帐何事？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "河东有一詹尤吉，所生一女名曰重阳，乃是本帅先定之家。前来与宫主商议， 要去招赘。宫主意下如何？"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "那女将的武艺可好？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "那女将韬略呵！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "唱",
+          "text": "河东有一詹老将， 所生一女称豪强。 枪挑刘英太子丧， 她的威名天下扬。 本帅若是收女将， 好保千岁回朝堂。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "唱",
+          "text": "元帅把话错来讲， 有派古人听心旁： 昔日有个樊老将， 所生梨花称豪强。 丁山收她进唐寨， 后来三次反大唐。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "唱",
+          "text": "宫主把话错来讲， 本帅言来听心旁： 重阳怎比梨花将？ 本帅怎比薛丁郎？"
+        },
+        {
+          "character": "柴郡主",
+          "type": "唱",
+          "text": "贤爷围困边关上， 君臣不能回朝廊。 谁人大胆收女将， 取他首级挂营房。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴郡主下。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "唱",
+          "text": "宫主不服人枱量， 开言动语把人伤。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "且住！宫主不肯收那重阳，如何是好？吓，有了。不免跨马提枪，去到詹营， 枪挑詹老将，激那重阳兵兴前来。 宫主吓宫主，我看你怎样抵敌！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "唱",
+          "text": "三军与爷把马顺， 詹营儿郎听分明。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "呔！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "詹免上。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "六姑爷前来招亲的。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "着！这才是正京古子皮，少站。 有请爷爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "詹尤吉上。"
+        },
+        {
+          "character": "詹尤吉",
+          "type": "念",
+          "text": "营门高结彩，等候新人来。"
+        },
+        {
+          "character": "詹尤吉",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "六姑爹前来招亲。"
+        },
+        {
+          "character": "詹尤吉",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "詹尤吉",
+          "type": "白",
+          "text": "将军在哪里？那枪马怎么不除？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "念",
+          "text": "相逢不下马，上前有话讲。"
+        },
+        {
+          "character": "詹尤吉",
+          "type": "白",
+          "text": "有何话讲？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "站近前来。去罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨延昭下。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "我姑爹将我爷爷刺死。不免报与姑娘得知！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "詹免下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "詹重阳上。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "唱",
+          "text": "行不安来坐不定， 心惊眼跳为何情？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "詹免上。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "哎呀，姑娘不好了！我六姑爹将我爷爷一枪刺死了！"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "带路！"
+        },
+        {
+          "character": "詹重阳",
+          "type": "唱",
+          "text": "见尸不由肝肠断， 犹如钢刀刺心间。 将尸暂且来停站， 杀到宋营报仇冤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨延昭上，杀，下。柴干上，杀，下。陈琳上，杀，下。柴郡主上，杀，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四文堂、赵德芳同上，杨延昭、柴郡主同上。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "胆大的重阳女，杀到本御的御营来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "詹重阳、詹免同上。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "杀到你龟窝里来了么。"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "呔！"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "我父女好意前来投宋，收与不收，凭在郡马。为何枪刺我父？"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "郡马，他父女前来投宋，收与不收，但凭与你。为何将他父亲刺死？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "这个甚么？杨家女婿辈辈杀丈人！"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "呔，那个柴班头。"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "柴郡主。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "你说杨家女婿辈辈杀丈人。我六姑爷，就没有杀你父亲了。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "我们是王位家。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "你们王八家该说！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "王子家。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "我们龟子家该死？"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "臣子家。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "臣子家。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "还要收她进营。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "收她进营，拜个大小。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "收你进营，拜个大小。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "拜印不拜人。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "拜人不拜印。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "拜印不拜人。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "将印拜过来再说。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "千岁，叫重阳交印上来。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "重阳，交印上来。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "詹免，交印上去。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "哪个交印上去？待我说几句。 千岁，想这印一非是千岁所赐，二非是皇娘所赠，是我姑娘一再两拜，拜过来 的印。休印，免印，我詹免身怀有孕。"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有印。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "有印。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "千岁，叫她交剑上来。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "重阳，交剑上来。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "詹免，千岁叫我们交剑上去。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "姑娘怎不说几句？"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "姑娘没有话讲。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "站开，待我来吓！ 千岁要这口剑，一非是千岁赐的，二非是皇娘赠的，是我姑娘两军阵前杀过来 的。你如今要剑，休剑，免剑，你们不见。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "挂何人为帅，保本御回朝？"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "不是挂我为帅，保千岁回朝？"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "先前挂你为帅，怎不保孤回朝。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "这个什么。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "你与我作不了主。"
+        },
+        {
+          "character": "赵德芳",
+          "type": "白",
+          "text": "你与我争不了气！ 挂重阳为帅，大战鞠化龙。打扫将台。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四文堂、赵德芳、杨延昭、柴郡主同下。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "打扫将台。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "詹重阳、詹免同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨延昭、陈琳、柴干、柴郡主同上。〖点绛唇〗。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "元帅点将，在此伺候。"
+        },
+        {
+          "character": "陈琳、柴干",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠、四文堂、四上手、詹免、詹重阳同上。〖点绛唇〗。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "念",
+          "text": "话不投机理不通，一口怨气在胸中。今日挂了元帅印，杀却皇宫女姣容。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "本帅，詹氏重阳。八千岁挂我为帅，大战九龙峪。众将站立两旁，听本帅一令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "陈琳听令。"
+        },
+        {
+          "character": "陈琳",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "有令一支，逢山开路。"
+        },
+        {
+          "character": "陈琳",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈琳下。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "柴干听令。"
+        },
+        {
+          "character": "柴干",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "遇水搭桥。"
+        },
+        {
+          "character": "柴干",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴干下。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "柴郡主听令。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "柴郡主听令。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "有令一支，攻打头阵。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "拿过来。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "动不得的。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴郡主下。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "郡马听令。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "郡马听令。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "郡马也听令？"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "大家听听热闹些。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "胆大的杨郡马，见了本帅为何不跪？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "谁来跪你。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "詹免。打倒！"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "哈，短了半头。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "唱",
+          "text": "见郡马不由人怒生嗔， 枪刺我父为何情？ 一把宝剑丢在地， 或生或死任你行！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "唱",
+          "text": "自从盘古到如今， 领兵元帅跪妇人。 一把宝剑项上刎， 不如一命丧幽冥。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "吓，你妻子与你作耍的。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "我也是作耍的。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "作与我看的。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "詹免听令。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "哪哪个爷爷在世，叫我不要离你的左右。怎么叫我听令？"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "违令者斩。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "拿过来。我去了与你二人行个方便。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "詹免下。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "郡马，我要加你。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "本帅岂是加得的？"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "加你掌部的官。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈琳上。"
+        },
+        {
+          "character": "陈琳",
+          "type": "白",
+          "text": "交令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈琳下。柴干上。"
+        },
+        {
+          "character": "柴干",
+          "type": "白",
+          "text": "交令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴干下。柴郡主上。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "唱",
+          "text": "今日出兵打败阵， 羞愧难当回大营。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "胜败如何？"
+        },
+        {
+          "character": "柴郡主",
+          "type": "唱",
+          "text": "败下阵来。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "唗！"
+        },
+        {
+          "character": "詹重阳",
+          "type": "唱",
+          "text": "未曾兴兵先败阵， 失了本帅大威名。 叫人来与我上了捆，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小军自两边分上。"
+        },
+        {
+          "character": "四小军",
+          "type": "同白",
+          "text": "吓。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "唱",
+          "text": "取她首级挂营门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小军、柴郡主同下。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "元帅，她乃是八千岁……"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "敢是讲情？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "元帅施恩。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "放下来。"
+        },
+        {
+          "character": "四小军",
+          "type": "内同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴郡主上。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "谢元帅不斩之恩。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "郡马讲情。有大令一支，保八千岁回朝去罢。"
+        },
+        {
+          "character": "柴郡主",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴郡主下。詹免上。"
+        },
+        {
+          "character": "詹免",
+          "type": "念",
+          "text": "番营走一遭，立下大功劳。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "交令。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "詹免回来了？"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "有何功劳？"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "奉了将令去到番营，都去打战去了，无有一人。只见一个小孩子在那里啼哭， 是我照屁股一枪，扎来了。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "他可走得动？"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "要扒得动，我也扎不来。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "也有功。"
+        },
+        {
+          "character": "詹免",
+          "type": "白",
+          "text": "谢姑娘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "番兵骂阵。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "起兵前去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠、四上手自两边分上，四大铠、四上手、詹重阳、杨延昭同下。四小军、洒纳金同上。"
+        },
+        {
+          "character": "洒纳金",
+          "type": "念",
+          "text": "喜的牛羊肉，爱的大喽啰。"
+        },
+        {
+          "character": "洒纳金",
+          "type": "白",
+          "text": "俺，洒纳金。领了元帅将令攻打头阵。 众巴嘟，杀上前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "会阵。四上手、四大铠、杨延昭、詹重阳同上。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "来将通名。"
+        },
+        {
+          "character": "洒纳金",
+          "type": "白",
+          "text": "洒纳金。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "去罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小军、洒纳银同上。"
+        },
+        {
+          "character": "洒纳银",
+          "type": "念",
+          "text": "咱家生来胆大，见了世人不怕。"
+        },
+        {
+          "character": "洒纳银",
+          "type": "白",
+          "text": "俺，洒纳银。领了元帅将令，攻打二阵。 众番儿，杀上前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "会阵。四大铠、杨延昭、詹重阳同上。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "来将通名。"
+        },
+        {
+          "character": "洒纳银",
+          "type": "白",
+          "text": "洒纳银。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "元帅杀了再上。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "上了再杀。去罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "念",
+          "text": "头戴烟毡黑悠悠，身穿铁铠雄纠纠。一年四季吃粮饷，要与元帅报从头。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "俺，走马长探。打听宋营女将连伤二员大将，不免报与元帅得知。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四马甲、四下手、鞠化龙同上。〖风入松〗。鞠化龙坐高台。"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "念",
+          "text": "两眼明星朗朗，一声虎背昂昂。杀人祭起满天钢，各国闻名胆丧。"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "白",
+          "text": "本帅鞠化龙。萧太后驾下为帅。奉旨镇守九龙峪，也曾命探子四路打探，未见 回报。 众将，伺候了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "念",
+          "text": "马上銮铃响，下马报端详。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报，探子进。 探子叩头。"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "白",
+          "text": "哪路军情，快快报来。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "打听宋营女将连挑二员大将。特来报知。"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "白",
+          "text": "兵势如何？"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "兵势呵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "白",
+          "text": "赏赐银牌一面，再探再报。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "白",
+          "text": "吓！好一丫头，连伤二员大将。 众将官，起兵前去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "会阵。四上手、四大铠、杨延昭、詹重阳同上。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "来将通名。"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "白",
+          "text": "本帅鞠化龙。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "元帅杀了再上。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "慢着。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨延昭下。"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "白",
+          "text": "胆大丫头，连伤我营二员大将。本帅今日到此，叫你马前受死。"
+        },
+        {
+          "character": "詹重阳",
+          "type": "白",
+          "text": "胡说。 众将，列开旗门！"
+        },
+        {
+          "character": "詹重阳",
+          "type": "西皮导板",
+          "text": "列开旗门摆开队，"
+        },
+        {
+          "character": "詹重阳",
+          "type": "唱",
+          "text": "一来一往逞雄威。 劝儿收兵早散队， 少时把儿性命追。"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "西皮导板",
+          "text": "尔比山来爷比月，"
+        },
+        {
+          "character": "鞠化龙",
+          "type": "唱",
+          "text": "山高怎能把日遮？ 大海之中龙摆尾， 强龙不压地头蛇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "詹重阳、鞠化龙同杀。鞠化龙下。杨延昭上。"
+        },
+        {
+          "character": "四上手、四大铠",
+          "type": "同白",
+          "text": "番将已灭。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "收兵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

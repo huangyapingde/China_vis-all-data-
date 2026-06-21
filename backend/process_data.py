@@ -68,7 +68,7 @@ for main, subs in HANGDANG_SUBCATEGORIES.items():
 
 def load_all_scripts():
     scripts = []
-    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "*.json"))):
+    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "**/*.json"), recursive=True)):
         with open(fpath, "r", encoding="utf-8") as f:
             data = json.load(f)
         scripts.append(data)

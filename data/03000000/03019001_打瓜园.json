@@ -1,0 +1,2130 @@
+{
+  "script_id": "03019001",
+  "title": "打瓜园",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "陶三春",
+      "hangdang": "武旦"
+    },
+    {
+      "name": "郑子明",
+      "hangdang": "净"
+    },
+    {
+      "name": "陶洪",
+      "hangdang": "武丑"
+    }
+  ],
+  "plot": "五代时，郑子明尚未发迹，卖油为业。一日路过瓜园，摘取西瓜解渴。园主陶洪之女陶三春阻止，言语不和，\n二人动武。使女恐陶三春不敌，急回报信，陶洪赶至，将郑子明打服。因爱郑子明英勇，遂以女陶三春妻\n之。",
+  "notes": "此本为阎岚秋（九阵风）先生生前演出本。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "店家",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店家上。"
+        },
+        {
+          "character": "店家",
+          "type": "数板",
+          "text": "开店房，开店房，唯有开店不是行。白天迎接来往客，等到夜晚打更梆、打更 梆。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "我，俞泽县小二哥便是。在此地开了一座店房，买卖倒也不错。前两天来了一 个黑小子，住在我这店里，天天跟我要吃要喝。看今日天气晴和，叫他出去做 买卖去，卖回俩钱来，也好还我的店饭账。 我说二爷起来没有？大热的天，出来凉快凉快！"
+        },
+        {
+          "character": "郑子明",
+          "type": "内白",
+          "text": "啊咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明上。"
+        },
+        {
+          "character": "郑子明",
+          "type": "念",
+          "text": "自幼生来胆气高，雌雄二目放光毫。贩卖香油本钱少，带卖镇江好膏药。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "二爷您起来啦？坐着，坐着！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "店家把咱请了出来，是吃酒还是用饭？"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "好哇！张着嘴睡来着。 二爷您得出去做买卖去！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "店家，看天气这样炎热，叫咱出去做买卖，咱是不去。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "怎么着，您不去？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "咱不去。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "您不去，咱们对饿着。您做买卖卖米，卖了钱，您想吃什么，不是有什么吗？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "好，如此将咱油担担了过来！"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "店家，咱做买卖回来，咱要吃“鱼儿钻沙”。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "您想吃什么吃什么。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店家下。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "好，咱去也！"
+        },
+        {
+          "character": "郑子明",
+          "type": "唱",
+          "text": "郑子明出店用目观望， 青是山绿是水好不清凉。 将担儿挑之在肩头以上， 吆唤一声香油我不打梆。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "小磨香油！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春上。"
+        },
+        {
+          "character": "陶三春",
+          "type": "引子",
+          "text": "懒学针黹，习拳棒，韬略胸藏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫头同上。"
+        },
+        {
+          "character": "陶三春",
+          "type": "念",
+          "text": "描龙刺凤女裙钗，满腹经纶藏在怀。闲来无事观书卷，妆残懒得启妆台。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "奴家陶三春。爹爹陶洪，大哥陶龙，二哥陶虎，俱做这瓜园生理。今日乃是娘 舅寿诞之日，二位兄长前去上寿，是奴家一人在此闷闷不乐。不免将秃丫头唤 来，想个法子玩耍。 秃丫头哪里？"
+        },
+        {
+          "character": "四丫头",
+          "type": "同白",
+          "text": "秃丫头，秃丫头！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头上。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "念",
+          "text": "忽听姑娘唤，迈步到跟前。 参见姑娘！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "多谢姑娘。将我秃丫头唤来，有何吩咐？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "今日你姑娘闷闷不乐，将你唤来，想个法子玩耍玩耍才好。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "您叫我来想个法子玩耍玩耍？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "咱们踢球？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "不好。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "咱们打弹儿？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "不好。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "要不然，咱们上瓜园玩去吧！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "好，如此带路！"
+        },
+        {
+          "character": "陶三春",
+          "type": "唱",
+          "text": "轻移莲步出绣房， 散闷开心也无妨。 丫鬟带路瓜园往，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春、秃丫头、四丫头同走小圆场。"
+        },
+        {
+          "character": "陶三春",
+          "type": "唱",
+          "text": "一片青苗蜂蝶忙。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "您瞧这瓜长得有多么大啦！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "真不小啦。你们在这看着瓜，我到瓜棚里凉快凉快。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "您去吧，我在这儿看着。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春下。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "咱们干什么玩？"
+        },
+        {
+          "character": "四丫头",
+          "type": "同白",
+          "text": "咱们打花巴掌玩。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "好，咱们打呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫头同打。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "你怎么打我的脑袋呀！"
+        },
+        {
+          "character": "四丫头",
+          "type": "同白",
+          "text": "打的就是你那秃脑瓜子。"
+        },
+        {
+          "character": "郑子明",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明上。"
+        },
+        {
+          "character": "郑子明",
+          "type": "唱",
+          "text": "六月炎天似火烧， 浑身上下汗滔滔。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "嘿！咱上了店家的当了。天气这样炎热，叫咱出来做买卖，口中有些干渴，如 何是好？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明看。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "看那旁有一瓜园，不免摘瓜解渴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明摘，吃。"
+        },
+        {
+          "character": "四丫头、秃丫头",
+          "type": "同白",
+          "text": "怎么瓜秧动撼啦？咱们瞧瞧去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫头、秃丫头同看。"
+        },
+        {
+          "character": "四丫头、秃丫头",
+          "type": "同白",
+          "text": "那黑小子吃上啦！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "嘿！黑小子，那瓜好吃不好吃呀？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "这瓜倒也好吃。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "甜不甜？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "甜哪。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "拿来！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "要什么？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "要钱！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "老子就是没有钱！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "没有钱他还充老子，你们给姑娘送个信去！"
+        },
+        {
+          "character": "四丫头",
+          "type": "同白",
+          "text": "是啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫头同下。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "没有钱你别吃啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头踢郑子明手，瓜落。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "啊！为何将瓜踢掉？你赔俺，你赔俺！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "哈哈！你真不讲理。吃了我们的瓜，还叫我赔你。今儿你要不给钱，你秃姑姑 要揍你！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "哦，你要讲打？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "要揍你！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "好！比试比试。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明打。秃丫头下。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "好个秃丫头，俺还是吃瓜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头、四丫头、陶三春同上。"
+        },
+        {
+          "character": "四丫头、秃丫头",
+          "type": "同白",
+          "text": "就是他！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "是他？我问问他。"
+        },
+        {
+          "character": "四丫头、秃丫头",
+          "type": "同白",
+          "text": "您问问他。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "那一黑汉，是你吃了我们的瓜啦？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "咱吃的。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "好吃不好吃呀？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "倒也好吃。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "甜不甜呢？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "甜哪。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "他还知道甜！"
+        },
+        {
+          "character": "四丫头、秃丫头",
+          "type": "同白",
+          "text": "跟他要钱！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "拿来！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "要什么？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "要钱！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "老子没有钱！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "他没钱，他还充老子！"
+        },
+        {
+          "character": "四丫头、秃丫头",
+          "type": "同白",
+          "text": "他还充老子！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "没有钱，我要揍你！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "要讲打？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "要揍你！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "好，你我打呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明打。打三股档。陶三春、秃丫头同下。四丫头同接打，同败下。郑子明要下场下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "陶洪",
+          "type": "内白",
+          "text": "娃子们！"
+        },
+        {
+          "character": "四小童",
+          "type": "内同白",
+          "text": "有！"
+        },
+        {
+          "character": "陶洪",
+          "type": "内白",
+          "text": "打道场院！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小童引陶洪同上。"
+        },
+        {
+          "character": "陶洪",
+          "type": "念",
+          "text": "虽然年迈力刚强，亚赛幼年小儿郎。一身武艺无人挡，从来未曾见君王。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "老夫，陶洪。所生二男一女：长子陶龙，次子陶虎，小女三春。两个孩儿去往 娘舅家中上寿去了。老夫闲暇无事，带领娃子们来到场院演拳。 娃子们，将拳棒演习上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小童同演拳。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "闪开了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶洪演拳，打小童甲倒地。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "你不行啊！你来比试比试！"
+        },
+        {
+          "character": "小童乙",
+          "type": "白",
+          "text": "我不行！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "你不行！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶洪打小童乙倒。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "你也不行！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶洪打小童丙倒。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "你们一齐上手！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶洪打四小童均倒地。"
+        },
+        {
+          "character": "陶洪",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头上。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "老爷子，您还乐哪？了不得了！咱们瓜园来了一个黑小子，把咱们姑娘给揍啦！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "啊！黑汉子今在何处？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "他追来啦！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "带路，带路，带路！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶洪、四小童、秃丫头同走圆场。郑子明上。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "原来是个老头子！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "原来是个黑汉子！黑汉子你打俺女儿是何道理？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "你问这个吗？呸！呸！呸！连你也打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明、陶洪同起打。郑子明倒地。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "黑汉子起来！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "起来就起来。起来做哈？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "我且问你，你可敢打？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "你问谁？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "我问你。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "你问我，我打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明、陶洪同打。郑子明倒，蹲。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "黑汉子，你不行啊！又蹲下了。黑汉子起来！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "起来就起来。起来做啥？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "我且问你，你可敢打？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "你问谁呀？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "我问你呀！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "你问我呀？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "打？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "我——"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "打！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "我再也不敢打了！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "你不敢打了。黑汉子我谅你也不敢打。黑汉子，你不行啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶洪下，秃丫头持棍上。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "黑汉子，你不行啊！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "好你个秃丫头！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明、秃丫头同打。郑子明夺棍打秃丫头下。四丫头同上，同接打。四丫头同下。"
+        },
+        {
+          "character": "郑子明",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶洪持棍上。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "着打！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明倒。四丫头、秃丫头同上。"
+        },
+        {
+          "character": "四丫头、秃丫头",
+          "type": "同白",
+          "text": "打呀，打呀，打呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫头、秃丫头同下。龙形上，舞下。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "且住！黑汉子被咱一杠子打出一条龙来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头暗上，偷听。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "我看此人日后必有大富大贵，不免将小女三春终身之事许配与他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头暗下。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "黑汉子起来！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "我不打了，我不打了！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "咱不打你了。随老汉回到家去，有好言相告。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "你不用说，咱明白了。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "你明白何来？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "你将咱诓到你家，又是一顿饱打。你道是也不是？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "咱说不打你，就不打你了。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "当真？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "当真！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "果然？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "果然！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "老丈请！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "娃子们！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小童同上。"
+        },
+        {
+          "character": "四小童",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "挑了油担，家中去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小童同应，同挑油担下。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "我试试他的力量如何！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明掐陶洪腰。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "黑汉子，你这是做啥？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "我试试你的力量如何。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "黑汉子，你不行啊！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "嘿，我不行啊！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "来呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明、陶洪同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": "陶虎、陶龙",
+          "type": "内同白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四家丁引陶龙、陶虎同上。"
+        },
+        {
+          "character": "陶龙",
+          "type": "唱",
+          "text": "自幼生来胆气雄，"
+        },
+        {
+          "character": "陶虎",
+          "type": "唱",
+          "text": "爱习拳棒武艺能。"
+        },
+        {
+          "character": "陶龙",
+          "type": "唱",
+          "text": "弟兄奉了爹娘命，"
+        },
+        {
+          "character": "陶虎",
+          "type": "唱",
+          "text": "拜寿已毕转回程。"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "陶龙",
+          "type": "白",
+          "text": "陶龙。"
+        },
+        {
+          "character": "陶虎",
+          "type": "白",
+          "text": "陶虎。"
+        },
+        {
+          "character": "陶龙",
+          "type": "白",
+          "text": "奉了爹爹之命，去往娘舅家中拜寿。拜寿已毕，不免回去便了。"
+        },
+        {
+          "character": "陶龙",
+          "type": "唱",
+          "text": "娘舅带问父安宁，"
+        },
+        {
+          "character": "陶虎",
+          "type": "唱",
+          "text": "见了爹爹说分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶龙、陶虎、四家丁同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫头同上，同挖门。秃丫头、陶三春同上。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "姑娘，今天把您累着了吧？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "那不是你？人家吃一个西瓜，你跟人要钱。他要是有钱，就给咱们啦；因为他 没钱，才说出不讲理的话来。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "这么一说，是我捅的娄子啦！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "可不是你吗？幸亏老爷子去了。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "老爷子去啦，这么三比划两比划踢了他好几个跟头。我瞧出便宜来啦，我拿杠 子一打他，叫他把我的杠子给夺了过去，就这么一打我，您瞧打得我脑袋都糊 脓啦！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "你的脑袋真结实。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "老爷子急啦，一杠子就把他打躺下啦。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "打躺下，可怎么好哇？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "打的他身上拘挛拘挛就出来啦！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "什么呀？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "混屎虫。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "这脏劲儿的。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "就这么张牙舞爪的！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "你走开这儿吧！混屎虫哪有爪哇？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "大混屎虫。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "我看此人日后必有来历。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "混屎虫有什么来历呀？老爷子撅巴他哪。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "撅过来没有？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "撅巴过来啦。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "撅巴过来就好啦，省得打啦。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "撅巴过来可就与您有益啦。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "与我有什么益呀？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "哼，反正与您有益就得了嘛！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "老爷子回来啦！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "我说，嘿！就是老爷子一个人吗？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "还有那个黑小子哪。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "怎么着，那黑小子也来啦，姑娘这件事成啦。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请老爷子！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小童、郑子明、陶洪同上。陶三春打。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "哽！还不下去？哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫头、秃丫头、陶三春同下。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "壮士请来上坐！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "不敢！还是老丈请来上坐！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "适才在瓜园多有得罪！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "岂敢！请问老丈尊姓大名？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "老汉姓陶名洪。所生二男一女：长子陶龙，次子陶虎，小女三春。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "老丈，适才在瓜园那就是令嫒么？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "正是小女。"
+        },
+        {
+          "character": "郑子明",
+          "type": "京白",
+          "text": "好能耐！好本事！真好！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "岂敢！夸奖了。请问壮士尊姓大名？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "咱姓郑名恩字子明，在前面店中居住。天气炎热，店家叫咱出来做买卖，偶遇 令嫒，打得我这样。哎呀，惭愧呀！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "岂敢。请问壮士可曾娶过妻室？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "方才言过，孤身一人，哪里来的妻室！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "我有意将小女许配壮士，料无推辞了！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "老丈说哪里话来，想咱郑恩，孤身一人，卖油为生，在店中居住。"
+        },
+        {
+          "character": "郑子明",
+          "type": "京白",
+          "text": "实告您说吧，养活不过来呀！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "不妨事。成亲之后，就在老汉家中居住。你有这身武艺，定是国家栋梁之才， 日后必有出头之日。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "多谢老丈美意，咱应允了。岳父请上，受小婿一拜！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "不必拜了！哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "二位少爷回来啦。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "唤他们进来！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请二位大爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。陶龙、陶虎同上。"
+        },
+        {
+          "character": "陶龙",
+          "type": "念",
+          "text": "拜寿回家转，"
+        },
+        {
+          "character": "陶虎",
+          "type": "念",
+          "text": "见父问金安。"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "罢了。你舅父可好？"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "舅父好。问候爹爹金安！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "壮士请过来。这是老汉两个孩儿陶龙、陶虎。 儿呀，这是你妹丈。你等见过。"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "啊，妹丈！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "原来是二位大舅！"
+        },
+        {
+          "character": "陶龙、陶虎、郑子明",
+          "type": "同笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "请坐。 啊爹爹，此事从何而起？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "你哪里知道，只因你妹在瓜园玩耍，偶遇此人，争斗起来。为父与他们相劝， 我看此人武艺超群，因此将你小妹许配此人，倒也门户相对。"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "啊爹爹，何不择选良辰，与他二人拜堂成亲，也免得出入不便！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "今日就与他们拜堂。"
+        },
+        {
+          "character": "郑子明",
+          "type": "京白",
+          "text": "好，拿我衣帽来！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "啊，你那衣帽穿不得了！"
+        },
+        {
+          "character": "郑子明",
+          "type": "京白",
+          "text": "我就是那一件儿。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "四小童",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "取你大爷衣帽前来！"
+        },
+        {
+          "character": "小童甲",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小童甲下。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "唤傧相前来！"
+        },
+        {
+          "character": "小童乙",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小童乙下。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "唤秃丫头前来！"
+        },
+        {
+          "character": "小童丙",
+          "type": "白",
+          "text": "秃丫头，秃丫头，秃丫头！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头上。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "来了，来了，来了！ 老爷子有什么事？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "叫你姑娘妆饰好了，少时便要拜堂成亲。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "我早就知道有这回事。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "不要胡讲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头下。小童甲上。"
+        },
+        {
+          "character": "小童甲",
+          "type": "白",
+          "text": "衣帽取到。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "看衣更换！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。郑子明更衣。"
+        },
+        {
+          "character": "陶洪、陶龙、陶虎、郑子明",
+          "type": "同白",
+          "text": "请坐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小童乙上。"
+        },
+        {
+          "character": "小童乙",
+          "type": "白",
+          "text": "傧相唤到！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "唤他进来！"
+        },
+        {
+          "character": "小童乙",
+          "type": "白",
+          "text": "傧相前来！"
+        },
+        {
+          "character": "傧相",
+          "type": "内白",
+          "text": "啊哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "傧相上。"
+        },
+        {
+          "character": "傧相",
+          "type": "念",
+          "text": "傧相傧相，惯走四方。口念喜词，专管拜堂。"
+        },
+        {
+          "character": "傧相",
+          "type": "白",
+          "text": "参见老爷子！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "傧相",
+          "type": "白",
+          "text": "多谢老爷子。您把我给找来，有什么事呀？"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "今日你姑娘招赘，命你堂下赞礼。"
+        },
+        {
+          "character": "傧相",
+          "type": "白",
+          "text": "都是我的事啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "傧相作揖。"
+        },
+        {
+          "character": "傧相",
+          "type": "念",
+          "text": "栋梁喜爱栋梁才，红鸾照命天上来。从此子孙传万代，夫妻到老百年偕。"
+        },
+        {
+          "character": "傧相",
+          "type": "白",
+          "text": "搀新人拜堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头扶陶三春同上。"
+        },
+        {
+          "character": "傧相",
+          "type": "白",
+          "text": "先拜天地。后拜高堂。夫妻交拜。送入洞房。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春掀盖头看。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "不用瞧，还是那个黑小子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头扶陶三春同下。"
+        },
+        {
+          "character": "傧相",
+          "type": "白",
+          "text": "与老爷子叩喜！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "下面领赏！"
+        },
+        {
+          "character": "傧相",
+          "type": "白",
+          "text": "多谢老爷子！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "傧相下。"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "后面备酒，与爹爹贺喜！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "郑子明",
+          "type": "念",
+          "text": "今日相逢在瓜园，"
+        },
+        {
+          "character": "陶洪",
+          "type": "念",
+          "text": "千里姻缘一线牵。"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同念",
+          "text": "后来必有时运转，"
+        },
+        {
+          "character": "陶洪、陶龙、陶虎、郑子明",
+          "type": "同念",
+          "text": "从此父子保江山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫头、秃丫头、陶三春同上。"
+        },
+        {
+          "character": "陶三春",
+          "type": "唱",
+          "text": "老爹爹喜爱奴明珠一样。 每日里习针黹操练刀枪。 适才间在瓜园一时狂放， 引起了红鸾星匹配才郎。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "你们过来，过来！给姑娘叩喜头！"
+        },
+        {
+          "character": "四丫头",
+          "type": "同白",
+          "text": "给姑娘叩喜头！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "四丫头",
+          "type": "同白",
+          "text": "多谢姑娘！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "我说姑娘，老爷子也不是怎么啦，瞧您那花枝儿似的，怎么许配他呢？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "老爷子爱他武艺好。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "武艺好，您瞧他那长相！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "只要武艺好，不论人才长相。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "非但长相不好，他的脾气还不好哪。您得想个主意，把他拿下马来，叫他怕您 这一辈子。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "我可有什么主意呀？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "您没主意，我有主意呀！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "你有什么主意？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "我说他饭桶，您不信。他跟老爷子那儿吃饭哪，吃的酒足饭饱，连腰都哈不下 啦。一会儿他来啦，叫他跟您练武艺，叫他吐这么一地，叫他跟您面前说不出 嘴去。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "瞧你这损劲儿的！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "我损？我脑袋都糊脓啦。等他来了，我叫您怎么着，您就怎么着。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "你叫我怎么着，我就怎么着？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "唉，听我的没错！"
+        },
+        {
+          "character": "陶龙、郑子明",
+          "type": "内同白",
+          "text": "请啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶龙、郑子明同上。"
+        },
+        {
+          "character": "陶龙",
+          "type": "唱",
+          "text": "洞房之中灯明亮，"
+        },
+        {
+          "character": "郑子明",
+          "type": "唱",
+          "text": "人得喜事乐非常。"
+        },
+        {
+          "character": "郑子明",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "我说大爷，洞房之事您交给我啦，我服侍他们夫妻恩恩实实的。您请回吧！"
+        },
+        {
+          "character": "陶龙",
+          "type": "白",
+          "text": "服侍好了，大爷有赏。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "我谢谢您哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶龙下。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "还是你这黑小子！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "好你个秃丫头！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "在瓜园瞧你那么难看；你穿上这个，戴上这个，我这么一瞧呀——"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "管保好看了吧？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "更难看啦！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "嗯！带路！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "你要上哪儿？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "洞房走走。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "怎么着，您这就要入洞房？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "你是讲文呢，还是论武？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "讲文怎说？论武怎说？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "你要是讲文，我们这有笔墨砚台，你得写首诗，才能入洞房呢！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "写字我是不会呀！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "你写一个字！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "一个字也不会写。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "要是论武呢？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "论武，怎样的论武？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "你瞧，那儿有兵器，你爱哪样就练哪样。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "这个兵器叫你家姑娘先练；我要先练，你们是要我偷了去啦！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "姑娘，他让咱们先练；他要先练，怕咱们偷他的。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "咱们倒偷他的啦？拿我的刀来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头拿刀。陶三春耍刀，秃丫头接。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "好！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "好不是？该你啦！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "我不爱惜这个。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "你不爱惜这个，你爱惜什么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明看。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "带尖的那个。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "哦，那个枪呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秃丫头递。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "枪不是给你了吗？你扎呀？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "我往哪儿扎呀？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "我知道你往哪儿扎呀！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "我扎你吧！ （郑子明打，扫秃丫头飞脚，手扎毛，漫头，鞋底，秃丫头下。陶三春打双刀，枪架住。秃丫头拉陶洪上， 劝。陶龙、陶虎同暗上，同打。）"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "啊，为了何事，争斗起来？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "我也不知道怎么回事。叫她们先说。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "儿啊，为何争斗？快讲！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "爹呀，您别生气，我告诉您吧：丫头说他吃多啦，我给他消化消化食，我们俩 人闹着玩哪！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "嘿！这样的玩耍，闹了为父一身汗。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "消化食，这一肚子全下去了。"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "你一肚子下去了，我脑袋都肿啦。老爷子快叫他们入洞房吧！"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "啊，天已亮了！"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "天亮更好入洞房啦！"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "此话怎讲？"
+        },
+        {
+          "character": "秃丫头",
+          "type": "白",
+          "text": "赶明儿个养个儿子叫亮儿。"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "好个亮儿！"
+        },
+        {
+          "character": "陶龙、陶虎",
+          "type": "同白",
+          "text": "大家后面去用早饭！"
+        },
+        {
+          "character": "陶洪",
+          "type": "白",
+          "text": "好，将酒饭摆在瓜园瓜棚，那里饮酒神清气爽。 贤婿，儿呀，你们来呀！"
+        },
+        {
+          "character": "陶洪",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

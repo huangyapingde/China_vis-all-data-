@@ -1,0 +1,1380 @@
+{
+  "script_id": "70902104",
+  "title": "荆钗记·见娘",
+  "alias": [],
+  "source": "俞振飞剧本选",
+  "characters": [
+    {
+      "name": "王十朋",
+      "hangdang": "冠生"
+    },
+    {
+      "name": "王母",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "李成",
+      "hangdang": "末"
+    }
+  ],
+  "plot": "王十朋考中状元，拒绝万俟相府的招赘，得罪了权相，因此由初任饶州佥判改调潮阳，已写信回家报喜，等\n候母妻到京，即便赴任。岂知家书被人套写，改为休书，妻子钱玉莲拒绝改嫁，被逼投江（遇救不死，但家\n中未知）。《见娘》一出，写王母到京，王十朋不见妻子同来，因而生疑，及见王母袖中落出孝头绳，更加\n追询，王母不得不叙说经过；王十朋闻讯昏倒，痛悼妻子之亡。",
+  "notes": "此剧唱做并重，哀惋动人，为“冠生”重头戏“书、见、惊”（《书馆》、《见娘》、《惊变》）之一，俞\n振飞演出次数很多。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王十朋上。"
+        },
+        {
+          "character": "王十朋",
+          "type": "夜行船引",
+          "text": "一幅鸾笺飞报喜，垂白母想已知之。日渐过期，人何不至？心下转添萦系。"
+        },
+        {
+          "character": "王十朋",
+          "type": "念",
+          "text": "雁塔题名感圣恩，便鸿早已寄佳音。思亲目断云山外，缥缈乡关睹白云。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "长班上。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "下官王十朋，晋京赴试，叨中状元。蒙圣命，任为饶州佥判。只因万俟丞相， 欲招下官为婿，是我不肯停妻再娶，拒了婚事，为此把我改调潮阳，不日就要 赴任。我曾修书一封，付与承局寄回，接取家眷，同临任所。一去许久，不见 到来，使我常怀挂念。 长班！"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "家眷到时，疾忙通报。"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "晓得。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "王十朋",
+          "type": "念",
+          "text": "虽无千丈线，万里系人心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王十朋下。"
+        },
+        {
+          "character": "李成",
+          "type": "内白",
+          "text": "老安人走吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王母上。"
+        },
+        {
+          "character": "王母",
+          "type": "夜行船引",
+          "text": "远别生离辞故里，经历尽万种孤凄。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李成上。"
+        },
+        {
+          "character": "李成",
+          "type": "夜行船引",
+          "text": "已达皇都，遥瞻故里，深感老天周庇。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "李舅，可曾打听，状元的行馆在哪里？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "老奴已曾打听，状元的寓所在四牌坊，请老安人再行几步。"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "闻说京师锦绣邦，"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "妙吓！"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "果然风景胜他乡。"
+        },
+        {
+          "character": "李成",
+          "type": "念",
+          "text": "红楼翠馆笙歌沸，柳陌花街兰麝香。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "“状元王寓”。吓老安人请转！"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "这里是了。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "吖到了，谢天地。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "请老安人看好了行李，待老奴去通报。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "你去通报。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "啊呀，老奴倒忘了。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "忘了什么？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "请老安人把孝头绳除下，恐惊了状元，不当稳便。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "早是你说，不然我倒忘了。 啊呀媳妇儿吓！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "吓，门上那位在？"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "借问一声。"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "问什么？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "这里可是温州王状元的寓所么？"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "正是。你问他怎么？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "报去说，家眷到了。"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "吖家眷到了！请少待。 老爷有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王十朋上。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "怎么说？"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "家眷到了。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吖，家眷到了！可有来人？"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "有来人。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "如此，先着来人进见。"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "啊呀呀，我正在此想，可喜吓可喜！"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "来人呢？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "老爷着你进见。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。 吓状元老爷！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吓李舅！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "老奴李成叩头。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "啊呀呀请起！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "老安人和小姐都到了么？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "这，都到了。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吩咐开正门！"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "吓，开正门！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吓母亲！"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "我儿！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "孩儿十朋，迎接母亲。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "起来！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是。 吓李舅！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "状元老爷。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "小姐呢？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "小姐么？"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "十朋！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "老安人相请！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是。 吩咐起行李！"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "起行李！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "有劳。"
+        },
+        {
+          "character": "长班",
+          "type": "白",
+          "text": "好说。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "长班下。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "母亲请上，待孩儿拜见。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "孩儿只为功名，久离膝下，奉养不周，恕孩儿不孝之罪。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "儿吓，你在此好么？"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "母亲听禀！"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "从别后到京， 虑萱亲当暮景。 幸喜得今朝重会，"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吓！"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "又缘何愁闷萦？"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "我没有什么愁闷。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是。孩儿告退。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "去。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是。 啊呀且住！我想今日，母子重逢，合当欢喜，为何我母亲反添愁闷？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李成嗽。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吖，待我去问李成。 吓李舅。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "状元老爷。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "老夫人为何闷闷不乐？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "老安人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王母嗽。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "吖，想是在路上，受了些风霜，所以如此。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吖，在路上受了些风霜，所以如此。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是吓，所以如此。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "㕶！非也，我晓得嗄！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "状元老爷晓得什么？"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "莫不是我家荆， 看承得我母亲不志诚？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "哟！若说小姐在家，尽心侍奉老安人，是不离左右的。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吖，小姐在家，侍奉老安人，是不离左右的？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吓！"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "啊呀亲娘吓！ 分明说与恁儿听，"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "你那媳妇，"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "她怎生不与娘共登程？"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "儿吓！"
+        },
+        {
+          "character": "王母",
+          "type": "刮鼓令",
+          "text": "心中自三省， 转教娘愁闷增。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "媳妇为何不来？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李成嗽。"
+        },
+        {
+          "character": "王母",
+          "type": "刮鼓令",
+          "text": "啊呀你媳妇多灾多病。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吓李舅，小姐有病么？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "如今呢？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "如今好了。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吖好了，谢天谢地。起来。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "王母",
+          "type": "刮鼓令",
+          "text": "况亲家两鬓星， 家务事要支撑。 叫她怎生离乡背井， 为你饶州之任恐留停。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "儿吓，你岳丈倒有分晓。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "有甚分晓？"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "哪！"
+        },
+        {
+          "character": "王母",
+          "type": "刮鼓令",
+          "text": "先令人送我到京城。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "员外著老奴，先送老安人来的。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "有劳。 吓，母亲，孩儿再告退。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "去。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是。 啊呀且住！听母亲言语，还是不能明白。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李成嗽。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吖，待我再问李成。 吓李舅！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "状元老爷。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "你把我家中别后之事，细细说与我知道。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "状元老爷听禀！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "讲！"
+        },
+        {
+          "character": "李成",
+          "type": "刮鼓令",
+          "text": "当初待起程……"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "住了！我正要问你，起程时，小姐为何不来？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "小姐么？"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "㕶！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "原是要来的。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "为何不来呢？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "吖哈哪！"
+        },
+        {
+          "character": "李成",
+          "type": "刮鼓令",
+          "text": "谁想到，临期成画饼。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "成什么画饼？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "啊呀！"
+        },
+        {
+          "character": "李成",
+          "type": "刮鼓令",
+          "text": "若说起投江一事， 唬得恩官心战惊。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "什么惊？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "没有什么惊吓。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "啊呀母亲！方才李舅明明说过“惊”字的㖸！"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "吓李舅，有什么“惊”字，快快说与状元知道。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "吖、吖、吖，有个“惊”字的。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "什么惊？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "说我家小姐呵！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "小姐便怎么？"
+        },
+        {
+          "character": "李成",
+          "type": "刮鼓令",
+          "text": "在途路上，"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "吖哈！"
+        },
+        {
+          "character": "李成",
+          "type": "刮鼓令",
+          "text": "少曾经。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "就是这个“惊”字。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吖！"
+        },
+        {
+          "character": "李成",
+          "type": "刮鼓令",
+          "text": "当不得许多高山峻岭， 餐风宿水怕劳形。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "我家员外呵！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "员外便怎样？"
+        },
+        {
+          "character": "李成",
+          "type": "刮鼓令",
+          "text": "因此上留住……"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "说！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "李成",
+          "type": "刮鼓令",
+          "text": "吖哈……"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "讲！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "李成",
+          "type": "刮鼓令",
+          "text": "在家庭。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "端详那李成， 语言中犹未明。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "李舅过来！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "我在家时见你志诚老实，故把言语来问你，怎么你、你、你，反来支吾我？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "老奴怎敢？"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "哆！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "我今后再、再、再也不来问你了。吓！"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "啊呀亲娘吓！ 把就里分明说破，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王母悲声。"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "免孩儿疑虑生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王母哭。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吓！"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "因甚的变颜情， 长吁短叹珠泪零？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王母袖中孝头绳掉出。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "啊呀，啊呀，完了！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "啊呀！"
+        },
+        {
+          "character": "王十朋",
+          "type": "刮鼓令",
+          "text": "袖儿里落下孝头绳， 恁儿媳妇丧幽冥！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "啊呀母亲！这孝头绳是哪里来的？快快说与孩儿知道㖸！"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "啊呀儿吓！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "母亲！"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "千不是，万不是，都是你不是！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "怎说孩儿不是？"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "你且起来。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "我且问你，当初这封书是哪个寄回的？"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是承局。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "可又来！"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "当初承局书亲附，拆开仔细从头睹。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "道我什么来？"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "道你佥判任饶州，"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "这句是有的。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "啊呀儿吓！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "母亲。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "你下句就不该写了！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是哪一句？"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "“休妻再赘万俟府”。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "啊呀母亲，语句都差了！"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "哆！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王十朋跪。"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "语句虽差字迹真，"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "状元爷请起。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "岳翁见了便怎么？"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "岳翁见了生嗔怒。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "岳母呢？"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "岳母即时起妒心，"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吓，起甚妒心？"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "她就逼女改嫁孙郎妇。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "啊呀母亲！我妻子她从也不从？"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "好！"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "汝妻守节不相从，她就将……"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": ""
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王十朋晕倒。"
+        },
+        {
+          "character": "王母、李成",
+          "type": "同白",
+          "text": ""
+        },
+        {
+          "character": "王母",
+          "type": "江儿水",
+          "text": " 李成"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "同白"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王十朋醒。"
+        },
+        {
+          "character": "王十朋",
+          "type": "江儿水",
+          "text": " 啊呀老安人，说不得的！ 哆！谁要你多讲？ 啊呀李舅，事到其间，也不得不说了。 啊呀母亲，快快说与孩儿知道㖸！ 啊呀儿吓！ 母亲。 汝妻守节不相从，她就将身跳入江心渡！ 怎么讲？ 你妻子为你守节而亡了！ 吖，我妻子为我守节而亡了？ 𠲔！"
+        },
+        {
+          "character": "王十朋",
+          "type": "我儿",
+          "text": "（状元老爷）醒来！ 啊呀唬！ 虚飘飘一似风中絮。 孤身流落知何所？ 风烛不宁，啊呀亲儿吓！ 教娘死也不着一所坟𠮾墓。"
+        },
+        {
+          "character": "王十朋",
+          "type": "我儿",
+          "text": "（状元老爷）醒来！（我儿）（状元老爷）苏醒！ 啊呀我那妻吓！ 是何人套写书中句？ 恁头儿先𠮾做河伯妇。 啊呀妻……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王十朋哭。"
+        },
+        {
+          "character": "王十朋",
+          "type": "江儿水",
+          "text": "指望百年完聚， 也算做春风一度！"
+        },
+        {
+          "character": "半载夫妻、王母",
+          "type": "白",
+          "text": "儿吓，死者不能复生，且到了任所，先追究那递书人要紧。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "孩儿一到任所，即便追究那递书人便了。"
+        },
+        {
+          "character": "王母",
+          "type": "念",
+          "text": "追想仪容转痛悲，"
+        },
+        {
+          "character": "王十朋",
+          "type": "念",
+          "text": "岂知中道两分离？"
+        },
+        {
+          "character": "李成",
+          "type": "念",
+          "text": "夫妻本是同林鸟…… 李成"
+        },
+        {
+          "character": "李成",
+          "type": "同念",
+          "text": "大难来时各自飞。"
+        },
+        {
+          "character": "王母、王十朋、王十朋",
+          "type": "白",
+          "text": "请母亲里面安歇罢。"
+        },
+        {
+          "character": "王母",
+          "type": "白",
+          "text": "啊呀媳妇儿吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王母下。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "状元老爷，老奴告回。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吓？你怎么就要回去了？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "起程时员外吩咐，送到了老安人，即便就回。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "难道小姐死了，就不是亲了？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "说哪里话来？只因家里无人，所以如此。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "也罢！况我身畔无人，你随我到了任所，待我修书与你，接取员外、安人到来， 同享荣华便了。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "多谢状元老爷。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "随我进来。"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吓李舅！小姐的灵柩停在哪里？"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "啊呀状元老爷！那日江中风狂浪大，莫说灵柩，连尸首也没处打捞！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "吖！连尸首竟、竟、竟、竟没处打捞？！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "没处打捞！"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "啊呀妻......"
+        },
+        {
+          "character": "王母",
+          "type": "内白",
+          "text": "十朋！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "老安人相请。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "是。随我进来！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "王十朋",
+          "type": "白",
+          "text": "啊呀妻吓！"
+        },
+        {
+          "character": "李成",
+          "type": "白",
+          "text": "请免悲伤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王十朋、李成同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

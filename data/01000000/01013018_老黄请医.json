@@ -1,0 +1,1264 @@
+{
+  "script_id": "01013018",
+  "title": "老黄请医",
+  "alias": [],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "刘高手",
+      "hangdang": "丑"
+    },
+    {
+      "name": "老黄",
+      "hangdang": "丑"
+    },
+    {
+      "name": "女客",
+      "hangdang": "旦"
+    },
+    {
+      "name": "男客",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "昆剧《寻亲记》中有《请医》一出。系一客店主人名老王者，因其店中，有同来之男女二客。其男客忽然抱\n病不起。老王素知村中有医生名刘高手者，因即前往延请，为之诊治。全剧自请刘始，至诊毕送刘出为止，\n中间徒以插科打诨，形容三家村中之庸医为主，无甚曲折情节。",
+  "notes": "此即以昆剧翻成京腔者，故其大概，与《寻亲记》中之《请医》同。两人科白问答，亦以昆剧为蓝本。惟\n“断去两太阳之箭头”，及“我是外科不是内科”等语，则系从苏滩中穿插而入。按诸昆曲中，此抱病之客，\n当即周瑞隆。此剧以李百岁为最擅名。其挖苦庸医之处，颇淋漓尽致。惜其京语不能改变，为一缺点。然在\n京津间，则固无此缺点矣。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老黄上。"
+        },
+        {
+          "character": "老黄",
+          "type": "念",
+          "text": "高挂一盏灯，住的四方人。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "我，老黄。就在此地开了座招商客店，买卖倒也茂盛。前几天来了两位客人， 一男一女，手里有钱。男的病在这块儿。若是死啦，知道的说是病死的，不知 道的说我老黄图财害命啦。我们这儿有一位刘高手，乃是名医，不免请来调治。 行行去去，去去行行。到了。 刘高手先生在家没有？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手上。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "刘高手",
+          "type": "引子",
+          "text": "唱就唱“托兆”，“金乌坠”，不唱也行。"
+        },
+        {
+          "character": "刘高手",
+          "type": "念",
+          "text": "五代名医，"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "错了。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我刚出来就错了？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "人家都是四代名医，你怎么“五代”哪？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "外头传真方卖假药的人多，那是我五代玄孙。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "是了。"
+        },
+        {
+          "character": "刘高手",
+          "type": "念",
+          "text": "三方人尽知。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "又错了。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "人家东西南北四方，你怎么“三方”？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我也知道东西南北是四方。北方壬癸水，鞑子的地方，都叫我治死啦，治绝了 根了。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": "刘高手",
+          "type": "念",
+          "text": "有人来请我，"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "怎么样？"
+        },
+        {
+          "character": "刘高手",
+          "type": "念",
+          "text": "俱是该死的。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "有缘的？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "有缘的遇不见我。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "刘先生在家没有？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "有人。找哪个？我看看是谁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手开门。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "刘先生。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我当是谁呢，敢是兄弟你呀。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "是我。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你可好？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "家里都好？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "也好。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你还在那块儿住吗？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "没搬家。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我昨儿还提你来着。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "今儿你就见着啦。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "真格的，你是谁？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "问了半天，不认得我是谁。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "仿佛在哪块儿……"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "见过？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "没有。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "我来说一声吧：我是开招商店的老黄。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你是招商店的老板老黄？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "好王八蛋！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你怎么叫应了骂我？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我骂我的眼睛，连你都不认识啦。你做什么来了？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "我店里头来了二位客人，一男一女。男的病在我这儿啦，请你老给治治去。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "多偺去？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "马上就走。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我吩咐吩咐他们。 吩咐丁香奴柳寄奴，好好看守麦门冬，别叫木贼子上我的十二重楼，盗去我丹 砂袍子，鹿茸帽子，皂角靴子。将我海马拉在素沙滩前，饮些水银。若有人参 来寻我，让在官桂堂上坐，倒一杯普洱茶他吃。天晚了，手使红灯白蜡，接我 当归。倘若百步去迟，将你们捆在桑皮树上，打你们三千灯草杠子，七千竹叶 片子。打得使君子直流，我是半夏也不饶。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "有我跟着呢。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "车前子在后。哎呀，去不了啦！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "没人拿着药包儿。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "原先谁拿着？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我徒儿。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "哪儿去啦？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "发脾气，打跑啦。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "没法子，我给你拿着。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "对不住，你给我拿着，仿佛我徒儿似的。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "那谁给你拿着！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "老弟老兄噠，哥哥跟你见脸哪。咱们走哪块儿？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "走箭道。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我不走那块儿。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我在箭道丢过人。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你在箭道丢过什么人？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "这天我给人看病回来，路过箭道。正是跑马射箭，弓箭是撒手不由人。箭搭上 啦，弓拉开啦，一放手，小孩子且那么一过，了不得啦！且这太阳射进去，且 那个太阳出了箭头。小孩子直哭。我且那么过，人家说话：“刘高手，刘先生， 你给看看吧！”我说：“不要紧”，借个手锯来。我把这边锯了去，那边锯 了去啦，找了两帖太阳膏，贴上小孩好了。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "两头都锯啦？刘先生，当中还有哪？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "怎么当中还有？我比比可不是吗。你不晓得，我是外科，不管内里头的事。不 走那块儿。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "走乱葬岗。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "更不走啦！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "怎么又不走啦？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "那天我走那儿过，几个小孩子踢球哪。我年轻时最欢喜踢球，我年老有少心， 我说我踢一脚。劲使大了，一踢把球踢到坟窟窿里去了。小孩子直哭，叫我赔 球。我说明天给你买。小孩说不行。我拿拐棍试一试，窟窿不深。我拿手给他 们，够着啦。一撤手了不得啦！里头冰凉的一只手，攒住我的手，他还说话哪！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "说什么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "他说：“刘高手刘先生，我活着你拿药汤灌我，死啦还拿丸药打我哪！”"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "那都是你治死的。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "可不是么，跟我要命哪。不走那块儿。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "走粮食市儿。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "更不走啦！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "怎么又不走了？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "这天我走粮食市，那儿正卸绿豆。那小孩光着身子，坐在绿豆上撮着玩。没留 神，把绿豆撮在小窍里头啦，撒不出来直哭。我起那儿道，说：“刘先生你给 他看看吧”。我说：“不要紧”。舀一碗凉水来，里头放的药。我就漱漱口。 漱一口，唆一口。水完了，小孩撒出尿来啦。众人说“刘高手刘先生实在高明”， 给我挂一块匾。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "写的是什么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "上联“手到病除”。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "下联撂了：“唆鸡巴的槐衰夫”。咱们走哪儿呀？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你跟着我走吧。到啦。等等，我进去言语声儿。 先生来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "女客搀男客同上。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "先生请到啦。"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "里面有请。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "哎呀不好！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我的毛病发了！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "什么病？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "贱病，非骂不可。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "谁敢骂？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你就行么。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "我把你请来的，我还骂你？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "哎呀，救急要紧！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "老王八！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "不行！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "老王八蛋！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "更厉害！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "老兔子！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "哎呀，好啦！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "怎么我骂你别的都不行，怎么骂你老兔子就好啦哪？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "叫你这老兔子骂得我病根儿上啦。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "好的，骂人不带桩子！进来吧。来，引见引见。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "这就是病人哪？我这儿有礼啦，我这儿有礼啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手怒，拿棍打。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我给你敌了吧！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "慢着，慢着！怎么啦？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "想我若大年纪，老远地来给他看病。我给他行礼，他连理我都不理，多大的架 子！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "哎呦，人家是病人哪！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "他是病人？你方才看见啦，我在门口发病，我也不是好人啦！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "这当儿就不能管你啦！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "来，候候脉。脉乃人之根本。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手候脉。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "莫不是产后经风？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "不是。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "经血不调？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "更不是啦！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "女儿痨？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你过来吧！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "人家是男人，你怎么说的净是女人的病呀？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "怎么说？这块儿还有个男人哪？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你还没看见哪？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我瞧见一个女人直眉瞪眼的，我当她有病哪。再来候候。 脉息浑沉，"
+        },
+        {
+          "character": "刘高手",
+          "type": "数板",
+          "text": "脉息浑沉，两手如冰嚇死人。找几个木匠把棺材钉，请几个和尚念经文。快到 酆都城，前去收他的魂。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "人早就死啦。"
+        },
+        {
+          "character": "女客",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "饭桶！哭你都不会。我教给你。"
+        },
+        {
+          "character": "刘高手",
+          "type": "哭",
+          "text": "孙子！"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "把他给我刻出去！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "得，刻出来啦。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你还说。我是你请来的，我叫人刻出来，你也不好看哪。你既请我看病，怎么 不把病原告诉我呀？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你当先生还用人告诉病原哪？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "哎呀，如今晚辈郎中尽都是矇事。你把病原告诉我，诊钱不诊钱不要紧，咱们 好圆上脸。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "只因两军阵前，失一亲人，得一佳人，一惊一恐，感胃伤寒。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你早告诉我好不好！你言语声儿，你告他，说会悬丝候脉。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "先生还会悬丝候脉。"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "有请先生。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "不用请。你告诉他，少往外刻就好啦。 老黄，我把候脉东西忘啦，你有带子没有？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "没有。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "就拿我这根杠子好啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手拿杠候脉。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你道是在两军阵前，失一亲人，得一佳人，乃是一惊一恐，感胃伤寒。"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "先生高明。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我高明。 老黄不告诉我，一辈子也不晓得呀！"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "先生给扎扎针吧。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "哎呀，这针可不是胡乱扎的。叫人扎过我可不管扎！"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "没有扎过。请你这是头一位先生。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "没扎过？"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "没扎过。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我不相信，我看看吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手看。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你们还是矇我哪。你们说没扎过针，你瞧他后头多大的针眼！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "那可不是针眼！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "那是什么？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "那是屁股眼儿。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "怎么说？屁股还有眼儿？你有没有呀？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你自己也有呀！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我也有？我为什么舍近求远哪。哎呀，我这个比他那个还大一圈。 劳你驾，我当了一辈子郎中，我才晓得屁股有眼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手扎针。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "针针又属阳，又属阴，若叫官人病体好，除非来年打罢春。等明年打春才起针。"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "那不涨死了吗？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我先吃饭去。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "先起过针再吃饭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手起针。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "哎呀，毒气不小。你看针都黑啦！"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "先生给开个方子吧。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我今天带的药不全。小娘子过来取几味药。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸女客头。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "清丝！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸女客脸。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "浮粉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸女客鼻。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "素砂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸女客嘴。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "豆蔻！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸女客左腮。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "萝卜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸女客右腮。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "水萝卜！ 老黄过来。取几味药。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "我身上还有药？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你当你是苦山不出药！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸老黄头。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "兔脑丸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸老黄须。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "兔儿丝！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手拍老黄背。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "龟板！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸老黄手。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "鸡爪黄连！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸老黄屁股。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "使君子！ 哎呀，年轻人儿搁不住火大，咱们再入柜。仅你们草药不成功，我自己也有药。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸自己须。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "有啦兔儿丝啦！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "龙须！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手摸自己手。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "有啦鸡爪黄连啦！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "佛手！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手撒尿。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "童便！ 统共煎服，吃啦就好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "男客吃药，吐。"
+        },
+        {
+          "character": "老黄、女客",
+          "type": "同白",
+          "text": "先生这药他吃不服。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "叫小娘子吃。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "哎，人家没病呀！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "没病？吃下去就有病！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "那人家还吃它干什么！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你不晓得。小娘子要吃啦，到晚上一睡觉就串过去啦！"
+        },
+        {
+          "character": "女客",
+          "type": "白",
+          "text": "这里有二十两银子，送给先生的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "女客、男客同下。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "这儿有二十两银子送给先生的。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我谢谢。我走啦。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "回来回来！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "什么事？"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你瞧我这店里，怎么来了客人，住几天就要生病。这是什么缘故？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "哎呀，你们房间不好！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "怎么，你还会瞧风水哪？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "学过。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你给我想个法子破破。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "待我与你细看看。哎呀，你得罪的是你们家亲！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "你赶紧想法子才好！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我这儿念咒，你跪得这儿送才行。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "我说什么？"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "你说“祖宗你走吧”。"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "祖宗你走吧。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "声儿太小！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "祖宗你走吧。"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "听不见！"
+        },
+        {
+          "character": "老黄",
+          "type": "白",
+          "text": "祖宗你走吧！"
+        },
+        {
+          "character": "刘高手",
+          "type": "白",
+          "text": "我不走还住得你们这儿？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘高手、老黄同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

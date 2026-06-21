@@ -1,0 +1,2851 @@
+{
+  "script_id": "04013001",
+  "title": "八大锤",
+  "alias": [
+    "断臂说书"
+  ],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "王佐",
+      "hangdang": "老生"
+    },
+    {
+      "name": "陆文龙",
+      "hangdang": "小生"
+    },
+    {
+      "name": "岳飞",
+      "hangdang": "老生"
+    },
+    {
+      "name": "乳娘",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "金兀术",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "金兀术侵宋，岳飞率军迎拒于朱仙镇。兀术不得逞，乃调其义子陆文龙前来助战。陆文龙原是潞安州节度使\n陆登之子。十六年前，兀术攻破潞安，陆登夫妇死难，兀术把抱在乳娘怀中的陆文龙掳回抚养，并认为义子。\n陆文龙少年英俊，阵前骁勇无敌。岳飞派岳云等四个使用双锤的大将，和陆文龙车轮大战，均被陆文龙击\n败。宋营参军王佐素知陆文龙的身世，向岳飞献计，拟诈降金营说陆文龙归宋，岳飞持重劝阻。王佐回到自\n己帐中，终夜筹思；翻阅史书，忽见《要离刺庆忌》故事，触动灵机，于是自断左臂，诈降兀术。兀术见状，\n深信不疑，将他收留。王佐遂乘机向陆文龙的乳娘道出来意；并藉着说书的机会，旁敲侧击，打动陆文龙。\n在乳娘的帮助下，陆文龙终于明白了自己的国仇家恨。帮助宋军，打败了兀术，重返故国。",
+  "notes": "《八大锤》又名《断臂说书》，取材于《精忠说岳演义》。这个剧本是由中国京剧团叶盛兰、李盛藻、王玉\n敏与本院编辑处陶君起共同整理的。主要改动了以下两点：\n一、原本王佐与乳娘道明乡亲后，乳娘即说出流落金邦的经过，并深以陆文龙“认仇作父”为恨，而王佐亦\n立即道破自己的来意；这样描写未免简略；整理本在此处略加充实。\n二、原本陆文龙在归宋途中，枪刺兀术，兀术“真龙出现”，陆文龙又感念“十六年养育之恩”，遂放兀术\n逃走；整理本修改了这一情节。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士押粮车、严正芳、何元庆、岳云、狄雷同上。"
+        },
+        {
+          "character": "严正芳",
+          "type": "白",
+          "text": "车夫们，趱行者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "粉孩儿牌。众人同走圆场。"
+        },
+        {
+          "character": "严正芳",
+          "type": "白",
+          "text": "俺。严正芳。"
+        },
+        {
+          "character": "何元庆",
+          "type": "白",
+          "text": "何元庆。"
+        },
+        {
+          "character": "岳云",
+          "type": "白",
+          "text": "岳云。"
+        },
+        {
+          "character": "狄雷",
+          "type": "白",
+          "text": "狄雷。"
+        },
+        {
+          "character": "严正芳",
+          "type": "白",
+          "text": "众位将军请了。"
+        },
+        {
+          "character": "何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "严正芳",
+          "type": "白",
+          "text": "你我奉了元帅将令，催押粮草，去往朱仙镇前听用；且喜粮草俱已催齐，不免 回营交令。众位将军请来传令。"
+        },
+        {
+          "character": "何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "你我一同传令。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "众将官，速速趱行！"
+        },
+        {
+          "character": "四军士",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四金兵、四金将、兀术同上。"
+        },
+        {
+          "character": "兀术",
+          "type": "点绛唇",
+          "text": "将士英雄，军威压众，兵英勇，战马如龙，令出山摇动。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兀术上高台。"
+        },
+        {
+          "character": "兀术",
+          "type": "念",
+          "text": "屡次兴兵夺宋朝，身经百战费辛劳。一心要把中原扫，一统山河归吾朝。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "孤，大金邦四太子、昌平王、完颜宗弼，皇号兀术。奉了老王之命，带领三川 六国人马，夺取宋室天下。怎奈岳飞用兵如神，屡次交锋，不能取胜。也曾命 人回国，搬取吾儿陆文龙前来助战，未见到来。 列位平章，"
+        },
+        {
+          "character": "四金将",
+          "type": "同白",
+          "text": "狼主。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "今日交锋，非比寻常，必须要人人奋勇，个个当先；进前者赏，后退者，插箭 游营！"
+        },
+        {
+          "character": "四金将、四金兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启狼主：岳飞领兵已至朱仙镇。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "儿郎的，杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兀术上马，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙上。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "引子",
+          "text": "胸藏虎豹韬，英名几时标。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "念",
+          "text": "中原成逐鹿，山河风雨飘。金戈征尘滚，壮志吞南朝。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "俺，陆文龙。父王兀术。俺虽生长北国，最喜南朝打扮。我父王夺取中原，每 未成功；而今屯兵朱仙镇，不知胜负如何？正是："
+        },
+        {
+          "character": "陆文龙",
+          "type": "念",
+          "text": "但愿苍天遂我愿，灭却宋朝方称心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "奉了老王命，搬请智勇人。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "殿下在上，小将有礼。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "罢了。我父王扎兵朱仙镇胜负如何？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "启禀殿下，宋将十分骁勇，奉了狼主之命，特请殿下前去助战。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "既然如此，待我禀知乳娘，一同前往。正是："
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "全凭殿下双枪勇，"
+        },
+        {
+          "character": "陆文龙",
+          "type": "念",
+          "text": "哪怕宋军百万强！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙下，旗牌随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四宋军、岳飞同上。"
+        },
+        {
+          "character": "岳飞",
+          "type": "念",
+          "text": "统领貔貅将，对垒到疆场。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "本帅姓岳名飞字鹏举。可恨金人屡犯中原，本帅统领雄兵，与他交战。如今屯 扎朱仙镇上，那兀术又统兵前来，必要杀他个片甲不归，方消我恨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "金兵讨战！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "众将官，迎敌者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四金兵、四金将引兀术同上，会阵。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "马前来的可是兀术？"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "然。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "兀术！尔进犯我朝，屡败不退，今又兴兵前来，俺恨不得食尔之肉。休走看枪 ——"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "岳元帅！你国二圣被孤家掳回我国，每日坐井观天；好不笑煞人也！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "一派胡言，看枪——"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "岳元帅！你自不量力，孤家无礼了。 （岳飞、兀术同起打，兀术败下，岳飞追下。四金将同上，岳飞上，同起打。兀术上，岳飞败下，兀术、四 金兵同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": "陆文龙",
+          "type": "内西皮导板",
+          "text": "奉命助战兼程往，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌背双枪上，乳娘、车夫、陆文龙同上。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "西皮流水板",
+          "text": "披星戴月奔疆场。 吩咐车辆往前闯，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌、车夫、乳娘同下。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "西皮摇板",
+          "text": "灭却宋军保父王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋军、岳飞同上。严正芳、何元庆、岳云、狄雷同上。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "参见元帅，末将等交令。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "罢了。粮草可曾催齐？"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "粮草催齐，元帅查点。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "不必查点，众位将军之功也。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "可曾与那贼见过阵来？"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "见过一阵，大败而回。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "末将等抵挡一阵。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "须要小心。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "得令。 带马。 （岳飞下，严正芳、何元庆、岳云、狄雷同上马。四金兵、兀术同上，起打。兀术败下。四金将同上，起打， 四金将同败下。严正芳、何元庆、岳云、狄雷同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四金兵、四金将、兀术同败上。旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "启狼主：乳娘到。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "唤她进来。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "唤乳娘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。乳娘上。"
+        },
+        {
+          "character": "乳娘",
+          "type": "念",
+          "text": "想起潞安甚惨伤，老爷夫人双双亡。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "参见狼主。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "一路劳乏，后面歇息去吧！"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "多谢狼主。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘下。旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "殿下到。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "唤他进来。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "有请殿下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。陆文龙上。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "西皮摇板",
+          "text": "双枪能敌千员将， 见了父王问安康。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "父王在上，儿臣打躬。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "一旁坐下。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "谢座。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报！岳飞讨战。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "啊！这姓岳的，他、他又杀来了！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "启父王，既是岳飞讨战，待儿臣出马生擒岳飞入帐。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "吾儿有此胆量？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "有此胆量。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "好。 儿郎的！殿下出马，尔等鞍前马后，多加小心。"
+        },
+        {
+          "character": "四金将、四金兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兀术、四金将同下。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "儿郎的！杀上前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙上马，四宋军、岳飞同上，起打。岳飞败下，陆文龙追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严正芳、何元庆、岳云、狄雷同上。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同念",
+          "text": "柳林春试马，虎帐夜谈兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋军、岳飞同败上。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "参见元帅，胜负如何？"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "番营出了一员小将，十分骁勇，难以取胜！"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "待我等出马，会他一阵。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "尔等出马，用车轮战法擒他，本帅大兵随后。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "得令。 （岳飞上马，四金兵、陆文龙同上，同开打，岳飞败下。狄雷、严正芳、何元庆、岳云先后上，车轮大战。 岳飞上，严正芳、何元庆、岳云、狄雷、岳飞合战，同败下。陆文龙追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋军、严正芳、何元庆、岳云、狄雷、岳飞同上，过场，同下。四金兵、陆文龙同追上。宋军摇旗免战。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "儿郎的，团团围住了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐上。"
+        },
+        {
+          "character": "王佐",
+          "type": "念",
+          "text": "要为天下奇男子，须立人间未有功。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋军、岳飞同上，王佐迎出。岳飞、王佐同入座。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "陆文龙讨战！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "再探。将免战牌悬挂营门。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "唉，想俺岳飞，累次与金人交战，未尝有此大败；今日被陆文龙连败数员上将， 恨煞我也。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "啊，元帅，那陆文龙，莫非是当年潞安州节度使陆登之子么？"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "正是此子。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "闻得他父母，命丧金人之手，如今为何反助仇人？"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "想当年潞安州城破之时，此子未满三月，就被掳入番邦，他焉能知晓。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "哦，待我去至番营，诈降兀术，顺说那陆文龙归宋。大哥意下如何？"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "贤弟，此事不可造次，画虎不成反类犬。你料理军务去吧。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "是是是，告退。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "众将官，小心防守。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岳飞、四宋军同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起初更鼓〗。"
+        },
+        {
+          "character": "王佐",
+          "type": "内二黄导板",
+          "text": "听谯楼打初更玉兔东上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌提灯引王佐同上。"
+        },
+        {
+          "character": "王佐",
+          "type": "回龙",
+          "text": "为国家秉忠心，食君禄，报王恩，昼夜奔忙。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄原板",
+          "text": "想当年在洞庭逍遥放荡， 到如今食君禄未报宋王。 岳大哥他待我手足一样， 俺王佐无功劳怎受荣光。 今夜晚思一计番营去闯， 留一个美名儿万载传扬。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "想俺王佐有何妙计混进番营，顺说那陆文龙……⑴"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起二更鼓〗。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄原板",
+          "text": "怎能够思巧计番营来进， 前后话对文龙细说衷情。 前又思后又想无有计定——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐入座，二旗牌同下。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄原板",
+          "text": "倒不如上公案观看古今。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐看书。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "汉室卫律、苏武，一个降顺北国，一个打入羊群，执意不降，每日食毡饮雪， 忠心不改。真是忠佞各别了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起三更鼓〗。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄原板",
+          "text": "汉室中卫律声名不正， 怎比得那苏武一片丹心。 饥食毡渴饮雪忠心耿耿， 似这等忠良臣能有几人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐换书。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "《东周列国》，倒要看看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐看书。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "《要离断臂刺庆忌》，《要离断臂刺庆忌》。哎呀且住！想那要离断臂，刺死 公子庆忌，乃是大丈夫所为，俺王佐何不学他一学，以报岳大哥知遇之恩也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐修书。〖起四更鼓〗。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄散板",
+          "text": "那要离刺庆忌颇有志量， 留下了美名儿万古传扬。 俺王佐学要离番营去闯，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐脱外衣，取剑。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄散板",
+          "text": "顾不得生和死天作主张。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐断臂，倒地。〖起五更鼓〗。二旗牌同上。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "王将军醒来！"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄导板",
+          "text": "一霎时只觉得疼痛难忍！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐坐起，抚断臂，疼痛。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄散板",
+          "text": "为国家断了臂诈降番营。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "将军为何如此？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "尔等不要声张。来来来，这里有书信一封，呈与岳元帅，有人问你老爷，就说 另有公干。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌欲行。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "转来。此乃机密大事，不可走露风声，违令者斩。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同下。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "看天色已明，投奔番营去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同上。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "有请元帅。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岳飞上。"
+        },
+        {
+          "character": "岳飞",
+          "type": "念",
+          "text": "筹思无良计，闷坐在大营。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "王将军有书信一封，元帅请看。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。岳飞看信。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "传王贵、郑环进帐。⑵"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王贵、郑环同上。"
+        },
+        {
+          "character": "王贵、郑环",
+          "type": "同白",
+          "text": "参见元帅。有何吩咐？"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "命你二人巡营嘹哨，等待王佐将军的消息，不得有误。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岳飞下。"
+        },
+        {
+          "character": "王贵、郑环",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王贵、郑环同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四金兵、陆文龙、兀术同上。"
+        },
+        {
+          "character": "兀术",
+          "type": "念",
+          "text": "兴兵攻宋室，"
+        },
+        {
+          "character": "陆文龙",
+          "type": "念",
+          "text": "一战建奇功。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兵甲上。"
+        },
+        {
+          "character": "金兵甲",
+          "type": "白",
+          "text": "启狼主：拿住宋营奸细。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "啊！押进帐来！"
+        },
+        {
+          "character": "金兵甲",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兵甲、金兵乙押王佐同上。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "叩见狼主。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "唗！胆大奸细，敢来窥探军情，推出斩了！"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "留头讲话。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "是啊，父王，要让他留头讲话呀。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "好，讲！"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "难臣王佐，乃岳飞帐下随营参军。只因昨日岳飞被狼主杀得大败，闭营不战， 是我劝他归顺狼主；他是执意的不降。当时将难臣左臂砍去，高声大骂，定要 扫尽金酋，迎请二圣还朝，那时再将难臣斩首。哎呀狼主啊！想我死是死不了， 活是活受罪，望求狼主收留草命哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐哭。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "孤家不信你的谎言。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "狼主不信，狼主请看！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐指断臂。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "岳飞呀岳飞，降与不降但凭于你，为何下此毒手？ 啊王佐，你为孤家吃苦了，孤家收留于你就是。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "谢狼主。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "你如今已是我国的人了，必须改个名儿才是。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "是啊，必须与他起个名字才是。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "哎呀，他叫……"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "嗳，苦哇！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "有了，你为孤家吃了苦，就叫“苦人儿”吧。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "苦人儿么？甚好。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "苦人儿，从今以后，满营之中，任你行走；有人问起，就将岳飞断臂之事与他 们说明。吩咐大小三军，不可拦阻。孤命太医与你调治膀臂，后营歇息去罢。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "多谢狼主。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐出，陆文龙抚其臂，王佐负痛，下。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "儿啊，为父已命人搬取铁浮图、火炮，待等来时，攻打宋营，哪怕岳飞不灭！ 正是："
+        },
+        {
+          "character": "兀术",
+          "type": "念",
+          "text": "恼恨岳飞心毒狠，"
+        },
+        {
+          "character": "陆文龙",
+          "type": "念",
+          "text": "军中哪有断臂刑！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "儿啊，随为父来呀。"
+        },
+        {
+          "character": "兀术",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘上。"
+        },
+        {
+          "character": "乳娘",
+          "type": "二黄原板",
+          "text": "叹老爷为国家忠心丧命， 陆夫人寻自尽一命归阴。 我心中只把那金人愤恨， 十六载冤仇事常挂在心。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "老身薛氏，当年在潞安州陆登陆大老爷府中，曾为乳娘。只因金人攻破潞安州， 老爷为国尽忠自刎而死，夫人也尽节而亡；是我怀抱不满三月的公子，被金 人掳到金邦，至今一十六载，冤仇未报。思想起来，好不愁闷人也。"
+        },
+        {
+          "character": "乳娘",
+          "type": "二黄摇板",
+          "text": "血海冤仇不能报， 怎不叫人珠泪抛。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐上。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄摇板",
+          "text": "这几天到番营未有巧遇， 怎能够见文龙细说端的。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "来此已是陆文龙的营帐，待我偷觑偷觑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐看。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "唗，哪里来的奸细！ 来，与我拿下了。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "啊，老太太不要高声，我本南朝废人，狼主见我可怜，收留收下，取名“苦人 儿”，各营任我游戏，今日闲暇，特到后帐，观看宝帐虎威。啊，老太太，休 得见怪。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "哦，不错，昨日闲听殿下言道，有一南朝将官，名唤王佐，投顺我国，改名苦 人儿，就是你么？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "是啊。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "失敬了。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "岂敢，岂敢。听老太太讲话，不像此地人氏？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "老身本不是此地人氏。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "哪里人氏？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "湖广潭州人氏。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "怎么？老太太是湖广潭州人么？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "哦，听你之言，你莫非也是湖广潭州人氏么？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "不错，我也是湖广潭州人哪。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "如此说来，我们是乡亲哪。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "是啊，你我是乡亲哪。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "这倒巧得紧！"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "巧得紧。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "乳娘",
+          "type": "念",
+          "text": "久旱逢甘雨，"
+        },
+        {
+          "character": "王佐",
+          "type": "念",
+          "text": "他乡遇故知。"
+        },
+        {
+          "character": "王佐",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "来来来，重见一礼。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "重见一礼。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "啊，老太太，你因何流落在此啊？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘望。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "此地不是讲话之所，请到里面叙谈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘、王佐同入内。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "老太太因何至此啊？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "再休提起！老身薛氏，十六年前，在潞安州陆登陆大老爷府中，曾为乳娘；那 年金兵大破潞安州，老爷尽忠，夫人尽节，撇下公子，未满三月，就被狼主带 回金邦，故而至此。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "听你之言，那陆大老爷还有后么？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "怎能的无有哇！前几日在两军阵前，枪挑数员宋将的，那就是公子啊。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "怎么？在两军阵前，枪挑数员宋将，那就是陆公子？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐试探。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "哎呀呀，真真是英雄盖世啊！"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "唉！说什么英雄盖世，可叹我家公子，他就忘……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘顿悟失言。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "啊，忘什么？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "唉，你，你，你不问也罢。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "是是是。 哎呀且住！看这乳娘颇知大义，我想此事成功，就应在她的身上也。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄摇板",
+          "text": "听她言来喜心上， 尊声安人听端详； 为公子断去左臂膀， 舍死忘生到番邦。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "如此说来，你为了我家公子，吃了苦了哇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘抚王佐膀臂，王佐疼痛颤抖。"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄摇板",
+          "text": "这断臂的情由莫声张， 泄露机关祸难当。 少时公子回营帐， 全仗安人作主张。⑶"
+        },
+        {
+          "character": "金兵甲",
+          "type": "内白",
+          "text": "殿下回营。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "公子已回，快快躲避。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘下。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐急出帐，四金兵、陆文龙同上。四金兵同下。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "参见千岁。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "啊，苦人儿，这几日未见，你往哪里了？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "这几日那些王爷平章们，这个请我吃酒，那个叫我说评书，今日闲暇，特来与 千岁请安。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，你还会说评书么？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "一肚子的评书呢。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "好。你且稍待。 有请乳娘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘上。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "殿下回来了。何事？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "有个苦人儿，他会说评书。请乳娘一同听书。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "好好好，一同听书。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "千岁，这是何人？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "这就是乳娘太太。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "哦，这就是乳娘太太？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙向乳娘。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "这就是苦人儿。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "苦人儿与老太太请安。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "罢了，你还会说评书么？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "既然说书——啊，殿下，必须赐他一个座位，暖茶一壶才是。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "原有他的座位。 苦人儿，你就坐下。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "千岁在此，哪有苦人儿的座位？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "殿下赐座，你就坐下吧。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "自己人不必客气。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "如此，谢座。 啊老太太，苦人儿告坐。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "殿下，请坐。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "乳娘，你也坐下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐、陆文龙、乳娘同坐。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "请问殿下，喜听文的，还是喜听武的呢？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "小王习武，自然武的好。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "是呀，武的好哇。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "武的热闹。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "要听忠的，不是奸的？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "小王喜的是忠臣，恨的是奸党。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "是呀，我家殿下，喜的是忠臣，恨的是奸佞啊！"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "哦，忠的好。如此待我讲一段《骅骝思乡》的故事听听可好？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，《骅骝思乡》的故事，倒要听上一听。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "要听上一听哪。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "你且讲来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐咳嗽，拍醒木。陆文龙一惊。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "这是做什么？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "此乃是书头。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "这是说书的规矩呀。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "这说评书还有规矩呀？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "还有规矩呀。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "无有规矩就不成方圆了。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "你慢慢讲来。"
+        },
+        {
+          "character": "王佐",
+          "type": "念",
+          "text": "道德三皇五帝，功名夏后商周；七雄五霸乱春秋，顷刻兴亡过首。 青史几行名姓，北邙无数荒丘；前人田地后人收，说什么龙争虎斗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐拍醒木。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "他怎么又来了。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "残词念罢，花开两朵，各表一枝。不说前唐后汉，古今兴废；单说的是南朝真 宗驾前一段故事。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，南朝的一段故事？倒要听上一听。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "朝中有一家忠良，名唤杨延昭。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，杨延昭，是个忠臣。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "乃是大大的忠良。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "此人乃镇守三关的元戎，北国屡次犯境，被杨元帅杀得是望风而逃。北国萧后， 心生一计，勾通南朝一家奸佞，姓王名强字钦若。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，王钦若，是个大大的奸党。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "是个大大的奸佞啊！"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "那日真宗早朝，那王钦若要暗害杨家，上殿启奏一本，言道：臣启万岁，北国 有一骑好马，此马头上有角，遍体生鳞，眼如日月，四蹄如烟，身长八尺；日 行千里见日，夜走八百不明，名为日月骕骦追风驹。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "倒是一骑宝马！"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "我国若有人能将此马盗回朝来，可算得国家之祥瑞也。宋王闻奏，问道：何人 能将此马盗回来呢？那王钦若奏道：要盗此马，非三关杨元帅不可。 啊千岁，这就是奸佞暗害忠良之计呀！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "宋王听信谗言，一时下了旨意，命三关杨元帅去往北国盗马。杨元帅接罢圣旨， 回到帐中，是闷闷的不乐。他帐下有一员大将，姓孟名良字佩苍。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，孟良！是员大将。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "是员大将。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "进帐问起情由，讨下将令，愿往北国盗马。 啊千岁，你可晓得那孟良的出身哪？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "他是什么出身？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "他乃绿林出身，能通三川六国的语言，乔装改扮了北国的模样，他就一日连两 日，两日连三日，混进了番营。嗳，那北国之人就无人认得他是南朝的大将啊。 且喜呀，不到一月之功，即将此马盗回来了。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，这大将真乃好手段哪！"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "真真好手段！ 后来呢？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "宋王一见此马，十分的欢喜；赏赐孟良，加封杨元帅的官职。只是，可惜呀可 惜！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "可惜什么？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "可惜那骑宝马，自到南朝，一连七日七夜，不食草料，眼望北国大吼了三声， 就饿死了。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "却是为何？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "那马它是思乡啊！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，那马还会思乡！"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "有道是良马比君子，俱是一样。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "还是老太太讲得有理，良马比君子，俱是一样啊！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，是是。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "马尚且思乡，何况人乎？ 啊，老太太，我看如今的人儿啊，反倒不如畜类了哇！"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄摇板",
+          "text": "那马倒有思乡意， 如今的人儿不如它！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "好哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙拍掌。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "完了。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "往下讲。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "无有了。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "不好，不热闹。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "怎么，还不热闹？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "不热闹。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "是呀，你要讲一个热闹的故事。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "哎呀，还要听热闹的？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐想。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "有了，待苦人儿说一段四狼主大破潞安州的故事。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "可是我父王大破潞安州的故事？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "正是我国狼主大破潞安州的故事。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "我们倒要听上一听。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "倒要听上一听。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "苦人儿，快快讲来！"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "慢来，慢来。这有画图一幅，悬挂起来，照图言讲。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "好，悬挂起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙挂图。乳娘见图欲哭，王佐急示意制止。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "啊老太太，你看上面热闹不热闹？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘忍泣。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "热闹，热闹！"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "这是我一只手画出来的，我画的可好啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘悲哽。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "是你一只手画的，难为你了！好好好。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "苦人儿，这画图之上，有许多兵将，还是宋军，还是我国人马？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "这上面么。宋军也有，我国人马也有。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "苦人儿，上面有一员大将，手持宝剑自刎，他是何人？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "这就是潞安州节度使，姓陆名登，人称“小诸葛”。只因与我国交战，不能取 胜，我兵势众，攻破了城池，陆老先生就拔剑自刎，为国尽忠而死。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，那旁有一妇人，悬梁自缢，她是何人？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "那是陆老夫人。见丈夫为国尽忠，她也尽节了。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "啊，苦人儿，看上面还有一员大将，好像我父王模样，为何与他人下拜？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "千岁若问上面那员大将，嗳，本是我国四狼主；见陆老先生为国尽忠一死，令 人可敬，故而在那里拜了他一拜。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "我父王拜得，小王我可拜得么？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "千岁么？可以；哦，正拜，正拜！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，拜得的？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "你还要多拜几拜呀！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "陆老先生在上，受小王一拜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙拜。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "啊，陆老先生，千岁在这里拜见你呀！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "啊，苦人儿，那陆老先生已死，他为何立尸不倒？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "那陆老先生，恐他后辈不肯与他报仇，故而立尸不倒。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，那陆老先生他还有后么？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "怎的无有？有道是忠良不绝后哇。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "是呀，忠良不绝后。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "那旁有一妇人，怀抱一婴孩，为何在那里啼哭啊？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "那乃是陆府乳娘，怀抱陆公子，未满三月，见他一家死得可惨，故而在那里啼 哭啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘哭出声。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "啊乳娘，你怎么啼哭起来了？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "我，我听他一家死得可惨，故而伤心落泪。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哎呀呀，你这不是“听评书落泪，替古人担忧”。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "着哇，你那不是替古人担忧哪吗？"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "怎么？我替古人担忧！ 哎呀呀，我又替古人担忧了。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "真乃是愚人！"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "真乃是愚人，愚人。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "苦人儿，此子他还在么？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "此子么？尚在。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "现在哪里？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "被我国四狼主带回我国抚养。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，今在我国抚养。此子他今年多大年纪了？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "若问他的年纪么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐看乳娘。乳娘作手势。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "哦，哦，今年一十六岁了。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦，一十六岁，哎呀，与小王同庚哪。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "怎么，千岁也是一十六岁吗？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "哎呀呀，这倒巧得很。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "巧得很。"
+        },
+        {
+          "character": "王佐、陆文龙、乳娘",
+          "type": "同笑",
+          "text": "啊哈哈哈！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "苦人儿，此子可有本领？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "若问他的本领么，他能力敌万人！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哦！他、他、他能力敌万人！嘿嘿……苦人儿，你说笑话了。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "他既能力敌万人，为何不与他父母报仇？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "哼！不提起“报仇”二字还则罢了，提起这“报仇”二字，令人可恨！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "啊，恨者何来？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "非但不与他父母报仇，他如今还认仇人为父呢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙想。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "啊，苦人儿！他叫什么名字？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐含糊地说。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "他叫陆文龙……"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "他叫什么名字？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐含糊地说。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "陆文龙……"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哎，他到底叫什么名字？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "他、他、他叫陆文龙啊！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "呀呀呸！胆大苦人儿，分明戏耍你王爷！快将此事说明便罢；如若不然，我便 杀了你！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘急拦。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "哎呀殿下！这就是你全家被害的故事啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙摘图。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "三叫头",
+          "text": "爹爹！母亲！哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙昏迷。"
+        },
+        {
+          "character": "王佐、乳娘",
+          "type": "同白",
+          "text": "殿下醒来！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "二黄导板",
+          "text": "听一言来珠泪掉，"
+        },
+        {
+          "character": "陆文龙",
+          "type": "三叫头",
+          "text": "爹爹！母亲！爹娘啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙哭。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "二黄散板",
+          "text": "不由小王恨难消。 三尺龙泉出了鞘，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙欲行。"
+        },
+        {
+          "character": "王佐、乳娘",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "二黄散板",
+          "text": "斩尽金兵归宋朝。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "公子啊！"
+        },
+        {
+          "character": "王佐",
+          "type": "二黄散板",
+          "text": "公子做事莫急躁， 快想良计回南朝。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "哎呀恩公啊！那贼见岳元帅闭门不出，定于明日要用铁浮图攻打宋营，如何是 好？"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "这有何难，待我修下书信，公子绑在箭头，射入宋营，请岳元帅即刻移营。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "好，待小侄磨墨。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "待我写来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐修书。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "恩公、乳娘请上，受我一拜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙拜。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "不必拜了。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "三叫头",
+          "text": "爹爹！母亲！我那亲——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘、王佐急掩陆文龙口。陆文龙强抑制住。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙下。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "他明白了！"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "是呀，他这才明白了。"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "他明白了，我残废了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘、王佐同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王贵、郑环同上。"
+        },
+        {
+          "character": "王贵、郑环",
+          "type": "同白",
+          "text": "奉了元帅之命，巡营嘹哨。就此前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "落下箭书。王贵拾箭书。"
+        },
+        {
+          "character": "王贵",
+          "type": "白",
+          "text": "这有箭书一封，速速报与元帅知道。 有请元帅。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋军、岳飞同上。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "王贵",
+          "type": "白",
+          "text": "现有箭书一封，元帅请看。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。岳飞看信。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "众将进帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严正芳、何元庆、岳云、狄雷同上。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "参见元帅，有何吩咐？"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "命你四人，各领三千人马，按东西南北，四路埋伏，听本帅信炮一响，一齐杀 出，不得有误。"
+        },
+        {
+          "character": "严正芳、何元庆、岳云、狄雷",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严正芳、何元庆、岳云、狄雷同下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "王贵、郑环听令。"
+        },
+        {
+          "character": "王贵、郑环",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "今晚大营虚张灯火，你二人左右策应，诱敌深入。"
+        },
+        {
+          "character": "王贵、郑环",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王贵、郑环同下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "众将官，将大营移至凤凰山去者。"
+        },
+        {
+          "character": "四宋军",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四金兵、四金将、陆文龙、兀术同上。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "儿啊，今晚为父要用铁浮图、火炮攻打宋营，我儿看守大营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙不答。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "这孩子！ 儿啊，今日炮击宋营，命你看守大营，你听见了没有？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "我知道啦！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "这孩子长了脾气啦！ 儿郎的，起兵前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兀术上马，四金兵、四金将同下。陆文龙怒视兀术，兀术回马。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "孩啊，孩啊！我看你是怎么好！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兀术下。陆文龙一望。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "有请恩公、乳娘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王佐、乳娘同上。"
+        },
+        {
+          "character": "王佐、乳娘",
+          "type": "同白",
+          "text": "怎么样了？"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "那贼带兵出战，趁此机会，请恩公与乳娘快快逃回宋营。"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "快快带马！我们得回南朝了！ （陆文龙带马，乳娘上马，下。陆文龙请王佐上马，王佐谢辞，陆文龙坚请上马，王佐单臂欲上，不得力， 陆文龙抱王佐上马。王佐下。）"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "待俺放起火来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙放火，上马，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四金兵、四金将、兀术同上。"
+        },
+        {
+          "character": "四金兵、四金将",
+          "type": "同白",
+          "text": "来到宋营。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "架炮攻打。"
+        },
+        {
+          "character": "四金兵、四金将",
+          "type": "同白",
+          "text": "宋营乃是空营。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "啊！中了他人之计也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "大营失火！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "殿下呢？"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "不知去向。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "去你娘的！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "儿郎的，寻找殿下。 （四宋军引岳飞同上，同开打，兀术、四金兵、四金将同败下，岳飞、四宋军同追下。严正芳、何元庆、岳 云、狄雷、四金将同上，对锤，四金将同败下。兀术上，开打，严正芳、何元庆、岳云、狄雷同下。）"
+        },
+        {
+          "character": "兀术",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙上，刺兀术，兀术大惊，闪避，落马，握陆文龙枪头。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "哎呀，儿啊！你怎么杀起你皇阿妈来啦！"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "兀术啊兀术！十六年前，你这老贼攻破潞安州，害死我一双爹娘，今日我定报 此仇。看枪！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "哎呀儿啊！难道你就不念这十六载养育之恩么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆文龙哭，强制住。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "呸！似这等国仇家恨，不共载天，还说什么养育之恩！休走，看枪！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "哎呀！ （陆文龙欲刺兀术，四金将同上，同架枪，兀术逃下。陆文龙、四金将同开打，四金将同败下。四宋军、严 正芳、何元庆、岳云、狄雷同上，同用锤困住陆文龙，岳飞、王佐急同上。）"
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "怎么一家杀起一家来了！不要动手，此乃陆公子，见过元帅。"
+        },
+        {
+          "character": "陆文龙",
+          "type": "白",
+          "text": "小侄归降来迟，叔父恕罪。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "公子归国，其功非小。一同回营去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岳飞、王佐、陆文龙、严正芳、何元庆、岳云、狄雷、四宋军同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        },
+        {
+          "character": "岳飞",
+          "type": "stage",
+          "text": "—————————— ⑴或作："
+        },
+        {
+          "character": "王佐",
+          "type": "白",
+          "text": "想俺王佐，自投宋以来，寸功未立，怎能思得一计，混进番营，顺说那陆文龙 来降，岂不是大功一场，名垂千古？ ⑵原本系传汤怀。考之《说岳》，汤怀自刎，在此段故事之前；现京剧《汤怀自刎》亦仍流行，为避免前后倒置 ，故改为王贵。 ⑶此段唱词，或作："
+        },
+        {
+          "character": "王佐",
+          "type": "二黄摇板",
+          "text": "这断臂的情由休要讲， 说了出来我的罪难当！ 待等公子回营帐， 全凭太太作主张。 我把他父母的冤仇细细讲， 言语打动他心肠； 但愿得文龙归宋往， 扫平了金人把仇偿。"
+        }
+      ]
+    }
+  ]
+}

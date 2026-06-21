@@ -1,0 +1,1271 @@
+{
+  "script_id": "05010001",
+  "title": "焚烟墩",
+  "alias": [
+    "烽火戏诸侯"
+  ],
+  "source": "《传统剧目汇编》",
+  "characters": [
+    {
+      "name": "申侯",
+      "hangdang": "老生"
+    },
+    {
+      "name": "周幽王",
+      "hangdang": "净"
+    },
+    {
+      "name": "褒姒",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "周幽王宠褒姒，褒姒不好笑，周幽王焚烟墩以娱之。烟墩乃供防外患召集诸侯勤王之用。周幽王焚烟墩后，\n各路诸侯急赴京门，褒姒见之大笑。众诸侯见周幽王与褒姒以此取乐，怏怏而去。后犬戎侵周，周幽王又焚\n烟墩，众诸侯不至。周幽王离都城，欲逃往鲁国搬兵，行至骊山，遇申侯。申侯责以失政之罪。周幽王哀告\n求饶，申侯乃纵之去。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周幽王、四太监同上。"
+        },
+        {
+          "character": "周幽王",
+          "type": "引子",
+          "text": "凤阁龙楼，万古千秋。"
+        },
+        {
+          "character": "周幽王",
+          "type": "念",
+          "text": "历代君王本输流，成者王侯败者休。周世一流不绝后，万民衣冠拜冕旒。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "寡人，周幽王在位。自登基以来，国泰民安。今因褒姒进得宫来，每日闷闷不 乐，面无笑容，不免宣尹球上殿，定下一计。 内侍，宣尹球上殿。"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "宣尹球上殿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尹球上。"
+        },
+        {
+          "character": "尹球",
+          "type": "白",
+          "text": "领旨。 臣尹球见驾。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "赐座。"
+        },
+        {
+          "character": "尹球",
+          "type": "白",
+          "text": "谢座。宣臣上殿，有何国事？"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "今有褒姒娘娘，进得宫来，每日不笑，宣卿上殿，君臣定下一计。"
+        },
+        {
+          "character": "尹球",
+          "type": "白",
+          "text": "臣有一计。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "何计？"
+        },
+        {
+          "character": "尹球",
+          "type": "白",
+          "text": "臣想骊山烟墩，乃是先王所立，以备戎寇。今乃太平景象，万岁与娘娘去到骊 山饮酒取乐，吩咐内官，将烟墩焚起，各路诸侯见烟墩起火，怕的是国家有难， 必然个个回朝保驾，娘娘一见，必然哈哈大笑。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "哈哈哈！此计甚好，命卿打扫骊山。"
+        },
+        {
+          "character": "尹球",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "尹球",
+          "type": "念",
+          "text": "金殿领圣旨，骊山焚烟墩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑伯友上。"
+        },
+        {
+          "character": "郑伯友",
+          "type": "白",
+          "text": "且慢，郑伯友见驾。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "有何本奏？"
+        },
+        {
+          "character": "郑伯友",
+          "type": "白",
+          "text": "臣想烟墩，乃是先王所立，以防戎寇，今无故焚起烟墩，只恐各路诸侯扰乱， 失去威信矣。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "如今太平年间，又待何妨，不必多奏，下殿。"
+        },
+        {
+          "character": "郑伯友",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "郑伯友",
+          "type": "念",
+          "text": "万岁不听臣言语，周室江山一旦倾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑伯友下。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "宣褒娘娘上殿。"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "宣褒娘娘上殿。"
+        },
+        {
+          "character": "褒姒",
+          "type": "内白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褒姒上。"
+        },
+        {
+          "character": "褒姒",
+          "type": "念",
+          "text": "玉叶金枝贵，芙蓉海棠娇。"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "妾妃见驾。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "赐座。"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "谢座。宣妾妃何事？"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "孤王今日不乐，命尹球在骊山摆宴，与梓童取乐。"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "内侍摆驾骊山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周幽王、褒姒、四太监、尹球同上，过场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、四宫女、周幽王、褒姒同上。〖牌子〗。摆宴。"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "上宴。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "梓童饮酒。"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "万岁请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "内侍，吩咐将各处烟墩焚起。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周将甲上。"
+        },
+        {
+          "character": "周将甲",
+          "type": "白",
+          "text": "且住，烟墩焚起，国家有难，回朝保驾，众将官回朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周将甲下。三周将同上。"
+        },
+        {
+          "character": "三周将",
+          "type": "同白",
+          "text": "且住，烟墩焚起，国家有难，回朝保驾，众将官回朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三周将同下。四周将同上，同碰头。"
+        },
+        {
+          "character": "周将甲",
+          "type": "白",
+          "text": "众位诸侯请了，烟墩焚起，必是国家有难，急速回朝救驾。"
+        },
+        {
+          "character": "三周将",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四周将同走圆场，同下马。"
+        },
+        {
+          "character": "四周将",
+          "type": "同白",
+          "text": "臣等救驾来迟，万岁恕罪。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "卿等回朝作甚？"
+        },
+        {
+          "character": "四周将",
+          "type": "同白",
+          "text": "臣等见烟墩焚四起，想是国家有事，前来救驾。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "梓童他们前来救驾。"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "哦，他们前来救驾的？"
+        },
+        {
+          "character": "褒姒",
+          "type": "笑",
+          "text": "哈哈哈哈哈。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "众卿，并非戎寇造反，乃是寡人与娘娘饮酒取乐，你们各自回国保守汛地。"
+        },
+        {
+          "character": "四周将",
+          "type": "同白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四周将同走圆场，同出。"
+        },
+        {
+          "character": "周将甲",
+          "type": "白",
+          "text": "众位诸侯，吾等见烟墩焚起，只道时国中有难，谁知他君妃在此取乐，我等到 做了有兴而来……"
+        },
+        {
+          "character": "三周将",
+          "type": "同白",
+          "text": "无兴而归，各自收兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四周将同下。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "摆驾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周幽王、褒姒、四太监、四宫女同下楼，同走圆场，同挖门上。周幽王归大座。"
+        },
+        {
+          "character": "太监甲",
+          "type": "念",
+          "text": "忙将申侯事，启奏万岁知。"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "申侯有本进京。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "大胆申侯，竟敢骂孤无道。 梓童，何计除之？"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "即命虢石父带领三千人马拿申侯进京问罪。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "言之有理。 内侍，命虢石父带领三千人马，捉拿申侯进京问罪。"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监甲下。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "回宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虢石父上，起霸。"
+        },
+        {
+          "character": "虢石父",
+          "type": "念",
+          "text": "奉王旨意出都城，帐下儿郎杀气生。带领三千铁骑将，捉拿惊天动地人。"
+        },
+        {
+          "character": "虢石父",
+          "type": "白",
+          "text": "俺，虢石父，奉幽王旨意捉拿申侯进京问罪。 众将官，起兵前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虢石父下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手，孛丁上。"
+        },
+        {
+          "character": "孛丁",
+          "type": "念",
+          "text": "武的武来蛮的蛮，卷毛狮子过潼关。长枪挠钩藤牌手，要夺周室锦江山。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "孤——西戎国先锋孛丁是也，只因幽王焚起烟墩，戏耍各路诸侯，趁此机会夺 他城池。 西戎兵，起兵前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虢石父上。会阵。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "通名受死。"
+        },
+        {
+          "character": "虢石父",
+          "type": "白",
+          "text": "虢石父。来将何人？"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "西戎兵先锋孛丁。"
+        },
+        {
+          "character": "虢石父",
+          "type": "白",
+          "text": "西戎兵，何故造反？"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "幽王无道，你就归降了吧，如若不然，刀下作鬼。"
+        },
+        {
+          "character": "虢石父",
+          "type": "白",
+          "text": "一派胡言，放马过来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虢石父、孛丁同起打，虢石父败下。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "杀上京都。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "发点。四龙套同上，同站门，申侯上。〖点绛唇〗。申侯归大坐。"
+        },
+        {
+          "character": "申侯",
+          "type": "念",
+          "text": "可恨幽王乱国政，听信谗言贬亲生。今日兴动人和马，杀上镐京见昏君。"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "本爵——申侯。周室为臣，幽王无道，将吾妹谪贬，太子被废，本爵奏本，谁 知昏王反命虢石父领兵拿我，被西戎孛丁杀死，趁此机会兴动人马，杀了褒姒， 好保太子登基，再杀孛丁，以除外患，今乃黄道吉日。 众将官兴兵，京都去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周幽王、褒姒同上。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "恨申侯他道孤君妃无道， 拿进京孤把他万剐千刀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍上。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "启奏万岁，西戎孛丁，杀了虢石父，围困京城。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍下。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "听说是西戎国反了孛丁，"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "梓童吓！"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "杀进城吾君妃何处安身？"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "不要忧虑，快将骊山烟墩焚起，各路诸侯必来救驾。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "好，摆驾骊山。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "内侍摆驾骊山来进， 二次里到骊山焚起烟墩。 内侍焚起烟墩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍允。四周将自两边分上。"
+        },
+        {
+          "character": "周将甲",
+          "type": "白",
+          "text": "众位，烟墩焚起，快去救驾。"
+        },
+        {
+          "character": "周将丙",
+          "type": "同白",
+          "text": "且住，前番烟墩焚起，吾等前来救驾，却是他君妃取乐，又点烟墩，还怕是取 乐。"
+        },
+        {
+          "character": "三周将",
+          "type": "同白",
+          "text": "依你之见？"
+        },
+        {
+          "character": "周将丙",
+          "type": "白",
+          "text": "各自回国保守汛地。"
+        },
+        {
+          "character": "三周将",
+          "type": "同白",
+          "text": "言之有理，保守汛地去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四周将自两边分下。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "吓，怎么还不见诸侯到来？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍上。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "启万岁，各路诸侯回朝救驾，恐怕依然是万岁娘娘在此饮酒取乐，各自回国保 守汛地去了。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "完了。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "内侍摆驾骊宫进， 快宣那郑伯友抵挡贼兵。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "宣郑伯友进宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑伯友上。"
+        },
+        {
+          "character": "郑伯友",
+          "type": "唱",
+          "text": "忽听内侍宣一声， 尊万岁哪个发来的兵？"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "西戎反了贼孛丁， 卿家快去退贼兵。"
+        },
+        {
+          "character": "郑伯友",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "郑伯友",
+          "type": "唱",
+          "text": "臣也曾在金殿奏过一本， 大不该在骊山火焚烟墩。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "孤不该在金殿阻他谏本，"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "万岁屈他一膝。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "没奈何孤下膝搭救寡人。"
+        },
+        {
+          "character": "郑伯友",
+          "type": "唱",
+          "text": "尊万岁休得要施礼太甚， 待为臣领人马抵挡贼兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑伯友下。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "但愿得此一去旗开得胜， 灭反贼扫狼烟孤才放心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内冲头。郑伯友上。"
+        },
+        {
+          "character": "郑伯友",
+          "type": "唱",
+          "text": "杀一阵来败一阵， 一人怎挡数万兵。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "胜负如何？"
+        },
+        {
+          "character": "郑伯友",
+          "type": "白",
+          "text": "败阵而回。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "如何是好？"
+        },
+        {
+          "character": "郑伯友",
+          "type": "白",
+          "text": "臣保万岁娘娘杀出重围。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周幽王、褒姒同下。孛丁上，郑伯友杀，郑伯友杀孛丁败下。孛丁上。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "弓箭伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑伯友上，带箭下。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "追！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周幽王、褒姒同上。郑伯友上，拔箭，死。周幽王、褒姒同下。"
+        },
+        {
+          "character": "申侯",
+          "type": "内西皮导板",
+          "text": "周幽王他无道难逃吾手，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、申侯同上。"
+        },
+        {
+          "character": "申侯",
+          "type": "唱",
+          "text": "先帝爷他封吾申地为侯。 周幽王废太子贬了申后， 因此上领人马扎住山头。 将人马埋伏在三岔路口， 等昏王他到来细问根由。"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "大路埋伏，小路放起烟火，昏王到此，速报吾知。"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "申侯下。"
+        },
+        {
+          "character": "周幽王",
+          "type": "内西皮导板",
+          "text": "只杀得气冲天如同白昼，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褒姒、周幽王同上。"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "万岁怎么样了？"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "遭不幸尸堆山血水倒流。 千层浪反身转慈航搭救， 王虽然得活命龙落孤洲。 皆因是孤有错说不出口， 独只为你进宫起祸根由。 悔不该听奸臣谗言启奏， 悔不该把朝事一旦抛丢； 悔不该废太子又贬申侯， 悔不该与国舅结下冤仇； 悔不该在骊山取乐饮酒， 悔不该焚烟墩戏耍诸侯。 看起来孤的命哎呀，只怕是要送在你手。"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "万岁命丧在我手，待我死了罢。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "还舍不得吓。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "劝梓童休伤悲且免忧愁。 被西戎杀的孤无处逃走， 三岔路口迷了路不能相投。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "梓童失迷路途，待孤探路。"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "小心了。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "晓得了。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "这一阵杀的孤魂飞胆丧， 西戎兵一个个四路埋藏。 又只见杏黄旗空中飘荡， 倘若是遇仇敌孤命残伤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周幽王看。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "上写着是申侯要除无道， 拿住了周幽王定斩不饶。"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "启爷，幽王到。"
+        },
+        {
+          "character": "申侯",
+          "type": "内西皮导板",
+          "text": "听说是周幽王君妃来到，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "申侯上。"
+        },
+        {
+          "character": "申侯",
+          "type": "唱",
+          "text": "正要他到此来细问根苗。 权作了痴呆汉佯装不晓， 是何方反贼兵身穿龙袍。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "贤侯！"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "尊贤侯你那里未必不晓， 孤就是周幽王逃难荒郊。 皆因是孤无道命运不好， 看起来孤倒运还是孤八字不高。"
+        },
+        {
+          "character": "申侯",
+          "type": "唱",
+          "text": "你既是周幽王八字不小， 你就该在宫中快乐逍遥。 这是你人背时命运不好， 看起来天有眼报应在今朝。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "尊贤侯你心下不必计较， 孤有言你那里细听根苗： 望贤侯保孤回重重相报， 孤封你世代公侯与孤王同掌九朝。"
+        },
+        {
+          "character": "申侯",
+          "type": "唱",
+          "text": "听他言不知羞令人可笑， 我正要保你回同掌九朝。 回朝去与奸妃把酒色贪好， 你还把朝纲事一旦丢抛。"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "那土台之上坐一女子身穿大红，怀抱婴儿，他是何人？"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "那就是褒姒娘娘，怀抱婴儿是孤的爱子名叫伯服。 吓梓童，上前去端端正正见上一礼，他保你我君妃回朝也未可知。"
+        },
+        {
+          "character": "褒姒",
+          "type": "白",
+          "text": "是。 申侯万福！"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "好个褒娘娘正宫国母！"
+        },
+        {
+          "character": "申侯",
+          "type": "唱",
+          "text": "恨奸妃不行善又不行好， 无端的害吾妹天理自昭。 每日里与昏王酒色欢好， 你可知申正宫他与我一母同胞。"
+        },
+        {
+          "character": "褒姒",
+          "type": "唱",
+          "text": "申国母待小奴恩高义好， 我岂肯将她人一旦丢抛。 望贤侯看薄面把君妃来保， 早烧香晚点灯答报恩高。"
+        },
+        {
+          "character": "申侯",
+          "type": "唱",
+          "text": "我自然保他回看你金面， 为什么废太子上欺青天。 叫人来准备了麻绳铁链， 不认君不认妃捆到军前。 拿住了周幽王大功来献， 若有人违将领斩罪无宽。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "贤侯。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "你那里要我命不敢强辩， 哭干了黄河水难保命还。 依然是申国母独掌正院， 我和你郎舅情结的什么仇冤。"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "昏王！"
+        },
+        {
+          "character": "申侯",
+          "type": "唱",
+          "text": "一条罪初登基把民女挑选， 二条罪老王薨作乐喧天； 三条罪贬国母宫闱混乱， 四条罪听谗言灭忠宠奸； 五条罪命石父兴兵发难， 六条罪听奸妃诡计多端； 七条罪废太子纲常大变， 八条罪把朝纲抛在一边； 九条罪在骊山君妃饮宴， 十条罪焚烟墩戏弄群贤。 你为君十条罪人心涣散， 死九泉见先王有何话言。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "申侯！"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "大不该在骊山作乐饮宴， 大不该焚烟墩戏弄群贤。 你本是大丈夫英雄好汉， 杀了我无用人算什么能员。"
+        },
+        {
+          "character": "褒姒",
+          "type": "唱",
+          "text": "听他言不由我心中好惨， 作一朝人王主这样凄惨。 眼见得君妃们不能回转，"
+        },
+        {
+          "character": "褒姒",
+          "type": "哭头",
+          "text": "万岁吓！"
+        },
+        {
+          "character": "褒姒",
+          "type": "唱",
+          "text": "我、我和你就死在燃眉之间。"
+        },
+        {
+          "character": "褒姒",
+          "type": "哭头",
+          "text": "万岁吓！"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "吓！"
+        },
+        {
+          "character": "申侯",
+          "type": "唱",
+          "text": "又见他君妃哭得好惨， 杀君王犹如那弑父一般。 叫三军放开路容他逃散， 落一个忠义名万古流传。"
+        },
+        {
+          "character": "周幽王",
+          "type": "白",
+          "text": "梓童，此乃一字长蛇阵，有放你我君妃之意，走了罢。"
+        },
+        {
+          "character": "周幽王",
+          "type": "唱",
+          "text": "孤回朝有一日登了大宝， 捉住了这申侯万剐千刀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周幽王，褒姒同下。"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "幽王逃走。"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "带马。"
+        },
+        {
+          "character": "申侯",
+          "type": "唱",
+          "text": "非是吾让开路叫他逃散， 到前面遇戎兵难逃命还。 叫三军你与爷忙往前躜， 作一个假人情顺水推船。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "申侯、四上手同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孛丁、众将同上。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "某孛丁。挡住三岔路口，杀上前去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。周幽王、褒姒同上。"
+        },
+        {
+          "character": "周幽王、褒姒",
+          "type": "同白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孛丁杀周幽王、褒姒，周幽王、褒姒同死。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "君妃已死。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "杀进京城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孛丁、众将同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四将引郑掘突同上。"
+        },
+        {
+          "character": "郑掘突",
+          "type": "白",
+          "text": "俺，郑国世子掘突。我爹爹命丧戎兵之手，领了母亲之命，与父报仇。 杀上前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孛丁、众将同上，同会阵。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "来将通名。"
+        },
+        {
+          "character": "郑掘突",
+          "type": "白",
+          "text": "听道！我父郑伯友，俺乃郑国世子掘突。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "前来作甚？"
+        },
+        {
+          "character": "郑掘突",
+          "type": "白",
+          "text": "替父报仇。"
+        },
+        {
+          "character": "孛丁",
+          "type": "白",
+          "text": "放马过来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑掘突杀死孛丁。"
+        },
+        {
+          "character": "四将",
+          "type": "同白",
+          "text": "戎兵已灭。"
+        },
+        {
+          "character": "郑掘突",
+          "type": "白",
+          "text": "收兵回国。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "申侯、四上手同上。"
+        },
+        {
+          "character": "郑掘突",
+          "type": "白",
+          "text": "哪里人马？"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "申侯人马。"
+        },
+        {
+          "character": "郑掘突",
+          "type": "白",
+          "text": "人马列开。 参见申伯父。"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "谁臣之子，哪家之后？"
+        },
+        {
+          "character": "郑掘突",
+          "type": "白",
+          "text": "吾父郑伯友，小侄掘突。"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "原来是掘突贤侄，幽王君妃呢？"
+        },
+        {
+          "character": "郑掘突",
+          "type": "白",
+          "text": "被戎兵踹为泥浆了。"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "西戎兵将呢？"
+        },
+        {
+          "character": "郑掘突",
+          "type": "白",
+          "text": "被小将斩尽杀绝。"
+        },
+        {
+          "character": "申侯",
+          "type": "白",
+          "text": "好回朝保幼主登基，自有封赏，吩咐人马回朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "script_id": "03021012",
+  "title": "银空山",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "薛平贵",
+      "hangdang": "老生"
+    },
+    {
+      "name": "代战公主",
+      "hangdang": "旦"
+    },
+    {
+      "name": "高嗣继",
+      "hangdang": "小生"
+    },
+    {
+      "name": "魏虎",
+      "hangdang": "净"
+    },
+    {
+      "name": "王允",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "唐王晏驾，王允篡位，欲杀薛平贵。薛平贵逃走，王允遣高嗣继追之。薛平贵放出代战公主所贻之金铃鸽为\n号，代战公主赶至救援，高嗣继投降，引薛平贵反攻长安。",
+  "notes": "为全部《王宝钏》之第十二折。全部《王宝钏》共十三个剧目，除《武家坡》、《大登殿》两折，其余大部\n均不常见于舞台。有些单出戏经过历次舞台实践得到发展。经串连后，不免有词句重复、情节欠统一之处。\n本集为了存真，一律未予更动。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大开门〗。四红龙套、马达、江海、代战公主同上。〖点绛唇〗。代战公主左右两望，上高台。"
+        },
+        {
+          "character": "代战公主",
+          "type": "念",
+          "text": "威风凛凛坐将台，杀气腾腾云雾开。兵强马壮将士勇，南朝不敢动兵灾。"
+        },
+        {
+          "character": "代战公主",
+          "type": "白",
+          "text": "咱家，代战公主是也。只因大王私回长安，咱家带领人马，赶到界牌三关，用 金铃鸽儿换回金鈚令箭。是我对他言道，如果有难，将金铃鸽儿放回，咱家也 好发兵去救哇！这几日不见鸽子回来，想是大王平安无事。看今日天气晴和， 不免到银空山舞猎一回。 马达、江海！"
+        },
+        {
+          "character": "马达、江海",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "代战公主",
+          "type": "白",
+          "text": "兵发银空山哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "代战公主下高台，脱蟒。"
+        },
+        {
+          "character": "马达、江海",
+          "type": "同白",
+          "text": "啊！ 兵发银空山。带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "代战公主上马。代战公主、四红龙套、马达、江海同走圆场。"
+        },
+        {
+          "character": "马达、江海",
+          "type": "同白",
+          "text": "来到银空山。"
+        },
+        {
+          "character": "代战公主",
+          "type": "白",
+          "text": "听我一令！"
+        },
+        {
+          "character": "四红龙套",
+          "type": "同白",
+          "text": "噢！"
+        },
+        {
+          "character": "代战公主",
+          "type": "西皮导板",
+          "text": "将人马扎在银空山，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "代战公主、四红龙套、马达、江海同扯四门。"
+        },
+        {
+          "character": "代战公主",
+          "type": "西皮原板",
+          "text": "个个儿郎好威严！ 只因大王南朝转， 倒叫咱家挂心间。 耳边又听——"
+        },
+        {
+          "character": "代战公主",
+          "type": "西皮散板",
+          "text": "雁声喊， 空中大雁上下翻。 开弓放出刁翎箭，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "代战公主射雁。"
+        },
+        {
+          "character": "马达、江海",
+          "type": "同白",
+          "text": "大雁带箭而逃。"
+        },
+        {
+          "character": "代战公主",
+          "type": "白",
+          "text": "紧紧追赶。"
+        },
+        {
+          "character": "四红龙套",
+          "type": "同白",
+          "text": "噢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套、马达、江海、代战公主同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高嗣继上，起霸。"
+        },
+        {
+          "character": "高嗣继",
+          "type": "念",
+          "text": "头戴银盔明灿亮，身穿铠甲似秋霜。胯下一骑白龙马，上阵手持素银枪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套暗同上。"
+        },
+        {
+          "character": "高嗣继",
+          "type": "白",
+          "text": "俺，高嗣继。奉了王丞相将令，追赶平贵。可恨代战公主，战又不战，降又不 降，岂肯容她猖狂？ 众将官。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套同允。"
+        },
+        {
+          "character": "高嗣继",
+          "type": "白",
+          "text": "迎敌者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套同允。高嗣继上马，高嗣继、四白龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵上。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "心中只把魏虎怨，"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "俺，薛平贵。唐王晏驾，王允篡位。俺不免将金铃鸽儿放回，候公主大兵到此。 魏虎哇，贼！我不杀你誓不为人也！"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "苦苦害我为哪般？ 金铃鸽儿撒回转，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵放鸽儿。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "等候公主报仇冤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套引代战公主同上。"
+        },
+        {
+          "character": "代战公主",
+          "type": "西皮散板",
+          "text": "大王一去无音讯，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马达、江海同上。"
+        },
+        {
+          "character": "马达、江海",
+          "type": "同白",
+          "text": "鸽子回来啦！"
+        },
+        {
+          "character": "代战公主",
+          "type": "白",
+          "text": "想是大王有难。马达、江海！"
+        },
+        {
+          "character": "马达、江海",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "代战公主",
+          "type": "白",
+          "text": "吩咐兵发三关哪！"
+        },
+        {
+          "character": "马达、江海",
+          "type": "同白",
+          "text": "兵发三关哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "代战公主上马，四红龙套同走圆场。四白龙套引高嗣继同上，会阵。"
+        },
+        {
+          "character": "代战公主",
+          "type": "西皮散板",
+          "text": "问声小将名和姓？ 通上名来好交兵！"
+        },
+        {
+          "character": "高嗣继",
+          "type": "西皮散板",
+          "text": "老爷名叫高嗣继， 我保王允坐华夷！"
+        },
+        {
+          "character": "代战公主",
+          "type": "西皮散板",
+          "text": "听说来了高嗣继， 咱家与你见高低！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套、四白龙套、马达、江海同钻烟筒，自两边分下。高嗣继、代战公主同起打，自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵上。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "金铃鸽儿撒放转， 不见公主为哪般？ 将身来在汾河岸，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵到小边。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "那旁又来一将官。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高嗣继上。"
+        },
+        {
+          "character": "高嗣继",
+          "type": "西皮散板",
+          "text": "催马来在汾河岸， 只见平贵在面前。 手持金枪分心刺，"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "孤王上前忙遮拦。 问声小将名和姓， 刺杀孤王为哪般？"
+        },
+        {
+          "character": "高嗣继",
+          "type": "西皮散板",
+          "text": "白马银枪高嗣继， 我保王允坐江山！"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "自从盘古立地天， 哪有为臣坐江山？ 哗啦啦催开红鬃战，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵、高嗣继同起打，薛平贵跌下马。龙形上，舞，下。"
+        },
+        {
+          "character": "高嗣继",
+          "type": "西皮散板",
+          "text": "只见青龙头上翻。 翻身下了马走战，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高嗣继下马，跪。"
+        },
+        {
+          "character": "高嗣继",
+          "type": "西皮散板",
+          "text": "三呼万岁饶恕咱。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "人困马乏难交战，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵上马。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮快板",
+          "text": "只见小将跪马前。 马上擒王擒不住， 诓孤下马难上难！"
+        },
+        {
+          "character": "高嗣继",
+          "type": "西皮快板",
+          "text": "万岁不必仔细盘， 为臣保你坐江山。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮快板",
+          "text": "既愿保孤坐江山， 你对苍天表一番！"
+        },
+        {
+          "character": "高嗣继",
+          "type": "西皮快板",
+          "text": "我若保主有假意， 死在千军万马前！"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮快板",
+          "text": "一见小将盟誓愿， 不由孤王喜心间。 左思右想——"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "不下马，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵想。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "有了！"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "鞭梢搀起将魁元。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高嗣继起。"
+        },
+        {
+          "character": "高嗣继",
+          "type": "西皮散板",
+          "text": "西凉有个女代战， 她不归降也枉然。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "西凉有个女代战， 她保孤王坐江山。 耳旁又听人声喊，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套、代战公主同上。"
+        },
+        {
+          "character": "代战公主",
+          "type": "西皮散板",
+          "text": "来了代战女婵娟。 手使金枪分心点，"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "孤王上前忙遮拦。 白马银枪高嗣继， 他保孤王坐江山。"
+        },
+        {
+          "character": "代战公主",
+          "type": "西皮散板",
+          "text": "既然保你坐江山， 何不带兵反长安？"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "好哇！"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "孤王马上将令传！"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮快板",
+          "text": "马达、江海听我言： 上殿先拿王丞相， 休要放走魏左参！ 大喊一声催前趱，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套、高嗣继、代战公主同下。薛平贵到大边。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮散板",
+          "text": "薛平贵今日报仇冤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": "王允",
+          "type": "内西皮导板",
+          "text": "乌鸦不住当头叫，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏虎持大刀引王允同上。魏虎舞刀。"
+        },
+        {
+          "character": "王允",
+          "type": "白",
+          "text": "贤婿，这做什么？"
+        },
+        {
+          "character": "魏虎",
+          "type": "白",
+          "text": "在此保驾呀！"
+        },
+        {
+          "character": "王允",
+          "type": "白",
+          "text": "哪有这样的保法？"
+        },
+        {
+          "character": "魏虎",
+          "type": "白",
+          "text": "这叫武保。"
+        },
+        {
+          "character": "王允",
+          "type": "白",
+          "text": "还是文保的好！"
+        },
+        {
+          "character": "魏虎",
+          "type": "白",
+          "text": "还是武保的好！哇呀呀……"
+        },
+        {
+          "character": "王允",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "王允",
+          "type": "西皮散板",
+          "text": "叫得老夫心内焦。 怕的是代战女兴兵到， 孤王我江山坐不牢。"
+        },
+        {
+          "character": "魏虎",
+          "type": "白",
+          "text": "老丈人哪！"
+        },
+        {
+          "character": "魏虎",
+          "type": "西皮散板",
+          "text": "岳父休要心烦恼， 小婿言来听根苗： 哪怕那代战女兴兵到， 有魏虎我会耍大刀！"
+        },
+        {
+          "character": "王允",
+          "type": "西皮散板",
+          "text": "贤婿休要胡乱道， 你保孤王坐九朝。 快快摆驾金殿道，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套引马达、江海同上，擒王允、魏虎同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四红龙套、马达、江海、代战公主自上场门同上，四白龙套、高嗣继自下场门同上，过场，四红龙套、马"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "达、江海、四白龙套同下。代战公主、高嗣继双耍小下场，双收，分下。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

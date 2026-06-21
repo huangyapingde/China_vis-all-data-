@@ -1,0 +1,1993 @@
+{
+  "script_id": "01012001",
+  "title": "泥马渡康王",
+  "alias": [
+    "五国城"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "崔孝",
+      "hangdang": "末"
+    },
+    {
+      "name": "赵构",
+      "hangdang": "小生"
+    },
+    {
+      "name": "兀术",
+      "hangdang": "净"
+    },
+    {
+      "name": "宋徽宗",
+      "hangdang": "外"
+    },
+    {
+      "name": "宋钦宗",
+      "hangdang": "老生"
+    },
+    {
+      "name": "崔府君",
+      "hangdang": "外"
+    },
+    {
+      "name": "王爷甲",
+      "hangdang": "副净"
+    },
+    {
+      "name": "王爷乙",
+      "hangdang": "老生"
+    },
+    {
+      "name": "马童",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "是剧出《精忠说岳》第十九至二十回，即演“崔总兵进衣传血诏”、“金营神鸟引真主，夹江泥马渡康王”\n三句之事实。《说岳》称，徽、钦二帝既北迁，被囚于五国城，惨苦万状，有前代州总兵，陷落金邦十八年\n现为金营马医之崔孝，特具羊裘二袭，牛羊脯若干斤，送往五国城。乘机令钦宗修下血诏一通，夹带出城，\n密递康王，令其遁归中原即位，以承先王祭祀。康王既得诏，一日，忽有神鸟做人语鸣曰：“赵构赵构，此\n时不走，还等什么时候”。康王遂借射鸟为名，一路向南冲营而出，至夹江边，兀术兵已追至，幸得神马力，\n引之渡江出险，乃赴南都即帝位。",
+  "notes": "此剧以小达子为最擅演。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝上。"
+        },
+        {
+          "character": "崔孝",
+          "type": "念",
+          "text": "从龙披铠报君恩，惨遇遮天蔽日云。有志擎天无路入，英雄空自泣长城。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "老汉，崔孝。昔为雁门总兵，后遭贬谪，流于北国，医兽为生。近闻徽、钦二 圣，被囚五国城中，苦不可言。是我备得羊裘二件，前来看看我那仁主，以尽 为臣之道。正是："
+        },
+        {
+          "character": "崔孝",
+          "type": "念",
+          "text": "国家颠沛随天运，空使孤臣泪满襟。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "来此已是。 吓。哪位爷在？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二小番同上。"
+        },
+        {
+          "character": "二小番",
+          "type": "同念",
+          "text": "奉了狼主命，看守五国城。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "二位。"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "吓，原来是崔老儿。咱们这里又没有马医，你来干什么？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "请问二位，闻得我朝君王，被囚在此，可是真否？"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "是真。你问他怎么？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "老汉离家日久，特来问问家乡光景。求二位爷方便一二，放我进去。"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "呸，胡说！这是南朝两个皇帝，被俺狼主，囚在此地。命咱们提枪喝号，日夜 防守，岂容闲人出入么。不看你年老，定要拿你问罪。不要多说，做你的生意 去罢！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "二位吓！"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "可怜我离家乡二十余载， 到如今没有个音信往来。"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "他是个皇帝，怎能够替你走家信，你在哪里住？"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "家住在崔家庄汴梁城外， 与君王叙叙乡谈谈心怀。"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "他是君，你是民，没有什么攀谈！"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "他是君我是民乡亲有爱， 哎呀，二位爷吓！ 可怜他失国君死无埋葬。"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "你苦苦要见，敢则有什么夹带么？"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "我带来羊皮袄与他遮盖， 权当作祭君王烧奠坟台。"
+        },
+        {
+          "character": "小番甲",
+          "type": "白",
+          "text": "我的哥。"
+        },
+        {
+          "character": "小番乙",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "小番甲",
+          "type": "白",
+          "text": "看这老头儿哭得可怜，他若做官，倒是个忠臣。"
+        },
+        {
+          "character": "小番乙",
+          "type": "白",
+          "text": "他在咱们这里，二十多年，谅他没有什么奸诈，咱们放他进去罢！"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "老头儿。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "我们放你进去见面，你就要出来。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "是。就出来的。"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "咱们进去喝酒，请吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二小番同下。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "我那万岁在哪里？"
+        },
+        {
+          "character": "宋徽宗、宋钦宗",
+          "type": "内同白",
+          "text": "苦吓！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "圣上吓！"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "内二黄导板",
+          "text": "忽听得呼万岁心中自揣，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋徽宗上，宋钦宗上。"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "白",
+          "text": "老天吓！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "二黄摇板",
+          "text": "沙漠地哪还有贤臣到来！"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "二黄摇板",
+          "text": "心恍惚睁双眼将他观看，"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "二黄摇板",
+          "text": "又只见一老臣跌跪尘埃。"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "下跪何人？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "罪臣崔孝，昔为雁门总兵，遭了谪贬，流于北国。今闻二主被困，臣带得羊裘 二件，前来探望。今见陛下受此凌辱，使臣寸断肝肠。但不知老王陛下何由至 此？"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "哎呀，卿家吓！这是寡人之错，误听奸贼专权。金兵起叛，被张邦昌等，蔽日 欺天，隐瞒不漏，直等金兵临城，朕才知觉。欲待开城迎敌，怎奈孤兵微将寡， 四路不通消息。只得听从奸言，命九殿下出城求和，被金人刺死。后命康王 过江，奸贼诓孤父子，囚与此地。不想太祖遗业，尽化灰尘。不但社稷倾危， 亦且断嗣灭后，说来好不痛心也。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "吓！康王殿下，也在此么？"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "闻听他已被金贼收留膝下矣。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "哎呀陛下吓！"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "听君言把我的忧心焦坏， 朝无主奸掌权怎把兵排！ 眼见得锦江山被贼所卖， 哎呀，万岁吓！ 怎得个栋梁臣扫尽狼烟。"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "哎呀崔卿吓！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "二黄摇板",
+          "text": "孤父子囚禁在沙漠所在， 小康王被贼哄自己痴呆。 难得你秉忠心单人入寨， 还望你搬救兵解此祸灾。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "陛下至此急难之时，罪臣粉身碎骨，理所当然！只是路途遥远，老臣骨软筋衰， 只恐无命归国，空劳君王盼望，如何是好？"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "这便怎么？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "这……哦，有了！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "卿有何计？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "康王殿下，现在这本营营中。陛下可修诏书，待臣秘密投交殿下，叫他见机而 行，逃回中原，整顿大兵前来，迎救老王同陛下回国。"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "此计甚好，待孤咬破指尖，扯下汗衫，草写血诏便了。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "哎呀，看陛下这等形衰，敢是饮食不足么？"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "崔卿吓！我父子在此，每日只有一粥充饥！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "唉，圣上吓！"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "可怜他九重尊如何忍耐， 每日里一餐粥饥饿难挨。 若取饭又恐怕出入有碍，"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "也罢！"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "我只得割己肉急火煮来。 请陛下书写诏暂且等待， 有罪臣去取饭与主下怀。"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "他们怎肯放你出入，还是带了诏书去罢！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "不妨。老臣在此二十余年，这些兵卒，俱已认识。陛下请写诏书。臣去就来。"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "就要来吓！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝下。"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "崔卿吓！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "二黄导板",
+          "text": "有寡人修血诏珠泪满腮，"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "二黄慢板",
+          "text": "难得这老孤臣从空降来。 咬中指鲜血淋诏书写载，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋钦宗咬指。"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "白",
+          "text": "皇儿，你、你好不疼痛也！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "儿臣不痛。"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "白",
+          "text": "十指连心，哪有不痛之理！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "父王吓！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "二黄摇板",
+          "text": "忍疼痛恐伤我父王心怀。 钦宗诏晓御弟飞马离塞， 回中原领人马早定兵灾。 老王爷同孤在五国城待， 似苏武啖毡雪倒卧尘埃。 太上皇锦江山今已损坏， 仗御弟整乾坤重理龙台。 老王爷和愚兄料难久待，"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "哎，御弟吓！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "二黄摇板",
+          "text": "孤死期在目前魂掩泉台。 至阴曹听御弟颁师奏凯， 那时节瞭目心撒手去，永不挂心怀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝上。"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "索股儿割不上一斤一块， 充不了二主饥苦痛哀哉！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "陛下。诏书可曾修起？"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "修起好了。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "老臣烹得羊肉数片，与我主充饥。"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "送与老王爷御用。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "是。 老王爷请用。"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "白",
+          "text": "哎。难得贤臣，如此忠心。"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "崔卿，这样旷野之地，人烟全无，哪得有此汤水？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "是老臣问金丁买来的。"
+        },
+        {
+          "character": "宋徽宗、宋钦宗",
+          "type": "同白",
+          "text": "哦。"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "白",
+          "text": "皇儿，你也吃些。"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "儿臣怒气填胸，吞吃不下。"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "陛下暂且容忍。请问诏书上面，怎生区处？"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "哎呀崔卿吓！寡人千言万语，书之不尽。只是大宋江山，在此一举。卿家请上， 受寡人一拜！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "哎。老臣不敢！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "父王，看崔卿左手血淋淋，满脸疼痛之状，却是为何？"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "白",
+          "text": "哦，崔卿，割股救我父子之饥。"
+        },
+        {
+          "character": "宋徽宗、宋钦宗",
+          "type": "同白",
+          "text": "崔卿取手过来。"
+        },
+        {
+          "character": "宋徽宗、宋钦宗",
+          "type": "同哭",
+          "text": "哎呀，崔卿吓！"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "二黄摇板",
+          "text": "只见他割了股鲜血尚在，"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "二黄摇板",
+          "text": "不由人悲切切感痛伤怀。"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "二黄摇板",
+          "text": "似这等忠良臣有谁比赛，"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "二黄摇板",
+          "text": "凌烟阁表芳名万古贤哉！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "陛下吓！"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "圣天子遭囚禁臣心伤坏， 纵粉身与碎骨也是应该。 请主公莫把这闲情挂碍， 有何言嘱老臣紧记心怀。"
+        },
+        {
+          "character": "宋徽宗、宋钦宗",
+          "type": "同二黄摇板",
+          "text": "也无言也无语低头下拜，"
+        },
+        {
+          "character": "宋徽宗",
+          "type": "白",
+          "text": "皇儿！"
+        },
+        {
+          "character": "宋钦宗",
+          "type": "白",
+          "text": "御弟吓！"
+        },
+        {
+          "character": "宋徽宗、宋钦宗",
+          "type": "同二黄摇板",
+          "text": "速速地急回国早把兵排。"
+        },
+        {
+          "character": "宋徽宗、宋钦宗",
+          "type": "同白",
+          "text": "哎呀，卿家吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋徽宗、宋钦宗同下。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "藏血诏心如箭恨足不快，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二小番同上。"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "崔老儿进去半天，还不见出来，我们进去瞧瞧。 呔，崔老儿还不快走么？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "哦。"
+        },
+        {
+          "character": "崔孝",
+          "type": "二黄摇板",
+          "text": "言未尽又只见金兵到来。"
+        },
+        {
+          "character": "二小番",
+          "type": "同白",
+          "text": "快走快走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构上。"
+        },
+        {
+          "character": "赵构",
+          "type": "念",
+          "text": "风烟骤起雾乾坤，损破金瓯出风尘。失势蛟龙难出现，我何时才得驾行云。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "吾赵构，乃徽宗之子康王是也，世代登基祖业。只因兄王不识贤路，听奸专权， 故而被诓在此，使孤有兵难调，有国难投。金贼爱孤如珍，收为膝下，不知 几时云开日现，再整乾坤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众小军合道同上。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "父王今日行围，命孤同往，只得在此伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝上。"
+        },
+        {
+          "character": "崔孝",
+          "type": "念",
+          "text": "九重血诏藏怀内，来觅开基创业人。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "看那旁，坐着一员小将，面生得很，不象金邦打扮，敢么就是康王千岁。待我 原做医马为由，近前答话。 吓。列位吓！"
+        },
+        {
+          "character": "小军甲",
+          "type": "白",
+          "text": "站开些。殿下在此！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "是。可有马医么？"
+        },
+        {
+          "character": "小军甲",
+          "type": "白",
+          "text": "没有。站开些。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "是。吓，爷这里来。"
+        },
+        {
+          "character": "小军甲",
+          "type": "白",
+          "text": "崔老儿做什么？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "请问，这位小将面生得紧，他是哪个吓？"
+        },
+        {
+          "character": "小军甲",
+          "type": "白",
+          "text": "崔老儿，你不知道。这是南朝殿下康王，被咱们四太子诓来，收为螟蛉之子， 咱们太子爷，十分欢喜他呢。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "哦，原来如此。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "哎！有这老儿，只管偷眼觑我，似有储蓄之言。听他口语，不是北方人氏，莫 非是我朝探子乎？哦，自有道理。 来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众小军同允。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "这是何人？"
+        },
+        {
+          "character": "小军甲",
+          "type": "白",
+          "text": "他是医马的。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "哦，他是医马的么？"
+        },
+        {
+          "character": "小军甲",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "你们各自分头去看，各营的马匹，若有病症，命他前去医治。"
+        },
+        {
+          "character": "众小军",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众小军同下。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "小人叩头。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "你是医马的么？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "能医。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "可能治人心痛？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "能治人心痛。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "孤之心痛，你能治否？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "能治。请问殿下，可是康王千岁？"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "正是。你是何人？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "罪臣崔孝，昔为雁门总兵。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "莫非我朝有救？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "今有钦……"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "噤声！ “钦”什么？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "今有钦宗皇帝血诏在怀，不便呈上。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "哎呀。想这四面俱是金兵，不便接诏。这便怎么处？哦。有了。 崔卿，兀术今日打围，命小王同往，你可往南先行数里，在路边等候，待孤假 意坠马，脱身回来计议。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "快走快走。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "吓，是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝下。众小军同上。"
+        },
+        {
+          "character": "众小军",
+          "type": "同白",
+          "text": "启殿下：各营马匹，俱无病症。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "起过了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、四大铠引兀术同上。"
+        },
+        {
+          "character": "兀术",
+          "type": "点绛唇",
+          "text": "势勇兵强，征南代上，破天荒，中原扫荡，直待拱手降。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "父王在上，孩儿参拜。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "皇儿平身。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "谢父王。"
+        },
+        {
+          "character": "兀术",
+          "type": "念",
+          "text": "鼓角动江城，旌旗耀日明。举手夺宋室，指日定乾坤。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "孤，兀术是也。前番领兵征南，势如破竹，又得降将。且喜赵家父子，皆被诓 来，囚于此地。只待张邦昌等各处招安，接应已到，便可登基也。今当中秋天 气，不免射猎一回，稍壮胆色。 来！"
+        },
+        {
+          "character": "四大铠",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "有请二位王爷。"
+        },
+        {
+          "character": "四大铠",
+          "type": "同白",
+          "text": "有请二位王爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二王爷同上。"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "来了。"
+        },
+        {
+          "character": "王爷甲",
+          "type": "念",
+          "text": "闷向南山擒虎豹。"
+        },
+        {
+          "character": "王爷乙",
+          "type": "念",
+          "text": "闲来东宫乐管弦。"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "吓皇兄。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "御弟少礼。"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "唤小弟出来，有何军情？"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "今当中秋之日，犹恐众将懒怠，一同射猎一回，壮其军威。"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "有理。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "皇儿一同前去。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "众将官。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "人马开到校场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同允。〖牌子〗。赵构跌。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "皇儿可曾跌坏？"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "儿臣坠下马来，多亏此人扶住。只是伤了右腿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝上。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "吓。你是何人？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "小人姓崔名孝。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "为何打扮不同。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "小人乃是南朝人士，在此医马二十余年了。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "他是医马的么？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "是医马的。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "多大年纪？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "八十一岁。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "可想回乡？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "小人乃单身一人，回家也是无益。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "好。命你以为殿下亲随，小心服侍，另有升赏。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "谢千岁。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "儿臣自不小心，不能随驾，父王恕罪。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "皇儿回营调治，为父射猎就回。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "谢父王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小军、崔孝引赵构同下。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "催动人马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同允，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构、四小军、崔孝同上。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "你等退下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小军同下。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "崔孝随我来。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "崔孝，圣谕何在？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "血诏在此。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "哎吓，父王、皇兄吓！"
+        },
+        {
+          "character": "赵构",
+          "type": "二黄摇板",
+          "text": "赵康王见血诏珠泪满腮， 可怜你九重尊血染绢来。 钦宗诏晓御弟飞马离塞， 回中原搬人马早定兵灾。 老王爷同孤在五国城待， 似苏武啖毡雪倒卧尘埃。 太上皇锦江山今已损坏， 仗御弟整乾坤重复龙台。 老王爷和皇兄料难久待， 哎吓，父王吓！ 死期至在目前魂掩泉台。 在阴曹听御弟颁师奏凯， 那时节瞭目心撒手去，永不挂心怀！"
+        },
+        {
+          "character": "赵构",
+          "type": "哭",
+          "text": "哎哎哎，父王、皇兄吓！"
+        },
+        {
+          "character": "赵构",
+          "type": "二黄摇板",
+          "text": "观罢了这血诏无计可奈， 似蛟龙被金锁怎若得开！"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "殿下请止悲泣，打点回南主意，休负二圣之望。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "哎吓崔卿吓！金兵重重叠叠，兀术不肯远离，如何脱身？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "这便怎处？"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "哦，有了。崔卿你可随孤左右，待孤转到围场，面见兀术。想那围场之处，便 是回南要路，候他罢猎回营，见机逃走便了。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "倘问坠马情由，怎生回答？"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "孤自有回答。带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝允。"
+        },
+        {
+          "character": "赵构",
+          "type": "西皮摇板",
+          "text": "藏机密到围场将言遮盖， 回南朝起大兵剿灭狼豺。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构、崔孝同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔府君上，马童、童儿带马同上，四卒同上。"
+        },
+        {
+          "character": "崔府君",
+          "type": "白",
+          "text": "吾乃崔府君是也。今当康王归国之期，吾当暗中保护。 童儿，"
+        },
+        {
+          "character": "童儿",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "崔府君",
+          "type": "白",
+          "text": "你可变一飞禽，口吐南朝言语，指引康王归国，不得有误。"
+        },
+        {
+          "character": "童儿",
+          "type": "白",
+          "text": "领法旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童儿下。"
+        },
+        {
+          "character": "崔府君",
+          "type": "白",
+          "text": "马童过来。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "崔府君",
+          "type": "白",
+          "text": "你可带吾坐骑，在两界山等候，待康王落马，与他乘之。"
+        },
+        {
+          "character": "马童",
+          "type": "白",
+          "text": "领法旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马童下。"
+        },
+        {
+          "character": "崔府君",
+          "type": "白",
+          "text": "尔等保护康王过江，不可有误。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "领法旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兀术、二王爷、四太监、四大铠、四侍女同上。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "撒下围场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同喝。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "吓，御弟！"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "皇兄！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "你我虽享一国之荣，究竟荒山沙漠之地，万不及中原繁华。但愿早得中原，方 为万幸。"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "皇兄洪福齐天，中原不久垂手而得矣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同笑。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "吩咐起射。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四侍女同允。起鼓。众人各射。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "好！"
+        },
+        {
+          "character": "兀术",
+          "type": "念",
+          "text": "弓开如满月，箭法似寒星。狐鬼难逃避，飞鸿难纵横。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "好箭法也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "吩咐操枪。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "操枪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同允，同操枪。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "好吓！"
+        },
+        {
+          "character": "兀术",
+          "type": "念",
+          "text": "儿郎雄似虎，枪锋铁甲穿。舞动梅花锦，翩翩可仗先。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "好枪法。哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虎形上，过场，王爷乙追下，追虎形同上，打死虎形。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "御弟打虎之能，不弱卞庄、存孝也！"
+        },
+        {
+          "character": "王爷乙",
+          "type": "白",
+          "text": "皇兄夸奖。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "侍女们！"
+        },
+        {
+          "character": "四侍女",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "歌唱一回。"
+        },
+        {
+          "character": "四侍女",
+          "type": "同寄生草",
+          "text": "三阳开泰和风至， 绿柳荫子规啼。 荒郊外空中飘舞， 飞柳絮，转过小桥西。 见几个佳人闲游戏， 见一个牧童儿头戴蓑笠，身披蓑衣，跨青牛，口吹笛。 借问声，杏花村走哪条路儿去， 牧童回言道，转过湾来芳草地。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "好。回营领赏。"
+        },
+        {
+          "character": "四侍女",
+          "type": "同白",
+          "text": "谢千岁！"
+        },
+        {
+          "character": "赵构",
+          "type": "内白",
+          "text": "马来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构上。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "父王在上，儿臣拜见！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "二位叔父！"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "罢了。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "皇儿方才坠马，怎能痊愈？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝上。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "儿臣此时，不过右腿疼痛，多亏崔孝槌把一回。似已痊愈。营中寂寞，特到驾 前呈欢。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "难得皇儿如此孝心。 来，赏崔孝黄金一锭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监允。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "谢千岁。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "摆宴。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "儿臣把盏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "过江南牌。童儿变鸟声。"
+        },
+        {
+          "character": "童儿",
+          "type": "白",
+          "text": "赵构，此时不走，还有什么时候！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": "童儿",
+          "type": "白",
+          "text": "赵构不走，待等何时！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "哎。这是什么鸟声？孤从未听过。 吓，皇儿，倒像你南人说话一般。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "启奏父王：这是怪鸟，名叫枭鹢鸟，儿臣中原常有，鸣则不祥。况且能效人言， 他在那里骂父王。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "他骂孤什么？"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "儿臣不敢奏。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "此是鸟声，非儿之罪。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "谢父王。他骂父王“骚鸡狗，绝了你的咽喉，断了你的首”。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "唔哇哇！这孽畜十分可恶。看弓箭来过！"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "父王赐与儿臣射罢。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "也罢。看皇儿弓箭如何。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "谢父王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构背供。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "神圣在上：倘若上苍不绝宋室之后，箭中鸟身，引孤逃命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构射。童儿接箭下。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "带箭而逃！"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "带马追赶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝允。赵构追下，崔孝下。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "皇儿不要追赶！ 哎哎！这孩子，一枝箭能值几何！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人内同喊。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "众军为何喧嚷？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启千岁：殿下踹营而过，众军回避不及，故尔喧嚷。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "原来如此。吩咐禁止喧嚷。两厢闪开，任凭殿下出入。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。众人内同喊。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "谁敢违令喧嚷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启千岁：殿下马骤如飞，往南而去。随行军士，恐其跌落，拦住马头，小千岁 把他们斩首了！"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "吓，为何斩本营将士？"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "看他有回南之意。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "哎呀！看此子今日变颜悦色，比旧不同，事有可疑。 军士们！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "随孤追赶。不可伤他性命，违令者斩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同允，同下。兀术下。"
+        },
+        {
+          "character": "王爷甲",
+          "type": "白",
+          "text": "御弟，"
+        },
+        {
+          "character": "王爷乙",
+          "type": "白",
+          "text": "皇兄。"
+        },
+        {
+          "character": "王爷甲",
+          "type": "白",
+          "text": "看昌平王把那个南蛮，当作掌上明珠，只怕是栽林养虎。"
+        },
+        {
+          "character": "王爷乙",
+          "type": "白",
+          "text": "虎大伤人。"
+        },
+        {
+          "character": "二王爷",
+          "type": "同笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "你我一同前去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二王爷同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构、崔孝同上。兀术、二王爷、四太监、四大铠同上。赵构下。众人同追下。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "吓崔孝，你主人莫非有回南之意？"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "小人不知。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "一定是你的诡计。赶他回来，将你碎尸万段！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兀术下。"
+        },
+        {
+          "character": "崔孝",
+          "type": "白",
+          "text": "哎吓，想我骨软筋衰，不能持戈，扶保乾坤。但愿皇天默佑，保主重兴，我当 尽忠一死，岂受千刀！哎吓，圣上吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔孝自刎，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构上，众人同追上。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "吓，看他头也不回，果然心变。也罢，待孤射他一箭。且住，不要伤孤爱子， 待孤射他马腿便了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兀术射。赵构跌下。马童暗上，牵马，赵构上马，下。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "何人送马与他，带来见孤。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "并无人影。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "追上前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构上，众人同上。"
+        },
+        {
+          "character": "赵构",
+          "type": "白",
+          "text": "哎呀，前有长江挡住，后有敌国追兵。宁做长江之鬼，不为牛犬之儿。俺赵构 今日死也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵构跳水，下。兀术上。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "皇儿何在？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "投水而亡。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "怎生得渡？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "满江大雾，不见人影。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "闪开了。 哎吓。皇儿吓！"
+        },
+        {
+          "character": "兀术",
+          "type": "西皮摇板",
+          "text": "一霎时狂风起大雾满天， 盼不见孤皇儿好不惨然。"
+        },
+        {
+          "character": "众人",
+          "type": "同西皮摇板",
+          "text": "莫不是他国中另有机变，"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "来，速备战船追赶！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "并无船只。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "他是怎生得渡？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "他是单人独马下江，并无船只。"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "哎呀儿吓！"
+        },
+        {
+          "character": "兀术",
+          "type": "西皮摇板",
+          "text": "必定是遭风浪命丧九泉。 没有那擎天手不得回转，"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "兀术",
+          "type": "西皮摇板",
+          "text": "恨杀那崔孝贼奸计显然。 害得孤父子们心分腹变， 害得孤被人谈不识愚贤。 孤与你东宫位归期不远， 又何必舍性命误入江边。 老天爷保佑孤父子重见， 哎儿吓！ 那时节满炉香答谢上天。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二王爷同上。"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "马来！"
+        },
+        {
+          "character": "王爷甲",
+          "type": "西皮摇板",
+          "text": "闻听得小康王落水不见，"
+        },
+        {
+          "character": "二王爷",
+          "type": "同白",
+          "text": "皇兄。"
+        },
+        {
+          "character": "王爷乙",
+          "type": "西皮摇板",
+          "text": "何必把别家子挂在心间。"
+        },
+        {
+          "character": "王爷甲",
+          "type": "西皮摇板",
+          "text": "请回归把胸中英才旋转，"
+        },
+        {
+          "character": "王爷乙",
+          "type": "西皮摇板",
+          "text": "大丈夫何须被儿女为牵。"
+        },
+        {
+          "character": "兀术",
+          "type": "西皮摇板",
+          "text": "听他言不由孤羞愧满面，"
+        },
+        {
+          "character": "兀术",
+          "type": "白",
+          "text": "人马收回。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同允。"
+        },
+        {
+          "character": "兀术",
+          "type": "西皮摇板",
+          "text": "吞着声忍着气珠泪涟涟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

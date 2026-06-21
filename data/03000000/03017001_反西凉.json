@@ -1,0 +1,1765 @@
+{
+  "script_id": "03017001",
+  "title": "反西凉",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "马超",
+      "hangdang": "武生"
+    },
+    {
+      "name": "曹操",
+      "hangdang": "净"
+    },
+    {
+      "name": "许褚",
+      "hangdang": "净"
+    },
+    {
+      "name": "曹洪",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "曹操挟天子令诸侯，马腾不服，曹操以伪旨召马腾入京受爵，中途伏甲兵刺死马腾。马腾子马超闻耗，率西\n羌兵攻中原，西凉太守韩遂往助之。曹操闻报驰书潼关守将徐晃，令坚守勿战，曹操领兵往救。马超军攻潼\n关甚急，曹操将曹洪违命出战，致败失潼关。曹操闻报驰援，适马超兵骤至，曹兵败溃，马超军扬言欲活捉\n曹操，曹操弃袍割须而逃，败至渭水渡口，马超军追至，幸许褚护曹操登舟，乃得幸免。",
+  "notes": "本剧经苏连汉先生校正。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引夏侯惇同上。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "念",
+          "text": "朝中天子宣，阃外法度严。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "俺、夏侯惇。曹丞相密令传唤，不知为了何事。 来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "辕门去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯惇、四文堂同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引董平同上。"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "俺、董平。丞相传唤，不知为了何事。 来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应。"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "辕门去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董平、四文堂同走圆场，夏侯惇、四文堂同上。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "前道为何不行？"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "董将军挡道。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "人马列开！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "啊，董将军！"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "夏侯将军！"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "今欲何往？"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "丞相密令传唤，不知为了何事，因此起兵而来。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "俺也为此而来，你我合兵一处。 众将官！带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、二旗牌引曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "代理山河，藐群雄，独霸朝阁。"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "老夫亲领南征，袁绍抗吾之兵。群雄皆已服顺，孙、刘只在掌中。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫，曹操。自除董卓之后，诸侯皆已服顺。唯有西凉马腾，依仗他子英勇， 有抗我之意。若不早除，必为后患。我也曾命人去唤夏侯惇、董平二将议事， 还不见到来。 左右！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "伺候了！"
+        },
+        {
+          "character": "四文堂",
+          "type": "内同白",
+          "text": "二位将军到！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引夏侯惇、董平同上。"
+        },
+        {
+          "character": "夏侯惇、董平",
+          "type": "同白",
+          "text": "丞相在上，末将等大礼参拜。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "只行常礼，请坐。"
+        },
+        {
+          "character": "夏侯惇、董平",
+          "type": "同白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "二位将军征伐边庭，诸侯丧胆，真乃国家之支柱也。"
+        },
+        {
+          "character": "夏侯惇、董平",
+          "type": "白",
+          "text": "末将等全仗军威，何劳丞相美赞！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将军虎威！"
+        },
+        {
+          "character": "夏侯惇、董平",
+          "type": "同白",
+          "text": "丞相相约，有何见谕？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "二位将军哪里知道。只因除却董卓之后，诸侯皆已服顺，唯有马腾倚仗他子英 勇，有抗我之意，必为后患。故请二位将军前来，共议此事。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "听丞相之言，莫非有吞汉之意么？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哈哈哈……未知天意可遂？"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "末将有计献上。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "丞相假传圣旨一道，召马腾进京，加官进爵。再命董平将军执金牌一面，带领 一支人马，埋伏中途。等候马腾到来，一齐杀之，何愁大事不成！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "倘若他子马超倒反西凉，如何是好？"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "丞相可命徐晃、曹洪驻扎潼关，紧守不战。候丞相大兵一到，开关一战，前后 夹击，哪怕马超不灭！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哈哈哈……全仗二位将军。老夫备得有酒，与二位将军痛饮！"
+        },
+        {
+          "character": "夏侯惇、董平",
+          "type": "同白",
+          "text": "末将等把盏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "摆筵。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "二位将军请！"
+        },
+        {
+          "character": "夏侯惇、董平",
+          "type": "同白",
+          "text": "丞相请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。曹操、夏侯惇、董平同饮酒。"
+        },
+        {
+          "character": "夏侯惇、董平",
+          "type": "同白",
+          "text": "啊丞相，此事宜早不宜迟。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "夏侯将军听令！"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "命你假传圣旨一道，去至边关，召马腾父子进京，不得有误！"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯惇下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "董平听令！"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "命你执金牌一面，带领一千刀斧手，扎在中途，见了马腾父子，一齐杀之，不 得有误！"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董平下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "来，传我将令！命徐晃、曹洪紧守潼关，不得有误！"
+        },
+        {
+          "character": "旗牌甲",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌甲下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "但愿苍天遂人意，杀却马腾称心机。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四车旗引马岱同上。"
+        },
+        {
+          "character": "马岱",
+          "type": "唱",
+          "text": "帐中奉了父帅令， 解押粮草要小心。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "俺，马岱。奉了父帅将令，催押粮草。粮草催齐不免回营交令。 众将官！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "回营去者！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "马岱",
+          "type": "唱",
+          "text": "三军与爷把路引， 见了父帅把功擎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、旗牌引马腾同上。"
+        },
+        {
+          "character": "马腾",
+          "type": "引子",
+          "text": "镇守西羌，秉忠心，扶保朝堂。"
+        },
+        {
+          "character": "马腾",
+          "type": "念",
+          "text": "炎汉社稷如丝悬，曹操竟比董卓奸。许田射鹿欺天子，血诏不密枉徒然。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "本都，姓马名腾字寿成。献帝驾前为臣，奉了万岁之命，镇守西凉一带。只因 曹操在朝专政，欺君妄上，是献帝修下血诏，命董承约请众诸侯共灭曹操。也 是董承作事不密，将大事泄露，全家被害。为此本都回至西凉，每日操演人马， 誓灭国贼。这且不言，我命马岱前去催粮，这般时候，还不见到来。"
+        },
+        {
+          "character": "马岱",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四车旗引马岱同上。"
+        },
+        {
+          "character": "马岱",
+          "type": "念",
+          "text": "将相本无种，男儿当自强。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "参见父帅，孩儿交令。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "罢了，粮草可曾催齐？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "粮草催齐，请父帅查点。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "不必查点，我儿之功也！"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "内白",
+          "text": "圣旨下！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "启元帅圣旨下。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "香案接旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引夏侯惇同上。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "圣旨下，跪。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "听宣读，诏曰：马腾父子镇守边关，受尽风霜之苦。朕思念功臣，召卿进京， 加官进爵，议论朝事。旨意读罢，望诏谢恩！"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "请过圣旨。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "香案供奉。有劳将军，捧旨前来，后帐摆宴！"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "朝命在身，不敢久停，告辞。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "奉送！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯惇带四文堂同下。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "圣旨到此，召我进京，议论国事。就命马超、庞德镇守西凉，操练人马，听候 调用，不得有误。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "就此起马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手引董平同上。"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "俺，董平。奉了丞相将令，密发金牌，中途路上刺杀马腾。 军士们！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同应。"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "趱行者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": "马腾",
+          "type": "内唱",
+          "text": "圣旨一到奔京城，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、马岱引马腾同上。"
+        },
+        {
+          "character": "马腾",
+          "type": "唱",
+          "text": "带领大小众三军。 人来与爷往前进！"
+        },
+        {
+          "character": "董平",
+          "type": "内白",
+          "text": "金牌下！"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "马腾",
+          "type": "唱",
+          "text": "金牌到此为何情？"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "儿啊，哪里来的金牌啊？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "想必曹操定下诡计，须要提防一二。"
+        },
+        {
+          "character": "马腾",
+          "type": "白",
+          "text": "我儿不必多言，闪在一旁。 有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手引董平同上。"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "金牌下。"
+        },
+        {
+          "character": "马腾、马岱",
+          "type": "同白",
+          "text": "万岁！"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "朕言：朝中有紧要军情，命马腾父子，不分昼夜，火速进京，误负朕命！"
+        },
+        {
+          "character": "马腾、马岱",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "看剑！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董平杀死马腾，马岱跑下。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "马腾已死！"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "回复丞相去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超上。"
+        },
+        {
+          "character": "马超",
+          "type": "引子",
+          "text": "剑气冲霄汉，英名震西羌。"
+        },
+        {
+          "character": "马超",
+          "type": "念",
+          "text": "韬略兵机历代传，文修武备在心间。父授战策威名显，压服西凉半壁天。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "俺，姓马名超字孟起。我父马腾，献帝驾前为臣，奉命镇守西凉一带。前日圣 旨到来，召我父进京议事。只因昨夜偶得一梦，是我身卧雪地。醒来不觉心惊 肉跳，不知是何吉凶？正是："
+        },
+        {
+          "character": "马超",
+          "type": "念",
+          "text": "心中怀念血带诏，何日才能报君王。"
+        },
+        {
+          "character": "马岱",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱上。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "参见兄长，大事不好了！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "曹操使用奸计，假传圣旨一道，中途将我叔父杀死！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "将我叔父杀死！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超昏。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "兄长醒来！"
+        },
+        {
+          "character": "马超",
+          "type": "唱",
+          "text": "听说严亲把命丧，"
+        },
+        {
+          "character": "马超",
+          "type": "三叫头",
+          "text": "爹爹，我父，哎，爹爹呀！"
+        },
+        {
+          "character": "马超",
+          "type": "唱",
+          "text": "点点珠泪洒胸膛。 开言大骂贼奸党，"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "曹操哇，曹操！"
+        },
+        {
+          "character": "马超",
+          "type": "唱",
+          "text": "杀却国贼反西凉。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "马岱听令！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "命庞德带领大小三军，齐穿孝服，校场听点。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超下。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "得令。 下面听者：大小三军，齐穿孝服，校场听点！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞德上，起霸。"
+        },
+        {
+          "character": "庞德",
+          "type": "念",
+          "text": "奉了公子命，校场点雄兵。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "俺，庞德。奉了公子之命，校场点动人马。一言未尽，公子来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四马童、马岱引马超同上。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "参见公子！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "站下。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "马超",
+          "type": "念",
+          "text": "心中恼恨贼奸党，残害忠良乱朝纲。今日点动人和马，要学韩信灭项王。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "俺，马超。今日点动人马，与我父报仇。 庞德听令！"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "命你带领一哨人马，攻打头阵！"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞德下。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "起兵前往！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引徐晃同上。"
+        },
+        {
+          "character": "徐晃",
+          "type": "点绛唇",
+          "text": "镇守潼关，威风浩荡，统兵将，四海名扬，军权我执掌。"
+        },
+        {
+          "character": "徐晃",
+          "type": "念",
+          "text": "辕门以外月儿高，马配雕鞍将挂袍。男儿若掌封侯印，斩将回来血染刀。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "某，姓徐名晃字公明。奉了丞相之命，镇守潼关。昨日丞相有密令到来，言说： 倘若马超倒反西凉，教我谨守。为此今日升帐，先传一令。 众将官！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "传我将令，只可谨守，不可出战，违令者斩！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "马超倒反西凉！"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "免战高悬！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "曹洪",
+          "type": "内白",
+          "text": "慢着！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹洪上。"
+        },
+        {
+          "character": "曹洪",
+          "type": "念",
+          "text": "赤发红须胆气粗，赫赫威名盖世无。站立阵前人皆怕，宝刀一举鬼神服。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "某，姓曹名洪字子廉。正在后帐饮酒，忽听元帅免战高悬，不免进帐问过。 报，曹洪告进！参见元帅。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "少礼，请坐。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "将军，无令进帐何事？"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "元帅免战高悬，是何理也？"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "丞相有令，且候大兵一到，方可出城对敌。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "啊呵，元帅！末将不才，愿讨一令，生擒马超进帐。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "那马超为父报仇而来，锐气方盛，况他英勇无敌，只恐将军不是马超的对手。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "元帅，你好小量俺也。"
+        },
+        {
+          "character": "曹洪",
+          "type": "唱",
+          "text": "元帅你把某小量， 长他志气灭俺强。 马超纵是天神将， 霜雪焉能见太阳。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启元帅：马超讨战！"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "元帅，那马超讨战，待俺生擒马超，献于帐下。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "丞相有令：不许出战。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹洪抢令旗。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "你拿过来吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹洪下。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "哎呀！待我将他赶回。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐晃下，四文堂同随下。曹洪上，徐晃追上，徐晃揪住曹洪大刀。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "将军不可出战！"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹洪夺过大刀。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "走了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹洪下。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "且住，曹洪不听我令，竟自出战去了。待我报与丞相知道便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐晃下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引曹洪同上"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引庞德同上，会阵，同开打，徐晃将庞德打下，曹洪耍下场花，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": "马超",
+          "type": "内唱",
+          "text": "手提长枪列旗门，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超带四文堂、四马童、马岱同上。"
+        },
+        {
+          "character": "马超",
+          "type": "唱",
+          "text": "层层戈甲将纷纷。 庞德领兵打头阵， 杀却国贼方称心。 三军与爷往前进， 且听庞德报分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞德上。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "参见公子！末将交令。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "胜败如何？"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "大败而归！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "无用之将，败我头阵，馁我锐气，重责四十，扠出营去。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞德下。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "杀上前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同倒脱靴下。曹洪上，会阵。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "大将曹洪。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超、曹洪同开打，曹洪败下，马超耍下场花，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "志量如天高。"
+        },
+        {
+          "character": "许褚",
+          "type": "内白",
+          "text": "啊嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "许褚急上，亮相。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "鼓咚咚，旌旗飘绕。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "参见丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "站下。"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "赫赫威名镇许昌，文韬武略世无双。但愿狼烟齐扫荡，统领貔貅灭西羌。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫，曹操。日前用计斩了马腾，他子马超必要倒反西凉。我也曾命徐晃镇守 潼关，以防不测。老夫有令在先，只宜坚守，不可出战，俟老夫大兵一到，方 可开城对敌。 许褚！"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "吩咐大小三军，齐往潼关去者！"
+        },
+        {
+          "character": "许褚",
+          "type": "白",
+          "text": "啊！ 兵发潼关。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "催军！"
+        },
+        {
+          "character": "曹操",
+          "type": "唱",
+          "text": "老夫兴兵谁敢挡， 赫赫威名天下扬。 沟渠之水难起浪， 何惧马超小儿郎。 大队人马往前闯，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐晃上。"
+        },
+        {
+          "character": "曹操",
+          "type": "唱",
+          "text": "前道不行为哪桩。"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "徐晃挡道！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "马前回话！"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "参见丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哽！老夫命你谨守潼关，为何私离讯地？"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "启丞相：今有曹洪不遵我命，私自出战，末将特到丞相台前请罪。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "潼关呢？"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "失守了！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "界牌？"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "失了！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "速速披挂，随营保护！"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "谢丞相。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐晃下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "催军！"
+        },
+        {
+          "character": "曹操",
+          "type": "唱",
+          "text": "听说界牌失落了， 不由老夫心内焦。 众将与爷齐引道， 人马不行为哪条？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹洪上。"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "曹洪挡道。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "人马列开！"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "参见丞相，死罪呀，死罪！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "唗，胆大曹洪，违犯军令，本当将你斩首，念在用兵之际，暂且饶恕，打入后 队！"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹洪下。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启禀丞相：马超讨战。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "阵前去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超、四文堂、四马童、马岱同上。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操、四文堂同退下，许褚、马超同起打。许褚败下。马超追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖乱锤〗。曹操领四文堂同跑上。曹操两望门。"
+        },
+        {
+          "character": "四文堂",
+          "type": "内同白",
+          "text": "穿红袍的是曹操！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操惊慌奔上场门。"
+        },
+        {
+          "character": "四文堂",
+          "type": "内同白",
+          "text": "穿红袍的是曹操！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哎呀，且住。敌军言道：穿红袍的是曹操。哎呀这，这……啊呵，有了。我不 免将红袍脱下，他们就认我不出了。将红袍脱下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操脱。"
+        },
+        {
+          "character": "马超",
+          "type": "内白",
+          "text": "哪里走！ （马超、四文堂、四马童、马岱同上，漫曹操头，曹洪挑出来，曹操下，许褚上，马超打曹洪、许褚下。马 超耍下场花，下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖乱锤〗。曹操跑上，两望门。"
+        },
+        {
+          "character": "四文堂",
+          "type": "内同白",
+          "text": "长胡须的是曹操！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哎呀，敌军言道：长胡须的是曹操。这便怎么处？咦……有了。我不免将这胡 须割去，他们就看我不出了。我将这胡须割将下来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操割。"
+        },
+        {
+          "character": "马超",
+          "type": "内白",
+          "text": "哪里走！ （马超、四文堂、四马童、马岱同上，漫曹操头，曹洪挑出来，曹操下，曹洪和马超打刀枪，马超打曹洪下， 马超耍下场花，下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖乱锤〗。曹操上，两望门。"
+        },
+        {
+          "character": "四文堂",
+          "type": "内同白",
+          "text": "割了胡须的是曹操！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "放屁！哎呀，敌军言道：割了胡须的是曹操，这这……啊呵有了。不免用令旗 将胡须兜了起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操兜。"
+        },
+        {
+          "character": "马超",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超上。漫曹操头，许褚架住，走圆场，曹操下，打许褚抢背下，马超耍下场花，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "许褚拿船桨自下场门上，曹操自上场门上。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "搭了扶手。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操上船。马超、四文堂、四马童、马岱自上场门同上，同一字。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "放箭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "许褚挡箭。马超倒领下。曹操走圆场，望门。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操带许褚同下。马超、四文堂、四马童、马岱同上。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "且住，正要擒拿曹操，不想那贼乘船而逃，真乃天不灭曹。也罢，不免回转西 羌，点动人马，杀奔许昌，再报父仇。 众将官！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "收兵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同倒领下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

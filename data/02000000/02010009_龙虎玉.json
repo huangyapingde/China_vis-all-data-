@@ -1,0 +1,1359 @@
+{
+  "script_id": "02010009",
+  "title": "龙虎玉",
+  "alias": [],
+  "source": "《国剧大成》",
+  "characters": [
+    {
+      "name": "张顺",
+      "hangdang": "净"
+    },
+    {
+      "name": "宋江",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "宋江受朝廷招抚后，奉命下江南，征剿方腊。因念方腊雄兵百万，战将千员，其子方天定坐镇杭州，又有妖\n道邓元觉为其臂助，非仓猝间所可立灭。必须有一人假往投降，暗通消息，然后再里应外合方可成功。于是\n派柴进以献龙虎玉为名，前往投降。方腊信而不疑，并封为状元，宋江又派郝思文、张顺、李俊攻打杭州，\n方天定亲自出战，将郝思文生擒。张顺亦被涌金门下水闸压死。",
+  "notes": "此系车王府本，原名《擒方腊》，但内容并无擒方腊事，故改为《龙虎玉》。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四水军同上，同挖门，李俊、张横、阮小七、张顺同上。"
+        },
+        {
+          "character": "李俊",
+          "type": "念",
+          "text": "自幼生来胆大，"
+        },
+        {
+          "character": "张横",
+          "type": "念",
+          "text": "惯走江湖生涯。"
+        },
+        {
+          "character": "阮小七",
+          "type": "念",
+          "text": "昔年打劫皇杠，"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "水客便是某家。"
+        },
+        {
+          "character": "李俊、张横、阮小七、张顺",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "混江龙李俊。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "船虎儿张横。"
+        },
+        {
+          "character": "阮小七",
+          "type": "白",
+          "text": "活阎王阮小七，"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "浪里白条张顺。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "列位请了。我想大哥又受招安灭了田虎。今日大下江南，齐到辕门伺候。"
+        },
+        {
+          "character": "张横、阮小七、张顺",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同领下。〖牌子〗。四步兵、鲁智深、燕青、李逵、武松同上，同挖门。"
+        },
+        {
+          "character": "鲁智深",
+          "type": "念",
+          "text": "俺本僧斗义侯，"
+        },
+        {
+          "character": "武松",
+          "type": "念",
+          "text": "为兄曾把嫂杀。"
+        },
+        {
+          "character": "李逵",
+          "type": "念",
+          "text": "李逵无人不怕，"
+        },
+        {
+          "character": "燕青",
+          "type": "念",
+          "text": "全仗两手擒拿。"
+        },
+        {
+          "character": "鲁智深、武松、李逵、燕青",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "鲁智深",
+          "type": "白",
+          "text": "花和尚鲁智深。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "行者武倯。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "浪子燕青。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "黑旋风李逵。"
+        },
+        {
+          "character": "鲁智深",
+          "type": "白",
+          "text": "列位请了。"
+        },
+        {
+          "character": "武松、李逵、燕青",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "鲁智深",
+          "type": "白",
+          "text": "大哥齐聚我等，也不知为了哪路军情？"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "哎，讲什么军情不军情，那宋王天子，要俺大哥自备军饷，前者灭却田虎，就 该升赏才是，这都是杨戬、高俅、蔡京、童贯等专权。依俺之见，杀了徽宗， 去了奸佞，保咱大哥登基，你我俱是皇兄御弟相称。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "你又满口胡言。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "算我没说。"
+        },
+        {
+          "character": "鲁智深",
+          "type": "白",
+          "text": "不必多言，辕门听令而行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同领下，四马兵、史进、石秀、花荣、柴进同上，同挖门。"
+        },
+        {
+          "character": "史进",
+          "type": "念",
+          "text": "自幼生来性刚强，"
+        },
+        {
+          "character": "石秀",
+          "type": "念",
+          "text": "人称拼命石三郎。"
+        },
+        {
+          "character": "花荣",
+          "type": "念",
+          "text": "神箭一出谁敢挡。"
+        },
+        {
+          "character": "柴进",
+          "type": "念",
+          "text": "俺本周室一帝王，"
+        },
+        {
+          "character": "史进、石秀、花荣、柴进",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "史进",
+          "type": "白",
+          "text": "九纹龙史进。"
+        },
+        {
+          "character": "石秀",
+          "type": "白",
+          "text": "拼命三郎石秀。"
+        },
+        {
+          "character": "花荣",
+          "type": "白",
+          "text": "小李广花荣。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "小旋风柴进。"
+        },
+        {
+          "character": "史进",
+          "type": "白",
+          "text": "大哥齐聚我等，辕门伺候。请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同领下。孙二娘、顾大嫂、扈三娘、玉花娘同上。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "念",
+          "text": "十字坡前开店房，"
+        },
+        {
+          "character": "顾大嫂",
+          "type": "念",
+          "text": "夜射红杰把名扬。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "念",
+          "text": "错配姻缘矮脚虎，"
+        },
+        {
+          "character": "玉花娘",
+          "type": "念",
+          "text": "幼习双刀玉花娘。"
+        },
+        {
+          "character": "孙二娘、顾大嫂、扈三娘、玉花娘",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "母夜叉孙二娘。"
+        },
+        {
+          "character": "顾大嫂",
+          "type": "白",
+          "text": "母大虫顾大嫂。"
+        },
+        {
+          "character": "扈三娘",
+          "type": "白",
+          "text": "一丈青扈三娘。"
+        },
+        {
+          "character": "玉花娘",
+          "type": "白",
+          "text": "金头虎玉花娘。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "列位姐妹请了。"
+        },
+        {
+          "character": "顾大嫂、扈三娘、玉花娘",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "孙二娘",
+          "type": "白",
+          "text": "大哥齐聚我等，一同前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同领下。关胜、林冲、董平、呼延灼、秦明同上。"
+        },
+        {
+          "character": "关胜",
+          "type": "念",
+          "text": "大刀一举闪红光，"
+        },
+        {
+          "character": "林冲",
+          "type": "念",
+          "text": "万马营中逞刚强。"
+        },
+        {
+          "character": "秦明",
+          "type": "念",
+          "text": "一身猛勇谁不惧，"
+        },
+        {
+          "character": "董平、呼延灼",
+          "type": "同念",
+          "text": "（双枪）（双鞭）架起月无光。"
+        },
+        {
+          "character": "关胜、林冲、秦明、董平、呼延灼",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "大刀关胜。"
+        },
+        {
+          "character": "林冲",
+          "type": "白",
+          "text": "豹子头林冲。"
+        },
+        {
+          "character": "秦明",
+          "type": "白",
+          "text": "霹雳火秦明。"
+        },
+        {
+          "character": "董平",
+          "type": "白",
+          "text": "双枪将董平"
+        },
+        {
+          "character": "呼延灼",
+          "type": "白",
+          "text": "双鞭呼延灼。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "列位请了。"
+        },
+        {
+          "character": "林冲、秦明、董平、呼延灼",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "大哥齐聚我等，齐到辕门。请。 （众人同领下。李俊、张横、阮小七、张顺、鲁智深、燕青、李逵、武松、史进、石秀、花荣、柴进、孙二 娘、顾大嫂、扈三娘、玉花娘、关胜、林冲、董平、呼延灼、秦明同上，同挖门。）"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "列位请了。"
+        },
+        {
+          "character": "李俊、张横、阮小七、张顺、鲁智深、燕青、李逵、武松、史进、石秀、花荣、柴进、孙二娘、顾大嫂、扈三娘、玉花娘、林冲、董平、呼延灼、秦明",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "关胜",
+          "type": "白",
+          "text": "大哥升帐，两厢伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蓝龙套、四蓝大铠、宋江、吴用、卢俊义、三大纛上写名姓同上。"
+        },
+        {
+          "character": "宋江、吴用、卢俊义",
+          "type": "同粉蝶儿",
+          "text": "韬略胸藏， 领雄兵，韬略胸藏， 受招安扶王室， 烟尘扫荡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江、吴用、卢俊义同站高台。"
+        },
+        {
+          "character": "李俊、张横、阮小七、张顺、鲁智深、燕青、李逵、武松、史进、石秀、花荣、柴进、孙二娘、顾大嫂、扈三娘、玉花娘、关胜、林冲、董平、呼延灼、秦明",
+          "type": "同白",
+          "text": "参见元帅。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "站立两厢。"
+        },
+        {
+          "character": "李俊、张横、阮小七、张顺、鲁智深、燕青、李逵、武松、史进、石秀、花荣、柴进、孙二娘、顾大嫂、扈三娘、玉花娘、关胜、林冲、董平、呼延灼、秦明",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "本帅，宋江。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "护国军师吴用。"
+        },
+        {
+          "character": "卢俊义",
+          "type": "白",
+          "text": "副元帅卢俊义。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "当年曾在水泊替天行道，今受招安，封为领兵大元帅。前者灭了大辽，今日大 下江南。 军师，"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "元帅。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "何计安在？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "元帅，吾想方腊帐下，雄兵百万，战将千员。唯有一子名叫方天定，还有一妖 道名唤邓元觉，此人惯使妖法伤人，依俺之见，须得一人诈降方腊，以作内应， 江南可破也。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "言之有理。 众位贤弟听者：可有能人诈降方腊，以作内应，其功非小。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "小弟愿往。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "但不知你怎生前去？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "小弟传家宝龙虎二玉可以进身。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "如此，燕青听令。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "命你跟随柴进前去，他若进身，急回禀报。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": "柴进",
+          "type": "念",
+          "text": "怀揣机密事，"
+        },
+        {
+          "character": "燕青",
+          "type": "念",
+          "text": "神鬼也不知。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴进、燕青同下。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "军师，先破苏昌，还是先破宜湖？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "元帅写下二帖，与尊官分兵可破。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "看香案伺候。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "军师，请看。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "大哥破宜湖。卢尊官破苏昌。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "愚兄带兵多少？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "带上将三十九员，步将十九员，水军张氏弟兄等。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "卢尊官带兵多少？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "带领五虎上将，步将一十九员，女班头领等。"
+        },
+        {
+          "character": "卢俊义",
+          "type": "白",
+          "text": "单阳何人把守？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "命杨志把守。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "何人暗通消息？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "命戴宗左右，探听消息。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "众家哥弟听者：歇兵三日，两路而进。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴进、燕青同上。"
+        },
+        {
+          "character": "柴进",
+          "type": "念",
+          "text": "诈降凭宝玉，"
+        },
+        {
+          "character": "燕青",
+          "type": "念",
+          "text": "英雄胆气豪。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "大哥此番前去，必须改换名姓。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "贤弟啊！"
+        },
+        {
+          "character": "柴进",
+          "type": "唱",
+          "text": "燕贤弟你不必仔细叮咛， 此一番诈降事务要小心。 我若是凭龙虎作了内应， 烦贤弟昼夜行急报回音。"
+        },
+        {
+          "character": "燕青",
+          "type": "唱",
+          "text": "兄长此去心拿稳， 隐姓埋名大功成。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴进、燕青同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蓝文堂、祖思元同上。"
+        },
+        {
+          "character": "祖思元",
+          "type": "念",
+          "text": "临阵会礼仪，画是古人风。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "下官，祖思元，奉大王密旨，挂榜招贤。 来，伺候了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "燕青、柴进同上。"
+        },
+        {
+          "character": "柴进",
+          "type": "念",
+          "text": "今奉大哥令，"
+        },
+        {
+          "character": "燕青",
+          "type": "念",
+          "text": "机警探风声。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "贤弟，你回避了。待我向前。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "中原秀士要见。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "候着。 禀爷，中原来一秀士要见。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "传。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "啊。 老爷传。你要小心了。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "啊，中原秀士参见大人。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "你姓甚名谁，家住哪里？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "小人姓柯，名英，中原人士。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "到此何事？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "特来进宝。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "进的何物？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "龙虎二玉。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "何为龙虎二玉？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "能照南山猛虎，北海蛟龙。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "为可不进献天朝呀？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "那宋室天下，奸佞专权，故而不进，为此进大王。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "左右，带定秀士上朝，打道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小吹打〗。四太监、四宫女、方腊同上。"
+        },
+        {
+          "character": "方腊",
+          "type": "引子",
+          "text": "黄金面目，执掌山河。"
+        },
+        {
+          "character": "方腊",
+          "type": "念",
+          "text": "腰中七星剑挂，指日要夺中华。九州八十一郡，也算一朝天下。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "孤，方腊。我儿方天定，镇守杭州。想宋王拜宋江为帅，带领一伙毛贼前来对 敌，孤家为此设立早朝。 内侍，闪放龙门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祖思元上。"
+        },
+        {
+          "character": "祖思元",
+          "type": "念",
+          "text": "金殿风火雁雀高，香烟宇宙呼圣朝。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "臣祖思元，叩见大王千岁！"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "千千岁。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "上殿有何本奏？"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "中原来一秀士进宝，在午门候旨。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "宣他冠戴上殿。"
+        },
+        {
+          "character": "祖思元",
+          "type": "白",
+          "text": "领旨。 千岁有旨，宣秀士冠戴上殿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴进上。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "柴进",
+          "type": "念",
+          "text": "改扮秀士样，暗地探军情。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "臣中原秀士柯英见驾，大王千岁。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "千千岁。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "但不知秀士何宝来献？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "龙虎二玉。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "为何不进与天朝？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "那天朝奸党专权，见我主千岁洪福齐天，为此特来进献。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "此宝有何贵处？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "此宝能照南山猛虎，北海蛟龙。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "当殿照来。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "柴进",
+          "type": "念",
+          "text": "俺本周室一帝王，两国相争必有伤。今来献上龙虎玉，能引蛟龙出长江。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龙行上，下场站椅，下。"
+        },
+        {
+          "character": "柴进",
+          "type": "念",
+          "text": "大虫本是兽中王，一旦山河归宋邦。蛟龙离却北海底，照定猛虎下山岗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虎形上，站椅下。方腊笑。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "卿家听封。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "封卿为进宝状元。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "谢大王。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "我想梁山宋江，归顺天朝，领兵扰乱，卿家妙计安在？"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "臣启大王：那宋江到此，臣略施小计，管叫他片甲不回。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "全仗卿家。 祖卿，孤王将公主匹配状元为室，从今以后，国家大事，俱在驸马府中理论， 领旨下殿。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "朝事已毕，请驾回宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白文堂、四大铠、四下手、方天定同上。〖点绛唇〗。"
+        },
+        {
+          "character": "方天定",
+          "type": "念",
+          "text": "丈夫有志把名扬，我父江南为帝王。齐心努力夺宋室，杀却贼官灭宋江。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "某，方天定。奉父王之命，镇守杭州。探马报到，宋江前来，怎能容他猖獗。 来，请元帅、军师进见。"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "有请元帅、军师。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杜色、花豹刀同上。"
+        },
+        {
+          "character": "杜色",
+          "type": "念",
+          "text": "大将雄心胆，"
+        },
+        {
+          "character": "花豹刀",
+          "type": "念",
+          "text": "怀揣计良谋。"
+        },
+        {
+          "character": "杜色、花豹刀",
+          "type": "同白",
+          "text": "参见小千岁。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "二位将军请坐。"
+        },
+        {
+          "character": "杜色、花豹刀",
+          "type": "同白",
+          "text": "谢坐。不知小千岁有何军情？"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "二位将军有所不知，只因梁山贼寇宋江，受了招安，挂了招讨，领兵前来征剿， 二位有何妙计？"
+        },
+        {
+          "character": "花豹刀",
+          "type": "白",
+          "text": "启禀小千岁：有道是兵来将挡，水来土屯。大家出杀，杀他个措手不及。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "言之有理。 众将官，开城迎敌者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同领下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四上手、张顺、郝思文、李俊同上。"
+        },
+        {
+          "character": "李俊",
+          "type": "念",
+          "text": "胜败且由天，"
+        },
+        {
+          "character": "张顺",
+          "type": "念",
+          "text": "谨慎最为先。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "俺，李俊。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "张顺。"
+        },
+        {
+          "character": "郝思文",
+          "type": "白",
+          "text": "郝思文。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "二位贤弟请了。"
+        },
+        {
+          "character": "张顺、郝思文",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "你我奉大哥之命，攻打杭州，大家须要小心。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "远望杭州城门大开，必有勇将出马，你我迎上前去。"
+        },
+        {
+          "character": "李俊、郝思文",
+          "type": "同白",
+          "text": "众好汉，杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "方天定、四白文堂、四大铠、四下手同出城，会阵，架住。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "呔！方天定，大兵至此，还不下马归顺。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "一派胡言！马上坐稳。 （过合，钻烟筒，众人自两边分下。李俊、方天定对打，方天定败下，李俊追下。杜色、花豹刀、郝思文起 打，郝思文被擒。四下手绑下。李俊、张顺接打，杜色、花豹刀同败。方天定接打，败下。）"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "贤弟，郝贤弟被擒，性命难保，如何是好？"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "大哥，待等今晚三更时分，从水寨而进，杀他个片甲不回。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "你我回去禀明军师，再作道理。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "大哥，俺作事无差，俺去也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗，张顺下。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "看他奋勇而去，待俺急急赶上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李俊下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同上。"
+        },
+        {
+          "character": "下手甲",
+          "type": "念",
+          "text": "为人莫当军，"
+        },
+        {
+          "character": "下手乙",
+          "type": "念",
+          "text": "当军受苦辛。"
+        },
+        {
+          "character": "下手乙",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "你我奉了军师将令，把守涌金门，就此走走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。四下手同下。〖起初更鼓〗。"
+        },
+        {
+          "character": "张顺",
+          "type": "内西皮导板",
+          "text": "谯楼打罢初更后，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺上，小起霸。"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "麒麟阁上把名留。 全凭本领飞檐走， 今晚定要斩贼头。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "来此已是西铃桥，待俺下水走过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺碰闸响，躲。四下手同上。"
+        },
+        {
+          "character": "下手甲",
+          "type": "白",
+          "text": "伙计，银铃响亮，必有奸细。小心把守。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "哎呀，方才下水听得铜铃响亮，难道这贼有了准备。哎，俺为大哥忠义，死在 涌金门，也落个青史名标。"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "多蒙大哥忠义厚， 纵死也要姓名留。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同托闸，压死张顺。"
+        },
+        {
+          "character": "下手甲",
+          "type": "白",
+          "text": "哎伙计们，那旁闸板沉底下去，瞧瞧去。 哈！是个死尸。搭上来，身旁有腰牌。水军头目张顺。哎呀！张顺是个有名的 义士，咱们拜他一拜。抬着他见军师去，走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李俊上。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "哎呀不好了！张顺死在涌金门水闸之下，待俺报与大哥知道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李俊下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四水旗、四白文堂、二童儿、龙王同上。〖牌子〗。"
+        },
+        {
+          "character": "龙王",
+          "type": "白",
+          "text": "吾，乃西湖龙王是也。今有张顺死在涌金门下，上帝垂念，封他金华太保，远 远望见张顺鬼魂来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "浪翻，张顺上，跪。"
+        },
+        {
+          "character": "龙王",
+          "type": "白",
+          "text": "龙御旨到。张顺死在涌金门下，上帝垂恩，封为金华太保，望诏谢恩。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "圣寿无疆。"
+        },
+        {
+          "character": "龙王",
+          "type": "白",
+          "text": "请更衣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺换衣，开场紫金冠。"
+        },
+        {
+          "character": "龙王",
+          "type": "白",
+          "text": "告辞。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龙王下。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "想俺张顺，死在涌金门下，蒙龙王如此封赠，宋大哥如何知道。俺今晚三更时 分，与大哥托一梦兆，一表忠义。 众鬼卒！宋营去者。 （〖牌子〗。众人同下。宋江、李俊、张横、阮小七、鲁智深、李逵、武松、史进、石秀、花荣、孙二娘、 顾大嫂、扈三娘、玉花娘、关胜、林冲、董平、呼延灼、秦明同上，同挖门。）"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "今有张顺，死涌金门下。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "众位哥弟，大家迎上前去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "会阵。方腊、众人同上。会阵，起打武场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

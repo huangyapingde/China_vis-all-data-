@@ -1,0 +1,928 @@
+{
+  "script_id": "02011012",
+  "title": "采石矶",
+  "alias": [],
+  "source": "《国剧大成》",
+  "characters": [
+    {
+      "name": "徐达",
+      "hangdang": "老生"
+    },
+    {
+      "name": "常遇春",
+      "hangdang": "净"
+    },
+    {
+      "name": "郭英",
+      "hangdang": "小生"
+    },
+    {
+      "name": "李文忠",
+      "hangdang": "生"
+    },
+    {
+      "name": "胡大海",
+      "hangdang": "副净"
+    },
+    {
+      "name": "传令官",
+      "hangdang": "末"
+    },
+    {
+      "name": "元大将",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "朱元璋派徐达为元帅，率领郭英、李文忠、胡大海、常遇春攻打采石矶。但采石矶山高水深，形势险要，又\n有元朝守将铁木耳坚守，不易攻破。最后由常遇春藏在帆船上之桅斗内，一跃而登采石，遂将城攻下。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭英上。"
+        },
+        {
+          "character": "郭英",
+          "type": "念",
+          "text": "白盔白甲白雁翎，白袍笼罩似寒冰。跨下一骑白龙马，烈烈轰轰保大明。"
+        },
+        {
+          "character": "郭英",
+          "type": "白",
+          "text": "某，郭英。圣上拜徐达为帅，齐集我等，不知哪路军情。 唗，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭英下。李文忠上。"
+        },
+        {
+          "character": "李文忠",
+          "type": "念",
+          "text": "头戴金盔凤翅飘，身披铠甲逞英豪。两手擎天扶帝室，凌烟阁上把名标。"
+        },
+        {
+          "character": "李文忠",
+          "type": "白",
+          "text": "某，李文忠。圣上拜徐达为帅，齐集我等，不知哪路军情。 唗，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文忠下。胡大海上。"
+        },
+        {
+          "character": "胡大海",
+          "type": "念",
+          "text": "昔日元朝为将，今保大明家邦。斩将韬略腹内藏，世人闻名胆丧。"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "某，胡大海。圣上拜徐达为帅，齐集我等，不知哪路军情。 唗，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡大海下。常遇春上。"
+        },
+        {
+          "character": "常遇春",
+          "type": "念",
+          "text": "铁盔铁甲铁驼龙，跨下乌骓快似风。大喝一声如雷震，手执钢鞭打孽龙。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "某，常遇春。圣上拜徐达为帅，齐集我等，不知哪路军情。 唗，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常遇春上。郭英、李文忠、胡大海、常遇春同上，同下马。〖粉妆台〗。"
+        },
+        {
+          "character": "郭英、李文忠、胡大海、常遇春",
+          "type": "同白",
+          "text": "元帅升帐，两厢伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大开门〗。众人引徐达同上。"
+        },
+        {
+          "character": "徐达",
+          "type": "双调粉蝶儿",
+          "text": "威镇山江统貔貅， 威镇山江扫狼烟。 虎骤龙骧保华夷， 巩固金汤， 树功勋步麟阁， 青霄直上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达升高坐。"
+        },
+        {
+          "character": "徐达",
+          "type": "念",
+          "text": "凛凛威风冠群英，腾腾杀气映斗星。莲花帐内施号令，要把狼烟一扫平。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "本帅，徐达。奉圣命，统领人马，攻打采石矶，剿除残暴。 中军，"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "传众将进帐。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "得令。 令出，元帅有令：传众将进帐。"
+        },
+        {
+          "character": "郭英、李文忠、胡大海、常遇春",
+          "type": "同白",
+          "text": "吓，报，众将告进。 元帅在上，末将等参。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "列位将军少礼。"
+        },
+        {
+          "character": "郭英、李文忠、胡大海、常遇春",
+          "type": "同白",
+          "text": "传末将等进帐，有何差遣？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "我奉圣命，统领人马，攻打采石矶，剿除残暴。但彼处山高水深，难以得破， 不知列位将军，有何妙策？"
+        },
+        {
+          "character": "郭英",
+          "type": "白",
+          "text": "启元帅：此去采石矶，白茫茫一带大江，必须舟师，方能攻进。"
+        },
+        {
+          "character": "李文忠",
+          "type": "白",
+          "text": "元帅传下号令，多备战船，暗藏惯战水军，足可破敌。"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "既如此攻取，谅小小矶头，焉有不克之理。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "仗圣主威福，元帅神机，定然一鼓而下。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "如此，全仗列位将军，努力同心。"
+        },
+        {
+          "character": "郭英、李文忠、胡大海、常遇春",
+          "type": "同白",
+          "text": "末将等，勤劳王事，分所当然。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "好！分列两旁，听我调遣。"
+        },
+        {
+          "character": "郭英、李文忠、胡大海、常遇春",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "郭英听令！"
+        },
+        {
+          "character": "郭英",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "命你带领三千弓箭手，五十号战船，先抢牛石渚，后破采石矶，听本帅号令！"
+        },
+        {
+          "character": "徐达",
+          "type": "江儿水",
+          "text": "圣主威福广， 天心佑吾王， 挥雄师，会合风云旺。"
+        },
+        {
+          "character": "郭英",
+          "type": "白",
+          "text": "得令。 令出，唗，带马！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭英下。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "李文忠听令！"
+        },
+        {
+          "character": "李文忠",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "命你带领三千长枪手，五十号战船，先抢牛石渚，后破采石矶，听本帅令！"
+        },
+        {
+          "character": "徐达",
+          "type": "江儿水",
+          "text": "捧军令似受天符降， 立勋犹拟画云台上。"
+        },
+        {
+          "character": "李文忠",
+          "type": "白",
+          "text": "得令。 令出，唗，带马！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文忠下。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "胡大海听令！"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "命你带领三千藤牌手，五十号战船，先抢牛石渚，后破采石矶，听我号令！"
+        },
+        {
+          "character": "徐达",
+          "type": "江儿水",
+          "text": "捧军令似受天符降， 立勋犹拟画云台上。"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "得令。 令出，唗，带马！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡大海下。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "常遇春听令！"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "命你带领三千火炮手，五十号战船，先抢牛石渚，后破采石矶，听我一令！"
+        },
+        {
+          "character": "徐达",
+          "type": "江儿水",
+          "text": "拚将忠义相酬，自送头颅， 怎惜血溅沙场。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "得令。 令出，唗，带马！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常遇春下。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "中军，"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "将台撤至江口。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "得令。 呔！众将官！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "将台撤至江口。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同走圆场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒、传令官、郭英、李文忠、胡大海、常遇春同上。"
+        },
+        {
+          "character": "郭英",
+          "type": "念",
+          "text": "俺本是豪杰，"
+        },
+        {
+          "character": "李文忠",
+          "type": "念",
+          "text": "儿郎个个烈。"
+        },
+        {
+          "character": "胡大海",
+          "type": "念",
+          "text": "虎帐领将令，"
+        },
+        {
+          "character": "常遇春",
+          "type": "念",
+          "text": "要把元兵灭。"
+        },
+        {
+          "character": "郭英、李文忠、胡大海、常遇春",
+          "type": "同白",
+          "text": "请了。我等奉元帅将令，带领人马，先抢牛石渚，后破采石矶，来此一块平坦 之地，正好操演，就此扎下行营。"
+        },
+        {
+          "character": "郭英",
+          "type": "白",
+          "text": "来，"
+        },
+        {
+          "character": "传令官",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "郭英",
+          "type": "白",
+          "text": "传弓箭手开操。"
+        },
+        {
+          "character": "传令官",
+          "type": "白",
+          "text": "弓箭手走上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同上。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "弓箭手参。"
+        },
+        {
+          "character": "郭英",
+          "type": "白",
+          "text": "演！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同射箭。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "操演已毕。"
+        },
+        {
+          "character": "郭英",
+          "type": "白",
+          "text": "退下。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同下。"
+        },
+        {
+          "character": "李文忠",
+          "type": "白",
+          "text": "来，"
+        },
+        {
+          "character": "传令官",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "李文忠",
+          "type": "白",
+          "text": "传长枪手开操。"
+        },
+        {
+          "character": "传令官",
+          "type": "白",
+          "text": "长枪手走上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同上。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "长枪手参。"
+        },
+        {
+          "character": "李文忠",
+          "type": "白",
+          "text": "演！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同对枪。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "操演已毕。"
+        },
+        {
+          "character": "李文忠",
+          "type": "白",
+          "text": "退下。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同下。"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "来，"
+        },
+        {
+          "character": "传令官",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "传藤牌手开操。"
+        },
+        {
+          "character": "传令官",
+          "type": "白",
+          "text": "藤牌手走上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同上。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "藤牌手参。"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "演！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同舞牌。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "操演已毕。"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "退下。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同下。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "来，"
+        },
+        {
+          "character": "传令官",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "传火炮手开操。"
+        },
+        {
+          "character": "传令官",
+          "type": "白",
+          "text": "火炮手走上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同上。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "火炮手参。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "演！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同放炮。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "操演已毕。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "退下。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同下。"
+        },
+        {
+          "character": "郭英、李文忠、胡大海、常遇春",
+          "type": "同白",
+          "text": "众将官！"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "郭英、李文忠、胡大海、常遇春",
+          "type": "同白",
+          "text": "就此起兵前往。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "元大将上。"
+        },
+        {
+          "character": "元大将",
+          "type": "念",
+          "text": "令行山岳动，言出鬼神惊。"
+        },
+        {
+          "character": "元大将",
+          "type": "白",
+          "text": "俺奉都督将令，把手牛石渚，远远望见，战船无数，想必敌人来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡大海上，战，杀元大将，下。铁木耳上，众士卒同上。"
+        },
+        {
+          "character": "铁木耳",
+          "type": "念",
+          "text": "大将扬威武，雄似山头虎。杀人汤泼雪，斩将如截土。"
+        },
+        {
+          "character": "铁木耳",
+          "type": "白",
+          "text": "某，铁木耳。大元驾前为臣。奉狼主之命带领人马，镇守采石矶，以防贼人攻 取。 唗，巴都鲁。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "铁木耳",
+          "type": "白",
+          "text": "打道矶头去者。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓。 已到矶头。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铁木耳上城，坐。"
+        },
+        {
+          "character": "铁木耳",
+          "type": "白",
+          "text": "多备滚木擂石，小心防守者。"
+        },
+        {
+          "character": "众士卒",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": "徐达",
+          "type": "内唱",
+          "text": "离大营上战船风狂浪大，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达上。"
+        },
+        {
+          "character": "徐达",
+          "type": "唱",
+          "text": "有本帅为江山戴月披星。 奉圣命平采石畿辅宁静， 对大江设将台扎下行营。 中军帐传号令舟师攻进， 专待看众儿郎各逞其能。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭英、众士卒同上，杀，同下。"
+        },
+        {
+          "character": "徐达",
+          "type": "唱",
+          "text": "小郭英年虽幼骁勇非常， 可算得我朝中驾海金梁。 万军中取上将犹如反掌， 扶江山保社稷四海名扬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李文忠、众士卒同上，杀，同下。"
+        },
+        {
+          "character": "徐达",
+          "type": "唱",
+          "text": "李文忠生长在宦室豪门， 他乃是万岁爷御前外甥。 只今番若能把干戈平定， 五凤楼专与他画影图形。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡大海、众士卒同上，杀。"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "啊，看采石矶，山高水深，怎能得破。也罢，船上有桅，桅上有斗，不免将身 藏在斗内，纵上矶头便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铁木耳举石打胡大海。"
+        },
+        {
+          "character": "铁木耳",
+          "type": "白",
+          "text": "招打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡大海跌。"
+        },
+        {
+          "character": "胡大海",
+          "type": "白",
+          "text": "啊呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡大海下。"
+        },
+        {
+          "character": "徐达",
+          "type": "唱",
+          "text": "胡大海生的来性如烈火， 大江中统舟师破浪冲波。 牛石渚斩贼将英雄不弱， 被擂石打落水怎生奈何。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常遇春、众士卒同上，杀，同下。"
+        },
+        {
+          "character": "徐达",
+          "type": "唱",
+          "text": "常遇春他本是明辅上将， 在豪梁夺状元定国安邦。 只杀得元朝中人人胆丧， 全凭他保皇朝辟土开疆。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众士卒同上，同杀，同下。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "且住！你看采石矶，这等坚固，何时得破？有了，我想重赏之下，必有勇夫。 待本帅传下将令。 五营四哨，大小将官，听者！"
+        },
+        {
+          "character": "众士卒",
+          "type": "内同白",
+          "text": "吓！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "有人破得采石矶，功为第一，先锋大印，付他执掌。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达下。常遇春上。"
+        },
+        {
+          "character": "常遇春",
+          "type": "白",
+          "text": "啊，方才元帅传下将令，有人破得采石矶，功为第一，先锋大印，付他执掌。 又道是一人拚命，万夫难挡。船上有桅，桅上有斗，待我将身藏在斗内，纵上 矶头便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常遇春登城，杀铁木耳，下。众人同上，杀，同下。徐达、众人同上。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "启元帅：采石矶已破。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "就此班师复命。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大尾声。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

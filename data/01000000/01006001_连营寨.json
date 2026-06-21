@@ -1,0 +1,1967 @@
+{
+  "script_id": "01006001",
+  "title": "连营寨",
+  "alias": [
+    "火烧连营七百里"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "陆逊",
+      "hangdang": "小生"
+    },
+    {
+      "name": "关兴",
+      "hangdang": "武生"
+    },
+    {
+      "name": "张苞",
+      "hangdang": "净"
+    },
+    {
+      "name": "孙权",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "蜀先主刘备，因关公、张飞相继丧亡，遂与东吴结不解之仇，誓欲沼灭孙吴，以报二弟，于异姓手足之谊，\n诚无间矣。惜太愤历，忘汉室之公敌，而但急己身之私义，舍重谋轻，逆于理势，且复过于骄盈操切，不知\n乘胜转机，以是卒被大创，至身丧白帝，遗恨吞吴。呜呼，偏安之局，蜀祚之暂，盛衰成败，实消长于此！\n按蜀志章武二年二月，黄忠既战殁于彝陵，先主益愤吴，誓必灭此朝食，遂会军猇亭，分路进攻，连营七百\n里，初出兵，颇胜利，死其主帅甘宁，孙权大惧，遂遣程秉（剧本作诸葛瑾）奉使来议和，愿割荆州还蜀，\n并函归张飞首级。先王适盛怒之余，不许，程秉还，吴廷束手。乃拔陆逊于书生，拜为大将。先主闻之，颇\n易视陆逊。时适盛暑，兵苦炎渴，先主不察，令移营林木丛茂处，遂犯兵家包原失闲之忌，致为陆逊所败，\n全军覆没，几不能脱。方马良赍图入川，诸葛亮见之，即顿足叹恨，欲图补救，知已不及。幸得赵云往援，\n先主乃退入白帝城养疴。是役也，祭酒程畿、番王沙摩柯，及傅彤、冯习、张南等，均死于难。",
+  "notes": "此剧前见谭鑫培去刘备，沉着悲痛，苍凉激越，深合白帝城以前之一种神气。叫天而外，当推王又宸为第一。\n今客串华彦臣君，亦深得此戏三味，洵于谭、王外能独树一帜者，诚未易材也。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩当、周泰、糜芳、傅士仁、马忠、夏旬同上，同起霸。〖点绛唇〗。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "俺，"
+        },
+        {
+          "character": "韩当",
+          "type": "白",
+          "text": "韩当。"
+        },
+        {
+          "character": "周泰",
+          "type": "白",
+          "text": "周泰。"
+        },
+        {
+          "character": "糜芳",
+          "type": "白",
+          "text": "糜芳。"
+        },
+        {
+          "character": "傅士仁",
+          "type": "白",
+          "text": "傅士仁。"
+        },
+        {
+          "character": "马忠",
+          "type": "白",
+          "text": "马忠。"
+        },
+        {
+          "character": "夏旬",
+          "type": "白",
+          "text": "夏旬。"
+        },
+        {
+          "character": "韩当",
+          "type": "白",
+          "text": "请了，元帅起兵征剿西蜀，命我等在此伺候。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八红小军、四大铠、甘宁同上。〖点绛唇〗。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "参见元帅。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "众位将军少礼。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "吓。"
+        },
+        {
+          "character": "甘宁",
+          "type": "念",
+          "text": "战鼓响惊天震地，杀气腾鸟不敢飞。帐下有雄兵百万，号令出敢不遵依！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "本帅甘宁。蒙圣恩拜我为帅，征讨西蜀，今乃黄道吉日。 众位将军，人马可齐？"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "具已齐备。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "起兵前往。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "众将官起兵齐往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、瓜头大铠、关兴、张苞、张南、刘备同上。〖上半段泣颜回〗。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "眼观江夏水沧沧，好似汉阳对武昌。常德、武陵依然在，虎口内面藏荆襄。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "孤，刘备。带领倾国人马，与二、三弟报仇，兵出川口，擒城夺市，杀关斩将， 皆赖二、三弟之神威也。孔明先生，在成都闻得黄忠去世，发来蛮兵十万， 以助其阵，只因蛮兵初到内地，不知兵势若何。 张南，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张南允。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "传番王沙摩柯上将台听点。"
+        },
+        {
+          "character": "张南",
+          "type": "白",
+          "text": "番王沙摩柯上将台听点。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "沙摩柯上。"
+        },
+        {
+          "character": "沙摩柯",
+          "type": "白",
+          "text": "这金里金波，伊里波，藏安呵，沙摩柯，嗑膝。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你兵初入内地，不知兵势若何，传令开操，待孤一观。"
+        },
+        {
+          "character": "沙摩柯",
+          "type": "白",
+          "text": "这蛮兵们开操。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八蛮兵、四长枪、四短刀同上，操演，同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "孤观你兵势，倒也精壮，令人难敌也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖下半段泣颜回〗。"
+        },
+        {
+          "character": "沙摩柯",
+          "type": "白",
+          "text": "就此合操。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "沙夫人上，合操完。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报，韩当、周泰等兵打蜀营。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "沙摩柯，带领你兵攻打头阵，张苞、关兴，随后接应。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、张南同下。"
+        },
+        {
+          "character": "沙摩柯、关兴、张苞",
+          "type": "同白",
+          "text": "众将官起兵前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场，甘宁上，会阵，开打。甘宁追蛮兵同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "沙摩柯、关兴、张苞、众人同上。〖上半段千秋岁〗。"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "甘宁厉害如何是好？"
+        },
+        {
+          "character": "沙摩柯",
+          "type": "白",
+          "text": "不妨，他若来时，乱箭齐发，哪怕他飞上天去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁追上。四长枪手、四蛮兵同放箭，甘宁带箭下。"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "紧紧追赶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖下半段千秋岁〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊，甘宁上。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "罢了吓，罢了！ （甘宁唱越恁好牌第一段。关兴、张苞、沙摩柯同追上，过场，同下。韩当、周泰、糜芳、傅士仁、马忠、 夏旬、龙套同上，同下。）"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "哎呀，且住！蜀兵来得厉害，我军不能取胜，主上吓主上，臣不能保全社稷了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁唱越恁好牌第二段，自刎。韩当、周泰、糜芳、傅士仁、马忠、夏旬、龙套同上。"
+        },
+        {
+          "character": "韩当",
+          "type": "白",
+          "text": "主帅已死，不能复生，须得拜本进京，请兵救援。"
+        },
+        {
+          "character": "周泰",
+          "type": "白",
+          "text": "只是江南岸无人把守。"
+        },
+        {
+          "character": "马忠、麋芳",
+          "type": "同白",
+          "text": "我等把守江南岸。"
+        },
+        {
+          "character": "韩当、周泰",
+          "type": "同白",
+          "text": "我等把守江北岸。 众将官，把守去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大凯引韩当、周泰同下。"
+        },
+        {
+          "character": "马忠",
+          "type": "白",
+          "text": "将军，此乃咽喉之地，须要小心把守。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马忠下。"
+        },
+        {
+          "character": "麋芳、傅士仁",
+          "type": "同白",
+          "text": "众将，此乃咽喉之地，小心把守。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜芳、傅士仁同下。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "列位将军，看蜀兵每每得胜，此地难保，不免将麋芳傅士仁的首级，献于刘备， 岂不是头功！"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "言之有理，请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众将同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "麋芳、傅士仁同上。"
+        },
+        {
+          "character": "麋芳",
+          "type": "白",
+          "text": "哎吓将军，方才三军言到，要杀你我，献于刘备，如何是好？"
+        },
+        {
+          "character": "傅士仁",
+          "type": "白",
+          "text": "不妨，趁此无人，将马忠杀死，献于刘备，岂不是好？"
+        },
+        {
+          "character": "糜芳",
+          "type": "白",
+          "text": "言之有理。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜芳、傅士仁同下。马忠上，麋芳、傅士仁同上，杀马忠，马忠下。"
+        },
+        {
+          "character": "麋芳、傅士仁",
+          "type": "同白",
+          "text": "趁此无人，就此走了罢，正是："
+        },
+        {
+          "character": "糜芳",
+          "type": "念",
+          "text": "瓦罐不离井上破，"
+        },
+        {
+          "character": "傅士仁",
+          "type": "念",
+          "text": "将军难免阵前亡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜芳、傅士仁同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吕范、诸葛瑾、阚泽、赵咨同上。"
+        },
+        {
+          "character": "吕范",
+          "type": "念",
+          "text": "五云露出催晓箭，"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "念",
+          "text": "九重春色醉仙桃。"
+        },
+        {
+          "character": "阚泽",
+          "type": "念",
+          "text": "旌旗日暖龙蛇动，"
+        },
+        {
+          "character": "赵咨",
+          "type": "念",
+          "text": "金殿风和燕雀高。"
+        },
+        {
+          "character": "吕范",
+          "type": "白",
+          "text": "下官吕范。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "下官诸葛瑾。"
+        },
+        {
+          "character": "阚泽",
+          "type": "白",
+          "text": "下官阚泽。"
+        },
+        {
+          "character": "赵咨",
+          "type": "白",
+          "text": "下官赵咨。"
+        },
+        {
+          "character": "吕范",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "吕范",
+          "type": "白",
+          "text": "主公登殿，排班伺候。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引孙权同上。"
+        },
+        {
+          "character": "孙权",
+          "type": "引子",
+          "text": "终日焦劳，恨刘备，心似咆哮。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "臣等见驾，主公千岁。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "千千岁。"
+        },
+        {
+          "character": "孙权",
+          "type": "念",
+          "text": "昔日曹瞒下江东，全凭周郎巧计攻。如今刘备来征讨，只怕山河落了空。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "孤，姓孙名权，字仲谋。受父兄之基业，所辖江东一带等处，可恨刘备占去城 池，我兵不能取胜，孤心甚是忧虑也。"
+        },
+        {
+          "character": "吕范",
+          "type": "白",
+          "text": "启主公：今有韩当、周泰拜本前来，请主公观看。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吕范呈本，孙权看。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "“甘宁阵亡”。哎吓，卿家吓！“请兵救援”！咳，昔日有周郎，周郎之后有 子敬，子敬之后有吕蒙，如今国空邦虚，有谁解孤之危也？"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "主公可将范疆、张达并张飞首级，解至蜀营，待臣前去讲和。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "就命卿家，将范疆、张达并张飞首级，解至蜀营讲和。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛瑾下。"
+        },
+        {
+          "character": "赵咨",
+          "type": "白",
+          "text": "臣观诸葛瑾，此去必不转来。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "不必多奏，退班。"
+        },
+        {
+          "character": "孙权",
+          "type": "念",
+          "text": "一字压群寮，文武且退朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙权下，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二太监引刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "梦寐坐卧恨吴狗，灭却东吴方罢休！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞同上。"
+        },
+        {
+          "character": "关兴",
+          "type": "念",
+          "text": "心中怀旧恨，"
+        },
+        {
+          "character": "张苞",
+          "type": "念",
+          "text": "不共戴天仇。"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "启皇伯：今有麋芳、傅士仁，解马忠首级来见。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二贼来了！绑上来！"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "绑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白铠绑傅士仁、麋芳同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "好贼子！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "献荆州害孤弟是何仇恨， 全不念孤与你郎舅之情。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "绑下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白铠绑傅士仁、麋芳同下上。张南上。"
+        },
+        {
+          "character": "张南",
+          "type": "白",
+          "text": "启主公：今有诸葛瑾，解范疆、张达并三千岁的首级来见。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吓，三千岁的首级来了，阿呀三弟吓！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "听说是报首级珠泪滚滚， 想当初嘱咐你全不在心。 放悲声哭三弟叫之不应， 你在那黄泉路等吾同行。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "张苞，后营设下灵堂。"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请诸葛瑾。"
+        },
+        {
+          "character": "张南",
+          "type": "白",
+          "text": "有请诸葛瑾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛瑾上。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "念",
+          "text": "全凭三寸舌，打动一片心。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "主公。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "千千岁。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "赐坐。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "皇叔在此，臣岂敢坐？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哪有不坐之理。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "臣谢座。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "诸葛子瑜前来，敢是与孙权做说客么？"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "非也，臣久思陛下，一来问安，二来讲和。想昔日关二王与吕蒙不合，枉自兴 兵，误其大事。今奉主公之命，送来降将，荆州原归皇叔，以求两国和好，免 得生灵涂炭。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你东吴现在危急，故命你前来巧言顺说么？"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "非臣巧言，皇叔乃帝王之后，不争江山，反争荆州，失其重言其轻也。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "住口！你东吴不仁，害孤二弟，不共戴天之仇，若不看在我家丞相之面，先斩 汝头！回去说与孙权知道：早晚孤必兴兵扫平东吴，管叫他国诛戮，去罢！"
+        },
+        {
+          "character": "张南",
+          "type": "白",
+          "text": "出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞同上。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "念",
+          "text": "用手捧盆湘江水，难洗今朝满面羞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛瑾下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "关兴、张苞，传令吩咐满营大小将官，俱穿孝服，将你父神牌请在灵堂，将一 概仇人，绑在灵前，为伯的亲自祭奠。"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "想当年结桃园对天发咒， 愿同年同日月共同罢休。 到如今一旦间死别分手， 我岂肯独一人乐享无忧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关兴、张苞、张南同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠绑麋芳、傅士仁、范疆、张达同上。"
+        },
+        {
+          "character": "傅士仁",
+          "type": "西皮摇板",
+          "text": "你说刘备待你厚，"
+        },
+        {
+          "character": "麋芳",
+          "type": "西皮摇板",
+          "text": "哪个叫你献荆州！"
+        },
+        {
+          "character": "张达",
+          "type": "西皮摇板",
+          "text": "我说此事总有鬼，"
+        },
+        {
+          "character": "范疆",
+          "type": "西皮摇板",
+          "text": "死在眼前埋怨谁？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大吹打，四白龙套、四文堂、四太监、关兴、张苞同上。"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "有请皇伯！"
+        },
+        {
+          "character": "刘备",
+          "type": "内西皮导板",
+          "text": "白盔白甲白旗号，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上。"
+        },
+        {
+          "character": "刘备",
+          "type": "哭板",
+          "text": "二弟，三弟，孤的好兄弟吓！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "大小将官哭嚎啕。 孤王兴兵把仇报， 扫平了东吴气方消。 请过了神牌往怀抱，"
+        },
+        {
+          "character": "刘备",
+          "type": "反西皮二六板",
+          "text": "点点珠泪往下抛。 当年桃园结义好， 胜似一母共同胞。 不幸徐州失散了， 你万般无奈暂且归曹。 那曹操待你的情义好， 上马金银赐过你大红袍。 美女十名你不爱， 挂印封金辞奸曹。 匹马单刀保皇嫂， 过五关，斩六将，擂鼓三通，把蔡阳的首级枭，你可算得盖世的英豪。 华容道上放曹操， 大仁大义志量高。 单刀赴会天下晓， 英雄美名亘古标。 可恨孙权行计巧， 害孤二弟归天曹。 愚兄兴兵把仇报， 扫平了东吴气方消， 还望二弟神灵保，"
+        },
+        {
+          "character": "刘备",
+          "type": "哭头",
+          "text": "孤的好兄弟吓，"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "不杀孙权不回朝。"
+        },
+        {
+          "character": "关兴",
+          "type": "西皮摇板",
+          "text": "刘皇伯为父王咽喉哭哑， 我心中好一似钢刀来铡。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "非是为伯的珠泪掉， 孤与汝父生死交。 哭罢了二弟把三弟叫， 孤的好兄弟吓，"
+        },
+        {
+          "character": "刘备",
+          "type": "反西皮二六板",
+          "text": "叫声三弟听根苗： 大破黄巾天下晓， 敌人见你望风逃。 虎牢关曾把吕布的发冠挑， 当阳坡下喝断了灞桥。 夜战马超胆气豪， 义释严颜颇有略韬。 可恨那范疆、张达两个贼强盗， 谋害英雄二贼脱了逃。 你兄兴兵与你把仇报， 只杀得孙权魂胆消。 情愿罢兵写降表， 同心合意共灭奸曹。 锦绣江山孤不要， 一定与你把仇消。 哭哑了咽喉把三弟叫，"
+        },
+        {
+          "character": "刘备",
+          "type": "哭头",
+          "text": "孤的三弟吓，"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "拿住了孙权两开交。"
+        },
+        {
+          "character": "张苞",
+          "type": "西皮摇板",
+          "text": "刘皇伯为父王把心血用尽， 灵堂下绑的是父王仇人。 叫人来将二贼首级先刎， 抛在那荒郊外用火烧焚！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "拿酒来，待孤亲自祭奠，一概仇人拿去开刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张苞斩范疆、张达、傅士仁。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "此贼为何不斩？"
+        },
+        {
+          "character": "张苞",
+          "type": "白",
+          "text": "与皇伯有郎舅之情。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "事到如今，还讲什么郎舅之情？刀来！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "宝剑一举人头掉， 杀死贼子气方消！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备斩糜芳。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "关兴、张苞，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞同允。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "吩咐文武穿白挂孝，歇兵三日，兵伐东吴！"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "文武穿白挂孝，歇兵三日，兵伐东吴！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、阚泽、吕范、赵咨、孙权同上。"
+        },
+        {
+          "character": "孙权",
+          "type": "念",
+          "text": "苍天若助三分力，灭却刘备方称心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛瑾上。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "念",
+          "text": "忙将议和事，报与主公知。"
+        },
+        {
+          "character": "诸葛瑾",
+          "type": "白",
+          "text": "启主公：刘备不肯讲和。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "哎呀，咳，可叹先兄基业，一旦付与流水。"
+        },
+        {
+          "character": "阚泽",
+          "type": "白",
+          "text": "我国现有能士，何不用之？"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "既有能士，何不早说，是哪个？"
+        },
+        {
+          "character": "阚泽",
+          "type": "白",
+          "text": "想那陆逊，智广才高，可以挂帅征讨刘备。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "孤也久闻陆逊有才，但是年幼，恐难抵敌刘备。"
+        },
+        {
+          "character": "阚泽",
+          "type": "白",
+          "text": "启主公：此人虽然年幼，乃是九江太守陆绩之后，胸中颇知兵法。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "宣上殿来。"
+        },
+        {
+          "character": "阚泽",
+          "type": "白",
+          "text": "主公有旨：宣陆逊上殿。"
+        },
+        {
+          "character": "陆逊",
+          "type": "内白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆逊上。"
+        },
+        {
+          "character": "陆逊",
+          "type": "念",
+          "text": "久困未展平生志，哪知胸藏百万兵。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "臣陆逊见驾，愿主公千岁！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "千千岁。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "阚泽夸卿有孙武之才，孤命你带领人马，抵敌刘备，料无推辞。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "启主公：江东文武，皆主公故旧之臣，尚且无人受此重任，臣年幼无才，焉能 治之？"
+        },
+        {
+          "character": "阚泽",
+          "type": "白",
+          "text": "臣全家力保陆逊。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "阚卿全家力保，卿家不必推辞。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "倘有文武不服？"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "赐你尚方宝剑，先斩后奏。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "谢主龙恩。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "阚卿连夜筑台，拜陆逊为帅，摆驾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大吹打，四将同上，四太监、阚泽、吕范、赵咨、孙权同上，陆逊上，拜印。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "封卿为招讨大元帅，外加鲁侯，赐卿尚方宝剑，倘有不遵，先斩后奏。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "谢主龙恩。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "卿家，孤与刘备有敌国之仇，愿卿此去奏凯班师，乃孤之幸也。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "主公龙恩已极，臣当竭力尽忠，以报主恩。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "摆驾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、文官、孙权同下。〖吹打〗。陆逊上高台。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "叩见元帅！"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "站立两厢。众将官，吴侯挂我为帅，征讨蜀兵，须要人人努力，个个争先，鸣 金不齐，号令不退，盔甲不明，刀枪不利，两军阵前，营武不整，一概勿犯。 倘有不遵者，枭首示众！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同允。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "就此响炮拔营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、韩当、周泰同上。"
+        },
+        {
+          "character": "韩当",
+          "type": "念",
+          "text": "眼观徐梁无解救，"
+        },
+        {
+          "character": "周泰",
+          "type": "念",
+          "text": "六郡之省尽皆休。"
+        },
+        {
+          "character": "韩当",
+          "type": "白",
+          "text": "将军，主公拜陆逊为帅，他乃一介书生，怎能知其武将机谋？"
+        },
+        {
+          "character": "周泰",
+          "type": "白",
+          "text": "且自由他，暂且出城迎接。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗，陆逊、四将同上，过场，韩当、周泰同出城接，同下。众人同上，换门。"
+        },
+        {
+          "character": "韩当、周泰",
+          "type": "同白",
+          "text": "末将等未曾远迎，望乞恕罪。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "韩当",
+          "type": "白",
+          "text": "元帅来此，刘备不战自退也。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "我乃一介寒儒，蒙主重托，故未敢辞劳。"
+        },
+        {
+          "character": "韩当",
+          "type": "白",
+          "text": "请问元帅，此番前去，还是先破蜀兵，还是先救孙桓。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "全仗列位协力同心，待破蜀之后，再救孙桓。"
+        },
+        {
+          "character": "韩当、周泰",
+          "type": "同白",
+          "text": "咳，若待破蜀之后，那孙桓岂不困死在城内？"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "哽，你等哪知用兵之计？掩门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龙套、陆逊同下。"
+        },
+        {
+          "character": "韩当",
+          "type": "白",
+          "text": "将军看此光景，东吴一旦休也。"
+        },
+        {
+          "character": "周泰",
+          "type": "白",
+          "text": "且自由他。"
+        },
+        {
+          "character": "周泰",
+          "type": "念",
+          "text": "落在矮檐下，"
+        },
+        {
+          "character": "韩当",
+          "type": "念",
+          "text": "怎敢不低头？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩当、周泰同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞、张南、刘备同上，四文堂同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "龙麟起坐如反掌，干戈霸业定太平。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马良上。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "启主公：东吴拜陆逊为帅，兵扎蓆亭。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "陆逊是甚等样人？"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "乃九江太守陆绩之后，一介书生，虽则年幼，颇有谋略，智取荆州，乃此人之 计也。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "嗳，原来乳子诡计，害孤二弟，此时正当擒之。 关兴、张苞，吩咐起兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞同允。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "且慢，主公请息怒。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "为何？"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "陆逊非比周郎，不可轻敌。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "咳，我用兵老矣，难道不如那黄口孺子么？"
+        },
+        {
+          "character": "张南",
+          "type": "白",
+          "text": "臣等每每骂阵，陆逊紧守不出，如之奈何？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "不妨，孤这里兵精粮足，就与他对守何惧？"
+        },
+        {
+          "character": "张南",
+          "type": "白",
+          "text": "只是天气炎热，兵扎离火之中，又恐汲水不便，三军多生疾病。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "不妨，孤将营寨，移于茂林深处，炎夏一过，秋时与他拼一死仗，东吴自然休 矣。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "我兵若动，倘陆逊踹营，如之奈何？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唔，孤命关兴、张苞，各带兵五万，埋伏山谷之中，倘陆逊踹营，趁势可擒也。"
+        },
+        {
+          "character": "张南",
+          "type": "白",
+          "text": "主公妙计，臣等不及也。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "主公要移营寨，可画成地图，问过丞相。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "咳，孤用兵老矣，些许小事，何必又问丞相？"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "古语云：“兼听则明，偏听则暗”，望陛下详之。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "也罢，就命卿家，将各营四至八图，画成全幅，去问丞相；若有不便，即来回 奏。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马良下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "张苞、关兴，就此移营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "众将官移营去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊，韩当、周泰同上。"
+        },
+        {
+          "character": "韩当",
+          "type": "白",
+          "text": "将军，刘备移营，禀知元帅。"
+        },
+        {
+          "character": "周泰",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "韩当",
+          "type": "白",
+          "text": "有请元帅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、二旗牌、陆逊同上。"
+        },
+        {
+          "character": "陆逊",
+          "type": "念",
+          "text": "胸藏孙武按六韬，准备香饵钓金鳖。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "韩当、周泰",
+          "type": "同白",
+          "text": "刘备移营。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "有这等事？待我一观，吩咐带马。"
+        },
+        {
+          "character": "陆逊",
+          "type": "新水令",
+          "text": "山河国事帝王悠， 统雄师忠德威咎。 山河泄不尽， 天地灵祈佑。 国事凝眸， 都只为名利锁紧迤逗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆逊上台。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关兴、张苞、张南、龙套、众人同上。〖步步娇〗。过场，同下。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "陆逊",
+          "type": "折桂令",
+          "text": "觑他行队伍驰骤， 人马咆哮，哗骝不休。 只见他移营松茂， 喜眉梢残除群谋。 整顿着弓刀箭手， 管教他数百营头，只这顷刻尽休。 仗吾奇谋， 俺这里火攻一举，霎时功收。"
+        },
+        {
+          "character": "韩当、周泰",
+          "type": "同白",
+          "text": "元帅，刘备移营未定，可传将令，待末将等，杀他个措手不及。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩当、周泰同唱〖江儿水〗。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "你等哪知俺的妙计也！"
+        },
+        {
+          "character": "陆逊",
+          "type": "雁儿落",
+          "text": "凭着他百万兵巧计谋， 料群雄怎脱俺这牢笼钩。 方愿俺展韬略达机谋， 一恁他移军营暗计投。"
+        },
+        {
+          "character": "韩当、周泰",
+          "type": "同白",
+          "text": "元帅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "一板绕绕令。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "不必多言，带马回营。呀！"
+        },
+        {
+          "character": "陆逊",
+          "type": "收江南",
+          "text": "准备着打鱼舟， 收拾了钓鱼钩。 咸先皇威灵保佑， 东吴万载秋。 伊休，齐凯歌升平奏， 请幽享廊堂玉殿秋，玉殿秋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童儿引诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "袖内乾坤按星斗，扶汉室锦绣龙楼。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人诸葛亮。主公烈性兵伐东吴，如今兵出川口，命马良在彼探听虚实，这几 日必有音信前来。 伺候了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马良上。"
+        },
+        {
+          "character": "马良",
+          "type": "念",
+          "text": "忙将主公旨，报于计谋人。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "参见丞相。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "主公有地图在此，丞相请看。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "展开。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖园林好〗。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哎呀，包原失险，兵家大忌，欲起连营七百里，倘被吴兵用火之计，如何破敌？ 马良，此营何人所扎，理应斩首！"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "乃主公龙意。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "咳，可叹七十五万汉士官兵，尽丧烈火之中。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "待臣回去，奏明移改。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "你若回去也是不及，此乃天意难以挽回。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "若是主公兵败，如何是好？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "若是主公兵败，必至白帝城，就命文武在彼伺候。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "倘若陆逊追兵前来？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "不妨，我自有道理。"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "末将告辞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马良下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "咳，主公吓！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "当初臣言已料定，只恐命归白帝城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八小军、韩当、周泰、丁奉、徐盛、陆逊同上。〖沽美酒〗。〖吹打〗。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "刘备移营，中我之计，韩当、周泰，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩当、周泰同允。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "你二人带领人马，各代硫磺焰硝，等东南风起时，攻打江南岸。"
+        },
+        {
+          "character": "韩当、周泰",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩当、周泰同下。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "丁奉、徐盛，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁奉、徐盛同允。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "你二人带领人马，各代硫磺焰硝，攻打江北岸。"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁奉、徐盛同下。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "众将官，待蜀营火起，一拥杀出，不得有误。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同允。"
+        },
+        {
+          "character": "陆逊",
+          "type": "白",
+          "text": "起兵前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖沽美酒〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞、刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "眼观旌旗起，耳听好消息。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张南上。"
+        },
+        {
+          "character": "张南",
+          "type": "白",
+          "text": "启主公：帅字旗无风自倒。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "恐吴兵今夜前来劫营，张苞、关兴，须要准备。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "江南岸营中火起！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "张苞急救。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张苞允，下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "这是我军自不小心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "江北岸火起！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "关兴速救。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "这两岸火起，应在帅旗无风自倒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "满营火起！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀，一定吴兵前来放火，不好了！"
+        },
+        {
+          "character": "刘备",
+          "type": "扑灯蛾",
+          "text": "唬得我闻言胆战惊，胆战惊， 消离七魂，待卒报军情。 好似那南来雁室群， 也罢，落得个烈火炎身，炎身！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。众将同上，起打，张南死。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云上，关兴、张苞、刘备同上。〖滴洒子〗。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "臣赵云见驾，愿主公千岁！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀，四弟吓，孤悔不听先生之言，致有今日。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "救驾来迟，望主公恕罪。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "可叹孤七十五万汉士之兵，俱丧烈火之中！哎吓，皇天吓皇天，孤命休矣！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

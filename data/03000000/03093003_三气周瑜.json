@@ -1,0 +1,1278 @@
+{
+  "script_id": "03093003",
+  "title": "三气周瑜",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "周瑜",
+      "hangdang": "小生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    },
+    {
+      "name": "诸葛亮",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "周瑜以假途灭虢之计，暗取荆州，被诸葛亮识破。诸葛亮遣赵云、黄忠、魏延、张飞等各路截杀，周瑜惨败。\n周瑜盛怒之下，呕血而死。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四马夫、四上手、四龙套、魏延、黄忠、赵云、张飞、糜竺、诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "引子",
+          "text": "三顾茅庐出山林，保汉家，鼎足三分。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "地为阴来天为阳，九宫八卦腹内藏。周郎点动兵和将，要夺荆州梦一场！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人，诸葛亮。周郎意欲夺取荆州，不免点动人马，抵挡于他。 糜竺听令！"
+        },
+        {
+          "character": "糜竺",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "这有书信一封，下到周郎那里，不得有误！"
+        },
+        {
+          "character": "糜竺",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜竺下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "四将军听令！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领一哨人马，镇守南城，周郎兵到，说破与他！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "黄老将军听令！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领一哨人马，埋伏公安，周郎兵到，截杀一阵，不得有误！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "魏延听令！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领一哨人马，埋伏江陵，周郎兵到，截杀一阵，不得有误！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三将军听令！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领一哨人马，埋伏芦花荡口！附耳上来！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "喳、喳、喳……得令！ 马来，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞上马。四马夫、张飞同下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮、四龙套、四上手同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁奉、徐盛同上，双起霸。"
+        },
+        {
+          "character": "丁奉",
+          "type": "白",
+          "text": "俺，丁奉。"
+        },
+        {
+          "character": "徐盛",
+          "type": "白",
+          "text": "俺，徐盛。"
+        },
+        {
+          "character": "丁奉",
+          "type": "白",
+          "text": "将军请了！"
+        },
+        {
+          "character": "徐盛",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "丁奉",
+          "type": "白",
+          "text": "都督升帐，你我两厢伺候！"
+        },
+        {
+          "character": "徐盛",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、周瑜同上。〖点绛唇〗。"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "参见都督！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "二位将军少礼。站立两厢！"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "周瑜",
+          "type": "念",
+          "text": "白马银枪配玉鞍，手持令箭登将坛。吴侯驾前保社稷，斩将夺旗用机关。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "本都，姓周名瑜字公瑾，吴侯驾前为臣。今奉旨意，催讨荆州。 丁、徐二将！"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "人马可齐？"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "俱已齐备。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "吩咐带马登舟去者！"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "带马登舟！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜、丁奉、徐盛同上马。众人同走圆场，二水手同上，周瑜、丁奉、徐盛同下马。众人同上船。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "开船！"
+        },
+        {
+          "character": "二水手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜竺上。"
+        },
+        {
+          "character": "糜竺",
+          "type": "白",
+          "text": "奉了军师之命，与周郎下书。远远望见周郎来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四龙套、丁奉、徐盛、周瑜同上。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "人马为何不行？"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "糜竺当道！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "人马列开。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "糜竺",
+          "type": "白",
+          "text": "参见都督！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "先生到此何事？"
+        },
+        {
+          "character": "糜竺",
+          "type": "白",
+          "text": "奉了主公之命，前来下书。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "有劳了！刘皇叔有书信到来，待我拆开一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二三锣。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "上写：“汉室宗亲刘玄德，拜上东吴水军大都督周公瑾：前者鲁肃过江催讨荆 州，备因无有存身之地，暂借荆州容身。望求都督与备二兵合一，攻打东西两 川，若得一川，定将荆州奉还，绝不食言。话不多叙，后会有期。刘备顿首拜。” 先生禀报皇叔，就说本督照书行事。"
+        },
+        {
+          "character": "糜竺",
+          "type": "白",
+          "text": "告辞！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "回来！依我一件！"
+        },
+        {
+          "character": "糜竺",
+          "type": "白",
+          "text": "哪一件？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "本督人马到了南城，要皇叔迎接本督进城！"
+        },
+        {
+          "character": "糜竺",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "先生请便。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "糜竺下。"
+        },
+        {
+          "character": "周瑜",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈……"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "都督为何发笑？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "刘备这封书信，叫本督二兵合一，攻打东西两川，我军人马到了南城，他必然 开城相迎，那时本督乘虚而入，杀他个措手不及，这岂不是明取西川，暗取荆 州！"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "都督高才！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "南城去者！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、丁奉、徐盛同下。周瑜亮相，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四白龙套、赵云同上，同上城。〖风入松〗。四龙套、丁奉、徐盛、周瑜同上。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "人马为何不行？"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "来此已是南城。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "人马列开！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "来在南城，为何不见刘备迎接于我！看城上插有白旗，难道又中了那诸葛亮之 计！待我打马向前。 呔，守城儿郎听者！禀报你家主帅：就说本督大兵到了！"
+        },
+        {
+          "character": "四白龙套",
+          "type": "同白",
+          "text": "候着！ 启将军：周都督到！"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "忽听儿郎一声报， 再与周郎说根苗。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "城下可是周都督？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "周都督，带兵何往？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "刘皇叔有书信与我，要本督二兵合一，共取西川。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "哪里是攻打西川，分明是暗夺荆州，你道是与不是？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "四将军此言差矣！孙、刘两家和好，岂能如此！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "瞒得了你营众将，瞒不了诸葛先生。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "周瑜",
+          "type": "唱",
+          "text": "听一言来心头恼， 两目圆睁似火烧。 本督把计错用了， 反中诸葛计笼牢。 勒住丝缰把话表，"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "子龙！"
+        },
+        {
+          "character": "周瑜",
+          "type": "唱",
+          "text": "叫声子龙听根苗： 本督今日大兵到， 不夺荆州我不还朝！"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "三军与爷开城道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "扫头。开城，赵云、四白龙套同出城，会阵，同起打，周瑜、四龙套、丁奉、徐盛同败下。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "收兵回城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云、四白龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（〖急急风〗。四红龙套、黄忠同上，过场，同下。周瑜、四龙套、丁奉、徐盛同上，黄忠、四红龙套同上，"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "会阵，同起打。周瑜、四龙套、丁奉、徐盛同败下。黄忠、四红龙套同收下。〖急急风〗。四蓝龙套、魏"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "延同上，过场，同下。周瑜、四龙套、丁奉、徐盛同上，魏延、四蓝龙套同上，会阵，同起打。周瑜、四龙"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "套、丁奉、徐盛同败下。魏延、四蓝龙套同收下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四马夫、张飞同上，张飞两望门，埋伏，四马夫、张飞同虚下。"
+        },
+        {
+          "character": "周瑜",
+          "type": "内西皮导板",
+          "text": "在南城与赵云打一仗，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。周瑜、四龙套、丁奉、徐盛同上，周瑜摔吊毛。乱锤。周瑜拉马，上马。〖四击头〗。"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮二六板",
+          "text": "口吐鲜血冒红光。 人马来在南城下， 遇见赵云摆战场。 我二人在南城打一仗，"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮快板",
+          "text": "杀得我丢盔卸甲败回营房。 耳边厢又听得銮铃响， 两国人马到战场。 不顾生死往前闯， （周瑜勒马，滚头。周瑜下马，上高。黄忠、四红龙套、魏延、四蓝龙套同上，与四龙套、丁奉、徐盛同起 打，黄忠、魏延、丁奉、徐盛同打四股档，丁奉、徐盛同败下。黄忠、魏延同收下。周瑜下高台，拉马，上 马。）"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮快板",
+          "text": "两国人马到战场； 他国人马打胜仗， 我国人马刀下亡。 不顾生死往前闯，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四马夫自下场门同上，同倒脱靴，张飞上。"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "芦花荡闪出翼德张！ 披头散发一员将， 想必他是小周郎。 周郎我儿你是不是？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "通上名来好动刀枪！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮散板",
+          "text": "我实实服了诸葛亮， 神机妙算比我强。 公安埋伏黄老将， 江陵埋伏魏文长。 张翼德埋伏在芦花荡， 赵子龙在南城摆战场。 勒住马头把话讲， 叫声翼德听端详： 孙、刘和好除奸党， 共灭曹贼保家邦。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "黄鹤楼上摆战场， 诓俺大哥过长江。 今日来在芦花荡， 要想活命梦一场！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜、张飞同起打，张飞枪挑周瑜下马。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "翼德，三将军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜上马。"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮二六板",
+          "text": "三将军休要逞刚强， 刚强怎比楚霸王。 霸王刚强乌江丧， 韩信刚强命丧未央。 你国军师韬略广， 水军都督天下扬。"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "今日来在芦花荡， 转世投胎再认爹娘！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜、张飞同起打，周瑜败下。四马夫同上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "收兵！"
+        },
+        {
+          "character": "四马夫",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞、四马夫同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、孙瑜同上。"
+        },
+        {
+          "character": "孙瑜",
+          "type": "念",
+          "text": "镇守巴丘地，昼夜不安宁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁奉、徐盛同上。"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "参见千岁！"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "二位将军少礼。"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "谢千岁！"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "二位将军，周都督哪里去了？"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "周都督临阵疆场！"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "起兵前往！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四龙套、周瑜同上，周瑜下马进帐。"
+        },
+        {
+          "character": "周瑜",
+          "type": "唱",
+          "text": "拼性命逃出了天罗地网， 千岁何时到营房？"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "周都督今日出战，为何这等模样？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "千岁呀！为臣带兵，实指望夺回荆州，不想误中诸葛亮的诡计，损兵折将而归， 惭愧呀，惭愧！"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "军家胜败，古之常理。 丁奉、徐盛！"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "搀扶都督后帐歇息！"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": "周瑜",
+          "type": "叫头",
+          "text": "诸葛亮啊，孔明！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "借去我国荆州，数载不还，反将本督杀得大败，本督回转江东，重整人马，若 不杀你，誓不为人也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁奉、徐盛搀周瑜同下。"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙瑜、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "唱",
+          "text": "打量周郎命不久， 柴桑吊孝用计谋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四马夫、黄忠、魏延、赵云、张飞同上。"
+        },
+        {
+          "character": "黄忠、赵云、魏延、张飞",
+          "type": "同白",
+          "text": "参见军师！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "罢了。可知周郎兵败何处？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "周郎兵败巴丘。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "众位将军后帐歇息！"
+        },
+        {
+          "character": "黄忠、魏延、赵云、张飞",
+          "type": "同白",
+          "text": "谢军师！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠、魏延、赵云、张飞同下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "启开文房！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。诸葛亮修书。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "旗牌进见！"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "旗牌进见！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "参见军师！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "军师有何差遣？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "这有书信一封，下到周郎营中，书信送到，即刻回还！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "谅你纵有千条计，难逃山人掌握中！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁奉、徐盛、孙瑜、周瑜同上。"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮原板",
+          "text": "周公瑾每日里操兵演箭， 七岁上学兵法九岁登坛。 十三岁掌水军领兵征战， 为社稷把我的心血用干。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "门上哪位听事？"
+        },
+        {
+          "character": "丁奉",
+          "type": "白",
+          "text": "哪里来的？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "奉诸葛亮先生所差，前来下书。"
+        },
+        {
+          "character": "丁奉",
+          "type": "白",
+          "text": "少站。 启禀都督：诸葛亮差人前来下书。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "书先进，人落后！"
+        },
+        {
+          "character": "丁奉",
+          "type": "白",
+          "text": "书先进，人落后！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌呈书信，下。"
+        },
+        {
+          "character": "丁奉",
+          "type": "白",
+          "text": "书信一封，都督请看。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "呈上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜看书信。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "上写：“汉军师中郎将诸葛亮拜上水军都督周公瑾：前者自柴桑一别，至今念 念不忘。闻听都督带兵远征，只怕曹操乘虚而入，马踏东吴。你我两家交锋， 实出无奈。都督虽然损兵折将，不必惊慌……”不、不……必惊慌！ 传下书人！"
+        },
+        {
+          "character": "丁奉",
+          "type": "白",
+          "text": "下书人！ 启禀都督：下书人不见了！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮导板",
+          "text": "这封书好比那纯钢宝剑，"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮摇板",
+          "text": "周公瑾要活命难上加难。"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "啊都督，见了这封书信，为何这等烦恼？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "这不是书信，这是阎王的勾魂牌票，勾臣的生魂来了！"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "都督若有好歹，水军之事何人掌管？"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "我观东吴韩当、周泰、陈武、潘璋、吕蒙、甘宁、丁奉、徐盛等，皆不能执掌 水军，为臣部下鲁肃，办事谨慎，我若有好歹，挂他为帅，料然无事！"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "就该修本，禀报吴侯知道。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "溶墨伺候！"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮原板",
+          "text": "未曾提笔泪双流， 诚惶诚恐禀吴侯： 倘若为臣身死后，"
+        },
+        {
+          "character": "周瑜",
+          "type": "西皮快板",
+          "text": "鲁肃他能统貔貅。 周瑜修本顿首拜， 还望千岁细思筹。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙瑜接本。"
+        },
+        {
+          "character": "孙瑜",
+          "type": "白",
+          "text": "都督保重了！ 马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同上。"
+        },
+        {
+          "character": "孙瑜",
+          "type": "唱",
+          "text": "辞别都督跨马走，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙瑜上马。四龙套同下。"
+        },
+        {
+          "character": "孙瑜",
+          "type": "唱",
+          "text": "手托本章见吴侯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙瑜下。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "丁奉、徐盛！搀扶本督帐外观看！"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "外面风大，不去也罢！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "不妨事，搀我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁奉、徐盛搀周瑜同出帐，周瑜看。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "丁奉、徐盛！这边是什么所在？"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "乃是我国京都建业！"
+        },
+        {
+          "character": "周瑜",
+          "type": "叫头",
+          "text": "吴侯哇，吴侯！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "为臣命在旦夕，只恐今生今世不能保主江山社稷了！"
+        },
+        {
+          "character": "周瑜",
+          "type": "唱",
+          "text": "眼望着东吴忙叩首， 拜谢我主爵禄恩。 为臣我尽不得忠来顾不得孝， 但等来世报圣君。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "丁奉、徐盛！那边黑暗暗雾沉沉是什么所在？"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同白",
+          "text": "那就是荆州地面！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜推丁奉、徐盛。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "哦，那、那、那……就是荆州么！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜僵尸。乱锤。丁奉、徐盛同搀起。"
+        },
+        {
+          "character": "周瑜",
+          "type": "叫头",
+          "text": "诸葛亮啊，孔明！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "借去我国荆州不还，反将本督杀得大败，我死在阴曹地府，也要勾尔的魂魄也！"
+        },
+        {
+          "character": "周瑜",
+          "type": "唱",
+          "text": "眼望荆州咬牙恨， 捶胸跺足骂孔明。 本督若是丧了命， 死在阴曹也要勾尔的魂！"
+        },
+        {
+          "character": "周瑜",
+          "type": "叫头",
+          "text": "天哪，天！"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "既生瑜，何生亮！苍天生下周公瑾，汉室不该出孔明！三计不成，岂不气……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜吐。"
+        },
+        {
+          "character": "周瑜",
+          "type": "白",
+          "text": "呜噜噜噜……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周瑜死。"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "type": "同唱",
+          "text": "一见都督丧了命， 怎不叫人痛在心！"
+        },
+        {
+          "character": "丁奉",
+          "type": "白",
+          "text": "将军，都督已死，你我禀报吴侯知道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丁奉、徐盛同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

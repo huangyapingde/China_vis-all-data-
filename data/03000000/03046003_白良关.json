@@ -1,0 +1,2063 @@
+{
+  "script_id": "03046003",
+  "title": "白良关",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "尉迟恭",
+      "hangdang": "净"
+    },
+    {
+      "name": "尉迟宝林",
+      "hangdang": "净"
+    },
+    {
+      "name": "秦琼",
+      "hangdang": "老生"
+    },
+    {
+      "name": "徐懋功",
+      "hangdang": "老生"
+    },
+    {
+      "name": "程咬金",
+      "hangdang": "丑"
+    },
+    {
+      "name": "梅秀英",
+      "hangdang": "旦"
+    },
+    {
+      "name": "刘国桢",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "唐太宗出征，尉迟恭为先行。兵至白良关，守将刘国桢，为尉迟恭鞭伤；其子宝林，奋而出战。先是，尉迟\n恭之妻梅秀英，身怀宝林，为刘国桢霸占，时逾十馀年。宝林战败尉迟恭，归告母氏。其母始诉底细，旋自\n尽。宝林出阵，父子相认，杀死刘国桢，同见唐太宗。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引唐太宗同上。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "引子",
+          "text": "龙门展放开，文武拜金阶。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "念",
+          "text": "金殿上香烟缭绕，瑞彩升紫雾飘飘。众公卿丹墀拜倒，圣天子驾坐龙朝。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "孤、大唐天子贞观在位。自登基以来，风调雨顺，国泰民安。今当设立早朝。 内侍！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "展放龙门！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨。 展放龙门哪！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "内白",
+          "text": "嗯嚇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐懋功上。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "念",
+          "text": "周刚打战表，上殿奏当朝。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "臣、徐勣见驾，吾皇万岁！"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "卿家上殿，有何本奏？"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "臣启万岁：今有北国周刚打来连环战表，请我主御览。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐懋功呈表，唐太宗看表。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "唔呼呀，原来是北国周刚打来连环战表，要孤御驾亲征。 卿家，何计退贼？"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "万岁，可命护国公以为正帅，鄂国公以为副帅，鲁国公以为前站先行，保护我 主御驾亲征，哪怕那胡儿不灭？"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "卿家替孤传旨，宣护、鄂、鲁三家国公上殿！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "领旨。 万岁有旨：宣护、鄂、鲁三家国公上殿！"
+        },
+        {
+          "character": "秦琼、尉迟恭、程咬金",
+          "type": "内同白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、尉迟恭、程咬金同上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "念",
+          "text": "大将生来志量高，"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "念",
+          "text": "旗开得胜显功劳。"
+        },
+        {
+          "character": "程咬金",
+          "type": "念",
+          "text": "三十六路宣花斧，"
+        },
+        {
+          "character": "秦琼、尉迟恭、程咬金",
+          "type": "同念",
+          "text": "凌烟阁上把名标。"
+        },
+        {
+          "character": "秦琼、尉迟恭、程咬金",
+          "type": "同白",
+          "text": "臣等见驾，吾皇万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、尉迟恭、程咬金同跪。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "众卿平身。"
+        },
+        {
+          "character": "秦琼、尉迟恭、程咬金",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、尉迟恭、程咬金起。"
+        },
+        {
+          "character": "秦琼、尉迟恭、程咬金",
+          "type": "同白",
+          "text": "宣臣等上殿，有何国事议论？"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "今有北国周刚打来连环战表，孤要御驾亲征。护国公听封！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "以为正帅！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "鄂国公听封！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "以为副帅！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "鲁国公听封！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "以为前站先行！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "三家国公，保孤御驾亲征。"
+        },
+        {
+          "character": "徐懋功、秦琼、尉迟恭、程咬金",
+          "type": "同白",
+          "text": "朝事已毕，请驾回宫。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "唐太宗下。大太监、四太监同下。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "众家国公，回府披挂！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "鄂国公为何拦阻？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "某家有一事不明，要在列公台前领教。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "有话坐下讲。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "有何金言？当面请讲！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "我等金殿奉旨，领兵扫北，末将昨晚偶得三梦，不知主何吉兆，要在列公台前 领教。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "请问这头一梦？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "这头一梦，末将带领家丁，郊外射猎，乱草之中，窜出一只白兔。某家左手持 弓，右手搭箭，照定白兔射去。那兔带箭而逃。某家催马就赶，赶到太行山下， 只见那山喀喳喳倒将下来。不知主何吉兆？"
+        },
+        {
+          "character": "徐懋功、秦琼",
+          "type": "同白",
+          "text": "这！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "我想是不祥之兆！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "此番扫北，必须要靠山近水安营扎寨，山要倒啦，砸也把咱们砸死啦。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "请问这第二梦？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "这第二梦，某家全身披挂，与盖苏文交战，战了数十馀合，那贼战某不过，败 下阵去。某家催马就赶，赶到海岸之上，只见那海水它就哗喇喇一啸而干。不 知主何吉兆？"
+        },
+        {
+          "character": "徐懋功、秦琼",
+          "type": "同白",
+          "text": "这！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "还是不祥之兆！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "水要干啦，渴也把咱们给渴死啦。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "请问这第三梦？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "这第三梦，末将清晨起来，书房净面。丫鬟报道：后花园中百花开的茂盛。末 将前去观看，左手执镜，右手指花，只见那花开花谢，镜落尘埃，分为两半。 不知主何吉兆？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "这！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "愈发是不祥之兆啦！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "此番扫北，圣上好比花心；众家国公好比花瓣，花开花谢，恐怕不久咱们就要 散摊子啦！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "不是这样讲。 鄂国公，此番扫北，必有夫人、公子相会。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "夫人、公子相会。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "老黑呀，你还乐哪？你投唐以来，只有黑、白二女，哪有夫人、公子流落在北 国哪？分明他耻笑你我武将无后啊。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "就是他？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "不是他，还是我吗？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "先生哪！想末将投唐以来，只有黑、白二氏，哪有夫人、公子相会？你分明笑 我武将无后！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "山人道你有夫人、公子相会，并非嘲笑。你休要误会。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "且慢！常言道：梦从心头起。讲什么吉凶祸福！不必争论，你我披挂要紧！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "列公啊！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "唱",
+          "text": "忆昔马邑遭寇乱， 居民百姓掳北边。 尉迟宝眷怎能免， 不然因何无信传？ 此番扫北去征战， 可能相会在北番。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "先生！"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "两国交锋在眼前， 家务事休提作战当先。 回头便把咬金唤， 你今做了先行官。 速到校场把人马点， 保主圣驾征北番！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "程咬金",
+          "type": "唱",
+          "text": "元帅那里把令传， 咬金做了先行官。 回头便把老黑唤，"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "老黑你可记着！"
+        },
+        {
+          "character": "程咬金",
+          "type": "唱",
+          "text": "夫人面前你要替我问安。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金下。四龙套同暗上。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "先生说话言太潜， 细听某家说根源： 投唐来只有那黒、白二氏女， 哪有那妻室孩儿失落在北番？ 怒气不息我就跨雕鞍，"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龙套甲带马，尉迟恭上马。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "扫北国一战成功奏凯回还。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭、四龙套同下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "运筹决算你执掌，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼下。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "唱",
+          "text": "十八家国公保大唐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐懋功下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金上。"
+        },
+        {
+          "character": "程咬金",
+          "type": "念",
+          "text": "忆昔当年在瓦岗，贾家楼上一炉香。三十六路宣花斧，一斧劈开老君堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套自两边分上。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "俺、程咬金。奉了元帅将令，校场点动人马。人马齐备。远远望见元帅来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引秦琼、尉迟恭同上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "念",
+          "text": "金装锏盖世无双，"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "念",
+          "text": "水磨鞭保定唐王。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "人马可齐？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "俱已齐备。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "圣驾到此，速报我知。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "唐太宗",
+          "type": "内白",
+          "text": "圣驾到！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "启元帅：圣驾到。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "一同接驾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠引唐太宗同上。"
+        },
+        {
+          "character": "秦琼、尉迟恭、程咬金",
+          "type": "同白",
+          "text": "参见万岁！"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "人马可曾齐备？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "俱已齐备。"
+        },
+        {
+          "character": "唐太宗",
+          "type": "白",
+          "text": "传孤旨意：文武百官免送；大兵打从得胜门而出，就此响炮离京！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "先行传令！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "得令。 嘚！下面听者！圣上有旨、元帅有令：文武百官免送；大兵打从得胜门而出， 就此响炮离京！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、秦琼、尉迟恭、程咬金、四大铠、唐太宗同走圆场。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "前导为何不行？"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "来到白良关。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "人马列开！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "选一平阳之地，靠山近水，安营扎寨，歇兵三日，再与胡儿交战！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。四龙套引刘国桢同上。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "某、刘国桢。唐兵到此，岂肯容他猖狂？ 巴图噜！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引尉迟恭同上，同会阵。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "马前来的敢是刘国桢？"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "然！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "刘国桢，大兵到此，还不下马投降？"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "一派胡言！放马过来！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "看鞭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭、刘国桢同起打，刘国桢、四龙套同败下，尉迟恭、四龙套同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘国桢、四龙套同败上。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "唱",
+          "text": "适才关前打败仗， 左膀之上带了伤。 迈歩且进牛皮帐，"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": "刘国桢",
+          "type": "唱",
+          "text": "上不得阵来逞不得强。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。尉迟宝林上。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "哇呀呀……"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "正在后帐演刀枪， 忽听前帐闹嚷嚷。 迈步且进牛皮帐，"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "着什么急来着什么忙？"
+        },
+        {
+          "character": "刘国桢",
+          "type": "唱",
+          "text": "适才关前大会仗， 尉迟恭武艺果然强。 鞭沉力猛实难挡， 为父左膀带了伤。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "听说爹爹带了伤， 不由豪杰怒满腔。 爹爹点动兵和将， 儿杀尉迟灭唐王！"
+        },
+        {
+          "character": "刘国桢",
+          "type": "唱",
+          "text": "马、段、殷、刘四员将， 个个武艺比儿强。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "爹爹休把儿小量， 孩儿的武艺比他们强。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "爹爹，孩儿在后花园跑马射箭，练成全身武艺，可以胜得那唐将。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "我儿有此胆量？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "有此胆量。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "好，将房披挂去吧！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林出门。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "念",
+          "text": "将房披挂起，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林下。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "念",
+          "text": "为父点雄兵。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "巴图噜，听我令下！"
+        },
+        {
+          "character": "刘国桢",
+          "type": "唱",
+          "text": "少爷出兵去打仗， 从来未曾到战场。 交锋仔细休鲁莽， 鞍前马后要堤防。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林披挂上，与刘国桢行礼。刘国桢暗下。尉迟宝林领四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。四龙套引秦琼、尉迟恭、程咬金同上。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "小将讨战。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "来，抬枪带马！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "且慢！杀鸡焉用牛刀？待末将会他一阵。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "须要小心！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、尉迟恭同下。四龙套引尉迟宝林同上，会阵。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "马前来的敢是尉迟老将？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "住了吧！老子程咬金，你怕我不怕？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "嘿！我道是尉迟老将，原来是丑鬼咬金，饶尔不死，去吧！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "一派胡言！吃我一斧！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "看鞭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林、程咬金同起打，程咬金、四龙套同败下，尉迟宝林、四龙套同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引秦琼、尉迟恭同上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "北国周刚真胆大， 要夺我主锦中华。 将身且坐宝帐下， 咬金回来问根芽。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金上。"
+        },
+        {
+          "character": "程咬金",
+          "type": "唱",
+          "text": "适才阵前把仗打， 一鞭将我送到家。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "回来了？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "回来啦。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "胜负如何？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "两军阵前，被那黑小子这么一鞭！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "怎么样啊？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "把我鞭回来啦。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "军家胜败，古之常理。后帐歇息去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金下。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "小将讨战，单要尉迟老将出马。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "唐朝国公十八家， 提名道姓要某家。 人来带过爷的马， 两军阵前会一会小娃娃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "一见老将出大营， 不由本帅挂在心。 三军带路高坡奔， 观看两家赌输赢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、四龙套同走圆场，同上高坡。尉迟恭上。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "跨下一骑乌骓马， 这打将钢鞭手中拿。 来在贼营高声骂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林上。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "番营来了小豪家。 乌油盔来乌油甲， 皂罗袍上绣团花。 问声老将名和姓？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "娃娃！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "你老爷尉迟敬德我保唐家。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "听说尉迟保唐家， 打父仇人就是他。 钢鞭一举朝下打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖扫头〗。尉迟恭、尉迟宝林同起打，尉迟恭、尉迟宝林双下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "小将武艺真可夸， 尉迟老将也不差。 站在高坡令传下， 免得两家动杀法。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭、尉迟宝林同上，同架住。〖内鸣金声〗。尉迟恭退。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "老将，你敢是怯战？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "娃娃，非是你老爷怯战，我国元帅鸣金收兵，明日再战。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四龙套自两边分上。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "明日来者？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "君子。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "不来？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "小人！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "好！ 巴图噜，收兵！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同下。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林下。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "老了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引刘国桢同上。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "念",
+          "text": "我儿去出兵，未见转回程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林上。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "参见爹爹，孩儿交令。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "我儿回来了？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "胜负如何？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "两军阵前，未分胜负。他国元帅鸣金收兵。明日孩儿定取那贼的黑头。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "后堂见过你母亲去吧！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林岀门。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "念",
+          "text": "前堂遵父命，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林下。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "念",
+          "text": "后堂见娘亲。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘国桢下。四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅秀英上。"
+        },
+        {
+          "character": "梅秀英",
+          "type": "念",
+          "text": "泪似湘江水，辗转不断流。"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "奴家、梅秀英。配夫尉迟敬德，前去投军，杳无音信。可恨刘国桢作乱，反抢 马邑县，将我掠到北国，强霸为婚，本当不允，怎奈身怀有孕，为了保全尉迟 香烟，只得忍辱偷生。至今十有馀载，无有机会，报得此仇。思想起来，好不 愁闷人也！"
+        },
+        {
+          "character": "梅秀英",
+          "type": "唱",
+          "text": "梅秀英坐二堂自思自恨， 想起了当年事好不伤情。 耳边厢又听得铠甲声振， 但不知何人到来临。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林上。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "适才间与唐将会一阵， 他国元帅鸣金收兵。 迈虎步且把那二堂来进， 母亲台前问安宁。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "孩儿参见母亲！"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "吿坐。"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "全身披挂，与何人交战？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "与唐将交战。"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "胜负如何？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "两军阵前，未分胜负，他国元帅鸣金收兵。明日孩儿定取那贼黑头！"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "可曾问过那唐将的名姓？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "复姓尉迟、名恭、字敬德。"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "复姓尉迟、名恭、字敬德。"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "梅秀英",
+          "type": "唱",
+          "text": "听说儿夫到来临， 怎不叫人喜在心。 回头我对孩儿论， 为娘言来听分明： 刘国桢不是儿的亲——"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "噤声！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林、梅秀英同两望。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "亲什么？"
+        },
+        {
+          "character": "梅秀英",
+          "type": "唱",
+          "text": "亲生的父，"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "梅秀英",
+          "type": "唱",
+          "text": "尉迟恭他是儿的老爹尊。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "说什么亲来不是亲， 倒叫孩儿解不明。 走向前来忙跪定，"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "母亲哪！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "快与孩儿说详情。"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "起来，坐下。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "吿坐。"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "儿呀，你我母子原不是本地人氏。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "哪里人氏？"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "山西马邑县人氏。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "因何至此？"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "只因刘国桢作乱，反抢马邑县，将为娘掠进关来，强霸为婚。本当不允，怎奈 身怀你这小冤家——"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "话已说明。报仇也在你，不报仇也在你！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "有何为证？"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "钢鞭为证。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "待我看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林拿鞭看。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "“尉迟宝林！尉迟宝林！”哎呀！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "看过钢鞭果是真， 反把仇人当严亲。 手持钢鞭前堂奔，"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "前堂打死刘国桢。"
+        },
+        {
+          "character": "梅秀英",
+          "type": "白",
+          "text": "有道是：单丝不能成线，孤树不能成林。明日阵前，与你父亲说明，再报此仇， 也还不迟。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "怎奈孩儿恶气难消！"
+        },
+        {
+          "character": "梅秀英",
+          "type": "念",
+          "text": "暂将恶气存腹内，"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "念",
+          "text": "今晚且做懵懂人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅秀英、尉迟宝林同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引秦琼、尉迟恭、程咬金同上。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "小将讨战，还要尉迟老将出马。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "昨日阵前大交兵， 娃娃武艺果然能。 人来带过马能行，"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "须要小心！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "两军阵前见机行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "三军与爷严肃静！ 且听探马报军情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、程咬金、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十—场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林上。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "二堂领了母亲命， 两军阵前认天伦。 催马加鞭战场奔， 尉迟老将快出营！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭上。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "昨日阵前饶儿命， 今日又来送残生。 水磨钢鞭朝下打！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "这一鞭看在父子情。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "娃娃敢是怯战？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "老将，非是你少爷怯战，此处窄小，这跑、跑不开你少爷的马；这抡哪！抡不 开你少爷的鞭。看前面有一柳林，你我那里见个高下。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "娃娃，任你设下虎穴龙潭，你老爷何惧？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "如此你要来呀！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "怎的不来？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "你要来呀！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "叫声老将忙随定！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林下。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "这娃娃有什么巧计生？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林上。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "来在柳林下战马， 老将到此我认爹尊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭上。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "催马加鞭到柳林，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林跪。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "只见娃娃跪埃尘。 你老爷我日抢三关夺八寨， 夜探白壁介休城。 唐天子脱袍卷鞭某才归真主，"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "娃娃！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "北国闻名害头疼。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "老将不必起疑心， 我是你孩儿要认——"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "认什么？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "要认爹尊。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "战我不过该归顺， 为什么阵前认爹尊？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "家住山西马邑县， 我母名叫梅秀英。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "这娃娃提起了那梅秀英， 想起当年家事情： 祖居山西马邑县， 夫妻们打铁度光阴。 铁中得了纯钢宝， 打成了雌雄鞭二根。 别的来历我不问，"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "娃娃！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "阵前认父有何凭？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "老将若是不肯信， 现有钢鞭做证凭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林递鞭，尉迟恭看鞭。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "“尉迟宝林！”"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭看自己鞭。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "“尉迟敬德！”"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "一见钢鞭果是真， 父子们相逢在柳林。 钢鞭挑起亲生子，"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "翻身上了马能行。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "为父仇人哪一个？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "白良关中刘国桢。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "宝林前面把路引！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "白良关去杀刘国桢。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "唱",
+          "text": "紧消停来慢消停， 父子还须定计行。 假战三合败了阵，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林下。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "钢鞭一举晓三军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘国桢上。"
+        },
+        {
+          "character": "刘国桢",
+          "type": "念",
+          "text": "我儿二次去出兵，心中恍惚不安宁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林上。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "看鞭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林打死刘国桢。尉迟恭上。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "那贼可灭？"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "那贼已灭。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "贼人既灭，引为父去见你母。"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "我母悬梁自尽了啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟宝林哭。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "且免伤悲，随为父转至龙棚见驾！"
+        },
+        {
+          "character": "尉迟宝林",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭、尉迟宝林同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

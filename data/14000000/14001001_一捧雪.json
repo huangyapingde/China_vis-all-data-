@@ -1,0 +1,2309 @@
+{
+  "script_id": "14001001",
+  "title": "一捧雪",
+  "alias": [],
+  "source": "《戏典》",
+  "characters": [
+    {
+      "name": "莫成",
+      "hangdang": "正生"
+    },
+    {
+      "name": "莫怀古",
+      "hangdang": "副生"
+    },
+    {
+      "name": "戚继光",
+      "hangdang": "生"
+    },
+    {
+      "name": "雪艳",
+      "hangdang": "青衣"
+    },
+    {
+      "name": "严世藩",
+      "hangdang": "净"
+    },
+    {
+      "name": "汤勤",
+      "hangdang": "丑"
+    },
+    {
+      "name": "张龙",
+      "hangdang": "副净"
+    },
+    {
+      "name": "郭仪",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "明朝嘉靖年间，太常寺正卿莫怀古家藏一件宝贝，就是玉杯一捧雪（在小说上也有说是一幅古画）。当时严\n嵩、严世藩父子二人在朝专权，心里想要得这件东西。莫怀古迫不得已，做了个假杯去贡献。严氏父子倒被\n他蒙混过去，偏偏夹进来一个不仁不义的汤勤，从中搬弄，惹出一场是非。原来这裱画匠汤勤是莫怀古一手\n提拔出来的人。因他很会逢迎，被严世藩赏识了，莫怀古就索性荐他到严府办事。汤勤在莫府走动的时候，\n竟敢看重莫怀古的小妾名叫雪艳，一心要害莫怀古的性命，好成其美事，趁着这个当儿大进谗言，说明这假\n杯的情形。严氏父子听了大怒，立刻领人到莫家去搜这真的杯子。在搜杯的时候，莫家有一个义仆名叫莫成，\n怀着玉杯从后门犬洞中逃出，不曾被严府搜去。严世藩临行限莫怀古三天内献出真杯，否则有灭门之祸。\n莫怀古心中一害怕，连夜弃官逃走。汤勤一计不成又生二计，鼓励严氏父子行文到各处去，拿获了莫怀古就\n地正法，并派亲信校尉张龙、郭仪紧紧追赶。莫怀古一心想投奔蓟州总镇戚继光那里，将到蓟州附近被严府\n二校尉擒住，随即解到戚继光处审问。戚继光在堂上不敢相认，暂时将他押进监牢，只说预备明天正法。当\n夜想替莫怀古开条生路，想来想去，一无办法。正在无可奈何的时候，莫成跑来，自愿替主一死。莫怀古哪\n里肯依。但是莫成再三申说替主尽忠的理由和决心，催迫莫怀古更衣逃走。莫怀古只得和他泪洒而别。天明，\n莫成坦然就义。",
+  "notes": "这种忠义浩气，是中国绝好的旧道德。至于汤勤的结局，在《审头刺汤》一剧里，完却这段因果。雪艳刺汤，\n人心大快。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉、四侍卫引严世藩同上，汤勤迎上。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "可恼哇，可恼。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "大人下朝为何这等烦恼？"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "在金殿之上，与夏言老儿顶本，被他一本参倒。你道恼是不恼？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "这有何难？明日早朝，老太师上殿参奏，也够他受用的了。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "这几日你往哪里去了？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "过府谢官。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "看起来你倒是个有良心的。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "小官有良心，眼前有一人他倒没有良心。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "哪一个无有良心？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "就是那莫大老爷。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "哽，我那莫仁兄怎么无有良心？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "那一日莫大老爷拿玉杯献与大人，是真是假？"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "乃是真杯，哪有假杯的道理？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "小官看来是假的。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "在酒席宴前，他将真杯显出，被小官看见了。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "依你之见？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "大人过府搜杯。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "搜杯得出？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "莫大老爷之罪。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "搜杯不出？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "也是……"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "唔。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "汤勤下。"
+        },
+        {
+          "character": "严世藩",
+          "type": "二黄摇板",
+          "text": "汤勤说话如刀切， 舌尖杀人哪见血。 人来与爷把轿引， 过府去搜一捧雪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉、四侍卫引严世藩同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古、雪艳同上。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "昨晚一梦大不祥，"
+        },
+        {
+          "character": "雪艳",
+          "type": "二黄摇板",
+          "text": "老爷言来妾身详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成上。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "启老爷：严爷过府。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "唔。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古、雪艳同下。四校尉、四侍卫引严世藩同上。"
+        },
+        {
+          "character": "严世藩",
+          "type": "二黄摇板",
+          "text": "来在莫府下了轿， 会会当年旧故交。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "有请老爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古上。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "严爷到府门。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "知道了。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "听说严爷到府门， 整整衣冠礼相迎。 莫不是升官未曾谢，"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "你做的嘉靖爷的官，谢我何来？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "唔。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "大人发怒为何因？"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "就为你来。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "为我何来？"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "一捧雪进与不进，但凭于你。为何拿假杯哄我？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "杯子只有一只，进与大人，并无第二。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "你才怎讲？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "就是一个。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成暗下。"
+        },
+        {
+          "character": "严世藩",
+          "type": "二黄摇板",
+          "text": "听一言来怒气生， 骂声怀古太欺情。 进京未到一月正， 保你太常寺正卿。 人来与我来搜定，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同搜。莫成暗上，闯前门不能出。"
+        },
+        {
+          "character": "严世藩",
+          "type": "二黄摇板",
+          "text": "削土三尺再搜寻。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成闯后门犬洞而逃，下。"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "玉杯无有。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "起过了。"
+        },
+        {
+          "character": "严世藩",
+          "type": "二黄摇板",
+          "text": "搜杯不出脸带红， 失却当年旧宾朋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雪艳上。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "仁兄身后何人？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "贱妾雪艳。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "请过来见礼。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "夫人见过严大人。"
+        },
+        {
+          "character": "雪艳",
+          "type": "白",
+          "text": "参见大人。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "仁嫂。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "回避了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雪艳下。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "莫仁兄，真杯也好，假杯也好，拿将出来，待小弟一观，不要你的就是。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "方才言过只有一个杯子，进于大人，并无第二。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "有人得见。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "何人得见？"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "汤勤得见。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "汤勤？唔呵，是了。那日汤勤过府谢官，在酒席筵前得罪于他，也是有的。在 大人台前搬动是非，有道是旁耳之言，不可深信。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "你才怎讲？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "不可深信。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "严世藩",
+          "type": "二黄摇板",
+          "text": "听罢言来怒气生， 我有一言听分明： 朝里朝外访一访， 严家岂是省油灯。 人来与爷把轿引， 三日后定要灭你的满门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严世藩下，四校尉、四侍卫同随下。雪艳上。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "严爷下轿。莫成这个奴才哪里去了？"
+        },
+        {
+          "character": "雪艳",
+          "type": "白",
+          "text": "不知去向。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "出厢找来。"
+        },
+        {
+          "character": "莫怀古、雪艳",
+          "type": "同白",
+          "text": "莫成掌家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成上。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷受惊了。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "我受的什么惊啊？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷敢莫为了昨晚的酒？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "哽。你敢断你老爷吃酒，我打死你这个奴才。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "纵然打死小人，可容小人讲个明白？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "你且讲来。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小人只见严爷下轿之时，气色不正，就知为一捧雪而来。小人去到上房，扭开 箱锁，怀着一捧雪。打开前门而逃，有严附校尉把守；小人打后门而逃，有严 府家丁拦阻。小人只得打犬洞而逃。站在高坡之上，只见严爷去远，小人才得 回来。老爷不问青红皂白就骂，举拳就打，想我们为奴的，也就难了。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "嘿！有了一捧雪，还则罢了。如若不然，夫人不要阻拦，待我打死这个奴才！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小人打不起了。"
+        },
+        {
+          "character": "雪艳",
+          "type": "白",
+          "text": "待妾身向前。 啊，莫成，你家老爷打你，为了何事？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小人不知呀！"
+        },
+        {
+          "character": "雪艳",
+          "type": "白",
+          "text": "就为的是那一捧雪。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "这一捧雪么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖胡琴拉小过门〗。莫成两面望。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "有有有，这不是一捧雪么。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成取出玉杯。"
+        },
+        {
+          "character": "雪艳",
+          "type": "白",
+          "text": "老爷，一捧雪在此。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "唔！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "一见玉杯果是真， 好一个伶俐小莫成。 走向前来掌家叫， 错打你几下莫记在心。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "有了一捧雪，拿稳作官，怕他何来？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "是啊，有了一捧雪，拿稳作官，怕他何来啊？老爷，那严爷严爷上轿之时，可 曾讲些什么？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "讲了两句歹话。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "哪两句歹话？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "“三日后要灭你的满门”。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "唔，“三日后灭你的满门”。"
+        },
+        {
+          "character": "莫成",
+          "type": "叫头",
+          "text": "哎呀老爷呀！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "三日后，难道是灭夫人的满门？还是灭小人的满门？自然是灭老爷的满门哪！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "你才怎讲？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "灭老爷的满门。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "听说三日灭满门， 吓得我三魂少二魂。 走上前来掌家叫， 想一良策去逃生。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "启禀老爷：有道是不做他人官，不受他人管。倒不如弃官逃走了罢。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "如此，往钱塘而逃。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "且慢，哪一个不知道，老爷钱塘人氏，钱塘去不得。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "往哪里而逃？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "那日跟随老爷进京求官，路过海岱门，见一位官长，他叫什么戚……"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "戚继光。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "戚大人在哪里为官？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "蓟州总镇。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "就往蓟州而逃。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "吩咐外厢人夫轿马。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷，事到如今，用不得轿马，只好步行了罢。"
+        },
+        {
+          "character": "雪艳",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "夫人，下官连累你了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹牌子〗。雪艳下。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "莫成，你老爷进京，未到一月，这身荣耀怎能舍得？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷，事到如今，舍不得亦要舍，丢不得亦要丢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古、莫成同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉、四侍卫引严世藩同上，汤勤迎上。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "大人回来了。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "来，将汤勤绑了。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "留头讲话。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "你且讲来。老夫过府搜杯，未曾搜出，非是你之罪么？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "启禀大人：他若是真杯献与大人，必定拿稳做官。他若假杯，必然弃官逃走。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "且听另人一报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "莫怀古弃官逃走。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "知道了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "大人如何？"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "啊呀，莫仁兄啊，真杯也罢，假杯也罢。你只管做官，不该弃官逃走。 来，外厢打轿！"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "大人哪里去？"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "追赶莫仁兄回来做官。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "他如今做不得官了。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "依你之见？"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "必须行文将他拿住，大小治他一个罪名。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "来，看文房四宝。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "待小官磨墨。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "“太子少保兵部左侍郎严，票行阃外事。为犯官一名莫怀古，怀带皇家印信， 弃官逃走，有欺君误国之罪。命马上二校尉，沿路追赶，不论文武大小衙门， 拿获者”……"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "斩头解京。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "哽。我那莫仁兄哪有这样的罪过。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "他怀着皇家印信，理当斩首。这是他自作自受，哪个混账王八蛋害他不成？"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "“斩头解京”。 来，传马上二校尉走上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、郭仪同上。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "参见大人。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "这有公文一角，沿途追赶莫怀古，不得有误。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "回来！莫怀古事小，一捧雪事大。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "二位上差，一捧雪事小，雪娘子事大。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "狗头狗脑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、郭仪同下。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "汤勤，从今以后，在老夫面前，当讲则讲，不当讲，休要胡言乱语。"
+        },
+        {
+          "character": "汤勤",
+          "type": "白",
+          "text": "小官下次不敢。"
+        },
+        {
+          "character": "严世藩",
+          "type": "白",
+          "text": "随老夫来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严世藩、汤勤同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、郭仪同上。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "俺，（张龙）（郭仪）。"
+        },
+        {
+          "character": "张龙",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "郭仪",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "张龙",
+          "type": "白",
+          "text": "奉了严爷之命，追赶莫怀古夫妇，就此马上加鞭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、郭仪同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": "莫怀古",
+          "type": "内白",
+          "text": "躜行者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹牌子〗。莫怀古、雪艳、莫成同上。"
+        },
+        {
+          "character": "雪艳",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "夫人为何不走？"
+        },
+        {
+          "character": "雪艳",
+          "type": "白",
+          "text": "两足疼痛，难以行走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古向莫成。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "夫人两足疼痛，难以行走。这便如何是好？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "啊老爷，此处离蓟州不远。待小人进得城去，雇两乘小轿。迎接老爷夫人进城。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "莫成转来。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷何事？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "你要小心了。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "大家小心了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成下。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "夫人，莫掌家前去雇轿，待下官搀扶于你，步行几步在柳林藏躲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古搀雪艳。张龙、郭仪同上。"
+        },
+        {
+          "character": "张龙",
+          "type": "白",
+          "text": "唔，他在前面走，我二人在后面赶，赶到此地，为何不见了？"
+        },
+        {
+          "character": "郭仪",
+          "type": "白",
+          "text": "想必在柳林里面藏躲。你我冒叫一声。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "里面可有莫怀古？"
+        },
+        {
+          "character": "雪艳",
+          "type": "白",
+          "text": "啊老爷，外面有人唤你。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "哪一位？"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "你是莫怀古？锁了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、郭仪锁莫怀古、雪艳同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、郭仪锁莫怀古、雪艳同上，张龙、郭仪同叫城，劈栅子，击堂鼓。四衙役引戚继光同上。"
+        },
+        {
+          "character": "戚继光",
+          "type": "念",
+          "text": "辕门鼓角声高，想必公文来到。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "请了！上司行文，大人请看。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "当堂拆封，人犯可曾带齐？"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "带齐了。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "带上堂来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、郭仪带莫怀古、雪艳同上。"
+        },
+        {
+          "character": "雪艳",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "夫人不必害怕，来此戚贤弟的衙门，料无妨碍。上面敢是戚……"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "哽，本镇点名，哪怕你们不齐。听点！犯官莫怀古，女犯无名，带下去！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "夫人，事到如今，连戚贤弟也不认你我了。"
+        },
+        {
+          "character": "雪艳",
+          "type": "白",
+          "text": "这都是你交的好朋友啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古、雪艳同下。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "将他二人带往哪里去？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "本镇看此事大了，必须作一两下担待。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "何为两下担待？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "头门以里，仪门以外，有一军牢小房，里面有灯有火，外面锁上加封，将你等 四人，锁在一起。待五鼓天明，看着绑，看着斩，人头打入木桶，回复严爷。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "好倒好，我二人辛苦了。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "自有你二人的下程。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "看他与我们的下程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、郭仪同下。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "唔呵呀，想我那莫仁兄，不知为了何事，冒犯严府。我想莫仁兄他有一掌家， 名叫莫成，颇能办事，为何不跟随前来？唔唔是了，人烟甚多，挨挤不上，不 免去到大街，寻找寻找。 来，掌灯！"
+        },
+        {
+          "character": "戚继光",
+          "type": "二黄摇板",
+          "text": "人来掌灯大街进， 大街小巷找莫成。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四衙役引戚继光同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "更夫上。"
+        },
+        {
+          "character": "更夫",
+          "type": "念",
+          "text": "为人莫打更，打更受苦情。风里也得去，雨里也得行。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "我，更夫便是。只因今夜拿住犯官一名莫怀古，五鼓天明就要开刀，街前严禁 得很，就此巡更去者。"
+        },
+        {
+          "character": "莫成",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成上。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "拿住啦！拿住啦！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "拿住什么？"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "拿住犯夜的啦！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "我乃是乡下人。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "乡下人不犯夜，难道我们城里人犯夜么？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "我乃是换钱粮的。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "换钱粮，你到文官衙门里去，怎么到这武官衙门里来？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "此地什么衙门？"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "乃是戚大人的衙门。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "原来如此。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内喊声〗。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小哥，为何这等喧哗？"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "你不知道？我来告诉与你：今夜拿住犯官一名莫怀古，五鼓天明，就要斩首。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "唉，老爷呀！"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "你这是什么会事？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "不是啊，那莫大老爷，为官清正，我在此悲叹。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "我把你好有一比。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "比作何来？"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "看兵书掉泪——替古人担忧。这么办罢，你先到我更房里去，等到天亮，你再 去交钱粮，你随我来。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小哥方便了。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "你跟我来。你多大岁数？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "一十六岁。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "小孩子。 到了更门，你跟我进来。进来没有？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "更夫用手摸莫成。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "你在哪儿？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "在这里。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "更夫摸莫成胡子。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "你怎么有了胡子？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "我四十六岁了。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "是个老头子。你替我打更，我睡一忽儿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌引戚继光同上。〖打二更鼓〗。"
+        },
+        {
+          "character": "戚继光",
+          "type": "二黄摇板",
+          "text": "听谯楼打罢了二更时分， 八台官倒做了巡更之人。"
+        },
+        {
+          "character": "莫成",
+          "type": "哭",
+          "text": "老爷呀！"
+        },
+        {
+          "character": "戚继光",
+          "type": "二黄摇板",
+          "text": "啼哭之人哪一个？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小人莫……"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "噤声！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚继光拉莫成同下。二旗牌同下。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "打更打更，乡下人与我打更跑啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "更夫寻锣锤不见。"
+        },
+        {
+          "character": "更夫",
+          "type": "白",
+          "text": "锣锤没有了，拿头撞。不响！不响！头都破了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "更夫下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌引戚继光拉莫成同上。"
+        },
+        {
+          "character": "戚继光",
+          "type": "二黄摇板",
+          "text": "来在二堂问分明。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "参见大人。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "罢了。你家老爷来了。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "可容我主仆一见？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "下面伺候。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "谢大人。 啊！老爷啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成下。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "看看严府校尉，可曾睡着？"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "睡着了。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "悄悄揭开封锁，有请莫大老爷。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "遵命！ 有请莫大老爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古、雪艳同上。"
+        },
+        {
+          "character": "雪艳",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "夫人啼哭莫高声， 休要惊动严府人。 悲悲切切把二堂进，"
+        },
+        {
+          "character": "戚继光",
+          "type": "二黄摇板",
+          "text": "再与莫兄说真情。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "莫仁兄，你掌家莫成来了。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "在哪里？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "旗牌，有请莫掌家。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "遵命。有请莫掌家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成上。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "你家老爷来了。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷在哪里？老爷受惊了。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "你这奴才办的好事。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "事到如今，埋怨小人，也是枉然。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "是啊，埋怨他也是枉然。但不知莫仁兄为了何事，冒犯严府？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "就为了一捧雪。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "一捧雪乃是一桩小事，为何有紧急公文到来？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "来得好快呀！可容我一看？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "那是自然。 旗牌掌灯。 仁兄请看。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "“太子少保兵部左侍郎严，票行阃外事。为犯官一名莫怀古，怀带皇家印信， 弃官逃走，有欺君误国之罪。命马上二校尉，沿路追赶，不论文武大小衙门， 拿获者”……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚继光向前抢莫怀古手中文书。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "为何不叫我看了？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "恐仁兄看了害怕。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "看完了，也好作一准备。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚继光将文书递给莫怀古。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "“拿获者，斩头解京”。哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古吓晕。"
+        },
+        {
+          "character": "雪艳、莫成、戚继光",
+          "type": "同白",
+          "text": "（老爷）（老爷）（贤弟）醒来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古醒。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "听说斩头要解京， 好似钢刀刺在心。 回头再与贤弟论， 想一良策救兄命。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "仁兄，有道是不做他人官，不受他人管。倒不如弃官逃走了罢。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "大人，走得的么？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "走得的。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "走哇…… 走不得，走不得。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "怎样走不得？"
+        },
+        {
+          "character": "莫成",
+          "type": "叫头",
+          "text": "哎呀大人哪！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "我家老爷，只为弃官逃走，惹下这场杀身大祸。今日又要弃官逃走，岂不连累 戚大人了么！"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "仁兄，倒不如点动人马反了罢。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "反得的？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "反得的。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "如此，就反…… 反，反不得！"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "怎样反不得？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "请问大人，蓟州堂有多少人马？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "三千人马，五百守城军。"
+        },
+        {
+          "character": "莫成",
+          "type": "叫头",
+          "text": "哎呀大人哪！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "三千人马，五百守城军，在乱世年间，可以抵挡一阵。这太平年间，慢说交锋 打仗，就是填刀板，踹马蹄，也是不够。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "戚继光",
+          "type": "二黄摇板",
+          "text": "叫你反来你不反， 叫你逃来你不行。 等到五鼓天明亮， 我坐法堂你受刑。"
+        },
+        {
+          "character": "莫成",
+          "type": "三叫头",
+          "text": "老爷！夫人！大人啊！"
+        },
+        {
+          "character": "莫成",
+          "type": "二黄导板",
+          "text": "一家人只哭得似酒醉，"
+        },
+        {
+          "character": "莫成",
+          "type": "三叫头",
+          "text": "老爷！夫人！大人哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雪艳在旁哭。"
+        },
+        {
+          "character": "莫成",
+          "type": "回龙",
+          "text": "那一旁哭坏了二夫人。"
+        },
+        {
+          "character": "莫成",
+          "type": "二黄原板",
+          "text": "戚大人八台的官救不了家主爷的命，家主爷的命，老爷呀！ 蓟州堂闷坏了小莫成。"
+        },
+        {
+          "character": "莫成",
+          "type": "叫头",
+          "text": "且住！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "曾记得跟随我家老爷进京之时，大夫人手捧一斗酒叫道一声：“莫成啊掌家， 此番跟随你家老爷进京求名，劝你老爷酒要少饮，事要正办。若得办一两桩好 事，慢说我在钱塘，就是去世的先人，也感恩非浅。”今日我家老爷在蓟州堂， 惹下杀身的大祸，难道叫我袖手旁观？这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成想念头。"
+        },
+        {
+          "character": "莫成",
+          "type": "叫头",
+          "text": "哎呀且住！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "正在危急之时，我倒又想起一桩心事来了。那一日随老爷拜客而归，路过十字 街口，遇见一位相命先生，与我老爷相了一相，然后又与我觑了一觑，叫道： “莫掌家，莫大哥！你的好贵相，你的好骨骼。你有你老爷之相，可惜无你老 爷之福。你家老爷日后有杀身大祸，要应在你的身上。”那相命先生说得无心， 我却听得有意。莫非此言就应在今晚蓟州堂上？也罢！我家老爷，待我十分 恩厚。无恩可报，倒不如替我老爷一死。虽然不能青史名标，也落个万古流芳。 我就是这个主意，哦！我就是这个主意！"
+        },
+        {
+          "character": "莫成",
+          "type": "二黄摇板",
+          "text": "走向前来忙跪定， 大人开了天地恩。⑴"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成向戚继光跪。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "莫成，你跪在我面前则甚？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "只要大人开恩，我家老爷有救了。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "起来。 仁兄醒来！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "贤弟何事？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "你有救了。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "救在哪里？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "莫成言道，仁兄有救！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "莫成，你老爷救应在哪里？"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "事到如今，哪里来的救应？老爷待小人情同骨肉，无恩可报，只得替老爷一死 了。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "想世人哪有人替人死之理？你有了这两句话也就够了。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷说什么无有人替人死之理？小人有辈古人，说与大人、老爷、夫人一听。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "慢慢的讲来。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷容禀：昔日杨生好犬，酒醉睡卧在荒山。那放牛的牧童，不知事务，他就 放火烧荒。那火看看烧在杨生的身上。那犬见主有难，他就翻身跳下涧去，滚 湿毛衣，舍身救主，来回有数十趟，那犬就累死在荒山。杨生醒来，见犬死在 一旁。想乌鸦有反哺之意，羊有跪乳之恩，马有渡江之力，这犬有救主之心。 畜生尚且如此，难道小人不如禽兽乎？老爷不叫小人替死，我就碰……"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "不必如此。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "掌家。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "莫成请上礼恭敬， 拜你如同拜先人。"
+        },
+        {
+          "character": "莫成",
+          "type": "二黄导板",
+          "text": "未曾犯法先受刑，"
+        },
+        {
+          "character": "莫成",
+          "type": "二黄摇板",
+          "text": "又如进了枉死城。 眼望钱塘哭文禄，我的儿啊！ 小人有话要禀明。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "你且讲来。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小人有一子，名唤文禄，在钱塘服侍大相公。大相公性情不好，开口就骂，举 拳就打。可怜我那文禄孩儿，他三岁亡母。小人今日替老爷一死，算来刚刚七 岁，可算七岁亡父。望求老爷，另眼看待我那文禄孩儿，小人纵死九泉，也是 感恩非浅。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "叫头",
+          "text": "哎呀，莫成啊！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "日后我要错待你的孩儿，叫我天诛地灭。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "谢老爷。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "我有一女，许配文禄为婚。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "谢大人。"
+        },
+        {
+          "character": "莫成",
+          "type": "二黄摇板",
+          "text": "戚大人与我作了主， 文禄孩儿有靠成。 水流千遭归大海， 原物交与旧主人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成将一捧雪交还莫怀古。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "捧雪本是起祸根， 为你伤了小莫成。 恨不得将杯来倾碎，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚继光、雪艳同拦阻。"
+        },
+        {
+          "character": "戚继光",
+          "type": "二黄摇板",
+          "text": "倾杯又如欺先人。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "将杯寄在小弟衙内。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "寄与贤弟，日后见杯，犹如见愚兄一般。"
+        },
+        {
+          "character": "雪艳",
+          "type": "哭",
+          "text": "喂呀！"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "贤弟请上，受愚兄一礼。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "此礼为何？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "将贱妾雪艳寄在贤弟衙内，不要当作仁嫂看待，当作使女丫鬟。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "还是仁嫂看待。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "多谢贤弟。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷，还有小人呢？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "贤弟请上，受愚兄一全礼。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "此礼为何？"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "等到五鼓天明，将我恩人一刀斩首。还望贤弟在西门以外，柳林之下，立一碑 牌，上写太守寺正卿莫公之墓。后来我那儿孙好与你烧钱化纸。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小人不敢。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "三件大事托付你，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖打四更鼓〗。"
+        },
+        {
+          "character": "莫成",
+          "type": "二黄摇板",
+          "text": "忽听谯楼打四更。"
+        },
+        {
+          "character": "莫成",
+          "type": "叫头",
+          "text": "哎呀大人哪！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "谯楼鼓打四更，看看快到五鼓天明，难道蓟州堂有两个莫怀古不成？"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "仁兄，小弟有一好友，在湖北为官。待弟修书一封，仁兄去到那里，躲避躲避。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "贤弟修书，愚兄更衣。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "待小人磨墨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚继光修书。"
+        },
+        {
+          "character": "戚继光",
+          "type": "二黄摇板",
+          "text": "上写顿首三顿首， 拜上湖北魏参谋。 怀古本是我好友， 还望仁兄好收留。 一封书信忙写就， 仁兄快快离蓟州。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "多谢贤弟施恻隐， 搭救怀古命残生。 回头便对夫人论， 下官言来你是听： 五鼓天明到法场进， 你对莫成叫夫君。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小人不敢。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "辞别贤弟足踏蹬，"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "老爷慢走。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "二黄摇板",
+          "text": "莫成起下追悔心。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "莫成，敢莫有追悔之意？来来来，刑具你老爷带上了罢。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "小人哪有追悔之意。老爷此番前去，酒要少饮，事要正办，当交的朋友，交上 几个。切莫再交那汤勤狗男女。要想第二个莫成，恐怕今生难得的了。"
+        },
+        {
+          "character": "莫怀古",
+          "type": "白",
+          "text": "话倒是两句好话，可惜讲迟了。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "却还不迟，上马去罢。"
+        },
+        {
+          "character": "戚继光、雪艳、莫成、莫怀古",
+          "type": "同三叫头",
+          "text": "（仁兄）（老爷）（老爷）（贤弟）！（兄长）（我夫）（老爷）（我妻）！"
+        },
+        {
+          "character": "戚继光、雪艳、莫成、莫怀古",
+          "type": "仁兄",
+          "text": "（夫）（老爷）（掌家）啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫怀古下。雪艳哭。"
+        },
+        {
+          "character": "戚继光",
+          "type": "念",
+          "text": "仁嫂休要两泪汪，"
+        },
+        {
+          "character": "雪艳",
+          "type": "念",
+          "text": "全凭大人作主张。"
+        },
+        {
+          "character": "莫成",
+          "type": "念",
+          "text": "大事全仗戚总镇，"
+        },
+        {
+          "character": "戚继光",
+          "type": "念",
+          "text": "你的名儿天下扬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雪艳下。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "莫成，五鼓天明。法场之上，不要胡言，不要乱语。本镇的前程，你老爷的性 命。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "大人，五鼓天明。法场之上，一不胡言，二不乱语。只求与小人一个快当。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "那个自然。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "谢大人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚继光下。〖起五更鼓〗。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "文禄我儿，今日你盼为父回来，明日也盼为父回来，盼来盼去，盼到枉死城中 来了。哦！想我莫成，一世为奴，今日替我老爷一死，乃是一桩喜事。必须大 笑三声。"
+        },
+        {
+          "character": "莫成",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊儿啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫成挥泪，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四侍卫、二刀斧手挟莫成同上，戚继光、雪艳、张龙、郭仪、禁卒先后上，过场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四侍卫引戚继光同上，戚继光坐高台。"
+        },
+        {
+          "character": "戚继光",
+          "type": "念",
+          "text": "本镇坐法场，埋下杀人桩。若有冤屈事，全凭一炉香。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "本镇戚继光，奉了严大人之命，监斩莫怀古。 刀斧手，绑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二刀斧手挟莫成同上，雪艳、张龙、郭仪、禁卒同上。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "二位公差，看得真？"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "看得真。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "见得明？"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "见得明。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "悬剥了！"
+        },
+        {
+          "character": "莫成",
+          "type": "叫头",
+          "text": "天哪，天！"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "想我莫……"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "刀斧手！将莫怀古绑好了！"
+        },
+        {
+          "character": "雪艳",
+          "type": "白",
+          "text": "哎呀，老爷呀！事到如今，你心中要放明白些。"
+        },
+        {
+          "character": "莫成",
+          "type": "白",
+          "text": "想我莫怀古，死得好不瞑目也！ （二刀斧手押莫成同下。二刀斧手同上，献头。雪艳看头，张龙、郭仪踢雪艳下。张龙、郭仪将人头交与禁 卒，打入木桶。）"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "二位上差，这里是你们的下程，还有手本。叩问严大人的金安。"
+        },
+        {
+          "character": "张龙、郭仪",
+          "type": "同白",
+          "text": "谢大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、郭仪同下。"
+        },
+        {
+          "character": "戚继光",
+          "type": "白",
+          "text": "众将官，回衙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        },
+        {
+          "character": "戚继光",
+          "type": "stage",
+          "text": "—————————— ⑴上面唱的两句是老词，近多删去不唱。场面用〖扫头〗扫去。"
+        }
+      ]
+    }
+  ]
+}

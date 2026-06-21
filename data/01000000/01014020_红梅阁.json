@@ -1,0 +1,669 @@
+{
+  "script_id": "01014020",
+  "title": "红梅阁",
+  "alias": [
+    "游西湖"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "李慧娘",
+      "hangdang": "旦"
+    },
+    {
+      "name": "裴稚卿",
+      "hangdang": "小生"
+    },
+    {
+      "name": "贾似道",
+      "hangdang": "净"
+    },
+    {
+      "name": "廖应忠",
+      "hangdang": "副净"
+    }
+  ],
+  "plot": "宋浪子宰相贾似道，携爱妾李慧娘游玩西湖。见卢姓少女姿容曼妙，贾似道涎其色，命家人劫夺之。人丛中\n有少年裴稚卿者，上前喝阻。贾似道恐不容于众口，遂不敢放肆。裴稚卿仪表轩昂，且有义侠气。李慧娘一\n见心醉，流目送情，暗遣女婢赠以手帕。适露童儿之目，于贾似道前搬弄口舌，贾似道因杀李慧娘；又迁怒\n于裴稚卿，必欲得而甘心焉。诱裴稚卿至府，闭诸后园书房内，命力士廖应忠俟夜静杀之。不料李慧娘死后，\n诉诸冥王，检查生死册籍，与裴生有姻缘之份，准其鬼魂暂回阳世，以了宿缘；赐一阴阳宝扇，藉以护身。\n李慧娘即于夜间叩门晤裴稚卿，裴稚卿亦不知为鬼，互相绸缪，遂于飞之愿。李慧娘说明情由，并告知贾\n似道欲遣人谋害。未几，廖应忠持刀至。李慧娘用宝扇前后遮掩，挈裴稚卿遁出贾府，始免于难。",
+  "notes": "此剧为花旦唱做兼全之剧。角斗一段，颇费力量；唱工纯用秦腔，声调激越方能动听。沪上名角如贾璧云、\n小如意等，演此颇餍观剧者之心理。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘上。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮摇板",
+          "text": "悠悠荡荡风一阵， 来了屈死一亡魂。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "我，慧娘。是我那日游玩西湖，偶遇裴生，不该与他眉来眼去，不想被书童看 破，说与平章老儿。可恨那贼，将我叫至前庭，一言不发，拔出宝剑，竟将奴 家一刀杀死。是我到了阴曹，诉与五殿阎君。阎君言道：我与裴生还有姻缘之 分，又蒙判官老爷赐我阴阳宝扇一把。今日不免去至书馆，一来与裴生叙叙情 肠，二来成却婚姻之事。可说是天呀，天呀！想我慧娘，死的好不苦也！"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮正板",
+          "text": "有灵魂在花园泪流满面， 思想起奴的命珠泪不干。 只因为与裴生见了一面， 绝不该赠绢帕惹下祸端。 恨老贼在前庭把我来唤， 拔宝剑杀得我命丧黄泉。 到阴曹见阎君把冤来喊， 蒙判爷赐宝扇对我来言。 他说我与裴生有夫妻情面， 我不免到书馆成就姻缘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘走浪头三次，俏步转身戴鬼脸。三锣。李慧娘下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿上。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮摇板",
+          "text": "那一日在西湖闲游散闷， 又谁知贾平章他知我名。 他叫人请我把相府来进， 留至在书馆内攻读书文。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘上。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮快板",
+          "text": "阎王殿前把我差， 去到书馆赴阳台。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "开门来！"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "吓，黑夜之间，是何人叫门？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "开门来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿开门。李慧娘进门。裴稚卿两旁张望。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "并无有人，想是书童进来，待我将门闭上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿进门，与李慧娘对面。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "吓，你从哪里进来的呀？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "我从门里进来的。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "我为何不曾看见？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "灯影之下，你怎能看得分明？"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "你是何人，前来做甚？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "我是府中侍女，特来与你解闷来了。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮流水板",
+          "text": "裴生说话真奇怪， 细听奴家说开怀： 奴为你懒用茶和饭， 奴为你懒把绣鞋穿。 只道书生是青云客， 谁知你是一个无义郎才。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "你住了吧！黑夜之间，你是一女子，来到我的书馆，倘若叫人看见，多有不便！"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮散板",
+          "text": "倘若被人来看见， 叫我怎样把话言？"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "你快走了去吧！"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮快板",
+          "text": "有慧娘，用目观， 看看裴生好容颜。 在书馆与你成婚配， 不顾羞耻拉衣衫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘做拉头三次。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮快板",
+          "text": "裴生不从婚姻事， 眼前就有大祸端。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "你若不从，眼前就有杀身大祸！"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "哦喝是了，想是那平章，叫你前来调戏与我。我若从了，那平章岂能将我饶恕？ 你快快走了出去！"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "我且问你，那日你游西湖，见一佳人，给你丢下绢帕，你可记得？"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "那是慧娘，我是怎生不记得？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "你可想见此人么？"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "那是自然。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "你远看……"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "无有人呀！"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "你近觑……"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "莫非你就是慧娘？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "不敢！"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "待我掌灯细细看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿取灯照李慧娘。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "果然不差，请坐。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "告辞！"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "你往哪里去？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "倘被人看见，多有不便！"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮摇板",
+          "text": "慧娘说话理不端， 细听小生说根源， 我与你成就了姻缘事，"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮摇板",
+          "text": "我二人上牙床倒凤颠鸾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿、李慧娘同入帐，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾似道上。"
+        },
+        {
+          "character": "贾似道",
+          "type": "西皮摇板",
+          "text": "恼恨裴生理不端， 调戏我爱妾为哪般？"
+        },
+        {
+          "character": "贾似道",
+          "type": "白",
+          "text": "老夫，贾似道。隐居西湖。可恨裴生，调戏我爱妾慧娘。是我已将慧娘杀死， 把裴生诓进府来，要害他一死！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上，李慧娘随上。"
+        },
+        {
+          "character": "贾似道",
+          "type": "白",
+          "text": "来，唤廖应忠进见。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "廖应忠进见！"
+        },
+        {
+          "character": "廖应忠",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廖应忠上。李慧娘用宝扇搧廖应忠，廖应忠退。"
+        },
+        {
+          "character": "廖应忠",
+          "type": "白",
+          "text": "参见相爷！"
+        },
+        {
+          "character": "贾似道",
+          "type": "白",
+          "text": "命你三更时分，去至书馆，将裴生杀了见我。"
+        },
+        {
+          "character": "廖应忠",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘搧宝扇，火彩，下。廖应忠随下。"
+        },
+        {
+          "character": "贾似道",
+          "type": "白",
+          "text": "裴生呀，裴生！管叫你明枪容易躲，这暗箭最难防。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾似道下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘上。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮摇板",
+          "text": "太师老贼定计巧， 怎不叫人痛心梢。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "且住。适才老贼与廖应忠定计，要杀裴生一死。我不免去至书馆，搭救他的性 命。可说是裴生呀裴生，不是我慧娘在此，焉有你的命在！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿上。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮快板",
+          "text": "谯楼鼓打二更尽， 不见慧娘为何情？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘上。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮快板",
+          "text": "疾疾走来不消停， 快叫裴生开门庭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿开门。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "哎呀我妻！往日来早，今日为何来迟？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "说什么来早来迟，你的杀身大祸，你还不知么？"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "我有什么大祸呀？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "是你非知。可恨那平章老贼。定下暗计，差人前来，要杀你一死！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿惊倒。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "裴生醒来！"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮导板",
+          "text": "听一言唬得我三魂不在，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘去头面，换衣。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮快板",
+          "text": "叫声贤妻听开怀： 老贼定计将我害， 望求贤妻快救我来。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮快板",
+          "text": "裴生休得泪不干， 听奴把话说心间： 阎王殿前杷我遣， 我今怎敢不前来？ 手拉裴生花园外， 夫妻们要逃出贼府来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘、裴稚卿同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廖应忠上。"
+        },
+        {
+          "character": "廖应忠",
+          "type": "白",
+          "text": "来在书馆，为何不见裴生？待我去至花园寻找便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廖应忠下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿上，李慧娘随上。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮摇板",
+          "text": "惊死人来唬死人，"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮摇板",
+          "text": "苦苦求他为何情？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廖应忠追上。李慧娘、裴稚卿、廖应忠同冲场。裴稚卿、李慧娘同下。"
+        },
+        {
+          "character": "廖应忠",
+          "type": "白",
+          "text": "看裴生身旁有一人影，不知他是何人。待我点起火把来杀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廖应忠持火把。裴稚卿、李慧娘同上。裴稚卿、李慧娘、廖应忠同翻跟头，末场撰虎攒下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿、李慧娘同上。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮摇板",
+          "text": "这一时唬得我三魂不见， 心中好一似滚油煎。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮摇板",
+          "text": "手拉裴生花墙外， 应忠二次杀你来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廖应忠追裴稚卿、李慧娘同上，同转场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘拉裴稚卿上椅子，李慧娘戴鬼脸，廖应忠吓倒。李慧娘、裴稚卿裴同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廖应忠起身。"
+        },
+        {
+          "character": "廖应忠",
+          "type": "白",
+          "text": "看裴生身旁，好似慧娘鬼魂。打鬼，打鬼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廖应忠下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘、裴稚卿同上。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "且喜将你救出府来。你我夫妻就此分别了吧。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "贤妻说哪里话来？你我夫妻逃出相府，正好常常相聚，为何讲说“分别”二字！"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "你看我是一人呐，还是一鬼？"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "你行路有影，说话有声，怎说是鬼？"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "你看那厢是谁？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李慧娘戴鬼脸。裴稚卿吓倒。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "白",
+          "text": "裴生醒来！"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮导板",
+          "text": "一见贤妻我魂吓掉！"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "西皮快板",
+          "text": "不由得叫人泪双抛。"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮快板",
+          "text": "裴生不要哭号啕， 听我把话说根苗： 自从西湖游玩好， 老贼杀我赴阴曹。 你我结下婚姻事， 因此搭救你命一条。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "白",
+          "text": "贤妻纵然是鬼，我也难以舍得！"
+        },
+        {
+          "character": "李慧娘",
+          "type": "西皮快板",
+          "text": "本当不回阴曹府， 阎王怪罪谁承招？ 耳边又听鬼铃叫， 夫妻们分离在荒郊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二鬼卒拉李慧娘。李慧娘、裴稚卿同哭。"
+        },
+        {
+          "character": "裴稚卿",
+          "type": "哭",
+          "text": "妻呀！"
+        },
+        {
+          "character": "李慧娘",
+          "type": "哭",
+          "text": "夫呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "裴稚卿、李慧娘同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

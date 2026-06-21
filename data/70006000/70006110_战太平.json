@@ -1,0 +1,1073 @@
+{
+  "script_id": "70006110",
+  "title": "战太平",
+  "alias": [],
+  "source": "孟小冬剧本选",
+  "characters": [
+    {
+      "name": "花云",
+      "hangdang": "老生"
+    },
+    {
+      "name": "花孙氏",
+      "hangdang": "旦"
+    },
+    {
+      "name": "陈友谅",
+      "hangdang": "净"
+    },
+    {
+      "name": "朱文逊",
+      "hangdang": "小生"
+    },
+    {
+      "name": "花安",
+      "hangdang": "丑"
+    },
+    {
+      "name": "花夫人",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "花云辅佐朱元璋之侄朱文逊驻守太平；北汉陈友谅进袭，花云奋勇抵御，但因采石矶守将乏人，被陈部陈友\n杰暗袭，夺得矶头。太平城破，花云拟突围，朱文逊贪恋家眷，贻误时机，与花云同遭擒获。陈友谅劝降，\n朱文逊屈膝被杀，花云坚决不降，陈友谅命缚于高竿，以箭加以威胁。花云挣断绑绳，力杀多人，终因中箭\n伤重，自刎而死。",
+  "notes": "这个剧本是在钱培荣手抄余派戏词（不含配角唱念）的基础上，由李炳莘对照孟小冬说戏录音进行校核，并\n请范石人对配角的唱念进行修订，最终订稿。因原稿只含主角唱念的场次，故第四至五场、第九场后半部分、\n第十至十一场从略。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引朱文逊同上。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "引子",
+          "text": "胡元数尽，炎汉重兴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱文逊坐内场。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "念",
+          "text": "叔王龙驾坐南京，全凭文武保乾坤。奉旨领兵矶头镇，但愿中华保太平。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "小王，朱文逊。叔父朱元璋，称号吴王，南京即位，小王奉叔王之命，把守采 石矶头，坐镇太平。可恨陈友谅打来战表，夺取太平，城中兵寡将少，难以抵 挡，不免宣上花爱卿，商议用兵之计。 内侍！"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "奴婢在。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "宣花云上殿。"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "遵旨。 千岁有旨，花云上殿！"
+        },
+        {
+          "character": "花云",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云上。"
+        },
+        {
+          "character": "花云",
+          "type": "念",
+          "text": "怀揣忠义胆，保主锦江山。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "臣花云见驾，主公千岁！"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "千千岁。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "赐坐。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "谢坐，宣臣上殿，有何军情议论？"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "今有反贼陈友谅，前来攻打采石矶头，夺取太平，卿家有何良策？"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "既是反贼陈友谅攻打采石矶头，主公带领人马埋伏闸子口，以弓箭当先。为臣 带领人马杀奔江心，哪怕此贼不灭？"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "此计甚好，照计而行。正是："
+        },
+        {
+          "character": "朱文逊",
+          "type": "念",
+          "text": "江山本是将军镇，"
+        },
+        {
+          "character": "花云",
+          "type": "念",
+          "text": "协力同心定太平。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云、朱文逊、四太监自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花夫人、花孙氏同上。"
+        },
+        {
+          "character": "花夫人",
+          "type": "念",
+          "text": "夫受皇家禄，"
+        },
+        {
+          "character": "花孙氏",
+          "type": "念",
+          "text": "妻沾雨露恩。"
+        },
+        {
+          "character": "花云",
+          "type": "内白",
+          "text": "回府哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引花云同上，四文堂同下。花云进门。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "可恼！"
+        },
+        {
+          "character": "花夫人、花孙氏",
+          "type": "同白",
+          "text": "啊老爷，今日回府，为何这等烦恼？"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "二位夫人有所不知，可恨反贼陈友谅，领兵夺取太平城，千岁命我回府披挂， 埋伏闸子口，只是采石矶头缺一能将，故而烦恼！"
+        },
+        {
+          "character": "花夫人、花孙氏",
+          "type": "同白",
+          "text": "食王爵禄，当报皇恩，何言烦恼二字？就请老爷后堂披挂，待我等替老爷点动 人马，准备出战。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "有劳夫人，正是："
+        },
+        {
+          "character": "花云",
+          "type": "念",
+          "text": "青龙背上屯军马，"
+        },
+        {
+          "character": "花夫人、花孙氏",
+          "type": "同念",
+          "text": "白虎当头休扎营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云下。"
+        },
+        {
+          "character": "花夫人",
+          "type": "白",
+          "text": "众将走上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同上。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "参见夫人。"
+        },
+        {
+          "character": "花夫人",
+          "type": "白",
+          "text": "站立两厢，听我一令！"
+        },
+        {
+          "character": "花夫人",
+          "type": "二黄导板",
+          "text": "我这里在二堂忙传将令，"
+        },
+        {
+          "character": "花夫人",
+          "type": "二黄原板",
+          "text": "叫一声众将官细听分明： 陈友谅提兵将前来犯境， 千岁爷命老爷前去出征。 劝尔等一个个争行赌胜， 退后者犯军令插箭游营。 耳边厢又听得金甲声振，"
+        },
+        {
+          "character": "花夫人",
+          "type": "二黄散板",
+          "text": "候老爷披挂讫即刻发兵。"
+        },
+        {
+          "character": "花云",
+          "type": "内二黄导板",
+          "text": "头戴着紫金盔齐眉盖顶，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云上。"
+        },
+        {
+          "character": "花云",
+          "type": "二黄散板",
+          "text": "为大将临阵时哪顾得残生。 撩铠甲且把二堂进， 有劳夫人点雄兵。"
+        },
+        {
+          "character": "花夫人",
+          "type": "二黄散板",
+          "text": "人来看过酒一樽， 旗开得胜早回程。"
+        },
+        {
+          "character": "花云",
+          "type": "二黄散板",
+          "text": "接过夫人得胜饮， 背转身来祭神灵。 辞别夫人足踏蹬， 但愿此去扫荡烟尘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云、四龙套同下。花夫人、花孙氏同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引陈友杰同上。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "俺，陈友杰。奉了兄王之命，攻打采石矶头。 众将官，杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引花云同上，会阵。"
+        },
+        {
+          "character": "花云",
+          "type": "二黄散板",
+          "text": "一见贼子怒气发， 不由老爷咬龈牙。 我主爷洪福齐天大， 把尔当作井底蛙。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "陈友杰",
+          "type": "二黄散板",
+          "text": "劝你马前归顺罢， 不然一命染黄沙。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "一派胡言，放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云、陈友杰同开打。陈友杰败下，花云追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈友杰、陈英豹同上。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "先行听令！"
+        },
+        {
+          "character": "陈英豹",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "就说大元帅陈友杰，保定北汉王得了采石矶头。教那不怕死的花云，前来受死！"
+        },
+        {
+          "character": "陈英豹",
+          "type": "白",
+          "text": "得令。 下面听者！今有大元帅陈友杰，保定北汉王得了采石矶头，那个不怕死的花云 前来受死！"
+        },
+        {
+          "character": "花云",
+          "type": "内白",
+          "text": "花云来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云持枪上，与陈友杰、陈英豹交战，花云败下。陈友杰、陈英豹同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花夫人、花孙氏同上。"
+        },
+        {
+          "character": "花夫人",
+          "type": "念",
+          "text": "老爷去出兵，"
+        },
+        {
+          "character": "花孙氏",
+          "type": "念",
+          "text": "未见转回程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云上，花安上。"
+        },
+        {
+          "character": "花夫人、花孙氏",
+          "type": "同白",
+          "text": "老爷受惊了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱文逊上。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "花安，你爹爹可曾回府？"
+        },
+        {
+          "character": "花安",
+          "type": "白",
+          "text": "现在府内。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "对你爹爹言讲，大炮一响，吓死皇老太太，贾氏夫人坠楼而死，叫你爹爹快快 出马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱文逊下。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "花云",
+          "type": "叫头",
+          "text": "爹爹！"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "适才千岁言道：大炮一响，吓死皇老太太，贾氏夫人坠楼而死，叫爹爹快快出 马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱文逊上。"
+        },
+        {
+          "character": "花安",
+          "type": "白",
+          "text": "参见千岁。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "花安，你爹爹可曾出马？"
+        },
+        {
+          "character": "花安",
+          "type": "白",
+          "text": "尚未出马。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "哦，是了。想必是你爹爹，有降顺北汉王之意，这有宝剑一口，叫你爹爹将小 王龙头割下、降顺北汉王去罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱文逊下。"
+        },
+        {
+          "character": "花安",
+          "type": "叫头",
+          "text": "爹爹！"
+        },
+        {
+          "character": "花安",
+          "type": "白",
+          "text": "适才千岁言道，将千岁龙头割下，降顺北汉王去罢。"
+        },
+        {
+          "character": "花云",
+          "type": "西皮导板",
+          "text": "号炮一响惊天地，"
+        },
+        {
+          "character": "花云",
+          "type": "西皮散板",
+          "text": "就是雀鸟也难飞。 叫花安与父带坐骑， 舍不得妻儿两分离。 大夫人请上受一礼，夫人哪！ 下官言来听端的： 孙氏、姣儿托付你， 这是花家一脉息。 含悲忍泪跨坐骑， 落一个青史名标万古题。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云下。"
+        },
+        {
+          "character": "花夫人",
+          "type": "西皮散板",
+          "text": "花安随后去探信，"
+        },
+        {
+          "character": "花孙氏",
+          "type": "西皮散板",
+          "text": "快到阵前看分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花安下。花夫人、花孙氏同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱文逊、花云自两边分上。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "参见千岁。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "哎呀卿家呀！那贼人马有如潮水一般，如何是好？"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "待为臣保定千岁，杀出重围，再作道理。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云、朱文逊同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈友杰、四军士同上。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "绊马索伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云上，与陈友杰起打。花云落马被擒。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "绑回去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈友杰、四军士押花云同下。花安上。"
+        },
+        {
+          "character": "花安",
+          "type": "白",
+          "text": "哎呀且住！看千岁与爹爹俱被贼人擒去，待我报与母亲知道便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花安走圆场，请花夫人、花孙氏同上。⑴"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": "花云",
+          "type": "内西皮导板",
+          "text": "叹英雄失智入罗网，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士押花云同上。"
+        },
+        {
+          "character": "花云",
+          "type": "西皮原板",
+          "text": "大将难免阵头亡。 我主爷洪福齐天降， 刘伯温八卦也平常。 早知道采石矶被贼抢， 早就该差能将前来提防。 将身儿来在大街上，"
+        },
+        {
+          "character": "花孙氏",
+          "type": "内笑",
+          "text": "哈哈哈哈，啊哈哈哈！"
+        },
+        {
+          "character": "花云",
+          "type": "西皮散板",
+          "text": "那旁来了疯婆娘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花孙氏上。"
+        },
+        {
+          "character": "花孙氏",
+          "type": "西皮快板",
+          "text": "急急忙忙往前奔， 法场绑定一将军。 认得他是奴夫样， 不由奴家痛在心。 舍死忘生将他认，"
+        },
+        {
+          "character": "花云",
+          "type": "西皮散板",
+          "text": "这一足踏在你地埃尘。 你是谁家疯婆女？"
+        },
+        {
+          "character": "花云",
+          "type": "西皮快板",
+          "text": "怀中抱定小娇生。 明明认得孙氏女， 假装疯魔认夫君。 你若念在夫妻义， 去到金陵搬救兵； 你若不念夫妻义， 千万莫丢小娇生。 使个眼色快逃走，"
+        },
+        {
+          "character": "花孙氏",
+          "type": "西皮散板",
+          "text": "舍命拼死奔金陵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花孙氏下。"
+        },
+        {
+          "character": "花云",
+          "type": "西皮散板",
+          "text": "大街去了孙氏女，我的妻啊！ 夫妻们相逢万不能。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、花云同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、四将官、张定边、陈友谅同上。陈友杰上。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "启禀兄王：花云君臣被擒。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "押进帐来。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "押进帐来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刀斧手押朱文逊、花云同上。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "西皮摇板",
+          "text": "鳌鱼吞了金钩钓，"
+        },
+        {
+          "character": "花云",
+          "type": "西皮摇板",
+          "text": "虎落平阳怎脱逃？"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "啊卿家，此番进得帐去，叫骂的是，还是哀求的是？"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "自然是叫骂的是。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "还是哀求的是。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "千岁！"
+        },
+        {
+          "character": "花云",
+          "type": "西皮流水板",
+          "text": "千岁爷休说懦弱话， 非是为臣把君压。 进得帐把贼骂， 拚得一死染黄沙。 纵然将你我头割下， 落一个骂贼的名儿扬天涯。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "卿家啊！"
+        },
+        {
+          "character": "朱文逊",
+          "type": "西皮摇板",
+          "text": "卿家休要逞雄威， 事到如今埋怨谁。 进得帐去双膝跪，"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "懦弱无刚！"
+        },
+        {
+          "character": "朱文逊",
+          "type": "西皮摇板",
+          "text": "战战兢兢把话回。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "西皮快板",
+          "text": "战鼓不住咚咚催， 御弟擒得二将归。 一个站来一个跪， 跪的是何人站的是谁？"
+        },
+        {
+          "character": "朱文逊",
+          "type": "西皮摇板",
+          "text": "跪的是小王朱文逊，"
+        },
+        {
+          "character": "花云",
+          "type": "西皮摇板",
+          "text": "站的是你老爷将花云。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "朱文逊，我来问你，你叔父待你如何？"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "恩重如山。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "嗯！既是恩重如山，今日被擒，你就归降。像你这样忘恩负义、贪生怕死之辈， 要你何用？ 来，推出斩了！"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "千岁啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱文逊叹。"
+        },
+        {
+          "character": "朱文逊",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刀斧手推朱文逊同下。斩首，四刀斧手同上，同献头。"
+        },
+        {
+          "character": "花云",
+          "type": "西皮散板",
+          "text": "哗喇喇大炮一声响， 血淋淋人头滚一旁。 先前怎样对你讲， 一心要降北汉王。 那贼焉有容人的量， 倾刻之间刀下亡。 忙将人头打进帐，"
+        },
+        {
+          "character": "花云",
+          "type": "西皮快板",
+          "text": "开言大骂北汉王。 既是兴兵来打仗， 一来一往动刀枪。 私自设计把采石抢， 你是个人面兽心肠。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "笑",
+          "text": "哈哈哈哈！"
+        },
+        {
+          "character": "陈友谅",
+          "type": "西皮摇板",
+          "text": "花云果然是英雄将， 不由孤王喜非常。 下得位来把话讲， 尊声将军听端详。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "花将军。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "北汉王。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "花云。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "陈友谅。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "孤家也不计较于你。想你主乃是一个牧牛童子，出身微贱。怎比孤家二甲进士 出身。你今被擒，就该归顺孤家，少不得封侯之位。你若执意不降，一刀将你 杀死，家中还有妻儿老小，依靠何人？你要再思啊再想！"
+        },
+        {
+          "character": "张定边",
+          "type": "白",
+          "text": "是啊，我主乃有道明君，你要再思啊再想！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云作思状。"
+        },
+        {
+          "character": "花云",
+          "type": "西皮流水板",
+          "text": "陈友谅下位好言讲， 背转身来自思量。 我若是降了贼友谅， 留得骂名天下扬。 我若是不降贼友谅， 倾刻之间一命亡。 罢罢罢屈膝我跪宝帐，"
+        },
+        {
+          "character": "花云",
+          "type": "夹白",
+          "text": "咳！"
+        },
+        {
+          "character": "花云",
+          "type": "西皮流水板",
+          "text": "老爷愿死不愿降。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "推出去斩了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刀斧手押花云同下。"
+        },
+        {
+          "character": "张定边",
+          "type": "白",
+          "text": "刀下留人！"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "花将军，少不得封侯之位。 啊，花云哪里去了？"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "辱骂兄王，将他推出问斩。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "他辱骂孤王，与你什么相干？"
+        },
+        {
+          "character": "张定边",
+          "type": "白",
+          "text": "为臣还保得在。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "好，保得在就好，只是他执意不降，如何是好？"
+        },
+        {
+          "character": "张定边",
+          "type": "白",
+          "text": "启禀大王：有道是大将不怕杀，只怕吓。依为臣之计，法场之上，立一高竿， 将花云绑在高竿之上，用弓箭来射。只可开弓，不可放箭。一吓么，他就归降 了。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "此计甚好。 来，打道法场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": "花云",
+          "type": "内西皮导板",
+          "text": "盖世英雄遭毒手，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刀斧手押花云同上。"
+        },
+        {
+          "character": "花云",
+          "type": "西皮快板",
+          "text": "好似鳌鱼吞了钩。 将身来在法标口， 为国忠良的下场头。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刀斧手、四军士、四将官、张定边、陈友杰、陈友谅同上。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "西皮摇板",
+          "text": "催马来在法场口，"
+        },
+        {
+          "character": "陈友谅",
+          "type": "西皮快板",
+          "text": "叫声将军听根由： 你若今日把孤投， 不封王位定封侯。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "花云",
+          "type": "西皮快板",
+          "text": "闻言怒发冲牛斗， 大骂贼子听从头。 老爷归顺不能够， 岂与奸贼做马牛？"
+        },
+        {
+          "character": "陈友谅",
+          "type": "西皮快板",
+          "text": "将军不必逞刚强， 孤王言来听端详： 你若真心把孤降， 封你一字并肩王。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "花云",
+          "type": "西皮快板",
+          "text": "闻言怒发三千丈， 大骂贼子听比方。 若要老爷来归降，"
+        },
+        {
+          "character": "花云",
+          "type": "夹白",
+          "text": "贼啊，贼！"
+        },
+        {
+          "character": "花云",
+          "type": "西皮快板",
+          "text": "我与你胞妹配鸾凰。⑵"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "陈友谅",
+          "type": "西皮散板",
+          "text": "孤王好言对他讲， 恶言恶语骂孤王。 众将全把雕翎放， （花云挣脱绑绳，夺刀斧手刀，杀，陈友杰架住，陈友谅、张定边同急逃下。陈友杰、花云同起打，陈友杰 败下，花云追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四弓箭手、陈友杰同上。"
+        },
+        {
+          "character": "陈友杰",
+          "type": "白",
+          "text": "弓箭伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云上，四弓箭手同放箭，花云中箭下。四弓箭手、陈友杰同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云上。"
+        },
+        {
+          "character": "花云",
+          "type": "白",
+          "text": "杀败了啊，杀败了！指望去往金陵搬兵求救，不想身受箭伤。我主啊、万岁！ 臣不能保全江山社稷了。不免叩谢圣上爵禄之恩，自刎了罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花云拜。〖牌子〗。花云自刎。四军士、四将官、张定边、陈友杰、陈友谅同上。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "花云已死，尸身不倒，可称忠勇双全，受孤家一拜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈友谅拜。"
+        },
+        {
+          "character": "陈友谅",
+          "type": "白",
+          "text": "众将官！歇兵三日，兵发金陵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        },
+        {
+          "character": "陈友谅",
+          "type": "stage",
+          "text": "—————————— ⑴后从略。 ⑵今词已改“日从西出也不降”。"
+        }
+      ]
+    }
+  ]
+}

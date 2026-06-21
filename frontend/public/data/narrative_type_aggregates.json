@@ -1,98 +1,100 @@
 {
   "历史戏": {
-    "count": 120,
+    "count": 504,
     "structure_distribution": {
-      "single_peak": 111,
-      "dual_peak": 9
+      "single_peak": 446,
+      "dual_peak": 49,
+      "multi_peak": 9
     },
     "peak_timing_distribution": {
-      "middle": 75,
-      "early": 21,
-      "late": 24
+      "middle": 257,
+      "early": 97,
+      "late": 150
     },
-    "avg_climax_position": 0.5146,
-    "avg_tension_range": 3.0495,
-    "avg_tension_std": 0.9891,
+    "avg_climax_position": 0.5358,
+    "avg_tension_range": 3.2422,
+    "avg_tension_std": 1.0386,
     "structure_type_pct": {
-      "single_peak": 92.5,
-      "dual_peak": 7.5
+      "single_peak": 88.5,
+      "dual_peak": 9.7,
+      "multi_peak": 1.8
     },
     "peak_timing_pct": {
-      "middle": 62.5,
-      "early": 17.5,
-      "late": 20.0
+      "middle": 51.0,
+      "early": 19.2,
+      "late": 29.8
     }
   },
   "家庭戏": {
-    "count": 124,
+    "count": 364,
     "structure_distribution": {
-      "single_peak": 111,
-      "dual_peak": 8,
-      "multi_peak": 5
+      "single_peak": 309,
+      "dual_peak": 38,
+      "multi_peak": 17
     },
     "peak_timing_distribution": {
-      "late": 40,
-      "middle": 64,
-      "early": 20
+      "late": 107,
+      "middle": 195,
+      "early": 62
     },
-    "avg_climax_position": 0.5512,
-    "avg_tension_range": 2.8292,
-    "avg_tension_std": 0.9172,
+    "avg_climax_position": 0.5402,
+    "avg_tension_range": 2.8126,
+    "avg_tension_std": 0.8851,
     "structure_type_pct": {
-      "single_peak": 89.5,
-      "dual_peak": 6.5,
-      "multi_peak": 4.0
+      "single_peak": 84.9,
+      "dual_peak": 10.4,
+      "multi_peak": 4.7
     },
     "peak_timing_pct": {
-      "late": 32.3,
-      "middle": 51.6,
-      "early": 16.1
+      "late": 29.4,
+      "middle": 53.6,
+      "early": 17.0
     }
   },
   "公案戏": {
-    "count": 19,
+    "count": 53,
     "structure_distribution": {
-      "single_peak": 15,
-      "dual_peak": 2,
-      "multi_peak": 2
+      "single_peak": 44,
+      "dual_peak": 5,
+      "multi_peak": 4
     },
     "peak_timing_distribution": {
-      "middle": 11,
-      "late": 8
+      "middle": 30,
+      "late": 23
     },
-    "avg_climax_position": 0.5942,
-    "avg_tension_range": 2.973,
-    "avg_tension_std": 0.9065,
+    "avg_climax_position": 0.6036,
+    "avg_tension_range": 2.3075,
+    "avg_tension_std": 0.735,
     "structure_type_pct": {
-      "single_peak": 78.9,
-      "dual_peak": 10.5,
-      "multi_peak": 10.5
+      "single_peak": 83.0,
+      "dual_peak": 9.4,
+      "multi_peak": 7.5
     },
     "peak_timing_pct": {
-      "middle": 57.9,
-      "late": 42.1
+      "middle": 56.6,
+      "late": 43.4
     }
   },
   "神话戏": {
-    "count": 7,
+    "count": 13,
     "structure_distribution": {
-      "single_peak": 7
+      "single_peak": 13
     },
     "peak_timing_distribution": {
-      "middle": 5,
-      "late": 1,
-      "early": 1
+      "middle": 8,
+      "late": 3,
+      "early": 2
     },
-    "avg_climax_position": 0.5397,
-    "avg_tension_range": 2.0599,
-    "avg_tension_std": 0.6489,
+    "avg_climax_position": 0.5392,
+    "avg_tension_range": 2.2363,
+    "avg_tension_std": 0.7295,
     "structure_type_pct": {
       "single_peak": 100.0
     },
     "peak_timing_pct": {
-      "middle": 71.4,
-      "late": 14.3,
-      "early": 14.3
+      "middle": 61.5,
+      "late": 23.1,
+      "early": 15.4
     }
   }
 }

@@ -1,0 +1,1465 @@
+{
+  "script_id": "04045004",
+  "title": "举鼎观画",
+  "alias": [],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "徐策",
+      "hangdang": "老生"
+    },
+    {
+      "name": "薛蛟",
+      "hangdang": "小生"
+    },
+    {
+      "name": "书童",
+      "hangdang": "丑"
+    },
+    {
+      "name": "家院",
+      "hangdang": "生"
+    }
+  ],
+  "plot": "徐策在法场上救回薛蛟，改名徐宗，抚养成人。一日，薛蛟偶与书童在府门游戏，将一对千斤重的石狮高举\n在手。这时，徐策朝罢归来，见状知薛蛟的本领已经能报家仇，遂将薛蛟带进祠堂，悬起薛氏三代图像，道\n破薛家的不幸遭遇，薛蛟闻言誓欲报仇雪恨，徐策立即修书，命他去往韩山邀薛刚发兵报仇。",
+  "notes": "《举鼎观画》是写《法场换子》和《徐策跑城》两个剧目中间的一段故事。\n这个剧本是依据一般舞台流行本校订的。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟上。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "引子",
+          "text": "幼习兵机，论韬略，谁能抵敌。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "念",
+          "text": "甘罗十二，元霸幼年。男儿志量，英勇当先。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "俺，徐宗。爹爹徐策，唐室为臣，官拜当朝首相。今早上朝未归，是我独坐书 房，闷闷不乐，不免将书童唤将出来，想一法儿玩耍玩耍。 啊，书童哪里？"
+        },
+        {
+          "character": "书童",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童上。"
+        },
+        {
+          "character": "书童",
+          "type": "念",
+          "text": "忽听叫书童，两腿走如风。人人都怕我，我怕大相公。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "大相公在上，书童有礼。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "大相公，您把我唤出来，有什么吩咐吗？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "你相爷上朝未归，是我独坐书房，闷闷不乐；将你唤出，想一法儿玩耍玩耍。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "想一法儿玩耍玩耍，要不咱们树上逮唧嘹儿。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "不好。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "河里摸泥鳅。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "也不好。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "不好，我可没主意啦。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "你我倒不如去到府外游玩一回。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "相爷回来要是碰上，那我可担待不起。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "无妨，有我担待。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "有您担待，那我可就不怕啦。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "如此，书童带路！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "二黄原板",
+          "text": "少年志理应当青云直上， 自幼儿在书房我苦读文章。 叫书童忙带路府门外往， 见一对玉石狮摆列两旁。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "到啦。大相公，您瞧这地方儿多豁亮呀。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "书童，我且问你，这对玉石狮子是哪里来的？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "您问这个，可是小孩儿没娘，提起来话儿长。这对玉石狮子是外国进贡来的， 万岁爷因为咱们相爷在朝有功，就把它赐给咱们相爷啦。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "但不知重有多少？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "要问有多重啊，这一个重五百斤。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "这一个呢？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "这一个重五百斤零四两。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "啊？为何多了四两？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "您没瞧见这个的脚底下还踩着个小狮子哪吗？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "噢，原来如此。啊，书童，看这对狮子，我倒想起一辈古人来了。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哪一辈古人？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "想当年临潼斗宝，伍子胥举鼎斗胜。你我今日学古人玩耍，你看如何？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "好哇！那么，谁来校将，谁来举子呢？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "自然是我的校将，你的举子。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "就这么办，您就校将吧！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "好，待我来校将。 呔！下面听者：府门以外有玉石狮子一对，有人举起，高官得做，骏马任骑。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "咱，来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童上前搬石狮，搬不动。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "回大相公的话，它拿我不动。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "可是你拿它不起？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "对啦，我拿它不起。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "无用的奴才！你来校将！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "好，我来校将。呔！下面听者：府门外有玉石狮子一对，若是有人举起，高官 得做，骏马任骑！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "俺，来也！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "二黄散板",
+          "text": "昔日有个伍员将， 临潼斗宝逞豪强。 府门以外学榜样——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟两手先后拿起一对石狮，高高举起。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "二黄散板",
+          "text": "双手举起笑扬扬。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈……"
+        },
+        {
+          "character": "四随役",
+          "type": "内同白",
+          "text": "哦！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "了不得啦，了不得啦，老相爷回来啦。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "哎呀，这便如何是好哇？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "快跑吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟在慌忙中，把一对石狮并放在中央，随书童同跑下。"
+        },
+        {
+          "character": "徐策",
+          "type": "内白",
+          "text": "打道！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四随役、家院引徐策同上。"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄原板",
+          "text": "朝罢了圣主爷转回府门——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四随役同下。徐策看。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄原板",
+          "text": "玉石狮并一处所为何情！"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "家院。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "相爷。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "府门何人值日？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "门官告假，书童代管。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "唤书童！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是。 书童走上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童上。"
+        },
+        {
+          "character": "书童",
+          "type": "念",
+          "text": "忽听相爷来呼唤，必定狮子犯了案。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "参见相爷。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "今日可是你值日么？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "门官今天告假，小子代管。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我且问你：府门外玉石狮子一对，因何并在一处？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "这个……回相爷的话，今天早晨您上朝去啦，是小子在府门以外打扫尘土，没 留神，随手儿东一笤帚，西一笤帚，可就把两个狮子扫到一块儿去啦。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "噢，如此说来，是你并在一处的么？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "好，你与我再两下分开！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童无奈。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "咋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童故意把耳朵凑在石狮嘴边，假作听话。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "启禀相爷：狮子它说了话啦。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "噢，狮子还会讲话？它讲些什么？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "它说："
+        },
+        {
+          "character": "书童",
+          "type": "念",
+          "text": "狮子分雌雄，每日列西东。今天到一处，分开万不能。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "胡说。掌嘴！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "别介别介，回相爷的话，狮子原是我家大相公他给并在一块儿的。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "怎么，是你家大相公他并在一处的么？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "好，唤他前来见我！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "嗳！ 有请大相公。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟上。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "念",
+          "text": "正在府门闲嬉游，爹爹回来没兴头！"
+        },
+        {
+          "character": "书童",
+          "type": "念",
+          "text": "有兴头，没兴头，相爷问起那根由。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "啊？问起哪根由哇？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "狮子案犯啦，相爷叫您去哪。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "京白",
+          "text": "哎呀，狮子案犯啦，你就说我不在书房。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟急下。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "嗳。 启禀相爷：我家大相公说啦，他不在书房。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "不像话，快快叫他前来！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "本来不像话嘛。 大相公，您快来吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟上。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "怎么样了？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "不成，搪不过去。叫您自己去哪。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "哎呀，这便如何是好！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "不要紧，到了那儿，您看我的颜色行事就是啦。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "京白",
+          "text": "你可别站远啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟向前。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "爹爹在上，孩儿拜见。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "告坐。爹爹，唤孩儿出来，有何训教？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "为父今日下得朝来，见府门外一对狮子，缘何并在一处？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "爹爹有所不知，只因今早爹爹上朝未归，孩儿……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟见书童向自己呶嘴，即住口。徐策向书童。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "啊？这作什么？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "我这儿抽歪嘴儿疯哪。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "就该掌嘴！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "嗳，好啦。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "哼！ 儿啊，往下讲！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "是。今早爹爹上朝未归，孩儿独坐书房，心中……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟见书童摆手，住口。徐策向书童。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "啊？这又作什么？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哪儿呀，我这儿抽鸡爪儿疯哪。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "打手！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "好啦，好啦。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "哼，还不与我滚了下去！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是。 嗳，相公，我可顾不了你啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童下。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我儿慢慢讲来。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "是。孩儿独坐书房，心中闷闷不乐，去到府门玩耍，见这对玉石狮子，孩儿倒 想起一辈古人来了。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "哪辈古人？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "想起当年临潼斗宝，伍子胥举鼎斗胜，儿学古人玩耍，不料爹爹下朝回来，孩 儿一时惊怕，分之不及，故尔并在一处。望乞爹爹饶恕。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "如此说来，是我儿并在一处的？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "好，今当为父面前，将这狮子两下分开！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "儿遵命！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "二黄散板",
+          "text": "堂前领了爹爹命， 要把狮子两离分。 二次举鼎威风凛，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟搬起石狮，左右摆开。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "二黄散板",
+          "text": "项羽、乌获乞算能！"
+        },
+        {
+          "character": "徐策",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄散板",
+          "text": "他父是英雄儿好汉， 强将手下无弱兵。 张泰贼是你的对头到， 薛家又出了报仇人。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "儿啊，自从长大成人，还不曾拜过祖先；今日随为父祖先堂一祭！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "孩儿遵命。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "家院。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "打扫祖先堂，附耳上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐策向家院耳语。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "儿啊，随为父的来呀。"
+        },
+        {
+          "character": "徐策",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐策、薛蛟同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖二黄小开门〗。家院上，打扫祖先堂，挂画。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有请相爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐策、薛蛟同上。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我儿向前拜过，儿要多拜上几拜！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟跪拜。徐策、薛蛟同入座，家院献茶。薛蛟看画。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "啊，爹爹，想我家世代书香，为何悬挂这武将的真容？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我儿哪里知道，只因有一家忠良，被朝中奸臣陷害，全家问斩，后辈无人。为 父与他交厚，不忍他断绝香烟，故尔与他代祭祖先。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "原来如此。啊，爹爹，这头一排有一员将官，头戴炼银盔，身穿白铠甲，胯下 白龙战马，手持方天画戟；威风凛凛，他是何人？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "此人姓薛名礼，字表仁贵。乃山西绛州龙门县人氏。此人英雄盖世，武艺超群， 保定唐主，跨海征东，有十大汗马功劳。到后来，官封平辽王之位。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "噢，平辽王之位。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟看。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "啊，爹爹，这第二排有男女二人，身穿大红，他是何人？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "此乃是仁贵之子，名唤丁山，那旁樊氏梨花；夫妻二人保定唐王征西有功。到 后来，官封两辽王之爵。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "原来如此。这第三排又有男女二人，有尸无头，他是何人？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "此乃丁山之长子，名唤薛猛，那旁就是双刀马氏夫人；他二人镇守阳河，被奸 臣所害，斩首金阶，故尔有尸无头。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "那旁有一黑汉，手执大棍，怒气不息，为着何来？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "黑汉在哪里，黑汉在哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐策向画图。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "呀呀呸！大胆黑汉，只因你吃酒带醉行凶，闯下塌天大祸，你还站在那里怒气 不息，怎不气、气……"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "啊，爹爹，孩儿提起这黑汉，爹爹为何这等的发怒？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我儿有所不知，那黑汉乃丁山之三子，名叫薛刚，只因他吃酒带醉行凶，打伤 人命，连累全家被害。叫为父怎的不气，怎的不恼！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "如此说来，可气，可恼！啊，爹爹，那旁有一孩童，不知身犯何罪，为何腰铡 三截？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "孩童在哪里？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "喏喏喏，这不是么！"
+        },
+        {
+          "character": "徐策",
+          "type": "三叫头",
+          "text": "金斗，我儿，咳，儿啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐策哭泣，看薛蛟，转悲为喜。"
+        },
+        {
+          "character": "徐策",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "啊？爹爹为何悲中带喜？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "儿啊，那一孩童虽然腰铡三截，他并不曾死啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟奇怪。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "哎呀……爹爹怎么说起呆话来了？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "我想一人既然腰铡三截，又怎么不会死？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我儿哪里知道，只因有一家忠良，与他们薛门交好，将他自己亲生的儿子，在 法场之下调换下来，抱回家中，抚养成人。故尔此子还在。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "但不知此子有多大年纪？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我儿站起来！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟起立。徐策故意地观察薛蛟高矮。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "坐下！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟坐。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "与我儿般长般大。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "但不知他的膂力如何？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "若论膂力么，他能力举千斤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟气愤。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "噢！他……他能力举千斤！"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "既能力举千斤，为何不替他父母报仇？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "有道是：单丝不线，独木不林。纵有血海冤仇，他一人是怎能得报。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "啊，爹爹，既与他家交好甚厚，何不将此子唤进府来，对他说明此事，待孩儿 帮助，替他父母报仇。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "孩儿替他报仇。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "呀呀呸！你自己有血海冤仇不报，还替人家报的什么冤仇！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "叫头",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "孩儿前堂有父，后堂有母，慢说无有冤仇，纵有冤仇，说将出来，孩儿即刻就 报。"
+        },
+        {
+          "character": "徐策",
+          "type": "叫头",
+          "text": "哎呀儿啊！"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "你道你前堂有父，后堂有母，慢说无有冤仇，纵有冤仇，说将出来，儿即刻就 报。怎奈你不是我的亲……"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "亲什么？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "哎呀儿呀！为父下得朝来，饮了几杯水酒，言语颠倒，你、你快快攻书去吧！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "叫头",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "说明此事便罢，如若不然，我就跪、跪死在此啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟哭。"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄导板",
+          "text": "父子们在祖先堂珠泪滚滚，"
+        },
+        {
+          "character": "徐策、薛蛟",
+          "type": "同三叫头",
+          "text": "（薛蛟）（爹爹），我（儿）（父），咳，（儿啊）（爹爹呀）……"
+        },
+        {
+          "character": "徐策",
+          "type": "回龙",
+          "text": "待为父细说那已往的原因。我的儿啊！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "夹白",
+          "text": "这第一排？"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄原板",
+          "text": "第一排儿曾祖薛仁贵， 跨海征东立下了功勋。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "夹白",
+          "text": "第二排？"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄原板",
+          "text": "第二排儿祖父丁山元帅， 那一旁樊梨花樊氏夫人。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "夹白",
+          "text": "双尸无头是孩儿的什么人？"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄原板",
+          "text": "双尸无头是儿的亲生父母，亲生父母，我的儿啊！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "哭",
+          "text": "啊啊啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟跪拜，起身。"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄原板",
+          "text": "他夫妻双双问典刑。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "夹白",
+          "text": "那黑汉呢？"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄原板",
+          "text": "那黑汉是儿的三叔父， 都只为他进都城逛花灯，吃醉了酒打伤人，连累他一家大小，三百余口俱丧残 生，是一个惹祸的根！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "夹白",
+          "text": "腰铡三截呢？"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄原板",
+          "text": "腰铡三截是我的亲生子，换掉你，我的儿啊！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "孩儿的仇人是哪一个？"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄散板",
+          "text": "张泰贼是儿的对头人！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "二黄散板",
+          "text": "听一言来咬牙恨， 血海冤仇才知情。 手持宝剑出府门——"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "儿啊，哪里去？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "二黄散板",
+          "text": "孩儿去杀狗奸臣。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我儿单丝不线，独木不林，你一人怎能报得冤仇？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "难道就罢了不成？"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "无妨，儿三叔父现在韩山，招兵聚将，屯粮买马。待为父修书一封，我儿去到 那里搬兵求助，大事可成。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "如此——"
+        },
+        {
+          "character": "薛蛟",
+          "type": "念",
+          "text": "爹爹修书信，"
+        },
+        {
+          "character": "徐策",
+          "type": "念",
+          "text": "我儿换衣巾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟下。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "家院！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "溶墨伺候！"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄碰板",
+          "text": "说明了十七载的冤仇恨， 血海冤仇要报清。 老徐策在薛氏堂上修书信， 打发姣儿早早登程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐策修书。"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄原板",
+          "text": "未曾提笔珠泪滚， 拜上韩山三将军。 下书人并非是别家子， 他就是薛门后代根。 如今成人有本领， 命他前来搬大兵。 见信速发人和马， 血海冤仇要报清。 一封书信忙修定——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟换衣上。"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄散板",
+          "text": "我儿此去要当心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟接信。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "二黄散板",
+          "text": "用手接过一封信， 去到韩山搬大兵。 辞别爹爹足踏镫——"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我儿转来！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "二黄散板",
+          "text": "爹爹有话快说明！"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "我儿此番前去搬兵，不定三年五载才得回来，儿来看，为父年迈，倘若我二老 百年之后，你要买上几百纸钱，去到坟前烧化，也不枉我二老抚养儿一场啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐策哭。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "如此，孩儿不去了。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "啊？为何不去？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "等你二老百年之后，孩儿再报此仇，也还不迟。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "嗳，为父虽然年迈，倒还康健，我儿报仇要紧。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "孩儿是不去的了。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "儿当真不去？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "当真不去。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "果然不去？"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "果然不去。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "如此，为父就要打。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "爹爹！打死孩儿，也是不去的了哇……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟哭。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "嗳！徐策呀徐策！你好没来由，放着自己亲生儿子不养，反来抚养人家的孩儿， 如今就是这等倔强；倘若我那金斗儿在，他是焉敢如此呀……"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "爹爹不必如此，孩儿前去就是。"
+        },
+        {
+          "character": "徐策",
+          "type": "白",
+          "text": "好，快快上马去罢！"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖扫头〗。薛蛟上马。"
+        },
+        {
+          "character": "薛蛟",
+          "type": "三叫头",
+          "text": "爹爹，我父，咳，爹爹呀……"
+        },
+        {
+          "character": "薛蛟",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛蛟决然，下。"
+        },
+        {
+          "character": "徐策",
+          "type": "叫头",
+          "text": "徐宗，薛蛟！"
+        },
+        {
+          "character": "徐策",
+          "type": "哭头",
+          "text": "啊，我的儿啊！"
+        },
+        {
+          "character": "徐策",
+          "type": "二黄散板",
+          "text": "一见我儿出府门， 好似开弓放雕翎。 但愿得到韩山大兵接应—— 冤冤相报杀仇人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐策下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

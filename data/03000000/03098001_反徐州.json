@@ -1,0 +1,3729 @@
+{
+  "script_id": "03098001",
+  "title": "反徐州",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "徐达",
+      "hangdang": "老生"
+    },
+    {
+      "name": "完颜龙",
+      "hangdang": "净"
+    },
+    {
+      "name": "花母",
+      "hangdang": "丑"
+    },
+    {
+      "name": "康茂才",
+      "hangdang": "小生"
+    },
+    {
+      "name": "郭广卿",
+      "hangdang": "净"
+    },
+    {
+      "name": "侯伯清",
+      "hangdang": "老生"
+    },
+    {
+      "name": "完颜老王",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "元末，徐州王完颜龙横行不法。一日行围，践踏青苗，村长郭广卿阻之，欲问斩。州官徐达说情，始被罚入\n狱。民妇金氏，偶拾遗箭，竟被完颜龙断臂；周氏在府门前哺乳，亦被挖去左目；侯伯清质家藏串龙珠营救\n好友郭广卿，因完颜龙贪珠，竟将郭伯清与朝奉康茂才拷打，送交徐州坐罪。其时，诸人激忿，齐向徐州鸣\n冤状告。州官徐达查明是非，不忍加罪。虽经王府总管完颜骆驼催逼，亦宁愿摘去印信，不愿屈判黎民。徐\n达免职，激起民忿。群情激怒，奋起杀死新任州官，拥戴徐达，力擒完颜龙，光复徐州。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。八校尉、完颜骆驼同上，同站斜一字。完颜龙上。〖牌子〗。完颜龙挖门。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "孤、大元邦徐州王完颜龙。元室为臣。自征服中原，开拓疆土，看那些异族百 姓，无非是俎上之肉；大好山河，尽是囊中之私。生杀予夺，一任我意；富贵 尊荣，十分威严。今日下乡行猎。 驼儿！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "奴才在。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "郊外去者！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮摇板",
+          "text": "人来与爷郊外往， 行围射猎散心肠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉、完颜骆驼同下。完颜龙趟马。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "嘚，闪开了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "郭广卿",
+          "type": "内白",
+          "text": "嗯嗬！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭广卿上。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "念",
+          "text": "十年困风尘，叹作离乱人。伤心亡国恨，壮志难凌云！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "咱、徐州府安乐村村长郭广卿。生性粗豪，不读诗书。慕古代朱家、郭解为人， 济人之急、扶人之危，惯打不平，好管闲事。敬的是忠臣孝子，恨的是奸恶 贪险。唉！只是生不逢辰，偏遇着这胡儿占据中原，饱受异族欺凌。幸喜州官 徐大老爷爱民如子。今日他下乡劝农，我不免纠合乡党，前去迎接，就此走走。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "内白",
+          "text": "贤弟慢走！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "那旁有人来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侯伯清上。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "西皮散板",
+          "text": "听说是徐大人下乡查旱， 约合了众乡民迎接清官。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "唔呼呀，原来是侯伯清侯兄长！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "郭贤弟！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "兄长急遽而行，意欲何往？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "贤弟，听说徐青天下乡劝农，有意约合众乡民前去迎接。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "我也正为此事而来。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "如此，一同前往。正是："
+        },
+        {
+          "character": "侯伯清",
+          "type": "念",
+          "text": "约合众乡党，"
+        },
+        {
+          "character": "郭广卿",
+          "type": "念",
+          "text": "迎接好清官。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭广卿、侯伯清同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "徐达",
+          "type": "内白",
+          "text": "衙役们！"
+        },
+        {
+          "character": "四青袍",
+          "type": "内同白",
+          "text": "有。"
+        },
+        {
+          "character": "徐达",
+          "type": "内白",
+          "text": "开道！"
+        },
+        {
+          "character": "四青袍",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二班头、徐达同上。"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮散板",
+          "text": "连年灾患百姓遭困， 下乡劝农安民生。 为乘阳春行时令， 不是闲游玩物人。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "下官，徐达。元室为臣，官拜徐州正堂。在胡儿铁蹄之下，为搭救百姓，屈身 为官，眼见他们荼毒中原人民，亡国之恨，唉，令人难忍！当今仲春时令，正 好下乡劝农。 人役们！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "准备籽粒花酒，下乡劝农，外厢开道！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮三眼板",
+          "text": "叹英雄枉挂那三尺宝剑， 怎能够灭胡儿扫平狼烟！ 为百姓屈身在徐州为官， 家贫寒奉双亲敦行孝廉。 怎受那胡儿加白眼， 怎忍见百姓遭凌残？ 陈胜、吴广今不见， 世无英雄揭义竿。 苍天若遂——"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮散板",
+          "text": "男儿愿， 要凭只手挽狂澜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四百姓、郭广卿、侯伯清同上。"
+        },
+        {
+          "character": "四百姓",
+          "type": "同西皮散板",
+          "text": "兵荒马乱民遭难， 黎民百姓苦难言。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "西皮散板",
+          "text": "徐大人到此来查看，"
+        },
+        {
+          "character": "郭广卿",
+          "type": "西皮散板",
+          "text": "快快去接我们的好州官。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "列位请了！"
+        },
+        {
+          "character": "四百姓",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "今有我们那爱民如子、贤明的徐达老爷，下乡劝农，查看民情。我们大家一同 前去迎接！"
+        },
+        {
+          "character": "四百姓",
+          "type": "同白",
+          "text": "理当如此。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内锣声〗。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "听锣声响亮，那旁太爷来也。你我前去迎接。请！"
+        },
+        {
+          "character": "四百姓、郭广卿",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二班头、徐达同上。"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮散板",
+          "text": "春山如笑风光好， 春水绿波绕春郊。 度过小桥阡陌道， 茅篱村舍难画描。"
+        },
+        {
+          "character": "四百姓",
+          "type": "同白",
+          "text": "迎接太爷！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "大家去至土地祠前讲话。"
+        },
+        {
+          "character": "四百姓",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四百姓、郭广卿、侯伯清、四青袍、二班头、徐达同走圆场。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "众百姓席地而坐，不可喧哗。"
+        },
+        {
+          "character": "四百姓",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四百姓、侯伯清、郭广卿同席地而坐，徐达坐。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "众百姓，本州因有要事，未能到此已数月有馀。你等村中，有什么困难之事， 一一讲来，本州也好与你们作主。"
+        },
+        {
+          "character": "四百姓",
+          "type": "同白",
+          "text": "小人们因兵荒马乱，不能耕耘，故尔无衣无食。求太爷救济救济吧！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "唉！此皆本州不能安民之过。今日此来，原为你们“饥寒”二字。想民为邦本， 民以食为天。当今仲春时令，正值耕种之期，你们种地无籽粒者，本州贷以 籽粒；耕地无耕牛者，本州贷以耕牛，大家也好安居乐业也。"
+        },
+        {
+          "character": "侯伯清、郭广卿、四百姓",
+          "type": "同白",
+          "text": "多谢太爷！"
+        },
+        {
+          "character": "徐达",
+          "type": "二黄原板",
+          "text": "自古道立国基民为邦本， 衣食足知荣辱本固邦宁。 男勤耕女勤织各务其正， 休荒嬉莫堕落持之以恒。"
+        },
+        {
+          "character": "四百姓",
+          "type": "同白",
+          "text": "我等谨记。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "好，各赐花酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四百姓同插花、饮酒。百姓戊、百姓己同揪打上。"
+        },
+        {
+          "character": "百姓戊",
+          "type": "白",
+          "text": "打！打！打！我今天饶不了你！"
+        },
+        {
+          "character": "百姓己",
+          "type": "白",
+          "text": "我跟你没完！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "百姓戊、百姓己同扭打。"
+        },
+        {
+          "character": "百姓己",
+          "type": "白",
+          "text": "哎哟哎哟，你咬了我拉！"
+        },
+        {
+          "character": "百姓戊",
+          "type": "白",
+          "text": "好！你敢踢我！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "唗！拿下了！"
+        },
+        {
+          "character": "百姓戊、百姓己",
+          "type": "同白",
+          "text": "好啦，找太爷说理去！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "你二人因何争吵？"
+        },
+        {
+          "character": "百姓戊",
+          "type": "白",
+          "text": "我是他哥哥。"
+        },
+        {
+          "character": "百姓己",
+          "type": "白",
+          "text": "你不配做我的哥哥！"
+        },
+        {
+          "character": "百姓戊",
+          "type": "白",
+          "text": "他整天价不做好事，好吃懒做，锯碗的带眼镜——没碴儿找碴儿。"
+        },
+        {
+          "character": "百姓己",
+          "type": "白",
+          "text": "他净听媳妇儿的话，时常跟我吵闹，要分家另过。您看，他这不是沙锅里煮寿 桃——浑蛋出尖儿了吗！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "嗯！想你二人本是亲生兄弟，奈何操同室之戈，妄起阋墙之祸！有何面目以对 先人？速速改过，各自三思！"
+        },
+        {
+          "character": "百姓戊、百姓己",
+          "type": "同白",
+          "text": "是，小人们再也不敢啦。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "列位呀！如今我们横遭异族欺凌，只宜图强，怎容私斗！我又数言，你们听了！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮原板",
+          "text": "家国多难民不幸， 异族入侵受欺凌。 各宜图强精神振， 怎容阋墙祸自生？ 国仇家恨记在心。 待等他日风雷动， 破虏驱敌起义兵。"
+        },
+        {
+          "character": "六百姓",
+          "type": "同白",
+          "text": "太爷之言，我等谨记。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "这便才是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "百姓庚上。"
+        },
+        {
+          "character": "百姓庚",
+          "type": "白",
+          "text": "列位，大事不好啦！"
+        },
+        {
+          "character": "六百姓",
+          "type": "同白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "百姓庚",
+          "type": "白",
+          "text": "今有完颜龙率众行围射猎，踏坏了无数田园，又将郭家的长工乱马践踏，堪堪 要死啦！"
+        },
+        {
+          "character": "六百姓",
+          "type": "同白",
+          "text": "啊，大家快快看过！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "六百姓，郭广卿、侯伯清同下。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "哎呀且住！想那完颜龙，暴虐无道；百姓此去，必遭其祸。待我赶上前去便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达急下。四青袍、二班头同随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉、完颜骆驼、完颜龙同上，完颜龙趟马。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮散板",
+          "text": "马如龙人似虎意气雄壮，"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮流水板",
+          "text": "纵苍鹰脱细犬齐抖丝缰。 射狡兔逐麋鹿驰骤围场， 管什么田和园屋宇村庄。 猛听得雕鸟声空中旋响，"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "看箭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙射。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮散板",
+          "text": "舒猿臂弯宝弓箭似飞蝗。"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "雕鸟带箭而逃。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "追！"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉、完颜骆驼、完颜龙同走圆场。八百姓、郭广卿、侯伯清同上。八百姓同拜。"
+        },
+        {
+          "character": "八百姓",
+          "type": "同白",
+          "text": "哎呀王爷呀，不要踏坏田地呀！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "唗！何处乱民，扰孤清兴？哪里容得！ 来，与我打！"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉同打八百姓。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "住了！想你身为皇家贵冑，就该爱护百姓；不该踏毁田园！倚仗势力，欺压百 姓，其情可恼！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "啊！胆大奴才，竟敢以下犯上？ 来呀，与我斩了！"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉同欲动手。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "谁人敢斩？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉同愣。"
+        },
+        {
+          "character": "徐达",
+          "type": "内白",
+          "text": "千岁息怒，徐达来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二班头、徐达同上。"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "步履踉跄朝前闯， 特到此地救善良。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "千岁在上，徐达有礼了！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "啊！州官何来？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "特为百姓请命而来。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "何言“请命”二字？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "敢问千岁：百姓身犯何罪，就要问斩？"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "以下犯上，罪过还不小么！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "这——不知百姓怎样冒犯虎威？"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "孤家行围射猎，也不过踏坏了他们小小的田园，竟敢拦挡孤家的去路，扰了孤 的兴趣，其情可恼！"
+        },
+        {
+          "character": "八百姓",
+          "type": "同白",
+          "text": "踏坏田园，我们怎生度日啊？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "是呀，踏坏田园，百姓何以为生？冒犯虎威，还请千岁谅情。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "住了！这中原之土，尽是孤征服之地，叫你们在此生存，已属宽大；踏坏了几 亩田园，也算不得什么大事。尔等不思俯首帖耳，大胆与孤抗衡。不加诛戮， 后必为患。孤是定斩不赦！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "百姓所犯之罪，情有可原，罪不当斩！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "孤家一定要斩！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "千岁一定要斩？"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "一定要斩！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "要斩？"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "要斩！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "好！来来来，请斩！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达以颈伸向完颜龙。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "啊！你这是何意？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "想徐达身为这民之父母，百姓开罪千岁，乃是下官不善教养之过。请先斩徐达， 然后再杀百姓，以儆不教而诛之罪也！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "这个——州官，你与他们讲情，也就是了，何必如此？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "如此，多谢千岁！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "这！难道罢了不成？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "但饶一死，任凭发落！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "也罢！将这厮——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙指郭广卿。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "重责四十。 来！"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "与我打！"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "且慢，待下官亲自责打，以消千岁之气。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "怎么？你要替孤责打？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "好啊！如此，你要打他一下，问他一声，怎样欺官傲长，以下犯上！你要与我 打呀，你要与我打！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "徐达",
+          "type": "二黄导板",
+          "text": "徐天德在郊外将民教管——"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "你要与我打呀！"
+        },
+        {
+          "character": "徐达",
+          "type": "二黄回龙",
+          "text": "实可叹好良民、平白无故、祸起无端，好叫我泪涟心酸！"
+        },
+        {
+          "character": "徐达",
+          "type": "二黄原板",
+          "text": "谁叫你生乱世不如鸡犬， 眼睁睁受苦刑有谁保全！ 假意儿责打他心酸手软，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达打郭广卿。"
+        },
+        {
+          "character": "徐达",
+          "type": "二黄摇板",
+          "text": "你休要以卵击石枉自残！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": "完颜龙",
+          "type": "二黄摇板",
+          "text": "留尔不死是后患， 再与刁民把话言。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "打的你可公？"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "这——"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "打的你可是？"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "不公也要公，不是也要是。打在你身，记在你心！州官，将他交付于你，用铁 枷一面，枷号一月，游街示众，灭灭他的火性！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "驼儿！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼带马。完颜龙上马。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "便宜你了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉、完颜骆驼、完颜龙同下。徐达看。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "唉！正是："
+        },
+        {
+          "character": "徐达",
+          "type": "念",
+          "text": "宁做太平犬，不做乱世民！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "贼子做事心忒狠， 倚仗势力压良民。 说不尽满怀心头闷，"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "带马回衙！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达上马。四青袍、二班头同下。郭广卿、侯伯清、八百姓同下。"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "好教徐达恨在心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": "花母",
+          "type": "内白",
+          "text": "啊咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母上。"
+        },
+        {
+          "character": "花母",
+          "type": "数板",
+          "text": "自幼学就武艺高，惯打野鸡与山猫。使钢叉，谁不晓？还有一口七星大宝刀。 百步穿杨射得妙，人送绰号老狸猫、老狸猫。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "老身，花母便是。自幼膂力惊人，全仗打猎度日。我儿花云，精通武艺。媳妇 金氏，贤孝无双。今日天气甚好，门外走走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雕鸟落地。花母看。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "啊！原来是只带箭的雕鸟。 媳妇快来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏上。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "婆婆何事？"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "看此雕肥大，身中两箭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母拔箭。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "今日老身下酒有物。媳妇，你去至厨下烧熟，与老身下酒。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏下。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "待老身将箭插在院内便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母插箭。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侯伯清上。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "老姐姐开门来！"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "是哪个？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "小弟侯伯清来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母开门。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "贤弟到了。请坐！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "老姐姐，大事不好了！"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "你娘家兄弟，因得罪完颜龙，被枷号州衙了！"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "花母",
+          "type": "西皮摇板",
+          "text": "胡儿逼人活不了， 恨不得将他剐万刀！"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "哎呀贤弟呀！必须要想个法儿搭救于他方好！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "这——有了，老姐姐呀！想那完颜龙，乃是贪财好色之人，小弟有家藏串龙珠 一百二十颗，将他送在康茂才的万顺当店，当些银子，前去打点。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "好好，真乃好兄弟也！你我不需要客套，我们哪里相会？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "午刻州衙前相会。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "就依贤弟，不送了。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侯伯清下。金氏上。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "婆婆，雕已烧好，请来下酒。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "吞吃不下。你将它装在篮内，为婆要与你舅父送饭去了！"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏拿篮。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "竹篮在此。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "好好看守门户，为婆去也。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母下。金氏关门，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭广卿带枷上，吴贵押上。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "西皮摇板",
+          "text": "被屈含冤难分辩， 愤气难申叫苍天。 恨胡奴钢牙欲咬断， 寝皮食肉才心甘。 提起虎躯衙前站。"
+        },
+        {
+          "character": "花母",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "西皮摇板",
+          "text": "看是何人到此间。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母、侯伯清同上。"
+        },
+        {
+          "character": "花母",
+          "type": "西皮摇板",
+          "text": "急急忙忙往前趱，"
+        },
+        {
+          "character": "侯伯清",
+          "type": "西皮摇板",
+          "text": "贤弟枷号在衙前。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "兄弟呀！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "姐姐不要哭！"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "我不哭！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "姐姐是怎样知道的？"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "你侯大哥前去送信，为姐的怎么不晓。我平日怎样嘱咐于你，教你少打抱不平， 想那完颜龙势力浩大，不要惹他！如今枷号衙前示众，这也是你好打抱不平 的下场头啊！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "哎呀姐姐呀！非是小弟多事，想那完颜龙倚仗势力，欺压百姓。小弟一时火起， 上前与贼理论，当时若非是贤明的太爷排解，定要与贼见个高低！待等枷号 期满，我定要杀——"
+        },
+        {
+          "character": "花母、侯伯清",
+          "type": "同白",
+          "text": "噤声！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母、侯伯清、郭广卿同两望。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "为姐带来饭食，兄弟请用。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "不用。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "不用就罢。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "啊贤弟，愚兄与老姐姐商议，我家现有先人留下串龙宝珠一挂，意欲当银百两， 搭救于你。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "小弟当面谢过，只是连累哥哥了！"
+        },
+        {
+          "character": "吴贵",
+          "type": "白",
+          "text": "咳，天已不早，该回监去啦！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母、侯伯清、郭广卿、吴贵自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周氏抱小孩上。"
+        },
+        {
+          "character": "周氏",
+          "type": "西皮原板",
+          "text": "自从我夫中年丧， 孤儿寡母受凄凉。 旧日恩情不堪想， 教人愁断万缕肠。"
+        },
+        {
+          "character": "周氏",
+          "type": "念",
+          "text": "奴家、周氏。不幸我夫新丧，今当清明佳节，不免上坟祭扫。 喂呀夫哇！留下你这苦命的寡妻、孤儿，有谁怜顾哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周氏挑纸钱，出门。"
+        },
+        {
+          "character": "周氏",
+          "type": "西皮散板",
+          "text": "念我夫在生前武艺高强， 我与他好夫妻恩爱鸳鸯。 叹娇儿方襁褓已遭弃养， 可叹奴为香烟苦守凄凉。 清明节化纸钱祭夫泉壤， 叫为妻怎耐这贫苦时光。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周氏下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉、完颜骆驼、完颜龙同上。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮散板",
+          "text": "前呼后拥心欢畅， 得些狐兔与狍獐。 绕过平林度山岗 天热口燥马嘶扬。 齐下征驹四下望，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙下马。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮散板",
+          "text": "见一古井在道旁。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "天热口渴，且去井边汲水饮马。"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "无有水桶。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "前面村中去借。 呔，里面有人吗？走出一个来！"
+        },
+        {
+          "character": "金氏",
+          "type": "内白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏上。"
+        },
+        {
+          "character": "金氏",
+          "type": "西皮散板",
+          "text": "忽听门外人喧嚷， 急忙开门看端详。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "什么人喧哗？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "慢腾腾地，待我打了进去！"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "唗！青天白日，擅闯民宅，是何道理？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "你住了吧！完颜龙千岁行围至此，马要饮水，快拿水桶一用！"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "那厢有，自己去取。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "快快取水伺候！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "啊！射雕之箭，为何在此？ 千岁请看！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "待孤看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙看箭。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "问她要雕鸟！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "那一女子，雕在何处？快快取来！"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "此箭在门外拾来，并未见有什么雕鸟。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "她不承认。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "哦，她不承认！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙看。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "看墙上有钢刀一把，此户定非良善之辈，将刀取来我看！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼取刀与完颜龙。完颜龙看刀。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "咦！是口宝刀。也罢！将刀抵鸟便了。带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙欲行。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "白昼抢人了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏拉完颜龙。完颜龙剑砍金氏，金氏坐地哭。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉、完颜骆驼、完颜龙同下。"
+        },
+        {
+          "character": "金氏",
+          "type": "西皮导板",
+          "text": "霎时痛倒尘埃上，"
+        },
+        {
+          "character": "金氏",
+          "type": "哭",
+          "text": "喂呀……"
+        },
+        {
+          "character": "金氏",
+          "type": "西皮摇板",
+          "text": "疼痛难忍意乱心忙。 血流满地魂飘荡，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏进门，关门。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "完颜龙啊，贼子！"
+        },
+        {
+          "character": "金氏",
+          "type": "西皮摇板",
+          "text": "此恨难消要记心旁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周氏抱小孩上。"
+        },
+        {
+          "character": "周氏",
+          "type": "西皮散板",
+          "text": "上坟已毕回家往，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小孩哭声〗。"
+        },
+        {
+          "character": "周氏",
+          "type": "西皮散板",
+          "text": "我儿啼哭为哪桩？"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "想是娇儿要吃乳食，看那旁大树之下，有块下马石，不免去到那里，一来与娇 儿食乳，二来歇息歇息再走。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "内白",
+          "text": "回府！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉、完颜骆驼、完颜龙同上。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "唗！这一贱人，岂不知府门以外，三尺禁地：文官下轿，武将离鞍；孝服之人， 不许经过。你这大胆贱人，犯我禁忌，怪不得孤此番射猎，多不吉祥！瞎眼 的贱婢，你不成看见有禁止牌么？"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "我乃乡下人，不晓得什么“禁止牌”呀！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "要眼何用？ 来呀！剜去她一目！"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉同剜周氏眼。"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "还有一犊子。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "活活摔死，撇在荒郊！"
+        },
+        {
+          "character": "八校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八校尉同抢小孩摔，周氏滚下。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "完颜龙",
+          "type": "念",
+          "text": "杀人不眨眼，人称活阎王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侯伯清上。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "门上有人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子上。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "小人侯伯清，我是求见骆驼总管的。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "少站。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子向内。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "有请总管！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼上。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "侯伯清求见。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "叫他进来，"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "叫你进去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子下。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "参见总管！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "罢啦。一旁坐下！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "到此何事？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "小人侯伯清，乃城外董家堡的人氏。我有一好友郭广卿，得罪了千岁，枷号衙 前。他家有老母，无人侍奉。这有纹银百两奉上，请总管在千岁面前讲几句好 话。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "银子在哪里？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "总管请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侯伯清呈银。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "唗！一介乡民，哪有许多银两，定不是良善之辈！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "哎呀总管哪！小人这银两乃是当家去家藏串龙珠而来的。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "我却不信。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "当票在此，总管请看。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "你拿过来吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼念当票。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "“当当人侯伯清，今将串龙宝珠一挂，一百二十颗，当银百两。”"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼背供。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "串龙宝珠，好宝贝！好物件！嗯！有啦，我要把他献与老王爷，岂不是大功一 件？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼向侯伯清。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "我来问你，这万顺当店可是康茂才开的吗？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "正是康茂才开的。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "侯伯清，你可回家等候，三日之内，我必设法开脱郭广卿之罪。去吧！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "多谢总管。请将当票还我。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "别忙。千岁不信，叫千岁看完，再还你不迟。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "告辞了。正是："
+        },
+        {
+          "character": "侯伯清",
+          "type": "念",
+          "text": "世态炎凉真可恨，诸事认钱不认人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侯伯清下。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "哈哈哈……人要走运，什么事都赶得上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼向内。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "有请千岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙上。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "小人得来一宗宝物线上。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙念当票。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "“当当人侯伯清，今将串龙宝珠一挂，一百二十颗，当银百两。” 呜呼呀！想这串龙珠，乃是无价之宝。你家老王爷平素念佛，缺少念珠一挂， 正好进奉。骆驼，你有何计，能将此物得到手内？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "小子有计献上。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "想那康茂才乃是本城首户。千岁派人去至万顺当，将康茂才和珠子一并拿来， 就说他勾串强人，盗去府中宝物，就此敲他一票，岂不是好！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "咦，亏你出得好主意。校尉走上！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "校尉走上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉自两边分上。"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "叩见千岁！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "去到万顺当店，将康茂才与串龙珠一并拿来见我！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同下。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "有请父王！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜老王上。"
+        },
+        {
+          "character": "完颜老王",
+          "type": "念",
+          "text": "人老心不老，爱打花胡哨。爱财又爱酒，终日乐逍遥。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜老王坐。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "参见父王！"
+        },
+        {
+          "character": "完颜老王",
+          "type": "念",
+          "text": "有话快来道，免去旧俗套。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "与老王爷叩喜头！"
+        },
+        {
+          "character": "完颜老王",
+          "type": "白",
+          "text": "咦！"
+        },
+        {
+          "character": "完颜老王",
+          "type": "念",
+          "text": "磕什么头来道什么喜，你送爷爷什么礼？"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "骆驼得来一宗宝物，父王请看！"
+        },
+        {
+          "character": "完颜老王",
+          "type": "白",
+          "text": "待我看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜老王看当票。"
+        },
+        {
+          "character": "完颜老王",
+          "type": "白",
+          "text": "白纸黑字，弯弯曲曲，到底是什么东西？"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "怎么不认得？"
+        },
+        {
+          "character": "完颜老王",
+          "type": "白",
+          "text": "我老眼昏花不认得。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "乃是一挂串龙宝珠。"
+        },
+        {
+          "character": "完颜老王",
+          "type": "白",
+          "text": "今在何处？"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "现在康茂才当店之内。也曾命人去取，少时就来。"
+        },
+        {
+          "character": "完颜老王",
+          "type": "白",
+          "text": "珠子拿来，送至佛堂。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜老王下。四校尉持串龙珠押康茂才同上。"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "康茂才当面，串龙宝珠呈上。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "将串龙宝珠送至佛堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙递珠。"
+        },
+        {
+          "character": "校尉甲",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "校尉甲接珠下，上。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "下跪可是康茂才？"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "正是小人。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "有人告你窝藏强盗，坑害百姓，挣下百万家私。你可之罪？"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "哎呀千岁呀！小人素来安分为商。有道是：耳听是虚，眼见是实。千岁莫要屈 赖好人！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "莫要屈赖好人！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "住了！听你这一张利口，断非善良之辈。 来，将他吊起来，重重地打！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同吊康茂才。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮摇板",
+          "text": "好个大胆康茂才， 巧言善辩哄谁来？ 若不叫你知厉害， 看你还敢怀鬼胎。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "打！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同打康茂才。"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "天哪！"
+        },
+        {
+          "character": "康茂才",
+          "type": "西皮摇板",
+          "text": "安分在家做买卖， 平白大祸天降来。 霎时鞭打皮肉坏， 大骂完颜理不该。"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "完颜龙啊，我把你这狠心的贼！俺康茂才在徐州为商，安分守法，无端被你陷 害。我看这强盗就是你！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "呸！胆大奴才，擅敢辱骂孤王。 来呀，将他放了下来，待孤王亲自责打！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮摇板",
+          "text": "敢把孤王比强盗， 二目圆睁似火烧。 三尺龙泉出了鞘，"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "西皮摇板",
+          "text": "千岁息怒将他饶。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "千岁，您别生气，管他招与不找，将他的家财尽行魔兽；把他送到徐达那里， 问他个罪名，也就是啦。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "好，将他叉了出去！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "康茂才",
+          "type": "念",
+          "text": "此仇不报非君子，好汉宁死不肯屈。"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "走！走！走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼押康茂才同下。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启千岁：朱元璋在濠州造反，堪堪杀到徐州边界来了！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "且住！朱蛮子造反，孤王必须亲自剿灭。 校尉听令！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "传令下去：点动人马，即刻起兵！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜龙、四校尉自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母上。"
+        },
+        {
+          "character": "花母",
+          "type": "西皮摇板",
+          "text": "在中途心慌意又乱， 莫非家中有祸端？ 急急忙忙回家转——"
+        },
+        {
+          "character": "金氏",
+          "type": "内哭",
+          "text": "喂呀……"
+        },
+        {
+          "character": "花母",
+          "type": "西皮摇板",
+          "text": "猛听哭声惨不安。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母敲门。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "开门来！开门来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏上。"
+        },
+        {
+          "character": "金氏",
+          "type": "西皮摇板",
+          "text": "忽听婆婆门外喊， 忍痛含悲急向前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏开门。花母进门，看。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "啊！媳妇，你为何愁容满面，哭声甚惨，莫非你咒我死么？"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "媳妇怎敢？只因听说舅父遭冤，心中不快。婆婆可用饭么？"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "不用，取杯茶来解渴。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏取茶。"
+        },
+        {
+          "character": "金氏",
+          "type": "西皮摇板",
+          "text": "不敢明言手腕断， 怕惊婆婆老暮年。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "婆婆请茶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金氏递茶。花母怒，打掉茶杯。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "小贱人！往日打茶，双手捧上；今日为何单手递我，莫非不愿意伺候这老乞婆 么？"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "喂呀……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母揪金氏欲打。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "婆婆呀！完颜龙打此经过，前来借桶取水；又将我家宝刀拿去。是媳妇不允， 他竟将媳妇的左手剁去了！"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "待我看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母看金氏手。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母晕。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "婆婆醒来！"
+        },
+        {
+          "character": "花母",
+          "type": "西皮导板",
+          "text": "见此情不由我心中好惨，"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "喂呀……"
+        },
+        {
+          "character": "花母",
+          "type": "西皮摇板",
+          "text": "骂一声完颜龙禽兽一般。 手拿钢叉离家院！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母拿叉欲出门。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "婆婆哪里去？"
+        },
+        {
+          "character": "花母",
+          "type": "西皮摇板",
+          "text": "去寻贼子报仇冤。"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "哎呀婆婆哇！那贼人多势众，势力浩大，婆婆只身一人岂是他等对手！"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "哎呀，这这这……天哪，天！这都是天地不公，神佛不灵，待我将佛像打碎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母打佛像。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "有了，不免带定媳妇，去至徐州大堂告他一状。 媳妇，快快随我走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母、金氏同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": "康茂才",
+          "type": "内西皮导板",
+          "text": "叹百姓无故遭诬陷——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼押康茂才同上，同扯四门。"
+        },
+        {
+          "character": "康茂才",
+          "type": "西皮原板",
+          "text": "愤填胸怒满怀呼喊苍天。 破口骂完颜龙暴虐凶悍， 我欲哭哭无泪何处伸冤。 这才是安分人反遭凶险， 受非刑倾家产祸生无端。 那恶贼擅杀人——"
+        },
+        {
+          "character": "康茂才",
+          "type": "西皮散板",
+          "text": "不如鸡犬， 大丈夫若不死誓报仇冤。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侯伯清上。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "西皮原板",
+          "text": "怒冲冲都只为惨遭欺骗， 到公堂去告状叩请伸冤。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "康大官人为何这等模样？"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "啊侯兄，你无端当的什么宝珠，连累我家亡身陷，被完颜龙害得这般光景！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "我当宝珠乃是仗义，搭救好友郭广卿哪！哦，我明白了，这都是完颜骆驼所为。 完颜骆驼与我走！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "哪儿去？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "公堂辩理！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "哼哼！你跟康茂才聚盗窝赃，要把你送官治罪，正寻你不着，怕你不去！走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼、康茂才、侯伯清同走圆场。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "来此已是，待我击动堂鼓！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "你走开这儿吧！这徐州大堂，就跟我们家门房儿、下房儿一样。州太爷不过是 我们家的一条狗。我本当进去见他，怎奈我有些不耐烦，不免跟他开个玩笑， 打个“花得胜”，叫他升堂见我。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼击鼓。四青袍、二班头、徐达同上。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "带击鼓人！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "不用带，击鼓人在此。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班头甲出门。"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "原来是总管大人。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "可不是我么。"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "太爷传哪。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "船哪，还嘚儿轿哪！对你家州官儿去说，就说我带来两名贼犯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班头甲进门。"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "启禀太爷：击鼓人乃是完颜王的总管，带来两名贼犯要见。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "哦，这贼小题大做，与我带上堂来！"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "班头甲出门。"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "总管，请您上堂哪。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "衙门不大，派头儿不小。待我去见。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "念",
+          "text": "小小衙门不放眼，大摇大摆到堂前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼、班头甲同进门。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "州官儿请啦。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "管家到此何事？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "千岁拿住贼犯康茂才、侯伯清，偷盗府中宝物，叫你审问审问，好歹定他个罪 名。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "贼犯哪里？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "现在堂口。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "带了上来！"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "康茂才、侯伯清上堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才、侯伯清同进门跪。"
+        },
+        {
+          "character": "康茂才、侯伯清",
+          "type": "同白",
+          "text": "叩见太爷！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "下跪可是康茂才？"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "正是小人。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "康茂才，你为何偷盗王府？从实讲来！"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "太爷呀！"
+        },
+        {
+          "character": "康茂才",
+          "type": "西皮散板",
+          "text": "康茂才跪大堂珠泪满面，"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "讲！"
+        },
+        {
+          "character": "康茂才",
+          "type": "西皮流水板",
+          "text": "在公堂满口中高声喊冤。 侯伯清他当了宝珠一串， 谁料想为此事惹下祸端。 完颜龙陷害我送官究办， 望太爷细体察鉴明此冤。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮散板",
+          "text": "听他人一番话真假难辨， 再问那侯伯清便知根源。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "侯伯清，有何冤枉？快快讲来！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "小人与郭广卿交好甚厚。我家先人留下串龙宝珠一挂，当在康茂才万顺当店， 当银百两。实指望去至王府，搭救郭广卿出监；不想完颜龙的总管，将我的银 子、当照一并诈去，至今不还。求太爷明断。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "哦，原来如此。 总管，听他二人之言，事理已然明白。烦你回去，禀知千岁，就说徐达言道： 为官做吏，须要爱民。今侯伯清为友仗义，反而获罪；康茂才为商良善，反受 其冤。想他们俱是奉公守法、交捐纳税的好百姓，罪无可加。我若昧心动刑， 良心何在，这天理何存？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "千岁之命，谁敢不遵！那么依你之见呢？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "依下官之见：禀知千岁，一要顺天理，二要顾人情。休要激起公愤，以免后悔 不及！为今之计，速将串龙宝珠交还原主，不必深究；如若不然，我要亲自过 府去讨，那时反而不美！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "哈哈！千岁叫你审问贼犯，你怎么把千岁也审到其中啦？依我看来，你是不想 做官儿啦！要想回家去抱——"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "抱什么？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "抱娃子去！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "唗！胆大的骆驼，竟敢咆哮公堂！ 来！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "与我拿下了！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "你接着我的吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼下。"
+        },
+        {
+          "character": "花母",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母领金氏拿彩手同上。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "冤枉！"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "启禀太爷：有一老婆子带一妇人，堂口喊冤。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "快快带上堂来！"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "上堂回话。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "叩见太爷！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "这一老婆婆，有什么冤枉？快快讲来！"
+        },
+        {
+          "character": "金氏",
+          "type": "白",
+          "text": "太爷呀！"
+        },
+        {
+          "character": "金氏",
+          "type": "西皮快板",
+          "text": "未开言磕头如捣蒜， 长呼明镜要高悬。 我夫花云出外县， 剩下婆媳守家园。 恨完颜无故把奴手来断，"
+        },
+        {
+          "character": "金氏",
+          "type": "哭头",
+          "text": "哎呀太爷呀！"
+        },
+        {
+          "character": "金氏",
+          "type": "西皮快板",
+          "text": "害得我四体不周全。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮流水板",
+          "text": "听一言气得我容颜改变， 惨杀人又是贼完颜。 他不该视人命如同草菅， 伤情害理愧对天。 我问你有什么确实证见， 休得要在公堂信口乱言！"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "太爷呀！"
+        },
+        {
+          "character": "花母",
+          "type": "西皮摇板",
+          "text": "未曾开言心撩乱， 珠泪滚滚洒胸前。 高举断手大人验， 明公作主要报仇冤！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达接彩手看。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "见此情不由我心内好惨， 骂一声完颜龙是何心肝？ 小民何罪将你犯， 下毒手害百姓任意摧残！ 回头再把娘行看——"
+        },
+        {
+          "character": "周氏",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。周氏上。"
+        },
+        {
+          "character": "周氏",
+          "type": "西皮摇板",
+          "text": "恨贼子做事欺了天！ 来在堂口高声喊，"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "冤枉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二班头同喊堂威。"
+        },
+        {
+          "character": "四青袍、二班头",
+          "type": "同白",
+          "text": "呕！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "又是何人来喊冤？"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "启禀太爷：有一妇人，满脸是血，堂口喊冤。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "哦，又有一妇人，满脸是血，堂口喊冤么？"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "天哪天！想我徐达，在此为官，仰不愧于天，俯不愧于地；不欺心，不害民。 今日这徐州堂上，为何这等混乱？ 来，将那妇人与我带、带、带……上来！"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "妇人上堂回话！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周氏进门跪。"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "参见太爷！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "这一妇人，满脸是血，你被何人所害？快些讲来！"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "太爷呀！"
+        },
+        {
+          "character": "周氏",
+          "type": "西皮流水板",
+          "text": "未曾开言泪淋淋， 尊声太爷听分明： 小妇人坟前去祭奠， 怀中抱定小娇生。 打从完颜府门过， 谁知平地风波声。 狠心剜去我左眼， 小娇儿也被那狠心贼子摔死在地埃尘。 太爷为官爱百姓， 特地前来把冤伸。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达看。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "这一旁告的是剁去手腕， 那一旁又告道眼被刀剜， 这一旁告的是屈打良善， 那一旁口声声平白地遭奇冤。 完颜龙他本是皇家亲眷， 我徐达官职小无有威权。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "若不然将此事甩手不管，"
+        },
+        {
+          "character": "康茂才、侯伯清、花母、金氏、周氏",
+          "type": "同白",
+          "text": "青天作主呀！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "众黎民一个个口呼青天。 左难右难难坏了我，"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "天哪天！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "一时无计难以周全。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼、毛怀同上。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "回头到了堂上，你沉住了气，不要嘀嘀咕咕的，拿出点儿官派来。别叫人摸了 你的底去！"
+        },
+        {
+          "character": "毛怀",
+          "type": "白",
+          "text": "全仗姐夫啦。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "随我进来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼，毛怀同进门。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "你又来做甚？"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "老王爷有道手谕，拿去看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼扔手谕。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "呈上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达看手谕，气。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "你瞧，看了半天，什么事，你倒是说呀！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "这——"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "蜇，掐你的钩子！你不说，我替你说说！ 众百姓们听者：“今有朱元璋造反，千岁带兵迎敌。老王爷有谕，晓谕一干人 犯，带至王府审问；将徐达免职，其缺着毛怀补授，命骆驼以为监视，即刻交 代。”话已说完，请你外头凉快凉快吧！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "这——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达一望、两望，摘纱帽，捧印出桌，将印抛与毛怀，坐下场椅。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "哼哼！你这会儿不吹胡子瞪眼地冒泡儿了吧？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼向毛怀。"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "来来来，这就是打饭吃的票儿，咱们俩人儿是二一添作五，像不像，三分样， 升个堂看看。"
+        },
+        {
+          "character": "毛怀",
+          "type": "白",
+          "text": "衙役们，老爷升堂喽！"
+        },
+        {
+          "character": "班头甲",
+          "type": "白",
+          "text": "猪八戒摆手儿——不伺猴儿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二班头自两边分下。"
+        },
+        {
+          "character": "毛怀",
+          "type": "白",
+          "text": "哈哈！你当是没有你们这鸡蛋，就做不了槽子糕哪！"
+        },
+        {
+          "character": "完颜骆驼",
+          "type": "白",
+          "text": "别着急！你官运不佳，我来帮你个忙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼击鼓。"
+        },
+        {
+          "character": "毛怀",
+          "type": "白",
+          "text": "唗！我把你们这一群狗男女，还不跪下！"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "今日徐州堂上，官逼民反。列位，倒不如你我大家反了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完颜骆驼惊。"
+        },
+        {
+          "character": "康茂才、侯伯清、花母、金氏、周氏",
+          "type": "同白",
+          "text": "反了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才、侯伯清、花母同打死毛怀，同打完颜骆驼跑下。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "哎呀众位呀！打死狗官，完颜龙回来，如何是好？"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "大家反了吧！"
+        },
+        {
+          "character": "康茂才、侯伯清、金氏、周氏",
+          "type": "同白",
+          "text": "反了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才、侯伯清、金氏、周氏同下，花母随下。"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴贵押郭广卿同上。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "西皮摇板",
+          "text": "枷号示众衙前站，"
+        },
+        {
+          "character": "康茂才、侯伯清、金氏、周氏、四百姓",
+          "type": "内同白",
+          "text": "反了！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "西皮摇板",
+          "text": "忽听喧嚷哄动天。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才、侯伯清、周氏、金氏、四百姓各持刀枪同上。"
+        },
+        {
+          "character": "康茂才",
+          "type": "西皮摇板",
+          "text": "这才是官逼良民反， 约请乡民到衙前，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侯伯清向郭广卿。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "贤弟呀！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "西皮摇板",
+          "text": "拿住了完颜父子剥皮剜眼， 仇报仇来冤报冤。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "好哇！"
+        },
+        {
+          "character": "郭广卿",
+          "type": "西皮摇板",
+          "text": "我这里将木枷一扯两断， 打死了小吴贵命染黄泉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭广卿打死吴贵。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "二位仁兄，完颜龙今在何处？"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "朱千岁濠州起义，那贼迎战去了。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "好哇！趁此机会，众位乡邻去至衙前，保护太爷。你我弟兄三人，杀贼的家眷 便了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母上。"
+        },
+        {
+          "character": "花母",
+          "type": "西皮摇板",
+          "text": "要把胡儿刀刀斩， 好与媳妇报仇冤。 手拿钢叉朝前赶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖扫头〗。花母舞叉，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二宫女搀完颜老王同上。"
+        },
+        {
+          "character": "完颜老王",
+          "type": "西皮摇板",
+          "text": "我在徐州好威风， 见我谁敢不鞠躬？ 人来拿过金漆马桶， 爷爷现在要出恭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭广卿、侯伯清、康茂才同上。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "且慢！待我向前。 呔，开门来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子上。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "外面何人？"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "小千岁回府，快快开门。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子开门。"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "老王现在哪里？"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "水磨亭。"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才杀死门子。"
+        },
+        {
+          "character": "康茂才",
+          "type": "白",
+          "text": "打了进去！"
+        },
+        {
+          "character": "完颜老王",
+          "type": "白",
+          "text": "何处强盗，打进府来？"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "老贼呀，老贼！不想你也有今日！着打！"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "且慢！将他杀死，岂不便宜老贼？"
+        },
+        {
+          "character": "康茂才、郭广卿",
+          "type": "同白",
+          "text": "依你之见？"
+        },
+        {
+          "character": "侯伯清",
+          "type": "白",
+          "text": "将老贼枷到州衙，在大众面前，千刀万剐！"
+        },
+        {
+          "character": "康茂才、郭广卿",
+          "type": "同白",
+          "text": "好，待俺将宝珠取下，枷起来，拉着走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才，郭广卿、侯伯清同枷完颜老王，郭广卿鞭打完颜老王，完颜老王跪步。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": "徐达",
+          "type": "内西皮导板",
+          "text": "一腔义愤万般怨，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四百姓、周氏、金氏、徐达同上。"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮快板",
+          "text": "满怀怒气欲冲冠。 生不逢辰遭世乱， 拔剑砍地长呼天。 猛听喧哗一阵乱，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才、郭广卿、侯伯清押完颜老王同上。"
+        },
+        {
+          "character": "康茂才、侯伯清、郭广卿",
+          "type": "同西皮散板",
+          "text": "大家一起拜青天！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才、侯伯清、郭广卿同拜。"
+        },
+        {
+          "character": "侯伯清",
+          "type": "西皮散板",
+          "text": "这是宝珠整一串，"
+        },
+        {
+          "character": "康茂才",
+          "type": "西皮散板",
+          "text": "挂在清官脖颈间。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "西皮散板",
+          "text": "推戴清官做主管， 反出徐州报仇冤。"
+        },
+        {
+          "character": "郭广卿",
+          "type": "白",
+          "text": "大家反了，反了吧！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "反了？好哇！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮散板",
+          "text": "徐州堂官逼民造反， 仇报仇来冤报冤！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖战鼓声〗。"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮散板",
+          "text": "听城外马嘶人呐喊，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花母急上。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "大人哪！"
+        },
+        {
+          "character": "花母",
+          "type": "西皮散板",
+          "text": "完颜龙带兵到城边。"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮散板",
+          "text": "拼命去到城楼看，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才、郭广卿、侯伯清、花母、周氏、金氏、四百姓押完颜老王同下。"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮散板",
+          "text": "押定老贼诱完颜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四校尉、完颜龙同上。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮摇板",
+          "text": "朱蛮兵将似潮水， 杀得孤卸甲又丢盔。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启禀千岁：大事不好了！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "今有徐州城内百姓造反，以徐达为首领，将老王绑去了！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四百姓押完颜老王同上，康茂才、郭广卿、侯伯清、周氏、花母、金氏、徐达同上，同登城。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "内西皮导板",
+          "text": "徐州百姓造了反，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四校尉、完颜龙同上。"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮摇板",
+          "text": "好似江中翻了船！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "呔，徐达！劝你早早释放老王便罢；如若不然，杀进城去，鸡犬不留！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "完颜龙啊，狠心的贼！想你这贼，无端荼毒安善良民，将徐州百姓任意杀害， 不如牛马。你想，谁无父母兄弟？谁无夫妇子女？有道是：积善有善报，作恶 有馀殃。如今我恨不得食尓之肉，剥尓之皮，以消民间之怨。我看你死期已到， 狭路相逢，也是尓的循环报应也！"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮快板",
+          "text": "在城楼会见仇人面， 恨不得将贼乱刀剜。 回头我把百姓唤， 快将老贼押城前。"
+        },
+        {
+          "character": "四百姓",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四百姓同推完颜老王登城。"
+        },
+        {
+          "character": "徐达",
+          "type": "西皮摇板",
+          "text": "你父子做事天明鉴， 杀却老贼报仇冤！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "西皮摇板",
+          "text": "此时教我怎交战，"
+        },
+        {
+          "character": "完颜老王",
+          "type": "白",
+          "text": "儿啊！"
+        },
+        {
+          "character": "完颜老王",
+          "type": "西皮摇板",
+          "text": "你爸爸的老命要玩儿完！"
+        },
+        {
+          "character": "完颜龙",
+          "type": "白",
+          "text": "徐达！快将老王放出成来，如若不然，杀进城去，鸡犬不留！"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "一派胡言，滚木擂石打了下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "康茂才、郭广卿、侯伯清同打擂石，完颜龙、四龙套、四校尉同逃下。"
+        },
+        {
+          "character": "花母",
+          "type": "白",
+          "text": "大人，你我何不杀出城去？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "杀出城去！"
+        },
+        {
+          "character": "康茂才、郭广卿、侯伯清、周氏、花母、金氏",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐达、康茂才、郭广卿、侯伯清、周氏、花母、金氏同出城。完颜龙上，会阵，起打，完颜龙被擒。"
+        },
+        {
+          "character": "康茂才、郭广卿、侯伯清、周氏、花母、金氏",
+          "type": "同白",
+          "text": "你我投奔哪里？"
+        },
+        {
+          "character": "徐达",
+          "type": "白",
+          "text": "濠州去者！"
+        },
+        {
+          "character": "康茂才、郭广卿、侯伯清、周氏、花母、金氏",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "康茂才、郭广卿、侯伯清、周氏、花母、金氏",
+          "type": "同三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

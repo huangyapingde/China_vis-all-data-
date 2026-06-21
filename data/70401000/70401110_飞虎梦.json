@@ -1,0 +1,3479 @@
+{
+  "script_id": "70401110",
+  "title": "飞虎梦",
+  "alias": [
+    "牛皋招亲；一名：藕塘关"
+  ],
+  "source": "郝寿臣剧本选",
+  "characters": [
+    {
+      "name": "牛皋",
+      "hangdang": "净"
+    },
+    {
+      "name": "戚赛玉",
+      "hangdang": "花旦"
+    },
+    {
+      "name": "金节",
+      "hangdang": "生"
+    },
+    {
+      "name": "岳飞",
+      "hangdang": "生"
+    },
+    {
+      "name": "金夫人",
+      "hangdang": "旦"
+    },
+    {
+      "name": "魔里支",
+      "hangdang": "净"
+    },
+    {
+      "name": "杨虎",
+      "hangdang": "生"
+    },
+    {
+      "name": "余化龙",
+      "hangdang": "生"
+    },
+    {
+      "name": "汤怀",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "牛皋奉元帅岳飞之命，领兵大战汜水关，志未得逞。因见余化龙得胜归来，乃恼羞成怒；及余化龙将功赠让，\n又半推半就；俟元帅论功行赏，牛皋又固辞不受，仍归功余化龙。时金兵又犯藕塘关，守将金节不敌，告\n急于岳飞，岳飞又遣牛皋驰援。牛皋至关，饮酒大醉，出城呕吐，竟杀死金将魔里支。金节见牛皋英勇，欲\n以小姨戚赛玉许婚，牛皋不敢从。适岳飞至，代为主婚，牛高遂与戚赛玉结亲。",
+  "notes": "故事见《精忠说岳》\n本剧1929年首演于北京。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "余化龙、杨虎、汤怀、牛皋同上，同起霸。"
+        },
+        {
+          "character": "余化龙",
+          "type": "念",
+          "text": "山川扰攘战争时，"
+        },
+        {
+          "character": "杨虎",
+          "type": "念",
+          "text": "浑似英雄一局棋；"
+        },
+        {
+          "character": "汤怀",
+          "type": "念",
+          "text": "最好当机先一着，"
+        },
+        {
+          "character": "牛皋",
+          "type": "念",
+          "text": "任他诈伪到头输。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣归位〗。"
+        },
+        {
+          "character": "余化龙",
+          "type": "白",
+          "text": "俺——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "撕边大锣一击。"
+        },
+        {
+          "character": "余化龙",
+          "type": "白",
+          "text": "余化龙。"
+        },
+        {
+          "character": "杨虎",
+          "type": "白",
+          "text": "杨虎。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "汤怀。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "牛皋。"
+        },
+        {
+          "character": "余化龙",
+          "type": "白",
+          "text": "众位将军请了！"
+        },
+        {
+          "character": "杨虎、汤怀、牛皋",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "余化龙",
+          "type": "白",
+          "text": "元帅升帐，两厢伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "发点。四白龙套、四上手、四下手同上。〖四击头〗。岳飞上。大锣原场，归位。"
+        },
+        {
+          "character": "岳飞",
+          "type": "点绛唇",
+          "text": "奉命出剿，儿郎虎豹，旌旗飘，地动山摇，要把狼烟扫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖冲头〗，〖水龙吟〗。岳飞入帐。"
+        },
+        {
+          "character": "余化龙、杨虎、汤怀、牛皋",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "众位将军少礼！"
+        },
+        {
+          "character": "余化龙、杨虎、汤怀、牛皋",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣归位〗。"
+        },
+        {
+          "character": "岳飞",
+          "type": "念",
+          "text": "旌旗生风喜气新，早持龙节靖边尘。精忠报国扶社稷，志作当今第一人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "归位。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "本帅，姓岳名飞字鹏举。大宋为臣，蒙圣恩授为扫北大元帅之职。只因金寇扰 犯边疆，战争时起，生灵涂炭，闾里难安。本帅蒙天子知遇之隆，受人民付托 之重，国防不保，清夜扪心，好惭愧也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！禀报元帅：金寇前来犯边。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。探子下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "说话之间，金寇又来寻衅。兵连祸接，徒苦害于人民也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "纽丝。"
+        },
+        {
+          "character": "岳飞",
+          "type": "西皮散板",
+          "text": "胡笳羯鼓敌兵连， 千里纷腾起塞烟。 誓扫贼番于北面， 与民同享太平年。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！金兀术差命伪元帅魔里支，领兵十万，攻打藕塘关；驸马张从龙领兵五万， 攻打汜水关，十分危急，请令定夺。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "左右！赏他酒肉。下去！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "谢赏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。报子下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "众位将军！"
+        },
+        {
+          "character": "余化龙、杨虎、汤怀、牛皋",
+          "type": "同白",
+          "text": "元帅！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "如今湖寇未平，金兵又到，如之奈何？"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "启禀元帅：国家兴亡，匹夫有责，皮之不存，毛将焉附！末将不才，愿效犬马 之劳，身先士卒，勇往直前，何患湖寇不平，金兵不灭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "哈哈哈！国家养兵，有备无患，皆若将军忠诚为国出力，实乃国家人民之福也。 如此，牛将军听令：命你带领五千人马，为第一队先行；本帅再派余、杨二 将为第二队救应。星夜前往，打救汜水关，不得有误！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "启禀元帅：末将等此番奉命带领兵卒，扫除番寇，一路之上，对待兵将，必须 要犹如赤子一般，效那当年楚霸王的行兵，自己在先，三军在后，方可易成大 功也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮摇板",
+          "text": "当年项羽行兵见， 三军在后己身先。 冲敌疾走如飞箭，"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "得令，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮摇板",
+          "text": "又何患不奏奇功于汜水关前！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。牛皋下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "牛皋之言甚是有理。余、杨二位将军听令：命你二人领兵五千为第二队救应， 相机行事，不得有误。"
+        },
+        {
+          "character": "余化龙、杨虎",
+          "type": "同白",
+          "text": "得令，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。余化龙、杨虎同下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "汤将军听令：命你带领一万人马，随本帅出发去者。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣三击。"
+        },
+        {
+          "character": "岳飞",
+          "type": "念",
+          "text": "康郎三决安邦策，汜水将收第一功。"
+        },
+        {
+          "character": "四白龙套",
+          "type": "同白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣原场。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣导板头。"
+        },
+        {
+          "character": "牛皋",
+          "type": "内西皮导板",
+          "text": "帐前受了元帅命，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "紧锤。四下手、马童、牛皋持单锏同上。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮快板",
+          "text": "扫贼来到汜水城。 催马加鞭往前进， 剿灭番奴建功勋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！启禀将军：汜水关已被金兵抢去，特来报知。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。探子下。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "既然如此，军士们！随咱牛皋将这汜水关奋勇夺回，再来埋锅做饭，先与我杀！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣〖水底鱼〗。众人同走小圆场。下场门设关。四下手同站小边一字。牛皋以马鞭指。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "来此已是汜水关！"
+        },
+        {
+          "character": "牛皋",
+          "type": "叫头",
+          "text": "呔！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣四击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "番寇听者！你牛爹爹带兵到此，还不快快滚出头来，会咱一会！"
+        },
+        {
+          "character": "张从龙",
+          "type": "内白",
+          "text": "开城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。张从龙持锤上，会阵。"
+        },
+        {
+          "character": "牛皋",
+          "type": "叫头",
+          "text": "呔！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣四击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "番奴通上名来，也好受死。"
+        },
+        {
+          "character": "张从龙",
+          "type": "白",
+          "text": "南蛮听者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣三击。"
+        },
+        {
+          "character": "张从龙",
+          "type": "白",
+          "text": "俺乃金邦老狼主的驸马张从龙便是。南蛮既来寻死，你也通个名来。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "说出名来，吓破你的狗胆！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "你爷爷乃是总督兵马扫金大元帅岳爷部下正印先锋牛皋老爷！你是怕我不怕！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "张从龙",
+          "type": "白",
+          "text": "休得张狂，放马过来！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "看锏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗，钻烟筒。张从龙以锤夹锏，牛皋败下。张从龙追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。牛皋、四下手、马童同上。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "这贼来得厉害，三军们！弓箭伺候，埋伏了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。张从龙追上。"
+        },
+        {
+          "character": "张从龙",
+          "type": "白",
+          "text": "哪里走！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "放箭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同放箭。乱锤。张从龙下。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "哈哈哈！那贼中了某家之计，被那弓箭射败，逃回关去。 军士们！不必追赶，去到前面小道口，暂且扎营去者。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣〖水底鱼〗。众人同走圆场。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "来到小道口。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "就此安营扎寨，准备弓箭，以防那贼偷营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。牛皋下马，进内。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "想我牛皋每次出兵，俱打胜仗，怎么今日出兵就打了败仗？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "撕边大锣一击。余化龙、杨虎同暗上。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "想起来了！俺出营之时，元帅亦曾派那余、杨二将以为救应，怎么还不见前来 救应呢？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "软撕边大锣一击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "哦呵，是了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "莫非他二人想要自己邀功夺赏，也未可知。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "软撕边大锣一击。余化龙、杨虎同暗下。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "且休管他。众军士们！安营休息，仍须枕戈提矛，以防不虞之患。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同允。大锣原场。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。余化龙、杨虎同上。"
+        },
+        {
+          "character": "余化龙",
+          "type": "白",
+          "text": "杨将军，适才可曾听见？"
+        },
+        {
+          "character": "杨虎",
+          "type": "白",
+          "text": "听见了。"
+        },
+        {
+          "character": "余化龙",
+          "type": "白",
+          "text": "那牛皋，他自己打了败仗，反来抱怨我们，不如我们前去夺回汜水关，将这功 劳送与牛皋也就是了。"
+        },
+        {
+          "character": "杨虎",
+          "type": "白",
+          "text": "言之甚是。兵丁们！催军去者！杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。余化龙、杨虎自上场门同下。三通鼓。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "有请牛将军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。牛皋自下场门上。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "夜静更深，报知何事？"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "启禀将军：余、杨二位将军，深夜已将汜水关夺回，并枭得张从龙首级，特来 拜见将军。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "硬撕边大锣一击。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "他们得胜回来，特来拜见将军。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "哦！这两个狗男女，果然不出我的所料，自私自利，邀功夺赏。待他们进来， 我自有道理。 如此叫他们进来。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "有请二位将军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。探子下，余化龙、杨虎同上。"
+        },
+        {
+          "character": "余化龙、杨虎",
+          "type": "同白",
+          "text": "牛将军辛苦了！可曾安眠否？"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "唔！你二人迟误军行，不来救应，现在夺了俺的功劳，前来见俺牛皋，当面卖 弄，是何理也？"
+        },
+        {
+          "character": "余化龙",
+          "type": "白",
+          "text": "将军息怒。其中有个缘故。只因昨日我二人赶到此处，特来拜见将军。刚到营 门，忽然听到牛将军自言自语，抱恨我们二人，是我们未敢进见。今我二人抢 了汜水关送与将军，一则与将军重启大运；二来小将投宋初来，无以为敬，聊 作进见之礼。望将军以后不要背地骂人，也就是了。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "我还问你：我等来时，元帅是怎样吩咐？"
+        },
+        {
+          "character": "杨虎",
+          "type": "白",
+          "text": "牛将军不必叮咛，此功就让与牛兄去报，小将们不报便是。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "唔！也罢，元帅到此，再作计较。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！元帅驾到！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "二位将军，一齐迎接。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋、余化龙、杨虎同出迎。冲头，长尖。四龙套、中军、汤怀、岳飞同上。"
+        },
+        {
+          "character": "牛皋、余化龙、杨虎",
+          "type": "同白",
+          "text": "迎接元帅！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "请起。众位将军辛苦了！"
+        },
+        {
+          "character": "牛皋、余化龙、杨虎",
+          "type": "同白",
+          "text": "为国效劳，何言辛苦！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "夺回汜水关是何人的功劳？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋、余化龙、杨虎相顾。"
+        },
+        {
+          "character": "牛皋、余化龙、杨虎",
+          "type": "同白",
+          "text": "这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "软撕边大锣一击。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "汝等为何不肯报功？"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "启禀元帅：咱牛皋我是不会说谎的。关是他二人抢回的，说是把功劳让给我。 咱牛皋我也不要，还是他们的功劳。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "哈哈哈！既是如此，就命你仍领本部兵马，去救藕塘关，得胜回来，重重有赏。 本帅随后即至。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "得令，马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。牛皋下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "杨将军听令：命你带领本部兵马，小心镇守汜水关，以防胡儿骚扰。"
+        },
+        {
+          "character": "杨虎",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。杨虎下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "余、汤二位将军听令：命你二人，率领军马，随本帅出发去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣原场。余化龙、汤怀、岳飞同上马，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣原场。四红龙套、中军同上。〖四击头〗。金节上，走圆场，归位。"
+        },
+        {
+          "character": "金节",
+          "type": "引子",
+          "text": "奉命镇守藕塘关，朝夕奔忙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣原场，归位。"
+        },
+        {
+          "character": "金节",
+          "type": "念",
+          "text": "山川扰攘动干戈，昼夜勤劳为国谋。不求有功求无过，免教平地起风波。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "归位。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "俺，藕塘关总兵金节是也。只因金兵犯境，攻夺本关，昼夜担心，寝不安席。 顷间探马报道，总督兵马扫北大元帅岳大老爷带领大兵到来援救。 来，就此出关迎接去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣〖水底鱼〗。众人同倒绕场，出藕塘关，牛皋、四下手、马童扯岳字旗同上。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "藕塘关总兵金节，迎接元帅。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "免叩头！我乃先行统制牛皋，元帅尚在后头呢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "软撕边大锣一击。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "小小一个统制，见了本镇理当叩头，岂有此理！只怪那探子报事不明。 左右，将那报事的绑出去砍了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋大怒。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "你且慢着！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "贵总镇休怪探子报事不明，迁怒于他，分明是你瞧不起俺牛皋。也罢，想你既 然本事高强，用俺不着，俺便回去。 军士们！转兵回去！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "撕边大锣一击。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "牛将军请息怒，本镇因探子报事不明，军法有律。既是将军面上，不杀他也就 是。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "这便才是。你若难为了他，咱牛皋就无有体面了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "是，本镇得罪了。请将军进关驻扎。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "如此，请！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣〖水底鱼〗，大锣原场。众人同进关，同走圆场，到衙门大堂。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "啊总镇，贵衙大堂，处处挂红，张灯结彩，好整齐也！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "只因迎接元帅与将军故耳。请坐。"
+        },
+        {
+          "character": "牛皋",
+          "type": "笑",
+          "text": "啊哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣原场。牛皋上堂正中坐。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "这个牛皋，傲慢无理，进得堂来，居中而坐，好比那元帅的威风，真正可恼！ 但是他乃岳元帅的爱将，得罪了他，倒有许多不便。唉，只得忍耐一些。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。金节坐。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "左右。酒筵摆上，款待牛将军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。军士摆酒。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "牛将军请！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "如此叨扰了！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣三击。牛皋饮毕。撕边大锣一击。牛皋看席。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "啊，金兄，你这酒席幸喜是请俺牛皋，俺还领你的情；若是请俺家元帅，你就 大大的有罪了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "莫非是太粗糙了么？"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "非也。俺家元帅，每日饭食，总向北方流涕。皆因二圣困在番邦，坐井观天， 吃的是牛肉饮的是浆酪，如此的苦楚，令人难堪，这为臣子的吃一顿素饭已为 过分。俺牛皋时常劝解元帅，为国为民，劳心劳力，就是用些荤菜也不为过。 俺元帅被俺劝说，如今方肯吃些肉鱼之类；若见你这丰盛酒席，岂不就要见怪 于你？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "撕边大锣一击。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "多蒙指教，请！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣三击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "啊总镇，俺牛皋索性都对你说了吧！俺家元帅最爱吃的是豆腐。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "啊，爱吃豆腐。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "皆因前在河北大名府黄县小考之时，吃了豆腐起身，他道君子不忘其本，故此 最爱吃这豆腐。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "原来如此，越发的承情指教了。请！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣三击。牛皋饮毕。撕边大锣一击。牛皋看席。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "啊总镇，你这酒席果然是诚心请俺牛皋的么？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "将军说哪里话来，自然是诚心请将军的。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "若是诚心请俺牛皋，就该换取大杯，快来！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "快换大杯伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "大杯取来，牛将军请来畅饮。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "满上，请！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "撕边大锣一击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "再满上，请！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "撕边大锣一击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "再满上，请！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金节背供。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "可惜岳元帅为人刚直，却用这样的一个醉汉以为先行，真正可惜呀，可惜！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "啊总镇，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "撕边大锣一击。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "俺那些兵卒们，也须要赏他们些酒饭吃。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "业已赏过了。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "如此费心了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "不必客气。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子溜上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！启禀大人：金兵犯关，特来报知。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "左右，快快传令，各门赶紧加兵护守。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "金节！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "你鬼头鬼脑，不像待客的意思，有什么话，但说何妨！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "本镇见将军醉了，故不敢说。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "只管讲来。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "那番兵前来讨战，杀到关前来了。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "哎呀妙啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "既是番兵到来，何不早说！来，来，来，快取美酒一坛，吃足了好杀番兵去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "纽丝。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮散板",
+          "text": "自古将军斗酒量，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "纽丝。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "陈酒一坛，将军请！"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮散板",
+          "text": "十分酒量十分强。 琼浆玉液千杯畅， 要杀那番兵将七零八落方称心肠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣三击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "呜呼呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "撕边大锣一击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "吃了半坛，还有半坛。兵丁们，这半坛酒拿到阵前，少时咱老子还要用它。与 咱老子带马迎敌去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四下手扶牛皋上马同下。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "金节",
+          "type": "念",
+          "text": "酒醉英雄称好汉，看他谁胜与谁强。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣原场〗。金节、四红龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖冲头〗，〖风入松〗。四番兵、魔里支持大棍同上。"
+        },
+        {
+          "character": "魔里支",
+          "type": "白",
+          "text": "俺，金邦大元帅斩着魔里支是也。今奉金兀术之命，来取藕塘关。 巴图鲁，攻城去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松合头〗，〖急急风〗。众人同走圆场。正中设藕塘关。金节上城。"
+        },
+        {
+          "character": "金节",
+          "type": "笑",
+          "text": "啊哈哈哈！"
+        },
+        {
+          "character": "魔里支",
+          "type": "白",
+          "text": "南蛮快快开城受死。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "这番寇前来找死。牛将军，与我杀呀！"
+        },
+        {
+          "character": "牛皋",
+          "type": "内白",
+          "text": "开城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。牛皋上，会阵。牛皋马上东倒西歪，不抬头，不言语。"
+        },
+        {
+          "character": "魔里支",
+          "type": "白",
+          "text": "这个南蛮身临战场，酒醉醺醺，难道连死活都不顾了么！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "呜噜噜噜……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "软撕边大锣一击。"
+        },
+        {
+          "character": "魔里支",
+          "type": "白",
+          "text": "南蛮，贼子！想你身为大将，理应奋勇当先，较个高下。怎么到了阵前，不能 为国捐躯，反要做个醉死之鬼？真是自甘暴弃，愿做亡国之奴了！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "呜噜噜噜……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "软撕边大锣一击。"
+        },
+        {
+          "character": "魔里支",
+          "type": "白",
+          "text": "哎呀呀！看你如此行动，怎生得了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魔里支将铁棍竖在地上。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "兵丁们！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "快拿咱的酒来，某还要饮。"
+        },
+        {
+          "character": "下手甲",
+          "type": "白",
+          "text": "是。酒已取来，将军请用。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "拿来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋捧酒乱喝。"
+        },
+        {
+          "character": "魔里支",
+          "type": "白",
+          "text": "咦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "魔里支",
+          "type": "白",
+          "text": "这个南蛮，身临大敌，还要吃酒，真正奇怪！ 唗！南蛮，贼子！休要狂饮，快快通名受死！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "唔！"
+        },
+        {
+          "character": "魔里支",
+          "type": "白",
+          "text": "还不通名受死！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "好狗头！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。牛皋打死魔里支。乱锤。四番兵同跑下。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "看这番奴已死，快将人头割下。众军士们，随定某家冲入番营！杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。牛皋领四下手同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乱锤。四番兵同败上。"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "主帅已死，追兵赶到，怎生得了？"
+        },
+        {
+          "character": "牛皋",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。牛皋上。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "啊哈哈哈！杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。牛皋将四番兵同打下。金节出关。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "牛将军不费吹灰之力，斩了番将首级，杀退番兵，真乃神力也！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "总镇夸奖了！末将吃了一坛酒，杀他一员大将，打败番兵；若再吃上一坛酒， 也就将那些番兵番将都杀得干干净净了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋、金节同笑。〖大锣一击〗。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "多辛苦了！请到驿中安歇去吧。请！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "如此，请！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "金节",
+          "type": "念",
+          "text": "自古谈兵不厌诈，"
+        },
+        {
+          "character": "牛皋",
+          "type": "念",
+          "text": "假酒装颠杀了他。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "众军士们，回关去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同允。大锣原场。金节、牛皋、四下手同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "撤锣。小锣打上。戚夫人、戚赛玉同上。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "念",
+          "text": "富贵荣华缘夫命，"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "念",
+          "text": "深铭肺腑养育恩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚夫人、戚赛玉同入座。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "奴家戚氏。藕塘关总兵官金节夫人是也。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "奴家戚赛玉。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "妹妹，你我手足同居十有余年，朝欢暮乐，很不寂寞。这几日我看妹妹你总是 愁眉不展，莫非是做姐姐的有什么怠慢吗？"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "姐姐，您所说的话，适得其反。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "那么到底有什么心事呢？好妹妹，你告诉我吧。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "哎，姐姐呀！想你我自幼早失父母，又无兄弟，我就依赖姐姐您哪育养成人。 又延师教授，习得全般武艺，读了经史诗书，现在年纪不小，总想……"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "总想什么，妹妹？"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "哎，总想不知何日得报此恩情也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣凤点头。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "西皮摇板",
+          "text": "自古红颜多薄命， 早失父母乐天伦。 相依姐姐人情重， 何日才酬养育恩。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "唔，我倒猜着你的心事啦。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "猜着什么？"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "妹妹，方才你说，你现已年纪不小，总想早日配个如意郎君、小白脸，是不是？"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "姐姐，您别开玩笑啦。方才我所说的心事，句句都是实言。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "哦，是我猜瞎啦。要是这么说，可就是你的不对啦。想你我同胞，乃是骨肉之 亲，千万不要把这个小事情挂在心头，以免我心中不安也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "击头鼓。小锣凤点头。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "西皮摇板",
+          "text": "骨肉同胞恩情重， 此事何须挂在心。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "遵命，从此不提也就是啦。啊姐姐，今日一早，姐丈他往哪里去啦？"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "是啊，你姐夫今日出关迎接岳元帅，去打番兵，怎么这般时候，还不见回来呢？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "击二鼓。丫鬟上。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "启禀夫人：老爷回来了。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "妹妹，你姐夫回来了。你回绣房去吧。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚赛玉下。大锣五击。金节上。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "老爷回来了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "回来了。夫人请坐。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "有坐。啊老爷，今日出关迎接元帅，去打番兵，怎么样了？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "休要提起！元帅却未曾接着，倒迎来了元帅的先行，一位莽将军。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "怎么叫莽将军？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "这位将军名唤牛皋，十分卤莽，傲慢无理。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "哦，无理便怎么样哪？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "夫人听了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣凤点头。"
+        },
+        {
+          "character": "金节",
+          "type": "西皮摇板",
+          "text": "番寇近关干戈动， 酩酊狂饮醉朦胧。 番将昂藏真骁勇， 哪把这醉汉放在眼中。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "哎呀，这不糟啦吗？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "那番将如此倒置兵刃，辱骂相加。不想这牛皋，倒是一员福将，乘其不备，一 锏打来，正打在番将的头上。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "怎么样啦？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "哎呀一声，呜呼哀哉了。于是就打败了这十万番兵，得了大功了。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "这也是圣上的洪福，才有这样的人材呢！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "正是如此。啊夫人，下官只因金兵犯界，夜晚还要升堂办事，今晚只好去到书 房安歇了。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "老爷请便。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "夫人请。正是："
+        },
+        {
+          "character": "金节",
+          "type": "念",
+          "text": "为国勤劳事，"
+        },
+        {
+          "character": "戚夫人",
+          "type": "念",
+          "text": "昼夜不安闲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣打下。金节自上场门下，戚夫人下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣抽头〗。丫鬟引戚赛玉同上。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "西皮摇板",
+          "text": "胸怀壮志何人晓， 青春怎度此良宵？"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "丫鬟，你且安歇去吧。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟下。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "西皮摇板",
+          "text": "哪朝得缔良缘好？ 且抱衾裯独逍遥。 （戚赛玉入帐睡。击三鼓，阴锣。飞虎上，掀帐子。乱锤。戚赛玉起作势，吓卧倒。冲头。飞虎下。击四鼓， 戚赛玉起。）"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "哎呀且住！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣一击。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "适才梦见一只黑虎，生有双翅，禽不像禽，兽不像兽，搂抱于我，真真吓死我 也！待我跑到姐姐房去，找她作伴便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣长尖。戚赛玉跑。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "姐姐开门来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚夫人上。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "来了，来了。什么事？"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "哎哟，几乎把妹子给吓死啦！特来找姐姐作伴，真真吓死我了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣一击。戚夫人惊。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "妹妹，这就是你的不是啦。想你我父母早亡，你虽是你姐夫抚养成人，但是如 今年纪长大，也要避些嫌疑才是。幸喜今晚你姐夫到书房安歇去了，倘若在此， 你我的脸面，搁在哪儿去呀！"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "姐姐，并不是妹妹不知世事。只因方才睡着，梦见一只黑虎，飞跃房中，跑来 抱我，吓得我了不得，不得已才来找姐姐你作伴呢！"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "哎哟！这也奇了！我方才也梦见一只黑虎，飞进后堂，正在惊慌，却被你来叩 门惊醒。这也不知是主何吉凶？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "击五鼓。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "啊，天已明了，妹妹，恐怕你姐夫回来，你且回房去吧。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "戚赛玉",
+          "type": "念",
+          "text": "夜做黑虎梦，不知吉和凶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚赛玉下。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "哎呀！想我二人俱做此梦，必有缘故。等老爷到此，请他圆解便是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟上。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "老爷到。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。金节上。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "夫人起床来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子自下场门溜上。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "老爷起床来了。老爷，妾身昨晚梦见黑虎飞进后堂；舍妹也梦见飞虎入帐，将 她扑抱，不知主何吉凶？就请老爷圆解。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "啊，有此奇事！下官昨晚亦梦一黑虎飞进内堂。三人同梦一样，其中必有应兆。 哦呵是了！莫非令妹终身，就应在此人身上么？"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "就是那岳元帅的先行官牛皋。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "怎么着，牛皋？我梦见的是黑虎。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "乃是姓牛名皋。他生得面黑短须。身穿皂袍，分明是个黑虎。我看他人虽卤莽， 后来必定衣紫腰金，倒不如就将令妹婚配与他，也好完了你我一桩心事。但 不知夫人意下如何？"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "妾乃女流，晓得什么，但凭老爷作主是了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "待下官去问他差丁，如若他未曾娶过家室，今日乃黄道吉期，就与令妹完婚便 了。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "但凭老爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金节出堂。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "家院，去叫牛将军的差丁来。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。金节入堂。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "夫人，少时见了姨妹，将此事对她说明，完成终身大事，不可违拗。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "那是自然。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "牛将军的差丁到。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "叫他进来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "差丁上。"
+        },
+        {
+          "character": "差丁",
+          "type": "白",
+          "text": "参见总镇。有何吩咐？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "我来问你：牛将军可曾娶过夫人？"
+        },
+        {
+          "character": "差丁",
+          "type": "白",
+          "text": "这，未曾娶过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金节笑。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "赏你十两银子，回营去吧。"
+        },
+        {
+          "character": "差丁",
+          "type": "白",
+          "text": "这怎么回事？无缘无故赏我十两银子，这倒不错呀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "差丁下。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "这就好了。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "怎么着，他尚无有夫人吗？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "正是。夫人快将下官的新纱帽、红袍预备出来。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "丫鬟，去将老爷的新纱帽、红袍取来。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟取衣帽。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "夫人，预备齐了。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "老爷，新纱帽、红袍预备好了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "家院，快快将这纱帽、红袍送到牛将军营中，不要对他说明。就说本府有大喜 之事，务请牛将军穿戴起来，前来吃杯喜酒。快去。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "丫鬟，唤中军前来。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "有请中军大老爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "来了。参见总镇，有何吩咐？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "命你等赶紧整齐花烛，预备酒筵，悬灯结彩，不得有误。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "夫人，赶紧收拾新人，等那牛将军到来，对他说明此事，就拜天地便了。正是："
+        },
+        {
+          "character": "金节",
+          "type": "念",
+          "text": "忙整花烛宴，"
+        },
+        {
+          "character": "戚夫人",
+          "type": "念",
+          "text": "即晚入洞房。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣打下。金节、戚夫人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小开门〗。中军忙备花烛溜下。院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请大人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。金节上。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "牛将军到。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。牛皋穿红官衣、戴双喜字方翅纱帽、帽插金花上。金节迎入，外场椅落座。吹打住。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "牛将军，本镇迎接有迟，多多恕罪。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "岂敢，岂敢！啊总镇，今日贵府派来家院，与俺牛皋送来红袍、纱帽，说是总 镇请俺吃酒，令俺穿戴。如今来到贵衙，又见这张灯结彩，花烛辉煌。倒不知 是何人完婚？俺牛皋来得慌慌，贺礼也不曾备来，只好后补也就是了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "将军有所不知，下官有一妻妹，文武全才，年方十七，尚未婚配。今见将军英 勇诚实，又在阵前立了大功，下官有意将她许配将军，侍奉箕帚。今逢黄道吉 日，特请将军到来，同结花烛，恕下官冒昧不恭了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "软撕边大锣一击。牛皋慌急。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "哎呀总镇哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "你可知道，身为大将，临阵招亲，军律当斩！今日之事，咱牛皋实在不敢当！ 实在不敢当！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "不必推辞。搀新人，动乐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。戚夫人、丫鬟搀戚赛玉同上。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "这使不得，这使不得！ （牛皋夺步出门，向下场门跳步、一步。〖大锣一击〗。牛皋双手随扔水袖，摆脱金节。冲头。牛皋下。探 子上。）"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！元帅到。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。探子下。"
+        },
+        {
+          "character": "戚夫人",
+          "type": "白",
+          "text": "老爷，新郎跑了，岂不误了妹妹终身大事？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "啊，夫人不必担忧。且候元帅到来，待我详细禀明，这样美满姻缘，元帅必能 成全的。正是："
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣三击。"
+        },
+        {
+          "character": "金节",
+          "type": "念",
+          "text": "天人撮合前生定，"
+        },
+        {
+          "character": "戚夫人",
+          "type": "念",
+          "text": "千里姻缘一线牵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣原场。金节、戚夫人、中军、院子同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。四白龙套、四上手、余化龙、汤怀、岳飞同上。"
+        },
+        {
+          "character": "岳飞",
+          "type": "西皮流水板",
+          "text": "身居元帅统三军，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "岳飞",
+          "type": "西皮流水板",
+          "text": "立志精忠报国恩。 忆昔堂前遵母训， 倥偬戎马岂忘亲！ 番寇传来侵边讯， 催鞭跃马往前奔。 但愿牛皋能得胜，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。众人同绕场，金节、中军同出关迎接。"
+        },
+        {
+          "character": "岳飞",
+          "type": "西皮摇板",
+          "text": "安民保境定乾坤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣住头。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "藕塘关总兵金节，迎接大元帅。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "请起。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岳飞背供。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "软撕边大锣一击。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "怎么不见牛皋来接本帅？难道又是打了败仗不成？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "元帅请！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣原场，长尖。众人同进关，绕场，到衙，入座。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "啊，贵总兵，牛皋先锋此番前来援救藕塘关，胜负如何？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "启禀元帅：牛将军大获胜利。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "哦，大获胜利。他如何的得胜？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "元帅容禀：此番牛先锋兵至关中，卑职设宴款待，牛将军正喝得酩酊大醉。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "哦，是了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "适值番将领兵十万，前来犯关。那个番将，身高力大，十分厉害。牛将军自告 奋勇出战。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "自告奋勇出战。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "来到阵前，扬扬不睬。那番将乃倨傲张狂，嘲笑辱骂，哪把这个酒醉英雄置在 意中！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "那个自然。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "不料牛先锋竟乘其不备，一锏打来，正打在那番将的头上，落马而死。牛将军 枭其首级，大获全胜。此乃是牛先锋之功，大元帅之福也。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "哦，原来如此。牛将军现在哪里？贵总兵为何这等服饰？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "元帅有所不知：只因贱妾戚氏有一胞妹，习得全般武艺，读过经史诗书，年方 十七，尚未适人。昨晚飞虎入梦，乃是吉祥之兆。故卑职即欲将其配与牛先锋， 侍奉箕帚。适逢今日黄道吉期，特备冠服迎接牛将军到衙完婚。不料牛将军 执意不允。因临阵招亲，军律当斩，竟自跑回驿中去了。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "哦，依你讲来，这桩亲事，乃因飞虎入梦，事非偶然？"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "正是。还求元帅玉成其美，得谐秦晋，实为恩便，敬候钧裁。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "如此甚好。贵总兵暂请回去，少时待本帅送他到府成亲就是。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "如此感恩非浅！卑职暂且告辞，预备花烛去了。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "请便。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "告辞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。金节下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "汤将军，命你去将牛将军请来。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。汤怀下。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "众将官听者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "古人云：不孝有三，无后为大。只因这番前往北路去迎二圣，临阵交锋，岂能 保得万全？若得遗留子嗣，也免断绝后根。"
+        },
+        {
+          "character": "余化龙、四上手",
+          "type": "同白",
+          "text": "元帅待下，如同子侄，无微不至，多谢恩意！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "理当如此。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "汤怀扯牛皋同上。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "不要拉拉扯扯，待我换了衣甲，去见元帅。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "就是这样去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "汤怀上堂。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "牛将军来了。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "末将在下，参见元帅。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "哈哈哈哈！请起，请起。恭喜牛将军，贺喜牛将军！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "启禀元帅：末将这番搭救藕塘关，不损一卒，不折一矢，杀了那金邦伪元帅。 这乃是圣上之福，元帅之喜，俺牛皋何喜之有？非俺牛皋之喜，非俺牛皋之喜！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "啊，贤弟，战胜那番邦，固是一喜，为兄所贺之喜是双管齐下，此外还另有一 喜。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "元帅哪里话来？咱牛皋并没有什么可喜之事。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "啊，贤弟，你亦就不必推辞了。适才金总兵对我言道：他夫人有一胞妹，年方 十七，习得全般武艺，读过经史诗书。金总兵有意将她许配于你，特请你前去 完婚，怎么你倒跑了？岂不害了那戚小姐的终身！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "小弟不敢。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "我想夫妇乃是人之大伦，且是飞虎入梦，事非偶然，贤弟你就不必推辞。今日 为兄的，就送你前去成亲便了。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "哎呀元帅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣五击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "身为众将领袖，怎么知法犯法？军律有条：临阵招亲者斩。难道你就忘怀了么？ 不然你就是引诱你小弟走入邪途了。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "哈哈哈哈！好一个遵守纪律的牛将军，不愧栋梁之材！只是贤弟有所不知：本 帅适才已将此条军律免去了，你就放心吧。众位将军护送牛将军去拜花堂，本 帅随后。"
+        },
+        {
+          "character": "汤怀、余化龙",
+          "type": "同白",
+          "text": "是。走哇！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "诸位大哥不要强迫从事，如此真正要难为咱牛皋了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮流水板",
+          "text": "调和麴蘖多加料， 倒罍酣醉破番僚。 须知不饮旁人笑， 梦中飞虎卜英豪。 霎时鸾凤随唱好， 多谢元帅的恩重如山高。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣住头。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "不必推辞，贤弟请！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "大哥请！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "如此，随我来呀，哈哈哈哈！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "是是是，遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋隐笑。大锣原场。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。金节上。"
+        },
+        {
+          "character": "金节",
+          "type": "西皮流水板",
+          "text": "张灯结彩耀辉煌， 鼓乐喧阗惹人忙。 飞虎入梦吉人相， 千金赛玉配牛郎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "禀报大人：元帅送新郎来了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "动乐相迎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。岳飞、牛皋、余化龙、汤怀同上。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "元帅、将军驾到，卑职迎接有迟，尚乞恕罪。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "贵总兵多礼，啊哈哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岳飞坐。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "啊，张灯结彩，银烛辉煌，鼓乐齐鸣，好富丽也！哈哈哈哈！"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "夸奖了！设备匆忙，多有草率，元帅、将军海涵。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "设备既齐，就请汤将军赞礼。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "伏以："
+        },
+        {
+          "character": "汤怀",
+          "type": "念",
+          "text": "天作之合，鸾凤和鸣。织女牛郎星，俱非是凡人。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "动乐搀新人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。戚夫人、丫鬟、搀戚赛玉同上。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "一拜天地，二拜祖宗，新夫妇对拜，拜见元帅。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "免礼，免礼。今日匆匆，改日再当补送拜见礼吧。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "拜见姐夫、姐姐。"
+        },
+        {
+          "character": "金节、戚夫人",
+          "type": "同白",
+          "text": "不敢，不敢！拜见列位将军。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "那可不敢当，不敢当！恭喜恭喜！慢着慢着，我还有两句赞词。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "请讲。"
+        },
+        {
+          "character": "汤怀",
+          "type": "念",
+          "text": "巾帼须眉称良配，酒醉英雄第一功。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "汤将军真正善于辞令。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "夸奖了。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "家院，后堂酒筵可曾齐备？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "俱已齐备。"
+        },
+        {
+          "character": "金节",
+          "type": "白",
+          "text": "请元帅与各位将军后堂饮酒。"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "总镇，你我先送新郎、新妇同入洞房去吧。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "大哥，你不要难为小弟了吧。此番前去的这一阵，却不比藕塘关前那一阵，小 弟我是不惯的，我是不去了的哟哦哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋指手作态。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "牛将军，得啦吧，别要菜啦，走吧！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "我是不走的哟哦哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "汤怀拉牛皋手。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "再磨烦就误了吉时啦，走啊！"
+        },
+        {
+          "character": "岳飞、虞化龙、金节",
+          "type": "同白",
+          "text": "哦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣打下。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小开门〗。二兵、二丫鬟打灯笼同上，岳飞、金节同上，汤怀搀牛皋、戚夫人搀戚赛玉同上。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "别害臊啦，现在是婚姻自由的时候啦，走吧！"
+        },
+        {
+          "character": "岳飞",
+          "type": "白",
+          "text": "贤弟，进去吧。"
+        },
+        {
+          "character": "汤怀",
+          "type": "白",
+          "text": "努力吧，哈哈哈哈！ （岳飞、汤怀同笑下。二丫鬟同关门，金节、戚夫人、二兵、二丫鬟同下。牛皋、戚赛玉同入座，牛皋自斟 自饮。）"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "啊，将军请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋学戚赛玉。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "将军请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋恢复本音。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "啊，娘子请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣三击。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "请问娘子：你为何不住在自己家里，却住在姐丈家中咧？"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "将军有所不知：只因小妾早失父母，又无兄弟，故而寄居姐丈家中，育养成人； 蒙姐丈青眼相加，延师教授，文则读过诗史经书，武则习得刀枪剑戟，如此 恩德高厚，正不知何日得报万一也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣凤点头。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "西皮摇板",
+          "text": "幼年不幸父母亡， 依靠姐姐度日光。 养育恩深如天样， 文才武艺学高强。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "哦！娘子，如此说来，你乃是文武双全，真可算巾帼中之英雄也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮摇板",
+          "text": "常言道虎将门中出虎子， 书香府第出文豪。 武艺高强文事好， 算我牛皋艳福高。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣住头。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "啊娘子，既是武艺高强，我看这洞房之中倒也宽敞，你我就此比拳一番，也好 瞻仰瞻仰。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "呀，如蒙将军不弃，小妾这就献丑了。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "如此好啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "纽丝。"
+        },
+        {
+          "character": "牛皋",
+          "type": "二黄散板",
+          "text": "她言道曾习得全般武艺， 可比那班婕妤堪与名齐。 洞房中今宵里比拳来戏，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "九锤半，阴锣。牛皋、戚赛玉各脱官衣、红帔，较拳，牛皋败。纽丝，大锣双楗凤点头。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "牛皋",
+          "type": "二黄散板",
+          "text": "险些儿翱翔凤把虎来骑！"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "纽丝，大锣双楗凤点头。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "二黄散板",
+          "text": "适才间我与他比拳来戏， 却原来不如我空长须眉。"
+        },
+        {
+          "character": "牛皋",
+          "type": "二黄散板",
+          "text": "看小姐武艺精令人难比， 到来日讨金辽不费吹灰。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "呀，这位小姐，真可算得起千金。来日俺牛皋，征讨金辽之时，也好多一个用 手，这才算是内助也。 啊娘子，适才领教得武艺高强。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "啊将军，你我再比剑一回如何？"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "不用比了，不用比了。你的武艺变幻莫测，真真令人佩服。今晚意欲与娘子畅 饮喜酒，以庆这登科之乐也！"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "小妾奉陪。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "一同把盏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮垛板",
+          "text": "如跃如飞如凤影， 若隐若现若流星。 洞房之中把酒饮， 登科之喜乐吟吟。 牛郎如梦我就方初醒，"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "娘子请！"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "西皮垛板",
+          "text": "将军出言过奉承。 雕虫小技焉足论！ 高强武艺影无形。 努力再求精深进，"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮垛板",
+          "text": "功夫一到自然成。 灭却金辽把二圣请， 全仗小姐显威能。 今宵且把香醪饮，"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮垛板",
+          "text": "几杯聊敬美人心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣住头。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "多谢将军。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "再敬一杯，可能赏脸？"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "敬陪将军。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "啊，哈哈哈！请！哎呀呀，这花烛之夜，应当尽兴欢乐，娘子，待我搀扶，同 入罗帏去吧。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "啊，慢着！我有一言，将军听了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小锣凤点头。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "西皮摇板",
+          "text": "昔日有个苏小妹， 洞房花烛把对联。 我今也学那才女， 题上几句请君联。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣住头。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "娘子叫我对对是与不是？"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "正是对对。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "娘子，不要难为我了吧。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "不如此可就不能如彼啦！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "哎哟哟，如此就请娘子出题。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "啊，待我想来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚赛玉取头花。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "啊啊啊，海棠。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "海棠，啊海棠，对山药。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "海棠花。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "山药蛋。对的好不好？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚赛玉点头。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "辞虽不雅，字却工整。好，好，好！"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "既然是好，就同入罗帏去吧。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "慢着，还得对一句。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "还对一句，也罢，快快讲来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "戚赛玉摸耳环。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "金环。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "宝剑。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "一对金环。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "三尺宝剑。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "红粉佳人。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "黑脸大汉。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "红粉佳人耳坠一对金环。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "黑脸大汉腰悬三尺宝剑。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "白",
+          "text": "妙，妙，妙！不料将军如此高才。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "夸奖了：同入罗帏去吧。正是："
+        },
+        {
+          "character": "牛皋",
+          "type": "念",
+          "text": "今夕登科皆因昨晚飞虎梦，"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "念",
+          "text": "英雄儿女原是前宵梦里人。"
+        },
+        {
+          "character": "牛皋",
+          "type": "白",
+          "text": "娘子啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣双楗凤点头。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "西皮散板",
+          "text": "士为知己者用，"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮散板",
+          "text": "女为知己者容。"
+        },
+        {
+          "character": "戚赛玉",
+          "type": "西皮散板",
+          "text": "儿女英雄熊罴梦，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣双楗凤点头。牛皋、戚赛玉携手同入帏，各以左右手掀帏帘，往外一翻，并肩搭臂。"
+        },
+        {
+          "character": "牛皋",
+          "type": "西皮散板",
+          "text": "今宵好似鸳鸯戏水，其乐融融。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛皋、戚赛玉同落帏帘。冷锤。〖尾声〗。牛皋、戚赛玉同暗下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

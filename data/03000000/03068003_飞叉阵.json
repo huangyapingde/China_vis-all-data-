@@ -1,0 +1,1273 @@
+{
+  "script_id": "03068003",
+  "title": "飞叉阵",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "马援",
+      "hangdang": "老生"
+    },
+    {
+      "name": "马虹",
+      "hangdang": "小生"
+    },
+    {
+      "name": "牛邈",
+      "hangdang": "武净"
+    }
+  ],
+  "plot": "马援父子镇守昆阳。刘秀来攻。马援子马虹降。马援知欲斩。马武等劫去马虹。马援急追，为耿弇等所败，\n亦降刘秀。王莽又命牛邈摆设“飞叉阵”，马援父子破之。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马援上。"
+        },
+        {
+          "character": "马援",
+          "type": "引子",
+          "text": "镇守昆阳，秉忠心，扶保家邦。"
+        },
+        {
+          "character": "马援",
+          "type": "念",
+          "text": "白发苍苍两鬓霜，忠心一片保家邦。父子镇守昆阳地，哪怕贼人反辽江！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军暗上。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "老夫、马援。莽主驾前为臣，奉命镇守昆阳一带等处。可恨妖人刘秀已在白水 村造反。也曾命我儿马虹探听贼人动静。去了日久不见回来。老夫放心不下。 不免请出夫人，一同商议。 来，请夫人出堂！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "请夫人出堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟搀马夫人同上。"
+        },
+        {
+          "character": "马夫人",
+          "type": "念",
+          "text": "夫受皇家爵，妻沾雨露恩。"
+        },
+        {
+          "character": "马夫人",
+          "type": "白",
+          "text": "啊王爷！"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "夫人！请坐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马援、马夫人同坐。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "马夫人",
+          "type": "白",
+          "text": "啊王爷，今日因甚这等烦闷？"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "夫人有所不知，今有妖人刘秀在白水村造反，也曾命马虹探听贼人动静，去了 日久，不见回来。老夫放心不下。"
+        },
+        {
+          "character": "马夫人",
+          "type": "白",
+          "text": "王爷，马虹既探军情，必有好消息回来。王爷何必忧虑！今当王爷寿诞之期， 妾身备得有酒，与王爷上寿。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "有劳夫人，摆下就是。"
+        },
+        {
+          "character": "马援",
+          "type": "唱",
+          "text": "二堂以上饮琼浆， 思想娇儿挂心肠。 我命马虹探贼党， 至今未见转还乡。"
+        },
+        {
+          "character": "马夫人",
+          "type": "白",
+          "text": "王爷呀！"
+        },
+        {
+          "character": "马夫人",
+          "type": "唱",
+          "text": "马虹既探敌贼党， 候儿回来问端详。"
+        },
+        {
+          "character": "马虹",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马虹上。"
+        },
+        {
+          "character": "马虹",
+          "type": "唱",
+          "text": "离了汉营到昆阳， 父母台前问安康。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "爹娘在上，孩儿参拜！"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "告坐。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "儿啊，命你探听妖人刘秀消息，为何去了许久，今日才得回来？"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "啊爹爹，儿奉命探听妖人刘秀消息，中途遇见一个好友，盘桓几日，故尔来迟。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "原来如此。"
+        },
+        {
+          "character": "马夫人",
+          "type": "白",
+          "text": "儿啊，今当你父寿诞之期，还不与你爹爹拜寿！"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "爹爹请上，孩儿拜寿。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "不拜倒也罢了，哈哈哈……"
+        },
+        {
+          "character": "马援",
+          "type": "唱",
+          "text": "一见我儿转还乡， 倒叫老夫喜心肠。 回头我对马虹讲， 将贼虚实说端详。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "父帅呀！"
+        },
+        {
+          "character": "马虹",
+          "type": "唱",
+          "text": "邓禹那里人马广， 特请父帅降汉王。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "啊！我儿言道降什么？"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "你我父子前去降汉。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "好，进前来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马援打马虹。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "好奴才！"
+        },
+        {
+          "character": "马援",
+          "type": "唱",
+          "text": "听一言来怒满膛， 胆大奴才把妖降。 怒气不息出二堂， 管叫奴才一命亡！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马援下。中军下。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "哎呀母亲！我爹爹怒出二堂，如何是好？"
+        },
+        {
+          "character": "马夫人",
+          "type": "白",
+          "text": "我儿前去，为娘随后就到。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马虹下。马夫人、二丫鬟同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、中军同上，同站门。马援上。"
+        },
+        {
+          "character": "马援",
+          "type": "念",
+          "text": "奴才犯将令，定展不容情。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "来，将马虹绑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二龙套绑马虹同上。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "参见父帅！"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "唗！儿在酒席筵前言道降什么？"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "孩儿只是一句戏言。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "唗！"
+        },
+        {
+          "character": "马援",
+          "type": "唱",
+          "text": "骂声奴才好胆量， 竟敢背父把贼降。 人来与爷忙上绑， 斩他首级挂营房！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二龙套同绑马虹上桩。马夫人上。"
+        },
+        {
+          "character": "马夫人",
+          "type": "白",
+          "text": "刀下留人！"
+        },
+        {
+          "character": "马夫人",
+          "type": "唱",
+          "text": "一见马虹上了绑， 倒叫老身心内慌。 迈步且把大堂上， 要斩马虹为哪桩？"
+        },
+        {
+          "character": "马援",
+          "type": "唱",
+          "text": "耳旁听得人声嚷，"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "马援",
+          "type": "唱",
+          "text": "原来是夫人上大堂。 你今不在二堂上， 来在宝帐为哪桩？"
+        },
+        {
+          "character": "马夫人",
+          "type": "白",
+          "text": "老爷呀！"
+        },
+        {
+          "character": "马夫人",
+          "type": "唱",
+          "text": "马虹年小应原谅， 老爷恕他这一场。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "马援",
+          "type": "唱",
+          "text": "夫人把话错来讲， 老夫言来听端详： 你若在此把情讲， 定与奴才一路亡！"
+        },
+        {
+          "character": "马夫人",
+          "type": "唱",
+          "text": "老爷不把马虹放， 倒叫老身无主张。 迈步且把二堂转， 再想良策救儿郎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马夫人下。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "中军听令！命你午时三刻监斩马虹，不得有误！掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马援、中军、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "耿弇上。"
+        },
+        {
+          "character": "耿弇",
+          "type": "引子",
+          "text": "隐住山庄，恨奸佞，扰乱朝纲。"
+        },
+        {
+          "character": "耿弇",
+          "type": "念",
+          "text": "心中恼恨贼王莽，不该谋篡锦家邦。三杯药酒平帝丧，各路诸侯霸一方。"
+        },
+        {
+          "character": "耿弇",
+          "type": "白",
+          "text": "老夫，耿弇，汉室为臣。可恨王莽老贼，三杯药酒害死平帝。各路诸侯，霸占 一方。是老夫退归林下，隐姓埋名。看今日天气清和，不免唤出两个孩儿，去 至郊外捕猎一番。 两个孩儿在哪里？"
+        },
+        {
+          "character": "耿龙、耿虎",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "耿龙、耿虎同上。"
+        },
+        {
+          "character": "耿龙、耿虎",
+          "type": "同念",
+          "text": "父子埋姓名，隐居在山林。"
+        },
+        {
+          "character": "耿龙、耿虎",
+          "type": "同白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "耿弇",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "耿龙、耿虎",
+          "type": "白",
+          "text": "谢坐！啊爹爹，唤孩儿出来，有何训教？"
+        },
+        {
+          "character": "耿弇",
+          "type": "白",
+          "text": "看今日天气清和，你我父子去至郊外，捕猎一番。"
+        },
+        {
+          "character": "耿龙、耿虎",
+          "type": "同白",
+          "text": "孩儿遵命。"
+        },
+        {
+          "character": "耿弇",
+          "type": "白",
+          "text": "好，带马！"
+        },
+        {
+          "character": "耿弇",
+          "type": "唱",
+          "text": "我朝中竟出了奸臣孽党， 篡夺了汉家业锦绣家邦。 虽然我年纪迈胸藏志量， 若遇见汉家后再保家邦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "耿弇、耿龙、耿虎同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": "马武、姚期、岑彭、杜茂",
+          "type": "同内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、姚期、岑彭、杜茂同上。"
+        },
+        {
+          "character": "马武、姚期、岑彭、杜茂",
+          "type": "同唱",
+          "text": "营中领了先生命， 保护马虹要小心。"
+        },
+        {
+          "character": "马武、姚期、岑彭、杜茂",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "马武。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "姚期"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "岑彭"
+        },
+        {
+          "character": "杜茂",
+          "type": "白",
+          "text": "杜茂"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "列位将军请了！"
+        },
+        {
+          "character": "姚期、岑彭、杜茂",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "你我奉了先生之命，保护马虹，就此前往！"
+        },
+        {
+          "character": "姚期、岑彭、杜茂",
+          "type": "同白",
+          "text": "请哪！"
+        },
+        {
+          "character": "马武、姚期、岑彭、杜茂",
+          "type": "同唱",
+          "text": "扬鞭打马朝前进， 不觉来到酒馆门。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "来此已是酒馆，你我沽饮几杯。 酒保！酒保！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "来啦来啦！好愣的爹啊！您是吃酒的吗？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "正是。哪里洁净？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "楼上。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "好。带路！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、姚期、岑彭、杜茂同进门，同上楼。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "您吃什么酒？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "好酒取来。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保向内。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "伙计们，好酒一壶啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下，拿酒上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "酒到。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "唤你再来，去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "马武、姚期、岑彭、杜茂",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、姚期、岑彭、杜茂同饮酒。〖牌子〗。四刀手、中军押马虹同上，过场，同下。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "酒保！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "来啦。什么事情？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "楼下为何这样喧哗？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "今有马元帅要斩他子马虹。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "你怎么讲？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "马元帅要斩他子马虹！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "哇呀呀…… 三位将军，今有马援要斩他子马虹，如何是好？"
+        },
+        {
+          "character": "杜茂",
+          "type": "白",
+          "text": "不必惊慌，你我准备劫夺法场便了！"
+        },
+        {
+          "character": "马武、姚期、岑彭",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、姚期、岑彭、杜茂同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刀手、中军押马虹同上。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "天哪，天！想俺马虹为了汉室天下，今日竟被爹爹斩首，好不瞑目也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、姚期、岑彭、杜茂同冲上。"
+        },
+        {
+          "character": "马武、姚期、岑彭、杜茂",
+          "type": "同白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、姚期、岑彭、杜茂同杀四刀手死。马武、姚期、岑彭、杜茂、马虹同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马援上。"
+        },
+        {
+          "character": "马援",
+          "type": "念",
+          "text": "风摆旌旗动，气吹刁斗寒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "报！汉将劫取法场！"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "抬枪，带马！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军抬枪带马。马援上马，马援、中军同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、姚期、岑彭、杜茂、马虹同上，马援、中军同上，马武、姚期、岑彭、杜茂、马援同起打，中军死。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "使不得！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期、岑彭、杜茂拥马虹同下。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "你老啦，不中用啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武下。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "鞭儿伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马援下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马虹上，马援追上，打，马虹下，马援追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "耿弇、耿龙、耿虎同上。"
+        },
+        {
+          "character": "耿弇",
+          "type": "白",
+          "text": "哪里来的喊杀之声？你我父子登高一望！ （耿弇、耿龙、耿虎同登山。马武、姚期、岑彭、杜茂同上，马援上，马武、姚期、岑彭、杜茂、马援同起 打，马武、姚期、岑彭、杜茂同败下，马援追下。）"
+        },
+        {
+          "character": "耿弇",
+          "type": "白",
+          "text": "哎呀且住！原来马援与汉将争斗起来。两个孩儿抵挡一阵！"
+        },
+        {
+          "character": "耿龙、耿虎",
+          "type": "同白",
+          "text": "遵命！ （耿龙、耿虎同下。马虹上，马援追上，马援、马虹同起打，马虹败下。耿龙、耿虎同上，同接打，耿龙、 耿虎同败下，马援追下。）"
+        },
+        {
+          "character": "耿弇",
+          "type": "白",
+          "text": "哎呀且住！看两个孩儿不能取胜。带老夫亲自出马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "耿弇下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "耿龙、耿虎同上，马援追上，马援、耿龙、耿虎同起打，耿弇上，接打，马援败下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（场设城门。四文堂、四上手、中军、刘秀、邓禹同上，同进城。马武、姚期、岑彭、杜茂、马虹、耿弇、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "耿龙、耿虎同上，同进城，同下，刘秀、邓禹同上城。马援上。）"
+        },
+        {
+          "character": "邓禹",
+          "type": "白",
+          "text": "城下敢是马老将军？"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "唔！你乃何人？"
+        },
+        {
+          "character": "邓禹",
+          "type": "白",
+          "text": "山人邓禹在此。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "唔呵呀！人言邓禹用兵如神，今日一见，果不虚传，纵然战死沙场，也是无用 的了！"
+        },
+        {
+          "character": "邓禹",
+          "type": "白",
+          "text": "老将军！莽主当灭，我主当兴。将军若肯投降归顺，不失封侯之位。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "叫俺归顺，却也不难，将我儿放出城来，老夫方可归降。"
+        },
+        {
+          "character": "邓禹",
+          "type": "白",
+          "text": "这有何难！ 众将官！将马公子放出城来！"
+        },
+        {
+          "character": "马武、姚期、岑彭、杜茂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、姚期、岑彭、杜茂、马虹同出城。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "请父帅归降了吧！"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "儿啊！你既降汉，就该与为父说明，也免得你我父子一场争斗。你来看！为父 白发苍苍，为了你这奴才，如今只落得降汉了哇！"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "父帅归降了吧！"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "为父归降就是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马虹向邓禹。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "我父归降了。"
+        },
+        {
+          "character": "邓禹",
+          "type": "白",
+          "text": "请老将军进城。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "请父帅进城！"
+        },
+        {
+          "character": "马援、马虹、姚期、岑彭、杜茂",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马援、马虹、马武、姚期、岑彭、杜茂同进城，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手、中军、马武、姚期、岑彭、杜茂、耿弇、耿龙、耿虎、刘秀、邓禹同上。马虹上。"
+        },
+        {
+          "character": "马虹",
+          "type": "白",
+          "text": "启禀先生：我父归降，现在辕门候命。"
+        },
+        {
+          "character": "邓禹",
+          "type": "白",
+          "text": "有请老将军！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "有请马老将军！"
+        },
+        {
+          "character": "马援",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马援上。"
+        },
+        {
+          "character": "马援",
+          "type": "念",
+          "text": "弃莽降汉王，还是旧昆阳。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "臣、马援降顺来迟，主公恕罪！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "老将军平身，请坐！"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报！牛邈带领人马夺取昆阳！"
+        },
+        {
+          "character": "邓禹",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "先生，既是牛邈讨战，待我父子先立头功。"
+        },
+        {
+          "character": "邓禹",
+          "type": "白",
+          "text": "且慢！牛邈既然到此，定然困倦，必须定计而行。马老将军即为正帅，耿老将 军即为副帅，满营悬灯结彩，诱敌安歇，然后袭之。"
+        },
+        {
+          "character": "马援、耿弇",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "后面备酒，与众位将军贺功。"
+        },
+        {
+          "character": "邓禹、马援、马武、姚期、岑彭、杜茂、马虹、耿弇、耿龙、耿虎",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": "牛邈",
+          "type": "内白",
+          "text": "巴图噜！催军！"
+        },
+        {
+          "character": "四下手",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖出队子〗。四下手、四番兵引玉美公主、玉花公主、玉容公主、玉貌公主、牛邈同上。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "某、桃花洞主牛邈是也。"
+        },
+        {
+          "character": "玉美公主",
+          "type": "白",
+          "text": "玉美公主是也。"
+        },
+        {
+          "character": "玉花公主",
+          "type": "白",
+          "text": "玉花公主是也。"
+        },
+        {
+          "character": "玉容公主",
+          "type": "白",
+          "text": "玉容公主是也。"
+        },
+        {
+          "character": "玉貌公主",
+          "type": "白",
+          "text": "玉貌公主是也。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "今有光武重整汉室天下。某家乘此机会，带领全军人马前来夺取昆阳。也曾命 探马前去打探，这般时候，未见来报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！汉营之中，悬灯结彩。特来报知。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "玉美公主、玉花公主、玉容公主、玉貌公主",
+          "type": "同白",
+          "text": "大王，何不乘此机会，杀他个措手不及？"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "且慢！我军到此劳倦，息兵三日，摆下飞叉阵，再来鏖战，巴图噜！选一平阳 之地，靠山近水安营扎寨！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。牛邈、玉美公主、玉花公主、玉容公主、玉貌公主同上高台。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "好块平阳之地。操演上来！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵同操演。"
+        },
+        {
+          "character": "牛邈、玉美公主、玉花公主、玉容公主、玉貌公主",
+          "type": "同三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "巴图噜！赏你们羊羔美酒，就地而饮！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "谢大王！ （〖牌子〗。四上手、马武、姚期、岑彭、杜茂、马虹、耿龙、耿虎、马援、耿弇同上，过场，同下。探子 上。）"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！汉营人马前来劫营！"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！ （马武、姚期、岑彭、杜茂同上，同起打，同败下，牛邈追下。四上手同上，四上手、四下手同打八股档， 同下。马虹上，玉美公主、玉花公主、玉容公主、玉貌公主同上，同打连环，玉美公主、玉花公主、玉容公 主、玉貌公主同败下。牛邈上，接打，马虹败下。马援上，接打，牛邈败下，马援追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛邈、玉美公主、玉花公主、玉容公主、玉貌公主、四番兵同上，同进山。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "小心把守山口！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、马武、姚期、岑彭、杜茂、马虹、耿龙、耿虎、马援、耿弇同上。"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "大炮攻山！"
+        },
+        {
+          "character": "马武、姚期、岑彭、杜茂、马虹、耿龙、耿虎、耿弇",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大炮攻山。牛邈、玉美公主、玉花公主、玉容公主、玉貌公主、四番兵同败下。"
+        },
+        {
+          "character": "马武、姚期、岑彭、杜茂、马虹、耿龙、耿虎、耿弇",
+          "type": "同白",
+          "text": "牛邈败走！"
+        },
+        {
+          "character": "马援",
+          "type": "白",
+          "text": "败寇莫追，回复幼主，请！"
+        },
+        {
+          "character": "马武、姚期、岑彭、杜茂、马虹、耿龙、耿虎、耿弇",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

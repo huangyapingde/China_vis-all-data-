@@ -1,0 +1,849 @@
+{
+  "script_id": "01015014",
+  "title": "赵家楼",
+  "alias": [
+    "凤凰岭"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "华云龙",
+      "hangdang": "武生"
+    },
+    {
+      "name": "济颠",
+      "hangdang": "丑"
+    },
+    {
+      "name": "云飞",
+      "hangdang": "武丑"
+    },
+    {
+      "name": "韩秀",
+      "hangdang": "武丑"
+    },
+    {
+      "name": "王通",
+      "hangdang": "净"
+    },
+    {
+      "name": "雷鸣",
+      "hangdang": "武净"
+    },
+    {
+      "name": "陈亮",
+      "hangdang": "武生"
+    },
+    {
+      "name": "赵员外",
+      "hangdang": "老生"
+    },
+    {
+      "name": "赵夫人",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "赵小姐",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "绿林大盗华云龙，绰号飞天鼠，占居凤凰岭，专以抢劫为事。武艺出众，又善毒镖，百发百中。人不敢撄其\n锋，行旅商贾屡受其害。生性好色，抢劫财物之外，事主家妇女鲜有保全者。又有羽党，小白脸云飞，贪花\n浪子韩秀，相助为恶。一日，二人至岭下巡哨，遇济颠僧之首徒王通保镖过岭，意欲拦截其车辆，为王通所\n败。飞报华云龙亲自上前，及晤面，知是素来认识之王通。邀入山寨，置酒款待，一时甚为投机，相与订金\n兰之谱。华云龙之作事不端，王通亦所深悉，因此规劝一番，各取鲜花一朵，系于襟上以为纪念，并相约以\n后只准戴花，不准采花（强盗奸淫妇女谓之采花）。王通之意，欲成全其英雄之名，而免其造孽。所以对天\n立誓，终身不得侵犯。不想华云龙口是心非，自王通去后，遂嘱云飞、韩秀探访美色女子，瞥见赵员外之女\n颇有姿首，遂背约前往，以达其采花之目的，盖赵员外即王通之保镖主人，幸济颠僧能知过去未来，是日预\n料华云龙之必至，且见王通气色不佳，恐受华云龙之暗器，又命雷明、陈亮两徒作为帮手。济颠也不辞辛苦\n亲到赵家，华云龙乃无所施其技，遂成擒焉。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四龙套、云飞、韩秀、华云龙、四英雄同上。〖点绛唇〗。"
+        },
+        {
+          "character": "华云龙",
+          "type": "念",
+          "text": "凤凰岭上俺为尊，个个闻名胆战惊。二目圆睁追性命，毒药银镖压绿林。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "俺，飞天老鼠华云龙，在这凤凰岭上落草为寇，倒也逍遥快乐。只因此地有一 大户人家，他家中有祖传下珍珠凤冠一顶，是我前夜去至他家欲盗此冠，不料 他家中高挂红灯，照得如同白昼，不能下手。是我空手而回，好不烦闷。 来，伺候了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启寨主：山下来了许多车辆。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "云飞、韩秀，二位贤弟，适才报道，山下来了许多车辆，二位贤弟，下山劫掠。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同念",
+          "text": "奉了大哥命，只怕不能行。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "掩门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍推车、四上手、王通同上。"
+        },
+        {
+          "character": "王通",
+          "type": "西皮摇板",
+          "text": "自幼儿逞英雄保镖为首，"
+        },
+        {
+          "character": "王通",
+          "type": "西皮快板",
+          "text": "全仗着折铁刀闯荡九州。 纵有那真好汉武艺高手， 只恐怕难挡我一字甩头。 众好汉你一齐催车走，"
+        },
+        {
+          "character": "王通",
+          "type": "西皮摇板",
+          "text": "急忙忙上山坡莫停留。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "云飞、韩秀、四下手同上。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "留下车辆放尔等过去。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "何方毛贼，敢挡你爷的去路。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "听了！"
+        },
+        {
+          "character": "云飞",
+          "type": "白",
+          "text": "你老爷小白脸云飞。"
+        },
+        {
+          "character": "韩秀",
+          "type": "白",
+          "text": "你老爷贪花浪子韩秀。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "无名小辈，吃我一刀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "云飞、韩秀同倒地。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "英雄饶命！"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "你老爷不斩你这无名之辈，饶尔不死，去吧！"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同念",
+          "text": "山下得活命，死而又复生。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "走呀，上山上去凑胆子去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "云飞、韩秀同下。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "二贼此去，必有为首者前来。 众好汉，车辆转至松林！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、华云龙同上。"
+        },
+        {
+          "character": "华云龙",
+          "type": "念",
+          "text": "云、韩下山林，未见转回程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "云飞、韩秀同上。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "参见大哥。山下来了一大汉，武艺高强，把我们揍回来啦。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "一同前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、王通同上，同比粗。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "我道是谁，原来是王大哥。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "原来是华贤弟。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "王大哥。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "华寨主。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "你我同到山寨一叙。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "正要过山拜望。 众好汉，车辆打至店内，某家去去就来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同下，华云龙拉王通同下，众人同上。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "未知大哥驾到，未曾远迎，当面恕罪。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "备得有酒，与大哥痛饮。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "到此就要叨扰。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "来，排宴看酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。华云龙、王通同饮酒。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "王通有一言，不知当讲不当讲？"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "大哥有何金言，当面请讲。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "王通不才，今日在这凤凰岭上，意欲与华贤弟，各位英雄结为金兰之好，每人 各戴鲜花一朵，戴花不许采花，如若采花，日后死在众人乱刀之下。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "这，小弟遵命。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "看香案伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同拜，各插花。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "华贤弟，请来戴花。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "花来。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "愚兄有事在身，不能久留，等某将车辆镖银交纳，再来过山探望。告辞了。"
+        },
+        {
+          "character": "王通",
+          "type": "西皮摇板",
+          "text": "辞别了贤弟下山林， 插花的事儿要紧记在心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王通下。"
+        },
+        {
+          "character": "华云龙",
+          "type": "西皮摇板",
+          "text": "弟兄山寨来结拜， 好似一母共同胎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华云龙下，众人同随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵员外上。"
+        },
+        {
+          "character": "赵员外",
+          "type": "念",
+          "text": "家财万贯，富有田园。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王通上，车辆随上。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "赵员外，银两解到，请来点验。"
+        },
+        {
+          "character": "赵员外",
+          "type": "白",
+          "text": "推至后面。镖客，后面待茶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王通、赵员外同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雷鸣、陈亮同上。"
+        },
+        {
+          "character": "雷鸣、陈亮",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "雷鸣",
+          "type": "白",
+          "text": "雷鸣。"
+        },
+        {
+          "character": "陈亮",
+          "type": "白",
+          "text": "陈亮。"
+        },
+        {
+          "character": "雷鸣",
+          "type": "白",
+          "text": "请了。前面已是灵隐寺，你我一同去见师傅便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雷鸣、陈亮同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华云龙、云飞、韩秀同上。"
+        },
+        {
+          "character": "华云龙",
+          "type": "西皮摇板",
+          "text": "自从与王通来结拜， 每日里闷恹恹愁眉不开。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "我说大哥，这几天愁眉不展，不知为了何事？"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "二位贤弟有所不知，只因与王通结拜，他道戴花不许采花，故而闷闷不乐。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "话虽如此，要是真有好花，仍然还是得乐且乐。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "倘若被王通知晓，俱有不便。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "如今拜把子就是那么一回事，大哥你也太认真啦。待我二人下山打探，如有绝 色的女子，我来与大哥送信。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "哪里相见？"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "钟楼相见。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "好，要小心了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "济颠上。"
+        },
+        {
+          "character": "济颠",
+          "type": "念",
+          "text": "不念经来不拜忏，终日狗肉蘸烂蒜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王通、雷鸣、陈亮同上。"
+        },
+        {
+          "character": "王通、雷鸣、陈亮",
+          "type": "同白",
+          "text": "参见师傅。"
+        },
+        {
+          "character": "济颠",
+          "type": "白",
+          "text": "你们都来啦，好好，坐下坐下。 我说王通，你的镖车全交清了嘛？"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "俱已交出。"
+        },
+        {
+          "character": "济颠",
+          "type": "白",
+          "text": "你怎么这些日子才回来，道上没有什么劫路的？"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "一路之上，倒也平安。只是路过凤凰岭，遇见华云龙，弟子与他留连几日。"
+        },
+        {
+          "character": "济颠",
+          "type": "白",
+          "text": "那小子是个酒色之徒，你理他作什么？"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "弟子曾与他结为金兰，每人各戴鲜花一朵，戴花不许采花如若采花，日后死在 乱刀之下。"
+        },
+        {
+          "character": "济颠",
+          "type": "白",
+          "text": "只管这么说，狗还能改了吃屎么？哎呀！不好，今日晚上，华云龙就要到赵家 去采花。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "如此，待弟子前去会他。"
+        },
+        {
+          "character": "济颠",
+          "type": "白",
+          "text": "慢着，慢着。看你们这三个人的脸上，全带着晦气，恐怕都要有灾，待师傅同 你们一齐前去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "云飞、韩秀同上。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "你我奉了大哥之命，去打美貌女子，就此前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "云飞、韩秀同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵员外、赵夫人、赵小姐同上。"
+        },
+        {
+          "character": "赵员外",
+          "type": "西皮原板",
+          "text": "祖居在余杭县家财颇有， 享荣华和富贵无虑无忧。"
+        },
+        {
+          "character": "赵小姐",
+          "type": "西皮原板",
+          "text": "一家人在园中闲游饮酒，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "云飞、韩秀同上，桌子下看。"
+        },
+        {
+          "character": "赵小姐",
+          "type": "西皮原板",
+          "text": "一霎时天气暮月上楼头。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵员外、赵夫人、赵小姐同下。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "看此女子十分美貌，不免告于大哥知道便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "云飞、韩秀同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雷鸣、陈亮同上，同起霸。"
+        },
+        {
+          "character": "雷鸣、陈亮",
+          "type": "同斗鹌鹑",
+          "text": "英雄侠义气轩腾， 恨的是奸盗邪淫。 恼强徒背盟失信， 因此上黑夜追寻， 哪怕他明藏暗隐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雷鸣、陈亮同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华云龙上，云飞、韩秀同随上。"
+        },
+        {
+          "character": "云飞、韩秀",
+          "type": "同白",
+          "text": "大哥，赵家小姐甚是美俏。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "好。带路。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华云龙、云飞、韩秀同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雷鸣、陈亮同上，同走边。"
+        },
+        {
+          "character": "雷鸣、陈亮",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "雷鸣",
+          "type": "白",
+          "text": "雷鸣。"
+        },
+        {
+          "character": "陈亮",
+          "type": "白",
+          "text": "陈亮。"
+        },
+        {
+          "character": "雷鸣",
+          "type": "白",
+          "text": "请了。你我奉了师傅之命，赵家楼去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雷鸣、陈亮同拉式，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华云龙、云飞、韩秀同上，同走边。"
+        },
+        {
+          "character": "华云龙、云飞、韩秀",
+          "type": "同唱",
+          "text": "听谯楼更鼓声忙， 抬头见星光明幌。 我这里急走慌忙， 哪怕那墙高万丈。"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "你我越墙而过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华云龙、云飞、韩秀分跳桌子下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（丫鬟持灯引赵小姐同上。〖小开门〗。丫鬟、赵小姐同上楼。华云龙、云飞、韩秀同上，摸黑上楼。雷鸣、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "陈亮同上桌。）"
+        },
+        {
+          "character": "雷鸣、陈亮",
+          "type": "同白",
+          "text": "华云龙可在里面？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华云龙跑下，雷鸣、陈亮同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "济颠上，跑圆场，下。王通、雷鸣、陈亮、华云龙、云飞、韩秀同上，会面。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "我道是谁，原来是华贤弟。到此何事？"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "今有雷鸣、陈亮前来赵家楼采花，被小弟看见，特来拿获。"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "一派胡言。你今采花你可记得插花之事乎？"
+        },
+        {
+          "character": "华云龙",
+          "type": "白",
+          "text": "住了！慢说我无采花，我就是采花，你敢把俺怎么样？"
+        },
+        {
+          "character": "王通",
+          "type": "白",
+          "text": "你休得逞强。看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同起打。华云龙持镖打王通、雷鸣、陈亮，同倒。济颠上，挡华云龙，同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

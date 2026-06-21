@@ -1,0 +1,1258 @@
+{
+  "script_id": "03075001",
+  "title": "磐河战",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "赵云",
+      "hangdang": "武生"
+    },
+    {
+      "name": "公孙瓒",
+      "hangdang": "老生"
+    },
+    {
+      "name": "袁绍",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "袁绍与公孙瓒约定夹攻韩馥，平分冀州。袁绍得其地。公孙瓒命弟往索，为袁绍遣麴义暗杀。公孙瓒兴兵报\n仇。大战于磐河，兵败，被颜良、文丑追击。时赵云在袁绍帐下，因未重用，乃败袁兵，救公孙瓒。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引公孙瓒同上。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "引子",
+          "text": "威镇北壁，为江山，日夜忧戚。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "念",
+          "text": "汉室衰微国运倾，谗臣当道乱朝廷。各路诸侯相争胜，分疆裂土动刀兵。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "本帅，公孙瓒，汉室为臣。可恨董卓专权，诸侯各霸一方。吾与袁绍有约在先： 谁人得了汉室疆土，俱各平分。前者袁绍驰书，约我共攻冀州。本镇正欲发 兵，忽闻冀州刺史韩馥竟将州事让与袁绍，恐是本初诡计。不免命二弟前去， 一来与袁绍平分疆土，二来探听虚实。 来！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "有请二老爷！"
+        },
+        {
+          "character": "文堂甲",
+          "type": "白",
+          "text": "有请二老爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙越上。"
+        },
+        {
+          "character": "公孙越",
+          "type": "念",
+          "text": "胸藏英雄胆，怀搋虎狼心。"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "俺，公孙越。大哥呼唤，进帐参见。 大哥！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "贤弟少礼，请坐！"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "告坐。唤小弟进帐，有何军令？"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "只因袁绍与我有言在先：谁若得了汉室疆土，俱各平分。今袁绍已得冀州。愚 兄欲命贤弟前去，明分疆土，暗探虚实，不知贤弟意下如何？"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "小弟愿往。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "好，听愚兄一令。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "公孙瓒坐帐中忙传令号， 叫一声二贤弟细听根苗： 那袁绍在冀州图谋非小， 一心想篡夺那汉室龙朝。 此一番见本初虚言问好， 暗地里探虚实细心记牢。"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "公孙越",
+          "type": "唱",
+          "text": "在帐中领受了兄长令号， 为江山到冀州去走一遭。 叫人来你与我忙带虎豹，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同上，带马，同下。"
+        },
+        {
+          "character": "公孙越",
+          "type": "唱",
+          "text": "取不了汉疆土誓不回朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙越下。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "见二弟走上了阳关大道， 不由我公孙瓒暗把心操。 众三军各依队齐归营号， 候二弟回营来再做计较。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引袁绍同上。"
+        },
+        {
+          "character": "袁绍",
+          "type": "引子",
+          "text": "占据冀州，怀异谋，要坐龙楼。"
+        },
+        {
+          "character": "袁绍",
+          "type": "念",
+          "text": "旭日东升鼓角鸣，百万儿郎杀气腾。为争江山心用尽，提调诸镇马步兵。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "某，姓袁名绍字本初。可恨董卓专权，诸侯各霸一方。我与公孙瓒有言在先： 不论谁人，得了汉室州郡，平分疆土。今某已得冀州，只恐公孙瓒前来平分， 若是与他平分，某的大事难成；若是不分，难免又动干戈。思想起来，好不为 难也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士上。"
+        },
+        {
+          "character": "军士",
+          "type": "念",
+          "text": "龙虎台前出入，貔貅帐内传宣。"
+        },
+        {
+          "character": "军士",
+          "type": "白",
+          "text": "启爷：今有公孙瓒差公孙越前来求见。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "有这等事！传麴义进帐。"
+        },
+        {
+          "character": "军士",
+          "type": "白",
+          "text": "麴义进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "麴义上。"
+        },
+        {
+          "character": "麴义",
+          "type": "念",
+          "text": "奔走貔貅帐，统带铁甲兵。"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "参见主公！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "罢了！"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "有何军令？"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "命你带领弓箭手，假做董府家将，埋伏三岔路口，候公孙越走过，乱箭射死， 不得有误！"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "得令。 马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同上，带马，麴义、四龙套同下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "有请公孙将军！"
+        },
+        {
+          "character": "军士",
+          "type": "白",
+          "text": "有请公孙将军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙越上。"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "盟主！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "将军请坐！"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "有坐！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "不知将军驾到，未曾远迎，面前恕罪！"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "岂敢！末将来得鲁莽，盟主海涵！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "将军到此，所为何事？"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "末将奉兄长之命，前来分取冀州疆土。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "我与公孙兄原是生死之交，焉有二意？将军回去禀知令兄，某家不失前言就是。"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "将军真乃仁义也！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "后帐摆宴，与将军接风。"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "且慢！公务在身，不敢久停。末将复命去了。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "恕不远送。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙越下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "公孙越呀公孙越！管叫你："
+        },
+        {
+          "character": "袁绍",
+          "type": "念",
+          "text": "明枪容易躲，暗箭最难防！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。四龙套、麴义同上。"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "俺，麴义。今奉袁将军将令，假扮董府家将，带领弓箭手，埋伏三岔路口，候 公孙越到来，乱箭将他射死。 众将官！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "埋伏了！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "麴义、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": "公孙越",
+          "type": "内西皮导板",
+          "text": "昔日楚汉两争强，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌、公孙越同上。"
+        },
+        {
+          "character": "公孙越",
+          "type": "唱",
+          "text": "鸿门设宴害高皇。 霸王不听范增讲， 后来自刎在乌江。 催马来在阳关上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "扫头。四龙套、麴义同上。"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "呔！来的可是公孙越？"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "然也！何处狂徒？通名受死！"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "某奉董府之命，前来取尔首级！"
+        },
+        {
+          "character": "公孙越",
+          "type": "白",
+          "text": "一派胡言，放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙越、麴义同起打。麴义、二旗牌同败下，公孙越、四龙套同追下。麴义、四龙套同上。"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "且住，公孙越来得厉害。等他到来，乱箭齐发！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙越上，麴义放箭，公孙越死。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "公孙越已死。"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "回营交领！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "麴义、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同上。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "哎呀且住！今有袁绍命大将麴义假扮董府家将，埋伏三岔路口，将二老爷乱箭 射死，不免报与大老爷知道便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引公孙瓒同上。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "命二弟分疆土尚无音信， 倒叫我终日里常挂在心。 闷恹恹坐至在二堂内等， 心又惊肉又跳所为何情？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同上。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "启爷：大事不好了！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "今有袁绍命大将麴义假扮董府家将，带领弓箭手埋伏三岔路口，将二老爷乱箭 射死！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "将二老爷乱箭射死！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙瓒气晕。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "老爷醒来！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "听说二弟命丧了， 二弟呀！ 点点珠泪往下抛。 手指河北骂袁绍， 苦害我二弟为哪条？ 回头便把三军叫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同上。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "本镇言来听根苗： 我今领兵把仇报， 尔等可愿马后劳？"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "我等愿往！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "好啊！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "就此与爷传令号， 翻江搅海战一遭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严纲上，起霸。"
+        },
+        {
+          "character": "严纲",
+          "type": "念",
+          "text": "少小读春秋，杀气神鬼愁。炮响如雷吼，奉命统貔貅。"
+        },
+        {
+          "character": "严纲",
+          "type": "白",
+          "text": "俺，严纲。只因二老爷前去分取疆土，被袁绍用计害死。俺家元帅大怒，今日 整顿兵马，与二老爷报仇，命俺全身披挂，辕门伺候。远远望见元帅来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手、公孙瓒同上。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "念",
+          "text": "为报冤仇恨，日夜苦劳心。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "本帅，公孙瓒。今日兴兵与二弟报仇。 严纲听令！"
+        },
+        {
+          "character": "严纲",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "攻打头阵！"
+        },
+        {
+          "character": "严纲",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严纲、四上手同下。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "二弟呀二弟！愚兄兴兵与你报仇，但愿你灵魂在暗地呵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急三枪〗。公孙瓒持枪起舞。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "保佑！ 杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙瓒、四文堂同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖长锤〗。四龙套、袁绍同上。"
+        },
+        {
+          "character": "袁绍",
+          "type": "唱",
+          "text": "四面设下龙虎阵， 要使公孙一命倾。 迈步且把宝帐进， 且听探马报军情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启爷：今有公孙瓒要与公孙越报仇，带领人马前来攻打冀州。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "噢，有这等事！吩咐颜良、文丑、麴义、赵云全身披挂，辕门听点。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袁绍下。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "元帅有令：颜良、文丑、麴义、赵云全身披挂，辕门听点。"
+        },
+        {
+          "character": "颜良、文丑、麴义、赵云",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良上，起霸。"
+        },
+        {
+          "character": "颜良",
+          "type": "念",
+          "text": "大将威名震四方，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文丑上，起霸。"
+        },
+        {
+          "character": "文丑",
+          "type": "念",
+          "text": "英雄血战在沙场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "麴义上，起霸。"
+        },
+        {
+          "character": "麴义",
+          "type": "念",
+          "text": "辕门点动兵和将，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云上，起霸。"
+        },
+        {
+          "character": "赵云",
+          "type": "念",
+          "text": "斩将擒王把名扬。"
+        },
+        {
+          "character": "颜良、文丑、麴义、赵云",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "颜良。"
+        },
+        {
+          "character": "文丑",
+          "type": "白",
+          "text": "文丑。"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "麴义。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "赵云。"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "众位将军请了！"
+        },
+        {
+          "character": "文丑、麴义、赵云",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "颜良",
+          "type": "白",
+          "text": "主帅升帐，两厢伺候！"
+        },
+        {
+          "character": "文丑、麴义、赵云",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手引袁绍同上。〖点绛唇〗。"
+        },
+        {
+          "character": "袁绍",
+          "type": "念",
+          "text": "将台属吾尊，旌旗飘辕门。一战在北地，定把公孙擒。"
+        },
+        {
+          "character": "颜良、文丑、麴义、赵云",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "站立两厢！"
+        },
+        {
+          "character": "颜良、文丑、麴义、赵云",
+          "type": "同白",
+          "text": "谢元帅！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "某，袁绍。可恨公孙瓒带领人马，前来攻打冀州。为此整顿人马，与他对敌。 麴义听令！"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "攻打头阵！"
+        },
+        {
+          "character": "麴义",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "麴义下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "颜良、文丑听令！"
+        },
+        {
+          "character": "颜良、文丑",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "二队截杀！"
+        },
+        {
+          "character": "颜良、文丑",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "颜良、文丑同下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "且住！今日出兵，非比寻常，待某亲自出马。 众将官，起兵前往！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "赵云为何阻令？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "主帅呀，俺赵云幼学孙吴，颇晓兵法，自投帐下，并无寸功。今日抵挡公孙瓒， 满营将官，俱有差遣；独把赵云一字不提，是何理也？"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "不是喏！那公孙瓒乃将中魁首。将军年幼，你若出兵，焉是他的对手？岂不失 了军中锐气？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "主帅，你好小量俺也！"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "战国时伍子胥年纪幼小， 保平王赴临潼独显英豪。 俺本是擎天柱忠心可表， 要学那盟辅将万载名标。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "也罢！念你有此一点护国之心，赐你五百短刀手，随在后队，听候调用。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "你那五百人马，俺也不要。待俺赵云匹马单枪，生擒公孙瓒入帐。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "住了！本帅用兵，神鬼难测，你敢在帐中絮絮叨叨！不念用兵之时，定要将你 斩首！ 来，将他叉出帐去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云洒。"
+        },
+        {
+          "character": "赵云",
+          "type": "念",
+          "text": "暂息心头之恨，且自忍气吞声。"
+        },
+        {
+          "character": "赵云",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "众将官！起兵前往！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、麴义同上。四上手、严纲同上，会阵，同起打。麴义败。文丑上，枪挑严纲死。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云上。"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "适才帐中把令讨， 赶出不用恨怎消？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "唉！想俺赵云在帐中讨令，那袁绍目不识人，将俺赶出帐外。既不重用，俺只 好另投别路。苍天哪，苍天！困煞俺英雄也！"
+        },
+        {
+          "character": "赵云",
+          "type": "唱",
+          "text": "老天无故困英雄， 浅水怎能养蛟龙？ 有朝一日春雷动， 大鹏展翅上苍穹。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手引公孙瓒同上。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "严纲落马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四龙套、四下手、颜良、文丑、麴义引袁绍同上。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "见贼不由怒气冲， 大骂袁绍狗奸雄。 我命二弟把信送， 乱箭攒身为哪宗？ 尔为盟主有何用？ 不杀尔首气难平！"
+        },
+        {
+          "character": "袁绍",
+          "type": "唱",
+          "text": "战鼓不住响咚咚， 阵前交锋逞英雄。 劝你收兵休妄动， 免得尸横血染红。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "你好比人面兽心种，"
+        },
+        {
+          "character": "袁绍",
+          "type": "唱",
+          "text": "你好似鹊鸟遇弹弓。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "大小三军一起拥！"
+        },
+        {
+          "character": "袁绍",
+          "type": "唱",
+          "text": "要将贼子一扫空！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙瓒、袁绍同起打。袁绍败下。颜良、文丑同接杀，公孙瓒败下，颜良、文丑同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "冲头。赵云上。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "且住！哪里人马呐喊？下马登高一望。 （赵云登高。公孙瓒败上，颜良追上，挑公孙瓒盔。文丑上，同杀。公孙瓒断枪，公孙瓒败下。颜良、文丑 同追下。）"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "且住！看前面败的公孙瓒，后面追的颜良、文丑。此时不救，等待何时？ 呔！颜良、文丑，休得逞强，赵云来也！ （赵云上马，追下。公孙瓒败上，颜良、文丑同追上，同打，公孙瓒掷枪、落马、上高。赵云冲上，杀，颜 良、文丑同败下，赵云追下。）"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "好险哪！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "唱",
+          "text": "老夫性命去八九， 险些沙场一命休。 从空降下擎天手， 保住老夫项上头。 这员小将年纪幼， 手使银枪似龙游。 且等他勒马回头和袁绍斗， 问他姓名好把恩酬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "麴义上，赵云上，刺死麴义。颜良、文丑同上，同杀，颜良、文丑同败下。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "将军请转！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "唤俺转来作甚？"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "请问将军尊姓大名，为何舍死来救？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "俺姓赵名云字子龙，在袁绍帐下为将，被他赶出不用。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙瓒背供。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "呜呼呀！袁绍若重用此人，我命休矣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙瓒对赵云。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "赵将军，看袁绍人马，犹如潮水一般，如何是好？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "将军不必惊慌。你看我勒转马头，与那厮决一死战！"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。公孙瓒自赞赵云英勇，拉马，打马，上马，抛枪。"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公孙瓒下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四龙套、四下手、颜良、文丑、袁绍同上。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "赵云讨战！"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "二位将军，赵云讨战，杀呀！"
+        },
+        {
+          "character": "颜良、文丑",
+          "type": "同白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引颜良、文丑同下。赵云上。"
+        },
+        {
+          "character": "袁绍",
+          "type": "白",
+          "text": "呔！赵云，尔敢是造反？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "前来取尔狗命！ （赵云杀，袁绍败下。颜良、文丑同上，同杀。袁绍上，架住。公孙瓒执枪暗上，杀，袁绍、颜良、文丑同 败下。）"
+        },
+        {
+          "character": "公孙瓒",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。公孙瓒、赵云同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

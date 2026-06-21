@@ -1,0 +1,3047 @@
+{
+  "script_id": "03028001",
+  "title": "潞安州",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "陆登",
+      "hangdang": "老生"
+    },
+    {
+      "name": "金兀术",
+      "hangdang": "净"
+    },
+    {
+      "name": "韩世忠",
+      "hangdang": "老生"
+    },
+    {
+      "name": "梁红玉",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "金兀术举兵侵宋，围困潞安州。该州总镇陆登苦战严守，乞援两狼关韩世忠。韩世忠应援遣差，被金邦军师\n哈迷蚩所获，问明底细，并假扮韩差进城。事为陆登看破，割鼻放之。金兀术大怒，攻破水西门。陆登夫妇\n为国自尽，陆登立尸不倒。金兀术敬拜，厚礼安葬，并将陆子陆文龙送回金国抚养。旋进兵两狼关，韩世忠\n败退。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八达子、二番儿、四朝官、乌骨达同上。〖点绛唇〗"
+        },
+        {
+          "character": "乌骨达",
+          "type": "念",
+          "text": "为夺宋室起雄兵，每日操演不消停。黄龙府内祥光瑞，孤坐江山享太平。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "孤，大金国王金眼乌骨达。所生五个孩儿，长子粘罕，勇冠三军，压服三川六 国蒙旗听孤指挥。是我父子每日操演人马，一心要夺宋室江山。也曾命军师去 往宋邦联络内应，探看虚实，已去日久，未见回报。看今日天气晴和，不免去 往校场操演一番。 番儿们！"
+        },
+        {
+          "character": "番儿甲",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "吩咐下去，校场操演！"
+        },
+        {
+          "character": "番儿甲",
+          "type": "白",
+          "text": "喳！ 下面听者：大王有旨，校场操演哪！"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "内白",
+          "text": "军师还朝，有本启奏。"
+        },
+        {
+          "character": "番儿甲",
+          "type": "白",
+          "text": "候着。 启大王：军师还朝。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "宣他上殿。"
+        },
+        {
+          "character": "番儿甲",
+          "type": "白",
+          "text": "大王有旨：军师上殿哪！"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩上。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "念",
+          "text": "忙将宋邦事，奏与大王知。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "臣，哈迷蚩见驾，大王千岁！"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "卿家平身。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "赐坐。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "卿往宋邦，整整一载，可有什么好消息？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "臣与大王贺喜！"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "喜从何来？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "只因宋王天子专心好佛念经，不理朝政。文武大臣俱无卫国政策。大王兴师， 一战成功，宋室江山唾手可得。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乌骨达笑。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "卿家真乃社稷之臣也。 番儿的，传孤旨意，点动全国兵马，孤亲征宋邦！"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "且慢！大王不可亲征，臣有计献上。我国军校场现有镇国铁龙，不论皇亲国戚、 军民人等，力大艺高，挂为元帅，夺取宋室，以服众心。大王意下如何？"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "卿家之言，正合孤意。 番儿的，吩咐下去，不论皇亲国戚、军民人等，俱下军校场举龙挂帅，征战宋 邦！"
+        },
+        {
+          "character": "八达子、二番儿、四朝官",
+          "type": "同白",
+          "text": "噢！"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "卿家随孤前往！"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "乌骨达",
+          "type": "唱",
+          "text": "卿家可算忠义广， 保定孤王镇家邦。 人来带过马丝僵， 去到校场看端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "黑风力",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、土须龙、土须虎、金光德兆、金光普兆、黑风力同上。"
+        },
+        {
+          "character": "黑风力",
+          "type": "念",
+          "text": "生在番邦面雄壮，全凭膂力战疆场。"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "某，黑风力。"
+        },
+        {
+          "character": "土须龙",
+          "type": "白",
+          "text": "土须龙。"
+        },
+        {
+          "character": "土须虎",
+          "type": "白",
+          "text": "土须虎。"
+        },
+        {
+          "character": "金光德兆",
+          "type": "白",
+          "text": "金光德兆。"
+        },
+        {
+          "character": "金光普兆",
+          "type": "白",
+          "text": "金光普兆。"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "列位平章请了！"
+        },
+        {
+          "character": "土须龙、土须虎、金光德兆、金光普兆",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "今有老王传下旨意，举龙挂帅。你我去到校场，夺取帅印，就此马上加鞭！"
+        },
+        {
+          "character": "黑风力",
+          "type": "唱",
+          "text": "大家催马往前行， 夺取帅印举铁龙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八达子、粘罕同上。"
+        },
+        {
+          "character": "粘罕",
+          "type": "唱",
+          "text": "父王旨意举铁龙， 挂帅扫宋建奇功。"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "某，大太子粘罕。今有我父传下旨意，举龙挂帅。 巴图鲁，校场去者！"
+        },
+        {
+          "character": "粘罕",
+          "type": "唱",
+          "text": "人来带路校场进， 看看谁能把宋平！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八达子、粘罕同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "米罕、答罕、喇罕同上。"
+        },
+        {
+          "character": "答罕",
+          "type": "唱",
+          "text": "父王金殿传旨意， 去到校场论高低。"
+        },
+        {
+          "character": "答罕、喇罕、米罕",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "答罕",
+          "type": "白",
+          "text": "二太子答罕。"
+        },
+        {
+          "character": "喇罕",
+          "type": "白",
+          "text": "三太子喇罕。"
+        },
+        {
+          "character": "米罕",
+          "type": "白",
+          "text": "五太子米罕。"
+        },
+        {
+          "character": "答罕",
+          "type": "白",
+          "text": "哎呀，我的御弟！"
+        },
+        {
+          "character": "喇罕、米罕",
+          "type": "同白",
+          "text": "怎么着，皇兄？"
+        },
+        {
+          "character": "答罕",
+          "type": "白",
+          "text": "今有父王传下旨意，我要到校场举龙挂帅！"
+        },
+        {
+          "character": "喇罕",
+          "type": "白",
+          "text": "怎么着，你要举龙挂帅去？"
+        },
+        {
+          "character": "米罕",
+          "type": "白",
+          "text": "我瞧你呀，不配！"
+        },
+        {
+          "character": "答罕",
+          "type": "白",
+          "text": "你配吗？"
+        },
+        {
+          "character": "米罕",
+          "type": "白",
+          "text": "我今年才多大呀？"
+        },
+        {
+          "character": "喇罕",
+          "type": "白",
+          "text": "得啦。咱们三个人瞧瞧热闹去吧！"
+        },
+        {
+          "character": "答罕",
+          "type": "白",
+          "text": "说得有理，走哇！"
+        },
+        {
+          "character": "米罕",
+          "type": "唱",
+          "text": "心中有志力不及， 去到校场看端的。 三人同把校场进， 只怕不如一个鸡！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "米罕、答罕、喇罕同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八达子、二番儿、哈迷蚩、乌骨达同上。"
+        },
+        {
+          "character": "八达子、二番儿",
+          "type": "同白",
+          "text": "来到校场。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "传孤旨意，举龙上来！"
+        },
+        {
+          "character": "番儿甲",
+          "type": "白",
+          "text": "喳！ 大王有旨，举龙上来呀！"
+        },
+        {
+          "character": "黑风力、土须龙、土须虎、金光德兆、金光普兆",
+          "type": "内同白",
+          "text": "俺来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黑风力、土须龙、土须虎、金光德兆、金光普兆同上。"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "列位平章，大家举来！"
+        },
+        {
+          "character": "土须龙、土须虎、金光德兆、金光普兆",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黑风力、土须龙、土须虎、金光德兆、金光普兆同举龙，同举不动，同下。"
+        },
+        {
+          "character": "粘罕",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "粘罕上。"
+        },
+        {
+          "character": "粘罕",
+          "type": "唱",
+          "text": "忽听父王令传下， 不由某家怒气发。 三川六国威名大， 举动铁龙取中华。 来在校场我就下了马， 只见铁龙在土内扎。 两臂用尽千斤力，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "粘罕举。"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": "粘罕",
+          "type": "唱",
+          "text": "反被旁人耻笑咱。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "粘罕下。"
+        },
+        {
+          "character": "答罕、喇罕、米罕",
+          "type": "内同白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "答罕、喇罕、米罕同上。"
+        },
+        {
+          "character": "答罕",
+          "type": "唱",
+          "text": "来在了校场把马下， 又只见铁龙土内扎。 镇国之宝谁能拔？ 要夺帅印举动它。 走向前来我搬搬铁龙的胯，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "答罕搬。"
+        },
+        {
+          "character": "答罕",
+          "type": "白",
+          "text": "哎哟！"
+        },
+        {
+          "character": "喇罕",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "答罕",
+          "type": "唱",
+          "text": "愚兄的气力实不佳！"
+        },
+        {
+          "character": "喇罕",
+          "type": "白",
+          "text": "二哥！"
+        },
+        {
+          "character": "喇罕",
+          "type": "唱",
+          "text": "非是小弟说大话， 你的气力本不佳。 走向前来我搬一下，"
+        },
+        {
+          "character": "喇罕",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "米罕",
+          "type": "白",
+          "text": "三哥，怎么样了？"
+        },
+        {
+          "character": "喇罕",
+          "type": "白",
+          "text": "二哥、老五，你们帮助我点儿，一个人是死的，俩人是活的，咱们大家来。哎 哟！"
+        },
+        {
+          "character": "喇罕",
+          "type": "唱",
+          "text": "闪腰岔气扭了我的“哈拉扒”。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "答罕、喇罕、米罕同下。"
+        },
+        {
+          "character": "金兀术",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兀术上。"
+        },
+        {
+          "character": "金兀术",
+          "type": "唱",
+          "text": "昔日里伍子胥名夫上将， 保定了君侯楚平王。 到后来君臣二人把仗打， 只杀得吴国家败人亡无处藏。 临潼会上曾举鼎， 压服各国把名扬！ 撩衣且把校场闯， 见了父王问安康。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "儿臣见驾，父王千岁！"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "谢父王！"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "我儿到此为了何事？"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "儿臣要举那铁龙。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "儿啊，你大哥尚且不能举起，我儿年幼不举也罢。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "父王休道孩儿年幼，想这铁龙，虽然沉重，儿臣定要将它举起。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乌骨达笑。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "白",
+          "text": "好！我儿举来，为父观看。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "金兀术",
+          "type": "唱",
+          "text": "一心要把宋邦扫， 校场举龙论低高。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兀术举龙。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "金兀术",
+          "type": "唱",
+          "text": "两膀用力威风抖， 举龙方见是英豪！"
+        },
+        {
+          "character": "乌骨达",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "乌骨达",
+          "type": "唱",
+          "text": "皇儿举龙校场上， 倒叫孤王喜洋洋。 番儿带路银安往， 叫声我儿听端详： 元帅大印你执掌， 外加一字昌平王。"
+        },
+        {
+          "character": "金兀术",
+          "type": "唱",
+          "text": "谢过父王儿遵命， 扫宋我是第一人。 此番领兵把宋邦进， 管叫他众三军失魄丧魂。 杀得儿郎无投奔， 方显得我国威风把宋平。 怀抱印信我就下龙庭， 青史名标万古留存。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兀术下。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "唱",
+          "text": "军师近前听旨降， 保定我儿上疆场。 此番领兵扫宋往， 封你一字开平王。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "唱",
+          "text": "谢过老王恩德广， 保定太子到宋邦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩下。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "唱",
+          "text": "番儿近前听旨降， 命你四路去催粮。"
+        },
+        {
+          "character": "番儿甲",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "番儿甲",
+          "type": "唱",
+          "text": "殿前奉了老王命， 急忙四路去催粮。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "番儿甲下。"
+        },
+        {
+          "character": "乌骨达",
+          "type": "唱",
+          "text": "大事俱已安排当， 再出旨谕晓各邦。 人来与我回宫往， 旗开得胜报吉祥。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆登上。"
+        },
+        {
+          "character": "陆登",
+          "type": "引子",
+          "text": "身受皇恩，秉忠心，保主乾坤。"
+        },
+        {
+          "character": "陆登",
+          "type": "念",
+          "text": "今奉圣命镇潞安，忠心与主扫狼烟。将士纷纷刀兵乱，不知何日凯歌还！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子暗上。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "本镇，姓陆名登字子仪。宋室为臣。奉命镇守潞安州一带，倒也安宁。只因夫 人产生一子，未满百日，今乃八月中秋，不免请出夫人畅饮一番。 来，有请夫人出堂！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请夫人出堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫人上。"
+        },
+        {
+          "character": "夫人",
+          "type": "引子",
+          "text": "雨露均沾，皇恩荡，国泰民安。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "夫人到了，请坐。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "将妾身唤出，有何事议？"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "今乃八月中秋，请出夫人畅饮几杯。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "妾身奉陪。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "看酒！"
+        },
+        {
+          "character": "陆登",
+          "type": "唱",
+          "text": "夫妻们对坐把酒饮， 再与夫人说分明： 此子生来好相品， 他就是陆门后代根。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "夫人",
+          "type": "唱",
+          "text": "老爷为国秉忠正， 妾身言来听分明： 天赐麒麟加吉庆， 父子相继沐皇恩。"
+        },
+        {
+          "character": "陆登",
+          "type": "唱",
+          "text": "夫人把话一番论， 镇守潞安统雄兵。 番奴闻名不敢进， 为国哪有闲散心？ 耳边听得金声震， 不知何处有军情？"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "来，问问何人传点？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "何人传点？"
+        },
+        {
+          "character": "中军",
+          "type": "内白",
+          "text": "中军传点。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "候着。 启老爷：中军传点。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "夫人请至后面。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫人下。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "来，传中军进见！"
+        },
+        {
+          "character": "中军",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "参见老爷，大事不好了！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "金兀术带领人马，攻打潞安来了。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "噢！兀术带领人马，攻打潞安来了？哎呀且住！我想潞安州兵微将寡，这便如 何是好？哦呵有了，待我修书一封，下到两狼关韩元帅那里搬兵求救。 家院，溶墨伺候！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "陆登",
+          "type": "念",
+          "text": "番奴纵有千员将，难逃本帅掌握中！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆登下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黑风力上，起霸。"
+        },
+        {
+          "character": "黑风力",
+          "type": "念",
+          "text": "威风凛凛貌堂堂，全凭枪马战疆场。我今奉了太子命，南渡黄河跨长江。"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "某，黑风力。奉了元帅将令，齐聚人马，听候调遣。远远望见元帅来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四下手、八小达、四大达、哈迷蚩、金兀术同上。"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "站下！"
+        },
+        {
+          "character": "金兀术",
+          "type": "念",
+          "text": "膂力似金钢，三军赛虎狼。要夺华世界，领兵灭宋王！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "孤，大金邦四太子、昌平王、扫宋大元帅，御讳完颜宗弼、皇号兀术。奉了老 王之命，扫灭宋室。 黑风力！"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "人马可齐？"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "俱已齐备。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "起兵前往！"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "巴图鲁！起兵前往！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。黑风力、四下手、八小达、四大达、哈迷蚩、金兀术同领圆场，同站斜门。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "前道为何不行？"
+        },
+        {
+          "character": "黑风力、四下手、八小达、四大达",
+          "type": "同白",
+          "text": "来此潞安州地界。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "人马列开。 先生，潞安州何人把守？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "乃是陆登把守。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "是忠是奸？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "乃是大大的忠臣。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "巴图鲁，绕城而过！"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "且慢！元帅取了此城，一为根据之地；二来劝那陆登归降，岂不两全其美？"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "好！就命后队压粮，待孤前往。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩下。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "巴图鲁，城下去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黑风力、四下手、八小达、四大达、金兀术同走圆场。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "前去叫城！"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "呔！城上儿郎听者：今有金邦大元帅叫你家元帅出城答话！"
+        },
+        {
+          "character": "中军",
+          "type": "内白",
+          "text": "候着！ 有请元帅出城答话！"
+        },
+        {
+          "character": "陆登",
+          "type": "内白",
+          "text": "开关哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手、四将、大马童、陆登同上。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "呔！马前来的敢是兀术？"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "然！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "兀术，我朝有何亏负尔等，无故兴兵犯界，是何道理？"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "陆元帅，想你朝奸多忠少，权臣当道。依孤相劝，归降孤家，不失封侯之位。 你要再思呀再想！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "一派胡言，听爷道来！"
+        },
+        {
+          "character": "陆登",
+          "type": "唱",
+          "text": "勒马停蹄把话讲， 叫声兀术听端详： 我主洪福齐天降， 全凭文武保家邦。 劝你早早收兵将， 归降二字枉费心肠。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "金兀术",
+          "type": "唱",
+          "text": "陆登说话欠思量， 一旅之师怎挡孤王？"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "陆登",
+          "type": "唱",
+          "text": "兀术说话太猖狂， 为将焉事二主王？ 劝你休要胡乱讲， 斩尔人头挂营房！ （陆登、金兀术同起打。黑风力、四下手、八小达、四大达、四文堂、四上手、四将、大马童同钻烟筒下， 金兀术、陆登同打。陆登败下。黑风力、四下手、八小达、四大达自两边分上。）"
+        },
+        {
+          "character": "黑风力、四下手、八小达、四大达",
+          "type": "同白",
+          "text": "陆登败退！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "追！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四文堂、四上手、四将、大马童、陆登同上，同败进城，同下。黑风力、四下手、八小达、四大达、金兀"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "术同上。潞安城上摇旗。）"
+        },
+        {
+          "character": "金兀术",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈……"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "巴图鲁，团团围住！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": "赵德胜",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵德胜上。"
+        },
+        {
+          "character": "赵德胜",
+          "type": "唱",
+          "text": "帐中奉了元帅命， 潞安下书走一程。"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "俺，赵德胜。奉了韩元帅之命，去往潞安州下书，就此马上加鞭！"
+        },
+        {
+          "character": "赵德胜",
+          "type": "唱",
+          "text": "催马加鞭往前进， 耳旁听得万马声。 急忙松林来藏隐，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖扫头〗。黑风力、四下手、八小达、四大达、哈迷蚩、金兀术同上。赵德胜被擒。"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "拿住奸细。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "绑上来。 唗！胆大奸细，说了真情实话，饶你不死！"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "哎呀狼主啊！我乃潞安州的老百姓，不晓得什么奸细，求狼主饶命哪！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "既然如此，放他去吧！"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "多谢狼主！"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "啊狼主，慢来慢来！为何放他走去？"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "他乃是老百姓，放他一条活命去吧。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "总要搜他一搜！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "好！ 巴图鲁，将他搜来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同搜赵德胜。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "并无夹带。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "啊！你叫什么名字？"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "我叫赵德胜。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "近前来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩打赵德胜帽，四下手同拾蜡丸。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "有一蜡丸。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "啊狼主，你看如何？"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "蜡丸何用？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "他们捎书带信，全凭蜡丸。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "待孤看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兀术看信，念。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "忠字启呈公文一件。“潞安州总镇陆大老爷麾下：两狼总镇韩，特命赵德胜通 知，令请救兵，约定九月初一日，两家出兵，前后夹击，可除番奴。特此通告。 弟韩世忠顿首拜。”哇呀呀…… 来，斩！"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "且慢！留他活口，我自有妙计。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "但凭军师。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "来，将他押到我营！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "喳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手押赵德胜同下。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "巴图鲁，就在此地安营扎寨！"
+        },
+        {
+          "character": "八小达、四大达",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手押赵德胜同上，哈迷蚩上。四下手同暗下。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "待我与你松绑。"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "多谢军师！"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "起来，起来。赵德胜，我且问你：久在宋营，新入宋营？"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "久在宋营。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "你家韩元帅什么出身？"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "乃是更夫出身。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "因何得了两狼总镇？"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "只因当年大战郭药师，屡建战功，升任两狼总镇。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "夫人呢？"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "梁氏红玉。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "什么出身？"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "乃是娼妓出身。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "所生几位令郎？"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "两位公子。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "长子？"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "彦直。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "次子？"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "尚德。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "哎呀且住！大功已成，不免打发他回去便了。 赵德胜近前来！"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "做什么？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "你将衣服脱下来，换上我国衣服！"
+        },
+        {
+          "character": "赵德胜",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵德胜脱衣。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩杀赵德胜。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "他今已死，待我换了他的衣服。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩换衣。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "看月色朦胧，就此往潞安州城内探看虚实便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": "陆登",
+          "type": "内二黄导板",
+          "text": "我陆登保宋君忠心秉正，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌引陆登同上。"
+        },
+        {
+          "character": "陆登",
+          "type": "二黄回龙腔",
+          "text": "为国家，秉忠心，食君禄，报王恩，紧守大营。"
+        },
+        {
+          "character": "陆登",
+          "type": "二黄原板",
+          "text": "昨日里与金兵交锋对阵， 战不过金邦贼兵败入城。 都只为番兵将将城围困， 为国家我只得昼夜查巡。 叫人来掌红灯把城楼来奔，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆登、二旗牌同上城。"
+        },
+        {
+          "character": "陆登",
+          "type": "二黄原板",
+          "text": "站城楼想良策——"
+        },
+        {
+          "character": "陆登",
+          "type": "二黄散板",
+          "text": "好退贼兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩上。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "唱",
+          "text": "催马加鞭朝前进， 不觉来在潞安城。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "来此已是，待我叫城。 呔，开城！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "何人叫城？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "韩元帅差人前来下书，快快开城！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "既是韩元帅差人下书，为何白日不来，夜晚到此？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "元帅，白日行走，惧怕金兵，故而夜晚前来叫城。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "好。将他系上城来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同应，同系哈迷蚩上城，二旗牌、哈迷蚩、陆登同下。二旗牌、哈迷蚩、陆登同上。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "谢元帅！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "你叫什么名字？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "小人名叫赵德胜。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "噢，赵德胜？你是久在大营，还是新入大营？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "久在大营。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "既是久在大营，你家元帅是什么出身？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "乃是更夫出身。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "既是更夫出身，怎样得的两狼总镇？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "乃是当年大战郭药师屡建奇功，因此才得总镇。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "有几位令郎公子？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "两位公子。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "长子？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "彦直。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "次子？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "尚德。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "书信今在何处？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "元帅请看。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "韩元帅有信到来，待我观看。"
+        },
+        {
+          "character": "陆登",
+          "type": "唱",
+          "text": "看罢书信暗思忖， 膻气难闻为何情？"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "啊，因何这样膻气难闻？ 旗牌，你们这几日可曾宰杀牛羊？"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "不曾宰杀牛羊。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "哦，原来如此！我自有道理。 赵德胜，你既在大营，可知你家元帅何年何月何日生辰？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩背躬。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "哎哟，怎么问到这里来了？他问我，他也许不知道，待我蒙他一蒙。 啊元帅乃是八月十五——"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "不不！四月初一。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "番奴大胆！"
+        },
+        {
+          "character": "陆登",
+          "type": "唱",
+          "text": "恨番奴做此事全不思忖， 霎时间管叫你一命归阴。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "吩咐升堂！"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "升堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手、四将自两边分上。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "唗！胆大番奴，既被本帅看破，还不实言？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "住了！既被你看破，我对你实说了吧！俺乃大金邦四太子帐下军师哈迷蚩是也。 要杀开刀，何必多言！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "哼！回去对那兀术言讲，叫他及早收兵回去。如若不然，管叫尔等片甲难回！ 众将官，将他鼻子割下，赶了出去！"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌扯哈迷蚩同下。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "众将官，把守水西门，须要小心！"
+        },
+        {
+          "character": "四文堂、四上手、四将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黑风力、四下手、八小达、四大达、金兀术同上。"
+        },
+        {
+          "character": "金兀术",
+          "type": "唱",
+          "text": "孤家兴兵谁敢挡， 赫赫威名天下扬。 将身且坐宝帐上， 先生回来问端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩上。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "先生为何这等模样？"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "哼哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩指鼻子。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "先生请到后面调治。"
+        },
+        {
+          "character": "哈迷蚩",
+          "type": "白",
+          "text": "哼哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哈迷蚩下。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "且住！陆登耻笑孤家。 巴图鲁，随我攻打水西门去者！"
+        },
+        {
+          "character": "黑风力、四下手、八小达、四大达",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、四将同上。"
+        },
+        {
+          "character": "将甲",
+          "type": "同白",
+          "text": "列位请了！"
+        },
+        {
+          "character": "三将",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "将甲",
+          "type": "白",
+          "text": "奉命把守水西门，就此前往！"
+        },
+        {
+          "character": "三将",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番将、金兀术同上。四将同迎上，同起打。四将被打死。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "待孤将觱篥吹起。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兀术、四番将同进城，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟、乳娘、夫人、陆登同上。"
+        },
+        {
+          "character": "陆登",
+          "type": "念",
+          "text": "为国把忠尽，保主秉丹心。"
+        },
+        {
+          "character": "院子",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆登上。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "启老爷：今有兀术炸开水西门，众将阵亡，金邦人马杀进城来了！"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "啊，兀术炸开水西门，他、他、他杀进城来了？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "与爷抬枪带马！"
+        },
+        {
+          "character": "陆登",
+          "type": "唱",
+          "text": "兀术炸开水西门， 不由本帅吃一惊。 人来带过马能行， 拼着性命退贼兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆登下。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "夫人",
+          "type": "唱",
+          "text": "一见老爷出府往， 倒叫奴家挂心肠。 家院近前听言讲， 命你打探报端详！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟、乳娘、夫人、院子自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（陆登、黑风力自两边分上，同起打，黑风力败下。四番将、金兀术同上，挑陆登盔，陆登败下。金兀术、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "四番将同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟、乳娘、夫人同上。"
+        },
+        {
+          "character": "夫人",
+          "type": "唱",
+          "text": "耳听战鼓连声震， 倒叫奴家挂在心。"
+        },
+        {
+          "character": "院子",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "哎呀夫人哪，老爷败下阵来了！"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "喂呀！"
+        },
+        {
+          "character": "夫人",
+          "type": "唱",
+          "text": "闻听家院报一信， 吓得奴家心胆惊。 回头便对家院论， 快去打探莫消停。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "且住！老爷败阵，打量此城难保。 乳娘、丫鬟，命你二人后面收拾细软物件，打点行囊包袱，快去！"
+        },
+        {
+          "character": "乳娘、丫鬟",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘、丫鬟同下。"
+        },
+        {
+          "character": "夫人",
+          "type": "白",
+          "text": "我不免拜谢宋王爵禄之恩，寻个自尽便了！"
+        },
+        {
+          "character": "夫人",
+          "type": "唱",
+          "text": "走向前来忙跪定， 拜谢宋王爵禄恩。 腰中解下丝罗带， 尽节一死落美名。 哭一声娇儿难相见，"
+        },
+        {
+          "character": "夫人",
+          "type": "哭头",
+          "text": "我的儿啊！罢！"
+        },
+        {
+          "character": "夫人",
+          "type": "唱",
+          "text": "大堂之上命归阴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫人上吊，死。〖三冲头〗。陆登上。"
+        },
+        {
+          "character": "陆登",
+          "type": "唱",
+          "text": "本帅军前败了阵， 打量难保潞安城。 提枪勒马府门进，"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陆登下马。"
+        },
+        {
+          "character": "陆登",
+          "type": "唱",
+          "text": "只见夫人命归阴。"
+        },
+        {
+          "character": "陆登",
+          "type": "白",
+          "text": "且住！夫人尽节一死，我若杀出重围，愧见满朝文武。也不知我儿文龙身落何 处？也罢！不免拜谢万岁爵禄之恩，寻个自尽了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。陆登拜，自刎死。金兀术、四番将同上。"
+        },
+        {
+          "character": "金兀术",
+          "type": "唱",
+          "text": "一见陆登丧了命， 怎不叫人痛伤情！ 夫妻双双把忠尽， 可算得宋朝中大大忠臣。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "陆老先生尽忠一死，请上受孤一拜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兀术拜。"
+        },
+        {
+          "character": "四番将",
+          "type": "同白",
+          "text": "立尸不倒！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "啊！立尸不倒，定有原故。 来，两厢搜来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乳娘暗上。"
+        },
+        {
+          "character": "四番将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番将同搜。"
+        },
+        {
+          "character": "四番将",
+          "type": "同白",
+          "text": "有一妇人。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "唗！那一妇人怀抱何人？讲！"
+        },
+        {
+          "character": "乳娘",
+          "type": "白",
+          "text": "此乃陆大老爷之子，名唤陆文龙。我见狼主大兵到此，故而藏躲。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "待孤看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兀术看陆文龙。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "我看此子天庭饱满，地阁方圆，不免将此子带回我国抚养成人。 啊陆老先生，孤将你子带回我国抚养成人，接续你陆门宗嗣。请上受孤一拜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兀术拜，陆登倒。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "巴图鲁，准备小轿一乘，将乳娘、婴儿送回我国！"
+        },
+        {
+          "character": "四番将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "轿夫暗上。乳娘乘轿下。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "将陆登夫妻尸首不可损坏，准备棺木两口，高冈埋葬。"
+        },
+        {
+          "character": "四番将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "就在此地息兵三日，攻打两狼关去者！"
+        },
+        {
+          "character": "四番将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四文堂、四下手、胡别烈、达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其同上。"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "〖点绛唇〗。）"
+        },
+        {
+          "character": "胡别烈",
+          "type": "念",
+          "text": "虎将雄壮胆包天，海外狼主我占先。双手能摘天边月，要夺宋王锦江山。"
+        },
+        {
+          "character": "胡别烈、达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其",
+          "type": "同白",
+          "text": "某——"
+        },
+        {
+          "character": "胡别烈",
+          "type": "白",
+          "text": "西辽国铁木王胡别烈。"
+        },
+        {
+          "character": "达拉木",
+          "type": "白",
+          "text": "土番国王达拉木。"
+        },
+        {
+          "character": "达拉林",
+          "type": "白",
+          "text": "土番国王达拉林。"
+        },
+        {
+          "character": "哈米青",
+          "type": "白",
+          "text": "库伦国王哈米青。"
+        },
+        {
+          "character": "哈米红",
+          "type": "白",
+          "text": "库伦国王哈米红。"
+        },
+        {
+          "character": "洒拉金",
+          "type": "白",
+          "text": "黑水国王洒拉金。"
+        },
+        {
+          "character": "洒拉银",
+          "type": "白",
+          "text": "黑水国王洒拉银。"
+        },
+        {
+          "character": "阿克都",
+          "type": "白",
+          "text": "哈密国王阿克都。"
+        },
+        {
+          "character": "阿克其",
+          "type": "白",
+          "text": "哈密国王阿克其。"
+        },
+        {
+          "character": "胡别烈",
+          "type": "白",
+          "text": "列位国王请了！"
+        },
+        {
+          "character": "达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "胡别烈",
+          "type": "白",
+          "text": "今有阿沽达有帖前来约请我等，各带本国人马，攻打宋室天下，你我合兵一处， 金邦去者！"
+        },
+        {
+          "character": "达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "胡别烈",
+          "type": "白",
+          "text": "嘚！巴图鲁，起兵前往！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四达子、粘罕同上。"
+        },
+        {
+          "character": "粘罕",
+          "type": "唱",
+          "text": "番邦之中声名大， 赫赫威名扬天涯。 金殿奉了旨一道， 押解粮草到中华。 豪杰加鞭催战马， 三川六国数某家。"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "某，粘罕。奉了父王之命，押解粮草军前听用。 巴图鲁，催军！"
+        },
+        {
+          "character": "粘罕",
+          "type": "唱",
+          "text": "押解粮草往前进， 见了御弟说分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四达子、粘罕同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩彦直、韩尚德同上，双起霸。"
+        },
+        {
+          "character": "韩彦直、韩尚德",
+          "type": "同念",
+          "text": "父子冲锋战敌军，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹荣、刘玉同上，双起霸。"
+        },
+        {
+          "character": "曹荣、刘玉",
+          "type": "同念",
+          "text": "一声雷鸣震天庭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张任、李俊同上，双起霸。"
+        },
+        {
+          "character": "张任、李俊",
+          "type": "同念",
+          "text": "金人闻名皆丧胆，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "任善、鲍勇同上，双起霸。"
+        },
+        {
+          "character": "任善、鲍勇",
+          "type": "同念",
+          "text": "青史名标万古存。"
+        },
+        {
+          "character": "韩彦直、韩尚德、曹荣、刘玉、张任、李俊、任善、鲍勇",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "韩彦直",
+          "type": "白",
+          "text": "韩彦直。"
+        },
+        {
+          "character": "韩尚德",
+          "type": "白",
+          "text": "韩尚德。"
+        },
+        {
+          "character": "曹荣",
+          "type": "白",
+          "text": "曹荣。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "刘玉。"
+        },
+        {
+          "character": "张任",
+          "type": "白",
+          "text": "张任。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "李俊。"
+        },
+        {
+          "character": "任善",
+          "type": "白",
+          "text": "任善。"
+        },
+        {
+          "character": "鲍勇",
+          "type": "白",
+          "text": "鲍勇。"
+        },
+        {
+          "character": "韩彦直",
+          "type": "白",
+          "text": "众位将军请了！"
+        },
+        {
+          "character": "韩尚德、曹荣、刘玉、张任、李俊、任善、鲍勇",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "韩彦直",
+          "type": "白",
+          "text": "元帅升帐，你我辕门候令！"
+        },
+        {
+          "character": "韩尚德、曹荣、刘玉、张任、李俊、任善、鲍勇",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八文堂、八上手、八马童、八女兵、梁红玉、韩世忠同上。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "粉蝶儿",
+          "text": "镇守两狼，奉圣命，镇守两狼。秉丹心，报国恩，安抚军民。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "念",
+          "text": "食君之禄报国恩，赤胆忠心保乾坤。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "念",
+          "text": "举家满门官极品，全凭令箭调三军。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "本帅，韩世忠。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "奴家，水军都督梁红玉。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "只因金邦兴兵犯界，潞安总镇前来求救。我也曾命赵德胜前去下书，会合攻打， 未见回音。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "奴也曾命人打探，且听回报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报：今有兀术攻破潞安州，陆登全家尽忠一死，那贼人马杀奔两狼关而来！"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "来，传众将进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩彦直、韩尚德、曹荣、刘玉、张任、李俊、任善、鲍勇同上。"
+        },
+        {
+          "character": "韩彦直、韩尚德、曹荣、刘玉、张任、李俊、任善、鲍勇",
+          "type": "同白",
+          "text": "参见（父）（父）（元）（元）（元）（元）（元）（元）帅，有何将令？"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "今有兀术乘胜而来，尔等必须奋勇当先。"
+        },
+        {
+          "character": "韩彦直、韩尚德、曹荣、刘玉、张任、李俊、任善、鲍勇",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "夫人何计破之？"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "老爷与贼交战，待妾身在红山口埋伏地雷火炮，一战成功。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "好。就请夫人一往！"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "遵命。 众女兵，带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八女兵引梁红玉同下。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "尚德听令！"
+        },
+        {
+          "character": "韩尚德",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "攻打头阵！"
+        },
+        {
+          "character": "韩尚德",
+          "type": "白",
+          "text": "得令。 带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩尚德下。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "彦直听令！"
+        },
+        {
+          "character": "韩彦直",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "二队接应！"
+        },
+        {
+          "character": "韩彦直",
+          "type": "白",
+          "text": "得令。 带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩彦直下。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "刘玉、曹荣、李俊、张任听令！"
+        },
+        {
+          "character": "刘玉、曹荣、李俊、张任",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "命你四人随后接应！"
+        },
+        {
+          "character": "刘玉、曹荣、李俊、张任",
+          "type": "同白",
+          "text": "得令。 带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、曹荣、李俊、张任同下。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "且住！今日之战，非比寻常，必须本帅亲自出马。 众将官，开城迎敌者！"
+        },
+        {
+          "character": "八文堂、八上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八文堂、八上手、八马童、任善、鲍勇、韩世忠同出城，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 22,
+      "name": "第二十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手、黑风力、金兀术同上。"
+        },
+        {
+          "character": "金兀术",
+          "type": "唱",
+          "text": "校场举龙膂力大， 赫赫威名震天涯。 头一阵我把潞安打， 那陆登为国尽忠染黄沙。 孤家爱他忠心大， 才将文龙认某家。 将身且坐孤的宝帐下， 且听小番报根芽。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报：众位国王到。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。胡别烈、达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其同上。"
+        },
+        {
+          "character": "胡别烈、达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其",
+          "type": "同白",
+          "text": "啊，四太子！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "众位狼主！不知众位狼主驾到，未曾远迎，面前恕罪！"
+        },
+        {
+          "character": "胡别烈、达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其",
+          "type": "同白",
+          "text": "岂敢！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "众位狼主到此为了何事？"
+        },
+        {
+          "character": "胡别烈、达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其",
+          "type": "同白",
+          "text": "我等奉了老王之命，提兵前来与四太子助战。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "有劳众位狼主！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "大太子到。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。四达子同上，过场，同下。粘罕上。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "皇兄！"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "御弟！请！"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "请坐。皇兄押粮到此，一路之上多有辛苦。"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "如今兵精粮足，定然一战成功。就请皇兄传令！"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "待兄传令。 黑风力听令！"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "命你攻打头阵！"
+        },
+        {
+          "character": "黑风力",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黑风力下。"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "胡别烈听令！"
+        },
+        {
+          "character": "胡别烈",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "命你二队接杀！"
+        },
+        {
+          "character": "胡别烈",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡别烈下。"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "想那两狼关韩世忠父子骁勇非常，你我大家必须并力相攻，就此奋勇当先，杀 上前去。巴图鲁！"
+        },
+        {
+          "character": "达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其",
+          "type": "同白",
+          "text": "唔！"
+        },
+        {
+          "character": "粘罕",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": "达拉木、达拉林、哈米青、哈米红、洒拉金、洒拉银、阿克都、阿克其",
+          "type": "同白",
+          "text": "啊!"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 23,
+      "name": "第二十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、韩尚德、四下手、黑风力同上，同会阵起打。黑风力败下，韩尚德追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 24,
+      "name": "第二十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八马童、韩彦直、四下手、四番将、胡别烈同上，同会阵起打。韩彦直败下，胡别烈追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 25,
+      "name": "第二十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八女兵、炮车、四上手、梁红玉、马童、女大纛同上，过场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 26,
+      "name": "第二十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、八马童、韩世忠同上。四下手、四达子、四番将、粘罕同上，同起打，双收下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 27,
+      "name": "第二十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（八女兵同上，过场，同下。梁红玉、黑风力、胡别烈、粘罕、韩世忠同上，四把大刀接上天梯。韩世忠、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "黑风力打大刀双刀。接粘罕、胡别烈、梁红玉打双大刀枪。韩彦直、韩尚德接双快枪，双收下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 28,
+      "name": "第二十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（八达子、四马童、四女兵、四番将、四宋将、韩彦直、黑风力接大战。粘罕打韩彦直下。粘罕接火牌。韩"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "世忠、胡别烈双大刀下场，双收下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 29,
+      "name": "第二十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（八女兵、炮车、四上手、梁红玉、马童、女大纛、四文堂、八马童、韩世忠同上，同进城，同下。四文堂、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "四下手、黑风力、金兀术同上。城上开炮。龙形上，舞。众人同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 30,
+      "name": "第三十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖三冲头〗。韩尚德、梁红玉同上，同扑火，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 31,
+      "name": "第三十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩彦直、韩世忠同上，同扑火，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 32,
+      "name": "第三十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手、黑风力、金兀术同上，过场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 33,
+      "name": "第三十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩彦直、韩尚德同上。韩世忠、梁红玉同上。四马童引韩彦直、韩尚德、韩世忠、梁红玉同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 34,
+      "name": "第三十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手、黑风力、金兀术同上。金兀术三笑。四文堂、四下手、黑风力、金兀术同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

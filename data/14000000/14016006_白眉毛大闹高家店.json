@@ -1,0 +1,2972 @@
+{
+  "script_id": "14016006",
+  "title": "白眉毛大闹高家店",
+  "alias": [],
+  "source": "《戏典》",
+  "characters": [
+    {
+      "name": "徐良",
+      "hangdang": "武丑"
+    }
+  ],
+  "plot": "李商隐之妻，携女李玉环赴都天胜会，为义女金牡丹进香求签。恶霸崔龙见李玉环貌美，百般调戏。李妻带\n女匆忙逃归，崔龙与同伙怀忠跟踪至李府，逼李商隐允婚。李商隐不从，二人即打死李氏夫妇。施俊闻讯，\n恐崔龙再来寻衅，带妻金牡丹与李玉环一同逃走，住张三小客店。包拯为查襄阳王谋反事出朝私访，见黄狗\n拦路，乃随之前行，李商隐死而复活。包拯与李商隐同至张三小店，李商隐遂与李玉环、施俊等重聚。宋名\n与吴常见包拯代施俊付店账，囊櫜颇丰，诱之入乌龙岗高家店中，用药酒麻倒。白眉毛徐良亦至高家店投宿，\n见宋名、吴常形迹可疑，乃杀死二人。时小侠艾虎赶来暗护包拯，协同徐良，杀店主高解，救包拯脱险。",
+  "notes": "《白眉毛大闹高家店》一剧，事出《七侠五义》。当年大舞台，排全部《狸猫换太子》，排至第十一本，即\n有“白眉毛徐良出世”、“大闹高家店”故事，由赵如泉饰徐良。今伶人演此剧，悉宗赵如泉一派。盖皆自\n《狸猫换太子》中另拆而单唱者。北方富连成科班名武丑叶盛章，有全部《山西雁》一剧，即脱胎赵如泉白\n眉毛出世所改排。不曰《高家店》而曰《乌龙岗》，实则一而二、二而一者，惟皆不及赵如泉演来之精彩。\n本书所载即赵如泉所借录之真本也。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "春桃、李玉环同上。"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "金小姐到我家亲同骨肉， 怎奈她每日里常怀忧愁。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "奴家李玉环，爹爹李商隐。 春桃，自从金家小姐在咱们这里夫妻相见，应该是欢喜的，怎么她每日面带愁 容，是什么道理？"
+        },
+        {
+          "character": "春桃",
+          "type": "白",
+          "text": "她心中之事，奴婢哪能猜出来呢。倒不如小姐去到她房中，盘问盘问。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "言之有理。带路。"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "春桃带路上房走，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李玉环、春桃同走圆场。"
+        },
+        {
+          "character": "春桃",
+          "type": "白",
+          "text": "有请小姐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金牡丹上。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "思想二娘泪交流， 祝告上苍多保佑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金牡丹见。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "姊姊！"
+        },
+        {
+          "character": "金牡丹",
+          "type": "白",
+          "text": "哎呀贤妹呀！"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "迎接来迟恕不周。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "小妹有礼。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "家里何能朝朝有， 姊妹对坐叙根由。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "白",
+          "text": "贤妹请坐。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "这几日见姊姊，仍是愁眉不展，小妹不知为了何事，请道其详。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "白",
+          "text": "贤妹呀！"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "未曾开言双眉皱， 尊声贤妹听从头： 不知二娘生死何处走， 怎不叫我加忧愁。"
+        },
+        {
+          "character": "春桃",
+          "type": "白",
+          "text": "小姐，原来金家小姐想她们二娘不知生死。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "这又何必如此。少时禀知爹爹，派人四下寻找，有何不可呢？"
+        },
+        {
+          "character": "春桃",
+          "type": "白",
+          "text": "小姐要知二娘的消息，奴婢有一个绝好的主意，又方便又灵验，不知小姐肯听 不肯听？"
+        },
+        {
+          "character": "金牡丹、李玉环",
+          "type": "同白",
+          "text": "你有什么主意？只要有了二娘的下落，无不应从。"
+        },
+        {
+          "character": "春桃",
+          "type": "白",
+          "text": "我们这里，如今起了都天胜会，香火甚旺，最灵验无比。只要虔心诚意，寻人 问事，无不灵验。二位小姐，何不前去进香求签，一来可以问问二夫人的下落， 二来观看地方风景。二位小姐意下如何？"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "言之有理，快快禀知母亲，一同前去。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "什么这个那个的，快着走罢。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "白",
+          "text": "贤妹呀！"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "女子闺训要谨守， 焉能轻狂强出头。 船到江心难补漏， 马到临崖难把缰收。"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "休多言随我上房走，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李玉环、金牡丹、春桃同走圆场。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "有请母亲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人上。"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "我的儿有何事细说根由？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "儿呀，何事？"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "我姊姊为二夫人佳蕙，没有下落，每日愁眉不展。如今咱们这里起了都天胜会， 今日孩儿禀知母亲，与我姐姐前去烧香求签，问问二夫人的下落。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "这倒好得很。你们前去，为娘放心不下，待为娘随你们前去，必须要问过你爹 爹方好。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "问我爹爹，倘若拦阻，岂不误事么？"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "说的是，一同前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人下。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "白",
+          "text": "这个。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "什么这个那个，快着走罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李玉环拉金牡丹同下，春桃下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔龙、怀忠同上。"
+        },
+        {
+          "character": "崔龙",
+          "type": "引子",
+          "text": "出没无常，猛烈难当。"
+        },
+        {
+          "character": "崔龙",
+          "type": "念",
+          "text": "江湖路上俺为强，金银满载回故乡。四方闻名皆胆丧，全凭财势霸一方。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "某、镔铁塔崔龙。久走绿林，挣了一份家业，就在此处开了一个绮春园，生意 倒也茂盛。前者东方大哥，有信到来，要访问几个美貌的女子，以作压寨夫人。 怀忠，命你寻访美女，可是怎样？"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "寻访几日，并无出色的女子。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "这便怎样好？"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "如今咱们这里，起了都天大会，四方八镇女子，必来逛会。你我何不带领打手， 去至会场观看一番。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "好。 众英雄走上。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "哎，慢来慢来，倘若骑马好有许多不便。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "依你之见？"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "倒不如步走前去，到女子群中也好挨挨挤挤，顺便揩些油，你看好是不好？"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "好哇！"
+        },
+        {
+          "character": "崔龙",
+          "type": "唱",
+          "text": "听此言来精神爽， 倒叫豪杰喜非常。 急忙带路一齐往，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "怀忠下。"
+        },
+        {
+          "character": "崔龙",
+          "type": "唱",
+          "text": "会场看一看美貌娇娘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔龙下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众乡民、老乡民同上。"
+        },
+        {
+          "character": "众乡民、老乡民",
+          "type": "同吹腔",
+          "text": "谁家吹笛画楼中， 断续声随断续风。"
+        },
+        {
+          "character": "老乡民",
+          "type": "白",
+          "text": "列位请了。"
+        },
+        {
+          "character": "众乡民",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "老乡民",
+          "type": "白",
+          "text": "只因都天胜会，热闹非常。你我大家前去逛会。"
+        },
+        {
+          "character": "众乡民",
+          "type": "同白",
+          "text": "一同前往。"
+        },
+        {
+          "character": "众乡民",
+          "type": "同吹腔",
+          "text": "响遏行云横碧落，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "开幕。四老道同在内。"
+        },
+        {
+          "character": "众乡民",
+          "type": "同吹腔",
+          "text": "清和冷月到帘笼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖行弦〗。众乡民同拈香。四打手、四英雄、怀忠、崔龙同上，同看。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "来到会场，怎么一个好好的没有？"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "别忙，人还没有到齐啦。咱们到东廊看看去。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "言之有理。"
+        },
+        {
+          "character": "崔龙",
+          "type": "笑",
+          "text": "哈哈哈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔龙、怀忠、四打手、四英雄同下。院子、金牡丹、李玉环、李夫人同上。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "我哪有闲心情会场玩耍，"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "秉虔诚问吉凶半点不差。"
+        },
+        {
+          "character": "李夫人",
+          "type": "唱",
+          "text": "来在了大佛殿你姐妹问卦， （〖行弦〗。金牡丹、李玉环同拈香。崔龙、怀忠、四打手、四英雄同上，同看。金牡丹、李玉环同跪拜求 抱院子。院子怒。）"
+        },
+        {
+          "character": "签。崔龙学。李夫人拉金牡丹、李玉环同躲，崔龙戏，李夫人、金牡丹、李玉环同怒，同急跑下。崔龙追抱、院子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "签。崔龙学。李夫人拉金牡丹、李玉环同躲，崔龙戏，李夫人、金牡丹、李玉环同怒，同急跑下。崔龙追抱、院子",
+          "type": "唱",
+          "text": "你竟敢在会场把良善欺压。"
+        },
+        {
+          "character": "签。崔龙学。李夫人拉金牡丹、李玉环同躲，崔龙戏，李夫人、金牡丹、李玉环同怒，同急跑下。崔龙追抱、院子",
+          "type": "白",
+          "text": "你这贼子，光天化日在会场之中，调戏良家妇女，该当何罪？"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "你崔大爷乃是刮一下，并非调戏。即使调戏，你把崔大爷怎么样呢？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "崔龙啊，你那是放屁！"
+        },
+        {
+          "character": "院子",
+          "type": "唱",
+          "text": "听此言把我的肝胆气炸， 你竟敢伤风化目无王法。 恨不能将恶贼千刀万挖，"
+        },
+        {
+          "character": "崔龙",
+          "type": "唱",
+          "text": "老匹夫你竟敢斥骂某家！ 叫人来你与我皮鞭拷打，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四打手同打。院子跑，下。"
+        },
+        {
+          "character": "四打手",
+          "type": "同白",
+          "text": "他等逃了。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "好哇！"
+        },
+        {
+          "character": "崔龙",
+          "type": "唱",
+          "text": "众家丁齐追赶将他捉拿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "怀忠拦。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "你为何拦阻？"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "咱们回去再讲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔龙、怀忠、四打手、四英雄同走圆场。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "你且讲来。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "适才那一女子，乃是李商隐之女，那个老者是李府的家院。他是官宦之家，此 事必须有礼相求，不可太以莽撞。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "既是如此，就命你去请李商隐前来讲话。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "恐怕他不肯前来。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "众教师，随他前去，将李商隐拖来见我。"
+        },
+        {
+          "character": "四打手",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔龙、四英雄、怀忠、四打手自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李商隐上。〖乌鸦乱叫声〗。李商隐怔。"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "李商隐",
+          "type": "唱",
+          "text": "却怎么这乌鸦对我喧吵， 莫非是有什么祸事来招？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李玉环、金牡丹、李夫人、院子同上。院子见，怔。"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "夫人，你等为了何事，这样光景？快快讲来。"
+        },
+        {
+          "character": "院子、李夫人、李玉环、金牡丹",
+          "type": "同白",
+          "text": "这个……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。李商隐看。"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "啊？我见家院满脸血迹，是何缘故？若不讲来，定要掌嘴。"
+        },
+        {
+          "character": "李夫人",
+          "type": "白",
+          "text": "哎呀，老爷！只因金小姐思念二夫人，每日愁闷，女儿再三对我言讲，妾身失 于检点，未曾禀报老爷，带领她们去至都天会场，前去求签问卜。不想遇见恶 霸崔龙，百般调戏小姐，家院向前，略有分诉，那贼竟将家院打得这般光景。 今日之事，乃是妾身之罪也。"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "李商隐",
+          "type": "唱",
+          "text": "既逛会你何不禀我知道， 最不该宠女儿有失闺条。 我定要责奴才整理家教，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "崔龙家院闯入门来，要见老爷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李商隐怔。"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "李商隐",
+          "type": "唱",
+          "text": "你母女且回避我自分晓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李夫人、李玉环、金牡丹同虚下，同偷看。怀忠率四打手同上。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "李员外，见礼了。"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "你们到此何事？"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "我们庄主崔龙，请员外议事。"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "我与他素无来往，有何事议论？"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "何必多言！ 众位教师，架起来走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四打手推李商隐、李夫人同下，院子看，急跟下。金牡丹、李玉环同看。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "白",
+          "text": "哎呀贤妹，伯父被恶贼拖去，这便怎么好？"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "咱们快去到书房，说于施俊哥哥知道。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "白",
+          "text": "言之有理，一同前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李玉环、金牡丹同急下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四英雄、崔龙同上。"
+        },
+        {
+          "character": "崔龙",
+          "type": "唱",
+          "text": "李家小姐生得好， 引的我三魂七魄消。 但愿今晚鸿鸾照， 胜似金榜把名标。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。怀忠、四打手、李商隐、李夫人同急上。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "哎呀，李员外，这是我们崔大爷。 大爷，这就是李员外。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "李员外，李乡绅。"
+        },
+        {
+          "character": "崔龙",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "某家崔龙有礼了。"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "罢了。我与你素无来往，请我到此，有何事议？"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "昨见令嫒美貌端方，某家尚未婚娶，敢求员外以结朱陈。来来来，这是龙凤书 笺，请书小年庚，今晚迎娶成亲，打谅员外决无推辞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李商隐、李夫人同怒。"
+        },
+        {
+          "character": "李商隐、李夫人",
+          "type": "同白",
+          "text": "崔龙狗强盗！"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "你素日所作所为，本当处治于你，以念其乡里之情，未肯深究。你今日竟敢欺 在老夫头上，此番必须将你拿办公堂，碎尸万段，方解我心头之恨也！"
+        },
+        {
+          "character": "李商隐",
+          "type": "唱",
+          "text": "贼人作事太胆大， 欺乡绅压良民藐视国法。 来来来随我公堂讲话，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李商隐拉。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "老匹夫！"
+        },
+        {
+          "character": "崔龙",
+          "type": "唱",
+          "text": "老匹夫你竟敢毁骂某家！"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "来呀！"
+        },
+        {
+          "character": "崔龙",
+          "type": "唱",
+          "text": "叫人来你与我乱棍来打，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四打手同打，李商隐、李夫人同死。怀忠拦，摸。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "哎呀，不妙哉！"
+        },
+        {
+          "character": "怀忠",
+          "type": "唱",
+          "text": "他二人一个个命染黄沙。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "禀大爷：打死啦！"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "拖下去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四打手拖李商隐、李夫人同下。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "咳！虽然打死两条性命，怎奈亲事不能到手。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "大爷何必发恼。他夫妻已死，谅他家中无人，咱们带领众位教师，前去抢亲， 岂不是垂手而得么。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "怀忠言之有理。 众家英雄，随我前去抢亲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊上。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "想二娘无音信时常挂念， 但不知何日里才得团圆。 坐书斋不由我暗自悲泪，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金牡丹、李玉环同急上。"
+        },
+        {
+          "character": "金牡丹、李玉环",
+          "type": "同白",
+          "text": "哎呀，大事不好啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊怔。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "问娘子与贤妹有何话言？"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "他要想霸贤妹陡起恶念，"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "掳父母到他庄不见回还。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "好贼！"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "听此言不由我气炸肝胆， 贼子作事胆包天。 尊妻、妹且等候带我去打探，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊换衣。"
+        },
+        {
+          "character": "院子",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "唱",
+          "text": "思老爷与夫人珠泪涟涟。 急忙忙报信息哪敢怠慢，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子入，施俊出，碰见。施俊、院子同入。"
+        },
+        {
+          "character": "施俊、金牡丹、李玉环",
+          "type": "同白",
+          "text": "老爷夫人可曾回来？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "公子、小姐呀！"
+        },
+        {
+          "character": "院子",
+          "type": "唱",
+          "text": "那贼子害老爷命染黄泉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊、李玉环、金牡丹同气。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "公子、小姐醒来！"
+        },
+        {
+          "character": "施俊、金牡丹、李玉环",
+          "type": "同西皮导板",
+          "text": "听此言吓得我魂飞魄散，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊、金牡丹、李玉环同醒。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "爹爹！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "施俊、金牡丹",
+          "type": "同白",
+          "text": "伯父！"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "母亲！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "夫人！"
+        },
+        {
+          "character": "施俊、金牡丹",
+          "type": "同白",
+          "text": "伯母哇！"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "自古道父母仇不共戴天。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "莫痛哭且等我去把冤辩，"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "院子",
+          "type": "唱",
+          "text": "拦住了施公子我有话言。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "哎呀公子，那贼打死老爷，倘若前来抢亲，二位小姐若有差错，老奴如何担待？"
+        },
+        {
+          "character": "施俊、金牡丹、李玉环",
+          "type": "同白",
+          "text": "这！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖乱锤〗。施俊、金牡丹、李玉环同想。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "也罢。如若不然，二位小姐随公子一同逃走，前去伸冤。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "贤妹随去，一路恐有不便。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "哎呀，兄长啊！"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "到如今论什么行走不便。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "不过是避凶险暂作从权。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "好哇！"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "既如此且随我忙把路趱，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金牡丹、李玉环、施俊同急下，院子、春桃各持物同下。四打手、四英雄、怀忠、崔龙同急上。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "来此已是。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "打进去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四打手、四英雄、怀忠、崔龙同入，同看。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "各处搜来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四打手、四英雄、怀忠同搜。"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "遍搜不见。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "崔龙",
+          "type": "唱",
+          "text": "却怎么遍搜寻杳无人烟？"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "怀忠",
+          "type": "白",
+          "text": "大爷，想是他们闻风逃走，就该分路追赶方是。"
+        },
+        {
+          "character": "崔龙",
+          "type": "白",
+          "text": "言之有理。 众家英雄随我追赶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同急下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": "金牡丹",
+          "type": "内二黄导板",
+          "text": "随相公，"
+        },
+        {
+          "character": "李玉环",
+          "type": "内二黄导板",
+          "text": "与小姐，"
+        },
+        {
+          "character": "施俊",
+          "type": "内二黄导板",
+          "text": "逃出庄外，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖乱锤〗。金牡丹、李玉环、施俊同上。"
+        },
+        {
+          "character": "金牡丹、李玉环",
+          "type": "同哭",
+          "text": "老爹爹，老娘亲！"
+        },
+        {
+          "character": "施俊",
+          "type": "哭",
+          "text": "老伯父哇，老伯母哇！"
+        },
+        {
+          "character": "李玉环、金牡丹、施俊",
+          "type": "同哭",
+          "text": "哎，老伯父哇！"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "好一似惊弓鸟胆战心骇。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "却怎么良善家偏偏遇害？"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "止不住伤心泪洒落胸怀。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "劝贤妹莫痛苦暂且忍耐， 见官府愚兄我自有安排。"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "尊贤妹快走莫迟怠， 怕的是那贼追赶来。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "细思想也是我命运坏， 平白又起大祸灾。 连累伯父身遭害， 这场冤仇我怎能丢开？"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "若不是轻出绣阁外， 焉能惹起这祸灾？"
+        },
+        {
+          "character": "李玉环",
+          "type": "哭",
+          "text": "爹娘！"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "恨强贼，"
+        },
+        {
+          "character": "施俊、金牡丹",
+          "type": "同唱",
+          "text": "仇如山海，"
+        },
+        {
+          "character": "李玉环",
+          "type": "哭头",
+          "text": "老爹爹呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李玉环坐。施俊看。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "贤妹为何不走？"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "路崎岖金莲小我寸步难挨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内喊声〗。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "远远又听喊声在， 想必那贼追赶来。 我只得搀贤妻把贤妹带，"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "紧罗带，"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "提弓鞋，"
+        },
+        {
+          "character": "施俊、李玉环、金牡丹",
+          "type": "同唱",
+          "text": "拼命前挨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李玉环、金牡丹、施俊同急下。四打手、四英雄、怀忠、崔龙同追上，同急下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（幕开。善财女、法佛同在内。〖乱锤〗。施俊、金牡丹、李玉环同上，同入庙。四打手、四英雄、怀忠、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "崔龙同追上，同搜。变幻。四打手、四英雄、怀忠、崔龙同吓，同逃下。施俊、金牡丹、李玉环同复出，同"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "看，同拜佛。〖扫头〗。施俊、金牡丹、李玉环同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": "包拯",
+          "type": "内西皮导板",
+          "text": "忆昔当年入科场，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包兴上，包拯骑驴上。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "蒙圣恩册封伴驾在朝堂。 掌朝纲铲除了馋臣奸党， 奉圣旨二次里又查襄阳。 为了那安乐王我巧装私访。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、包兴同走圆场。狗形上，亮相。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "见黄犬拦道路奇事一桩。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "哎呀，见黄犬拦住我的道路，莫非有什么冤枉不成？"
+        },
+        {
+          "character": "包拯",
+          "type": "叫头",
+          "text": "犬哪！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "你若有什么事故，将头对老夫点上三点，我便与你辨明冤情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "狗形点头。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "奇怪呀！"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "黄犬对我把头点， 内里必定有奇冤。 急忙引路莫迟慢，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、包兴同走圆场，包兴跌倒。"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "黄狗走了看不见哉。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "快快喊叫。"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "格只黄狗叫什么名字，哙克米！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "狗形回。"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "相爷，狗回转来哉。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "犬哪！"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "缓缓行前引路莫要奔颠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "狗形下，包兴、包拯同随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "狗形引包兴、包拯同上。"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "相爷，格只黄狗抓勒了浪一堆，不走了。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "前去观看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "幕开。包兴看，见李商隐尸。"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "相爷，原来是一个死人。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "怎么是一个死尸？"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "勿差，面孔上一面浓血。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯看。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊，这光景，定是被害，怎奈无凭无据，怎样追究？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李商隐动。"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "拆老动哉。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "不要害怕，他若气转，唤来问话。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包兴吓。"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "咳，朋友，倷要是死人，勿要吓我，倷要是活人，快来回话！"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "咳。"
+        },
+        {
+          "character": "李商隐",
+          "type": "唱",
+          "text": "三魂悠悠七魄渺， 阎罗殿前走一遭。 在城隍庙内挂了号，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李商隐醒，看，扑。"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "崔龙好强盗！"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "哎呀，发痴哉。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "神定休慌莫要心焦。 是何人谋害你对我言道，"
+        },
+        {
+          "character": "李商隐",
+          "type": "二黄平板",
+          "text": "为救施俊惹下祸苗，惹下祸苗。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "惹下什么祸苗呢？"
+        },
+        {
+          "character": "李商隐",
+          "type": "二黄平板",
+          "text": "那金牡丹与小女求签逛庙， 遇见崔龙把祸招，那贼打我命赴阴曹，命赴阴曹。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "如此说来，你姓甚名谁？"
+        },
+        {
+          "character": "李商隐",
+          "type": "二黄平板",
+          "text": "李商隐，"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "嗷，却原来如贤弟到！"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "你这样的称呼，请问贵姓尊名？"
+        },
+        {
+          "character": "包拯",
+          "type": "二黄平板",
+          "text": "龙图阁学士本姓包。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "李商隐",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "李商隐",
+          "type": "二黄平板",
+          "text": "谢丞相救命恩躬身拜倒，"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "忍悲痛随我行再作计较。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、李商隐、包兴同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": "徐良",
+          "type": "内二黄导板",
+          "text": "幸喜得一路上天气清爽，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良推车上。"
+        },
+        {
+          "character": "徐良",
+          "type": "唱",
+          "text": "奉母命寻天伦急奔襄阳。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "俺、山西雁徐良，乃是山西人氏。自幼多蒙我师云中鹤魏真，教授拳棒刀枪， 种种暗器，无不精通。如今我父现在开封供职，保护钦差，查办襄阳。奉母之 命，去至襄阳，寻找天伦。一路之上，幸喜天气清和，好不爽快人也。"
+        },
+        {
+          "character": "徐良",
+          "type": "唱",
+          "text": "自幼生来秉性刚， 最爱的孝子贤孙与忠良。 多蒙恩师授艺广， 学会了陆地飞腾、百般的暗器、鞭锏锤抓、拐子流星、棍棒与刀枪。 哪顾得风尘苦我急奔阳关上， 为天伦离乡井戴月披霜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张三上。"
+        },
+        {
+          "character": "张三",
+          "type": "念",
+          "text": "可恨苍天不公平，别人富贵我受穷。"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "在下张三。开了一座小店，不过是糊口而已。前几日来了一位相公，带了两位 女眷，进到我的店房，就是一病不起，他把衣服均已当尽了，请医吃药，我与 他们垫办不少，我今唤出一个来问问，他们有钱无钱。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张三唤。金牡丹、李玉环、施俊同上。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "命苦之人时运衰， 层层风波意外来。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "店家将我请出来，莫非吃饭么？"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "吃饭也容易，快快拿钱来，好买柴米。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "店家，我因有事出门，愧未曾多带银钱，你将病症养好，决不负你。"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "你说得倒也容易，我已然与你们垫了几两银子，再垫就垫不起啦。你若没钱我 也不要啦，说不得你就请出，我这不招闲人。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "哎呀店家，世界之上，救急救难乃是功德之事，你何不方便方便？"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "我哪是穷人，哪能方便得起呢？你也不要费话，你滚出去罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张三推出。施俊气，昏。"
+        },
+        {
+          "character": "李玉环",
+          "type": "白",
+          "text": "哎呀，姐姐，这店家将你我推出门外，这便如何是好？"
+        },
+        {
+          "character": "金牡丹",
+          "type": "白",
+          "text": "哎呀贤妹呀，事到如今讲说不起，只好搀扶相公去到人烟稠密之处，备诉苦情， 哀求仁人君子，帮助一二。相公、贤妹，你看如何？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "相公莫要愁眉带，"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "这场羞辱头难抬。"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "恨强人，"
+        },
+        {
+          "character": "施俊、金牡丹、李玉环",
+          "type": "同唱",
+          "text": "贼行凶暴，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、包兴、李商隐同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "忙把路带，"
+        },
+        {
+          "character": "李玉环",
+          "type": "哭",
+          "text": "老爹爹！"
+        },
+        {
+          "character": "施俊、金牡丹",
+          "type": "同哭",
+          "text": "老伯父！"
+        },
+        {
+          "character": "施俊、金牡丹、李玉环",
+          "type": "同唱",
+          "text": "哎，我等是命苦的人哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、李商隐同见施俊、金牡丹、李玉环，同怔。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "又听得啼哭声凄惨悲哀。 尊贤弟且随我察看实在，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、李商隐、包兴同走圆场，包拯、李商隐同看，同见，同怔。"
+        },
+        {
+          "character": "包拯、李商隐",
+          "type": "同白",
+          "text": "你是玉环，你是施俊？"
+        },
+        {
+          "character": "施俊、金牡丹、李玉环",
+          "type": "同白",
+          "text": "来的是爹爹，来的是伯父，哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊、金牡丹、李玉环同哭。"
+        },
+        {
+          "character": "李商隐",
+          "type": "唱",
+          "text": "见娇儿不由我泪洒胸怀。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "他夫妻累贤弟连带遭害，"
+        },
+        {
+          "character": "李商隐",
+          "type": "唱",
+          "text": "通家好受患难也是应该。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "你夫妻怎逃出崔龙的庄外？"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "老伯细听我夫妻二人把以往情由细说开怀："
+        },
+        {
+          "character": "金牡丹",
+          "type": "唱",
+          "text": "逃出庄外遇贼船又被谋害， 幸亏了盗墓劈棺蒙伯父拨魂杖指明了迷途，魂归本窍，我才转回阳来。"
+        },
+        {
+          "character": "李玉环",
+          "type": "唱",
+          "text": "皆因他到在我家花园以外， 又遇着我的父救了公子转回家，"
+        },
+        {
+          "character": "李商隐",
+          "type": "唱",
+          "text": "细问明白。 他夫妻见了面愁肠不解，"
+        },
+        {
+          "character": "施俊、金牡丹、李玉环",
+          "type": "同唱",
+          "text": "都天庙降香遇见了崔龙起祸灾。"
+        },
+        {
+          "character": "李商隐",
+          "type": "唱",
+          "text": "因霸亲我骂崔龙因此遭害，"
+        },
+        {
+          "character": "施俊、金牡丹、李玉环",
+          "type": "同唱",
+          "text": "想起这样离合之情，铁石人也要悲哀。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "你两家莫悲痛，已往事有本阁担待，"
+        },
+        {
+          "character": "李商隐、施俊、金牡丹、李玉环",
+          "type": "同唱",
+          "text": "求丞相、秉大公、斩崔龙，按律治罪，"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "莫要高声，且忍耐，本阁我自有主裁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、包兴、李商隐、施俊、金牡丹、李玉环同下。张三上，看。"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "哎唷，看他们两个人与这人痛哭，必是亲戚。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张三想。"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "有哉，将他三人吃的饭菜，开了一张发票，再去与他算账。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张三下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "艾虎上。"
+        },
+        {
+          "character": "艾虎",
+          "type": "唱",
+          "text": "自幼儿蒙师尊武艺传授， 练就了惊人术要把名留。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "俺、小侠艾虎。曾拜黑妖狐智化为师，在霸王庄出首恶霸马强，拦舆叩阍，金 殿见驾，认欧阳为义父，心高气爽。现今包相爷奉旨查办襄阳，一路就暗行保 护，要做一番事业，也好耀祖争光也！"
+        },
+        {
+          "character": "艾虎",
+          "type": "唱",
+          "text": "作一番惊人事显显身手， 大英雄轰烈烈就此出头。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "艾虎下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良推车上。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "行到此处口内焦渴，吃两杯茶再走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "堂倌上。"
+        },
+        {
+          "character": "堂倌",
+          "type": "白",
+          "text": "客官天气很热，吃杯茶罢。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "很好很好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良入，二车夫同放车。"
+        },
+        {
+          "character": "堂倌",
+          "type": "白",
+          "text": "客官，喝什么茶？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "与我泡一壶上好的龙井，再配几样点食。"
+        },
+        {
+          "character": "堂倌",
+          "type": "白",
+          "text": "一壶上好的龙井，几样点食！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、施俊、金牡丹、李商隐、李玉环、包兴同上，同入。"
+        },
+        {
+          "character": "堂倌",
+          "type": "白",
+          "text": "客官喝什么茶？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "红、淡各泡一壶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "堂倌应。张三上。"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "喂，这位相公，短我许多的店饭账目，你说出来找朋友，有钱无钱，你这么要 不见面。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "哎呀呀，短你们几个钱，你将我逐出店外，你说不要了，怎么又来找我？"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "岂有此理，我们开了门，多大的开销，一个短了不要，两个短了不要，我们买 卖就不要作了。没有钱也不要紧，跟我回去再说。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯拦。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "慢来慢来，有话坐下讲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张三入，坐。"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "坐下啦，老先生，你老有什么道理说说看？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "他欠你多少钱？"
+        },
+        {
+          "character": "张三",
+          "type": "白",
+          "text": "他住的日子不多，花费可是不小，连店饭钱代抓药，共计七两八钱九分五厘二 毫半，小账在外。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "倒也不多。 小伙计把他八两银子。"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "晓得哉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包兴取银。宋名、吴常自两边分暗上，同偷看。"
+        },
+        {
+          "character": "包兴",
+          "type": "白",
+          "text": "倷格人那哼勿多说几两，倷看着许多银子，拿起滚蛋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张三下。宋名、吴常同背供。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "哎，合字儿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "堂倌点头神，应。"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "噇噇刚儿，肘托挑窑儿。"
+        },
+        {
+          "character": "吴常",
+          "type": "白",
+          "text": "晓得了。 老先生，你看天不早了，倘若错过镇店，遇见歹人，大大不便，快到店房休息。 我们高家老店，房饭钱公道，童叟无欺，不要错过哎。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "你们高家店在哪里？"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "一望之地，就在乌龙岗。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "店房可宽阔洁净？"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "我们店东自建的房屋，高大宽阔，洁净无比，提起高家老店，远近驰名。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "好好，咱们大家店房一叙。"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "二位伙计，将这九位客官，送到店房，当心一点。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "堂倌领包拯、施俊、金牡丹、李商隐、李玉环、包兴同下。徐良看。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "哈哈，这几个王八日的，不是好人。方才看见这伙客人，是没有出过门的，银 子露了白。今晚住在高家店，就有性命之忧。这桩事情被我看见，我若见死不 救，还称得起什么好汉英雄，我自有道理。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "艾虎上。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "来此茶坊，吃杯茶再来趱路。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "艾虎进门，看徐良。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "堂倌泡一壶红茶来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋名应。徐良作神气。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "哎呀，天气不早了，我这个同班的人怎么还不来？我这个箱子里许多的珠宝， 现在时世又不好，要遇见了歹人不得了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良假急。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "啊，客人听你讲话，不是此地人？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "哏，我本来不是此地人。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "客人贵处是？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我是山西人。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "请教你贵姓？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好说，我姓祖。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "你的台甫？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我单名一个宗字。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "祖宗。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好说。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "咳！你怎么拿我们开心？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我没有拿你们开心。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "哪里有叫祖宗的？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "你们没有读过《百家姓》。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "《百家姓》哪一句？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "“祖武符刘”的“祖”。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "嗷嗷。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "“干谢应宗”的“宗”。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "啊，不错不错，有的有的，原来是祖宗。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好啦好啦。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "你又占我便宜。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "啊，不不不。请问二位贵姓高名？"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "我叫宋名。"
+        },
+        {
+          "character": "吴常",
+          "type": "白",
+          "text": "我叫吴常。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "原来是宋名、吴常。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "好说，祖宗吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋名、吴常同出神。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "请问你做什么生意？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "贩卖珠宝。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "哎唷，大商家。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "小生意。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "你这箱子里什么东西？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我这箱子里面，有大小金刚钻石、翡翠汉玉、珍珠玛瑙、鬃晶发晶、茶晶墨晶、 水晶妖精。"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "你不要胡闹，哪有妖精？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "真有拳头大的猫儿眼，一丈多的长的珊瑚树。"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "你瞎说，这一点大的箱子，一丈多的珊瑚树，怎么存放？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我把它锯段了，一段段的，放在里面。"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "你真能说，方才我听你自言自语说什么。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "不是的。因我这一个伙伴，他还没有来，我这箱子里，多是好东西，我又没有 出过门，路上要出了毛病，这可了不得。"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "这时候不来，不会来得了。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "这可怎么好？"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "哎呀，赶快住店罢。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "这里哪里有好店？"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "高家老店远近驰名。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好。高家老店在什么地方？"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "一望之地，乌龙岗。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好。你们二位要领我前去。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "那是一定。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我来给茶钱。"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "不用。住在高家店，茶钱我们候了。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "又让你们二位费心。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "好说。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "伙计，推车到高家店。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良出门，作神。徐良、宋名、吴常同下。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "堂倌，茶钱在此，俺要去了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "艾虎出门。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "哎呀不好，看这山西客人，被他们诓到高家店，恐怕凶多吉少，我不免暗暗的 跟随保护与他，就此前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "艾虎下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、施俊、金牡丹、李商隐、李玉环、包兴、堂倌同上，高解迎上。"
+        },
+        {
+          "character": "堂倌",
+          "type": "白",
+          "text": "老先生，你看看啊清净勿清净？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "倒也清净。替我们预备两间上房，上等酒饭，快快取来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "堂倌取酒菜，高解与堂倌咬耳。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "大家饮酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。包拯、施俊、金牡丹、李商隐、李玉环、包兴同昏倒。"
+        },
+        {
+          "character": "高解",
+          "type": "白",
+          "text": "来呀，将他绑了，凉水激醒。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "呀，怎么将我捆绑起来？"
+        },
+        {
+          "character": "高解",
+          "type": "白",
+          "text": "包拯，你敢乔装改扮，被我看破，还不实说？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "咳，我们乃是过路的客商，不晓得什么包拯哪。"
+        },
+        {
+          "character": "高解",
+          "type": "白",
+          "text": "住了，你害了我们绿林英雄不少，今日也是你的报应到了。 来呀，将他绑在化人厨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯、施俊、金牡丹、李商隐、李玉环同绑下。宋名、吴常同上。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "启禀寨主：有一白眉毛的客人，我把他诓到店里来了，是贩卖珠宝的，箱子里 多是好东西。"
+        },
+        {
+          "character": "高解",
+          "type": "白",
+          "text": "好，这是你的功劳一件。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良、车夫同上。"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "啊，祖宗，你看这是高家店。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "高家老店，好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良进店看高解，出神。"
+        },
+        {
+          "character": "高解",
+          "type": "白",
+          "text": "就是这白眉毛的么？"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高解背供。"
+        },
+        {
+          "character": "高解",
+          "type": "白",
+          "text": "今天晚上我先来杀他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高解下。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "祖宗，你肚子饿了吧？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "老早饿了。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "你吃点什么？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "你们有什么好东西？"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "我们这里有上好的官席。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好，给我预备上等的官席。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "你要吃什么酒？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "你们这里有什么好酒？"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "我们这里有御珍陈绍。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好，给我预备御珍陈绍。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "是。 厨房里上等的官席一桌，御珍陈绍一壶，里面多加海海的米子。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "宋名、吴常！"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "祖宗。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我叫你们喊下去上等官席一桌，御珍陈绍一壶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋名、吴常同应。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "这里头多加的海海米子，这个米子是什么东西？"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "这海海米子，就是胡椒米。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好。我最爱吃胡椒米，你是越海越好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋名、吴常同喜。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "嗷，米子儿越海越好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋名、吴常同放药，徐良看。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "祖宗，酒到。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "这里头米子儿海不海？"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "海！"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "菜？"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "马上就来。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "快点儿。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "晓得。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋名、吴常同出门。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "等不到小菜马上就完。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良倒酒，假吃作神。宋名、吴常同看，同喜。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "不好，这个酒吃下去，脑袋这么晕晕花花。不好，哎呀不好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良假昏。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "哈哈。无辜占我们的便宜，这不成了罢。"
+        },
+        {
+          "character": "吴常",
+          "type": "白",
+          "text": "报与寨主来杀他。"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "这点小事，不用禀告寨主。咱们两个人两把小刀，就把他刃啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋名刺，徐良抓。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "哎呀，祖宗，你不是喝酒迷了过去了么？"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "酒是喝啦，你们这个米子儿不海。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "坏啦。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好吓。你们把酒内下了蒙汗药，幸亏遇见我，如要遇见旁人，要上你们的当了。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "哎呀祖宗饶命，下次不敢。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我今天饶了你们的命，下次你们就不饶旁人的命了。"
+        },
+        {
+          "character": "宋名、吴常",
+          "type": "同白",
+          "text": "这个……"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "你叫什么东西？"
+        },
+        {
+          "character": "宋名",
+          "type": "白",
+          "text": "我叫宋名。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好，我来送你的命。 你叫什么东西？"
+        },
+        {
+          "character": "吴常",
+          "type": "白",
+          "text": "我叫吴常。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "好，我来开你的肠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良拖宋名、吴常同下。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "天气还早，我先休息休息，等飞毛腿高解到来，我再拿他耍笑耍笑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "艾虎上。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "来此高家店。 店家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店家上。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "客官可是住店的么？"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "请到里面。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "带路。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "艾虎进，看。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "客官你看这里房屋洁净。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "你用些什么？"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "我在前店用过了。取盏灯来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店家应，持灯到。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "唤你再来，去罢。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "晓得。 伙计上板门啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店家下。徐良、艾虎对偷看。艾虎吹灯。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我就在此地休啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起鼓〗。高解上，摸黑。徐良打，高解下。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "哎呀，白眉毛仁兄，今晚不是我在此地，你就大大的危险了！"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "承情承情。"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "好说好说。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "我请问你住在店里的黑脸面的，他是什么人？"
+        },
+        {
+          "character": "艾虎",
+          "type": "白",
+          "text": "那就是龙图阁大学士包大人。"
+        },
+        {
+          "character": "徐良",
+          "type": "白",
+          "text": "吓，那就是包相爷。你我二人赶紧去搭救便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良、艾虎同下。高解上。"
+        },
+        {
+          "character": "高解",
+          "type": "白",
+          "text": "且住，包公的羽党，前来搭救。 众喽啰，把包拯绑在机关。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯绑上，下。徐良、艾虎同追上，同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二头目、二喽啰绑包拯同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "高解大胆太狂妄， 敢把朝廷大臣杀。 灭门九族全不想，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯入机关。高解上。"
+        },
+        {
+          "character": "高解",
+          "type": "唱",
+          "text": "顷刻叫他丧无常。 与众除害去祸党，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐良、艾虎同上，镖打高解，夺刀。包拯自另一机关出。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "飞蛾投火自残伤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "幕布放下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

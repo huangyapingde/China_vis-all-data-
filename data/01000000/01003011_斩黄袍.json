@@ -1,0 +1,2620 @@
+{
+  "script_id": "01003011",
+  "title": "斩黄袍",
+  "alias": [
+    "斩郑恩"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "赵匡胤",
+      "hangdang": "红生"
+    },
+    {
+      "name": "郑恩",
+      "hangdang": "净"
+    },
+    {
+      "name": "高怀德",
+      "hangdang": "未知"
+    },
+    {
+      "name": "苗顺",
+      "hangdang": "末"
+    },
+    {
+      "name": "韩龙",
+      "hangdang": "丑"
+    },
+    {
+      "name": "郑英",
+      "hangdang": "小生"
+    },
+    {
+      "name": "陶三春",
+      "hangdang": "正旦"
+    },
+    {
+      "name": "家院",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "五代末柴荣既死，赵匡胤黄袍加身，取得帝位，纳河北韩龙妹韩素梅为妃，终日昵居韩宫，颇有晏安骄淫之\n态。因妃故，拔封韩龙为卿贰。赵匡胤义弟郑恩，素憨直入谏，不听；在殿前斥赵匡胤昏聩无道。赵匡胤怒\n甚，命缚之殿前，含怒入宫。妃悉其状，因与兄乘机搆谋，将上灌醉，矫旨出宫斩之。高怀德叠次飞章入宫\n力保，均为韩龙兄妹所沮匿。郑恩卒屈死。既而郑恩妻陶三春知之，率兵逼临城下。赵匡胤惧，始懊悔不及。\n惟苦求高怀德调停保护，高怀德即怒斩韩龙于御前，要请上杀韩妃，封荫郑恩妻子，益以采地，并赐黄袍，\n以谢郑恩魂于地下。赵匡胤不得已，一一从之，陶三春乃退兵。",
+  "notes": "前见江湖班中唱演此戏，不名《斩黄袍》，名《赐黄袍》；去赵匡胤之生角，名为红生，其调较白面之须生\n较阴，而带有徽腔，亦殊抑扬可听。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引赵匡胤、郑恩同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "少游关西创帝邦，"
+        },
+        {
+          "character": "郑恩",
+          "type": "念",
+          "text": "董家桥头摆战场。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "鞭坠董龙董虎丧，"
+        },
+        {
+          "character": "郑恩",
+          "type": "念",
+          "text": "保定大哥做帝王。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "本藩南宋王赵匡胤。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "本藩北平王郑子明。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "三弟请坐。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "二哥请坐。二哥，大哥晏驾，不知傅后怎样的传旨？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "等先生御亲到来，便知分晓。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "先生御亲到。"
+        },
+        {
+          "character": "赵匡胤、郑恩",
+          "type": "同白",
+          "text": "动乐相请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。苗顺、高怀德同上。"
+        },
+        {
+          "character": "苗顺、高怀德",
+          "type": "同白",
+          "text": "二位千岁！"
+        },
+        {
+          "character": "赵匡胤、郑恩",
+          "type": "同白",
+          "text": "先生、御卿请坐！"
+        },
+        {
+          "character": "高怀德、苗顺",
+          "type": "同白",
+          "text": "二位千岁请坐！"
+        },
+        {
+          "character": "赵匡胤、郑恩",
+          "type": "同白",
+          "text": "不知先生、御卿驾到，未曾远迎，有罪！"
+        },
+        {
+          "character": "高怀德、苗顺",
+          "type": "同白",
+          "text": "岂敢！未曾问候二位千岁金安，恕罪！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "岂敢！大哥晏驾，不知傅后怎样传旨？"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "皇后传下旨意：此有冲天冠、赭黄袍，付与哪家千岁执掌，三年五载，太子成 龙，原业归宗。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "咱的二哥，傅后虽是女流之辈，倒有男子肚才！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "这倒果然！"
+        },
+        {
+          "character": "文堂甲",
+          "type": "白",
+          "text": "宴齐。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "看宴过来。 待我把盏！"
+        },
+        {
+          "character": "高怀德、苗顺",
+          "type": "同白",
+          "text": "不敢！摆下就是。"
+        },
+        {
+          "character": "赵匡胤、郑恩",
+          "type": "同白",
+          "text": "来，将宴摆下。 先生、御卿请。"
+        },
+        {
+          "character": "高怀德、苗顺",
+          "type": "同白",
+          "text": "二千岁、三千岁同请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "画眉序牌。〖吹打〗。赵匡胤醉。"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "三千岁、御卿，你看二千岁酒醉席前，不如就将冲天冠、赭黄袍，与他穿戴起 来。"
+        },
+        {
+          "character": "郑恩、高怀德",
+          "type": "同白",
+          "text": "他若酒醉来问呢？"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "他若酒醒来问，只说是一阵狂风，吹在他身上来的。"
+        },
+        {
+          "character": "郑恩、高怀德",
+          "type": "同白",
+          "text": "说得有理。"
+        },
+        {
+          "character": "苗顺、郑恩、高怀德",
+          "type": "同白",
+          "text": "主公醒来！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮导板",
+          "text": "梦儿里只见我兄长，"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "将江山大事付玄郎。 猛然间睁开了昏花眼，"
+        },
+        {
+          "character": "苗顺、郑恩、高怀德",
+          "type": "同白",
+          "text": "万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "称孤道寡谁是王？"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "恭喜二哥！贺喜二哥！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "喜从何来？"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "二哥做了皇帝，怎的不是恭喜贺喜呢？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "郑高苗",
+          "type": "同白",
+          "text": "头戴冲天冠，身穿赭黄袍，即是皇帝。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "这冲天冠赭黄袍，是哪里来的？"
+        },
+        {
+          "character": "郑高苗",
+          "type": "同白",
+          "text": "乃是一阵狂风，吹在万岁身上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "这又奇了！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮流水板",
+          "text": "他三人说话俱一样， 在陈桥朦胧我赵玄郎。 有辈古人对你们讲， 先生、御卿、三弟听端详： 昔日有个贼杨广， 他本是酒色一昏王。 御花园调戏亲妹子， 养老院气死年迈娘。 这等昏王就该丧， 为什么还在阳世上？ 一把宝剑入手掌，"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "罢！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮流水板",
+          "text": "不如一死见兄王！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "二哥做皇帝也在你，不做皇帝也在你，为何要寻短见呢？"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "不要如此，请到祭天台一祭。看是哪家国号，就是那家做皇帝。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "先生讲得有理。 来，摆驾祭天台。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引赵匡胤、郑恩、苗顺、高怀德同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二童子扶神仙同上，神仙写，二童子、神仙同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤、郑恩、苗顺、高怀德、四文堂同上，同拜。〖吹打〗。众人同拿帖过场。〖风入松〗，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤、郑恩、苗顺、高怀德、四文堂同上。"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "这上面字迹，不甚明白，待我袖内一数。原来要老苍龙的画押。 三千岁，这上面字迹不明，请借三千岁的翰墨一用。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "嘻嘻，先生明知咱老郑不识字的，又来取笑么？"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "原来不识字者更妙！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "怎么讲，正要不识字的？拿笔来！ 咱大哥登基，也是老郑这一笔；咱二哥今日登基，又要老郑这一笔，好似万里 江山凭点墨。"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "有了国号了：“乾德王，赵。” 请主公看来。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "“乾德元年赵。” 先生、御卿请！"
+        },
+        {
+          "character": "苗顺、高怀德",
+          "type": "同白",
+          "text": "主公请！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "三弟情！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "二哥你就坐了罢！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "这就是玄郎不恭了！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮流水板",
+          "text": "天作保来地作保， 在陈桥坐下龙一条。 昔日打马过金桥， 偶遇先生八卦高。 你算孤王八字好， 到后来必定坐九朝。 到如今果应了前言兆， 你比这诸葛、凤雏还算得高。 施罢一礼坐陈桥，恕玄郎不恭了， 三弟近前听封号： 你若是真心把孤保， 封你北平王位镇当朝。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "老王封过了。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮流水板",
+          "text": "虽然是老王封过了， 官升三级用在朝。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "谢王龙恩。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮流水板",
+          "text": "苗顺近前听封赠： 护国军师辅寡人。 孤王赐你一道本， 晓喻傅后把宫腾。"
+        },
+        {
+          "character": "苗顺",
+          "type": "西皮摇板",
+          "text": "苗顺领了万岁旨， 晓喻傅后得知情。 袖内八卦来算定， 十八载天下不太平。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苗顺下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮流水板",
+          "text": "适才封罢苗先生， 回头再封高御卿： 孤王赐你尚方剑， 朝里朝外要查得清。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "高怀德",
+          "type": "西皮摇板",
+          "text": "叩罢头来谢龙恩， 朝里朝外要查得明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀德下。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "请二哥出了赦条，早安民心。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮流水板",
+          "text": "乾德元年出赦条， 晓喻黎民得知晓： 一赦钱粮并钱钞， 二赦囚犯出监牢。 此地不是藏龙道……"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮摇板",
+          "text": "咱保二哥坐九朝。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "此地不是藏龙之所，请驾汴梁。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "摆驾汴梁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙上。"
+        },
+        {
+          "character": "韩龙",
+          "type": "念",
+          "text": "昨晚三更得一梦，梦见妹子床上一条龙。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "在下韩龙。今有赵匡胤在汴梁登基，不免带了妹子，前去进妃。 贤妹哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩素梅上。"
+        },
+        {
+          "character": "韩素梅",
+          "type": "念",
+          "text": "昨晚一梦在皇宫，醒来依然在家中。 兄长。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "妹妹请坐。"
+        },
+        {
+          "character": "韩素梅",
+          "type": "白",
+          "text": "唤我出来何事？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "贤妹有所不知，今有赵匡胤在汴梁登基。想你当日与他有约，故此叫你出来商 议，把你进妃。你意下如何？"
+        },
+        {
+          "character": "韩素梅",
+          "type": "白",
+          "text": "几时起程？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "今日起程。"
+        },
+        {
+          "character": "韩素梅",
+          "type": "念",
+          "text": "待我收拾行和李，"
+        },
+        {
+          "character": "韩龙",
+          "type": "念",
+          "text": "兄妹二人奔汴京。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙、韩素梅同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄门官上。"
+        },
+        {
+          "character": "黄门官",
+          "type": "念",
+          "text": "富贵奇异报晓酬，万国衣冠拜冕旒。"
+        },
+        {
+          "character": "黄门官",
+          "type": "白",
+          "text": "下官，黄门官是也。今有河北韩龙，前来进妃，待等圣驾登殿，启奏便了。香 烟渺渺，圣驾临朝。朝房伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄门官下。四太监引赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "引子",
+          "text": "朕登山河，万民安乐。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "兄弟结拜黄土岗，秦禹庙内一炷香。自从大哥晏驾后，众臣扶孤坐汴梁。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "孤，乾德王赵。兄王晏驾，陈桥兵变，国号大宋。今当早朝。 内臣！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监同允。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "开放龙门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄门官上。"
+        },
+        {
+          "character": "黄门官",
+          "type": "念",
+          "text": "韩龙进妃事，奏与万岁知。"
+        },
+        {
+          "character": "黄门官",
+          "type": "白",
+          "text": "启奏万岁：今有河北韩龙，前来进妃，已在午门候旨。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "宣韩龙冠带上殿。"
+        },
+        {
+          "character": "黄门官",
+          "type": "白",
+          "text": "万岁有旨：宣韩龙冠带上殿。"
+        },
+        {
+          "character": "韩龙",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙上。"
+        },
+        {
+          "character": "韩龙",
+          "type": "念",
+          "text": "忽听君王宣，忙步上金銮。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "臣，韩龙见驾，吾皇万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "到此则甚？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "前来进妃。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "进的何人？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "臣妹韩素梅。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "宣韩素梅容装上殿。"
+        },
+        {
+          "character": "韩素梅",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩素梅上。"
+        },
+        {
+          "character": "韩素梅",
+          "type": "念",
+          "text": "从未见过天子面，今日方知君王尊。"
+        },
+        {
+          "character": "韩素梅",
+          "type": "白",
+          "text": "韩素梅见驾，吾皇万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "抬起头来！"
+        },
+        {
+          "character": "韩素梅",
+          "type": "白",
+          "text": "抬头有罪。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "恕你无罪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩素梅抬头。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "妙吓！寡人有言在先：若得江山社稷，封你与为桃花宫院，今日果应前言。 内侍领她进宫。"
+        },
+        {
+          "character": "韩素梅",
+          "type": "白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": "韩素梅",
+          "type": "念",
+          "text": "万岁将我封，执掌桃花宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩素梅下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "韩龙听封。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "封你为大理寺正卿，游街三日！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "谢主龙恩！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "回来，千万不要闯了三千岁的御道！下殿！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "领旨，请驾回宫！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "退班。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤、四太监同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑恩上，四龙套同上。"
+        },
+        {
+          "character": "郑恩",
+          "type": "念",
+          "text": "雌雄眼能观天下，枣阳槊保定邦家。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "本藩北平王郑子明。二哥登基大宝，不免去到教场，祭祭咱的枣阳槊。 来，打道教场！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同允。〖牌子〗。四龙套、郑恩同走圆场。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "启三千岁：来此教场！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "摆开香案。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑恩上香，拜。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "天地神明，日月三光，咱二哥登基有凶降凶，有吉降吉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "暗旦打。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "启三千岁：枣阳槊一炸两断。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "哎呀！不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "想咱的枣阳槊，一炸两断，是他娘的不祥之兆！ 来，打道回府！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。韩龙暗上。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "前道为何不行？"
+        },
+        {
+          "character": "龙套",
+          "type": "同白",
+          "text": "韩龙当道！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "列开旗门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙迎。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "迎接三千岁！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "你是何人？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "河北韩龙。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "前来则甚？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "前来进妃。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "进的何人？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "我妹韩素梅。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "圣上怎样的传旨？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "封在桃花宫院。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "你呢？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "大理寺正卿。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "起过！ 吓，想大哥登基，当日河北马瑶前来进妃，后来火烧尧王庙；今日二哥登基， 又有韩龙前来进妃，又是他娘不祥之兆！待我打发他回去。 韩龙附耳上来，咱老子有话说。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "三千岁吩咐。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "走！狗娘养的！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑恩打韩龙。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "哎吓哎吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙下。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "韩龙，你走往哪里去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑恩追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监引赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "龙阁凤楼帝王家，笛歌鼓乐闹喝哗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙上。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "哎呀，万岁，将臣打坏了！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "韩龙为何这等模样？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "臣奉旨游街，偶遇三千岁，将臣饱打一顿。望万岁作主！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "先前怎样吩咐与你，偏偏闯了他的御道！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑恩追上。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "韩龙你往哪里走！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "三千岁赶来了！万岁作主！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "藏在龙书案下，躲避躲避。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙躲。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "韩龙哪里走，韩龙哪里去！咱老子死也不来赶你。 二哥请了！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "吓！三弟为何怒气不息？为着何来？"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "就为你来！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "为寡人何来？"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "我来问你，方才身着红袍官儿，他是何人？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "河北韩龙。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "前来则甚？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "前来进妃。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "进的何人？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "他妹韩素梅。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "二哥怎样传旨？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "封为桃花宫院。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "韩龙呢？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "大理寺正卿。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "吓！二哥这就是你的不是了。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "怎么是寡人不是呢？"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "当日大哥登基，也是河北马瑶，前来进妃，后来火烧尧王庙；今日二哥登基， 又是河北韩龙，前来进妃，此乃不祥之兆！定要将他赶出宫去便罢；如若不能， 咱老郑的火性要发了！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "唔！动不动你的火性就要发燥，难道就无人敢灭你的火性？"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "别人的火性倒有人灭，咱老郑的火性，谁人敢灭？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "寡人今日，偏偏要灭灭你的火性！ 殿前武士！"
+        },
+        {
+          "character": "众武士",
+          "type": "同白",
+          "text": "领旨！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "绑了！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "唗！这个囚娘养的，谁敢动手？"
+        },
+        {
+          "character": "众武士",
+          "type": "同白",
+          "text": "启三千岁：江山也是你家的，社稷也是你家的。今日不受一绑，恐满朝文武不 服。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "起来。 倒是这两个囚娘养的，说得有理。我不受今日一绑，尤恐满朝文武不服。 来，叫你们绑，你们就绑；叫你们松，你们就要松。来来来，绑绑看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众武士同绑郑恩。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "哎呀，有些难过，快快松绑！"
+        },
+        {
+          "character": "众武士",
+          "type": "同白",
+          "text": "万岁无旨，不敢松绑。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "万岁念臣，董家桥救驾有功，将功折罪。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "不提董家桥，还则罢了；提起董家桥，寡人是定斩不赦！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "你当真要斩？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "当真要斩！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "你果然要斩？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "果然要斩！"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "凭你娘的斩吓！"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮快板",
+          "text": "站在金殿泪如梭， 骂声昏王你听着： 你坐江山亏哪个？ 全仗老郑枣阳槊。 争来江山你来坐， 好色昏迷要斩我！ 含悲忍泪下殿角， 且看何人把本托。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众武士押郑恩同下。韩龙出。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "启万岁：三千岁犯罪，何人监斩？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "难道命你监斩不成？"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "转来，寡人不曾传旨。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "君无戏言！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "好一个君无戏言！就命你监斩，领旨下殿。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "朝事以毕，请驾回宫。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤下。"
+        },
+        {
+          "character": "韩龙",
+          "type": "念",
+          "text": "金殿领圣旨，监斩有仇人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苗顺上。"
+        },
+        {
+          "character": "苗顺",
+          "type": "西皮快板",
+          "text": "昨夜晚在灯下占就一课， 算就了老苍龙命归天河。"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "老夫苗顺。昨晚卜占一课，算定苍龙，命当归天。本待上殿保奏，此乃天机不 可洩漏。不免迎上前去便了。"
+        },
+        {
+          "character": "苗顺",
+          "type": "西皮摇板",
+          "text": "将身来在午朝门，"
+        },
+        {
+          "character": "高怀德",
+          "type": "内白",
+          "text": "先生等着！"
+        },
+        {
+          "character": "苗顺",
+          "type": "西皮摇板",
+          "text": "那旁来了高御亲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苗顺下。高怀德上。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "吓！"
+        },
+        {
+          "character": "高怀德",
+          "type": "西皮摇板",
+          "text": "迈步如梭出朝房，"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "本爵高怀德。不知三千岁，身犯何罪，推出午门取斩。我想此本，我怀德不保， 谁人来保？不免闯进宫闱，问个明白！"
+        },
+        {
+          "character": "高怀德",
+          "type": "西皮摇板",
+          "text": "怀德要保北平王。 将身来在宫门上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监上。"
+        },
+        {
+          "character": "高怀德",
+          "type": "西皮摇板",
+          "text": "见了公公说端详。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "原来是高御亲，到此何事？"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "公公有所不知，三千岁不知身犯何罪，推出午门去斩。怀德有本，保北平王不 死。望公公转奏。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "咱家与你转奏就是。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "有劳公公。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "启奏万岁：今有万里侯本章，保北平王无罪。"
+        },
+        {
+          "character": "韩素梅",
+          "type": "内白",
+          "text": "万岁酒醉，将本章押下。有宝剑一口，悬挂宫门，有人保本，提头来见。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "哎呀！高御亲事不好了！"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "怎样？"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "万岁爷酒醉桃花宫，娘娘将你的本章押下；有宝剑一口，悬挂宫门，再有人保 奏，提头来见。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "万岁酒醉桃花宫，也罢！待我闯进宫去。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "万里侯难道你不要脑袋子么？"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "哎呀，看这昏王，酒醉桃花宫；娘娘又将我的本章押下，这君不能见臣，臣不 能见君，这这这便怎么处？哦，有了！不免回到府中，全身披挂，阻住午门， 见文杀文，遇武杀武，就是这个主意，回府披挂便了。"
+        },
+        {
+          "character": "高怀德",
+          "type": "西皮快板",
+          "text": "昏王斩了忠良将， 只怕江山不久长。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀德下，太监下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑英上。"
+        },
+        {
+          "character": "郑英",
+          "type": "念",
+          "text": "独坐书房，心中烦闷。"
+        },
+        {
+          "character": "郑英",
+          "type": "白",
+          "text": "小生郑英，昨晚偶得一梦，梦见爹爹发白转黑，不知如何吉凶，不免请出母亲， 圆解圆解。 有请母亲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春上。"
+        },
+        {
+          "character": "陶三春",
+          "type": "念",
+          "text": "夫受皇家爵，妻沾雨露恩。"
+        },
+        {
+          "character": "郑英",
+          "type": "白",
+          "text": "母亲孩儿拜揖。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "罢了。坐下。"
+        },
+        {
+          "character": "郑英",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "请为娘出来何事？"
+        },
+        {
+          "character": "郑英",
+          "type": "白",
+          "text": "孩儿昨晚偶得一梦，梦见爹爹发白转黑，不知主何吉兆？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "吓，为娘也得此梦！且等家院回来，便知如何。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "启夫人、公子：大事不好了！"
+        },
+        {
+          "character": "郑英、陶三春",
+          "type": "同白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "不知王爷犯了何罪，绑出法场去斩，特来报知。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑英、陶三春同哭。"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮摇板",
+          "text": "听说王爷绑法场， 怎不叫人两泪汪！"
+        },
+        {
+          "character": "郑英",
+          "type": "白",
+          "text": "母亲不必悲泪，待孩儿去至法场，看个明白。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "我儿须要小心。家院一同前去。"
+        },
+        {
+          "character": "郑英",
+          "type": "西皮摇板",
+          "text": "在府中领了母亲命， 去到法场看分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑英、家院同下。"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮摇板",
+          "text": "王爷若有长和短， 叫我母子倚何人？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": "韩龙",
+          "type": "内白",
+          "text": "刀斧手，绑好了！"
+        },
+        {
+          "character": "郑恩",
+          "type": "内西皮导板",
+          "text": "昔日纣王宠妲己，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众武士押郑恩同上，韩龙上。"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮快板",
+          "text": "诗句题在粉壁墙。 女娲娘娘冲冲怒， 招取妲己乱朝纲。 比干丞相剖心丧， 贾氏夫人坠楼亡。 黄飞虎父子造了反， 八百诸侯反朝堂。 摘星楼纣王火焚丧， 保定周室在朝堂。 再不能朝房会文武， 再不能校场训儿郎； 再不能与夫人来叙讲， 再不能与我儿作商量； 再不能金殿把本奏， 再不能领兵伐边疆。 将身且把法场上，"
+        },
+        {
+          "character": "郑恩",
+          "type": "哭",
+          "text": "儿吓！"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮摇板",
+          "text": "要相逢除非是大梦黄粱。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "公子随我来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑英上。"
+        },
+        {
+          "character": "郑英",
+          "type": "西皮摇板",
+          "text": "将身来在法场上， 不知爹爹在哪厢。 不顾生死往前闯，"
+        },
+        {
+          "character": "众武士",
+          "type": "同白",
+          "text": "呔！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "他是何人？"
+        },
+        {
+          "character": "众武士",
+          "type": "同白",
+          "text": "三千岁的公子。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "拿去杀了罢。"
+        },
+        {
+          "character": "众武士",
+          "type": "同白",
+          "text": "家无全犯。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "什么家无全犯，先杀老的，后杀小的！"
+        },
+        {
+          "character": "郑英",
+          "type": "白",
+          "text": "哎呀，爹爹吓！"
+        },
+        {
+          "character": "郑英",
+          "type": "西皮摇板",
+          "text": "见了爹爹问端详。"
+        },
+        {
+          "character": "郑英",
+          "type": "白",
+          "text": "爹爹醒来！"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮摇板",
+          "text": "法场上绑得我两眼昏， 抬头只见小娇生。 不在学堂习经纶， 来到法场为何因？"
+        },
+        {
+          "character": "郑英",
+          "type": "西皮摇板",
+          "text": "爹爹犯了何条罪， 捆绑法场受非刑？"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮摇板",
+          "text": "昏王听信谗言语， 要把为父问斩刑。"
+        },
+        {
+          "character": "郑英",
+          "type": "西皮摇板",
+          "text": "孩儿回府点人马， 反上金殿拿昏君。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "住口！畜生若提造反之事，靴尖之下，送儿的残生！"
+        },
+        {
+          "character": "郑英",
+          "type": "西皮摇板",
+          "text": "这是昏王无了道， 非怪孩儿起反心。"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮摇板",
+          "text": "郑家本是忠良将， 岂肯作了反叛臣？"
+        },
+        {
+          "character": "郑英",
+          "type": "西皮摇板",
+          "text": "法场上闷坏了小郑英， 倒不如一命丧残生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄花真人上。"
+        },
+        {
+          "character": "黄花真人",
+          "type": "西皮快板",
+          "text": "黄花山来黄花洞， 黄花洞中一仙翁。 你的儿子我带去， 兵法武艺教得通。 若要她母子重相会， 大下南唐再相逢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄花真人救郑英同下。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "启三千岁：公子不见了。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "哎呀，不好了！"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮摇板",
+          "text": "一见姣儿他不见， 丢下你母靠何人！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众武士同允。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "时辰可到？"
+        },
+        {
+          "character": "武士",
+          "type": "同白",
+          "text": "未到。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "可有个赖时？"
+        },
+        {
+          "character": "众武士",
+          "type": "同白",
+          "text": "只有亥时，没有赖时。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "赖个时辰，拿去斩了罢。"
+        },
+        {
+          "character": "众武士",
+          "type": "同白",
+          "text": "请三千岁归天位。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "昏王吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑恩下。"
+        },
+        {
+          "character": "众武士",
+          "type": "同白",
+          "text": "开刀斩讫。"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "上殿交旨。"
+        },
+        {
+          "character": "韩龙",
+          "type": "念",
+          "text": "满朝文武俱斩尽，让我兄妹掌权衡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众武士、韩龙同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春上。家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "启夫人：王爷斩首法场，公子一时不见了。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "哎呀，老爷吓！"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮摇板",
+          "text": "听说儿夫丧了命， 怎不叫人泪淋淋！"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "家院，吩咐众将，各自披挂，大堂听点。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春下。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "众将个个披挂，大堂听点！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起鼓。四龙套自两边分上。陶三春上。"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮快板",
+          "text": "炮响号令振山岳， 拿住昏君定不饶。 人来催马前引道， 杀上金殿灭当朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑恩上。"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮摇板",
+          "text": "汗马功劳今何在， 无常一到万事休。"
+        },
+        {
+          "character": "郑恩",
+          "type": "白",
+          "text": "吾乃郑恩鬼魂是也。只因陶三春，点动人马，与我报仇。现有黄花真人，将吾 儿救去，夫人哪里知道。不免去到中途，路上说明便了。"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮摇板",
+          "text": "将身站在中途路， 等候我妻陶三春。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同上，陶三春上。"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮摇板",
+          "text": "王府点动人和马， 要与夫君把冤伸。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "前道为何不行？"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "黑风挡路。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "列开旗门。"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮快板",
+          "text": "陶三春马上问一声， 你是何方鬼怪精？"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮快板",
+          "text": "不是鬼来不是精， 是你的丈夫郑子明。"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮快板",
+          "text": "既是我夫郑子明， 可知孩儿信和音？"
+        },
+        {
+          "character": "郑恩",
+          "type": "西皮快板",
+          "text": "黄花山来黄花洞， 黄花洞中一仙翁。 将我孩儿他带去， 道法武艺他教通。 你母子若要重相会， 大下南唐再相逢。 本待与你多叙话， 尤恐误了南天门。 耳旁听得天鼓响， 你走阳来我走阴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑恩下。"
+        },
+        {
+          "character": "陶三春",
+          "type": "哭",
+          "text": "哎呀！王爷，夫君呀！"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮快板",
+          "text": "一见夫君他去了， 怎不叫人两泪抛！ 叫儿郎催动人和马， 反上金殿拿昏王！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、陶三春同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": "高怀德",
+          "type": "内白",
+          "text": "走吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀德上。〖急急风〗。太监扶赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮二六板",
+          "text": "孤王酒醉桃花宫， 韩素梅生来好貌容。 寡人一见龙心宠， 兄封国舅，妹封在桃花宫。 内侍臣摆驾上九重……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "昏王你来了！你要打点，你要仔细！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "高御亲发怒为哪宗？"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "就为你来！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "为寡人何来？"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "三千岁身犯何罪，为何将他问斩？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "迈步忙把金殿进， 快快赦回有功臣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武士甲上。"
+        },
+        {
+          "character": "武士甲",
+          "type": "白",
+          "text": "三千岁首级呈上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武士甲下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哎呀呀！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "一见人头珠泪滚， 不有孤王痛在心。 我哭……哭一声郑三弟， 叫一声北平王吓…… 孤王酒醉错斩你，三弟吓！ 可叹你为寡人丧残生！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "内侍，三千岁尸首，不可损坏，孤王要赐金井玉葬。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊，北平王犯罪，但不知何人监斩？"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "韩龙。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "宣韩龙上殿！"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "万岁有旨：宣韩龙上殿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩龙上。"
+        },
+        {
+          "character": "韩龙",
+          "type": "念",
+          "text": "忽听万岁宣，又要监斩官。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "呔！你就是韩龙，你要打点了，你要仔细了！"
+        },
+        {
+          "character": "韩龙",
+          "type": "白",
+          "text": "你不要啰嗦，少不得，又是我手里的货！ 臣韩龙见驾，吾皇万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "唗！胆大的韩龙，三千岁犯罪，你不保本，反讨下监斩的旨意，似你这等欺君 误国的臣子，就该去……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "斩吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀德斩韩龙。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哎吓！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "孤王“斩”字未出唇， 血淋淋人头滚埃尘！ 我哭……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "我不许你哭！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "哭",
+          "text": "哎哎……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "我不许你嚎！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "我哭……哭也不敢哭， 你死休要怨寡人！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "内侍将韩龙尸首，亦不可损坏，寡人赐金井玉葬。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "且慢！想这等臣子，那有金井玉葬！ 来，将他打下万丈深坑！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监抬韩龙同下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊，三千岁犯罪，护国军师，他不来保本，往哪里去了？ 宣军师！"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "万岁宣军师上殿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苗顺上。"
+        },
+        {
+          "character": "苗顺",
+          "type": "念",
+          "text": "身在帝王边，"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "呔！你就是护国军师！你要打点，你要仔细！"
+        },
+        {
+          "character": "苗顺",
+          "type": "念",
+          "text": "犹如伴虎眠！"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "臣苗顺见驾，吾皇万岁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "唗！三千岁犯罪，你不保本，往哪里去了？"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "臣已保过数本，怎奈万岁酒醉……"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "唔！动不动，就是孤王酒醉，似你这贪生怕死的臣子，就该……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "斩吓！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哎呀！御亲吓，自盘古以来，哪有斩杀军师的道理？ 先生你将龙头象笏，放在龙书御案，你、你、你、你逃生去罢！"
+        },
+        {
+          "character": "苗顺",
+          "type": "白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": "苗顺",
+          "type": "西皮摇板",
+          "text": "龙书案下三叩首， 尤是鳌鱼脱金钩。 官诰押在龙书案， 这是我为官的下场头！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苗顺下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "金殿去了苗先生， 再与御亲把话论！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "吓，御亲，你是孤王一门内亲，北平王犯罪，你不保本，往哪里去了？"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "住了！你这昏王酒醉桃花宫内，保过数本，娘娘将本押下，是怎的没有？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哦，你保过本了，孤王我要查看！ 内侍，单查万里侯的本章。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "有了你的本章，还则罢了；无有你的本章，孤岂肯与你甘休！"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "“诚惶诚恐，万里侯高……”"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "“诚惶诚恐”……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "呔！可有没有？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "有本章。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "你看！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "我看。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "你要看！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "我慢慢的看呢！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮快板",
+          "text": "“诚惶诚恐顿首上， 一本单保北平王。 若是斩了开国将， 万里江山不久长。”"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "陶三春反上金殿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "听说反了陶三春， 好叫孤王吃一惊。 回头便对御亲论， 弟妹人马你要当承。"
+        },
+        {
+          "character": "高怀德",
+          "type": "西皮摇板",
+          "text": "听说反了陶三春， 不由我心中喜盈盈。 任她反来任她杀， 怀德不管这闲事情！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "骂声怀德是奸臣！"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "谁是奸臣？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你是忠臣，我晓得吓！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "仰面朝天笑寡人， 孤王传旨将你斩……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "你斩谁？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "我不敢斩！"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "你不敢斩我！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "哎唷唷，我晓得吓！ 哪一个敢斩孤的高御亲！ 孤王无奈屈膝跪， 不看寡人看先君。"
+        },
+        {
+          "character": "高怀德",
+          "type": "西皮摇板",
+          "text": "尊声万岁忙请起， 皇嫂人马我担承。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "内待臣罢驾敌楼进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤、高怀德同上城。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "看看弟妹发来兵。"
+        },
+        {
+          "character": "陶三春",
+          "type": "内西皮导板",
+          "text": "北平府逼反陶三春，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶三春上，四龙套同上。"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮快板",
+          "text": "号炮不住响连声。 叫儿郎将皇城来围定， 拿住了昏王把冤伸。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮快板",
+          "text": "丹凤眼来看端详， 果然一座好战场： 人成对，马成双， 刀枪剑戟列两旁。 坐纛旗下一女将， 看她打扮世无双： 头戴银盔珠绕顶， 身上铠甲似秋霜； 跨下一骑桃花马， 手执青龙放毫光。 孤王假意把话讲， 是何方女将反汴梁？"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮快板",
+          "text": "骂声昏王无道君， 不认得姑娘陶三春！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮快板",
+          "text": "三弟常常对我讲， 弟妹武艺比他强。 一无有哪国贼犯上， 二无有土匪犯边疆， 孤王也未把旨降， 弟妹领兵征何方？"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮摇板",
+          "text": "我的夫身犯何条罪， 为何斩首在午门？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮快板",
+          "text": "三弟生来情性犟， 他把言语压孤王。 孤王未曾把旨降， 韩龙错斩在法场。 弟妹快收兵和将， 孤封你一代一个北平王，永在朝纲。"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮摇板",
+          "text": "不做官来不受害， 要与夫君把冤伸！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮快板",
+          "text": "孤把好言对你讲， 黄口孺子敢逞强！ 高御亲摆下杀人场，"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "不能得胜？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "纵然不胜，落一个两无伤！"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮摇板",
+          "text": "听一言来怒气生， 定与夫君把冤伸！ 叫儿郎与我城围定， 休要放走了乾德君。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "孤王一言错出唇， 城下逼反陶三春！ 眼望着养老院一声叫：我的娘吓！ 没奈何好言对他论， 罢罢罢！将弟妹封在养老……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "院！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "吓、吓……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "院！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "“院”不得！"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "院！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "将弟妹封在养老……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "院！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "你就院！院！院！孤的亲娘吓！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮快板",
+          "text": "养老院中你为尊。 孤王再赐尚方剑， 朝里朝外查一番。 孤王犯罪也要吓……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "斩！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "斩不得！"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "斩得！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "斩不得！"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "斩得斩得！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哦，斩得。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "孤王犯罪也要……"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "斩！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮摇板",
+          "text": "你就斩！斩！斩！孤的干娘呀！ 难道说弟妹铁打的心？"
+        },
+        {
+          "character": "陶三春",
+          "type": "西皮摇板",
+          "text": "听一言来泪满腮， 可怜儿夫丧尘埃。 快还我黄袍和玉带， 杀夫冤仇两罢开！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "西皮快板",
+          "text": "一块金砖落了台， 孤王才把心放开。 侍臣与孤解袍带， 巍巍黄袍现出来。 到如今物在人不在， 水流长江不回来。 御亲与孤把宝解， 弟妹人马你安排。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "高怀德",
+          "type": "西皮摇板",
+          "text": "在城楼领了万岁旨，"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "开城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀德下城，出城。"
+        },
+        {
+          "character": "高怀德",
+          "type": "西皮摇板",
+          "text": "见了皇嫂礼相迎。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "皇嫂为何不收兵？"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "要我收兵，依我一件：去到北平王府，高搭坛台，打七七四十九日罗天大醮， 方可收兵。"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "与你传奏。 启万岁：要她收兵，要去到北平王府，高搭坛台，打七七四十九日罗天大醮， 方可收兵。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哎呀，御亲吓，慢说四十九日罗天大醮，就周年半载，也是何妨！叫弟妹你收 兵罢！"
+        },
+        {
+          "character": "高怀德",
+          "type": "白",
+          "text": "皇嫂，万岁件件依从，请皇嫂收兵。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "众儿郎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同允。"
+        },
+        {
+          "character": "陶三春",
+          "type": "白",
+          "text": "将人马收回！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

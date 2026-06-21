@@ -1,0 +1,3369 @@
+{
+  "script_id": "03051003",
+  "title": "马陵道",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "孙膑",
+      "hangdang": "老生"
+    },
+    {
+      "name": "庞涓",
+      "hangdang": "净"
+    },
+    {
+      "name": "朱亥",
+      "hangdang": "老生"
+    },
+    {
+      "name": "朱瑞仙",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "孙膑被刖双足后，为庞涓写天书。庞子庞小牛对孙膑泄漏书成将被杀。孙膑方悟庞涓奸诈。幸得王禅授以密\n计，孙膑乃装疯。庞涓恐其有诈，使尝粪。孙膑作法，拘来庞父鬼魂，一食而尽。庞涓以为孙膑真疯，逐至\n界田院安身。孙膑路遇朱亥，知其将有大难，乃赠与柬帖一封，告以危难时开拆，可得救。朱亥归家，因射\n鸟误杀庞小牛，庞涓拔箭视之，箭上有字，知为朱亥所射，乃上朝奏明魏惠王，逮朱亥入狱。朱亥拆阅孙膑\n柬帖，候其女朱瑞仙探监时，使往孙膑处求救。孙膑与以灵符一道，并作法使天空昏暗不明。魏王惧，出榜\n招贤，募有能使天复明者，封厚爵。朱瑞仙揭榜，火化灵符，天果复明。魏王喜，赐厚爵，不受，愿救父出\n牢，魏王遂赦朱亥。庞涓卜知孙膑已逃出界田院，藏于朱亥家，领兵前往捉拿。孙膑使朱亥在柜中置银四锭。\n庞涓来，闻柜内有孙膑之声，将柜抬至宫中，见魏王，言已擒孙膑。朱亥见魏王，告庞涓抢走金银。庞涓\n开柜，不见孙膑，唯银四锭，只得偿银半柜了事。庞涓算知孙膑仍在朱宅，又领兵前往。孙膑与朱亥言定，\n使老妪守护上房，拒庞涓入内。庞涓踢死老妪，入房不见孙膑。朱亥复上殿面君，告庞涓打死老母，魏王命\n庞涓披麻戴孝，扶柩送葬。孙膑暗藏柜底，企图逃走出城。庞涓卜知，口吐三昧真火，将棺焚化，不料孙膑\n已借木遁逃走。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宫女引瑞莲公主同上。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "引子",
+          "text": "瑞气千条，喜承欢，同偕到老。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "白",
+          "text": "哀家、瑞莲公主。父王魏惠王。自招庞涓为驸马，邻国不敢加兵，我邦安享乐 业。只因燕邦孙膑内应叛逆，驸马着奴进宫启奏，且喜父王准奏，立决孙膑。 着驸马问斩回奏，不知如何？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉引庞涓同上。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "打道！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓挖门，四校尉同下。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "白",
+          "text": "驸马奉旨监斩，可曾回奏？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "只为三卷天书，将他放回。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "白",
+          "text": "放虎归山，恐遭其害！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "是我刖去他的双足，怎得逃走？只待他将天书写完，立刻将他斩首！"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "白",
+          "text": "孙膑今在何处？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "现在东书房。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "白",
+          "text": "驸马千万不要与那燕邦知道。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "来！传话下去：孙先生在东书房养息双足，早晚服侍，不可怠慢！"
+        },
+        {
+          "character": "官女甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宫女甲下。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "念",
+          "text": "擒将擒王非容易，"
+        },
+        {
+          "character": "庞涓",
+          "type": "念",
+          "text": "但得天书山河移。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "念",
+          "text": "准备燕邦干戈起，"
+        },
+        {
+          "character": "庞涓",
+          "type": "念",
+          "text": "偏邦小卒何须提！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓、瑞莲公主同下。"
+        },
+        {
+          "character": "庞涓",
+          "type": "stage",
+          "text": "中国京剧戏考 《马陵道》【三本】 2"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑上。"
+        },
+        {
+          "character": "孙膑",
+          "type": "引子",
+          "text": "法执朝廷，空负我，妄图侥幸。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军卒暗上。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "我、孙膑。悔不听师傅之训，开墓下山，未受一日之荣，先刖去双足。我是燕 国人，来扶魏邦，岂不是自投罗网；幸亏师弟庞涓保奏，方得活命，原许他三 卷天书相谢，这几日双足疼痛不止。今日平和，不免将书抄写，也好回国。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞小牛上。"
+        },
+        {
+          "character": "庞小牛",
+          "type": "白",
+          "text": "这儿来！"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "哎哎哎，不能到那儿去！"
+        },
+        {
+          "character": "庞小牛",
+          "type": "白",
+          "text": "你管得着吗？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞小牛进。"
+        },
+        {
+          "character": "庞小牛",
+          "type": "白",
+          "text": "孙伯伯！"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "啊大相公！"
+        },
+        {
+          "character": "庞小牛",
+          "type": "白",
+          "text": "您在这儿干什么哪？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "在此抄写天书。"
+        },
+        {
+          "character": "庞小牛",
+          "type": "白",
+          "text": "是要紧的？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "是要紧的。"
+        },
+        {
+          "character": "庞小牛",
+          "type": "白",
+          "text": "快些吧，写完了我爹爹好杀你！"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "不要乱讲，外边去玩儿去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞小牛下。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "啊！小侄儿说：叫我早些写，写完了他爹爹要杀我。刖我双足，莫非是庞涓之 恶吗？我与他在马陵道对天盟誓，同师学艺，誓同生死，怎肯残害？小孩子说 话不真，咬字不明，谁听他这些虚谬！"
+        },
+        {
+          "character": "孙膑",
+          "type": "唱",
+          "text": "我与他同气连枝为昆仲， 学艺打柴般般同。 他招附马不忘我， 传他天书万阵通。 提笔先写灵文序，"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "啊，这手如何麻木？是了，前日刖去双足，血气衰尽，所以遍身酸麻哟！"
+        },
+        {
+          "character": "孙膑",
+          "type": "唱",
+          "text": "自恨刖足血气空。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "啊，怎么？咦，明明是个虫儿，怎么化作柬帖？待我看来：“弟子孙膑开拆”。 原来师父有书，待我开看，便知明白。"
+        },
+        {
+          "character": "孙膑",
+          "type": "念",
+          "text": "马陵道上把誓盟，忠奸贤愚各自分。师弟刖了师兄足，反送天书理不平。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "哎呀，原来庞涓负义，刖我双足。若不是师父点醒，险送天书。俺误入虎穴， 怎脱虎口？啊，反面还有几行小字！"
+        },
+        {
+          "character": "孙膑",
+          "type": "念",
+          "text": "疯疯疯，魔魔魔，疯魔才把灾难脱。若要出庞府，假装一疯魔。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "师父之言，不可不听，待我做作起来！"
+        },
+        {
+          "character": "孙膑",
+          "type": "唱",
+          "text": "先用黑墨罩了脸， 顺口胡说似神仙。 浑身衣服俱扯烂， 去见庞涓那负义男。"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "啊，孙先生哪儿去？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "你是东海龙王，我有法帖，你怎么不来赴宴？咦，好大雨呀！"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "孙先生怎么说起鬼话来啦？ 有请附马爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓上。"
+        },
+        {
+          "character": "庞涓",
+          "type": "念",
+          "text": "誓吞七国归魏统，方称男儿大丈夫。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "孙先生疯啦！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "怎么，他疯了？现在哪里？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "你是王母娘娘，昨日蟠桃宴你为何不请我？今日定要同见玉帝，奏个明白！ 中国京剧戏考 《马陵道》【三本】 3"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "啊，师兄，小弟在此。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "南极老儿请了，我就来呀。哈哈哈……"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "看此光景，莫非有诈？有了！且用屎饭二碗。若是真疯，定然吃屎。若是装疯， 一定吃饭。 来，看屎饭二碗，与孙先生食用。"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军卒进屎、饭。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "放下！"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "孙先生请用饭吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑背躬。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "哎呀，你看庞涓用屎饭试我真假，我若吃饭，性命就不能保。有了！且遣庞涓 的祖宗前来吃屎。敕命魍魉，庞涓的祖宗速来吃屎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞父、庞母同上。"
+        },
+        {
+          "character": "庞父、庞母",
+          "type": "同念",
+          "text": "高曾祖考代代传，享受香烟在佛前。只为子孙不学好，特来吃屎救大贤。"
+        },
+        {
+          "character": "庞父、庞母",
+          "type": "同白",
+          "text": "我乃庞涓的爹妈。孙先生装疯，特着我们前来吃屎。哎呀，好臭哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞父、庞母同下。"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "启驸马：一碗屎都吃完啦！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "可惜他数年的功德，今日化为灰烬也！无用的废人，留着何益？将他赶出府去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓下。"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "走！出去！伙计，抬出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二小卒同上，二小卒同抬孙膑出。军卒、二小卒同下。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "哎呀，妙啊！庞涓不解，且喜将我赶出府来。本欲回国，庞涓必然追杀，不可 枉送性命。我不免暂住界田院，且待天时，再图机会，方可回国。悔不听师父 之言，果然有家难奔，有国难投！徐先生，这也是你害了我了！"
+        },
+        {
+          "character": "孙膑",
+          "type": "唱",
+          "text": "读天书开坟墓自遭其祸， 入魏邦这也是自投网罗。 且到那界田院将身避躲， 天循环千日难怎生得脱？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手引朱亥同上。"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "金鸡唱铜壶漏文武朝贺， 秉忠心匡社稷鼎鼐调和。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "老夫，朱亥。我主聘来孙膑，庞涓参奏：内应叛逆，以正国法。今日斩断贤路， 再无高士来投，则见我邦永不如秦矣！"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "立言牌斩孙膑吾皇有错， 怕的是燕孙操怒动干戈。 齐鲁王必加兵如风助火， 庞附马焉能够治世山河？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑上。"
+        },
+        {
+          "character": "孙殡",
+          "type": "念",
+          "text": "朱亥朱亥，气象不在。早作准备，目下有灾。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "乞丐挡道，咒骂老爷。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "与我打！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "啊！启老爷：乞丐刖去双足未愈，难以受刑。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "饶他就是。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "你既饶我，我便救你。有柬帖一封，危急开看，自然有救。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑下。"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "乞丐去了，有柬帖在此。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "打道回府！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "啊！ 中国京剧戏考 《马陵道》【三本】 4"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "小乞儿疯言语令人难解， 他言道我目下有些祸灾。 且做个忙偷闲闭门忍耐， 我看那飞来祸何处降哉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、朱亥同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "日游神上。"
+        },
+        {
+          "character": "日游神",
+          "type": "念",
+          "text": "阴报阳显分明理，法不容情律有条。"
+        },
+        {
+          "character": "日游神",
+          "type": "白",
+          "text": "我乃日游神是也。朱亥还报，庞涓绝嗣，引孙膑入朱府避灾三年。正是："
+        },
+        {
+          "character": "日游神",
+          "type": "念",
+          "text": "冥府无魍魉，人间有无常。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "日游神下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱瑞仙上。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "引子",
+          "text": "帘垂风漏，燕衔泥，檐前结绉。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "念",
+          "text": "岁岁花开花谢，年年雁去雁来。催人鬓上雪花开，老去莺莺还在。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "奴家，朱瑞仙，小字美霞。爹爹朱亥，职受上大夫统辖魏邦权衡。不幸慈母早 丧。奴紧守深闺，勤习女学，也效仲尼之门徒。这几日心绪不宁，不知是何缘 故？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四下手引朱亥同上，朱亥下马，四下手同下。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "爹爹万福！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱瑞仙拜。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "我儿一旁坐下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子暗上。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "爹爹，今日下朝回来，为何闷闷不乐？"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "今日在五马街上，遇一乞丐，疯言乱语，说为父目下就有大祸临身。想为父平 日性直，一点忠心，报答朝廷，何碍于理？"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "吉人自有天相，爹爹何须忧虑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "日游神上。"
+        },
+        {
+          "character": "日游神",
+          "type": "白",
+          "text": "朱亥！朱亥！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "啊，看这乌鸦口叫“朱亥”，真正奇哉！"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "爹爹不要听它，由它去叫，不要应了乞丐的言语。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "扁毛这等无礼，我就赏它一箭。 看弓箭过来。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子取弓箭。"
+        },
+        {
+          "character": "朱亥",
+          "type": "念",
+          "text": "燮理阴阳平天下，岂容扁毛逆理行！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥射。日游神下。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "那乌鸦带箭而逃。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "来，着人探看那乌鸦哪里落点，将箭取回。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "朱亥",
+          "type": "念",
+          "text": "怕的败家奴欺主，果然时衰鬼弄人！"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "我平生性刚强勿招灾祸，"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "唱",
+          "text": "怕的是飞来祸寻入家门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥、朱瑞仙同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "中国京剧戏考 《马陵道》【三本】 5"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二宫女、瑞莲公主、庞小牛同上。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "唱",
+          "text": "满园中花开放青枝绿柳， 红芍药绿牡丹艳艳雅幽。 醉海棠怕的是春雨引诱， 采丹桂只等着八月中秋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "日游神上，用箭刺死庞小牛。"
+        },
+        {
+          "character": "二宫女",
+          "type": "同白",
+          "text": "哎呀，不好了！公子被箭射死了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军卒暗上。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "唱",
+          "text": "母子们进花园信步闲游， 霎时间飞来祸箭射咽喉。 我夫妻只望儿百年送柩， 到如今生生别不得自由。"
+        },
+        {
+          "character": "瑞莲公主",
+          "type": "白",
+          "text": "快快报与驸马知道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "瑞莲公主哭下，二宫女随同下。"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "有请驸马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉引庞涓同上。"
+        },
+        {
+          "character": "庞涓",
+          "type": "念",
+          "text": "只望天书归我手，谁知弄巧反成仇！"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "公子在花园游戏，被飞来雕翎射死啦。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "在哪里？ 哎，儿呀！"
+        },
+        {
+          "character": "庞涓",
+          "type": "唱",
+          "text": "见娇儿带雕翎闭目掩口， 我夫妻空抚养娇儿几秋。 是何人断绝我庞门之后？ 定把他剐凌迟我才罢休。"
+        },
+        {
+          "character": "军卒",
+          "type": "白",
+          "text": "雕翎有字，请附马观看。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "呈上来。 “左都督朱亥”。啊，我想朱亥这老儿与我平日无仇，素日无冤，为何将我儿 射死？哦，是了，是俺职授武音君，占夺了左都督的权衡，故将我儿射死，也 是有之。不免上朝启奏我主，处斩朱亥，方消俺绝嗣之恨。 左右！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "打道上朝！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同走圆场。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "臣，庞涓见驾。愿我主千岁！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "内白",
+          "text": "卿家上殿，有何本奏？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "朱亥射死臣子，容臣启奏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "内白",
+          "text": "爱卿奏道：朱亥射死御外甥，孤心震怒。本欲处斩，因孤连日求雨未下，暂押 监牢，只待雨后处决！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥上。"
+        },
+        {
+          "character": "朱亥",
+          "type": "念",
+          "text": "飞蝗连祸福，吉凶未定分。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "启老爷：圣旨下！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "香案接旨！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "香案接旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。〖牌子〗。四校尉、庞涓捧旨同上。"
+        },
+        {
+          "character": "院子",
+          "type": "stage",
+          "text": "中国京剧戏考 《马陵道》【三本】 6"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "圣旨下，跪！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "皇帝诏曰：朱亥射死御外甥庞小牛，本欲处斩。奈朕连日求雨未下，暂押监牢， 只待雨后处斩！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "箭射乌鸦无踪影， 飞来大祸临了门。 你无仇来我无恨， 冷本参奏为何因？"
+        },
+        {
+          "character": "庞涓",
+          "type": "唱",
+          "text": "官有位爵职有品， 你不该暗中放雕翎。 绝我宗嗣解你的恨， 全不想他是御外甥。 将朱亥暂押监牢内！"
+        },
+        {
+          "character": "四校尉",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉绑朱亥同下。"
+        },
+        {
+          "character": "庞涓",
+          "type": "唱",
+          "text": "要想活命再转生！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱瑞仙上。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "唱",
+          "text": "正言极谏父不听， 今日方信祸临身。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子暗上。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "院公，圣上如何发落？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "暂押刑部监牢，不日处决。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "哎呀，不好了！"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "唱",
+          "text": "鸟吐人言家不幸， 谁人救得父残生？"
+        },
+        {
+          "character": "院子",
+          "type": "唱",
+          "text": "随我监牢去探问，"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "唱",
+          "text": "抛头露面见严亲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子、朱瑞仙同走圆场。禁子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "开门来！"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "敢是来坐监的？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁子开门。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "呃！我家小姐前来监中探望朱大老爷。"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "原来如此。 有请朱大老爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥上。"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "侍君数载秉忠正， 满腹含冤向谁云？"
+        },
+        {
+          "character": "禁子",
+          "type": "白",
+          "text": "小姐前来探望。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "在哪里？"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "爹爹！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "唱",
+          "text": "见爹爹下监牢改变容形， 把踪迹和来路不差毫分。 这也是前世孽今生报应， 丢下了儿苦命身靠何人？"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "不要悲伤，这也是为父命该如此！"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "爹爹，今日之祸，果应乞丐的言语。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "哎呀，是呀！那乞丐有柬帖一封，他说危急开看，自有救法。待我看来，便知 中国京剧戏考 《马陵道》【三本】 7 分晓。"
+        },
+        {
+          "character": "朱亥",
+          "type": "念",
+          "text": "祸福无门人自寻，箭射玉叶本来真。你既饶我我救你，不识刖足孙伯陵。 我今隐困界田院，令嫒早来会孙膑。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "哎呀，儿呀！那日闯道刖足的乞丐，就是孙先生。儿呀，将柬帖带去，速到界 田院，赈济孤民，访问孙先生，为父就能活命了！"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "报父恩界田院赈济贫民， 切不可虚张扬走漏风声。 见先生祈求他大施恻隐， 救不死我父女万代感恩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥下。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "唱",
+          "text": "父受刑女别离且出监禁， 真果是王法重铁面无情。 我只得含悲泪暂回闺阃， 访先生界田院拜佛求神。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子、朱瑞仙同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家丁、白起同上。"
+        },
+        {
+          "character": "白起",
+          "type": "念",
+          "text": "要图霸业擎天手，复请吕望再兴周。"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "某，白起。奉秦王之命，来到宜梁诈献降文，密访髙贤孙膑，不觉两月有余。 为此假扮秀士，在三街六巷热闹之处，每日留心。昨得信息，孙先生被庞涓隐 押界田院。今日多带钱钞，前去探听一回。正是：访聘山川毓秀，细看界田根 由。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家丁、白起同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "钱大上。"
+        },
+        {
+          "character": "钱大",
+          "type": "念",
+          "text": "常在富贵门下，永不耕桑种麻。一生衣禄无亏，只恨永不发达。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "我乃界田院乞丐头儿钱大是也。奉庞驸马之命，看着疯汉孙膑。只许他界田院 安身，不许他擅自出入。哎呀，他哪儿肯安稳度日？闹得邻右不安。早晨朱相 爷府着人来说，小姐要赈济孤民，命我们打扫洁净。唯恐疯子乱闹，我先把他 锁在廊下，暂图安静一时再说。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家丁、白起同上。"
+        },
+        {
+          "character": "白起",
+          "type": "念",
+          "text": "宜梁万户不得主，空用庞涓一废人。"
+        },
+        {
+          "character": "二家丁",
+          "type": "同白",
+          "text": "来此已是界田院。"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "一同进去。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "哎哎，请问客官，您上哪儿去？"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "特来界田院闲步。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "这界田院虽是朝廷所设，原系贵官宦室，经商施济之所。怎奈今早朱相爷传谕， 小姐前来赈济，为此恐有不便。"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "俺为功名不第，特来济贫。为时不过一时三刻。若是朱相爷的小姐来时，即便 出去，这又何妨？"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "原来也是位善人！"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "你这界田院可有头目？"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "小的便是。"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "赏银一两。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "叩谢爷爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑上。"
+        },
+        {
+          "character": "孙膑",
+          "type": "唱",
+          "text": "时未通运未达投师何用？ 学兵法陷入了天罗网中。 空有天书习六甲， 中国京剧戏考 《马陵道》【三本】 8"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "别闹！"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "怎么将他锁在此地？"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "他是个疯子，恐惊善人，故锁在此处。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白起向内望。"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "内中十分肮脏。 来！"
+        },
+        {
+          "character": "二家丁",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "你等同他前去，每人与他们一钱银子，我在此等候。"
+        },
+        {
+          "character": "二家丁",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家丁、钱大同下。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "来的可是武安君白起将军？"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "你可是孙先生？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "白将军休怪，失迎了！"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "我又不曾报姓通名，先生何以知之？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "我不认识你，你怎知我是孙膑？"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "先生可知我的来意？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "你奉秦王旨意，盗我出城。"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "先生果有先见之明，白起实是为此而来。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "空劳大人跋涉一遭。奈我千日灾难未满，庞涓不时派人察听，倘泄风声，即酿 祸矣。将军请回，望乞拜复秦王，待孙膑守满千日灾难，再助一臂之力可也。"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "既蒙指示，待三年后再来相请先生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "钱大！钱大！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "钱大上，二家丁随同上。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "干什么，干什么？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "小姐来了，闲人站开！"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "我们各回旅店。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二家丁、白起同下。丫鬟、朱瑞仙同上。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "丐头钱大叩头。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "每人赏钱一百、馒头一个。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "你们都出来谢赏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众乞丐同上，同谢，同下。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "小姐，我不要钱，我要米。我不要馒头，我要面。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "啊，小姐赏你的，收好了！不要闹，少刻就有面！"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "少刻就不要见面！"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "什么人喧嚷？"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "是庞驸马押的一个疯子，叫什么孙膑。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "哦，他既有疯病，不用睬他。你带他们到后面去，有赏不到者，查明再补。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "叩谢小姐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "钱大、院子同下。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "孙先生，可知我的来意？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "为柬帖而来。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "恳求先生大施恻隐，救全我爹爹的性命！"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "此间非叙话之所，速速回府，安排洁净房屋一间，我来相救令尊。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "多谢先生！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "钱大、院子同上。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "俱已有啦。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "余者赏那疯子。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "赏他？他又不吃，岂不枉费？"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "赏你吧。"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "叩谢小姐！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "打轿伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。朱瑞仙下，丫鬟、院子随同下。"
+        },
+        {
+          "character": "院子",
+          "type": "stage",
+          "text": "中国京剧戏考 《马陵道》【三本】 9"
+        },
+        {
+          "character": "钱大",
+          "type": "白",
+          "text": "今日锁了你一天，我也要吃饭去啦。把你带到后边，这儿来。 噫，怎么不见啦？哎呀，不见疯子，怎么回复驸马？哦，有啦！今夜三更，放 起火来，只当把疯子烧死，再回复驸马，给他个死无对证。正是："
+        },
+        {
+          "character": "钱大",
+          "type": "念",
+          "text": "暗中举火又谁见，诈语哄骗玉叶人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "钱大下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。院子、丫鬟、朱瑞仙同上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "小姐方才到界田院求救，可曾会过高人？"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "虽则见面，未定来与不来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑暗上。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "小姐，我早已到此。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "多谢先生！请问先生，用何计才能脱我爹爹的罪名？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "要救令尊，一些不难，只用黄纸二张，花剪一把，人皆散去，我自有道理。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "多谢先生！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱瑞仙、丫鬟同下。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "灵符达中天，速请金乌离位！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "日神上。"
+        },
+        {
+          "character": "日神",
+          "type": "白",
+          "text": "真人相召，有何法谕？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "右相朱亥遭困监牢，暂掩宝光一日，自当法台相谢。"
+        },
+        {
+          "character": "日神",
+          "type": "白",
+          "text": "领法谕。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "日神下。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "玉兔乃良宵之首，请速离位！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "月神上。"
+        },
+        {
+          "character": "月神",
+          "type": "白",
+          "text": "真人有何法谕？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "忠良朱亥，为国不能吐气，反禁于牢。暂掩宝光，自当重谢。"
+        },
+        {
+          "character": "月神",
+          "type": "白",
+          "text": "领法谕！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "月神下。院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "哎呀，不好了！怎么一刻之间，天昏地暗，阴阳昼夜都无有了？这还了得！"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "不用张扬，快请你家小姐。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请小姐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱瑞仙上。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "为何这等昏暗？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "先生吩咐，不用张扬，请小姐说话。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "先生，府下为何这等昏暗？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "我今隐蔽日月之光，天子必然挂榜取救，高官任做。小姐速到午门揭榜，去救 全令尊性命。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "蒙先生大恩，但不知何以禳之？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "我有灵符一道，揭榜之后，用火化之，自然应验。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "多谢先生！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。朱瑞仙、孙膑自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文元上。"
+        },
+        {
+          "character": "文元",
+          "type": "念",
+          "text": "古来未有阴阳乱，今日方信天外天。"
+        },
+        {
+          "character": "文元",
+          "type": "白",
+          "text": "咱家，司礼监文元。只为天机错乱，阴阳不分，圣上十分着急。为此出下榜文， 有人分清阴阳，现明日月，官封万户。看这乌天黑地，也不知什么时辰啦？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。院子引朱瑞仙同上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "来此已是午门。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "看可有榜文？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "张挂在此。 中国京剧戏考 《马陵道》【三本】 10"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "快快揭了下来！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子揭榜。"
+        },
+        {
+          "character": "文元",
+          "type": "白",
+          "text": "呔！谁敢擅揭榜文？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "这是朱相爷的小姐，特来揭榜现明。"
+        },
+        {
+          "character": "文元",
+          "type": "白",
+          "text": "既是小姐，早早现明，以解圣上之优！"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "看灯火来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱瑞仙焚符。〖牌子〗。日神、月神同上，同过场，同下。"
+        },
+        {
+          "character": "文元",
+          "type": "白",
+          "text": "哈哈！朱小姐精通玄妙，揭榜现明。方才天昏地暗，霎时红日光明。快快随我 上殿，自有封赏！"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "不求封赏，只求公公转奏圣明：赦父无罪，当效犬马不辞！"
+        },
+        {
+          "character": "文元",
+          "type": "白",
+          "text": "你且午门候旨，待咱家上殿启奏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱瑞仙下，院子随下。〖牌子〗。魏惠王、庞涓、徐甲同上。"
+        },
+        {
+          "character": "徐甲",
+          "type": "白",
+          "text": "贺喜千岁。日月暗而复明，此乃主公洪福齐天也！"
+        },
+        {
+          "character": "文元",
+          "type": "念",
+          "text": "灯光治方寸，艳阳照万邦。"
+        },
+        {
+          "character": "文元",
+          "type": "白",
+          "text": "司理监见驾。吾主千岁千千岁！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "平身。命卿张挂榜文，可有人解天机之暗明？"
+        },
+        {
+          "character": "文元",
+          "type": "白",
+          "text": "朱亥之女名叫瑞仙，揭榜未有半刻，红日髙照。候旨定夺。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "虽是女流，也晓天文之机，宣来见孤！"
+        },
+        {
+          "character": "文元",
+          "type": "白",
+          "text": "启奏千岁：朱瑞仙不受封赏，一点诚心要救朱亥性命，将功折罪！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "即出赦旨，天牢内赦朱亥无罪。"
+        },
+        {
+          "character": "文元",
+          "type": "白",
+          "text": "领旨。 千岁有旨：赦朱亥无罪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥上。"
+        },
+        {
+          "character": "朱亥",
+          "type": "念",
+          "text": "祸福无造设，人寻自有门。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "臣，朱亥见驾。主公千岁！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "朱亥，你女儿揭榜现明，朕心大喜，赦卿无罪，官还原职。外赐铜银三千两， 以作瑞仙胭粉之费。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "谢主隆恩！请驾回宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。魏惠王、徐甲、朱亥同下。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "啊！朱瑞仙怎知天机之变、阴阳之分？待俺神卜一课。哎呀！怪道来这等轩昂， 原来窝藏孙膑在府。日前丐头报说界田院被焚，只当孙膑已死在内，谁知朱 亥这般做作。我如今进宫奏明天子，带三千御林军围困朱府，搜拿孙膑，及时 处斩，方绝祸根也！正是："
+        },
+        {
+          "character": "庞涓",
+          "type": "念",
+          "text": "恨小非君子，无毒不丈夫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。朱亥、朱瑞仙同上。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "爹爹！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "孙先生今在何处？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑暗上。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "候之久矣！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "蒙先生大德，免我一死，官还原职，又赐我儿三千金，以作胭粉之费，此恩何 以为报？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "我有千日之难，不过暂借贵府藏身，脱难之日，必当重谢！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "唯恐我父女早晚伺候不周，先生恕罪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "启老爷：大事不好了！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "庞驸马带领三千军校，将相府团团围住，说要搜拿孙先生上殿治罪！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "哎呀，先生！你能救我，眼睁睁我就不能救你了？ 中国京剧戏考 《马陵道》【三本】 11"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "大夫不必惊慌。只用板柜一口，内装四锭元宝，就能救我。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "快快将板柜抬一口过来，将先生藏在里面，不许走漏风声！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子引孙膑、朱瑞仙同下。〖急急风〗。四校尉、庞涓同上。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "大夫！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "驸马带兵围住我府，却是为何？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "你窝藏叛逆孙膑，早早现出，可免本身之罪！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "蒙圣上洪恩，免我死罪，官还原职，方才回府，怎说窝藏叛逆？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "本御是奉旨前来，若不献出，我便要搜！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "你要搜出，自甘认罪。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "校尉的！搜！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同下，同上。"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "前后俱已搜尽，只有一口板柜未开。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "抬上来。 啊，大夫，这内面装的什么东西？"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "不敢隐瞒，每年余下的俸银。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "可能开看？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑于箱内。"
+        },
+        {
+          "character": "孙膑",
+          "type": "内白",
+          "text": "哎呀！大夫开不得的！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "里面是谁？"
+        },
+        {
+          "character": "孙膑",
+          "type": "内白",
+          "text": "师弟念结拜之情，饶了我吧！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "你是孙膑？"
+        },
+        {
+          "character": "孙膑",
+          "type": "内白",
+          "text": "我是孙膑。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "哈哈，不用打开，抬上金殿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉抬箱同下，庞涓随下。朱端仙上。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "爹爹，孙先生怎么样了？"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "藏在板柜之内，被庞涓抬上殿去，有死无生了！"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "哭",
+          "text": "喂呀，孙先生哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑暗上。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "不要啼哭，我还在此！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "啊！先生方才明明在柜内说话，怎样得脱？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "是我借木遁逃脱。大夫速速上殿与庞涓辩理，说他哪里是搜查臣府，分明打劫 为臣。千岁不信，柜内现有四锭元宝为证，不怕他不赔你满柜金银！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "多谢先生！"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "听说是围府门魂飞天外， 哪知道孙先生另有奇才。 似这等玄又妙教人难解， 我与那庞道宏辩理金阶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥、朱瑞仙、孙膑同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引魏惠王同上。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "唱",
+          "text": "金钟响玉磬催文武朝拜， 吞六国归一统才称心怀。 阴阳错孤只当国运有败， 这也是洪福大云散雾开。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉引庞涓同上，朱亥随上。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "为臣交旨！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "命卿搜拿叛逆孙膑，可曾搜来？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "孙膑藏于木柜之内，臣将柜抬至殿下，请主验明！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "朱亥，你身为右相，调和鼎鼐，窝藏叛逆孙膑，该当何罪？ 中国京剧戏考 《马陵道》【三本】 12"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "臣启陛下：庞驸马借搜叛逆为名，抢劫臣府金银，伏乞圣裁！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "你这柜内装的是什么？"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "臣每年余下的俸银。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "驸马奏的柜内是叛逆孙膑，大夫奏的是满柜金银，叫孤难断！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "请主下殿，开柜验明。若是叛逆孙膑，臣当领罪！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "若无孙膑，臣愿赔满柜金银！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "何人担保？"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "孤家替庞驸马作保！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "如此，请主下殿！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "孤家倒要验看明白。 内侍，将柜打开。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监开柜。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "启主公：柜内并无别物，只有四锭元宝。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "待孤看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏惠王看，惊。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "不好了！连我保人也输了！ 驸马，孤叫你搜拿孙膑，谁叫你抢劫金银？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "臣启主公：明明孙膑在内，也不知什么邪术，霎时不见？"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "有言在先，赔他满柜金银。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "臣启主公：这是孙膑的邪术，臣怎肯赔他！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "驸马不赔，臣向保人索要。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "好了，问起保人来了！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "他原是个空柜来的！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "既是空柜，就不该抬上金殿！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "是呀，既是空柜，就不该抬上金殿！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "就是臣抢劫金银，也要个凭证！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "你若不信，内面有四锭元宝。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "内侍同驸马下殿验看。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "现有四锭元宝。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "你看见无有？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "实有四锭元宝。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "是有。快快赔来，免得我保人受累！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "校尉的，赔他一柜金银！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同下，同上。"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "驸马府中金银搬完，只盛半柜。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "臣奉旨赔赃巳完。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "朱卿！驸马赔了你的金银，抬回去吧。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "臣启陛下：臣是满柜金银，如今只盛半柜。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "驸马，他是满柜，你如何只赔半柜？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "他本来只有半柜。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "啊啊，你无有抢劫他，怎说只有半柜？定要赔满！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "臣实在无有银子了！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "朱卿，你将就些吧，他实在无有银子了。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "主公是保人，借与他。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "他不还，我便怎么处？"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "扣他的俸银。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "驸马，孤借银子与你，怎样还孤？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "扣臣的俸银。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "内侍，打开宝藏库，着殿前指挥搬孤的饷银，赔还朱卿。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监装银。"
+        },
+        {
+          "character": "大太监",
+          "type": "stage",
+          "text": "中国京剧戏考 《马陵道》【三本】 13"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "装满了。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "快些抬回去吧。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "臣的银柜怎么到金殿上来了？"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "这样说来，是要他送回去？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏惠王向庞涓。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "你听见无有，还要你送了回去！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "臣启陛下：只有盗物之偷，哪有送物之偷？"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "你若不送，孤家就要治罪！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "臣情愿送还。 来！快将板柜送还朱相府！"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同抬柜。"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "哎呀，抬不动！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "先是多少人抬？"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "二十名。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "再添二十名！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同抬柜下。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "谢主隆恩！"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "金殿俯伏谢隆恩， 喜在眉头笑在心。 君臣双双倒了运， 归家告知孙先生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥笑，下。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "唱",
+          "text": "金鸡三唱坐龙庭， 朱、庞二卿把本申。 一个奏的叛逆案， 一个奏的抢金银。 孤家偏向庞驸马， 中间做个证保人。 天理不肯亏朱亥， 白白赔了一万银。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏惠王下。四太监、大太监随同下。"
+        },
+        {
+          "character": "庞涓",
+          "type": "唱",
+          "text": "这桩事儿大扫兴， 不该放走孙伯陵。 指望天书归我手， 谁知画虎画不成。 朱亥射死我亲生子， 绝嗣之仇恨加深。 孙膑踪迹未查准， 今晚回去再观星。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟、朱瑞仙同上，孙膑上。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "唱",
+          "text": "先生妙算真如神， 巧使木遁得脱身。"
+        },
+        {
+          "character": "孙膑",
+          "type": "唱",
+          "text": "吉凶祸福全未定， 怕的庞涓不甘心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、朱亥同上。"
+        },
+        {
+          "character": "朱亥",
+          "type": "唱",
+          "text": "丹心一点理朝政， 庞涓定是败国根。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "先生！ 中国京剧戏考 《马陵道》【三本】 14"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "大人回来了。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "多谢先生，满柜金银。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "庞涓今日大讨无趣，必不甘心，还要搜拿于我。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "先生纵有妙计，终非长法。何不修书一封，着人送至燕邦，报知令尊，前来接 先生回去？万无忧也。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "书信早巳写好，请大夫着人前去。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "唤马上飞伺候！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "马上飞伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马上飞上。"
+        },
+        {
+          "character": "马上飞",
+          "type": "念",
+          "text": "马似流星赶月，昼夜哪辞辛劳。"
+        },
+        {
+          "character": "马上飞",
+          "type": "白",
+          "text": "马上飞叩头！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "现有书信一封，下到燕邦孙驸马府中投递，不得有误！"
+        },
+        {
+          "character": "马上飞",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "朱亥",
+          "type": "念",
+          "text": "穿山越岭传密报，"
+        },
+        {
+          "character": "马上飞",
+          "type": "念",
+          "text": "胜似连营放烟墩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马上飞下。"
+        },
+        {
+          "character": "院子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "启老爷：庞驸马又来围住相府。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "果不出先生所料，庞涓又来搜拿先生，如何是好？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "府下可有老弱的丫头？"
+        },
+        {
+          "character": "朱亥、朱瑞仙",
+          "type": "同白",
+          "text": "有个七旬之外的丫头。只是辛苦不起了。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "极妙！快唤她前来见我。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "快唤老腊梅过来。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "腊梅老姐姐快来。"
+        },
+        {
+          "character": "腊梅",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "腊梅上。"
+        },
+        {
+          "character": "腊梅",
+          "type": "念",
+          "text": "我做丫头爱风流，搽脂抹粉梳油头。老爷小姐疼爱我，吃酒吃肉不发愁。"
+        },
+        {
+          "character": "腊梅",
+          "type": "白",
+          "text": "老爷，丫头叩头！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "见过孙先生。"
+        },
+        {
+          "character": "腊梅",
+          "type": "白",
+          "text": "孙先生，老丫头叩头！"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "你叫什么名字？"
+        },
+        {
+          "character": "腊梅",
+          "type": "白",
+          "text": "我呀，叫腊梅。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "多大年纪？"
+        },
+        {
+          "character": "腊梅",
+          "type": "白",
+          "text": "七十七啦。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "可有儿女？"
+        },
+        {
+          "character": "腊梅",
+          "type": "白",
+          "text": "没有，命苦是孤人！"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "你倒是个有造化的。"
+        },
+        {
+          "character": "腊梅",
+          "type": "白",
+          "text": "我是个使女丫头，有什么造化？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "大夫可将诰命与她穿上。将上房空出，将原空板柜放在房内，好好封锁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑向腊梅。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "少刻，庞涓要入内室，你便拦阻，不放他进来，重重有赏。若放他进来，定打 不饶！"
+        },
+        {
+          "character": "腊梅",
+          "type": "白",
+          "text": "是。庞涓要进上房，算他狗日的倒霉啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "腊梅下。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "少刻，庞涓摔死腊梅，大夫假做悲伤，只说是大夫的母亲，便与他扭袍面圣， 定要庞涓偿命。若不偿命，要他当做孝子，披麻执杖悲伤出殡，方可饶他。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "先生藏在何处？"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "不必问我，庞涓来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑下。四校尉、庞涓同上。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "大夫！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "驸马又来做甚？ 中国京剧戏考 《马陵道》【三本】 15"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "今日还要来细搜一搜！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "搜查不出，与你誓不甘休！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "搜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同搜。"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "前后俱已搜遍，并无孙膑。只有上房不容进去。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "大夫既不窝藏孙膑，上房为何不容进去？"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "房内俱是金银器物。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "待俺径入！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "腊梅上。"
+        },
+        {
+          "character": "腊梅",
+          "type": "白",
+          "text": "哎哟！你是什么人，敢进我的上房？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "俺是当朝驸马，特来搜寻孙膑！"
+        },
+        {
+          "character": "腊梅",
+          "type": "白",
+          "text": "哎呀，我这上房，尽是金银器物，没有什么孙膑。"
+        },
+        {
+          "character": "孙膑",
+          "type": "内白",
+          "text": "师弟！饶了我吧！"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "起过！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓进房搜，腊梅拦，庞涓踢死腊梅。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "哎呀，庞涓踢死我母，怎肯与你甘休！你我一同面圣！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥扭庞涓袍。四校尉同抬柜下，朱亥扭庞涓同下。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "好好收殓尸首，候相爷回来，自有定夺。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱瑞仙、院子同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四朝官、郑安平、徐甲、四太监、大太监、魏惠王同上。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "唱",
+          "text": "庞涓奏本孤不信， 又去朱府搜孙膑。 再有大事文武断， 孤家永不做保人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥扭庞涓同上，四校尉同抬柜上。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "搜来孙膑当面！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "臣启千岁：庞涓踢死臣母，望千岁做主啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥哭。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "完了！昨日的盗案还小，今日的人命就大了！ 众卿，今日孤家不做保人，众卿公议。"
+        },
+        {
+          "character": "郑安平、徐甲",
+          "type": "同白",
+          "text": "启奏陛下：驸马奏的搜来叛逆孙膑，请主开柜验明。若有孙膑，不追人命，反 拿朱亥治罪。若无孙膑，驸马该当何罪？"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "自甘抵偿！"
+        },
+        {
+          "character": "郑安平、徐甲",
+          "type": "同白",
+          "text": "自甘抵偿，方服文武之心也！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "哪个作保？孤家不保！"
+        },
+        {
+          "character": "徐甲",
+          "type": "白",
+          "text": "徐甲愿保朱亥！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "有了一家，还差一家。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "郑相与我作保？"
+        },
+        {
+          "character": "郑安平",
+          "type": "白",
+          "text": "臣保庞涓。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "你保他人命？不是玩儿的！"
+        },
+        {
+          "character": "郑安平",
+          "type": "白",
+          "text": "甘心作保。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "众卿下殿一观。打开！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨！ 又是一个空柜！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "好了，这次不与我相干。保人呢？"
+        },
+        {
+          "character": "徐甲",
+          "type": "白",
+          "text": "臣无事。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "你无事。 郑安平，你怎么说？ 中国京剧戏考 《马陵道》【三本】 16"
+        },
+        {
+          "character": "郑安平",
+          "type": "白",
+          "text": "臣启千岁：驸马乃是金枝玉叶，若要抵偿，公主见罪，臣等吃罪不起。请主公 降旨！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "王子犯法，与庶民同罪。孤自有个天断：朱卿之母，已死不能复生，着庞涓披 麻戴孝，执杖送殡，坐草守灵，安葬入土，可免死罪。今后永不搜府。卿等以 为如何？"
+        },
+        {
+          "character": "郑安平、徐甲",
+          "type": "同白",
+          "text": "我主圣明！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "恐庞涓应而不从，望乞圣裁！"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "孤赐金鞭一支，庞涓应而不从，打死勿论！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "朱亥",
+          "type": "念",
+          "text": "金鞭在手治玉叶，不怕宗室与王亲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱亥下。"
+        },
+        {
+          "character": "郑安平、徐甲",
+          "type": "同白",
+          "text": "臣等亦到朱府祭奠。"
+        },
+        {
+          "character": "魏惠王",
+          "type": "白",
+          "text": "众卿叩祭，免朝三日。退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监、魏惠王同下，四朝官、朱亥、徐甲、郑安平同下。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "哎呀，连日这等羞惭，倒也罢了，明日还要沿街出丑。朱亥呀朱亥，我与你誓 不两立也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙龙、孙虎引孙操同上。"
+        },
+        {
+          "character": "孙操",
+          "type": "念",
+          "text": "只为庞涓怀旧恨，惹起干戈不太平。"
+        },
+        {
+          "character": "孙操",
+          "type": "白",
+          "text": "老夫，孙操。昨接书札，我儿孙膑魏邦遭害。为此带领三万铁甲，宜梁取救。 孙龙、孙虎，人马可齐？"
+        },
+        {
+          "character": "孙龙、孙虎",
+          "type": "同白",
+          "text": "候爹爹传令！"
+        },
+        {
+          "character": "孙操",
+          "type": "白",
+          "text": "兵发魏邦！"
+        },
+        {
+          "character": "孙龙、孙虎",
+          "type": "同白",
+          "text": "兵发魏邦！"
+        },
+        {
+          "character": "孙龙、孙虎",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。孙龙、孙虎、孙操同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟、朱瑞仙、孙膑同上，朱瑞仙、孙膑同归座。〖牌子〗。朱亥上，挖门。"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "白",
+          "text": "爹爹回来了。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "孙先生真神人也！"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "如今怎么样了？"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "设下灵堂，文武皆来祭奠。圣上又赐金鞭一支，恐庞涓应而不从，打死勿论。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "倒是老婆子大有造化！"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "先生在此，终非了局。趁此机会，做副夹底棺木，先生藏在里面，借葬出城， 逃回本国去吧。"
+        },
+        {
+          "character": "孙膑",
+          "type": "白",
+          "text": "大夫此计甚好，依计而行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "众文武俱来上祭。"
+        },
+        {
+          "character": "朱亥",
+          "type": "白",
+          "text": "下官出堂回礼。女儿出堂谢孝。"
+        },
+        {
+          "character": "孙膑",
+          "type": "念",
+          "text": "寿享七十增七年，"
+        },
+        {
+          "character": "朱瑞仙",
+          "type": "念",
+          "text": "使婢今日大喧天。"
+        },
+        {
+          "character": "朱亥",
+          "type": "念",
+          "text": "文武上祭全大礼，"
+        },
+        {
+          "character": "孙膑",
+          "type": "念",
+          "text": "可笑庞涓总不堪。 中国京剧戏考 《马陵道》【三本】 17"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙膑、朱亥、朱瑞仙同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵士、黄歇同上。"
+        },
+        {
+          "character": "黄歇",
+          "type": "念",
+          "text": "闻风先取敌国首，永固山河万载秋。"
+        },
+        {
+          "character": "黄歇",
+          "type": "白",
+          "text": "某，黄歇，楚国为臣。七雄之中，也算各国之首。前有道者，在午门哭笑，举 荐孙膑，有吕望之能。吾主十分心信，命俺到宜梁聘请髙贤。 军士们！"
+        },
+        {
+          "character": "四兵士",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "黄歇",
+          "type": "白",
+          "text": "魏国去者！"
+        },
+        {
+          "character": "四兵士",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。二家丁、白起同上。"
+        },
+        {
+          "character": "黄歇",
+          "type": "白",
+          "text": "白将军从何而来？"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "奉旨到宜梁聘请高贤。"
+        },
+        {
+          "character": "黄歇",
+          "type": "白",
+          "text": "俺也是聘请髙贤。将军可曾见面？"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "被庞涓陷害，不能出城。"
+        },
+        {
+          "character": "黄歇",
+          "type": "白",
+          "text": "庞涓擅敢狂为，你我取他的首级，洗平宜梁，有何难哉！"
+        },
+        {
+          "character": "白起",
+          "type": "白",
+          "text": "不可！孙先生言道有千日灾难，三年后再来相聚。"
+        },
+        {
+          "character": "黄歇",
+          "type": "白",
+          "text": "既如此，军士们，各回本国！"
+        },
+        {
+          "character": "四兵士",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。黄歇、四兵士、白起、二家丁自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "出殡过场。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞涓上。"
+        },
+        {
+          "character": "庞涓",
+          "type": "白",
+          "text": "且住！看这棺木，十分沉重，定有奸诈。待俺神卜一课。哎呀！原来孙膑借此 出城，俺岂肯容他？待俺遣动三昧真火，将他火化。正是："
+        },
+        {
+          "character": "庞涓",
+          "type": "念",
+          "text": "火是南方一丙丁，中间只见放光明。逢山烧掉千条路，遇水烧断海中心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、朱亥、朱瑞仙同扶棺上，庞涓扬手，火彩，众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

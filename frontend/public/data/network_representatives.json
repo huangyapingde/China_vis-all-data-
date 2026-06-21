@@ -1,1712 +1,2204 @@
 {
   "历史戏": {
-    "title": "天宝图",
-    "script_id": "01022012",
-    "character_count": 49,
+    "title": "海瑞上疏",
+    "script_id": "94000002",
+    "character_count": 28,
     "cooccurrence": {
-      "nodes": 49,
-      "edges": 115,
-      "density": 0.0978,
-      "avg_clustering": 0.5398,
-      "avg_path_length": 2.4679,
-      "components": 10,
+      "nodes": 28,
+      "edges": 253,
+      "density": 0.6693,
+      "avg_clustering": 0.8214,
+      "avg_path_length": 1.0,
+      "components": 6,
       "top_degree": [
         {
-          "name": "李春芳",
-          "value": 16
+          "name": "海瑞",
+          "value": 22
         },
         {
-          "name": "华子林",
-          "value": 16
+          "name": "何以尚",
+          "value": 22
         },
         {
-          "name": "华锦章",
-          "value": 13
+          "name": "海夫人",
+          "value": 22
         },
         {
-          "name": "红花",
-          "value": 12
+          "name": "徐阶",
+          "value": 22
         },
         {
-          "name": "李母",
-          "value": 10
+          "name": "嘉靖",
+          "value": 22
         }
       ],
-      "centralization": 0.2456,
+      "centralization": 0.1567,
       "top_pagerank": [
         {
-          "name": "华锦章",
-          "value": 0.0625
-        },
-        {
-          "name": "李春芳",
-          "value": 0.0622
-        },
-        {
-          "name": "华子林",
-          "value": 0.0599
-        },
-        {
-          "name": "红花",
+          "name": "海瑞",
           "value": 0.0421
         },
         {
-          "name": "大头目",
-          "value": 0.038
+          "name": "何以尚",
+          "value": 0.0421
+        },
+        {
+          "name": "海夫人",
+          "value": 0.0421
+        },
+        {
+          "name": "徐阶",
+          "value": 0.0421
+        },
+        {
+          "name": "嘉靖",
+          "value": 0.0421
         }
       ],
       "top_betweenness": [
         {
-          "name": "李春芳",
-          "value": 0.1616
+          "name": "海瑞",
+          "value": 0.0
         },
         {
-          "name": "华子林",
-          "value": 0.1378
+          "name": "何以尚",
+          "value": 0.0
         },
         {
-          "name": "李母",
-          "value": 0.1206
+          "name": "海夫人",
+          "value": 0.0
         },
         {
-          "name": "华锦章",
-          "value": 0.1157
+          "name": "徐阶",
+          "value": 0.0
         },
         {
-          "name": "红花",
-          "value": 0.0745
+          "name": "嘉靖",
+          "value": 0.0
         }
       ],
-      "modularity": 0.5112,
+      "modularity": 0.0,
       "communities": [
         {
           "id": 0,
           "members": [
-            "华子芳",
-            "教师爷",
-            "成化帝",
-            "丑官",
-            "华金凤",
-            "大校尉",
-            "华锦章",
-            "张槐仁",
-            "家将",
-            "丑院子",
-            "大将甲",
-            "王爷",
-            "华子林",
-            "华龙",
-            "卢世杰"
+            "梁材",
+            "海安",
+            "嘉靖",
+            "何以尚",
+            "冯保",
+            "李春芳",
+            "老狱吏",
+            "施象清",
+            "徐阶",
+            "申世恩",
+            "长吉",
+            "倪树庆",
+            "海夫人",
+            "施任氏",
+            "黄锦",
+            "提牢主事",
+            "高拱",
+            "王金",
+            "院子",
+            "高守中",
+            "海瑞",
+            "张居正",
+            "顾造"
           ],
-          "size": 15
+          "size": 23
         },
         {
           "id": 1,
           "members": [
-            "马杰",
-            "华月娥",
-            "秦良",
-            "曹天宝",
-            "卢夫人",
-            "曹天佑",
-            "田旭东",
-            "秦氏",
-            "红花",
-            "秦母",
-            "李母",
-            "江都知县"
+            "杨博"
           ],
-          "size": 12
+          "size": 1
         },
         {
           "id": 2,
           "members": [
-            "打擂者甲",
-            "卢赛花",
-            "施必显",
-            "二头目",
-            "大头目",
-            "李春芳",
-            "英雄丁",
-            "吴孝珍",
-            "雷正坤",
-            "打擂者乙"
+            "赵贞吉"
           ],
-          "size": 10
+          "size": 1
         },
         {
           "id": 3,
           "members": [
-            "强盗甲",
-            "施碧霞",
-            "强盗乙"
+            "王大任"
           ],
-          "size": 3
+          "size": 1
         },
         {
           "id": 4,
           "members": [
-            "朝臣甲"
+            "高仪"
           ],
           "size": 1
         },
         {
           "id": 5,
           "members": [
-            "朝臣乙"
-          ],
-          "size": 1
-        },
-        {
-          "id": 6,
-          "members": [
-            "朝臣丙"
-          ],
-          "size": 1
-        },
-        {
-          "id": 7,
-          "members": [
-            "朝臣丁"
-          ],
-          "size": 1
-        },
-        {
-          "id": 8,
-          "members": [
-            "二奶奶"
-          ],
-          "size": 1
-        },
-        {
-          "id": 9,
-          "members": [
-            "扬州知府"
-          ],
-          "size": 1
-        },
-        {
-          "id": 10,
-          "members": [
-            "总兵"
-          ],
-          "size": 1
-        },
-        {
-          "id": 11,
-          "members": [
-            "华豹"
-          ],
-          "size": 1
-        },
-        {
-          "id": 12,
-          "members": [
-            "中国京剧戏考 《天宝图》【八、九、十、十一、十二、十三、十四、十五、十六本】 2"
+            "老院公"
           ],
           "size": 1
         }
       ],
-      "community_count": 13
+      "community_count": 6
     },
     "dialogue": {
-      "nodes": 49,
-      "edges": 122,
-      "density": 0.0519,
-      "avg_clustering": 0.3492,
+      "nodes": 28,
+      "edges": 77,
+      "density": 0.1019,
+      "avg_clustering": 0.3951,
       "avg_path_length": 0,
-      "components": 11,
+      "components": 7,
       "top_degree": [
         {
-          "name": "华锦章",
-          "value": 20
+          "name": "海瑞",
+          "value": 26
         },
         {
-          "name": "华子林",
-          "value": 19
-        },
-        {
-          "name": "田旭东",
-          "value": 17
-        },
-        {
-          "name": "李母",
+          "name": "冯保",
           "value": 15
         },
         {
-          "name": "李春芳",
-          "value": 13
+          "name": "徐阶",
+          "value": 12
+        },
+        {
+          "name": "嘉靖",
+          "value": 12
+        },
+        {
+          "name": "王金",
+          "value": 12
         }
       ],
-      "centralization": 0.3262,
+      "centralization": 0.8177,
       "top_pagerank": [
         {
-          "name": "华锦章",
-          "value": 0.0964
+          "name": "海瑞",
+          "value": 0.2473
         },
         {
-          "name": "华子林",
-          "value": 0.0868
+          "name": "嘉靖",
+          "value": 0.0932
         },
         {
-          "name": "田旭东",
-          "value": 0.068
+          "name": "何以尚",
+          "value": 0.0811
         },
         {
-          "name": "卢赛花",
-          "value": 0.0647
+          "name": "徐阶",
+          "value": 0.077
         },
         {
-          "name": "李春芳",
-          "value": 0.0569
+          "name": "冯保",
+          "value": 0.0594
         }
       ],
       "top_betweenness": [
         {
-          "name": "华锦章",
-          "value": 0.2319
+          "name": "海瑞",
+          "value": 0.3241
         },
         {
-          "name": "华子林",
-          "value": 0.2264
+          "name": "冯保",
+          "value": 0.15
         },
         {
-          "name": "田旭东",
-          "value": 0.1724
+          "name": "徐阶",
+          "value": 0.0789
         },
         {
-          "name": "李母",
-          "value": 0.1659
+          "name": "老狱吏",
+          "value": 0.0556
         },
         {
-          "name": "李春芳",
-          "value": 0.1124
+          "name": "嘉靖",
+          "value": 0.0553
         }
       ],
-      "modularity": 0.5317,
+      "modularity": 0.2816,
       "communities": [
         {
           "id": 0,
           "members": [
-            "华子芳",
-            "教师爷",
-            "家将",
-            "丑院子",
-            "曹天佑",
-            "田旭东",
-            "华子林",
-            "秦氏",
-            "曹天宝"
+            "海夫人",
+            "施任氏",
+            "海安",
+            "提牢主事",
+            "何以尚",
+            "院子",
+            "老狱吏",
+            "施象清",
+            "海瑞",
+            "黄锦",
+            "长吉"
           ],
-          "size": 9
+          "size": 11
         },
         {
           "id": 1,
           "members": [
-            "马杰",
-            "成化帝",
-            "华锦章",
-            "华金凤",
-            "丑官",
-            "大校尉",
-            "张槐仁",
-            "王爷",
-            "华龙"
+            "李春芳",
+            "梁材",
+            "张居正",
+            "高拱",
+            "冯保",
+            "高守中"
           ],
-          "size": 9
+          "size": 6
         },
         {
           "id": 2,
           "members": [
-            "吴孝珍",
-            "卢赛花",
-            "施必显",
-            "二头目",
-            "大头目",
-            "卢世杰",
-            "李春芳"
-          ],
-          "size": 7
-        },
-        {
-          "id": 3,
-          "members": [
-            "卢夫人",
-            "秦母",
-            "李母",
-            "红花",
-            "秦良",
-            "华月娥",
-            "江都知县"
-          ],
-          "size": 7
-        },
-        {
-          "id": 4,
-          "members": [
-            "打擂者甲",
-            "英雄丁",
-            "打擂者乙",
-            "雷正坤"
-          ],
-          "size": 4
-        },
-        {
-          "id": 5,
-          "members": [
-            "强盗甲",
-            "施碧霞",
-            "强盗乙"
-          ],
-          "size": 3
-        },
-        {
-          "id": 6,
-          "members": [
-            "朝臣甲"
-          ],
-          "size": 1
-        },
-        {
-          "id": 7,
-          "members": [
-            "朝臣乙"
-          ],
-          "size": 1
-        },
-        {
-          "id": 8,
-          "members": [
-            "朝臣丙"
-          ],
-          "size": 1
-        },
-        {
-          "id": 9,
-          "members": [
-            "朝臣丁"
-          ],
-          "size": 1
-        },
-        {
-          "id": 10,
-          "members": [
-            "二奶奶"
-          ],
-          "size": 1
-        },
-        {
-          "id": 11,
-          "members": [
-            "扬州知府"
-          ],
-          "size": 1
-        },
-        {
-          "id": 12,
-          "members": [
-            "总兵"
-          ],
-          "size": 1
-        },
-        {
-          "id": 13,
-          "members": [
-            "华豹"
-          ],
-          "size": 1
-        },
-        {
-          "id": 14,
-          "members": [
-            "中国京剧戏考 《天宝图》【八、九、十、十一、十二、十三、十四、十五、十六本】 2"
-          ],
-          "size": 1
-        },
-        {
-          "id": 15,
-          "members": [
-            "大将甲"
-          ],
-          "size": 1
-        }
-      ],
-      "community_count": 16
-    },
-    "power": {
-      "nodes": 49,
-      "edges": 18,
-      "density": 0.0077,
-      "avg_clustering": 0.0,
-      "avg_path_length": 0,
-      "components": 34,
-      "top_degree": [
-        {
-          "name": "华子林",
-          "value": 7
-        },
-        {
-          "name": "华锦章",
-          "value": 4
-        },
-        {
-          "name": "大头目",
-          "value": 3
-        },
-        {
-          "name": "李春芳",
-          "value": 2
-        },
-        {
-          "name": "张槐仁",
-          "value": 2
-        }
-      ],
-      "centralization": 0.1361,
-      "top_pagerank": [
-        {
-          "name": "华子林",
-          "value": 0.0613
-        },
-        {
-          "name": "大头目",
-          "value": 0.0452
-        },
-        {
-          "name": "卢赛花",
-          "value": 0.0437
-        },
-        {
-          "name": "张槐仁",
-          "value": 0.0419
-        },
-        {
-          "name": "吴孝珍",
-          "value": 0.0348
-        }
-      ],
-      "top_betweenness": [
-        {
-          "name": "华子林",
-          "value": 0.0062
-        },
-        {
-          "name": "华锦章",
-          "value": 0.0027
-        },
-        {
-          "name": "大头目",
-          "value": 0.0004
-        },
-        {
-          "name": "李春芳",
-          "value": 0.0
-        },
-        {
-          "name": "施必显",
-          "value": 0.0
-        }
-      ],
-      "modularity": 0.65,
-      "communities": [
-        {
-          "id": 0,
-          "members": [
-            "家将",
-            "马杰",
-            "教师爷",
-            "华龙",
-            "华锦章",
-            "华子林",
-            "雷正坤"
-          ],
-          "size": 7
-        },
-        {
-          "id": 1,
-          "members": [
-            "吴孝珍",
-            "卢赛花",
-            "李母",
-            "大头目",
-            "李春芳"
+            "嘉靖",
+            "徐阶",
+            "顾造",
+            "王金",
+            "申世恩"
           ],
           "size": 5
         },
         {
-          "id": 2,
-          "members": [
-            "田旭东",
-            "曹天宝",
-            "秦氏"
-          ],
-          "size": 3
-        },
-        {
           "id": 3,
           "members": [
-            "张槐仁",
-            "大校尉"
+            "杨博"
           ],
-          "size": 2
+          "size": 1
         },
         {
           "id": 4,
           "members": [
-            "成化帝",
-            "卢世杰"
+            "赵贞吉"
           ],
-          "size": 2
+          "size": 1
         },
         {
           "id": 5,
           "members": [
-            "施必显"
+            "王大任"
           ],
           "size": 1
         },
         {
           "id": 6,
           "members": [
-            "施碧霞"
+            "高仪"
           ],
           "size": 1
         },
         {
           "id": 7,
           "members": [
-            "华月娥"
+            "老院公"
           ],
           "size": 1
         },
         {
           "id": 8,
           "members": [
-            "卢夫人"
+            "倪树庆"
+          ],
+          "size": 1
+        }
+      ],
+      "community_count": 9
+    },
+    "power": {
+      "nodes": 28,
+      "edges": 10,
+      "density": 0.0132,
+      "avg_clustering": 0.0,
+      "avg_path_length": 0,
+      "components": 19,
+      "top_degree": [
+        {
+          "name": "嘉靖",
+          "value": 5
+        },
+        {
+          "name": "海瑞",
+          "value": 2
+        },
+        {
+          "name": "徐阶",
+          "value": 2
+        },
+        {
+          "name": "王金",
+          "value": 2
+        },
+        {
+          "name": "冯保",
+          "value": 2
+        }
+      ],
+      "centralization": 0.1709,
+      "top_pagerank": [
+        {
+          "name": "海安",
+          "value": 0.0836
+        },
+        {
+          "name": "海瑞",
+          "value": 0.0675
+        },
+        {
+          "name": "嘉靖",
+          "value": 0.0612
+        },
+        {
+          "name": "李春芳",
+          "value": 0.0612
+        },
+        {
+          "name": "冯保",
+          "value": 0.056
+        }
+      ],
+      "top_betweenness": [
+        {
+          "name": "嘉靖",
+          "value": 0.0057
+        },
+        {
+          "name": "海瑞",
+          "value": 0.0028
+        },
+        {
+          "name": "徐阶",
+          "value": 0.0028
+        },
+        {
+          "name": "老狱吏",
+          "value": 0.0028
+        },
+        {
+          "name": "何以尚",
+          "value": 0.0
+        }
+      ],
+      "modularity": 0.4898,
+      "communities": [
+        {
+          "id": 0,
+          "members": [
+            "海瑞",
+            "老狱吏",
+            "海安",
+            "提牢主事"
+          ],
+          "size": 4
+        },
+        {
+          "id": 1,
+          "members": [
+            "黄锦",
+            "王金",
+            "嘉靖"
+          ],
+          "size": 3
+        },
+        {
+          "id": 2,
+          "members": [
+            "徐阶",
+            "李春芳"
+          ],
+          "size": 2
+        },
+        {
+          "id": 3,
+          "members": [
+            "高拱",
+            "冯保"
+          ],
+          "size": 2
+        },
+        {
+          "id": 4,
+          "members": [
+            "何以尚"
+          ],
+          "size": 1
+        },
+        {
+          "id": 5,
+          "members": [
+            "海夫人"
+          ],
+          "size": 1
+        },
+        {
+          "id": 6,
+          "members": [
+            "申世恩"
+          ],
+          "size": 1
+        },
+        {
+          "id": 7,
+          "members": [
+            "高守中"
+          ],
+          "size": 1
+        },
+        {
+          "id": 8,
+          "members": [
+            "顾造"
           ],
           "size": 1
         },
         {
           "id": 9,
           "members": [
-            "红花"
+            "梁材"
           ],
           "size": 1
         },
         {
           "id": 10,
           "members": [
-            "丑院子"
+            "张居正"
           ],
           "size": 1
         },
         {
           "id": 11,
           "members": [
-            "曹天佑"
+            "杨博"
           ],
           "size": 1
         },
         {
           "id": 12,
           "members": [
-            "秦良"
+            "赵贞吉"
           ],
           "size": 1
         },
         {
           "id": 13,
           "members": [
-            "秦母"
+            "王大任"
           ],
           "size": 1
         },
         {
           "id": 14,
           "members": [
-            "王爷"
+            "高仪"
           ],
           "size": 1
         },
         {
           "id": 15,
           "members": [
-            "朝臣甲"
+            "长吉"
           ],
           "size": 1
         },
         {
           "id": 16,
           "members": [
-            "朝臣乙"
+            "老院公"
           ],
           "size": 1
         },
         {
           "id": 17,
           "members": [
-            "朝臣丙"
+            "院子"
           ],
           "size": 1
         },
         {
           "id": 18,
           "members": [
-            "朝臣丁"
+            "施象清"
           ],
           "size": 1
         },
         {
           "id": 19,
           "members": [
-            "华子芳"
+            "倪树庆"
           ],
           "size": 1
         },
         {
           "id": 20,
           "members": [
-            "华金凤"
-          ],
-          "size": 1
-        },
-        {
-          "id": 21,
-          "members": [
-            "二奶奶"
-          ],
-          "size": 1
-        },
-        {
-          "id": 22,
-          "members": [
-            "扬州知府"
-          ],
-          "size": 1
-        },
-        {
-          "id": 23,
-          "members": [
-            "江都知县"
-          ],
-          "size": 1
-        },
-        {
-          "id": 24,
-          "members": [
-            "丑官"
-          ],
-          "size": 1
-        },
-        {
-          "id": 25,
-          "members": [
-            "二头目"
-          ],
-          "size": 1
-        },
-        {
-          "id": 26,
-          "members": [
-            "总兵"
-          ],
-          "size": 1
-        },
-        {
-          "id": 27,
-          "members": [
-            "华豹"
-          ],
-          "size": 1
-        },
-        {
-          "id": 28,
-          "members": [
-            "强盗甲"
-          ],
-          "size": 1
-        },
-        {
-          "id": 29,
-          "members": [
-            "强盗乙"
-          ],
-          "size": 1
-        },
-        {
-          "id": 30,
-          "members": [
-            "英雄丁"
-          ],
-          "size": 1
-        },
-        {
-          "id": 31,
-          "members": [
-            "打擂者甲"
-          ],
-          "size": 1
-        },
-        {
-          "id": 32,
-          "members": [
-            "中国京剧戏考 《天宝图》【八、九、十、十一、十二、十三、十四、十五、十六本】 2"
-          ],
-          "size": 1
-        },
-        {
-          "id": 33,
-          "members": [
-            "打擂者乙"
-          ],
-          "size": 1
-        },
-        {
-          "id": 34,
-          "members": [
-            "大将甲"
+            "施任氏"
           ],
           "size": 1
         }
       ],
-      "community_count": 35
+      "community_count": 21
     },
     "graph": {
       "nodes": [
         {
+          "id": "海瑞",
+          "degree": 22,
+          "label": "海瑞"
+        },
+        {
+          "id": "何以尚",
+          "degree": 22,
+          "label": "何以尚"
+        },
+        {
+          "id": "海夫人",
+          "degree": 22,
+          "label": "海夫人"
+        },
+        {
+          "id": "徐阶",
+          "degree": 22,
+          "label": "徐阶"
+        },
+        {
+          "id": "嘉靖",
+          "degree": 22,
+          "label": "嘉靖"
+        },
+        {
+          "id": "王金",
+          "degree": 22,
+          "label": "王金"
+        },
+        {
+          "id": "申世恩",
+          "degree": 22,
+          "label": "申世恩"
+        },
+        {
+          "id": "高守中",
+          "degree": 22,
+          "label": "高守中"
+        },
+        {
+          "id": "顾造",
+          "degree": 22,
+          "label": "顾造"
+        },
+        {
+          "id": "冯保",
+          "degree": 22,
+          "label": "冯保"
+        },
+        {
+          "id": "黄锦",
+          "degree": 22,
+          "label": "黄锦"
+        },
+        {
+          "id": "梁材",
+          "degree": 22,
+          "label": "梁材"
+        },
+        {
           "id": "李春芳",
-          "degree": 16,
+          "degree": 22,
           "label": "李春芳"
         },
         {
-          "id": "施必显",
-          "degree": 4,
-          "label": "施必显"
+          "id": "高拱",
+          "degree": 22,
+          "label": "高拱"
         },
         {
-          "id": "施碧霞",
-          "degree": 3,
-          "label": "施碧霞"
+          "id": "张居正",
+          "degree": 22,
+          "label": "张居正"
         },
         {
-          "id": "华月娥",
-          "degree": 6,
-          "label": "华月娥"
-        },
-        {
-          "id": "卢世杰",
-          "degree": 5,
-          "label": "卢世杰"
-        },
-        {
-          "id": "华锦章",
-          "degree": 13,
-          "label": "华锦章"
-        },
-        {
-          "id": "华子林",
-          "degree": 16,
-          "label": "华子林"
-        },
-        {
-          "id": "曹天宝",
-          "degree": 8,
-          "label": "曹天宝"
-        },
-        {
-          "id": "张槐仁",
-          "degree": 6,
-          "label": "张槐仁"
-        },
-        {
-          "id": "卢赛花",
-          "degree": 7,
-          "label": "卢赛花"
-        },
-        {
-          "id": "卢夫人",
-          "degree": 4,
-          "label": "卢夫人"
-        },
-        {
-          "id": "红花",
-          "degree": 12,
-          "label": "红花"
-        },
-        {
-          "id": "吴孝珍",
-          "degree": 4,
-          "label": "吴孝珍"
-        },
-        {
-          "id": "李母",
-          "degree": 10,
-          "label": "李母"
-        },
-        {
-          "id": "丑院子",
-          "degree": 5,
-          "label": "丑院子"
-        },
-        {
-          "id": "田旭东",
-          "degree": 9,
-          "label": "田旭东"
-        },
-        {
-          "id": "曹天佑",
-          "degree": 4,
-          "label": "曹天佑"
-        },
-        {
-          "id": "秦氏",
-          "degree": 8,
-          "label": "秦氏"
-        },
-        {
-          "id": "秦良",
-          "degree": 4,
-          "label": "秦良"
-        },
-        {
-          "id": "秦母",
-          "degree": 4,
-          "label": "秦母"
-        },
-        {
-          "id": "成化帝",
-          "degree": 5,
-          "label": "成化帝"
-        },
-        {
-          "id": "王爷",
-          "degree": 3,
-          "label": "王爷"
-        },
-        {
-          "id": "朝臣甲",
+          "id": "杨博",
           "degree": 0,
-          "label": "朝臣甲"
+          "label": "杨博"
         },
         {
-          "id": "朝臣乙",
+          "id": "赵贞吉",
           "degree": 0,
-          "label": "朝臣乙"
+          "label": "赵贞吉"
         },
         {
-          "id": "朝臣丙",
+          "id": "王大任",
           "degree": 0,
-          "label": "朝臣丙"
+          "label": "王大任"
         },
         {
-          "id": "朝臣丁",
+          "id": "高仪",
           "degree": 0,
-          "label": "朝臣丁"
+          "label": "高仪"
         },
         {
-          "id": "马杰",
-          "degree": 5,
-          "label": "马杰"
+          "id": "海安",
+          "degree": 22,
+          "label": "海安"
         },
         {
-          "id": "雷正坤",
-          "degree": 8,
-          "label": "雷正坤"
+          "id": "长吉",
+          "degree": 22,
+          "label": "长吉"
         },
         {
-          "id": "华子芳",
-          "degree": 3,
-          "label": "华子芳"
+          "id": "提牢主事",
+          "degree": 22,
+          "label": "提牢主事"
         },
         {
-          "id": "华金凤",
-          "degree": 3,
-          "label": "华金凤"
+          "id": "老狱吏",
+          "degree": 22,
+          "label": "老狱吏"
         },
         {
-          "id": "家将",
-          "degree": 6,
-          "label": "家将"
-        },
-        {
-          "id": "教师爷",
-          "degree": 3,
-          "label": "教师爷"
-        },
-        {
-          "id": "大校尉",
-          "degree": 7,
-          "label": "大校尉"
-        },
-        {
-          "id": "二奶奶",
+          "id": "老院公",
           "degree": 0,
-          "label": "二奶奶"
+          "label": "老院公"
         },
         {
-          "id": "扬州知府",
-          "degree": 0,
-          "label": "扬州知府"
+          "id": "院子",
+          "degree": 22,
+          "label": "院子"
         },
         {
-          "id": "江都知县",
-          "degree": 4,
-          "label": "江都知县"
+          "id": "施象清",
+          "degree": 22,
+          "label": "施象清"
         },
         {
-          "id": "丑官",
-          "degree": 2,
-          "label": "丑官"
+          "id": "倪树庆",
+          "degree": 22,
+          "label": "倪树庆"
         },
         {
-          "id": "大头目",
-          "degree": 9,
-          "label": "大头目"
-        },
-        {
-          "id": "二头目",
-          "degree": 3,
-          "label": "二头目"
-        },
-        {
-          "id": "总兵",
-          "degree": 0,
-          "label": "总兵"
-        },
-        {
-          "id": "华龙",
-          "degree": 1,
-          "label": "华龙"
-        },
-        {
-          "id": "华豹",
-          "degree": 0,
-          "label": "华豹"
-        },
-        {
-          "id": "强盗甲",
-          "degree": 2,
-          "label": "强盗甲"
-        },
-        {
-          "id": "强盗乙",
-          "degree": 2,
-          "label": "强盗乙"
-        },
-        {
-          "id": "英雄丁",
-          "degree": 5,
-          "label": "英雄丁"
-        },
-        {
-          "id": "打擂者甲",
-          "degree": 5,
-          "label": "打擂者甲"
-        },
-        {
-          "id": "中国京剧戏考 《天宝图》【八、九、十、十一、十二、十三、十四、十五、十六本】 2",
-          "degree": 0,
-          "label": "中国京剧戏考 《天宝图》【八、九、十、十一、十二、十三、十四、十五、十六本】 2"
-        },
-        {
-          "id": "打擂者乙",
-          "degree": 5,
-          "label": "打擂者乙"
-        },
-        {
-          "id": "大将甲",
-          "degree": 1,
-          "label": "大将甲"
+          "id": "施任氏",
+          "degree": 22,
+          "label": "施任氏"
         }
       ],
       "edges": [
         {
-          "source": "李春芳",
-          "target": "田旭东",
-          "weight": 2,
+          "source": "海瑞",
+          "target": "嘉靖",
+          "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "李春芳",
-          "target": "红花",
-          "weight": 2,
+          "source": "海瑞",
+          "target": "冯保",
+          "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "李春芳",
-          "target": "李母",
-          "weight": 2,
+          "source": "海瑞",
+          "target": "施象清",
+          "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "李春芳",
-          "target": "曹天宝",
-          "weight": 2,
+          "source": "海瑞",
+          "target": "申世恩",
+          "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "李春芳",
-          "target": "大校尉",
+          "source": "海瑞",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "海夫人",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "何以尚",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "徐阶",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "王金",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "高守中",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海瑞",
+          "target": "顾造",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "嘉靖",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "冯保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "申世恩",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "海夫人",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "徐阶",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "王金",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "高守中",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "何以尚",
+          "target": "顾造",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "嘉靖",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "冯保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "申世恩",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "徐阶",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "王金",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "高守中",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "海夫人",
+          "target": "顾造",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "嘉靖",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "冯保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "申世恩",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "王金",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "高守中",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "徐阶",
+          "target": "顾造",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "冯保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "申世恩",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "王金",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "高守中",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "嘉靖",
+          "target": "顾造",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "冯保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "申世恩",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "高守中",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金",
+          "target": "顾造",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "冯保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "高守中",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "申世恩",
+          "target": "顾造",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "冯保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "高守中",
+          "target": "顾造",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "冯保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "顾造",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冯保",
+          "target": "黄锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "梁材",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "黄锦",
+          "target": "提牢主事",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "施象清",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "长吉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "施任氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "高拱",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "院子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "张居正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "海安",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "李春芳",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "老狱吏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "倪树庆",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "梁材",
+          "target": "提牢主事",
           "weight": 1,
           "type": "undirected"
         },
         {
           "source": "李春芳",
-          "target": "江都知县",
+          "target": "施象清",
           "weight": 1,
           "type": "undirected"
         },
         {
           "source": "李春芳",
-          "target": "张槐仁",
+          "target": "长吉",
           "weight": 1,
           "type": "undirected"
         },
         {
           "source": "李春芳",
-          "target": "施必显",
-          "weight": 4,
-          "type": "undirected"
-        },
-        {
-          "source": "李春芳",
-          "target": "吴孝珍",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "李春芳",
-          "target": "卢赛花",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "李春芳",
-          "target": "打擂者甲",
+          "target": "施任氏",
           "weight": 1,
           "type": "undirected"
         },
         {
           "source": "李春芳",
-          "target": "大头目",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "李春芳",
-          "target": "雷正坤",
+          "target": "高拱",
           "weight": 1,
           "type": "undirected"
         },
         {
           "source": "李春芳",
-          "target": "英雄丁",
+          "target": "院子",
           "weight": 1,
           "type": "undirected"
         },
         {
           "source": "李春芳",
-          "target": "打擂者乙",
+          "target": "张居正",
           "weight": 1,
           "type": "undirected"
         },
         {
           "source": "李春芳",
-          "target": "二头目",
+          "target": "海安",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "施必显",
-          "target": "吴孝珍",
-          "weight": 7,
-          "type": "undirected"
-        },
-        {
-          "source": "施必显",
-          "target": "大头目",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "施必显",
-          "target": "卢赛花",
-          "weight": 4,
-          "type": "undirected"
-        },
-        {
-          "source": "施碧霞",
-          "target": "李母",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "施碧霞",
-          "target": "强盗甲",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "施碧霞",
-          "target": "强盗乙",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "华月娥",
-          "target": "卢夫人",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华月娥",
-          "target": "秦氏",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华月娥",
-          "target": "红花",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "华月娥",
-          "target": "秦母",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "华月娥",
-          "target": "秦良",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "华月娥",
-          "target": "李母",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "卢世杰",
-          "target": "卢赛花",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "卢世杰",
-          "target": "成化帝",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "卢世杰",
-          "target": "华锦章",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "卢世杰",
-          "target": "王爷",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "卢世杰",
-          "target": "大将甲",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "家将",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "张槐仁",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "大校尉",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "丑官",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "华子林",
-          "weight": 4,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "华子芳",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "成化帝",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "华金凤",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "王爷",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "马杰",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "雷正坤",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华锦章",
-          "target": "华龙",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "红花",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "家将",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "丑院子",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "教师爷",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "曹天佑",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "曹天宝",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "秦氏",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "田旭东",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "丑官",
-          "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "华子林",
-          "target": "张槐仁",
+          "source": "李春芳",
+          "target": "老狱吏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "华子林",
-          "target": "华子芳",
+          "source": "李春芳",
+          "target": "倪树庆",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "华子林",
-          "target": "成化帝",
+          "source": "李春芳",
+          "target": "提牢主事",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "华子林",
-          "target": "华金凤",
+          "source": "高拱",
+          "target": "施象清",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "华子林",
-          "target": "马杰",
+          "source": "高拱",
+          "target": "长吉",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "华子林",
-          "target": "雷正坤",
+          "source": "高拱",
+          "target": "施任氏",
           "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "曹天宝",
-          "target": "田旭东",
-          "weight": 3,
           "type": "undirected"
         },
         {
-          "source": "曹天宝",
-          "target": "红花",
+          "source": "高拱",
+          "target": "院子",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "曹天宝",
-          "target": "李母",
+          "source": "高拱",
+          "target": "张居正",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "曹天宝",
-          "target": "曹天佑",
+          "source": "高拱",
+          "target": "海安",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "曹天宝",
-          "target": "秦氏",
+          "source": "高拱",
+          "target": "老狱吏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "曹天宝",
-          "target": "马杰",
+          "source": "高拱",
+          "target": "倪树庆",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "张槐仁",
-          "target": "家将",
+          "source": "高拱",
+          "target": "提牢主事",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "张槐仁",
-          "target": "大校尉",
+          "source": "张居正",
+          "target": "施象清",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "张槐仁",
-          "target": "华子芳",
+          "source": "张居正",
+          "target": "长吉",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "卢赛花",
-          "target": "卢夫人",
+          "source": "张居正",
+          "target": "施任氏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "卢赛花",
-          "target": "二头目",
+          "source": "张居正",
+          "target": "院子",
           "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "卢赛花",
-          "target": "大头目",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "卢赛花",
-          "target": "吴孝珍",
-          "weight": 4,
           "type": "undirected"
         },
         {
-          "source": "卢夫人",
-          "target": "秦氏",
+          "source": "张居正",
+          "target": "海安",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "卢夫人",
-          "target": "红花",
+          "source": "张居正",
+          "target": "老狱吏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "红花",
-          "target": "秦氏",
+          "source": "张居正",
+          "target": "倪树庆",
           "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "红花",
-          "target": "田旭东",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "红花",
-          "target": "李母",
-          "weight": 3,
           "type": "undirected"
         },
         {
-          "source": "红花",
-          "target": "大校尉",
+          "source": "张居正",
+          "target": "提牢主事",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "红花",
-          "target": "江都知县",
+          "source": "海安",
+          "target": "施象清",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "红花",
-          "target": "秦良",
+          "source": "海安",
+          "target": "长吉",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "红花",
-          "target": "秦母",
+          "source": "海安",
+          "target": "施任氏",
           "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "吴孝珍",
-          "target": "大头目",
-          "weight": 3,
           "type": "undirected"
         },
         {
-          "source": "李母",
-          "target": "田旭东",
+          "source": "海安",
+          "target": "院子",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "李母",
-          "target": "大校尉",
+          "source": "海安",
+          "target": "老狱吏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "李母",
-          "target": "江都知县",
+          "source": "海安",
+          "target": "倪树庆",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "李母",
-          "target": "秦良",
+          "source": "海安",
+          "target": "提牢主事",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "李母",
-          "target": "秦母",
+          "source": "长吉",
+          "target": "施象清",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "丑院子",
-          "target": "家将",
+          "source": "长吉",
+          "target": "施任氏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "丑院子",
-          "target": "教师爷",
+          "source": "长吉",
+          "target": "院子",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "丑院子",
-          "target": "田旭东",
+          "source": "长吉",
+          "target": "老狱吏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "丑院子",
-          "target": "秦氏",
+          "source": "长吉",
+          "target": "倪树庆",
           "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "田旭东",
-          "target": "秦氏",
-          "weight": 2,
           "type": "undirected"
         },
         {
-          "source": "田旭东",
-          "target": "曹天佑",
+          "source": "长吉",
+          "target": "提牢主事",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "田旭东",
-          "target": "马杰",
+          "source": "提牢主事",
+          "target": "施象清",
           "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "曹天佑",
-          "target": "秦氏",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "秦良",
-          "target": "秦母",
-          "weight": 3,
           "type": "undirected"
         },
         {
-          "source": "成化帝",
-          "target": "华金凤",
+          "source": "提牢主事",
+          "target": "施任氏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "成化帝",
-          "target": "王爷",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "马杰",
-          "target": "雷正坤",
+          "source": "提牢主事",
+          "target": "院子",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "雷正坤",
-          "target": "打擂者甲",
+          "source": "提牢主事",
+          "target": "老狱吏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "雷正坤",
-          "target": "大头目",
+          "source": "提牢主事",
+          "target": "倪树庆",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "雷正坤",
-          "target": "英雄丁",
+          "source": "老狱吏",
+          "target": "施象清",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "雷正坤",
-          "target": "打擂者乙",
+          "source": "老狱吏",
+          "target": "施任氏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "家将",
-          "target": "教师爷",
+          "source": "老狱吏",
+          "target": "院子",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "家将",
-          "target": "大校尉",
+          "source": "老狱吏",
+          "target": "倪树庆",
           "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "大校尉",
-          "target": "江都知县",
-          "weight": 2,
           "type": "undirected"
         },
         {
-          "source": "大头目",
-          "target": "二头目",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "大头目",
-          "target": "打擂者甲",
+          "source": "院子",
+          "target": "施象清",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "大头目",
-          "target": "英雄丁",
+          "source": "院子",
+          "target": "施任氏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "大头目",
-          "target": "打擂者乙",
+          "source": "院子",
+          "target": "倪树庆",
           "weight": 1,
-          "type": "undirected"
-        },
-        {
-          "source": "强盗甲",
-          "target": "强盗乙",
-          "weight": 3,
           "type": "undirected"
         },
         {
-          "source": "英雄丁",
-          "target": "打擂者甲",
+          "source": "施象清",
+          "target": "施任氏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "英雄丁",
-          "target": "打擂者乙",
+          "source": "施象清",
+          "target": "倪树庆",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "打擂者甲",
-          "target": "打擂者乙",
+          "source": "倪树庆",
+          "target": "施任氏",
           "weight": 1,
           "type": "undirected"
         }
@@ -1716,1436 +2208,1307 @@
       {
         "id": 0,
         "members": [
-          "华子芳",
-          "教师爷",
-          "成化帝",
-          "丑官",
-          "华金凤",
-          "大校尉",
-          "华锦章",
-          "张槐仁",
-          "家将",
-          "丑院子",
-          "大将甲",
-          "王爷",
-          "华子林",
-          "华龙",
-          "卢世杰"
+          "梁材",
+          "海安",
+          "嘉靖",
+          "何以尚",
+          "冯保",
+          "李春芳",
+          "老狱吏",
+          "施象清",
+          "徐阶",
+          "申世恩",
+          "长吉",
+          "倪树庆",
+          "海夫人",
+          "施任氏",
+          "黄锦",
+          "提牢主事",
+          "高拱",
+          "王金",
+          "院子",
+          "高守中",
+          "海瑞",
+          "张居正",
+          "顾造"
         ],
-        "size": 15
+        "size": 23
       },
       {
         "id": 1,
         "members": [
-          "马杰",
-          "华月娥",
-          "秦良",
-          "曹天宝",
-          "卢夫人",
-          "曹天佑",
-          "田旭东",
-          "秦氏",
-          "红花",
-          "秦母",
-          "李母",
-          "江都知县"
+          "杨博"
         ],
-        "size": 12
+        "size": 1
       },
       {
         "id": 2,
         "members": [
-          "打擂者甲",
-          "卢赛花",
-          "施必显",
-          "二头目",
-          "大头目",
-          "李春芳",
-          "英雄丁",
-          "吴孝珍",
-          "雷正坤",
-          "打擂者乙"
+          "赵贞吉"
         ],
-        "size": 10
+        "size": 1
       },
       {
         "id": 3,
         "members": [
-          "强盗甲",
-          "施碧霞",
-          "强盗乙"
+          "王大任"
         ],
-        "size": 3
+        "size": 1
       },
       {
         "id": 4,
         "members": [
-          "朝臣甲"
+          "高仪"
         ],
         "size": 1
       },
       {
         "id": 5,
         "members": [
-          "朝臣乙"
-        ],
-        "size": 1
-      },
-      {
-        "id": 6,
-        "members": [
-          "朝臣丙"
-        ],
-        "size": 1
-      },
-      {
-        "id": 7,
-        "members": [
-          "朝臣丁"
-        ],
-        "size": 1
-      },
-      {
-        "id": 8,
-        "members": [
-          "二奶奶"
-        ],
-        "size": 1
-      },
-      {
-        "id": 9,
-        "members": [
-          "扬州知府"
-        ],
-        "size": 1
-      },
-      {
-        "id": 10,
-        "members": [
-          "总兵"
-        ],
-        "size": 1
-      },
-      {
-        "id": 11,
-        "members": [
-          "华豹"
-        ],
-        "size": 1
-      },
-      {
-        "id": 12,
-        "members": [
-          "中国京剧戏考 《天宝图》【八、九、十、十一、十二、十三、十四、十五、十六本】 2"
+          "老院公"
         ],
         "size": 1
       }
     ]
   },
   "家庭戏": {
-    "title": "九阳钟",
-    "script_id": "01028002",
-    "character_count": 33,
+    "title": "红楼二尤",
+    "script_id": "70203107",
+    "character_count": 18,
     "cooccurrence": {
-      "nodes": 33,
-      "edges": 92,
-      "density": 0.1742,
-      "avg_clustering": 0.7671,
-      "avg_path_length": 2.0119,
-      "components": 5,
+      "nodes": 18,
+      "edges": 120,
+      "density": 0.7843,
+      "avg_clustering": 0.8889,
+      "avg_path_length": 1.0,
+      "components": 3,
       "top_degree": [
         {
-          "name": "戴宗",
-          "value": 13
+          "name": "尤三姐",
+          "value": 15
         },
         {
-          "name": "周通",
-          "value": 13
+          "name": "尤二姐",
+          "value": 15
         },
         {
-          "name": "陈希真",
-          "value": 12
+          "name": "贾琏",
+          "value": 15
         },
         {
-          "name": "高世德",
-          "value": 12
+          "name": "柳湘莲",
+          "value": 15
         },
         {
-          "name": "陈丽卿",
-          "value": 11
+          "name": "王熙凤",
+          "value": 15
         }
       ],
-      "centralization": 0.247,
+      "centralization": 0.1103,
       "top_pagerank": [
         {
-          "name": "陈希真",
-          "value": 0.0801
+          "name": "尤三姐",
+          "value": 0.0613
         },
         {
-          "name": "高世德",
-          "value": 0.0784
+          "name": "尤二姐",
+          "value": 0.0613
         },
         {
-          "name": "陈丽卿",
-          "value": 0.0761
+          "name": "贾琏",
+          "value": 0.0613
         },
         {
-          "name": "孙高",
-          "value": 0.0722
+          "name": "柳湘莲",
+          "value": 0.0613
         },
         {
-          "name": "戴宗",
-          "value": 0.0453
+          "name": "王熙凤",
+          "value": 0.0613
         }
       ],
       "top_betweenness": [
         {
-          "name": "戴宗",
-          "value": 0.0911
+          "name": "尤三姐",
+          "value": 0.0
         },
         {
-          "name": "周通",
-          "value": 0.0911
+          "name": "尤二姐",
+          "value": 0.0
         },
         {
-          "name": "陈希真",
-          "value": 0.0899
+          "name": "贾琏",
+          "value": 0.0
         },
         {
-          "name": "高世德",
-          "value": 0.0778
+          "name": "柳湘莲",
+          "value": 0.0
         },
         {
-          "name": "孙高",
-          "value": 0.068
+          "name": "王熙凤",
+          "value": 0.0
         }
       ],
-      "modularity": 0.3694,
+      "modularity": 0.0,
       "communities": [
         {
           "id": 0,
           "members": [
-            "诸大娘",
-            "门官",
-            "孙高",
-            "高俅",
-            "孙进",
-            "薛宝",
-            "茶博士",
-            "陈丽卿",
-            "高世德",
-            "魏景",
-            "高升",
-            "范天喜",
-            "店小二",
-            "陈希真",
-            "高福"
+            "薛蟠",
+            "平儿",
+            "尤三姐",
+            "贾蓉",
+            "贾琏",
+            "尤老娘",
+            "来旺儿",
+            "多姑娘",
+            "贾珍",
+            "赖尚荣",
+            "尤二姐",
+            "家丁",
+            "柳湘莲",
+            "酒保",
+            "王熙凤",
+            "秋桐"
           ],
-          "size": 15
+          "size": 16
         },
         {
           "id": 1,
           "members": [
-            "戴宗",
-            "朱仝",
-            "索超",
-            "吴用",
-            "雷横",
-            "秦明",
-            "宋江",
-            "周通"
+            "车夫"
+          ],
+          "size": 1
+        },
+        {
+          "id": 2,
+          "members": [
+            "轿夫"
+          ],
+          "size": 1
+        }
+      ],
+      "community_count": 3
+    },
+    "dialogue": {
+      "nodes": 18,
+      "edges": 91,
+      "density": 0.2974,
+      "avg_clustering": 0.5728,
+      "avg_path_length": 1.7048,
+      "components": 4,
+      "top_degree": [
+        {
+          "name": "贾琏",
+          "value": 22
+        },
+        {
+          "name": "尤二姐",
+          "value": 19
+        },
+        {
+          "name": "贾蓉",
+          "value": 15
+        },
+        {
+          "name": "尤三姐",
+          "value": 13
+        },
+        {
+          "name": "柳湘莲",
+          "value": 13
+        }
+      ],
+      "centralization": 0.7868,
+      "top_pagerank": [
+        {
+          "name": "王熙凤",
+          "value": 0.1398
+        },
+        {
+          "name": "尤二姐",
+          "value": 0.1217
+        },
+        {
+          "name": "贾琏",
+          "value": 0.1121
+        },
+        {
+          "name": "尤三姐",
+          "value": 0.0877
+        },
+        {
+          "name": "秋桐",
+          "value": 0.0801
+        }
+      ],
+      "top_betweenness": [
+        {
+          "name": "贾琏",
+          "value": 0.1271
+        },
+        {
+          "name": "柳湘莲",
+          "value": 0.1188
+        },
+        {
+          "name": "尤二姐",
+          "value": 0.0891
+        },
+        {
+          "name": "薛蟠",
+          "value": 0.0601
+        },
+        {
+          "name": "平儿",
+          "value": 0.0369
+        }
+      ],
+      "modularity": 0.234,
+      "communities": [
+        {
+          "id": 0,
+          "members": [
+            "平儿",
+            "贾蓉",
+            "王熙凤",
+            "来旺儿",
+            "贾琏",
+            "多姑娘",
+            "尤二姐",
+            "秋桐"
           ],
           "size": 8
         },
         {
-          "id": 2,
-          "members": [
-            "蔡京",
-            "种师道",
-            "宋徽宗",
-            "赵忭",
-            "童贯"
-          ],
-          "size": 5
-        },
-        {
-          "id": 3,
-          "members": [
-            "邝金龙",
-            "沙摩海",
-            "店伙"
-          ],
-          "size": 3
-        },
-        {
-          "id": 4,
-          "members": [
-            "邓云"
-          ],
-          "size": 1
-        },
-        {
-          "id": 5,
-          "members": [
-            "王耀"
-          ],
-          "size": 1
-        }
-      ],
-      "community_count": 6
-    },
-    "dialogue": {
-      "nodes": 33,
-      "edges": 67,
-      "density": 0.0634,
-      "avg_clustering": 0.2441,
-      "avg_path_length": 3.2333,
-      "components": 7,
-      "top_degree": [
-        {
-          "name": "陈希真",
-          "value": 21
-        },
-        {
-          "name": "高世德",
-          "value": 11
-        },
-        {
-          "name": "孙高",
-          "value": 8
-        },
-        {
-          "name": "陈丽卿",
-          "value": 7
-        },
-        {
-          "name": "高俅",
-          "value": 7
-        }
-      ],
-      "centralization": 0.5635,
-      "top_pagerank": [
-        {
-          "name": "陈希真",
-          "value": 0.1603
-        },
-        {
-          "name": "陈丽卿",
-          "value": 0.0793
-        },
-        {
-          "name": "高世德",
-          "value": 0.0697
-        },
-        {
-          "name": "高俅",
-          "value": 0.0545
-        },
-        {
-          "name": "孙高",
-          "value": 0.053
-        }
-      ],
-      "top_betweenness": [
-        {
-          "name": "陈希真",
-          "value": 0.2626
-        },
-        {
-          "name": "戴宗",
-          "value": 0.1058
-        },
-        {
-          "name": "周通",
-          "value": 0.0709
-        },
-        {
-          "name": "高世德",
-          "value": 0.0684
-        },
-        {
-          "name": "孙高",
-          "value": 0.0595
-        }
-      ],
-      "modularity": 0.1918,
-      "communities": [
-        {
-          "id": 0,
-          "members": [
-            "孙高",
-            "高世德",
-            "高升",
-            "高俅",
-            "孙进",
-            "薛宝",
-            "高福"
-          ],
-          "size": 7
-        },
-        {
           "id": 1,
           "members": [
-            "门官",
-            "魏景",
-            "戴宗",
-            "范天喜",
-            "茶博士",
-            "陈希真",
-            "周通"
+            "薛蟠",
+            "尤三姐",
+            "赖尚荣",
+            "尤老娘",
+            "贾珍",
+            "家丁",
+            "柳湘莲"
           ],
           "size": 7
         },
         {
           "id": 2,
           "members": [
-            "蔡京",
-            "种师道",
-            "宋徽宗",
-            "赵忭",
-            "童贯"
+            "车夫"
           ],
-          "size": 5
+          "size": 1
         },
         {
           "id": 3,
           "members": [
-            "秦明",
-            "索超",
-            "朱仝",
-            "雷横"
+            "轿夫"
           ],
-          "size": 4
+          "size": 1
         },
         {
           "id": 4,
           "members": [
-            "诸大娘",
-            "店小二",
-            "陈丽卿"
-          ],
-          "size": 3
-        },
-        {
-          "id": 5,
-          "members": [
-            "吴用",
-            "宋江"
-          ],
-          "size": 2
-        },
-        {
-          "id": 6,
-          "members": [
-            "邝金龙",
-            "沙摩海"
-          ],
-          "size": 2
-        },
-        {
-          "id": 7,
-          "members": [
-            "邓云"
-          ],
-          "size": 1
-        },
-        {
-          "id": 8,
-          "members": [
-            "王耀"
-          ],
-          "size": 1
-        },
-        {
-          "id": 9,
-          "members": [
-            "店伙"
+            "酒保"
           ],
           "size": 1
         }
       ],
-      "community_count": 10
+      "community_count": 5
     },
     "power": {
-      "nodes": 33,
-      "edges": 10,
-      "density": 0.0095,
+      "nodes": 18,
+      "edges": 4,
+      "density": 0.0131,
       "avg_clustering": 0.0,
       "avg_path_length": 0,
-      "components": 24,
+      "components": 14,
       "top_degree": [
         {
-          "name": "陈希真",
-          "value": 6
-        },
-        {
-          "name": "高俅",
+          "name": "王熙凤",
           "value": 3
         },
         {
-          "name": "陈丽卿",
-          "value": 2
+          "name": "尤二姐",
+          "value": 1
         },
         {
-          "name": "孙高",
-          "value": 2
+          "name": "贾琏",
+          "value": 1
         },
         {
-          "name": "高世德",
+          "name": "秋桐",
+          "value": 1
+        },
+        {
+          "name": "来旺儿",
           "value": 1
         }
       ],
-      "centralization": 0.1794,
+      "centralization": 0.1691,
       "top_pagerank": [
         {
-          "name": "陈希真",
-          "value": 0.2814
+          "name": "平儿",
+          "value": 0.1442
         },
         {
-          "name": "陈丽卿",
-          "value": 0.2534
+          "name": "王熙凤",
+          "value": 0.1182
         },
         {
-          "name": "宋江",
-          "value": 0.0263
+          "name": "尤二姐",
+          "value": 0.081
         },
         {
-          "name": "高升",
-          "value": 0.0183
+          "name": "尤三姐",
+          "value": 0.0438
         },
         {
-          "name": "孙高",
-          "value": 0.0183
+          "name": "贾琏",
+          "value": 0.0438
         }
       ],
       "top_betweenness": [
         {
-          "name": "陈希真",
-          "value": 0.005
+          "name": "王熙凤",
+          "value": 0.0074
         },
         {
-          "name": "孙高",
-          "value": 0.002
-        },
-        {
-          "name": "陈丽卿",
+          "name": "尤三姐",
           "value": 0.0
         },
         {
-          "name": "高世德",
+          "name": "尤二姐",
           "value": 0.0
         },
         {
-          "name": "高俅",
+          "name": "贾琏",
+          "value": 0.0
+        },
+        {
+          "name": "柳湘莲",
           "value": 0.0
         }
       ],
-      "modularity": 0.308,
+      "modularity": 0.375,
       "communities": [
         {
           "id": 0,
           "members": [
-            "陈丽卿",
-            "高世德",
-            "范天喜",
-            "陈希真",
-            "周通"
-          ],
-          "size": 5
-        },
-        {
-          "id": 1,
-          "members": [
-            "高俅",
-            "孙进",
-            "孙高",
-            "高升"
+            "平儿",
+            "秋桐",
+            "王熙凤",
+            "来旺儿"
           ],
           "size": 4
         },
         {
-          "id": 2,
+          "id": 1,
           "members": [
-            "吴用",
-            "宋江"
+            "尤二姐",
+            "贾琏"
           ],
           "size": 2
         },
         {
+          "id": 2,
+          "members": [
+            "尤三姐"
+          ],
+          "size": 1
+        },
+        {
           "id": 3,
           "members": [
-            "高福"
+            "柳湘莲"
           ],
           "size": 1
         },
         {
           "id": 4,
           "members": [
-            "薛宝"
+            "贾珍"
           ],
           "size": 1
         },
         {
           "id": 5,
           "members": [
-            "宋徽宗"
+            "贾蓉"
           ],
           "size": 1
         },
         {
           "id": 6,
           "members": [
-            "种师道"
+            "薛蟠"
           ],
           "size": 1
         },
         {
           "id": 7,
           "members": [
-            "蔡京"
+            "尤老娘"
           ],
           "size": 1
         },
         {
           "id": 8,
           "members": [
-            "赵忭"
+            "多姑娘"
           ],
           "size": 1
         },
         {
           "id": 9,
           "members": [
-            "童贯"
+            "赖尚荣"
           ],
           "size": 1
         },
         {
           "id": 10,
           "members": [
-            "朱仝"
+            "家丁"
           ],
           "size": 1
         },
         {
           "id": 11,
           "members": [
-            "雷横"
+            "车夫"
           ],
           "size": 1
         },
         {
           "id": 12,
           "members": [
-            "索超"
+            "轿夫"
           ],
           "size": 1
         },
         {
           "id": 13,
           "members": [
-            "秦明"
-          ],
-          "size": 1
-        },
-        {
-          "id": 14,
-          "members": [
-            "戴宗"
-          ],
-          "size": 1
-        },
-        {
-          "id": 15,
-          "members": [
-            "诸大娘"
-          ],
-          "size": 1
-        },
-        {
-          "id": 16,
-          "members": [
-            "店小二"
-          ],
-          "size": 1
-        },
-        {
-          "id": 17,
-          "members": [
-            "邓云"
-          ],
-          "size": 1
-        },
-        {
-          "id": 18,
-          "members": [
-            "门官"
-          ],
-          "size": 1
-        },
-        {
-          "id": 19,
-          "members": [
-            "魏景"
-          ],
-          "size": 1
-        },
-        {
-          "id": 20,
-          "members": [
-            "王耀"
-          ],
-          "size": 1
-        },
-        {
-          "id": 21,
-          "members": [
-            "邝金龙"
-          ],
-          "size": 1
-        },
-        {
-          "id": 22,
-          "members": [
-            "沙摩海"
-          ],
-          "size": 1
-        },
-        {
-          "id": 23,
-          "members": [
-            "茶博士"
-          ],
-          "size": 1
-        },
-        {
-          "id": 24,
-          "members": [
-            "店伙"
+            "酒保"
           ],
           "size": 1
         }
       ],
-      "community_count": 25
+      "community_count": 14
     },
     "graph": {
       "nodes": [
         {
-          "id": "陈希真",
-          "degree": 12,
-          "label": "陈希真"
+          "id": "尤三姐",
+          "degree": 15,
+          "label": "尤三姐"
         },
         {
-          "id": "陈丽卿",
-          "degree": 11,
-          "label": "陈丽卿"
+          "id": "尤二姐",
+          "degree": 15,
+          "label": "尤二姐"
         },
         {
-          "id": "高世德",
-          "degree": 12,
-          "label": "高世德"
+          "id": "贾琏",
+          "degree": 15,
+          "label": "贾琏"
         },
         {
-          "id": "高俅",
-          "degree": 4,
-          "label": "高俅"
+          "id": "柳湘莲",
+          "degree": 15,
+          "label": "柳湘莲"
         },
         {
-          "id": "高升",
-          "degree": 6,
-          "label": "高升"
+          "id": "王熙凤",
+          "degree": 15,
+          "label": "王熙凤"
         },
         {
-          "id": "高福",
-          "degree": 1,
-          "label": "高福"
+          "id": "秋桐",
+          "degree": 15,
+          "label": "秋桐"
         },
         {
-          "id": "孙高",
-          "degree": 11,
-          "label": "孙高"
+          "id": "贾珍",
+          "degree": 15,
+          "label": "贾珍"
         },
         {
-          "id": "薛宝",
-          "degree": 5,
-          "label": "薛宝"
+          "id": "贾蓉",
+          "degree": 15,
+          "label": "贾蓉"
         },
         {
-          "id": "宋徽宗",
-          "degree": 4,
-          "label": "宋徽宗"
+          "id": "薛蟠",
+          "degree": 15,
+          "label": "薛蟠"
         },
         {
-          "id": "种师道",
-          "degree": 4,
-          "label": "种师道"
+          "id": "尤老娘",
+          "degree": 15,
+          "label": "尤老娘"
         },
         {
-          "id": "蔡京",
-          "degree": 4,
-          "label": "蔡京"
+          "id": "来旺儿",
+          "degree": 15,
+          "label": "来旺儿"
         },
         {
-          "id": "赵忭",
-          "degree": 4,
-          "label": "赵忭"
+          "id": "多姑娘",
+          "degree": 15,
+          "label": "多姑娘"
         },
         {
-          "id": "童贯",
-          "degree": 4,
-          "label": "童贯"
+          "id": "平儿",
+          "degree": 15,
+          "label": "平儿"
         },
         {
-          "id": "范天喜",
-          "degree": 7,
-          "label": "范天喜"
+          "id": "赖尚荣",
+          "degree": 15,
+          "label": "赖尚荣"
         },
         {
-          "id": "孙进",
-          "degree": 4,
-          "label": "孙进"
+          "id": "家丁",
+          "degree": 15,
+          "label": "家丁"
         },
         {
-          "id": "宋江",
-          "degree": 7,
-          "label": "宋江"
-        },
-        {
-          "id": "吴用",
-          "degree": 7,
-          "label": "吴用"
-        },
-        {
-          "id": "朱仝",
-          "degree": 7,
-          "label": "朱仝"
-        },
-        {
-          "id": "雷横",
-          "degree": 7,
-          "label": "雷横"
-        },
-        {
-          "id": "索超",
-          "degree": 7,
-          "label": "索超"
-        },
-        {
-          "id": "秦明",
-          "degree": 7,
-          "label": "秦明"
-        },
-        {
-          "id": "戴宗",
-          "degree": 13,
-          "label": "戴宗"
-        },
-        {
-          "id": "周通",
-          "degree": 13,
-          "label": "周通"
-        },
-        {
-          "id": "诸大娘",
-          "degree": 3,
-          "label": "诸大娘"
-        },
-        {
-          "id": "店小二",
-          "degree": 3,
-          "label": "店小二"
-        },
-        {
-          "id": "邓云",
+          "id": "车夫",
           "degree": 0,
-          "label": "邓云"
+          "label": "车夫"
         },
         {
-          "id": "门官",
-          "degree": 1,
-          "label": "门官"
-        },
-        {
-          "id": "魏景",
-          "degree": 4,
-          "label": "魏景"
-        },
-        {
-          "id": "王耀",
+          "id": "轿夫",
           "degree": 0,
-          "label": "王耀"
+          "label": "轿夫"
         },
         {
-          "id": "邝金龙",
-          "degree": 2,
-          "label": "邝金龙"
-        },
-        {
-          "id": "沙摩海",
-          "degree": 2,
-          "label": "沙摩海"
-        },
-        {
-          "id": "茶博士",
-          "degree": 6,
-          "label": "茶博士"
-        },
-        {
-          "id": "店伙",
-          "degree": 2,
-          "label": "店伙"
+          "id": "酒保",
+          "degree": 15,
+          "label": "酒保"
         }
       ],
       "edges": [
         {
-          "source": "陈希真",
-          "target": "戴宗",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈希真",
-          "target": "茶博士",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈希真",
-          "target": "陈丽卿",
-          "weight": 12,
-          "type": "undirected"
-        },
-        {
-          "source": "陈希真",
-          "target": "高世德",
-          "weight": 5,
-          "type": "undirected"
-        },
-        {
-          "source": "陈希真",
-          "target": "范天喜",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈希真",
-          "target": "周通",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈希真",
-          "target": "孙高",
-          "weight": 5,
-          "type": "undirected"
-        },
-        {
-          "source": "陈希真",
-          "target": "薛宝",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈希真",
-          "target": "门官",
+          "source": "尤三姐",
+          "target": "薛蟠",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "陈希真",
-          "target": "魏景",
+          "source": "尤三姐",
+          "target": "平儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "陈希真",
-          "target": "诸大娘",
+          "source": "尤三姐",
+          "target": "贾蓉",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "陈希真",
-          "target": "店小二",
+          "source": "尤三姐",
+          "target": "贾琏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "陈丽卿",
-          "target": "戴宗",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈丽卿",
-          "target": "茶博士",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈丽卿",
-          "target": "高世德",
-          "weight": 5,
-          "type": "undirected"
-        },
-        {
-          "source": "陈丽卿",
-          "target": "范天喜",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈丽卿",
-          "target": "周通",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈丽卿",
-          "target": "孙高",
-          "weight": 4,
-          "type": "undirected"
-        },
-        {
-          "source": "陈丽卿",
-          "target": "薛宝",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈丽卿",
-          "target": "魏景",
+          "source": "尤三姐",
+          "target": "尤老娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "陈丽卿",
-          "target": "诸大娘",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈丽卿",
-          "target": "店小二",
+          "source": "尤三姐",
+          "target": "来旺儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "高世德",
-          "target": "孙高",
-          "weight": 9,
-          "type": "undirected"
-        },
-        {
-          "source": "高世德",
-          "target": "薛宝",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "高世德",
-          "target": "高升",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "高世德",
-          "target": "戴宗",
+          "source": "尤三姐",
+          "target": "多姑娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "高世德",
-          "target": "茶博士",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "高世德",
-          "target": "范天喜",
+          "source": "尤三姐",
+          "target": "贾珍",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "高世德",
-          "target": "周通",
+          "source": "尤三姐",
+          "target": "赖尚荣",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "高世德",
-          "target": "高俅",
-          "weight": 5,
-          "type": "undirected"
-        },
-        {
-          "source": "高世德",
-          "target": "孙进",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "高世德",
-          "target": "魏景",
+          "source": "尤三姐",
+          "target": "尤二姐",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "高俅",
-          "target": "孙高",
-          "weight": 4,
-          "type": "undirected"
-        },
-        {
-          "source": "高俅",
-          "target": "孙进",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "高俅",
-          "target": "高升",
+          "source": "尤三姐",
+          "target": "家丁",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "高升",
-          "target": "孙高",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "高升",
-          "target": "薛宝",
+          "source": "尤三姐",
+          "target": "柳湘莲",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "高升",
-          "target": "高福",
+          "source": "尤三姐",
+          "target": "酒保",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "高升",
-          "target": "孙进",
+          "source": "尤三姐",
+          "target": "王熙凤",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "孙高",
-          "target": "薛宝",
-          "weight": 4,
-          "type": "undirected"
-        },
-        {
-          "source": "孙高",
-          "target": "戴宗",
+          "source": "尤三姐",
+          "target": "秋桐",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "孙高",
-          "target": "范天喜",
+          "source": "尤二姐",
+          "target": "薛蟠",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "孙高",
-          "target": "周通",
+          "source": "尤二姐",
+          "target": "平儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "孙高",
-          "target": "孙进",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "孙高",
-          "target": "魏景",
+          "source": "尤二姐",
+          "target": "贾蓉",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋徽宗",
-          "target": "种师道",
+          "source": "尤二姐",
+          "target": "贾琏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋徽宗",
-          "target": "赵忭",
+          "source": "尤二姐",
+          "target": "尤老娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋徽宗",
-          "target": "童贯",
+          "source": "尤二姐",
+          "target": "来旺儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋徽宗",
-          "target": "蔡京",
+          "source": "尤二姐",
+          "target": "多姑娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "种师道",
-          "target": "赵忭",
+          "source": "尤二姐",
+          "target": "贾珍",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "种师道",
-          "target": "童贯",
+          "source": "尤二姐",
+          "target": "赖尚荣",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "种师道",
-          "target": "蔡京",
+          "source": "尤二姐",
+          "target": "家丁",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "蔡京",
-          "target": "赵忭",
+          "source": "尤二姐",
+          "target": "柳湘莲",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "蔡京",
-          "target": "童贯",
+          "source": "尤二姐",
+          "target": "酒保",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "赵忭",
-          "target": "童贯",
+          "source": "尤二姐",
+          "target": "王熙凤",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "范天喜",
-          "target": "戴宗",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "范天喜",
-          "target": "茶博士",
+          "source": "尤二姐",
+          "target": "秋桐",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "范天喜",
-          "target": "周通",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "宋江",
-          "target": "戴宗",
+          "source": "贾琏",
+          "target": "薛蟠",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋江",
-          "target": "索超",
+          "source": "贾琏",
+          "target": "平儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋江",
-          "target": "朱仝",
+          "source": "贾琏",
+          "target": "贾蓉",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋江",
-          "target": "吴用",
+          "source": "贾琏",
+          "target": "尤老娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋江",
-          "target": "雷横",
+          "source": "贾琏",
+          "target": "来旺儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋江",
-          "target": "秦明",
+          "source": "贾琏",
+          "target": "多姑娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "宋江",
-          "target": "周通",
+          "source": "贾琏",
+          "target": "贾珍",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "吴用",
-          "target": "戴宗",
+          "source": "贾琏",
+          "target": "赖尚荣",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "吴用",
-          "target": "索超",
+          "source": "贾琏",
+          "target": "家丁",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "吴用",
-          "target": "朱仝",
+          "source": "贾琏",
+          "target": "柳湘莲",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "吴用",
-          "target": "雷横",
+          "source": "贾琏",
+          "target": "酒保",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "吴用",
-          "target": "秦明",
+          "source": "贾琏",
+          "target": "王熙凤",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "吴用",
-          "target": "周通",
+          "source": "贾琏",
+          "target": "秋桐",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "朱仝",
-          "target": "戴宗",
+          "source": "柳湘莲",
+          "target": "薛蟠",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "朱仝",
-          "target": "索超",
+          "source": "柳湘莲",
+          "target": "平儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "朱仝",
-          "target": "雷横",
+          "source": "柳湘莲",
+          "target": "贾蓉",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "朱仝",
-          "target": "秦明",
+          "source": "柳湘莲",
+          "target": "尤老娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "朱仝",
-          "target": "周通",
+          "source": "柳湘莲",
+          "target": "来旺儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "雷横",
-          "target": "戴宗",
+          "source": "柳湘莲",
+          "target": "多姑娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "雷横",
-          "target": "索超",
+          "source": "柳湘莲",
+          "target": "贾珍",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "雷横",
-          "target": "秦明",
+          "source": "柳湘莲",
+          "target": "赖尚荣",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "雷横",
-          "target": "周通",
+          "source": "柳湘莲",
+          "target": "家丁",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "索超",
-          "target": "戴宗",
+          "source": "柳湘莲",
+          "target": "酒保",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "索超",
-          "target": "秦明",
+          "source": "柳湘莲",
+          "target": "王熙凤",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "索超",
-          "target": "周通",
+          "source": "柳湘莲",
+          "target": "秋桐",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "秦明",
-          "target": "戴宗",
+          "source": "王熙凤",
+          "target": "薛蟠",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "秦明",
-          "target": "周通",
+          "source": "王熙凤",
+          "target": "平儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "戴宗",
-          "target": "周通",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "戴宗",
-          "target": "茶博士",
+          "source": "王熙凤",
+          "target": "贾蓉",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "周通",
-          "target": "茶博士",
+          "source": "王熙凤",
+          "target": "尤老娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "诸大娘",
-          "target": "店小二",
+          "source": "王熙凤",
+          "target": "来旺儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "邝金龙",
-          "target": "沙摩海",
+          "source": "王熙凤",
+          "target": "多姑娘",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "邝金龙",
-          "target": "店伙",
+          "source": "王熙凤",
+          "target": "贾珍",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "沙摩海",
-          "target": "店伙",
+          "source": "王熙凤",
+          "target": "赖尚荣",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王熙凤",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王熙凤",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王熙凤",
+          "target": "秋桐",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "薛蟠",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "平儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "贾蓉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "尤老娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "来旺儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "多姑娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "贾珍",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "赖尚荣",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "秋桐",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾珍",
+          "target": "薛蟠",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾珍",
+          "target": "平儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾珍",
+          "target": "贾蓉",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾珍",
+          "target": "尤老娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾珍",
+          "target": "来旺儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾珍",
+          "target": "多姑娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾珍",
+          "target": "赖尚荣",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾珍",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾珍",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾蓉",
+          "target": "薛蟠",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾蓉",
+          "target": "平儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾蓉",
+          "target": "尤老娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾蓉",
+          "target": "来旺儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾蓉",
+          "target": "多姑娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾蓉",
+          "target": "赖尚荣",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾蓉",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "贾蓉",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "薛蟠",
+          "target": "平儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "薛蟠",
+          "target": "尤老娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "薛蟠",
+          "target": "来旺儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "薛蟠",
+          "target": "多姑娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "薛蟠",
+          "target": "赖尚荣",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "薛蟠",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "薛蟠",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "尤老娘",
+          "target": "平儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "尤老娘",
+          "target": "来旺儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "尤老娘",
+          "target": "多姑娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "尤老娘",
+          "target": "赖尚荣",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "尤老娘",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "尤老娘",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "来旺儿",
+          "target": "平儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "来旺儿",
+          "target": "多姑娘",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "来旺儿",
+          "target": "赖尚荣",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "来旺儿",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "来旺儿",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "多姑娘",
+          "target": "平儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "多姑娘",
+          "target": "赖尚荣",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "多姑娘",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "多姑娘",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "平儿",
+          "target": "赖尚荣",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "平儿",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "平儿",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赖尚荣",
+          "target": "家丁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赖尚荣",
+          "target": "酒保",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "家丁",
+          "target": "酒保",
           "weight": 1,
           "type": "undirected"
         }
@@ -3155,1046 +3518,1575 @@
       {
         "id": 0,
         "members": [
-          "诸大娘",
-          "门官",
-          "孙高",
-          "高俅",
-          "孙进",
-          "薛宝",
-          "茶博士",
-          "陈丽卿",
-          "高世德",
-          "魏景",
-          "高升",
-          "范天喜",
-          "店小二",
-          "陈希真",
-          "高福"
+          "薛蟠",
+          "平儿",
+          "尤三姐",
+          "贾蓉",
+          "贾琏",
+          "尤老娘",
+          "来旺儿",
+          "多姑娘",
+          "贾珍",
+          "赖尚荣",
+          "尤二姐",
+          "家丁",
+          "柳湘莲",
+          "酒保",
+          "王熙凤",
+          "秋桐"
         ],
-        "size": 15
+        "size": 16
       },
       {
         "id": 1,
         "members": [
-          "戴宗",
-          "朱仝",
-          "索超",
-          "吴用",
-          "雷横",
-          "秦明",
-          "宋江",
-          "周通"
-        ],
-        "size": 8
-      },
-      {
-        "id": 2,
-        "members": [
-          "蔡京",
-          "种师道",
-          "宋徽宗",
-          "赵忭",
-          "童贯"
-        ],
-        "size": 5
-      },
-      {
-        "id": 3,
-        "members": [
-          "邝金龙",
-          "沙摩海",
-          "店伙"
-        ],
-        "size": 3
-      },
-      {
-        "id": 4,
-        "members": [
-          "邓云"
+          "车夫"
         ],
         "size": 1
       },
       {
-        "id": 5,
+        "id": 2,
         "members": [
-          "王耀"
+          "轿夫"
         ],
         "size": 1
       }
     ]
   },
   "公案戏": {
-    "title": "宏碧缘",
-    "script_id": "01024001",
-    "character_count": 23,
+    "title": "玉堂春",
+    "script_id": "70203202",
+    "character_count": 19,
     "cooccurrence": {
-      "nodes": 23,
-      "edges": 59,
-      "density": 0.2332,
-      "avg_clustering": 0.5128,
-      "avg_path_length": 1.8497,
-      "components": 4,
+      "nodes": 19,
+      "edges": 171,
+      "density": 1.0,
+      "avg_clustering": 1.0,
+      "avg_path_length": 1.0,
+      "components": 1,
       "top_degree": [
         {
-          "name": "任正千",
-          "value": 12
+          "name": "苏三",
+          "value": 18
         },
         {
-          "name": "骆宏勋",
-          "value": 9
+          "name": "王金龙",
+          "value": 18
         },
         {
-          "name": "余千",
-          "value": 9
+          "name": "刘秉义",
+          "value": 18
         },
         {
-          "name": "鲍自安",
-          "value": 9
+          "name": "潘必正",
+          "value": 18
         },
         {
-          "name": "梅滔",
-          "value": 9
+          "name": "崇公道",
+          "value": 18
         }
       ],
-      "centralization": 0.342,
+      "centralization": 0.0,
       "top_pagerank": [
         {
-          "name": "任正千",
-          "value": 0.0927
+          "name": "苏三",
+          "value": 0.0526
         },
         {
-          "name": "骆宏勋",
-          "value": 0.0891
+          "name": "王金龙",
+          "value": 0.0526
         },
         {
-          "name": "余千",
-          "value": 0.0862
+          "name": "刘秉义",
+          "value": 0.0526
         },
         {
-          "name": "老梅",
-          "value": 0.071
+          "name": "潘必正",
+          "value": 0.0526
         },
         {
-          "name": "何氏",
-          "value": 0.0685
+          "name": "崇公道",
+          "value": 0.0526
         }
       ],
       "top_betweenness": [
         {
-          "name": "任正千",
-          "value": 0.1306
+          "name": "苏三",
+          "value": 0.0
         },
         {
-          "name": "朱彪",
-          "value": 0.0693
+          "name": "王金龙",
+          "value": 0.0
         },
         {
-          "name": "吴老爷",
-          "value": 0.0693
+          "name": "刘秉义",
+          "value": 0.0
         },
         {
-          "name": "骆宏勋",
-          "value": 0.0628
+          "name": "潘必正",
+          "value": 0.0
         },
         {
-          "name": "余千",
-          "value": 0.0628
+          "name": "崇公道",
+          "value": 0.0
         }
       ],
-      "modularity": 0.2467,
+      "modularity": 0.0,
       "communities": [
         {
           "id": 0,
           "members": [
-            "鲍金花",
-            "梅滔",
-            "禁婆",
-            "修氏",
-            "地痞甲",
-            "骆宏勋",
-            "鲍自安",
-            "余千",
-            "老梅"
+            "忘八",
+            "沈宏",
+            "赵旺",
+            "春锦",
+            "苏三",
+            "崇公道",
+            "皮氏",
+            "赵曜",
+            "王金龙",
+            "阙德",
+            "鸨儿",
+            "李虎",
+            "王仁",
+            "二娃子",
+            "冒延",
+            "金哥",
+            "潘必正",
+            "刘秉义",
+            "书童"
           ],
-          "size": 9
-        },
-        {
-          "id": 1,
-          "members": [
-            "任正千",
-            "陈健元",
-            "贺世赖",
-            "王伦",
-            "吴老爷",
-            "捕快头",
-            "贺氏"
-          ],
-          "size": 7
-        },
-        {
-          "id": 2,
-          "members": [
-            "何氏",
-            "水手",
-            "花振芳"
-          ],
-          "size": 3
-        },
-        {
-          "id": 3,
-          "members": [
-            "栾家院",
-            "朱彪"
-          ],
-          "size": 2
-        },
-        {
-          "id": 4,
-          "members": [
-            "花碧莲"
-          ],
-          "size": 1
-        },
-        {
-          "id": 5,
-          "members": [
-            "渔夫"
-          ],
-          "size": 1
+          "size": 19
         }
       ],
-      "community_count": 6
+      "community_count": 1
     },
     "dialogue": {
-      "nodes": 23,
-      "edges": 60,
-      "density": 0.1186,
-      "avg_clustering": 0.2969,
+      "nodes": 19,
+      "edges": 83,
+      "density": 0.2427,
+      "avg_clustering": 0.6897,
       "avg_path_length": 0,
-      "components": 5,
+      "components": 1,
       "top_degree": [
         {
-          "name": "修氏",
-          "value": 14
+          "name": "苏三",
+          "value": 25
         },
         {
-          "name": "鲍自安",
-          "value": 13
+          "name": "王金龙",
+          "value": 22
         },
         {
-          "name": "骆宏勋",
+          "name": "鸨儿",
           "value": 12
         },
         {
-          "name": "梅滔",
-          "value": 11
+          "name": "沈宏",
+          "value": 12
         },
         {
-          "name": "任正千",
-          "value": 10
+          "name": "王仁",
+          "value": 11
         }
       ],
-      "centralization": 0.4372,
+      "centralization": 1.0098,
       "top_pagerank": [
         {
-          "name": "梅滔",
-          "value": 0.106
+          "name": "苏三",
+          "value": 0.2041
         },
         {
-          "name": "修氏",
-          "value": 0.0947
+          "name": "王金龙",
+          "value": 0.1697
         },
         {
-          "name": "王伦",
-          "value": 0.0917
+          "name": "沈宏",
+          "value": 0.073
         },
         {
-          "name": "鲍自安",
-          "value": 0.08
+          "name": "刘秉义",
+          "value": 0.0625
         },
         {
-          "name": "骆宏勋",
-          "value": 0.0787
+          "name": "鸨儿",
+          "value": 0.062
         }
       ],
       "top_betweenness": [
         {
-          "name": "吴老爷",
-          "value": 0.1184
+          "name": "苏三",
+          "value": 0.3715
         },
         {
-          "name": "骆宏勋",
-          "value": 0.1039
+          "name": "王金龙",
+          "value": 0.2743
         },
         {
-          "name": "修氏",
-          "value": 0.1014
+          "name": "王仁",
+          "value": 0.1127
         },
         {
-          "name": "王伦",
-          "value": 0.1008
+          "name": "沈宏",
+          "value": 0.0737
         },
         {
-          "name": "梅滔",
-          "value": 0.0785
+          "name": "刘秉义",
+          "value": 0.0577
         }
       ],
-      "modularity": 0.437,
+      "modularity": 0.111,
       "communities": [
         {
           "id": 0,
           "members": [
-            "修氏",
-            "吴老爷",
-            "地痞甲",
-            "老梅",
-            "梅滔",
-            "禁婆"
+            "金哥",
+            "冒延",
+            "鸨儿",
+            "阙德",
+            "王金龙",
+            "书童"
           ],
           "size": 6
         },
         {
           "id": 1,
           "members": [
-            "鲍金花",
-            "任正千",
-            "骆宏勋",
-            "鲍自安",
-            "余千"
+            "春锦",
+            "苏三",
+            "崇公道",
+            "刘秉义",
+            "潘必正"
           ],
           "size": 5
         },
         {
           "id": 2,
           "members": [
-            "陈健元",
-            "贺世赖",
-            "王伦",
-            "捕快头",
-            "贺氏"
+            "忘八",
+            "沈宏",
+            "二娃子",
+            "皮氏",
+            "赵旺"
           ],
           "size": 5
         },
         {
           "id": 3,
           "members": [
-            "何氏",
-            "花振芳"
+            "李虎",
+            "王仁",
+            "赵曜"
           ],
-          "size": 2
-        },
-        {
-          "id": 4,
-          "members": [
-            "栾家院",
-            "朱彪"
-          ],
-          "size": 2
-        },
-        {
-          "id": 5,
-          "members": [
-            "花碧莲"
-          ],
-          "size": 1
-        },
-        {
-          "id": 6,
-          "members": [
-            "水手"
-          ],
-          "size": 1
-        },
-        {
-          "id": 7,
-          "members": [
-            "渔夫"
-          ],
-          "size": 1
+          "size": 3
         }
       ],
-      "community_count": 8
+      "community_count": 4
     },
     "power": {
-      "nodes": 23,
+      "nodes": 19,
       "edges": 6,
-      "density": 0.0119,
+      "density": 0.0175,
       "avg_clustering": 0.0,
       "avg_path_length": 0,
-      "components": 18,
+      "components": 13,
       "top_degree": [
         {
-          "name": "鲍自安",
-          "value": 4
+          "name": "王金龙",
+          "value": 3
         },
         {
-          "name": "王伦",
+          "name": "苏三",
           "value": 2
         },
         {
-          "name": "捕快头",
+          "name": "崇公道",
           "value": 2
         },
         {
-          "name": "骆宏勋",
+          "name": "刘秉义",
           "value": 1
         },
         {
-          "name": "余千",
+          "name": "金哥",
           "value": 1
         }
       ],
-      "centralization": 0.1732,
+      "centralization": 0.1471,
       "top_pagerank": [
         {
-          "name": "王伦",
-          "value": 0.1895
+          "name": "崇公道",
+          "value": 0.1564
         },
         {
-          "name": "捕快头",
-          "value": 0.1895
+          "name": "王金龙",
+          "value": 0.1093
         },
         {
-          "name": "骆宏勋",
-          "value": 0.0381
+          "name": "书童",
+          "value": 0.0749
         },
         {
-          "name": "余千",
-          "value": 0.0333
+          "name": "金哥",
+          "value": 0.052
         },
         {
-          "name": "鲍金花",
-          "value": 0.0333
+          "name": "苏三",
+          "value": 0.0405
         }
       ],
       "top_betweenness": [
         {
-          "name": "骆宏勋",
+          "name": "王金龙",
+          "value": 0.0065
+        },
+        {
+          "name": "苏三",
           "value": 0.0
         },
         {
-          "name": "余千",
+          "name": "刘秉义",
           "value": 0.0
         },
         {
-          "name": "任正千",
+          "name": "潘必正",
           "value": 0.0
         },
         {
-          "name": "鲍自安",
-          "value": 0.0
-        },
-        {
-          "name": "鲍金花",
+          "name": "崇公道",
           "value": 0.0
         }
       ],
-      "modularity": 0.4082,
+      "modularity": 0.4694,
       "communities": [
         {
           "id": 0,
           "members": [
-            "鲍金花",
-            "修氏",
-            "骆宏勋",
-            "鲍自安",
-            "余千"
+            "刘秉义",
+            "忘八",
+            "王金龙"
           ],
-          "size": 5
+          "size": 3
         },
         {
           "id": 1,
           "members": [
-            "捕快头",
-            "王伦"
+            "金哥",
+            "苏三",
+            "崇公道"
           ],
-          "size": 2
+          "size": 3
         },
         {
           "id": 2,
           "members": [
-            "任正千"
+            "阙德",
+            "书童"
           ],
-          "size": 1
+          "size": 2
         },
         {
           "id": 3,
           "members": [
-            "何氏"
+            "潘必正"
           ],
           "size": 1
         },
         {
           "id": 4,
           "members": [
-            "贺氏"
+            "鸨儿"
           ],
           "size": 1
         },
         {
           "id": 5,
           "members": [
-            "贺世赖"
+            "冒延"
           ],
           "size": 1
         },
         {
           "id": 6,
           "members": [
-            "花振芳"
+            "沈宏"
           ],
           "size": 1
         },
         {
           "id": 7,
           "members": [
-            "花碧莲"
+            "皮氏"
           ],
           "size": 1
         },
         {
           "id": 8,
           "members": [
-            "陈健元"
+            "春锦"
           ],
           "size": 1
         },
         {
           "id": 9,
           "members": [
-            "朱彪"
+            "赵旺"
           ],
           "size": 1
         },
         {
           "id": 10,
           "members": [
-            "梅滔"
+            "王仁"
           ],
           "size": 1
         },
         {
           "id": 11,
           "members": [
-            "老梅"
+            "赵曜"
           ],
           "size": 1
         },
         {
           "id": 12,
           "members": [
-            "吴老爷"
+            "李虎"
           ],
           "size": 1
         },
         {
           "id": 13,
           "members": [
-            "水手"
-          ],
-          "size": 1
-        },
-        {
-          "id": 14,
-          "members": [
-            "栾家院"
-          ],
-          "size": 1
-        },
-        {
-          "id": 15,
-          "members": [
-            "地痞甲"
-          ],
-          "size": 1
-        },
-        {
-          "id": 16,
-          "members": [
-            "禁婆"
-          ],
-          "size": 1
-        },
-        {
-          "id": 17,
-          "members": [
-            "渔夫"
+            "二娃子"
           ],
           "size": 1
         }
       ],
-      "community_count": 18
+      "community_count": 14
     },
     "graph": {
       "nodes": [
         {
-          "id": "骆宏勋",
-          "degree": 9,
-          "label": "骆宏勋"
+          "id": "苏三",
+          "degree": 18,
+          "label": "苏三"
         },
         {
-          "id": "余千",
-          "degree": 9,
-          "label": "余千"
+          "id": "王金龙",
+          "degree": 18,
+          "label": "王金龙"
         },
         {
-          "id": "任正千",
-          "degree": 12,
-          "label": "任正千"
+          "id": "刘秉义",
+          "degree": 18,
+          "label": "刘秉义"
         },
         {
-          "id": "鲍自安",
-          "degree": 9,
-          "label": "鲍自安"
+          "id": "潘必正",
+          "degree": 18,
+          "label": "潘必正"
         },
         {
-          "id": "鲍金花",
-          "degree": 7,
-          "label": "鲍金花"
+          "id": "崇公道",
+          "degree": 18,
+          "label": "崇公道"
         },
         {
-          "id": "何氏",
-          "degree": 2,
-          "label": "何氏"
+          "id": "金哥",
+          "degree": 18,
+          "label": "金哥"
         },
         {
-          "id": "王伦",
-          "degree": 5,
-          "label": "王伦"
+          "id": "鸨儿",
+          "degree": 18,
+          "label": "鸨儿"
         },
         {
-          "id": "贺氏",
-          "degree": 5,
-          "label": "贺氏"
+          "id": "忘八",
+          "degree": 18,
+          "label": "忘八"
         },
         {
-          "id": "贺世赖",
-          "degree": 5,
-          "label": "贺世赖"
+          "id": "阙德",
+          "degree": 18,
+          "label": "阙德"
         },
         {
-          "id": "花振芳",
-          "degree": 1,
-          "label": "花振芳"
+          "id": "冒延",
+          "degree": 18,
+          "label": "冒延"
         },
         {
-          "id": "花碧莲",
-          "degree": 0,
-          "label": "花碧莲"
+          "id": "沈宏",
+          "degree": 18,
+          "label": "沈宏"
         },
         {
-          "id": "陈健元",
-          "degree": 2,
-          "label": "陈健元"
+          "id": "皮氏",
+          "degree": 18,
+          "label": "皮氏"
         },
         {
-          "id": "朱彪",
-          "degree": 3,
-          "label": "朱彪"
+          "id": "春锦",
+          "degree": 18,
+          "label": "春锦"
         },
         {
-          "id": "梅滔",
-          "degree": 9,
-          "label": "梅滔"
+          "id": "赵旺",
+          "degree": 18,
+          "label": "赵旺"
         },
         {
-          "id": "老梅",
-          "degree": 9,
-          "label": "老梅"
+          "id": "王仁",
+          "degree": 18,
+          "label": "王仁"
         },
         {
-          "id": "修氏",
-          "degree": 9,
-          "label": "修氏"
+          "id": "赵曜",
+          "degree": 18,
+          "label": "赵曜"
         },
         {
-          "id": "吴老爷",
-          "degree": 9,
-          "label": "吴老爷"
+          "id": "李虎",
+          "degree": 18,
+          "label": "李虎"
         },
         {
-          "id": "水手",
-          "degree": 1,
-          "label": "水手"
+          "id": "书童",
+          "degree": 18,
+          "label": "书童"
         },
         {
-          "id": "栾家院",
-          "degree": 1,
-          "label": "栾家院"
-        },
-        {
-          "id": "捕快头",
-          "degree": 6,
-          "label": "捕快头"
-        },
-        {
-          "id": "地痞甲",
-          "degree": 2,
-          "label": "地痞甲"
-        },
-        {
-          "id": "禁婆",
-          "degree": 3,
-          "label": "禁婆"
-        },
-        {
-          "id": "渔夫",
-          "degree": 0,
-          "label": "渔夫"
+          "id": "二娃子",
+          "degree": 18,
+          "label": "二娃子"
         }
       ],
       "edges": [
         {
-          "source": "骆宏勋",
-          "target": "任正千",
-          "weight": 4,
-          "type": "undirected"
-        },
-        {
-          "source": "骆宏勋",
-          "target": "余千",
-          "weight": 9,
-          "type": "undirected"
-        },
-        {
-          "source": "骆宏勋",
-          "target": "鲍自安",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "骆宏勋",
-          "target": "梅滔",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "骆宏勋",
-          "target": "修氏",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "骆宏勋",
-          "target": "老梅",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "骆宏勋",
-          "target": "吴老爷",
+          "source": "苏三",
+          "target": "赵旺",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "骆宏勋",
-          "target": "鲍金花",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "骆宏勋",
-          "target": "朱彪",
+          "source": "苏三",
+          "target": "春锦",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "余千",
-          "target": "任正千",
-          "weight": 4,
-          "type": "undirected"
-        },
-        {
-          "source": "余千",
-          "target": "梅滔",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "余千",
-          "target": "修氏",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "余千",
-          "target": "老梅",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "余千",
-          "target": "吴老爷",
+          "source": "苏三",
+          "target": "王金龙",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "余千",
-          "target": "鲍金花",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "余千",
-          "target": "鲍自安",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "余千",
-          "target": "朱彪",
+          "source": "苏三",
+          "target": "鸨儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "任正千",
-          "target": "梅滔",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "任正千",
-          "target": "修氏",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "任正千",
-          "target": "老梅",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "任正千",
-          "target": "鲍自安",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "任正千",
-          "target": "禁婆",
+          "source": "苏三",
+          "target": "冒延",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "任正千",
-          "target": "贺世赖",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "任正千",
-          "target": "贺氏",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "任正千",
-          "target": "王伦",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "任正千",
-          "target": "捕快头",
+          "source": "苏三",
+          "target": "潘必正",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "任正千",
-          "target": "鲍金花",
+          "source": "苏三",
+          "target": "刘秉义",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "鲍自安",
-          "target": "鲍金花",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "鲍自安",
-          "target": "修氏",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "鲍自安",
-          "target": "禁婆",
+          "source": "苏三",
+          "target": "书童",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "鲍自安",
-          "target": "老梅",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "鲍自安",
-          "target": "梅滔",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "鲍自安",
-          "target": "陈健元",
+          "source": "苏三",
+          "target": "忘八",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "鲍金花",
-          "target": "梅滔",
+          "source": "苏三",
+          "target": "沈宏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "鲍金花",
-          "target": "修氏",
+          "source": "苏三",
+          "target": "崇公道",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "鲍金花",
-          "target": "老梅",
+          "source": "苏三",
+          "target": "阙德",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "何氏",
-          "target": "水手",
+          "source": "苏三",
+          "target": "皮氏",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "何氏",
-          "target": "花振芳",
+          "source": "苏三",
+          "target": "赵曜",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "王伦",
-          "target": "贺氏",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "王伦",
-          "target": "贺世赖",
-          "weight": 4,
-          "type": "undirected"
-        },
-        {
-          "source": "王伦",
-          "target": "吴老爷",
+          "source": "苏三",
+          "target": "李虎",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "王伦",
-          "target": "捕快头",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "贺氏",
-          "target": "贺世赖",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "贺氏",
-          "target": "吴老爷",
+          "source": "苏三",
+          "target": "王仁",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "贺氏",
-          "target": "捕快头",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "贺世赖",
-          "target": "吴老爷",
+          "source": "苏三",
+          "target": "二娃子",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "贺世赖",
-          "target": "捕快头",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "陈健元",
-          "target": "捕快头",
+          "source": "苏三",
+          "target": "金哥",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "朱彪",
-          "target": "栾家院",
+          "source": "王金龙",
+          "target": "赵旺",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "梅滔",
-          "target": "地痞甲",
+          "source": "王金龙",
+          "target": "春锦",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "梅滔",
-          "target": "老梅",
-          "weight": 5,
-          "type": "undirected"
-        },
-        {
-          "source": "梅滔",
-          "target": "修氏",
-          "weight": 2,
-          "type": "undirected"
-        },
-        {
-          "source": "梅滔",
-          "target": "吴老爷",
+          "source": "王金龙",
+          "target": "鸨儿",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "老梅",
-          "target": "地痞甲",
+          "source": "王金龙",
+          "target": "冒延",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "老梅",
-          "target": "修氏",
-          "weight": 3,
-          "type": "undirected"
-        },
-        {
-          "source": "老梅",
-          "target": "吴老爷",
+          "source": "王金龙",
+          "target": "潘必正",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "修氏",
-          "target": "吴老爷",
+          "source": "王金龙",
+          "target": "刘秉义",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "修氏",
-          "target": "禁婆",
+          "source": "王金龙",
+          "target": "书童",
           "weight": 1,
           "type": "undirected"
         },
         {
-          "source": "吴老爷",
-          "target": "捕快头",
+          "source": "王金龙",
+          "target": "忘八",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金龙",
+          "target": "沈宏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金龙",
+          "target": "崇公道",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金龙",
+          "target": "阙德",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金龙",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金龙",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金龙",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金龙",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金龙",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王金龙",
+          "target": "金哥",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "鸨儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "冒延",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "潘必正",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "忘八",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "沈宏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "崇公道",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "阙德",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "刘秉义",
+          "target": "金哥",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "鸨儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "冒延",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "忘八",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "沈宏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "崇公道",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "阙德",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "潘必正",
+          "target": "金哥",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "鸨儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "冒延",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "忘八",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "沈宏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "阙德",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "崇公道",
+          "target": "金哥",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "鸨儿",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "冒延",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "忘八",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "沈宏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "阙德",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "金哥",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "冒延",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "忘八",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "沈宏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "阙德",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "鸨儿",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "冒延",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "沈宏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "阙德",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "忘八",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "冒延",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "沈宏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "阙德",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冒延",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冒延",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冒延",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冒延",
+          "target": "沈宏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冒延",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冒延",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冒延",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冒延",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "冒延",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "沈宏",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "沈宏",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "沈宏",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "沈宏",
+          "target": "皮氏",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "沈宏",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "沈宏",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "沈宏",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "沈宏",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "皮氏",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "皮氏",
+          "target": "春锦",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "皮氏",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "皮氏",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "皮氏",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "皮氏",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "皮氏",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "春锦",
+          "target": "赵旺",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "春锦",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "春锦",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "春锦",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "春锦",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "春锦",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赵旺",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赵旺",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赵旺",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赵旺",
+          "target": "王仁",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赵旺",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王仁",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王仁",
+          "target": "赵曜",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王仁",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "王仁",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赵曜",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赵曜",
+          "target": "李虎",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "赵曜",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "李虎",
+          "target": "书童",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "李虎",
+          "target": "二娃子",
+          "weight": 1,
+          "type": "undirected"
+        },
+        {
+          "source": "书童",
+          "target": "二娃子",
           "weight": 1,
           "type": "undirected"
         }
@@ -4204,61 +5096,27 @@
       {
         "id": 0,
         "members": [
-          "鲍金花",
-          "梅滔",
-          "禁婆",
-          "修氏",
-          "地痞甲",
-          "骆宏勋",
-          "鲍自安",
-          "余千",
-          "老梅"
+          "忘八",
+          "沈宏",
+          "赵旺",
+          "春锦",
+          "苏三",
+          "崇公道",
+          "皮氏",
+          "赵曜",
+          "王金龙",
+          "阙德",
+          "鸨儿",
+          "李虎",
+          "王仁",
+          "二娃子",
+          "冒延",
+          "金哥",
+          "潘必正",
+          "刘秉义",
+          "书童"
         ],
-        "size": 9
-      },
-      {
-        "id": 1,
-        "members": [
-          "任正千",
-          "陈健元",
-          "贺世赖",
-          "王伦",
-          "吴老爷",
-          "捕快头",
-          "贺氏"
-        ],
-        "size": 7
-      },
-      {
-        "id": 2,
-        "members": [
-          "何氏",
-          "水手",
-          "花振芳"
-        ],
-        "size": 3
-      },
-      {
-        "id": 3,
-        "members": [
-          "栾家院",
-          "朱彪"
-        ],
-        "size": 2
-      },
-      {
-        "id": 4,
-        "members": [
-          "花碧莲"
-        ],
-        "size": 1
-      },
-      {
-        "id": 5,
-        "members": [
-          "渔夫"
-        ],
-        "size": 1
+        "size": 19
       }
     ]
   },
@@ -4345,9 +5203,9 @@
         {
           "id": 0,
           "members": [
-            "白象",
+            "大鹏",
             "青狮",
-            "大鹏"
+            "白象"
           ],
           "size": 3
         },
@@ -4441,9 +5299,9 @@
         {
           "id": 0,
           "members": [
-            "白象",
+            "大鹏",
             "青狮",
-            "大鹏"
+            "白象"
           ],
           "size": 3
         },
@@ -4579,13 +5437,13 @@
         },
         {
           "source": "土地",
-          "target": "青狮",
+          "target": "大鹏",
           "weight": 1,
           "type": "undirected"
         },
         {
           "source": "土地",
-          "target": "大鹏",
+          "target": "青狮",
           "weight": 1,
           "type": "undirected"
         },
@@ -4613,9 +5471,9 @@
       {
         "id": 0,
         "members": [
-          "白象",
+          "大鹏",
           "青狮",
-          "大鹏"
+          "白象"
         ],
         "size": 3
       },

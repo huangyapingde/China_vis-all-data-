@@ -1,0 +1,596 @@
+{
+  "script_id": "03075002",
+  "title": "典韦耀武",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "典韦",
+      "hangdang": "武净"
+    },
+    {
+      "name": "曹操",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "曹操改编青州军后，声名远播，招贤纳士，荀彧、程昱、于禁、郭嘉等相继来投。夏侯惇引荐典韦，曹操命\n典韦舞戟试艺，深爱其勇。忽帐前巨风陡起，帅旗将被刮倒，众军不能扶护；典韦趋前，扶旗昂立不动。曹\n操喜极，赐典韦锦袍，命为帐前都尉。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（〖牌子〗。四龙套、四将官、李典、乐进、曹洪、夏侯渊、曹仁、许褚、二中军引曹操同上。左台口立帅"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "字旗。）"
+        },
+        {
+          "character": "曹操",
+          "type": "唱",
+          "text": "扫荡黄巾青州地， 金鼓催动阵云低 拨乱扶危振纲纪， 报国安民韬略奇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操入座。"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "素志雄飞肯雌伏？牙旗牙帐列熊羆。蛟龙既已得云雨，叱咤风雷山岳颓。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "下官、曹操。只为黄巾余党骚扰青州，朝廷命吾征剿。且喜三军奋勇，百日功 成，招抚降兵三十余万，择其精锐者，号为青州军，其余尽令归农。是以朝廷 加封我为镇东将军，名倾海内，威镇山东，纳士招贤，慕周公之先圣；假仁托 义，步新莽之后尘。正是："
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "纷纷豪杰投麾下，济济英雄入彀中。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "在辕门外等候，凡有向慕来投者，即引来相见。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军甲出门候。荀彧、荀攸同上。"
+        },
+        {
+          "character": "荀彧",
+          "type": "唱",
+          "text": "钟秀源流出颖水，"
+        },
+        {
+          "character": "荀攸",
+          "type": "唱",
+          "text": "似携双壁献奇珍。"
+        },
+        {
+          "character": "荀彧、荀攸",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "二位何来，叫什么名字？"
+        },
+        {
+          "character": "荀彧",
+          "type": "白",
+          "text": "学生荀彧，字文若，乃颖川人也。"
+        },
+        {
+          "character": "荀攸",
+          "type": "白",
+          "text": "小生荀攸，字公达，曾拜黄门侍郎。一向弃官在家，今闻曹将军招贤纳士，故 同叔父来投，烦劳通报。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "二位请少待。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军甲进门。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "启将军：外面有颖川荀彧、荀攸叔侄二人，来投麾下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "吾闻此二人大名久矣，快快请来相见。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军甲出门。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "有请二位先生！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "荀彧、荀攸随中军甲同进门见。"
+        },
+        {
+          "character": "荀彧、荀攸",
+          "type": "同白",
+          "text": "将军在上，愚叔侄参见！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "不消，只行常礼。"
+        },
+        {
+          "character": "荀彧、荀攸",
+          "type": "同白",
+          "text": "谢将军！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "文若乃王佐之才，公达亦海内名士。今日来投，想必有以教我？"
+        },
+        {
+          "character": "荀彧",
+          "type": "白",
+          "text": "昔者高祖东伐，为义帝缟素，而天下归心。今天子播越，将军可乘此时奉主， 以从民望，大顺也；秉至公以服豪杰，大略也；扶宏义以致英俊，大德也。天 下虽有逆节，必不能为患矣。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "妙哇！文若真吾之子房也！"
+        },
+        {
+          "character": "荀彧",
+          "type": "白",
+          "text": "吾自知浅陋，不足采听。有乡人郭嘉，字奉孝；兖州程昱、字仲德，皆当今贤 士，敢荐于麾下。我已有书约彼，想早晚即到也。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "此二人吾已闻名久矣。若得来归，皆公之力也。今屈文若为行军司马，公达为 行军校尉。"
+        },
+        {
+          "character": "荀彧、荀攸",
+          "type": "同白",
+          "text": "多谢将军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四勇士引于禁同上。"
+        },
+        {
+          "character": "于禁",
+          "type": "唱",
+          "text": "生成熊腰与猿臂， 虎视眈眈相貌奇。"
+        },
+        {
+          "character": "于禁",
+          "type": "白",
+          "text": "来此已是辕门。 有人么？"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "啊，壮士何来？"
+        },
+        {
+          "character": "于禁",
+          "type": "白",
+          "text": "俺乃泰山巨平人氏，姓于名禁，带领健壮数百，来投曹将军的。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "候着！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军甲进门。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "启将军：有泰山巨平人于禁领众来投。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "着他们进来！"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军甲出门。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "将军有令，教你们进见。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于禁、四勇士随中军甲同进门。"
+        },
+        {
+          "character": "于禁",
+          "type": "白",
+          "text": "将军在上，于禁率众叩见！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "尔等来投帐下，有何本领？"
+        },
+        {
+          "character": "于禁",
+          "type": "白",
+          "text": "将军容禀！"
+        },
+        {
+          "character": "于禁",
+          "type": "唱",
+          "text": "自幼学成穿杨技， 一箭双雕不足奇。 斩将冲锋凭武艺， 猛勇争先破强敌。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "尔等就将手中兵器比试一回。"
+        },
+        {
+          "character": "于禁",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于禁舞枪，四勇士同舞双刀，同舞毕。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "妙啊！果然武艺高强。命汝为点军司马，各勇士随营差遣。"
+        },
+        {
+          "character": "于禁",
+          "type": "白",
+          "text": "多谢将军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程昱、郭嘉同上。"
+        },
+        {
+          "character": "程昱",
+          "type": "唱",
+          "text": "一诺千金重知己，"
+        },
+        {
+          "character": "郭嘉",
+          "type": "唱",
+          "text": "大展经纶献珠玑。"
+        },
+        {
+          "character": "程昱、郭嘉",
+          "type": "同白",
+          "text": "来此已是。 有人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军甲出门。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "程昱、郭嘉",
+          "type": "同白",
+          "text": "烦劳通报：程昱、郭嘉投见。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "候着！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军甲进门。"
+        },
+        {
+          "character": "中军甲",
+          "type": "白",
+          "text": "启将军：院门外有程昱、郭嘉二人投见。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "如此，公达为我迎接。"
+        },
+        {
+          "character": "荀攸",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "荀攸出迎。"
+        },
+        {
+          "character": "荀攸",
+          "type": "白",
+          "text": "二兄来了。小弟已作先容，将军盼望久矣。就请相见。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "荀攸引程昱、郭嘉同见曹操。"
+        },
+        {
+          "character": "程昱、郭嘉",
+          "type": "同白",
+          "text": "将军在上，程昱、郭嘉参加！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "罢了。久仰令名，殊深渴想；今蒙不弃，大慰平生。暂为军中从事，另日表荐 便了。"
+        },
+        {
+          "character": "程昱、郭嘉",
+          "type": "同白",
+          "text": "多谢将军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯惇、典韦同上。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "念",
+          "text": "枪刀林中敌万军，开疆展土夏侯惇。"
+        },
+        {
+          "character": "典韦",
+          "type": "念",
+          "text": "双提铁戟扬天下，勇猛当先岂让人！"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "夏侯惇打躬！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯惇唤典韦进。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "过来，叩见将军。"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "将军在上，小将叩见！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "典韦行礼。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "此系何人？"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "他乃陈留人，姓典名韦。旧随张邈，与帐下人不和，手杀数十人，逃窜山中。 我因出猎，见他赶逐猛虎过溪，收在军中。今特荐于帐下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "我观此人，相貌魁梧，必非凡品。有何本领，你可讲来！"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "将军容禀！"
+        },
+        {
+          "character": "典韦",
+          "type": "唱",
+          "text": "将军问我有何艺， 细听典韦说端的： 生成雄壮真奇异， 力过凡流勇莫敌。 手中惯使双铁戟， 军中斩将敢夺旗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "既然如此，可把双戟试舞一回。"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "典韦舞双戟。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "妙啊！"
+        },
+        {
+          "character": "曹操",
+          "type": "唱",
+          "text": "双戟舞动寒光起， 凛凛威风世间稀。 进退盘旋真绝技， 电掣风翻似雪飞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风声〗。帅字旗被刮倒。四将官同趋扶，扶不住，各喧噪。"
+        },
+        {
+          "character": "将官甲",
+          "type": "白",
+          "text": "启将军：大风陡起，帅字旗将要刮倒，众军士拥护不住。"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "闪开了，俺来也！"
+        },
+        {
+          "character": "典韦",
+          "type": "唱",
+          "text": "霎时一阵狂风起， 卷起尘沙双目迷。 搅海翻江动天地， 满营人惊马乱嘶。 凭俺举鼎托闸力， 扶住中军帅字旗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "典韦扶帅字旗绕场，归中举定。"
+        },
+        {
+          "character": "四将官",
+          "type": "同白",
+          "text": "风止了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "典韦仍立旗于左台口。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "此乃古之恶来也！ 夏侯惇，取锦袍一件过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯惇取锦袍。"
+        },
+        {
+          "character": "夏侯惇",
+          "type": "白",
+          "text": "锦袍在此。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "典韦，赐汝锦袍一袭，命汝为帐前都尉，今后不可离我左右！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "典韦接袍。"
+        },
+        {
+          "character": "典韦",
+          "type": "白",
+          "text": "多谢将军！"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "勇如孟贲真奇力，捷如庆忌似鸟飞。扫荡贼寇全仗你，护卫中军莫远离。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "啊文若，想我父亲自陈留避难，隐居琅琊。汝可为我修书一封，即遣泰山太守 应劭接取，护送到来。"
+        },
+        {
+          "character": "荀彧",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操下座。"
+        },
+        {
+          "character": "曹操",
+          "type": "唱",
+          "text": "我父琅琊把祸避， 即去接取莫要迟。 沿途保护须仔细， 盼望严亲早回归。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

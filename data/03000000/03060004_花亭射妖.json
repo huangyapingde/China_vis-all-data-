@@ -1,0 +1,729 @@
+{
+  "script_id": "03060004",
+  "title": "花亭射妖",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "赵匡胤",
+      "hangdang": "红生"
+    },
+    {
+      "name": "柴荣",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "柴荣见郭威，官封王位，便接赵匡胤同保郭威。弟兄花亭饮宴，池中鱼妖作怪，赵匡胤箭射之。郭威夜梦红\n脸大汉箭伤左眼。及见赵匡胤，正应梦兆，即欲斩之。经柴荣讨赦，赵匡胤戴罪往刺里刘化王。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、柴荣同上。"
+        },
+        {
+          "character": "柴荣",
+          "type": "引子",
+          "text": "远观山河幽雅，近看红尘不差。"
+        },
+        {
+          "character": "柴荣",
+          "type": "念",
+          "text": "头戴飞龙帽，身穿衮龙袍。驾坐詹事府，缺少文武朝。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "本藩，柴荣。曾与赵匡胤、郑子明在棋盘坡尧王庙结拜，犹如同胞，同生共死。 自董家桥打死五虎，各自分手。是我来到怀庆，多蒙舅王恩重，官封王位。 也曾修书迎接二位兄弟满门，同享荣华，书去多日，还未到来。 来，伺候了！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "迎接二爷事，报与千岁知。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "启千岁：二爷满门接到。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "家眷穿堂而过，请二爷二堂叙话！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "下面听者：家眷穿堂而过，请二爷二堂叙话！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。〖吹打〗。赵匡胤家眷同上，过场，同下。赵匡胤上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "兄长在哪里？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "贤弟在哪里？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "兄长！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "贤弟！"
+        },
+        {
+          "character": "柴荣、赵匡胤",
+          "type": "同笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "兄长请！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "贤弟请！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "小弟有礼！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "还礼。请坐！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "贤弟驾到，未曾远迎，望乞恕罪！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "岂敢！来得鲁莽，兄长恕罪！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "宴齐。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "看宴！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "且慢！小弟一路而来，闻听兄长修了一座白牡丹花园。何不将宴摆至花园，弟 兄同饮。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "来，将酒宴摆至花亭！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。"
+        },
+        {
+          "character": "柴荣",
+          "type": "念",
+          "text": "弟兄重相会，"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "胜似万两金。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣、赵匡胤同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鱼妖上，跳下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、院子、赵匡胤、柴荣同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "兄长，你我相会，好有一比。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "比作何来？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "久旱逢甘雨，"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "他乡遇故知。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "好个“他乡遇故知”！"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "花亭上摆酒宴珍馐美菜， 兄一杯弟一盏畅叙开怀。 董家桥打五虎各自分界， 我这里上怀庆官封王来。 劝贤弟从今后情性要改， 有愚兄当保你位列三台。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "弟兄们久分别今蒙盛待， 好一似浮云散晴天现开。 弟兄们今相会好有一比，"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "比作何来？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "比前朝三大贤胜似同胎。 柴大哥比刘备仁义四海，"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "赵二弟比关公扶保帝台。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "眼前若有三弟在， 亚赛那张翼德猛烈将才。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤停杯沉思。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "贤弟为何不饮？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "非是小弟停杯不饮。你我今日相会，不知三弟身落何处？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "愚兄也曾修书，命人去到榆次县迎接三弟满门，同享荣华。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "兄长！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "大哥仁德世罕见， 迎接三弟享福绵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤停杯沉思。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "贤弟为何又停杯不饮？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "将宴撤去，弟兄花园散步。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "将宴撤去！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "酒席筵前谢御宴，"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "相邀贤弟到花园。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "长随官对对前引道，"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "弟兄们游玩花亭前。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "八角亭盖的琉璃瓦，"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "地下铺的是八宝砖。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "那一厢修的是跑马射箭道，"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "箭射红日夺魁元。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "玉石栏杆雕花朵，"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "风吹牡丹卷珠帘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鱼妖自下场门暗上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "来在鱼池用目看， 只见水内浪滔天。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "水内什么响亮？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "乃是鱼妖戏水。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "是新有，还是旧有？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "乃是旧有。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "看弓箭伺候！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子取弓箭递赵匡胤。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "玄郎未到尔先到， 狭路相逢怎肯饶？ 满满搭上硃红扣，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤射箭。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "只见鱼妖带箭逃。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "谯楼几鼓？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "才打三鼓。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "告辞！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "爹娘台前问安。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "且慢！随愚兄上殿朝王见驾。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "鱼妖本是池中物，"
+        },
+        {
+          "character": "柴荣",
+          "type": "念",
+          "text": "得会风云上九重。"
+        },
+        {
+          "character": "赵匡胤、柴荣",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣、赵匡胤、院子同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引郭威同上。"
+        },
+        {
+          "character": "郭威",
+          "type": "引子",
+          "text": "凤阁龙楼，万古千秋。"
+        },
+        {
+          "character": "郭威",
+          "type": "念",
+          "text": "金殿当头紫阁重，仙人掌上玉芙蓉。太平天子朝元日，五色云车驾六龙。"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "孤家，郭威。执掌后周天下。昨晚三更时分，偶得一兆，见一红脸大汉，将孤 左眼伤了一箭，不知主何吉兆？这且不言。柴荣有两个结拜义弟，一个名叫赵 匡胤，一个名叫郑子明。相约匡胤入朝扶保孤王，这般时候，未见到来。 来，闪放银安！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "闪放银安哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣上。"
+        },
+        {
+          "character": "柴荣",
+          "type": "念",
+          "text": "忙将匡胤事，奏与舅王知。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "外甥见驾，舅王千岁！"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "匡胤可曾到来？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "已在午门候旨。"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "宣他上殿！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "舅王有旨：宣赵匡胤上殿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "天上日月常见面，庶子才得见明君。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "草臣，赵匡胤见驾，大王千岁！"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "为何不抬起头来？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "不敢仰面视君。"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "恕你无罪！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "谢千岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤抬头。"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭威惊。牌子。"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "刀斧手，推出斩了！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "且慢！请问舅王，赵匡胤未曾犯罪，为何推出处斩！"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "昨晚三更时分，偶得一兆，见一红脸大汉将孤左眼伤了一箭，故而欲报梦中之 仇。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "梦中之事，不可尽信，还要他扶保江山。"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "皇儿保奏，暂赦其罪。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "谢千岁不斩之恩！"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "非是孤不斩于你，皆因柴荣保奏。孤有桩心事，你可愿去？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "有何心事？草臣愿往。"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "命你去到燕京刺杀刘化王。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "赐他多少人马？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "且慢！不要人马，草臣一人一骑，七月十三启程，八月十五马到功成。"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "你敢是有逃走之意？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "臣有家眷现在柴府。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "唉！你有什么家眷在我府中啊？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你何必隐瞒？"
+        },
+        {
+          "character": "郭威",
+          "type": "白",
+          "text": "你二人不必争论，将赵匡胤家眷押入天牢，候他取了刘王首级，再放出来。"
+        },
+        {
+          "character": "赵匡胤、柴荣",
+          "type": "同白",
+          "text": "请驾回宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭威、大太监、四太监同下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "我先前定的是脱身计， 被他解开肺腑情。 辞别兄长下金殿， 八月十五把功成！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤下。"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "只望接他把王位享， 谁知落在陷人坑！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

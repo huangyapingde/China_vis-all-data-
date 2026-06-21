@@ -1,0 +1,7135 @@
+{
+  "script_id": "70805106",
+  "title": "西门豹",
+  "alias": [],
+  "source": "翁偶虹剧本选",
+  "characters": [
+    {
+      "name": "西门豹",
+      "hangdang": "净"
+    },
+    {
+      "name": "翟璜",
+      "hangdang": "老生"
+    },
+    {
+      "name": "崔泽",
+      "hangdang": "老生"
+    },
+    {
+      "name": "崔承",
+      "hangdang": "生"
+    },
+    {
+      "name": "陶母",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "陶姝",
+      "hangdang": "旦"
+    },
+    {
+      "name": "大巫",
+      "hangdang": "彩旦"
+    },
+    {
+      "name": "三老",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "战国时，邺城漳河一带水患频仍，加之地方官吏勾结巫婆、地痞，诡称河神作怪，掀起“河伯娶妇”的恶俗，\n借此名目横征暴敛、草菅人命。乡民不堪其扰，纷纷弃业逃亡。邺郡人口锐减，社会日见凋零。魏国将军\n西门豹，平定中山后，奉王命解甲收矛，转任邺郡太守。西门为官疾恶如仇，爱民如子，虽有治军理民之才，\n但性如烈火，脾气暴躁，满朝文武对此任命多有争议；惟魏国大夫翟璜，慧眼识珠，极力推荐。一方面启\n发西门豹要洞悉民情，深知民隐；一方面敦促其克制急躁，并赠予玮玉一方，以资随事警醒。西门豹深入考\n察了水情、民情，断然处置了“河伯娶妇”的闹剧，还百姓和邺城的一方安宁。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "【第一场：恶谋】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "在铙鼓中幕徐徐起，露出河伯庙大殿的肃穆景象。台右设一账桌，神差忙算账，正中为一大幔帐所遮蔽。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓捧香自两边分上，见幔帐未开，分站两旁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "神差挥手向左边示意，铙鼓声息。神差大呼。"
+        },
+        {
+          "character": "神差",
+          "type": "白",
+          "text": "闪放神路了！ （锣鼓牌子中，大幔帐徐徐自动升起，露出佛龛，佛龛的上首是河神座像，下首虚设一圈椅。前面供桌上摆 蜡扦一对，巨烛高烧，左灯碗，右香筒，居中一长方香炉，最外摆供品。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫端然正坐于神案之前，四小巫旁侍。香烟缭绕，细乐悠扬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓忙将手中香插入炉内，回身向上磕头，参差不齐。同时小巫在案旁击磬，高声喊叫。"
+        },
+        {
+          "character": "小巫",
+          "type": "白",
+          "text": "撂香钱！撂香钱！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫右手一扬，细乐声止。"
+        },
+        {
+          "character": "大巫",
+          "type": "唱",
+          "text": "威灵显赫善门开，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铙鼓一响。"
+        },
+        {
+          "character": "大巫",
+          "type": "唱",
+          "text": "河伯爷爷我请来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铙鼓一响。"
+        },
+        {
+          "character": "大巫",
+          "type": "唱",
+          "text": "善男信女齐下拜， 祷告神灵免祸灾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铙鼓乱响。众百姓纷纷罗拜。"
+        },
+        {
+          "character": "大巫",
+          "type": "唱",
+          "text": "世人无知太可怜，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铙鼓一响。"
+        },
+        {
+          "character": "大巫",
+          "type": "唱",
+          "text": "罪恶深重祸滔天。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铙鼓一响。"
+        },
+        {
+          "character": "大巫",
+          "type": "唱",
+          "text": "保佑你邺郡百姓脱灾难，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铙鼓乱响。"
+        },
+        {
+          "character": "大巫",
+          "type": "唱",
+          "text": "拜请河神下尘凡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铙鼓一响。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫作河神附体。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "呵嚏，呵嚏，呵……嚏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大锣抽头。大巫作舞蹈身段。"
+        },
+        {
+          "character": "大巫",
+          "type": "数板",
+          "text": "奉神旨，下尘凡，我与邺郡结善缘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。"
+        },
+        {
+          "character": "大巫",
+          "type": "数板",
+          "text": "吾神睁慧眼，抡指细掐算，漳河好大水。浊浪淹庄田。尔等快快来贡献，阖郡 也好保平安，保平安。"
+        },
+        {
+          "character": "百姓甲",
+          "type": "白",
+          "text": "我布施铜钱二百。"
+        },
+        {
+          "character": "百姓乙",
+          "type": "白",
+          "text": "我布施铜钱一贯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二百姓同走向账桌交纳。"
+        },
+        {
+          "character": "百姓丙",
+          "type": "白",
+          "text": "哎呀，我一时不便，把这一匹绢献纳了吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "百姓丙立上账。大巫向老妇。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "你呢？"
+        },
+        {
+          "character": "老妇",
+          "type": "白",
+          "text": "河神爷爷，我前日已布施过了。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": "大巫",
+          "type": "念",
+          "text": "世人心太偏，善财割舍难。敬神心不虔，大祸在眼前，在眼前。"
+        },
+        {
+          "character": "老妇",
+          "type": "白",
+          "text": "哎呀，河神爷爷，保佑！保佑！我回家再去备办就是。"
+        },
+        {
+          "character": "小巫",
+          "type": "白",
+          "text": "急速贡献前来，免招灾祸。去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同下。大巫见廷掾、三老不在，发怒。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "咦？"
+        },
+        {
+          "character": "大巫",
+          "type": "念",
+          "text": "廷掾三老怎不见，里正乡绅也不来参！敢把神事来怠慢，"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "来呀！"
+        },
+        {
+          "character": "大巫",
+          "type": "念",
+          "text": "快降神旨把他们传。"
+        },
+        {
+          "character": "小巫",
+          "type": "白",
+          "text": "廷掾、三老、里正、乡绅们听着；河伯显圣，怪罪下来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廷掾、三老、里正、乡绅在胡琴牌子中同上，鬼鬼祟祟参拜。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "廷掾孙环。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "三老公孙卯。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "里正张辛。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "末绅庞厉。"
+        },
+        {
+          "character": "廷掾、三老、里正、乡绅",
+          "type": "同白",
+          "text": "接驾来迟，上神恕罪，上神恕罪。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "唗！"
+        },
+        {
+          "character": "大巫",
+          "type": "念",
+          "text": "尔等好大胆，神事当等闲。快把赛神事，速速禀一番。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "上神容禀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣抽头〗。"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "奉命把差办，哪个敢偷闲，挨户写布施，神款有清单。 会期还照旧，香火胜往年。十五到十八，前后整四天。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "嗯。"
+        },
+        {
+          "character": "三老",
+          "type": "念",
+          "text": "唯有选亲事，出点小麻烦。原聘郑家女，才貌称双全。 斋宫净身体。于今已三天。忽然生了病。出嫁有点难。 神前请赎罪，愿供香火钱。上神多慈悲，弟子再另选。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "怎么？她愿在神前赎罪么？听神谕！"
+        },
+        {
+          "character": "大巫",
+          "type": "念",
+          "text": "郑女无福份，难再结仙缘。神前既赎罪，赐予他方便。 重新选聘事，旨谕神姑办。善体吾神意，阖郡保平安。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "吾神去也——呵……喝……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫作解体姿态。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "嗬，列位，都在这儿啦？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "师傅您辛苦啦。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "为了神事，何言辛苦。刚才河伯说什么来着？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "只为今年选中的河伯夫人郑婉儿，在斋宫习礼，忽然病了，她爹郑兴，情愿出 香火钱赎罪，刚才已禀明河神，河神应允，请您全权办理此事。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "哦，郑家要出香火钱赎罪吗？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "正是。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "出多少钱哪？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "五万。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "五万，能办多大香火呀？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "可也是。五万是办不起多大香火，可是在郑老头子身上……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廷掾向三老、里正、乡绅使眼色，三老、里正、乡绅会意。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "这可是，鹭鸶腿上刮精肉，"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "鹌鹑膆子里抠豌豆，这就够他受的啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫冷笑。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "请问廷掾，你身居何职，所司何事哪？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "廷掾小名儿就是二衙，新太守还没上任，大小我就是个地方官儿。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "三老哪？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "教化乡民。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "里正你哪？"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "清查乡里。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "是呀，说起来，您三位办事，都离不开黎民百姓。如今郑家的事，可关系到邺 城阖郡的安危，香火要是小啦，河伯面前，叫我怎么交差啊？"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "哎呀，可也是呀！"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "身前既不好办，二位再去谈谈吧。"
+        },
+        {
+          "character": "乡绅",
+          "type": "念",
+          "text": "免使河伯降罪，休教圣母为难。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "对！"
+        },
+        {
+          "character": "大巫",
+          "type": "念",
+          "text": "香火必须大办！"
+        },
+        {
+          "character": "三老、里正",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": "三老、里正",
+          "type": "同念",
+          "text": "我们就去商谈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老、里正同出殿，对看一眼。"
+        },
+        {
+          "character": "三老、里正",
+          "type": "同白",
+          "text": "没法子，再走一趟吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老、里正同下。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "我说众位会首们，邺城的百姓越走越少，今年的神事，不比往年，咱们可要一 心秉正，涓滴归公，谁也不许瞒心昧己，吞没神款。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "圣母放心，常言说得好，宁可欺人，不可欺神，大家心明眼亮，管保是大公无 私。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "无怪您是地方官，说的真是斩钉截铁。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "嘿，十几年来，谁不知道河伯娶妇关系邺郡阖城的性命，怎敢不诚诚虔虔嗒， 为民造福啊！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "廷掾既然心里明白，就该想法子，把咱们的神事，办得更风光才好。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "圣母放心，今年的神事，一定风光。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "您就说说这个来头。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "您听："
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "新任太守就要到，听说名叫西门豹。曾定中山立战功，就是性情有点儿躁。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "呦，这位太守，是个老粗儿呀，只怕他不懂得敬神的事吧！"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "圣母，您怎么啦？十几年来，河伯的灵应，深入民心，历任太守，谁敢违抗民 意。这位西门太守啊……"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "这回来的真叫巧，河伯娶妇他来到。我们迎头细禀告，请他也来把香烧。 百姓一见太守到，准比去年更热闹。定教神事风光好，人神共喜两逍遥。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "大巫、廷掾、乡绅",
+          "type": "同笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": "三老",
+          "type": "内白",
+          "text": "郑兴随我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老、里正引郑兴同上。"
+        },
+        {
+          "character": "郑兴",
+          "type": "西皮摇板",
+          "text": "为救女儿一条命， 只落得家业俱凋零。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "我说郑兴，河伯娶妇，另选换人，这可是从来没有过的事啊！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "一再地惊动河伯，这香火道场，可不能办小喽，你就出这点儿钱，够干什么的？"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "哎呀二位呀，这二十万还是从大户那里借来的呢，望求二位，在圣母面前，多 多美言，小老儿感激不尽了。"
+        },
+        {
+          "character": "三老、里正",
+          "type": "同白",
+          "text": "怎么，就是二十万，不能多出了吗？"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "实实的无能为力了。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "好，你先在外边呆一会儿，看你的运气，等我给你说好喽，你听信儿领人。可 有一节，钱，一定等我亲自来取，千万不可交给别人。"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "是，是，是。有劳了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑兴下。三老、里正同进殿。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "哎呀，好麻烦，好麻烦！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "不好办，不好办！"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "二位先别出汗，到底儿怎么麻烦？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老不理睬廷掾，走向大巫，廷掾跟在三老身后，三老背手伸一指、伸五指，暗示十五万。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "启禀圣母：郑兴确实困难，今勉强凑得十万之数，还请圣母大发慈悲。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "怎么？只凑了十万？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "这十万还是从那些大户借来的呢。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "不错，那郑兴的钱，就是弟子借给他的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老故作惊讶。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "啊？郑兴的钱是你借给他的？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乡绅得意。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "你借给他多少？"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "借给他么……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老恐乡绅泄露，急使眼色，乡绅会意。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "庞乡绅，你救人之急，一定有你好处的！"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "嗯，正是十万。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "圣母，您瞧是不是？心明眼亮，大公无私。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "好，既然如此，徒弟们——"
+        },
+        {
+          "character": "四小巫",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "把郑婉儿带上来，叫他们家领回去吧。"
+        },
+        {
+          "character": "四小巫",
+          "type": "同白",
+          "text": "尊神谕。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小巫同下。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "郑兴快来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑兴上。"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "来了，来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小巫引郑婉同上。郑婉见郑兴，扑过去。"
+        },
+        {
+          "character": "郑婉",
+          "type": "白",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "哭什么。圣母好容易答应啦，还不进去磕头谢恩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑兴边应边拉婉儿进殿。"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "是，是，是。多谢圣母慈悲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑婉向大巫叩头。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "郑兴，你女儿郑婉得病是真嗒？"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "真的，真的。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "她得病，你怎么知道的哪？"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老咳嗽示意。"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "啊啊啊，昨晚河伯示梦，故而知晓。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "善哉，善哉，河伯真是大慈大悲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫向郑婉。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "哼！没造化的丫头，趁早儿跟你爹回去吧！"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "多谢圣母，多谢圣母！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑兴边说边拉郑婉起身，同出殿。"
+        },
+        {
+          "character": "郑婉",
+          "type": "白",
+          "text": "爹爹，我好怕呀！"
+        },
+        {
+          "character": "郑兴",
+          "type": "白",
+          "text": "不要害怕，回得家去，收拾收拾，带你们逃出邺城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑兴、郑婉同下。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "我说众位会首。郑女已去，如今河伯夫人，再选谁家的女子呢？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "待弟子等合计合计。 公孙兄，这儿来。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "你看林全家的女儿怎么样？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老压低声音。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "不行啊，人家贡献过啦。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "好，又是你一笔漏账！"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "你别嚷嚷，我早就想好主意啦。陶寡妇的女儿陶姝，年岁相当，陶老婆子，穷 得揭不开锅，也出不起什么香火钱，我看今年的河伯夫人就照顾了她吧！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "不行啊，听说陶姝已经许配给崔泽的儿子崔承啦。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "可是那船夫崔泽吗？"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "不错，就是在漳河里驶船的那个崔泽。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "哼，一个撑船的，终年漂泊在外，多会儿能娶得起媳妇儿呀！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "不错，倒是还没有过门儿哪。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "这不结啦，既然未曾过门儿，就该让与河伯，这是神意！"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "岂止神意，还是仙缘。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "既是仙缘，恕我多言。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "一边呆着吧！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "三老、廷掾",
+          "type": "同白",
+          "text": "启禀圣母：陶寡妇的女儿陶姝，品貌甚佳，堪以配得河神。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "是不是陶化成家的人哪？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "不错，正是陶化成族家的孙女儿。陶老头子是他们家的族长。一生最信河神， 没事儿就在咱们神棚里忙活，刚才我还见他在殿外边哪。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "好，请他来，我和他当面说过。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老向里正。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "把陶化成找来！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "里正向内喊话。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "陶老先生在外边吗？圣母有请！"
+        },
+        {
+          "character": "陶化成",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶化成上。"
+        },
+        {
+          "character": "陶化成",
+          "type": "西皮摇板",
+          "text": "敬礼神佛赎罪愆， 一生福命皆由天。 为求漳河免水患， 信奉河神保平安。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "圣母在上，小老儿陶化成顶礼。"
+        },
+        {
+          "character": "大巫",
+          "type": "韵白",
+          "text": "善哉呀善哉！我看居士，红光满面，当前就有一桩天大的喜事。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "啊？小老儿罪愆未赎，哪得有什么喜事？"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "我来问你，你们陶氏族中，可有个陶姝？"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "有的。论辈分，还是我的孙女呢。圣母问她何来？"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "好，就是你的孙女陶姝。蒙河伯选中，作了今年的河伯夫人，岂不是一喜嘛。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "今年的河伯夫人，不是选中郑家的婉儿了么？小孙女哪有福份，结此神缘哪。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "咳，你好糊涂。听我告诉你吧，郑家女儿，福小命薄，斋宫习礼，忽然得病， 难以匹配河神，因此河伯显圣，另选了你的孙女陶姝啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶化成受宠若惊。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "此事是真的么？"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "圣母焉能哄你。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "是啊，一来是陶姝的福份，二来是你的虔诚感动河神，才跟你结下这门子亲事 哪。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "哎呀呀，如此说来，陶氏族中有幸，真乃一喜！"
+        },
+        {
+          "character": "三老、廷掾",
+          "type": "同白",
+          "text": "本来是一喜嘛！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "今日天色已晚明日再下神谕，你可要从旁劝导，勿违神意呀！"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "那个自然。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "今天你也不必回去啦，就和廷掾、三老他们，在偏殿斋戒，明天一同迎请夫人。 殿外伺候去吧。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "谢圣母。"
+        },
+        {
+          "character": "陶化成",
+          "type": "西皮摇板",
+          "text": "这是我笃信神道蒙体念， 小孙女有福份结下仙缘。 与河伯结亲眷我的造化非浅——"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "我好造化呀！"
+        },
+        {
+          "character": "陶化成",
+          "type": "笑",
+          "text": "哈哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶化成下。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "众位会首。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "圣母。"
+        },
+        {
+          "character": "大巫",
+          "type": "西皮摇板",
+          "text": "这件事要机密切莫外传。 劳诸位同斋戒且退偏殿——"
+        },
+        {
+          "character": "三老、廷掾、里正、乡绅",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "掩了威严者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫、众人同抽下。闭二道幕。三老、廷掾、里正、乡绅同留在帐外。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "三老，我们的事呢？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "庞绅喏——"
+        },
+        {
+          "character": "三老",
+          "type": "西皮摇板",
+          "text": "照例公办决不食言。"
+        },
+        {
+          "character": "众人",
+          "type": "同笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": "众人",
+          "type": "stage",
+          "text": "【第二场：赠玮】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "五月十一日。从安邑到邺郡的路上。"
+        },
+        {
+          "character": "西门豹",
+          "type": "内白",
+          "text": "众人役！邺城赴任去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。四兵卒、四差役，赵成、韩广引西门豹同上。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮摇板",
+          "text": "五月蝉鸣催征鞍， 一麾出守意悠然。 谁识将军曾百战， 今日里解甲收矛做了这文墨官。"
+        },
+        {
+          "character": "西门豹",
+          "type": "笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "想俺西门豹，累立战功，戎马本色，自从平定中山之后，那翟璜老大夫，屡在 魏侯驾前，道俺有治军理民之才，荐往邺郡为守。谁知满朝文武，都道俺性如 烈火，脾气暴躁，领得兵，打得仗，却做不得这文绉绉的官儿，因此魏侯犹豫 不决。事过半载，昨日忽接王命，着俺赴任邺城，那老大夫又不在朝中，未能 多多领教，只得打点行装，匆匆就道。此番到了邺城，我要治军防边患，利民 兴市田。 速速趱行者。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮垛板",
+          "text": "韩、赵、魏接壤紧相连， 邺城恰在韩、赵间。 西门豹岂止能叱咤疆场风云变， 此一番免苛政、除弊端、刑要轻、政要简，管教他化雨春风闾巷得安然。 慰民报国方遂某的愿，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。四校尉、翟璜同上，与西门豹相遇。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊！老大夫！"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "西门将军！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "喏，喏，喏！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "幸相遇老大夫某请教一番。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹下马。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "看你这般行色，莫非出守邺郡？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "还不是老大夫提掖后进，在魏侯面前举荐之力么。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "休得过谦。恭喜新太守。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "不敢。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "老夫眼力不差，邺郡万民之幸也。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哎呀呀，愈发地不敢了啊……"
+        },
+        {
+          "character": "西门豹",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "翟璜",
+          "type": "笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "请问老大夫，敢莫是从赵邦而归么？"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "赵邦动静如何？"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "倒也相安无事。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "好。想俺离朝之时，未曾多多请教，今日途中幸会，只是行程仓促，就长话短 叙，赠言一二。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "翟璜看出西门豹又犯了急躁的毛病。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "哈哈哈……老夫赠言不多，两字而已。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "两字？愿闻！"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "戒躁。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嘿嘿，老前辈但放宽心，俺这个急躁的性儿啊，这半载之中，早已改得一丝儿 也无有了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹欲上马。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "我看未必。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "我这里话未讲完，你为何急急忙忙上马呀？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗳，出君之口，入我之耳，听完了还不走么？"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "不然，不然。耳听未必心听，知改未必能改。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "翟璜恳切地拉西门豹。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "西门太守，你此去邺城，必须洞悉民情，深知民隐，方能兴利除弊，安堵民生。 若一味偏急，遇事暴躁，则民情不能上达，政无以兴，利无以举，你纵有理 民之才，也难符丰政之望矣。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哎呀，是啊。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "来，来，来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "翟璜解下珮玉。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "老夫有玮玉一方，敬赠太守。此玉外柔内刚，愿君佩戴为鉴，偶有暴躁，抚摸 了它，借以克制，三思而行。此乃区区望君之心，勿嫌老夫絮烦也。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "一席话不由我反躬身念， 察民情戒暴躁至理名言。 感前辈多指教我衷心铭篆，"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "多谢老前辈。 带马，带马，带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "翟璜含笑拦住。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "哎呀呀！这方玮玉你还不曾接过，怎么又要急急忙忙地上马呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹接过玮玉。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这？"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？哎呀呀，惭愧呀！"
+        },
+        {
+          "character": "翟璜",
+          "type": "笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": "西门豹",
+          "type": "笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": "翟璜",
+          "type": "西皮散板",
+          "text": "你抚玉知戒——"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "我要永佩在身边——"
+        },
+        {
+          "character": "翟璜",
+          "type": "西皮散板",
+          "text": "你要永记心间。"
+        },
+        {
+          "character": "翟璜",
+          "type": "白",
+          "text": "珍重了，请，请，请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉引翟璜同下。西门豹一望，两望，抚玉。"
+        },
+        {
+          "character": "西门豹",
+          "type": "笑",
+          "text": "哈哈哈哈！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮摇板",
+          "text": "老大夫赠玉赐金言， 服膺自当意拳拳。 叫人来速带马——"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "大人，看玉！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "你提醒得好啊！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮摇板",
+          "text": "把行程放慢，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖慢长锤〗。西门豹上马。众校尉同扯四门。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮原板",
+          "text": "一路上观田野美景无边。 男勤耕女勤织喜形于面， 微风吹动麦浪翻。 行进了太行山邺城不远，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖长锤〗。众人同走圆场。西门豹发现景象不对。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮快板",
+          "text": "为什么风光不一般？ 田园荒芜无人管， 市井萧条少人烟。 入耳声声悲又惨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四百姓各携少女自下场门同上。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同七队子",
+          "text": "河伯娶妇， 可怜生女不如无。 一夕数惊生疑怖， 家贫无钱难应付， 携女逃亡， 茫茫何处。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓自上场门同下。西门豹生疑。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "百姓为何弃家园。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹向韩广。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "老哥哥，唤他们前来问话。"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "是。 老人家请转。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老农上。"
+        },
+        {
+          "character": "老农",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "太守有事问你。"
+        },
+        {
+          "character": "老农",
+          "type": "白",
+          "text": "太守？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老农害怕，不敢向前。西门豹主动凑过去。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊老人家，我看你必是邺城之人。"
+        },
+        {
+          "character": "老农",
+          "type": "白",
+          "text": "是，是，是。邺城之人。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "既是邺城之人，背井离乡，为了甚事？"
+        },
+        {
+          "character": "老农",
+          "type": "白",
+          "text": "正是为了神的事。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹焦急。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗳！我问你，弃家远逃为了什么事？"
+        },
+        {
+          "character": "老农",
+          "type": "白",
+          "text": "太守，正是为了神魔，降临邺城，我们无钱奉敬，不得不逃，不得不走。太守 宽饶，饶我女儿一条性命吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老农边说边退下，西门豹不觉暴躁起来。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊！糊里糊涂，吞吞吐吐，与我抓回来！"
+        },
+        {
+          "character": "众差役",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹忽然触玉，立刻改容。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "慢，慢，慢咋！西门豹啊，西门豹，老大夫刚刚良言相赠，你怎么又来了？岂 不欲知民疾苦，必须问隐情，不与民相近怎能吐真心！待俺摘冠脱袍，换了褐 衣草笠，先行一步，暗查一番便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖望家乡〗。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮快板",
+          "text": "百姓见我神不定， 迟迟不敢道真情。 为明真象要暗查问， 褐衣草笠我先行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。西门豹下。"
+        },
+        {
+          "character": "西门豹",
+          "type": "stage",
+          "text": "【第三场：强聘】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "五月十三日。邺郡内陶母家中。陶母上。"
+        },
+        {
+          "character": "陶母",
+          "type": "四平调",
+          "text": "谢河伯慈悲多恩典， 小女幸未结神缘。 她婆家唯恐事有变， 接女于归就在今天。 贫怜贫穷帮穷要什么体面， 清风明月装点渔船。 涤旧裳代新装草草打扮——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母向内。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "姝儿，姝儿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝上，侧身以手遮面。陶母拉着走过来。陶母惨笑。"
+        },
+        {
+          "character": "陶母",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "陶姝",
+          "type": "四平调",
+          "text": "羞人答答迟步向前， 啊啊，有话难言。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哑笛。陶母挽陶妹就坐，为陶妹上头。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "啊姝儿，今日崔家父子，接你于归。唉！说什么于归，分明是逃难。儿呀，你 此时是羞是怨，为娘也无暇细问了，谁教两家贫穷，半点妆奁也无有，只有这 褪色红衫，当做你的嫁衣裳了……"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "咳，娘啊！"
+        },
+        {
+          "character": "陶姝",
+          "type": "四平调",
+          "text": "儿此时有何心以嫁衣为念， 此时此地如坐针毡。 河伯神逞凶涛常为水患， 选女娶妇年复年年。 姊妹死无算， 闾里不得安。 儿身得幸免， 早早离家园。 愿只愿崔郎一棹清波远， 我母女存一息在芦花浅水边。"
+        },
+        {
+          "character": "陶母",
+          "type": "四平调",
+          "text": "芦花水清浅， 聊且做镜奁， 说到伤心处， 儿不心酸娘也心酸。 盼，盼，盼，崔家人早来奠雁——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哑笛。陶母出门眺望，若有所见。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "哎呀，来了，来了。来了啊……"
+        },
+        {
+          "character": "陶母",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母入内，把门关上，向陶妹耳语，陶姝下。陶母倚门侧听。"
+        },
+        {
+          "character": "崔泽",
+          "type": "内白",
+          "text": "我儿，随父来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽渔父打扮上，腋下夹一雁，用布遮住。崔承渔郎打扮随上。"
+        },
+        {
+          "character": "崔泽",
+          "type": "四平调",
+          "text": "偷偷摸摸把姻联，啊啊哦——"
+        },
+        {
+          "character": "崔承",
+          "type": "四平调",
+          "text": "哦哦哦，蜜炒黄连。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "到了，到了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽把雁交与崔承，从怀中取出一块旧红绸子，向崔承。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "披上！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，免了吧。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "喜事么，好歹也要象个样儿，快快披上。待我叩门迎亲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽取过崔承手中雁，故意使雁叫一声。崔承边披绸边讲。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，免了吧。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "礼节么，好歹也要象个样儿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽压低声音。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "亲家婆，迎亲来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母开门。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "哎呀呀呀，亲家翁。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "亲家婆，家寒备礼不及，原谅。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "寒门接待不周，海涵。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "彼此。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "一样。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母、崔泽同笑。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "亲家翁请。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "不，不，不，亲家婆请。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "不，不，不，亲家翁请。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "不，不，不，亲家婆请。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，这些俗礼，免了吧！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "嗳——"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "免了？这倒是我爽快的女婿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承向陶母跪拜。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "拜见岳母。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽背供。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "他，倒等不及了。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "贤婿请起。哈哈哈……待我搀出小女。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母笑下，搀陶姝同上。"
+        },
+        {
+          "character": "崔泽",
+          "type": "四平调",
+          "text": "拜天地呀——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽环视，四壁皆空。"
+        },
+        {
+          "character": "崔泽",
+          "type": "四平调",
+          "text": "用什么来做媒证？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哑笛。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，什么时候了，这些俗礼，免了吧。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "好歹也要像个样儿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雁叫一声。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "喏！"
+        },
+        {
+          "character": "崔泽",
+          "type": "四平调",
+          "text": "再拜奠雁遵礼而行，啊啊哦——"
+        },
+        {
+          "character": "崔承",
+          "type": "四平调",
+          "text": "哦哦哦，拜什么畜生。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "什么话！ （哑笛。崔泽把雁放在桌上，故意使雁叫。陶母扶陶姝，崔泽扶崔承，同拜雁。雁叫，崔泽、陶母対笑，互 相噓止。陶姝、崔承对拜，欲拜陶母、崔泽。陶母、崔泽互让。哑笛止。）"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹！"
+        },
+        {
+          "character": "崔承",
+          "type": "念",
+          "text": "早离是非窝，平安争时刻。"
+        },
+        {
+          "character": "陶姝",
+          "type": "念",
+          "text": "扁舟离邺郡，多少拜不得。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "着哇，这些俗礼——"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "娘，免了吧。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "好，免了，免了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母受双拜。崔泽受双拜。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀呀，他们倒是一对儿，刚刚拜了天地，就夫妻同心了。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "亲家翁，快快上船要紧！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "上船？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "上船。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "好，我儿，你且先行一步，等在船头。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "做什么？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "渔船且作洞房看，新郎理当迎新娘。好歹——"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "也要像个样儿。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "娃子，你这才说了一句正经话哟。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，快些来。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "慢不了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承下。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "亲家婆，收拾收拾，我们走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母取包裹背上。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "无有什么收拾的了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "雁叫。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀，还有我这个乖乖呢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽取雁。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "我们走啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。崔泽在前，陶母、陶姝随后，同走小圆场。换屋外景。"
+        },
+        {
+          "character": "大神差",
+          "type": "内白",
+          "text": "呔，接神谕！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母、陶妹、崔泽同惊呼。"
+        },
+        {
+          "character": "陶母、陶妹、崔泽",
+          "type": "同白",
+          "text": "啊！ （〖急急风〗。四百姓同举香、四神差分捧凤冠、霞帔、如意、钱贯、大神差捧神谕、陶化成、里正、廷掾、 三老、乡绅、四小巫引大巫同上，围住陶母、陶妹、崔泽。崔泽背供。）"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "这做什么？"
+        },
+        {
+          "character": "大神差",
+          "type": "白",
+          "text": "神谕下，陶姝听者！"
+        },
+        {
+          "character": "大神差",
+          "type": "念",
+          "text": "吾神昨夜离水宫，暗查新妇品貌容。郑女貌陋难中选，陶女有缘配乘龙。 吾神下聘三千贯，本月十八驾来迎。先命神姑来聘定，熏香沐浴到斋宫。"
+        },
+        {
+          "character": "陶母、陶姝、崔泽",
+          "type": "同白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "恭喜老太太！"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "贺喜老太太！"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "恭喜河伯夫人！"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "贺喜河伯夫人！"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "我们陶家，结了神缘，一人得道，鸡犬成仙。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "快快接了神谕。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "穿戴整齐。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "请到斋宫。"
+        },
+        {
+          "character": "三老、乡绅、廷掾",
+          "type": "同白",
+          "text": "五月十八，等候河伯迎娶！"
+        },
+        {
+          "character": "陶母、陶姝",
+          "type": "同白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母、陶姝同晕死，双僵尸。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "你们瞧，河伯夫人，这就脱胎换骨啦！ 来呀！将夫人搭到斋宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人欲动手，崔泽拦。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "且慢—— 亲家婆、媳妇醒来哟！"
+        },
+        {
+          "character": "陶母、陶姝",
+          "type": "同西皮导板",
+          "text": "裂断肝肠遭突变！"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "姝儿！"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "老娘！"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "儿啊！"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "娘啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母、陶妹同抱头痛哭。"
+        },
+        {
+          "character": "陶姝",
+          "type": "西皮散板",
+          "text": "千提防万提防难逃笼樊。 只望鸡飞随波远， 霎时间变成了受割宰的牛羊又上祭坛。"
+        },
+        {
+          "character": "陶母",
+          "type": "西皮散板",
+          "text": "求官长——"
+        },
+        {
+          "character": "陶姝",
+          "type": "西皮散板",
+          "text": "叩圣母——"
+        },
+        {
+          "character": "陶母",
+          "type": "西皮散板",
+          "text": "慈悲——"
+        },
+        {
+          "character": "陶姝",
+          "type": "西皮散板",
+          "text": "明鉴——"
+        },
+        {
+          "character": "陶姝",
+          "type": "哭头",
+          "text": "喂呀，圣母啊。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "嘿嘿，你母女休得执迷，凡人俗子，上嫁河伯，这就是慈悲，明鉴！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "聘礼三千贯，这就是恩典！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "吹吹打打送入斋宫，这就是体面！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "着哇，蒙神青睐，为民造福，此乃我陶族大喜之事，你们哭哭啼啼，这是什么 道理？"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "爷爷，你问这道理么？"
+        },
+        {
+          "character": "陶姝",
+          "type": "反西皮二六板",
+          "text": "说道理且听我讲个周全： 既然是河伯有灵验， 他就该正而无私、言而有信、怎能够暮四朝三！ 选新妇消息传遍，谁不知已定郑婉， 却为何食前言胡乱换、强迫我有夫之妇结神缘，作神道也未免不端。"
+        },
+        {
+          "character": "陶母",
+          "type": "反西皮二六板",
+          "text": "陶姝儿休得要把河伯埋怨， 诉下情再哀求叩请垂怜。 出嫁女亵神灵罪过非浅， 望圣母向河伯婉转陈言。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "怎么咋？你的女儿，已然出嫁啦？"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "刚刚拜过天地，就要到婆家去了。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "婆家是谁？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "小老儿崔泽"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "你是干什么的？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "河下生理。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "哦，驶船嗒……"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "阿嚏，阿嚏，啊……嚏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫借下神恐吓，廷掾、三老、乡绅故作惊慌。"
+        },
+        {
+          "character": "廷掾、三老、乡绅",
+          "type": "同白",
+          "text": "河伯驾临，接驾，接驾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "全场肃然，众人同跪下。慢抽头。大巫作势。"
+        },
+        {
+          "character": "大巫",
+          "type": "扑灯蛾",
+          "text": "神眼千里照，神耳万里通， 尔等一遍话，已达水晶宫。水晶宫。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "哎呀，河伯已然知道了！"
+        },
+        {
+          "character": "大巫",
+          "type": "扑灯蛾",
+          "text": "吾神改聘陶家女， 谁敢与我来争风！ 崔家父子若不让啊—— 扑通！扑通！扑嗵嗵嗵嗵扑通通， 船到江心卷浪中。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。崔泽连连叩首。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "小老儿不敢，小老儿不敢。"
+        },
+        {
+          "character": "大巫",
+          "type": "扑灯蛾",
+          "text": "陶家母女有二意呀， 哼！哼！哼哼哼哼哼哼哼！ 大水淹了邺郡城！ 大水淹了邺郡城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母连连叩首。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "小妇人不敢，小妇人不敢。"
+        },
+        {
+          "character": "廷掾、三老、乡绅",
+          "type": "同白",
+          "text": "河伯息怒，我等谨遵神谕，谨遵神谕。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "嗯，吉凶祸福，尔等自择。吾神去也。"
+        },
+        {
+          "character": "廷掾、三老、乡绅",
+          "type": "同白",
+          "text": "送驾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫伸懒腰，作醒状。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "河伯怎样吩咐？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "没别的说嗒，崔家撤婚约，陶女送斋宫，五月十八，等候迎娶。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "陶老婆子，崔老头子，你们还有什么说的吗？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母、崔泽绝望对视。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "亲家翁！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "亲家婆！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母、陶姝在绝望、无可奈何中悲惨地喊叫。"
+        },
+        {
+          "character": "陶姝",
+          "type": "叫头",
+          "text": "老娘！"
+        },
+        {
+          "character": "陶母",
+          "type": "叫头",
+          "text": "姝儿！"
+        },
+        {
+          "character": "陶姝",
+          "type": "叫头",
+          "text": "娘啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "音乐起。陶姝向远处瞻望，意在崔承。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "嗳，你们要，秉至诚，信神灵，识大体，谨依从。难道为了自己的女儿，眼睁 睁水淹邺郡不成！"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "这！"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "这！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "这！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝扑向陶母怀中。"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "喂呀，娘啊……"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "苦命的女儿啊……"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "苦命的媳妇啊……"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "善哉，善哉。好难度化的愚人哪！"
+        },
+        {
+          "character": "廷掾、三老、乡绅",
+          "type": "同白",
+          "text": "来呀，吹吹打打，速速送入斋宫。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "众神差！"
+        },
+        {
+          "character": "四神差",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "撞钟擂鼓，焚香送驾呀！"
+        },
+        {
+          "character": "四神差",
+          "type": "同白",
+          "text": "啊！ （全场肃然，音乐起。陶姝如痴如呆地被四神差、大巫同拥下。众百姓举香随同下。陶母哭泣着随下。崔泽 顿足叹息。）"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。崔承慌忙上。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，孩儿在船头等了许久，为何还不走啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承环视四周。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "咦，她们母女呢？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "娃子，完了！完了！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "孩儿在船头等候多时，就急忙赶来了，怎说是晚了哇！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "咳，什么早晚，你的婚事完了！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "拜罢天地，婚礼自然是完了啊。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀儿呀，河伯显圣，又选中陶家的姝儿！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "吹吹打打，已然送入斋宫了！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "你的媳妇，做了河伯夫人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承始而惊颤，继而愤怒。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "哦，哦，哦，是了！怪不得，适才我在船头，遇到郑家雇船，急渡漳河，并说 花了天大的银钱，才买回女儿一命。看来此事，分明是贿通巫婆、三老等人， 放了郑婉，换了我妻陶姝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "待我赶上前去，与他们辩理！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀，你往哪里去呀？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "找那巫婆辩理！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽声色俱厉。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "你去不得！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "我怎么不去？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "你去不得！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽三扯，崔承推开崔泽。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，你——"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "你去不得，去不得，去不得！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承挣脱，下。崔泽连呼，踉跄追下。"
+        },
+        {
+          "character": "崔泽",
+          "type": "stage",
+          "text": "【第四场：启疑】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "五月十三日，邺郡城外，通往河伯庙的道上。慢纽丝，西门豹改装、韩广扮作老仆同上。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮摇板",
+          "text": "草笠褐衣改换装。 父老果然诉衷肠。 原来是河伯娶妇索供养， 穷苦百姓难应偿。 怪不得扶老携幼弃家走， 大好田园半芜荒。 这习俗恶风怎任滋长——"
+        },
+        {
+          "character": "众神差",
+          "type": "内同白",
+          "text": "呔！闲人闪路，车马慢行，河伯夫人转驾斋宫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四神差各持皮鞭轰赶众百姓同上，过场，同下。西门豹避转高埠上。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮摇板",
+          "text": "却怎么这神差凶似虎狼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。众人拥陶姝换宫装同上。陶姝形同木偶坐在轿内。陶母哭泣随上，过场，同下。西门豹下高台。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊，看那宫装之女，必是被选上之妇，她为何痴痴呆呆形同垂死的羔羊！那老 妇人，哭哭啼啼，必然是她的亲眷了。如此惨状，那些随行人等，竟然无动于 怀。这恶风陋俗，好不荒唐奇怪！"
+        },
+        {
+          "character": "崔泽",
+          "type": "内白",
+          "text": "娃子，你去不得呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "随喊声，崔承怒上。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "我去找他们辩理！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹拦住崔承，崔泽急追上。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "你去不得！ （崔泽拉住崔承不放，崔承挣脱，崔泽绕至崔承前面，用头顶着崔承倒退。西门豹欲询见状急闪。韩广在后 躲闪不及，被崔成撞倒。崔承倒。崔泽趴下。乱锤。西门豹拉起韩广，将要发作。韩广指玉示意。）"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "老爷莫要急，玉在这里。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哦，哦，哦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹从容扶起崔泽。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "老人家，你们这是怎么了？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎哟哟，这个畜生，他不要命了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽向西门豹。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "客官，帮帮忙，扯住这个畜生，救我父子两条性命。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，难道那陶家母女，就不是两条性命么？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "咳！命也，命也。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "哼！胆小，胆小！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "听你这后生之言，莫非有什么冤枉之事，你要打个抱不平？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "岂是打抱不平，正是俺的不平！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "客官，不要理他，这个奴才他疯了。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哦，如此说来，此事也有你父子在内？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "这个……看你是远方之人，不妨对你言讲。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "不错，我乃远方之人，与邺城无关，不妨对我言讲。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "哎呀呀，对他言讲，何济于事？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "对俺说了，未必不济事。"
+        },
+        {
+          "character": "韩广",
+          "type": "念",
+          "text": "我主人或有高见，"
+        },
+        {
+          "character": "西门豹",
+          "type": "念",
+          "text": "报不平替你周旋。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "哦，看你不出，倒有些个胆量。你就听我——"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "讲，讲，讲！"
+        },
+        {
+          "character": "崔承",
+          "type": "西皮快板",
+          "text": "河伯娶妇把人骗， 巫婆弄鬼散谣言。 三老、乡绅与廷掾， 借题敛财狼狈为奸。 今年已把新妇选， 受贿纳脏暗放还。 假口河伯来抵换， 强逼我妻陶姝结神缘。 哪有个神灵无信恣淫乱， 俱是那官巫勾结暗中弄虚玄。 不平之事应抗辩， 怎奈我怕事的爹爹把我拦，我心不甘。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "崔泽",
+          "type": "西皮快板",
+          "text": "奴才真乃发疯癫， 信口雌黄你胡乱言。 满城中谁不知河伯灵验， 难道说你不怕把阖城来淹。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "既有此事，为何太守不管呢？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "崔泽",
+          "type": "西皮快板",
+          "text": "并非太守袖手不管， 他也怕河神降罪把百姓淹。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "嗳！"
+        },
+        {
+          "character": "崔承",
+          "type": "西皮快板",
+          "text": "哪里是怕河伯发水为患， 太爷伸手也要钱。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "不然，不然。听说那新太守西门豹，就要上任了。那西门豹是一个不要钱，不 怕事的，你何不到他面前申诉呢？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "崔承",
+          "type": "西皮快板",
+          "text": "西门豹、东门豹有什么稀罕？ 也不过一丘之貉同样地贪婪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹嗔。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "老爷，看玉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹抚玉，镇静。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "想必历任是贪官， 压得百姓不见天。 吏蠹官狠多积怨， 难怪后生出怨言。 我和颜悦色话讲当面——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹向崔承，和蔼。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "那一后生听了！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "我曾与新太守素有往还。 西门豹并非同流合污的贪婪辈， 他定能辨是非与你平冤。"
+        },
+        {
+          "character": "崔承",
+          "type": "西皮散板",
+          "text": "你送这空头人情有何证见？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀，这是神事，怎能任意而行啊！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这个——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹毅然而急躁。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "后生听了！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "他准备，禁巫风——"
+        },
+        {
+          "character": "崔泽、崔承",
+          "type": "同白",
+          "text": "啊？怎么禁法？"
+        },
+        {
+          "character": "西门豹",
+          "type": "念",
+          "text": "出告条——"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "什么时候？"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "在上任之前。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "那一后生，你叫什么名字？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "我叫崔承。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "小老儿崔泽。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "以何为生？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "河下生理。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "驶船的。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "好，你们且回船上，切莫远离，三日之后，见了告条，那陶姝自然平安无事， 你夫妻就团圆了。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀，此事非同小可呀！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "难信哪，难信。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗳，我主仆与你萍水相逢，无恩无怨，骗你何来？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "既然如此，我们就回去吧。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "究属令人难信，我还是找向他们辩理。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "且慢。崔承，我来问你，你不信我言，去找他们辩理，若是救不得那陶姝，你 又怎样？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "救不得我妻，我就一死相拼！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哼，荒唐的后生，徒拼一死，又有何用？这才真的无济于事呢。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "恶俗压人，无有公道，不如与他们拼了！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "拼，也要拼出个名堂来。我来问你，那河伯娶妇，在什么时候？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "五月十八。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "今日？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "五月十三。。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "着哇，三日之后，五月十六，有了告条，你夫妻重庆团圆。何必今日，便尔轻 生。若无告条，待等五月十八，河伯娶妇之期，任你大闹斋宫，也还不迟。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "娃子呀，既然客官如此言讲，我们暂且回船，看是怎样吧。"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "是啊，且看后事如何。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "有道是："
+        },
+        {
+          "character": "崔泽",
+          "type": "念",
+          "text": "绝望之余得一线，且看真假暂回船。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "回去吧。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "一锤锣。崔承用怀疑的眼光望着西门豹，崔泽催促着同下。冲头。西门豹一望、两望。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "好娃子！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖望家乡〗。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮快板",
+          "text": "这后生性情真倔犟， 咄咄逼人正而刚。 西门豹言出法随无虚谎。 即出告条晓谕四乡。 恶俗巫风定扫荡， 也免得众百姓死走逃亡。 邺城不远已在望， 上任后先办这大事一桩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三锣，〖工尺上〗。四兵卒、四差役、赵成同上。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "参见西门大人，请驾进城。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "冠带伺候，速速上任者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "工尺上中。众人引西门豹同下。"
+        },
+        {
+          "character": "西门豹",
+          "type": "stage",
+          "text": "【第五场：遇阻】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "五月十六。邺郡城内一条街上，或二幕前。"
+        },
+        {
+          "character": "西门豹",
+          "type": "stage",
+          "text": "（一江风头句。〖急急风〗。四差役各持告条上写“严禁恶俗巫风，不准河伯娶妇”自两边分上，对抄下。 小乱锤。乡绅、里正自两边分上。）"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "怪，怪，怪！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "坏，坏，坏！"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "坏了哦！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "糟了啊！"
+        },
+        {
+          "character": "里正",
+          "type": "扑灯蛾",
+          "text": "太守上任第一炮，"
+        },
+        {
+          "character": "乡绅",
+          "type": "扑灯蛾",
+          "text": "禁止赛神出告条。"
+        },
+        {
+          "character": "里正",
+          "type": "扑灯蛾",
+          "text": "这个关系可算不小，"
+        },
+        {
+          "character": "乡绅",
+          "type": "扑灯蛾",
+          "text": "分明是要把我们的性命来送掉。"
+        },
+        {
+          "character": "里正",
+          "type": "扑灯蛾",
+          "text": "来送掉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。"
+        },
+        {
+          "character": "乡绅",
+          "type": "扑灯蛾",
+          "text": "约廷掾——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廷掾上。"
+        },
+        {
+          "character": "廷掾",
+          "type": "扑灯蛾",
+          "text": "已知晓。 寻三老——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老上。"
+        },
+        {
+          "character": "三老",
+          "type": "扑灯蛾",
+          "text": "我来到。 休要惊慌莫烦恼， 分兵布阵有计巧。 百姓哪个不怕闹水灾， 鼓动全城男女老幼举香跪衙去哀告。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "对！"
+        },
+        {
+          "character": "廷掾",
+          "type": "扑灯蛾",
+          "text": "谁不怕河伯？"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "对！"
+        },
+        {
+          "character": "乡绅",
+          "type": "扑灯蛾",
+          "text": "神姑道行高。"
+        },
+        {
+          "character": "三老",
+          "type": "扑灯蛾",
+          "text": "问问她，不准河伯娶妇、恼怒上神、漳河发水、水淹邺郡可怎得了！"
+        },
+        {
+          "character": "廷掾、里正、乡绅",
+          "type": "同白",
+          "text": "对！"
+        },
+        {
+          "character": "廷掾、里正、乡绅",
+          "type": "同扑灯蛾",
+          "text": "管教他张口结舌、难违众意、即刻收回成命、诺诺连声……只有三个字——好！ 好！好！"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "好？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "好？"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "好！"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "好！"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "既然是好，咱们就——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老举手示意，分头鼓动百姓。"
+        },
+        {
+          "character": "三老",
+          "type": "stage",
+          "text": "（阴锣。廷掾、乡绅、里正同下。三老向上场门招陶化成上，手式以水威胁，陶化成惧，连连点头，返身取 香，随三老后。三老向下场门招二百姓同上，手式以水威胁，二百姓同回身取香。〖急急风〗。三老领起走 半个圆场。里正、乡绅、廷掾率众百姓各举香同上。）"
+        },
+        {
+          "character": "三老、廷掾",
+          "type": "同白",
+          "text": "举香跪衙去者！"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "一江风牌半段。众人同走圆场，同下。闭二道幕。"
+        },
+        {
+          "character": "崔承",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承急上。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "嘿！客官之言，果然可信，今日十六，新太守真的出了告条。不准河伯娶妇， 严禁恶俗巫风，我妻定然得救，待我回船，告知爹爹。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内人声。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "啊？看一伙人等，个个举香，直奔太守衙门，不知为了何事，我何不混在人群 之中，看个明白。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二道幕开。太守衙门大堂。一江风牌合头。三老、廷掾、里正、乡绅引众百姓同上。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "来到大堂！"
+        },
+        {
+          "character": "三老、廷掾、乡绅",
+          "type": "同白",
+          "text": "喊！"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "太守！太守！太守！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廷掾喊叫。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "有请太守！百姓跪衙！百姓跪衙！有请太守！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四差役、赵成、韩广引西门豹同上。西门豹亮相、归座，搜场，扫看百姓，深为诧异。"
+        },
+        {
+          "character": "西门豹",
+          "type": "叫头",
+          "text": "众位父老乡邻！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "本太守履新上任，除弊安民，已有告条在外。尔等还有何事，前来跪衙？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同连连叩首。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "太守！太守！太守……"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？有何话讲？这样吞吞吐吐，欲言又止，是何道理！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹怒而拂袖，众百姓害怕，伏地不敢抬头。西门豹拂袖时，触及佩玉，顿改和颜，耐心呼唤。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊，公孙三老。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "卑职在。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "你职司教化，怎么教得百姓愚呆至此？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老谄媚而阴险。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "这个——咳咳，太守有所不知。卑职教化百姓，个个忠厚老实，守礼不敢犯上。 只是生死存亡，全在太守掌握之中。他们有无限悲苦，不敢明言，只有叩头 乞命。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "怎么？百姓的生死存亡俱在我的掌握之中？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "嗯。这是百姓的生死关头啊，我的太守！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哦，愿闻其详。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "请恕卑职直言有罪，才敢明讲。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "何罪之有，慢慢讲来。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "太守，有道是，入国问禁，入乡问俗。太守到了邺郡，可知我们邺郡的风俗吗？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "怎么不知，正为知道河伯娶妇，事属荒唐，这才张出告条，严禁巫风。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "您只管“严禁恶俗巫风，不准河伯娶妇”，您可知道河伯娶妇的来头吗？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "恶俗扰民，有什么来头？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "拧了不是，您说扰民，不对，正是救民哪。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "三老说的不假。邺郡多少年来，没有神灵保佑，早就完啦。邺郡棏保安宁，都 是河伯之功啊。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "怎么？都是河伯之功？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "然也，然也。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "是哉，是哉！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哦，我倒不知，河伯竟有如此神力！"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "哎呀太守啊！"
+        },
+        {
+          "character": "三老",
+          "type": "念",
+          "text": "提起此事话儿长，太守不知听端详：漳河五龙爱闹水，邺郡年年受灾殃。 洪水泛滥伤人畜，淹没庄稼毁田庄。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": "乡绅",
+          "type": "念",
+          "text": "自从河伯施法力，邺郡才得保安康。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "他有什么法力？"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "提起河伯真灵验，神通广大法力强。圣母附体来讲话，指迷治病开药方。 前后因果仔细讲，百姓心里才亮堂。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "他讲些什么？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "邺城百姓罪孽重，孽龙作怪降凶殃。河伯慈悲显法力，漳河之内把龙降。 五龙锁在河伯府，邺郡这才免灾殃。河伯的功德情难忘，"
+        },
+        {
+          "character": "乡绅",
+          "type": "念",
+          "text": "百姓供奉也应当。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "河伯就要娶妇了？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "是呀。"
+        },
+        {
+          "character": "三老",
+          "type": "念",
+          "text": "河伯本是风流种，水宫哪能没娘娘。这才每年选夫人，五月十八做道场。"
+        },
+        {
+          "character": "里正",
+          "type": "念",
+          "text": "吹吹打打把亲送，编苇作舟席作床。河伯夫人坐上去，顺水漂流晃荡当。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "说也怪呀！"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "是怪呀！"
+        },
+        {
+          "character": "三老",
+          "type": "念",
+          "text": "你看她，滴溜溜溜一股浪花，漂到那五龙湾前打了个漩儿。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "怎么样？"
+        },
+        {
+          "character": "三老",
+          "type": "念",
+          "text": "浪花一卷入水府，"
+        },
+        {
+          "character": "廷掾、乡绅",
+          "type": "同念",
+          "text": "就跟河伯配成双。"
+        },
+        {
+          "character": "三老",
+          "type": "念",
+          "text": "河伯见喜施法力，"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "邺郡这才保安康。多年的规矩总一样——"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "倘若不送新娘呢？"
+        },
+        {
+          "character": "廷掾、乡绅、三老",
+          "type": "同白",
+          "text": "哎呀，罪过呀，罪过！"
+        },
+        {
+          "character": "廷掾、乡绅、三老",
+          "type": "同念",
+          "text": "水淹邺郡一扫光。最可怕田园牛马一起毁，身家性命付汪洋。"
+        },
+        {
+          "character": "三老",
+          "type": "念",
+          "text": "生死关头就在此，"
+        },
+        {
+          "character": "陶化成",
+          "type": "念",
+          "text": "太守与民作主张。河伯娶妇万万不能免——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同叩头、呼喊。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "太守，太守，太守！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承大喊上。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守，太守——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承跪倒堂前，抬头见西门豹即是那日的客官，不由冲口而出。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "阿客……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹示意制止。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承会意，急转话语。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "可、可、可、可不能听他们胡言乱语！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守！"
+        },
+        {
+          "character": "崔承",
+          "type": "念",
+          "text": "他们是一派胡言语荒唐。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "啊？什么人竟敢惑乱民心！来呀，把他拿下，交与神前问罪！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "慢咋！惑乱民心，理当治罪。既然有话，容他讲来。你且慢慢地讲。"
+        },
+        {
+          "character": "崔承",
+          "type": "叫头",
+          "text": "太守！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "他们口口声声言道，河伯娶妇，可免洪水之灾，为何年年送一河伯夫人，有时 水灾也还不免？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "是啊，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹向三老。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这是什么道理？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "嗬嗬嗬……那是人心不诚，上神见怪。就像他这样的人出言冒犯，河伯还能不 降罪吗？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "既然河伯如此严正，又为何恣意淫乱，失信于人？"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "你胡说！河伯从来说一不二，你这么亵渎神灵，河伯可要降罪嗒！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "住了！你道河伯说一不二，今年所选之女，清清楚楚，明明白白，谁人不知， 哪个不晓，乃是郑家之女，为何又改换了陶姝？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "嘿嘿嘿……是这个呀。郑女貌丑，河伯见怪，这才另选了陶姝。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "河伯见怪，你们是怎么知晓？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "河伯显圣，神姑附体，转达神意，年年如此，何劳你多嘴多舌！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "嗬嗬嗬……只怕不是神姑附体，转达神意——"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "是什么？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "是郑家的银钱显圣而讲话！"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "啊唗！胆大乱民，竟敢造谣生事。 太守，快快将他治罪！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守，有罪者自当治罪，只是造谣生事者并非崔承，太守，你可要追查明白。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "好啊，河伯娶妇，并非一年两年啦，谁敢违抗，谁敢不信哪！今天新太守上任， 你竟敢匪言逆语，要挟长官，分明是造谣生事，贻害全郡哪！ 我说众乡邻们，你们都是邺城根生土长的，这漳河闹水是假还是真哪？"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "闹水是真。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "河伯灵验，是真是假哪？"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "灵验不假。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "太守您看，这可是众人一心，众口一词呀！为了全郡的百姓，太守您可要多多 地思忖哪。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "是啊，河伯灵验，老汉我信了几十年了。河伯慈悲，有时水患尚且不免，若无 河伯慈悲，那还了得！那陶姝是我陶家之女，她结了神缘，造福全郡，是我陶 家的德行。他一个外姓之人，岂不是多管。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "哎，我想起来啦，他就是陶姝没过门的女婿，这就怪不得啦。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "咳，我说呢，敢情这不是什么谣言不谣言，失信不失信嗒，是专给他没过门的 老婆挡横来啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老脸色突变。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "不能为你一个人，祸害了全郡人的性命！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守，救了一人，正是救了全城。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "为了全城的性命，还望太守撤去告条。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守，告条万不能撤，官家岂能出尔反尔！"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "水淹邺郡，太守的干系不小！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "屈害民女，太守明镜高悬！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶化成鼓动众百姓，陶化成喊。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "太守救命！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守救命！"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "太守，太守！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶化成意在鼓动，连连叩头。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守，太守！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承连连叩头。小乱锤。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "呀——"
+        },
+        {
+          "character": "西门豹",
+          "type": "二黄散板",
+          "text": "这一旁众百姓叩头请命， 那一旁小崔承据理而争。 论恶俗与巫风理当严禁， 怎奈是众乡民受惑已深。 启愚蒙防水患才能安堵邺郡， 这件事倒教我煞费思忖。 劝父老且回家静候音讯——"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "启禀太守：今天十六，后天十八，就是河伯娶妇的正日子啦，您出的那张告条 ——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹怒气起。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": "西门豹",
+          "type": "二黄散板",
+          "text": "本太守细斟酌自有下文。 到吉期管教河伯把夫人迎请，"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "禀太守，这个惑乱人心的狂徒，怎么处置呀！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这一后生么……"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "干脆，交给我们去办吧！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "西门豹",
+          "type": "二黄散板",
+          "text": "假意儿拘崔承稳住他们。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "暂将崔承看押起来，本太守自有发落。 赵成！"
+        },
+        {
+          "character": "赵成",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "将崔承严加看管！附耳上来。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "啊？崔承无罪，太守为何拘押与我？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "不必多言，带下去。"
+        },
+        {
+          "character": "赵成",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "咳！冤枉啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承随赵成同下。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "廷掾、三老，河伯娶妇之事，本太守一概尽知，我自有安排。吩咐百姓，各自 散去，明日候令而行。"
+        },
+        {
+          "character": "三老、廷掾",
+          "type": "同白",
+          "text": "众百姓听咋！太守亲口应允，河伯娶妇之事，明日候令而行，大家暂且散了吧。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "大伙都散了吧。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "多谢太守。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起长冲头。众百姓同叩头，里正率众百姓同下。"
+        },
+        {
+          "character": "三老、廷掾、乡绅",
+          "type": "同白",
+          "text": "卑职等告退。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老、廷掾、乡绅同向上一揖。"
+        },
+        {
+          "character": "三老、廷掾、乡绅",
+          "type": "同二黄摇板",
+          "text": "贤太守爱百姓苍生有幸。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老、廷掾、乡绅同转身做嘴脸，同下。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "转堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众差役自两边分下。西门豹出位，两望。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "咳，好恼！"
+        },
+        {
+          "character": "西门豹",
+          "type": "碰板二黄原板",
+          "text": "却为何众吏绅不安分， 迎风纵火、推波助澜、事必有因。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哑笛。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "那日途中，崔成喊叫，巫婆弄鬼，官府贪赃。莫非廷掾、三老、巫婆与里正等， 结党营私，愚惑乡民？"
+        },
+        {
+          "character": "西门豹",
+          "type": "二黄原板",
+          "text": "我就该动大刑严加审问，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哑笛。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哎呀，不可，眼睁睁洪水为灾，人心惶恐，不除水患，只惩吏巫，难压众口， 怎服民心？"
+        },
+        {
+          "character": "西门豹",
+          "type": "二黄原板",
+          "text": "难道说真有那河伯水神！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哑笛。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "百姓怕水灾，水灾因何来？难道真有河伯在？这真有河伯？这、这、这真有河 伯……不成？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹徘徊思索。〖起初更鼓〗。韩广掌灯上。"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "请大人用饭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹挥手示意不用。"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "大人用茶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹急躁。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "也不用！"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "大人……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹摸玉。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊，老哥哥，你说当真有河伯之神么？"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "这…… （韩广答不上来，西门豹挥手命韩广退下。韩广转过身，西门豹忽然拍案大喝一声，惊得韩广回头一看，摇 摇头叹气下。）"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "咳！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮原板",
+          "text": "为神灵却为何如此残忍？ 害人性命拆散婚姻。 这耳边似听得哭声阵阵——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "幕内崔承、陶母、陶姝哭声。"
+        },
+        {
+          "character": "崔承",
+          "type": "内唱",
+          "text": "太守啊……"
+        },
+        {
+          "character": "陶母",
+          "type": "内唱",
+          "text": "苦命的儿啊……"
+        },
+        {
+          "character": "陶姝",
+          "type": "内唱",
+          "text": "再也不能相见的老娘……崔郎啊……"
+        },
+        {
+          "character": "崔承、陶母、陶妹",
+          "type": "内同唱",
+          "text": "害人的河伯呀！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "西门豹",
+          "type": "二黄散板",
+          "text": "这哀哀的声音动我心。 河伯作怪实可恨——"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "好河伯，好河伯！有了！"
+        },
+        {
+          "character": "西门豹",
+          "type": "二黄散板",
+          "text": "我即刻到五龙湾——"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "叫出那河伯，当面评理！"
+        },
+        {
+          "character": "西门豹",
+          "type": "二黄散板",
+          "text": "我细辨假真。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "赵成。"
+        },
+        {
+          "character": "赵成",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "速带崔承前来，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起三更鼓〗。赵成引崔承同上，崔承跪。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守与小人作主啊……"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "起来，崔承。我来问你，你父子久在漳河行船，可曾到过那五龙湾？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "五龙湾？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "就是那河伯的巢穴。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "哎呀太守啊，那五龙湾，水势汹涌，我们行船的都不敢前去。只有我家爹爹， 在河上四十余年，熟悉水道，才能到此。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "好啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩广暗上，窃听。"
+        },
+        {
+          "character": "西门豹",
+          "type": "念",
+          "text": "劳尔父子驾轻船，送某即到五龙湾。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "做什么？"
+        },
+        {
+          "character": "西门豹",
+          "type": "念",
+          "text": "趁此月白风清夜，叫出河伯仔细谈。问他何故纵水患，问他何苦害婵娟。 水底人间同一理，问倒河伯我不容宽！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "今晚我们找那河伯辩理，你父子可敢前去？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守为了小人之事，不怕波涛之险，我父子怎么不敢？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "速整船只，河岸伺候。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "谢大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承下。韩广怀疑、顾虑。"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "大人，你……"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哈哈，老哥哥你年纪大了，难怪胆小。"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "嗳，老朽半生追随，经过多少战场，说什么胆小！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "如此你们也敢？"
+        },
+        {
+          "character": "韩广、赵成",
+          "type": "同白",
+          "text": "但求大人保重，我等怎么不敢！"
+        },
+        {
+          "character": "西门豹",
+          "type": "叫头",
+          "text": "俺西门豹啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹托髯。"
+        },
+        {
+          "character": "西门豹",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "西门豹",
+          "type": "念",
+          "text": "满腔正义除民害，是神是怪一体拿。掌起灯笼火把，即刻悄悄出衙。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "随我走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹下。韩广、赵成随同下。"
+        },
+        {
+          "character": "西门豹",
+          "type": "stage",
+          "text": "【第六场：夜探】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "五月十六日，夜。幕前，小锣。崔承急上，高呼。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹、爹爹快来！"
+        },
+        {
+          "character": "崔泽",
+          "type": "内白",
+          "text": "来了，来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽持火媒子上。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "娃子，你怎么这般时候才回来呀？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "城中有事。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "那新太守可曾出了告条？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "果然出了告条。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽伸大指。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "好个敢作敢当的太守！咦，那客官说的真准哪。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，你道那客官是什么人？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "是个好人。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "岂但好人，他就是新任太守，西门大人。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "什么？他就是新任太守西门豹？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀坏了。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "怎么坏了？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "那日途中相遇，我们不知是他，言语冲撞，他若记挂在心，我们吃……罪不起 呀！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹不必担忧，新太守爱民如子，绝不怪罪。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "你见着太守大人了？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "非但见着，太守还有差派呢。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "啊？我们又不当差应役，有什么差派呀？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，快快收拾船只，太守用船。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "做什么？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "替孩儿搭救陶姝。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "出了告条，陶姝自然平安无事，还要怎样搭救哇？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹有所不知，城中百姓，惧怕河伯闹水，跪求太守收回成命。太守急了要去 与河伯辩理，因而命我父子速备船只。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "船到哪里？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "五龙湾！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "五龙湾！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "嗳呀呀，娃子你好荒唐！那五龙湾水势凶猛，乃漳河漳河水中最险恶处，你忘 了十二年前，为父带你行船，经过那里，忽然一个浪头，打入船来险些将你这 小性命卷下河去，吓的你哭喊乱叫。那时为父一手将你抱在怀中，一手用力撑 船，不知念了多少神灵保佑，才得平安渡过。哎呀呀，至今想起还是后怕得很。 如今还要去什么五龙湾，难道你，你不要命了吗？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，你也忒以的胆小了。当年爹爹一手抱了孩儿，一手撑船，尚且渡过那五 龙湾，如今有孩儿与你掌舵，还怕他何来？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "你好不懂事，如今去的不只是你我父子，还有太守大人，太守的金身大驾，若 有闪失，我们担待不起呀！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "嗳，太守敢去，我们敢担！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "你敢担？我不敢。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹当真不去？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "我不敢去。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "那就孩儿自己去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽一把拉住崔承。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀，你更不能去啊。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "阿爹爹，太守为了百姓，不顾波涛之险，我们怎能畏难而退。爹爹既然不去， 待孩儿独自撑船，伺候太守大人前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承挣脱，下。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "娃子，你不要命了，你不能前去！娃子！娃子啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽追下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二幕启。漳河河旁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起三更鼓〗。西门豹內嗽。赵成举火把、韩广举高杆灯笼引西门豹同上。"
+        },
+        {
+          "character": "西门豹",
+          "type": "念",
+          "text": "为除百姓苦，借用父子船。"
+        },
+        {
+          "character": "赵成",
+          "type": "白",
+          "text": "崔承在哪里？"
+        },
+        {
+          "character": "崔承",
+          "type": "内白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承摇船上。水声。崔承跳上岸，拴好船。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "叩见太守。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "罢了。船可曾备好？"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "已然备好，请太守上船。"
+        },
+        {
+          "character": "赵成",
+          "type": "白",
+          "text": "搭了扶手。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹、赵成、韩广同上船。崔泽边喊边上。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "娃子！娃子呀！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹不要嚷，太守在此。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀，太……守啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽跪。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "那五龙湾乃有名的九漩十八拐，下面就是河伯水府，每年河伯娶妇，苇舟漂到 那里，滴溜溜打一个漩漩，就卷入水底。神灵所在怎能去得？太……守，你的 金身大驾要紧。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗳，我正要看看那九湾十八拐，会会那三头六臂神。向他问罪讲理，救你儿媳， 怕他作甚？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "不是呦，休道那五龙湾水势汹涌，就是这一路上，要经过乱石滩、鹅毛转、龙 门跳、鱼儿翻、淤泥蛤蟆口、逆水黄沙漩，俱是险恶之处，处处有精灵，常常 闹水怪。哎呀，厉害得紧，可怕得紧哪！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这些险恶之处，你是怎么晓得的呢？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "老汉行船四十余年，记得清，看得准，每到一处，暗暗祷告神灵，脑袋拴在腰 带上，闭眼一混，就混过去了。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "你既然过得去，本官怕者何来？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀，不怕一万，就怕万一。太守的贵体要紧，小人担待不起。依我相劝，太 守回衙安歇去吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽叩头，西门豹恼怒。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "大人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹抚玉。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "好，既然如此就命崔承前去。 崔承！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "速速开船！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承持桨欲行，崔泽边喊边一步跳上船去。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "好，我这六十岁的老虾皮，还拼不过你这个鱼苗儿么？你拿过来啵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽夺过崔承手中桨，用力撑船，船不动。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "你看，果然恼怒神灵，今日行船，就划它不动了！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "哪里是恼怒神灵，我还不曾解缆呢。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "畜生，你倒去解呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽羞怒，众人同笑。灯灭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "漳河河道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹在船中央，韩广、赵成各举火把、灯笼，分站西门豹两旁，崔泽在船头使桨，崔承在船尾掌舵。"
+        },
+        {
+          "character": "众人",
+          "type": "同高拨子导板",
+          "text": "月照水水映月清波潋滟，"
+        },
+        {
+          "character": "西门豹",
+          "type": "高拨子回龙",
+          "text": "云儿轻，星儿灿，明月倒挂水中天，光闪闪正好行船。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "跑景，景色变为水势，湍激之状。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "看仔细！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "船摇荡，众人同做身段。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "神灵保佑，过了乱石摊了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夺头。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "呀……"
+        },
+        {
+          "character": "西门豹",
+          "type": "高拨子原板",
+          "text": "一路行来观两岸， 河道不似乍行宽。 河堤渐平水漫漫！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "鹅毛转，看仔细！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起夺头。船回旋。崔泽、崔承同用力驶船，众人同做身段。"
+        },
+        {
+          "character": "西门豹",
+          "type": "高拨子原板",
+          "text": "水猛船轻自盘旋。 疑念重重问老汉——"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊，老人家。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "太守。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "我来问你，几十年来，这漳河河道就是这样愈行愈窄，这河堤就是这样愈行愈 低么？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "不是喏。"
+        },
+        {
+          "character": "崔泽",
+          "type": "高拨子原板",
+          "text": "二十年前河道宽。"
+        },
+        {
+          "character": "崔泽",
+          "type": "数板",
+          "text": "都只为，上游的龙神闲不惯，常到下游来玩玩。"
+        },
+        {
+          "character": "崔泽",
+          "type": "高拨子原板",
+          "text": "因此上常年闹水——"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀，龙门跳，看仔细！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起夺头。众人同做身段。"
+        },
+        {
+          "character": "崔泽",
+          "type": "高拨子原板",
+          "text": "河道变。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "原来如此。我再来问你，这漳河之水，从何而来？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "从山西漳岭而来。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "水源你可知晓？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "水源有二，一名清漳，一名浊漳，流到邺城以北，合而为一，就是这条漳河。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这上流头可还有别的支岔？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "当年这上流头支岔甚多，各有小龙掌管。后来五龙到此。打败了那些小龙它们 就独霸漳河，一旦性起，大肆咆哮。哎呀太守，这五龙可厉害着呢！"
+        },
+        {
+          "character": "崔泽",
+          "type": "高拨子原板",
+          "text": "它打败了小龙河水漩。 漳河归它们独霸占， 因此上波涛汹涌浊浪翻，"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "西门豹",
+          "type": "高拨子原板",
+          "text": "哪有五龙来交战， 群河争道促波澜。 水流不畅难疏散——"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "看仔细，鱼儿翻就在眼前了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同做身段。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯。"
+        },
+        {
+          "character": "西门豹",
+          "type": "高拨子原板",
+          "text": "挤成漩涡与逆湍。 岂是河伯为水患， 水涨自然漫庄田。 多年的鬼话真荒诞！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "太守，看仔细，蛤蟆口的蛤蟆，厉害得紧呢！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "倒要看看它的厉害！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "跑景，船过蛤蟆口。众人同做身段。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "神灵保佑，大蛤蟆睡了觉了。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哼哼！"
+        },
+        {
+          "character": "西门豹",
+          "type": "高拨子原板",
+          "text": "疑神疑怪也可怜。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀，黄沙漩！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大丝边。船打回旋。众人同做身段。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "神灵保佑，过了，过了。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "禀太守：五龙湾就在眼前！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "生死关头，就在这一湾了！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "老人家。"
+        },
+        {
+          "character": "西门豹",
+          "type": "高拨子散板",
+          "text": "本官在此，你放大了胆， 天大的祸事我承担。 速速催舟莫怠慢——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起四更鼓〗。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "娃子，你掌稳了舵哟！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。跑景，五龙湾。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "太守，这就是五龙湾。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "西门豹",
+          "type": "高拨子散板",
+          "text": "波涛滚滚扑面寒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "水声，船打回旋，水势更急。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "将船靠岸。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下船。西门豹极目四顾，大声呼喊。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "河伯安在？河伯哪里？本太守前来会你，快快出来，与俺辩理！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "恰有一片云彩遮住月光。崔泽自语。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "喂呀，鱼兵虾将，水怪夜叉，列队而来，河伯就在云端了。"
+        },
+        {
+          "character": "西门豹",
+          "type": "叫头",
+          "text": "河伯呀，河伯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽旁白。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎哟，搭了话了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹沉吟自语。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哪里是你的神通，哪里是你的灵应？分明是漳河水道，年久失修，下游不畅， 漫滥成灾。因而巫婆装神，三老弄鬼，廷掾与恶绅勾结，里正并愚民帮腔，积 习成风，变为恶俗，逼走了多少百姓，害死了多少儿女！西门豹若不亲到此处， 怎了此一桩公案也！"
+        },
+        {
+          "character": "西门豹",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊……哈哈哈……"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守，小人不敢动问，这河伯娶妇之事，到底怎么办哪？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹微微一笑。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "你且放心，到时还你妻子就是。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "当真？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "太守与河伯讲了话了，你就放心了吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承怀疑自语。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "当真的商量好了么？"
+        },
+        {
+          "character": "西门豹",
+          "type": "笑",
+          "text": "哈哈哈哈…… （西门豹抚摸佩玉，观看水势。思索治水之策，计划如何惩办巫婆、三老、廷掾、里正、乡绅。另一端崔泽 与韩广私语。）"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "啊老人家，你家太守，有何神通，能与河伯讲话呀？"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩广见西门豹抚玉。"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "你来看，我家太守，身配玮玉一方，此玉神通广大。能够通天入地，召神治鬼。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "哎呀呀，这就是了。怪不得太守不怕这九漩十八拐的五龙湾，原来——"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "怎么样？"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "太守的玮玉，大有神通啊。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这玮玉么……"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "神通广大呀！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹悚然一惊，继而大笑。"
+        },
+        {
+          "character": "西门豹",
+          "type": "笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "玮玉何曾能通神， 亏它助我改性情。 还仗那翟璜大夫良言赠——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起五更鼓〗。天明，晓日东升。"
+        },
+        {
+          "character": "韩广",
+          "type": "白",
+          "text": "太守，天已明亮，回去了吧。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "好。今日十七，明日十八，回得衙去，晓谕百姓。河伯娶妇，吉期不改，本太 守还要亲到斋宫拈香。"
+        },
+        {
+          "character": "韩广、赵成",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹向崔泽。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "老人家，抖擞精神，驾船回去。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "好好好，太守请来登舟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同上船。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "太守啊！"
+        },
+        {
+          "character": "崔泽",
+          "type": "念",
+          "text": "你的玮玉有神通，小人我的力无穷。娃子你要掌稳舵，回船——好似一阵风。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "着、着、着。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "正所谓一帆风顺驱散朦胧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽精神陡长，用力撑船、喊船号子。水声。送船下。"
+        },
+        {
+          "character": "西门豹",
+          "type": "stage",
+          "text": "【第七场：除弊】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "五月十八日。幕前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四神差、大神差各持太平鼓同上，边舞蹈边念。"
+        },
+        {
+          "character": "众神差",
+          "type": "同念",
+          "text": "河伯娶妇庆良辰，太守亲临来送亲。圣母传话众百姓，多奉贡献表虔诚。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众神差摇太平鼓同下。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同内白",
+          "text": "谨遵神谕。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶化成引众百姓各捧香盘祭品同上。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同吹腔",
+          "text": "河伯神真真有灵应， 感动太守来送亲。 看今年香火更兴盛， 多供奉为求安宁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同下。贫妇举香上。"
+        },
+        {
+          "character": "贫妇",
+          "type": "叫头",
+          "text": "苦啊！"
+        },
+        {
+          "character": "贫妇",
+          "type": "吹腔",
+          "text": "枵腹空空粒米未进， 里正逼我来祭神。 我女儿曾被选前年丧命， 对景伤情暗把泪吞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贫妇想到伤心处，手中香不觉落地，一时惊觉，俯身拾起。"
+        },
+        {
+          "character": "陶母",
+          "type": "内白",
+          "text": "姝儿啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母精神错乱、直着眼睛、手提竹篮在丝边中跪上，直奔贫妇，抓住不放。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "姝儿，姝儿，苦命的姝儿呀！"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "哎哟，陶大娘，您这是怎么啦？"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "儿啊！"
+        },
+        {
+          "character": "陶母",
+          "type": "二黄散板",
+          "text": "漳河波涛滚断肠， 我儿何罪入水乡。 娘与娇儿同蹈波浪——"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "陶大娘，您认错啦，我不是您的姝儿！您的姝儿选做河伯夫人，现在斋宫，咳 ——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贫妇拭泪。"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "候嫁哪！"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "哦，这就是斋宫了！姝儿，有什么言语，快快说与为娘啊……"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "这是怎么话说的！我不是陶姝！"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "啊？你不是陶姝？嗳，你是陶姝，是的，咳，儿啊！"
+        },
+        {
+          "character": "陶母",
+          "type": "二黄散板",
+          "text": "姝儿不必哄为娘。 实指望崔家迎亲逃出魔掌， 不提防刹那间变起非常。"
+        },
+        {
+          "character": "陶母",
+          "type": "哭头",
+          "text": "哦哦哦……陶姝儿啊……"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "陶大娘，您清醒清醒，细细瞧瞧，我是东大街宝儿他妈。我们家的宝儿，前年 选作了河伯夫人，也是今天——五月十八，坐着苇舟，漂到五龙湾，一下子就 不回头啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贫妇哭。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "怎么？你是宝儿她娘？"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "是啊，我们家宝儿不是前年死在五龙湾了吗？"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "我的姝儿呢？"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "您的姝儿，现在河伯庙斋宫里啊！"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "我找我的姝儿。"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "您别着急，等我带您去。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "有劳你了。咳，姝儿啊……"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "宝儿啊……咳！这才是——"
+        },
+        {
+          "character": "贫妇",
+          "type": "念",
+          "text": "旧泪未收新泪湧，伤心前后两心同！"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "您跟我走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贫妇、陶母同做双身段。"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "您跟我走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贫妇、陶母同做双身段，陶母大声喊叫。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "我的姝儿啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "远处河伯庙中铙鼓声大作。"
+        },
+        {
+          "character": "贫妇",
+          "type": "白",
+          "text": "您别哭，跟我上河伯庙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贫妇挽陶母急同下。"
+        },
+        {
+          "character": "贫妇",
+          "type": "stage",
+          "text": "（二幕启。小边设河伯庙侧新搭的神棚，斜场一座高台，上首椅上是河伯神像，下首椅上空着，高台前设神 案，前面供桌上摆蜡扦一对，巨烛高烧，左灯碗，右香筒，居中一长方香炉，最外摆供品。大边露出漳河一 角，清波荡漾。） （廷掾、三老、里正、乡绅扬眉吐气、兴高采烈同上。鼓声加重。四小巫各举香幡宝盖引大巫同上。大巫神 气十足坐在神案之前。铙鼓声渐变为细乐声，渐渐低下。）"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "河伯迎亲好风光，"
+        },
+        {
+          "character": "三老",
+          "type": "念",
+          "text": "太守亲自来拈香。"
+        },
+        {
+          "character": "里正",
+          "type": "念",
+          "text": "今年香火更盛旺，"
+        },
+        {
+          "character": "乡绅",
+          "type": "念",
+          "text": "保佑邺城降吉祥。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "圣母，我说什么来着，别看这位太守是武将出身，性情暴躁，架不住习俗已深， 民意难违。今年太守亲自送亲，轰动了全城。您看香火不是比往年更盛？供 品不是比往年更多吗？话可说回来啦，要不是我挺掾调度有方——"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "我三老安排得当——"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "我的三寸不烂之舌——"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "我的东跑西颠之腿——"
+        },
+        {
+          "character": "廷掾、三老、乡绅、里正",
+          "type": "同白",
+          "text": "怎么能够……"
+        },
+        {
+          "character": "廷掾、三老、乡绅、里正",
+          "type": "同笑",
+          "text": "哈哈哈哈……"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "哼哼，可是列位还忘了一件！"
+        },
+        {
+          "character": "廷掾、三老、乡绅、里正",
+          "type": "同白",
+          "text": "自然还得仰仗圣母的法力！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "那倒不在话下。你们可曾注意，百姓跪衙的那一天，出首告状之人吗？"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "哈哈哈，圣母放心，当时太守就把他扣押起来啦。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "这倒罢了。可是斋宫还有一个活口哪，少时太守来到，她要去……"
+        },
+        {
+          "character": "三老、乡绅、里正、廷掾",
+          "type": "同白",
+          "text": "哎呀，这一层倒没想到！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫微笑。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "嗬嗬嗬……列位只顾得意，把这要紧的一手儿可就忘啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫说着从怀里掏出药。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "哎，对！这升仙酒还没给她喝哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "里正伸手。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "您把这个给我，配了酒给她送去。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "你去，她喝吗？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老伸手。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "我去。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "您去，她饮吗？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "要不然我去。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "我去。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "算啦，算啦。这又不是郑家的银子，林家的布施，何必劳动列位哪。"
+        },
+        {
+          "character": "三老、乡绅、里正、廷掾",
+          "type": "同白",
+          "text": "难道师傅亲自……"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "嗬嗬嗬，本师早已料就，自有代劳之人。"
+        },
+        {
+          "character": "三老、乡绅、里正、廷掾",
+          "type": "同白",
+          "text": "是谁能教她把这个喝下去呀？"
+        },
+        {
+          "character": "陶母",
+          "type": "内白",
+          "text": "陶姝儿啊……"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "你们听，代劳之人不是来了吗？"
+        },
+        {
+          "character": "三老、乡绅、里正、廷掾",
+          "type": "同白",
+          "text": "嘿，还是师傅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "乱锤。大神差急上。"
+        },
+        {
+          "character": "大神差",
+          "type": "白",
+          "text": "陶家老妇，闯入神棚。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "别拦着，叫她进来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四神差押陶母同上。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "陶姝儿在哪里？我的姝儿在哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫沉下脸，下椅。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "啊，胆大陶婆，闯入神棚，扰乱神事，你不怕罪过吗？"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "我要见我的姝儿。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "她已然做了河伯夫人，少时就要升仙啦！"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "神人同是一理，今日我母女分别，怎不容我们说两句离娘话，吃一口离娘酒？"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "好，吾神慈悲，容你一见，话要少说，酒倒可以多饮。酒在哪儿哪？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母送上竹篮。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "酒在这里。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫取出酒壶，示意小巫，暗递药包。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "供在神案上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小巫暗将药倾于酒内。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "来呀，请出夫人升座，受俗家一礼。"
+        },
+        {
+          "character": "小巫",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小巫下。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "少时敬酒完毕，速离神棚，可别啰嗦。"
+        },
+        {
+          "character": "小巫",
+          "type": "内白",
+          "text": "夫人起驾！ （起悲凉牌子。小巫引陶姝宫装同上。陶姝两眼发直，被小巫搀扶上高台，小巫把陶妹强按在河伯神像下首 空椅上。陶母大叫。）"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "陶姝儿，姝儿啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝惊觉，欲扑下来，被按住。"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "娘啊！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "徒弟们，小心伺候着！可别惊了夫人的驾啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝屡欲扑下。"
+        },
+        {
+          "character": "陶姝",
+          "type": "二黄散板",
+          "text": "几日斋宫锁铁墙， 香烟弥漫走豺狼。 盼得母女见一面， 眼见得顷刻间就永别亲娘。 恨不得扑向娘怀抱——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小乱锤。陶姝挺身向下扑去，小巫用力按住。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "陶婆子听着，有话快说，有酒快敬，吉时一到，赶出神棚。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝大哭。"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "娘啊……"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "儿啊！"
+        },
+        {
+          "character": "陶母",
+          "type": "二黄散板",
+          "text": "似钢刀割断了娘的肝肠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "搓锤。陶母向前扑，众神差同拦住，陶姝向下扑，小巫拦住。"
+        },
+        {
+          "character": "陶母",
+          "type": "二黄原板",
+          "text": "我陶家虽贫穷，儿也是娇生惯养， 配良缘嫁得个少年渔郎。 不料想千防万防防不到命中魍魉， 大好青春付与汪洋。 娘平生信河伯从不敢乱讲， 今日里见我儿你宫样装、似临葬、如缚双手绑冥桩，这神场何啻法场。"
+        },
+        {
+          "character": "三老、乡绅、里正、廷掾",
+          "type": "同白",
+          "text": "圣母，吉时可是快到啦，别叫她说起来没完啦！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "陶老婆子，吉时已到，快快敬酒吧。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "圣母啊！"
+        },
+        {
+          "character": "陶母",
+          "type": "二黄散板",
+          "text": "还望你大慈大悲积德无量， 这死别再赏我片刻时光。 我的儿有何言语快对娘讲——"
+        },
+        {
+          "character": "陶姝",
+          "type": "二黄原板",
+          "text": "儿纵有千言万语也难诉衷肠。 唯有一言娘莫忘， 遍告那邺城的姐妹记心旁： 劝她们休恋这土生土长， 快快逃出这蛇蝎之乡。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "她再不敬酒，就把她轰出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哑笛。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "我即刻敬酒，我这就敬酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母颤抖地取过案上的酒壶，斟上一杯。"
+        },
+        {
+          "character": "陶母",
+          "type": "叫头",
+          "text": "姝儿啊，陶姝儿。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "儿平日滴酒不饮，今日死别生离，这杯酒可要吃下去，就算为娘活祭于你了啊……"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "我说徒弟们，伺候夫人饮下这杯离娘酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "哑笛。小巫小心翼翼接过陶母的酒杯，递给陶姝。"
+        },
+        {
+          "character": "陶姝",
+          "type": "白",
+          "text": "娘啊！"
+        },
+        {
+          "character": "陶姝",
+          "type": "西皮散板",
+          "text": "一杯酒带来娘温暖， 临死何羞面色酣。 强抑咽喉把酒饮，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝把酒一饮而尽，顿时说不出话来。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "姝儿，姝儿，姝……儿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝瞪眼张口，望着陶母。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "哈哈哈……夫人已然成神，仙凡相隔，再不能跟俗人说话啦！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "快把她轰出神棚！"
+        },
+        {
+          "character": "众神差",
+          "type": "同白",
+          "text": "快快走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众神差欲驱赶陶母。"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "太守到！"
+        },
+        {
+          "character": "众神差",
+          "type": "同白",
+          "text": "太守到！"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "快快迎接太守。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫神气十足地坐到神案前，闭目。陶母闪到众人之后。四兵卒、四差役、韩广、赵成引西门豹同上。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮快板",
+          "text": "积俗难返今始信， 多年巫风流毒深。 夜探漳河知底蕴， 恨吏巫捏造河伯骗愚民。 为解百姓痴迷病， 某假意吉服正冠膜拜参神来送亲。 毕恭毕敬我把神棚进，"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "廷掾孙环。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "三老公孙卯。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "里正张辛。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "末绅庞厉。"
+        },
+        {
+          "character": "廷掾、三老、里正、乡绅",
+          "type": "同白",
+          "text": "参见太守。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "免。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "圣母入坛，不能迎接大人，大人恕罪。"
+        },
+        {
+          "character": "西门豹",
+          "type": "笑",
+          "text": "哈哈哈哈！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "她勤劳神事某谅情。 速速唤集众百姓， 官民一体就拜河神。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "撞钟擂鼓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "铙鼓法器同时大作。廷掾、三老、里正、乡绅同拜神。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "众乡邻进棚拜神哪！ （陶化成引众百姓同上。贫妇一边拭泪一边上。崔泽、崔承同上。陶化成引众百姓同拜神，贫妇无奈，随众 人同跪倒。崔泽跪倒，崔承不跪，崔泽强拉，崔承终不跪。陶姝在高台望见崔承，流泪，崔承相对流泪。） （四小巫同在台上监视陶姝，表面上是缠扶，实则束缚其手脚。众神差在下面监视陶母，陶母只有仰面瞠视、 流泪。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹扫看陶姝、陶母、崔承、众人神色，暗暗会意。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同拜神毕。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "起乐舞神！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起神乐。大巫拿起太平鼓，跳神。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "礼成。请圣母退坛。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫归座。大巫伸懒腰。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "啊……喝……"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "快快见过太守。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "哎呀，方才河伯临坛，请恕失迎之罪。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哈哈哈哈，神婆你大大的辛苦了！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "此乃小巫分所当然。倒是大人亲来送亲，感动河伯，实乃邺郡之幸。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "是啊，太守如此虔诚，真乃邺郡全城之幸也。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "本官职守此土，理应安堵民生，怎能不亲自前来——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹抬头一看陶姝。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "瞻仰。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝见西门豹看，口角翕动，泪流满面。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "圣母，吉时可是到啦！"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "启禀太守：吉时已到，请大人亲送娘娘，驾归水宫吧。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "依礼而行。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "苇舟伺候。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "苇舟伺候。"
+        },
+        {
+          "character": "小巫",
+          "type": "白",
+          "text": "请新娘娘起驾。 （起神乐。四小巫扶陶姝同下高台。陶母、贫妇直着看陶姝，频频拭泪。崔泽、崔承关心陶姝的安全，眼盯 西门豹，看西门豹有何动静。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹若无其事，任四小巫把陶姝扶向棚外走去。崔承急得欲喊出来，崔泽忙捂住崔承嘴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "在陶姝被扶出神棚时，西门豹忽然大喊一声。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "河伯夫人请转！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝闻喊声，本能地转身扑向西门豹，四小巫未及提防，陶姝跪于西门豹面前。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？河伯夫人，这算何意？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶姝口不能言，仰面流泪。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？为何不言不语？"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "太守，她已然脱胎换骨，成了神啦，哪能再跟凡人说话呀？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "她既然成神，为何反来跪我？"
+        },
+        {
+          "character": "大巫、四小巫",
+          "type": "同白",
+          "text": "呵这……"
+        },
+        {
+          "character": "西门豹",
+          "type": "叫头",
+          "text": "列位乡邻！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "我想河伯威灵，年年娶妇，必选宿根深厚之女，方能匹配，你道是也不是？"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "是啊，圣母也曾嘱告我等，河伯夫人若非宿根深厚之女，河伯定然降罪。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "神婆，可是如此？"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "不错，正是。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "既然如此，将此女扶坐一旁，本太守另有话讲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人扶陶姝坐在大巫的位子上。"
+        },
+        {
+          "character": "西门豹",
+          "type": "叫头",
+          "text": "众位乡邻。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "你看此女，若是宿根深厚，有河伯夫人之份，必然是庄严肃穆，霁色和颜。如 今，她满面愁容，见我就跪，好似那祭坛的牛羊，哪有神缘，怎结仙侣？"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "太守，送聘此女，已然奉过神谕的啦！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "说什么已奉神谕，分明尔等，粗心大意，蒙蔽神灵。若将此女送入水宫，恼怒 河神，我邺城俱受洪水之灾，你们哪个担待？"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "哎呀，是啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫、三老、里正、乡绅、廷掾同互递眼色。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "既已奉了神谕，河伯不会怪罪，大人请放宽心。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "此事干系甚重，休道本官，就是全城父老，又怎能放心得下？"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "太守真是爱民如子。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "此事就烦神婆与河神商议，另选新妇，改期迎娶。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "太守，那可不成！佳期乃河伯所定，岂能更改？"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "是啊，年年五月十八，万万不能更改。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承正欲搭话，西门豹即驳斥里正。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哼哼！先选郑女，又改陶姝。既然改之于前，怎不能改之于后呢？"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "太守说的是呀。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "好吧，既然如此，待我召请河伯临坛！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫欲用下神的办法，哄骗过去。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "呵嚏……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹大喝。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫被这一喊，神没了，乖乖地走过去。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "就烦你亲自下水，面见河伯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "一锣。众百姓同为之一震。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "大……大人，奏明河伯，坛前即可行事，何必下水呀？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "怎好劳动河伯前来，还是你亲自到五龙湾入水面奏。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "圣母不习水性，焉能去得了五龙湾哪？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "圣母既有神通，入水何在话下。 神婆，你要快快的——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹逼大巫，大巫后退，打呵嚏，欲再下神。西门豹作虎势发威。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大巫的神被吓回去。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮小导板",
+          "text": "有劳你入水宫，官民同感！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "这差役嘚！"
+        },
+        {
+          "character": "众差役",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "伺候圣母入水者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖望家乡〗。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮快板",
+          "text": "转奏河伯多海涵。 新妇另把淑女选， 改定良辰再结神缘。 踏清波会河伯速去速返——"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "大人，我……不能啊……"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "送下水去。"
+        },
+        {
+          "character": "大巫",
+          "type": "白",
+          "text": "哎呦，我的妈呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众差役同推大巫下水，大巫被波浪卷去。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮摇板",
+          "text": "你看她御风凌波去如烟。 谕尔等秉虔诚顶礼祷念——"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "啊，太守大人，圣母奏明了河伯，我的女儿就可以不做夫人了么？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "且待神婆回音到来再讲。各位父老，大家肃礼，敬候河伯回示者。 （全场肃然。西门豹为首，众人同躬身静默于神坛之前。三老、里正、廷掾、乡绅神情不安抖做一团。静场 片刻。）"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "入水宫却为何要这多时间！ 想是河伯开盛宴， 宾主酬酢费周旋。 莫不然再差人重催一遍——"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊廷掾。"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "卑、卑、卑……卑职在。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "历年神款，何人催讨？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "乃三老、里正二人催讨。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哦，三老、里正……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老、里正闻言大惊。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "里正年轻力壮，何妨入水催请。"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "我说大人，催神款是在旱岸儿上，下水我可不成，我见水就晕。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮快板",
+          "text": "为民造福敢辞难。 你与河伯催神款， 交呈账目常往还。 叫人来请里正——"
+        },
+        {
+          "character": "里正",
+          "type": "白",
+          "text": "大人，大人，我……"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮快板",
+          "text": "速登彼岸，"
+        },
+        {
+          "character": "众差役",
+          "type": "同白",
+          "text": "请你下水。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众差役同推里正下水。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "哎呀……"
+        },
+        {
+          "character": "众百姓",
+          "type": "同散西皮板",
+          "text": "身陷波涛看他怎样生还。"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "嘿嘿，他回不来了！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "爹爹，里正常与河伯送交神款，想必也还有些道道儿呢！"
+        },
+        {
+          "character": "崔泽",
+          "type": "白",
+          "text": "他有什么道道儿，进了水他就完了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹一望、两望。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮摇板",
+          "text": "为什么烟波渺渺又不见回转，"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哦哦是了，想是里正，不会讲话，岂不误了大事。 啊公孙三老！"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "大、大、大……大人卑职在。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "想你身为教化之官，善于辞令，谈吐风雅，此事么……我看是非你不可了！"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "哎呦我的老大人！卑职一来年老力衰，二来我是个寒腿沾水就疼，不信您瞧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老装瘸。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "我就是这么一瘸一拐嗒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹逼三老。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三老吓得不瘸。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮快板",
+          "text": "当仁不让莫迟延。 你办神差多干练， 老当益壮快向前。 众百姓请三老——"
+        },
+        {
+          "character": "众百姓",
+          "type": "同西皮快板",
+          "text": "以全城为念，"
+        },
+        {
+          "character": "崔承",
+          "type": "西皮快板",
+          "text": "卖一卖你那老精神，去把河伯的驾参。"
+        },
+        {
+          "character": "三老",
+          "type": "白",
+          "text": "大人，我真不成噢！"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "你下去啵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔承推三老下水。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "后生，你真来莽撞。"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "三老行动不方便， 他下水必须有人搀。 何人与他同结伴？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹一望乡绅，再望廷掾，乡绅 、廷掾同颤抖。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "庞绅，廷掾！"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "卑职在。"
+        },
+        {
+          "character": "乡绅",
+          "type": "白",
+          "text": "草民在。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "你二人快去照应三老！"
+        },
+        {
+          "character": "西门豹",
+          "type": "西皮散板",
+          "text": "同入水宫共踏波澜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "廷掾、乡绅忙同跪倒。"
+        },
+        {
+          "character": "廷掾、乡绅",
+          "type": "同白",
+          "text": "太守饶命，我二人罪该万死！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小巫同跪。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "啊？你二人何罪之有？"
+        },
+        {
+          "character": "廷掾、乡绅",
+          "type": "同白",
+          "text": "大人容禀。"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "漳河哪里有河神，"
+        },
+        {
+          "character": "乡绅",
+          "type": "念",
+          "text": "俱是巫婆哄骗人。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "哦！"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "假说河伯要娶妇，"
+        },
+        {
+          "character": "乡绅",
+          "type": "念",
+          "text": "要挟百姓出金银。"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "原来如此！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "你们每年搜刮多少？"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "每年搜刮数百万，我等五人按股分。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "怎样诈取这些金银？"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "选聘夫人有戏法儿，巫婆装腔假下神。富家出钱能卖放，"
+        },
+        {
+          "character": "乡绅",
+          "type": "念",
+          "text": "贫女无钱做夫人。这是罪民真情话，"
+        },
+        {
+          "character": "廷掾",
+          "type": "念",
+          "text": "大人饶命多开恩。"
+        },
+        {
+          "character": "陶母、贫妇",
+          "type": "同哭",
+          "text": "儿啊……"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "我来问你，那被选之女，难道都服服帖帖地送死不成？"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "哎呀大人哪，那巫婆真乃意狠心毒，她藏有一种迷药，想法让新妇吃下去，立 即就口紧舌硬，不能出声啦！"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "哎呀太守，快救救我的女儿吧！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "廷掾",
+          "type": "白",
+          "text": "大人不必着急，一口凉水就解。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "差役甲取水，向陶姝喷水。陶姝清醒，扑向陶母怀中。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "再世的姣儿啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陶母指崔承。"
+        },
+        {
+          "character": "陶母",
+          "type": "白",
+          "text": "你们小夫妻又团圆了。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "人役们！"
+        },
+        {
+          "character": "众差役",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "将廷掾与恶绅锁了，带回衙去，听候审问。"
+        },
+        {
+          "character": "众差役",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众差役领廷掾、乡绅同下。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "列位叔伯大娘，河伯娶妇，骗人多年，今日贤太守为民除害，真乃大快人心！"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "真乃大快人心！"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "哎呀，不妥啊，不妥！他等舞弊害民是真，河伯闹水，却也不假。今若不信河 伯，洪水成灾，如何是好？"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "这个……"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "哈哈哈哈……洪水成灾，另有个做怪的东西。"
+        },
+        {
+          "character": "陶化成",
+          "type": "白",
+          "text": "难道不是河伯显灵，这怪在哪里呀？"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "嘿嘿，这倒要尔等见识见识。 韩广、赵成，准备船只，某与父老，一同漫游漳河！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "灯灭变景。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "灯明。漳河中流。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔泽驾船载西门豹、陶化成、二百姓。崔承驾，载陶母、陶姝、二百姓。"
+        },
+        {
+          "character": "众人",
+          "type": "同大锁呐曲子",
+          "text": "顺水行船， 蒙太守沿河指点， 多年疑虑，今始霍然。 哪有河伯在深渊， 俱是那巫婆、三老将人骗。 莽漳河上游多泛滥， 下游淤塞难疏散， 不开河道不修堤， 怎怪洪水常为患。"
+        },
+        {
+          "character": "西门豹",
+          "type": "大唢呐曲子",
+          "text": "开渠十二道， 引水灌良田。 洪水不成灾， 还与人方便。"
+        },
+        {
+          "character": "众人",
+          "type": "同大唢呐曲子",
+          "text": "今始知移祸为福在于人， 说神道鬼皆妄诞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "水声。郑兴、郑婉、众百姓同乘一船，自远而至。"
+        },
+        {
+          "character": "崔承",
+          "type": "白",
+          "text": "太守请看，恶俗已除，逃难的乡邻们都回来了。"
+        },
+        {
+          "character": "众人",
+          "type": "同大唢呐曲子",
+          "text": "皆大欢喜笑开颜，"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "请太守，速传钧命，"
+        },
+        {
+          "character": "众人",
+          "type": "同大唢呐曲子",
+          "text": "开渠引水修堤堰。"
+        },
+        {
+          "character": "西门豹",
+          "type": "白",
+          "text": "即日开工！"
+        },
+        {
+          "character": "众百姓",
+          "type": "同白",
+          "text": "谨遵台谕！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西门豹抚玉大笑。"
+        },
+        {
+          "character": "西门豹",
+          "type": "笑",
+          "text": "哈哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "script_id": "70902130",
+  "title": "长生殿·埋玉",
+  "alias": [],
+  "source": "俞振飞剧本选",
+  "characters": [
+    {
+      "name": "唐明皇",
+      "hangdang": "冠生"
+    },
+    {
+      "name": "杨贵妃",
+      "hangdang": "五旦"
+    },
+    {
+      "name": "高力士",
+      "hangdang": "丑"
+    },
+    {
+      "name": "陈元礼",
+      "hangdang": "末"
+    }
+  ],
+  "plot": "唐明皇避兵幸蜀，行至马嵬驿，十分劳顿。护驾军士以杨国忠专权弄国，激成变乱，就杀了杨国忠，又请唐\n明皇将杨贵妃割恩正法，以谢天下。唐明皇不允，众军哗然，不得已，乃以白绫缢死了杨贵妃。",
+  "notes": "此剧写李、杨的生离死别，唱法与《惊变》不同，重在语气和力度，必须把难以割舍的深切感情和变生仓卒\n的紧张气氛，强烈地表现出来，才能感人。\n末尾同场曲〖朝元令〗，在齐唱中队形变化繁复，要求整齐紧凑。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众军士引陈元礼同上。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "念",
+          "text": "拥旄仗钺前驱，前驱。 羽林拥卫銮舆，銮舆。 匆匆避贼就征途。 人跋涉，路崎岖， 知何日，到成都？"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "俺，右龙武将军陈元礼是也。因禄山造反，破了潼关，圣上避兵幸蜀，命俺统 领禁军护驾。行了一阵，早到马嵬驿了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众军士内同呐喊。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "众兵为何呐喊？"
+        },
+        {
+          "character": "众军士",
+          "type": "内同白",
+          "text": "禄山造反，圣驾播迁，都是杨国忠专权弄国，激成变乱。若不杀此贼，我等誓 不护驾！"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "众军不必鼓噪，暂且安营，待我奏过圣上，自有定夺。"
+        },
+        {
+          "character": "众军士",
+          "type": "内同白",
+          "text": "吓。"
+        },
+        {
+          "character": "陈元礼、众军士",
+          "type": "同念",
+          "text": "人跋涉，路崎岖， 知何日到成都？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈元礼、众军士同下。"
+        },
+        {
+          "character": "高力士",
+          "type": "内白",
+          "text": "嘚，启驾。"
+        },
+        {
+          "character": "众军士",
+          "type": "内同白",
+          "text": "吓。"
+        },
+        {
+          "character": "众人",
+          "type": "内同粉孩儿",
+          "text": "匆匆地弃宫闱，珠泪洒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监、宫娥、高力士引唐明皇、杨贵妃同上。"
+        },
+        {
+          "character": "众人",
+          "type": "同粉孩儿",
+          "text": "叹冷冷清清半张銮驾！ 望成都只在天一涯， 渐行来渐远京华。 五六搭剩水残山， 两三间空舍崩瓦。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "启万岁爷，来此已是马嵬驿了。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "吩咐暂住銮驾。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "领旨。吩咐暂住銮驾。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "咳！寡人不道，误宠逆臣，遭此播迁，悔之无及！ 妃子，只是累你劳顿，如之奈何？"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "白",
+          "text": "臣妾自应随驾，焉敢辞劳，但愿早早破贼，大家还都便好。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内呐喊。"
+        },
+        {
+          "character": "众军士",
+          "type": "内同白",
+          "text": "要杀杨国忠的随俺来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨国忠逃上，四将同追上，将杨国忠杀死，同下。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "吓！众军为何呐喊？ 高力士！"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "宣陈元礼进见。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "领旨。 万岁有旨：快宣陈元礼进见。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "内白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈元礼上。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "臣陈元礼见驾，愿吾皇万岁，万万岁。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "万万岁。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "众军为何呐喊？"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "臣启陛下：禄山造反，都是杨国忠专权弄国，激怒六军，众军竟将杨国忠杀了。"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "白",
+          "text": "啊呀！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "吖！有这等事？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "唐明皇想。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "这也罢了。传旨起驾！"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "领旨。 嘚！众军听者：圣上赦尔等擅杀之罪，速速起驾。"
+        },
+        {
+          "character": "众军士",
+          "type": "内同白",
+          "text": "国忠虽诛，娘娘尚在，不杀贵妃，誓不护驾！"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "臣启陛下：众军言道，国忠虽诛，娘娘尚在，不肯起行，望陛下割恩正法！"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "白",
+          "text": "啊呀！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "吓，啊呀，这话从何说起！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "红芍药",
+          "text": "国忠纵有罪当加， 现如今已被劫杀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨贵妃哭。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "红芍药",
+          "text": "妃子在深宫自随驾， 又何干六军疑讶？"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "圣谕极明。只是军心已变，如之奈何？"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "将军！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "红芍药",
+          "text": "卿家，速速晓谕他， 恁狂言没些高下？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内呐喊。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "陛下呵！"
+        },
+        {
+          "character": "陈元礼",
+          "type": "红芍药",
+          "text": "听军中恁地喧哗， 教微臣怎生弹压？"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "白",
+          "text": "陛下呵！"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "耍孩儿",
+          "text": "事出非常堪惊诧！ 已痛兄遭戮，奈臣妾又受波查，"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "妃子不必害怕，有寡人在此。"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "耍孩儿",
+          "text": "是前生事已定，薄命应折罚，"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "妃子不必害怕，有寡人在此。"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "耍孩儿",
+          "text": "望吾皇急抛奴罢！ 只一句伤心话。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "吓，有寡人在此。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "臣启陛下：娘娘虽则无罪，国忠实系亲兄，今在陛下左右，军心不安。若军心 安，则陛下安矣。伏乞陛下三思！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "喔，喔，喔！啊呀！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "会河阳",
+          "text": "无语沉吟，啊呀！意如乱麻！"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "会河阳",
+          "text": "痛生生怎地舍官家！"
+        },
+        {
+          "character": "唐明皇、杨贵妃",
+          "type": "同会河阳",
+          "text": "可怜一对鸳鸯风吹浪打， 直恁地遭强霸。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内呐喊。"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "会河阳",
+          "text": "众军逼得奴心惊唬！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "会河阳",
+          "text": "啊呀妃子吓！ 好教我难禁架！ 高力士"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "啊呀！万岁爷不好了！外面军士已将驿亭围住，若再迟延，恐有他变，如何是 好？"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "陈元礼过来！你快去安抚六军，说朕自有道理。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈元礼下。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "stage",
+          "text": "杨贵妃"
+        },
+        {
+          "character": "陈元礼",
+          "type": "同哭",
+          "text": "吓！啊呀（妃子）（陛下）吓！"
+        },
+        {
+          "character": "唐明皇、杨贵妃",
+          "type": "白",
+          "text": "啊呀，万岁爷吓！"
+        },
+        {
+          "character": "唐明皇、杨贵妃",
+          "type": "缕缕金",
+          "text": "魂飞颤，泪交加。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "缕缕金",
+          "text": "堂堂天子贵，不及莫愁家。"
+        },
+        {
+          "character": "唐明皇、杨贵妃",
+          "type": "同缕缕金",
+          "text": "难道把恩和义霎时抛下！ 杨贵妃"
+        },
+        {
+          "character": "唐明皇、杨贵妃",
+          "type": "白",
+          "text": "臣妾受皇上深恩，杀身难报，今事势危急，望赐自尽，以定军心，陛下才得安 稳至蜀。妾虽死犹生也！"
+        },
+        {
+          "character": "唐明皇、杨贵妃",
+          "type": "缕缕金",
+          "text": "算将来无计解军哗， 残生愿甘罢，残生愿甘罢。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "妃子！说哪里话来！你若捐生，朕虽有九五之尊，四海之富，要他则甚？宁可 国破家亡，啊呀，决不肯抛舍你的㖸！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "摊破地锦花",
+          "text": "恁喧哗，我一谜装聋哑， 风雨摧残，断送天涯。 再禁加，拚代你陨黄沙！ 杨贵妃"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "陛下虽则恩深，但事已至此，无路求生，若再留恋，恐玉石俱焚，益增罪戾。 望陛下舍妾之身，啊呀，以保宗社㖸！"
+        },
+        {
+          "character": "总是朕差，现放着一朵娇花、高力士",
+          "type": "白",
+          "text": "啊呀万岁呀！娘娘既慷慨捐生，望万岁爷以社稷为重，勉强割恩了罢！"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "妃子，你既执意如此……朕也做不得主了。 高力士，只得但凭娘娘罢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "唐明皇下。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "stage",
+          "text": "杨贵妃"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": "万岁，万岁，万万岁！"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "众军听者！"
+        },
+        {
+          "character": "众军士",
+          "type": "内同白",
+          "text": "嗄！"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "圣上已赐娘娘自尽！谢恩！"
+        },
+        {
+          "character": "众军士",
+          "type": "内同白",
+          "text": "万岁，万岁，万万岁！"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "请娘娘到后边去。"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "苦相思",
+          "text": "百年离别在须臾， 一代红颜为君尽。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "这里有座佛堂在此，请娘娘进去。"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "白",
+          "text": "吓，啊呀佛爷吓，佛爷，念杨玉环呵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "越恁好"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "stage",
+          "text": "罪孽深重，罪孽深重， 望吾佛度脱咱。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "佛爷保佑娘娘死了，好处升天。娘娘有甚话儿，吩咐奴婢几句？"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "白",
+          "text": "高力士，圣上春秋已高，我死之后，只有你是旧人，能体圣意，须要小心服侍。 再为我传奏圣上，今后休要念我也！"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": "奴婢晓得。"
+        },
+        {
+          "character": "杨贵妃",
+          "type": "白",
+          "text": "还有一事，这金钗钿盒，是圣上定情所赐，你将来与我殉葬，万万不可遗失了！"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "杨贵妃",
+          "type": "越恁好",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈元礼上。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "杨贵妃",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "越恁好"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内呐喊。"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "杨贵妃",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "越恁好"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨贵妃下。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "唐明皇上。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "念",
+          "text": ""
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "红绣鞋"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "红绣鞋"
+        },
+        {
+          "character": "高力士",
+          "type": "红绣鞋",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "红绣鞋"
+        },
+        {
+          "character": "高力士",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": " 高力士"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高力士下。"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尾声"
+        },
+        {
+          "character": "唐明皇",
+          "type": "stage",
+          "text": "陈元礼"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白"
+        },
+        {
+          "character": "唐明皇",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "唱"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "唐明皇下。"
+        },
+        {
+          "character": "陈元礼",
+          "type": "白",
+          "text": ""
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈元礼下。"
+        },
+        {
+          "character": "高力士",
+          "type": "内白",
+          "text": " 这个奴婢晓得。 说不尽嫁如麻。 嘚，杨妃！既奉旨赐死，何得停留羁迟圣驾吗？ 众军不得近前，娘娘即刻归天了！ 啊呀，陈元礼吓，陈元礼！ 逼奴自杀。 啊呀，娘娘不好了！军士们涌进来了，如何是好？ 啊呀，罢！这枝梨树，是我杨玉环结果之处了。臣妾杨玉环，叩谢圣恩，从今 以后，啊呀，再不能相见了！啊呀，圣上吓！ 一灵儿只傍着黄旗下。 啊呀罢！ 杨妃已死，众军速退。 啊呀，我那娘娘吓！ 六军不发无奈何，宛转蛾眉马前死！ 启万岁爷：杨娘娘归天了，杨娘娘归天了，自缢的白练在此！ 妃子，妃子！𠲔！ 桃花！ 今朝命绝梨花，梨花！ 这金钗钿盒，是娘娘吩咐奴婢殉葬的。 𠲔 ！ 𠲔！ 这钗和盒，是祸根芽。 马嵬驿，恁收煞。 苍卒之间，怎生整备棺槨？ 也罢，权将锦被包裹，须要埋好记明，以待日后改葬。这钗盒就系在娘娘身上 罢！ 领旨。 啊呀娘娘吓！ 妃子吓！ 今世今生怎见她？ 请陛下起驾！请陛下起驾！请陛下起驾！ 嘟！ 我便不去西川也直甚么？ 嘚，起驾！ 起驾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖一枝花〗。众人引唐明皇同上。〖曲牌收〗。"
+        },
+        {
+          "character": "众人",
+          "type": "朝元令",
+          "text": "长空雾粘， 旌旗寒风飐。 队仗黄尘染。 谁料君臣，共尝危险？ 恨贼寇横兴逆焰。 烽火相兼， 何时得把豺狼歼？ 遥望蜀山巅， 离愁几度添。 浮云数点， 咫尺把长安遮掩，长安遮掩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。唐明皇、众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

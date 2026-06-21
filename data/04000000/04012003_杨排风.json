@@ -1,0 +1,2764 @@
+{
+  "script_id": "04012003",
+  "title": "杨排风",
+  "alias": [],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "杨排风",
+      "hangdang": "武旦"
+    },
+    {
+      "name": "孟良",
+      "hangdang": "净"
+    },
+    {
+      "name": "焦赞",
+      "hangdang": "净"
+    },
+    {
+      "name": "杨延昭",
+      "hangdang": "老生"
+    },
+    {
+      "name": "佘太君",
+      "hangdang": "老旦"
+    }
+  ],
+  "plot": "杨排风是天波府中一个烧火的小丫鬟，她有一身本领，但始终未得到机会显露身手。当杨宗保被辽邦韩昌掳\n去，杨延昭派孟良到天波府搬兵求救的时候，杨排风应声而出，愿去大战韩昌。孟良很轻视她，二人动手比\n武，结果杨排风打败了孟良，二人同到三关去见杨延昭。焦赞见孟良搬来了杨排风，不知底细，心中同样不\n服；比试之后，才肯低头服输。杨延昭遂出兵，杨排风打败了韩昌，终将杨宗保救回。",
+  "notes": "《杨排风》包括《打孟良》、《打焦赞》、《打韩昌》三折，是杨家将传说中的一段故事。\n整理本是中国京剧团演员李金鸿与本院（中国戏曲研究院）编辑处何旭异共同进行的。原本写孟良搬兵是为\n了救回杨宗保，最后杨排风虽战败韩昌，但杨宗保是否被救回，并未说明；剧情不够完整。整理本中添上了\n这一情节。此外，对个别词句，也略有修润。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "孟良",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良上。"
+        },
+        {
+          "character": "孟良",
+          "type": "念",
+          "text": "尊奉元帅令号，昼夜不辞辛劳。腰中板斧放光毫，坐骑奔驰咆哮。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "咱，孟良。只因随定小本官，出关祭奠老元戎，不想焦赞放了一炮，惊动辽邦 韩昌，将小本官擒去。因此，俺星夜去往天波杨府搬兵求救，就此马上加鞭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "佘太君上。"
+        },
+        {
+          "character": "佘太君",
+          "type": "引子",
+          "text": "杨家为国秉忠心，血战沙场费辛勤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨洪暗上。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "老身佘氏太君。配夫杨继业，官拜令公之位；只因保定宋王双龙赴会，不幸为 国尽忠。是我有八个孩儿，倒有四子战死沙场，三子不知去向；如今只剩下六 郎一人，镇守三关；这几日并无音信到来，叫我放心不下。正是："
+        },
+        {
+          "character": "佘太君",
+          "type": "念",
+          "text": "身坐天波府，昼夜念三关。"
+        },
+        {
+          "character": "孟良",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良上。"
+        },
+        {
+          "character": "孟良",
+          "type": "念",
+          "text": "千里路途远，搬兵去求援。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "来此已是，门上哪位在？"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "什么人？ 原来是孟二爷。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "罢了。太君可在堂上？"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "现在堂上。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "说俺孟良要见。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "启禀太君：孟二爷要见。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "唤他进来。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "遵命。 孟二爷，太君唤你。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "带路。 太君在上，孟良叩头。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "谢座。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "啊，孟良，不在三关侍奉元帅，到此何事？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "太君，大事不好了！"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "只因随定小本官，出关祭奠老元戎，不想焦赞放了一炮，惊动辽邦韩昌，将小 本官擒去。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "将小本官擒去了。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "哎呀不好了！"
+        },
+        {
+          "character": "佘太君",
+          "type": "西皮散板",
+          "text": "听说宗保被贼擒， 不由老身痛伤心。"
+        },
+        {
+          "character": "佘太君",
+          "type": "哭",
+          "text": "孙儿啊！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "太君不必惊慌，宋王爷赐你杨家聚将鼓、调将台，何不前去叫将？"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "不是你提起，我倒忘怀了。 杨洪，同你家孟二爷急速前去叫将，若有人应声，速报我知。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "太君请至后面。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太君下。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "杨洪带路。"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮散板",
+          "text": "太君堂上传令号， 孟良将台叫英豪， 杨洪带路前引道，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良上台。"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮散板",
+          "text": "男女众将听根苗： 何人前来把令讨， 搭救宗保转回朝。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "呔，天波杨府男女众将听者：今有小本官上坟插柳，被辽邦韩昌一马掳去。若 有能人搭救小本官还朝，高官得作，骏马任骑。"
+        },
+        {
+          "character": "杨排风",
+          "type": "内白",
+          "text": "我愿去！"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "回禀孟二爷，有人应声！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "唤应声之人走上。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "应声之人走上。"
+        },
+        {
+          "character": "杨排风",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风上，孟良下台，看杨排风。"
+        },
+        {
+          "character": "孟良",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "我道何人，原来是一个黄毛丫头。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "简直是目中无人。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "啊？说此大话，你敢随我去见太君？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "有请太君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "佘太君上。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "啊，孟良，适才将台叫将，何人应声？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "就是她应了一声。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "太君，正是我应声。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "原来是排风丫鬟。你应声便怎样啊？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "我要到两军阵前，擒那韩昌！"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "想那韩昌乃番邦有名的上将，你小小年纪休要说此大话。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "太君哪！"
+        },
+        {
+          "character": "杨排风",
+          "type": "西皮二六板",
+          "text": "太君把我忒小量， 我自幼练就武艺强； 听得二爷来调将， 去到三关擒韩昌； 为救少爷把阵上， 排风愿去战辽邦。"
+        },
+        {
+          "character": "佘太君",
+          "type": "西皮摇板",
+          "text": "你说此话我不信， 空言怎能作证凭。"
+        },
+        {
+          "character": "杨排风",
+          "type": "西皮摇板",
+          "text": "辞别太君后房进，"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "杨排风",
+          "type": "西皮摇板",
+          "text": "去取宝棍见太君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风下。"
+        },
+        {
+          "character": "孟良",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮摇板",
+          "text": "看她年幼无本领， 再与太君说分明。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "太君，我看排风，上马无有拳头大，下马无有膝盖高；慢说冲锋打仗，就是衬 刀背、垫马蹄，也是不中用。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "孟二爷，您敢跟她比武吗？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "比武？比武就比武。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "慢着，您若不胜她，便怎么样？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "我若不胜，愿输项上人头。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "人头只有一个，要是输了，吃饭的家伙可就没有了。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "依你之见？"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "依我的主意，您要是不胜她，就给她磕头赔礼。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "还要磕头赔礼？喳喳喳！好，咱们就这么办。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "您等一会儿，排风就来了。"
+        },
+        {
+          "character": "杨排风",
+          "type": "内西皮导板",
+          "text": "威风凛凛显奇能，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风上。"
+        },
+        {
+          "character": "杨排风",
+          "type": "西皮散板",
+          "text": "阵前定要把贼擒。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "排风，与你二爷花园比武。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良拉杨排风同下。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "哎呀太君！那孟二爷与排风花园比武去了。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "快快搀扶老身前去，看看他们的胜负如何？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "佘太君、杨洪同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。孟良、杨排风同上。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "来到花园，要怎样的比武？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷腰带何物？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "一对板斧。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "你有板斧，我这儿有棍。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "好，看斧。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷，顷刻分上下，"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "立时见高低。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良、杨排风同比武，杨排风打掉孟良板斧。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮散板",
+          "text": "今日搬兵到此地，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风打孟良，孟良摔倒，杨排风暗笑。"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮散板",
+          "text": "不该逞强惹是非。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风打孟良，孟良摔倒。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮散板",
+          "text": "火棍不住往上打， 两脚不住往下踢， 左冲右撞难躲避， 胆大的丫头把某欺。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风打倒孟良。杨洪、佘太君同上。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "唗！胆大排风，你家孟二爷乃是三关有名上将，被你打得这般光景，这还了得！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "太君，他没有死。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "杨洪向前看来。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "回禀太君，二爷冲着我直翻白眼儿！"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "哎呀，这便如何是好？"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "您别着急，一拍就好。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "快快扶起。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨洪扶孟良坐起，拍醒孟良，孟良站起。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "排风是个好的！排风是个好的！"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "啊，孟良，她可去得？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "太君您问的可是她？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "啊，二爷，我去得去不得？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "去得，去得。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "如此，孟良听令：命你带领杨排风去至三关搭救小本官，不得有误！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "慢着，二爷，打赌的事情怎么样了？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "什么打赌？"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "您得给排风跪下赔礼呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风点头会意。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "我不能跪。"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "排风，我们俩打赌，他输了不跪……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨洪示意杨排风打孟良。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "呸，着打。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风欲打。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "嘿，你别打，我给你跪下就是了。 嘿！"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "您就跪下去吧！谁让您打赌啦。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "去你娘的！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良向前。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "排风！孟良这厢，跪……"
+        },
+        {
+          "character": "杨洪",
+          "type": "白",
+          "text": "二爷，给您垫子。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "与我滚了下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨洪下。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "啊，排风，我这厢，跪……下了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风拦住。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "哎哟，二爷，我跟您闹着玩儿哪。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "啊，排风，得罪你家二爷，还不向前赔礼！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "遵命。 得罪二爷，与二爷赔礼。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "不消。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "不消就不消。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风假意欲踢孟良。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "嘿！又来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良下。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "啊，排风，此番到了三关，见了你家元帅，认上一门干亲；元帅若问就说老身 身体康健。我有一言你且听了！"
+        },
+        {
+          "character": "佘太君",
+          "type": "西皮原板",
+          "text": "坐在花园把话论，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良换衣上。"
+        },
+        {
+          "character": "佘太君",
+          "type": "西皮原板",
+          "text": "叫声排风听分明： 随定孟良三关进， 大战韩昌要小心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风下，披斗篷上。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "啊，孟良，此番前去，一路之上要好好照看排风。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "佘太君",
+          "type": "白",
+          "text": "你们上马去吧。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "太君请至后面。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "佘太君下。孟良、杨排风同出门。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷，方才咱们爷俩个比武的时候，是您的武艺好哇？还是我的武艺好呢？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "自然是你的好哇。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "怎么呢？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你好比那猴儿骑骆驼——"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "此话怎么讲呢？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你呀，高过去啦。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "高过去啦。噢，这么说还是我的武艺好。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你的武艺好。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "那你得给我带马。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "啊，怎么？俺乃三关有名的上将，叫我给你带马？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "啊，给我带马！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "不能带。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "你带是不带？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "不能带。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "呸，着打！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "好，我就给你带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风、孟良同上马。"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮摇板",
+          "text": "坐在马上把话论， 怕你此去功难成。"
+        },
+        {
+          "character": "杨排风",
+          "type": "西皮流水板",
+          "text": "二爷不必挂在心， 我有一言说分明： 任那韩昌如虎性， 排风自有擒虎能。 紧紧加鞭往前进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风、孟良同趟马。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "排风，与你二爷并马而行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风、孟良同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋兵引杨延昭同上。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "引子",
+          "text": "镇守三关，秉忠心，扫荡狼烟。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "念",
+          "text": "祖居磁州有家园，杨家世代保江山。宗保扫墓去插柳，韩昌掳去未回还。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "本帅杨延昭。宋室驾前为臣，镇守三关一带；只因宗保孩儿上坟插柳，不想焦 赞放了一炮，惊动辽邦韩昌，将我儿一马掳去。是三关二十四员上将，俱不是 那韩昌的对手。我也曾命孟良回朝搬兵，一面命焦赞打听韩昌下落，未曾回报。 站堂军！"
+        },
+        {
+          "character": "四宋兵",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "伺候了。"
+        },
+        {
+          "character": "四宋兵",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "孟良",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良上。"
+        },
+        {
+          "character": "孟良",
+          "type": "念",
+          "text": "搬得排风到，回营把令交。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "孟良告进！ 参见元帅，末将交令。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "收令。贤弟少礼，请坐。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "谢元帅。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "啊，贤弟，回朝搬兵，太君可好？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "太君好。问候元帅你好？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "愚兄有何德能，敢劳太君一问。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "当得一问。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "贤弟回朝搬兵，兵搬多少？大将几员？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "天波杨府，男女兵将俱都不曾搬来，却搬来一个烧火的丫头，名叫排风。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "啊，排风。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "转堂。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "转堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋兵同下。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "唤排风进见！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "遵命。 元帅有令，排风进见！"
+        },
+        {
+          "character": "杨排风",
+          "type": "内南梆子导板",
+          "text": "忽听帐中一声唤，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风上。"
+        },
+        {
+          "character": "杨排风",
+          "type": "南梆子",
+          "text": "离了那天波府来到三关； 一路上冒风尘途程遥远， 见了那元帅问金安。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "参见二爷！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "谢二爷。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "啊，排风，上面坐的就是我家元帅，你要向前见礼。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "是啦。 排风与元帅叩头。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "多谢元帅。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "啊，排风，你是侍奉哪房的丫鬟？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "哟，我瞧您不老哇，说话怎么这么“喇哩喇糊”的呀！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "您忘了，那年您回到天波府与太君请安，还是我给您打了一杯茶，难道说您把 我给忘了吗？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "原来是侍奉太君的丫鬟。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "不错，我就是侍奉太君的丫鬟杨排风。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "不在天波杨府侍奉太君，来到三关做甚？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "您要问我不在天波杨府侍奉太君，来到三关哪？您瞧哇，就是那位老爷子他哪……"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "他便怎样？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "他老人家回朝搬兵去了，站在将台之上，就是这么一路的喧嚷——"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "嚷些什么？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "您听我照样地学来：“哦呵呀呔，天波杨府男女众将听者：今有小本官上坟插 柳，被韩昌一马掳去；若有能人救得小本官还朝，高官得做，骏马任骑。”"
+        },
+        {
+          "character": "杨排风",
+          "type": "笑",
+          "text": "哈哈哈哈！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "您猜怎么着，嚷了这么半天，并无一人应声。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "无人应声便怎么样啊？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "我就应了一声啊。二爷把话可就告诉太君啦。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "太君便怎么样？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "太君把我叫到跟前，可就问我啦。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "问些什么？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "我还是照样地学来：“排风，你二爷上台叫将，可是你应声？”我说：“不错， 是我应声啊！”“你应声便怎么样啊？”我说：“太君，此处无有元帅将令， 若有元帅将令，去到两军阵前，把那韩昌手到擒来。”太君可又说了……"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "又讲些什么？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "她说：“孟良啊，孟良，我的儿呀！”"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "嘿，这是怎样的讲话！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "我学太君讲话哪。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "后来便怎么样？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "起程的时候，太君命他把我带到三关，认上一门干亲。真格的，我管您叫什么 呀？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你叫元帅干爹。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "叫干爹。 您听着：干爹，干爹，您好长的胡子。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "哎放老实些。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "我不说你，你倒说起我们来啦！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你说我何来？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "太君命你把我带到三关，一路之上，你打得那马就这样机登登、格登登，把我 的脚都磨红了。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "如此说来，辛苦你了。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "好说您哪！这没什么。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "此番来到三关与那韩昌交战，你有何本领？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "您要问我的武艺呀？如此干爹听了："
+        },
+        {
+          "character": "杨排风",
+          "type": "数板",
+          "text": "虽是女流胆气豪，胆气豪！出兵摆阵我知晓。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你未必！"
+        },
+        {
+          "character": "杨排风",
+          "type": "数板",
+          "text": "你休要，道我排风夸口高，上阵不用枪，不用刀，全凭青龙棍一条。跨下，跨 下一骑走战马，贼寇一见魂魄消。拳打南山豹，足踢北海蛟！休道排风年纪小， 保定江山社稷牢。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "下面歇息。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风下。"
+        },
+        {
+          "character": "焦赞",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋兵、焦赞同上。"
+        },
+        {
+          "character": "焦赞",
+          "type": "念",
+          "text": "乌骓马来往交战，打将鞭保主江山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋兵同下。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "报，焦赞告进！ 参见元帅，末将交令。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "收令。啊，贤弟，打听韩昌下落怎么样了？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "那韩昌在关外养马，歇兵三日，要与元帅决一死战。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "贤弟一路劳乏，帐外歇息。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "多谢元帅。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞出门。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "贤弟。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "二哥！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "回来了？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "回来了！"
+        },
+        {
+          "character": "孟良、焦赞",
+          "type": "同笑",
+          "text": "啊，哈哈哈……"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "有座。二哥，回朝搬兵，一路之上，多受风霜之苦！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "为国效劳，何言风霜二字。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "二哥，回朝搬兵，太君可好？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "太君好，问候贤弟你好？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "弟有何德能，敢劳太君一问。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "当得一问。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "二哥，回朝搬兵，兵搬多少？大将几员？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "天波杨府，男女兵将俱都不曾搬来，却搬来一个烧火的丫头，名叫排风。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "啊，二哥，想这三关之上，二十四员上将，俱不是那韩昌的对手，你搬来一个 烧火的丫头，慢说冲锋打仗，就是衬刀背、垫马蹄，也是不中用。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "贤弟，这烧火的丫头，与一般大不相同；她的武艺自在你我弟兄之上，不在你 我弟兄以下！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "二哥，上得关来，将那丫头，又夸又奖，长他人的锐气，灭你我弟兄的威风是 何道理？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "贤弟，听你之言，敢莫是不服？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "本来的不服。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "好，好，好。少时叫你服了。 排风快来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风上。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "来了，来了，二爷什么事？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "那旁坐的焦二爷，上前见过。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "是啦。 排风与二爷叩头。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "抬起头来！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "多谢二爷。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "喳喳喳——嘿，我当是怎样一个排风，原来是一个黄毛的丫头！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "哟，在天波杨府闻听太君说，三关之上，有一位焦二爷，长得跟灶王老爷子一 样，今儿个一看，不像那灶王老爷子。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "你二爷好似哪路天神？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "天神？哪儿配！好像那卖炭的二老板。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "嘿！蠢丫头！上得关来，取笑你家二爷。吃咱一顿饱打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞欲打杨排风。"
+        },
+        {
+          "character": "杨排风",
+          "type": "哭",
+          "text": "喂呀呀……"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "慢来，慢来，排风乃是太君差来的；元帅怪罪下来，哪个担待？必须赔个笑脸。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "赔个笑脸？闪开了！ 排风——"
+        },
+        {
+          "character": "焦赞",
+          "type": "笑",
+          "text": "啊，哈哈哈！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "排风！适才你家二爷与你作耍，你且不要哭。"
+        },
+        {
+          "character": "杨排风",
+          "type": "哭",
+          "text": "喂呀……"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "你且住了哭。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "我们偏要哭。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "要哭，与咱哭哇！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "不哭就不哭哇。"
+        },
+        {
+          "character": "杨排风",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "焦赞",
+          "type": "笑",
+          "text": "啊，哈哈哈……"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "排风，不在天波杨府，来到三关为了何事？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷您问我呀！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "与韩昌鏖战来了。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "呸蠢丫头！想这三关之上，二十四员上将，俱不是那韩昌的对手，你上马无有 拳头大，下马无有膝盖高，慢说是冲锋打仗，就是衬刀背、垫马蹄，也是不中 用。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "我说二爷，有道是：人不可貌相，海水不可斗量。眼前无有元帅的将令，若有 元帅的将令，出得营去，取那韩昌首级好比囊中取物，手到而擒来！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "这三关之上，你说是哪一员大将？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "不才是我。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "你么……嗯，量不就！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "量得就！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "量不就。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "量得就。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良向杨排风。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "哦，下面歇息。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风下。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "啊，贤弟，听你之言，你是当真地不服？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "俺本来不服。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你敢与那排风比武？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "好，比武就比武。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "且慢！你若胜得过那排风，将愚兄责打四十军棍，插箭游营，落得众将一场好 笑。你看如何？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "好，来呀！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "且慢，你若不胜呢？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "这……也罢，弟若不胜那排风，将弟责打八十军棍，插双箭游营，落得众将一 场好笑。你看如何？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "啊，慢来，慢来！元帅用兵之际，将你那两腿打坏，那还了得！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "依二哥之见呢？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "依我之见，与你一个便宜。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "怎么，便宜？有什么便宜？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你若不胜那排风，必须与她磕头赔礼。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "二哥，军营中打赌，可无有戏言！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "本来无有戏言。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "你我击掌？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "啊，慢来，慢来！你二人打赌，愚兄作一保官如何？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "嘿！这个保官倒也牢靠。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "原要你的保官。"
+        },
+        {
+          "character": "孟良、焦赞",
+          "type": "同白",
+          "text": "好，请哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良、焦赞同击掌。"
+        },
+        {
+          "character": "焦赞",
+          "type": "西皮导板",
+          "text": "宝帐里面三击掌，"
+        },
+        {
+          "character": "焦赞",
+          "type": "西皮流水板",
+          "text": "打赌事儿记心旁。 辞别元帅出宝帐， 去与排风较量一场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞下。"
+        },
+        {
+          "character": "孟良",
+          "type": "笑",
+          "text": "啊，哈哈哈！"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮散板",
+          "text": "一见焦赞出宝帐， 再与排风说端详："
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风暗上。"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮散板",
+          "text": "你二人比武校场上， 打败了焦二爷有某承当。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷呀！"
+        },
+        {
+          "character": "杨排风",
+          "type": "西皮流水板",
+          "text": "二爷但把宽心放， 排风言来听端详： 此一番比武校场上， 见机而行有主张。 辞别元帅出宝帐， 趟若是有失手二爷承当。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风下。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "去你的，都有我哪！"
+        },
+        {
+          "character": "孟良",
+          "type": "笑",
+          "text": "啊，哈哈哈！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "元帅，你我去到校场，看他二人比武如何？"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "贤弟先请，愚兄随后。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "孟良",
+          "type": "西皮散板",
+          "text": "焦赞把人忒小量， 怎知排风武艺强。 暂别元帅去到校场， 我料那焦赞也要遭殃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良下。四宋兵暗同上。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "西皮原板",
+          "text": "孟良回朝搬兵将， 排风到此战韩昌； 焦赞不忿要较量， 不知谁胜哪个强。 人来带过马丝缰， 校场之上看端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋兵、杨延昭同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风、焦赞同上。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "排风，与你二爷走，走，走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞走圆场。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "排风，来到校场，与你二爷扎枪？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "不好。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "攀刀？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "不好。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "打拳？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "也不好！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "你我二人怎样地较量？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "你我二人比棍吧。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "此处无有。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "此处就有。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "取来！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "你等着。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "取来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风下，取棍上。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷请看！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "这一条棍，怎样地较量？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "还有一条。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "取来！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "你等着。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "取来！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "等着。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风下，取棍上。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷请看！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "闪开了！不轻不重，刚刚称手。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "与二爷叩头！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "施礼为何？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "我们怕失了手，打着二爷，莫要见怪！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "喳喳喳！嘿，想你二爷这条汉子，身上哪些儿禁不起你打？你就与我打，打， 打！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "当场不让步，"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "举手不留情。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖耍孩儿〗。杨排风、焦赞对打，杨排风佯败下。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "且住！二哥上得关来，将那杨排风夸了又夸，奖了又奖，如今只战了三两回合 她就败了下去，我说孟良啊孟良，你上了我老焦的当啦！ 呔，排风慢走，你二爷赶你来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良上。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "哎呀且住！看排风来到校场，只战了三两回合，她就败了下去，分明是那排风 不敢下手。哦喝有了，我不免假传一令。 排风听者：元帅有令，将那焦赞与我着实地打打打！ 谁让他瞧不起人呢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（杨排风上。〖耍孩儿〗。焦赞上，杨排风、孟良互打。杨排风将焦赞打倒，孟良、杨延昭同追上阻拦，焦"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "赞起立，杨排风将焦赞打倒。杨延昭向杨排风。）"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "唗，大胆！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "大胆！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "放肆！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "放肆！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "这还了得。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良、杨排风会意暗笑。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "啊，贤弟，将他搀了起来。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "好，搀了起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良扶起焦赞。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "贤弟，你问他服也不服？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "贤弟，元帅问你服也不服？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "哎呀元帅呀！排风来到校场，将弟打得只有招架之功并无还手之力。排风是个 好的！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞对孟良。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "排风是个好的！排风是个好的！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "本来的不错。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞蹲下。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "嘿，那个茬他倒不提啦！ 啊，元帅，还有打赌之事呢。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "是啊，贤弟问来。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "好，我去问问他去。 啊，贤弟，打赌之事怎么样了？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞不理孟良。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "哎呀元帅，那排风若出得营去，与那韩昌交战，取那韩昌首级犹如探囊取物一 般。看起来，宋室江山当兴啊！"
+        },
+        {
+          "character": "焦赞",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "贤弟，问你这打赌之事怎么样了？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "什么打赌？又打赌了！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "元帅，他不认帐。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "啊，待愚兄向前。 啊，贤弟，你二人打赌，还是愚兄我的保官呢！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "嘿嘿，你这保官可就把我给保坏啦！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "来来来！磕头赔礼。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "与哪个磕头赔礼？"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "与那排风磕头赔礼。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "哎，俺乃三关有名的上将，怎好与那丫头赔礼。二哥，你替了我吧！"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "愚兄在天波杨府的时节，我呀，早偏过你了。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "嘿，我呀，上了你的当了。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你跪不跪吧？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "不能跪。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "排风，他可不跪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟良示意杨排风打焦赞。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "着打！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "慢来慢来，跪下也就是了。 排风，我这厢跪下了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞跪。杨排风拦住。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷，这我可担待不起呀！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "哎呀，这，喳喳喳！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "得罪二爷，与二爷赔礼。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "不消。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风学焦赞。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "不消。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "焦、孟二将听令！命你二人打扫将台，校场听点！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨延昭、孟良同下。杨排风拦住焦赞。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "二爷，您是个好的！"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "本来的不错。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风伸出小拇指。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "在这儿呢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨排风急跑下。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦赞下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四辽兵引耶律休哥同上。〖点绛唇〗。耶律休哥上高台。"
+        },
+        {
+          "character": "耶律休哥",
+          "type": "念",
+          "text": "威风浩荡旌旗飘，帐下儿郎杀气高。一心要把宋室扫，活捉三关杨延昭。"
+        },
+        {
+          "character": "耶律休哥",
+          "type": "白",
+          "text": "某，耶律休哥是也。奉了太后之命，与韩昌合兵一处，夺取三关。 儿郎的，韩驸马营中去者！"
+        },
+        {
+          "character": "四辽兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四辽兵、韩昌同上。"
+        },
+        {
+          "character": "韩昌",
+          "type": "西皮摇板",
+          "text": "辽宋交兵摆战场， 擒来宗保小儿郎。 将身且坐牛皮帐， 且听探马报端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "元帅到！"
+        },
+        {
+          "character": "韩昌",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四辽兵、耶律休哥同上。"
+        },
+        {
+          "character": "韩昌",
+          "type": "白",
+          "text": "元帅！"
+        },
+        {
+          "character": "耶律休哥",
+          "type": "白",
+          "text": "驸马！"
+        },
+        {
+          "character": "韩昌、耶律休哥",
+          "type": "同笑",
+          "text": "啊哈哈哈！"
+        },
+        {
+          "character": "韩昌",
+          "type": "白",
+          "text": "请坐。元帅到此何事？"
+        },
+        {
+          "character": "耶律休哥",
+          "type": "白",
+          "text": "奉了太后旨意，带领人马，夺取三关。你我将人马合在一处，何愁那宋军不灭！"
+        },
+        {
+          "character": "韩昌",
+          "type": "白",
+          "text": "好事不宜迟，就此出战。 儿郎的，杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岳胜、陈琳、柴干、任堂惠分上，分起霸。〖点绛唇〗。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "岳胜",
+          "type": "白",
+          "text": "岳胜。"
+        },
+        {
+          "character": "陈琳",
+          "type": "白",
+          "text": "陈琳。"
+        },
+        {
+          "character": "柴干",
+          "type": "白",
+          "text": "柴干。"
+        },
+        {
+          "character": "任堂惠",
+          "type": "白",
+          "text": "任堂惠。"
+        },
+        {
+          "character": "岳胜",
+          "type": "白",
+          "text": "众位将军请了！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "岳胜",
+          "type": "白",
+          "text": "元帅升帐，你我两厢伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宋兵、马童、孟良、焦赞、杨延昭同上。〖点绛唇〗。杨延昭上高台。"
+        },
+        {
+          "character": "四宋将",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "众位将军少礼。"
+        },
+        {
+          "character": "四宋将",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "念",
+          "text": "身坐宝帐威凛凛，杀气冲天鬼神惊。将令一出山摇动，扶保宋室锦乾坤。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "本帅杨延昭。只因我儿宗保，上坟插柳，被辽邦韩昌一马掳去。我命孟良，回 朝搬兵，搬来女将名唤排风，可以胜过韩昌。 来！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "唤排风进帐！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊。 排风进帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四女兵、杨排风同上。"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "参见父帅！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "罢了。排风，你此番出兵，是前队截杀，还是后队接应？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "此番出兵，我也不管什么前队截杀，后队接应；只用飞虎旗一队，杀那辽将一 干二净。"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "排风，你若不胜呢？"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "你敢跟我打赌吗？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "好。"
+        },
+        {
+          "character": "孟良",
+          "type": "白",
+          "text": "你又来打赌？"
+        },
+        {
+          "character": "焦赞",
+          "type": "白",
+          "text": "我呀，歇了吧。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "排风听令！命你后队接杀，不得有误！"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "得令。 带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四女兵带马，杨排风、四女兵同下。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "众将官，带马阵前去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小泣颜回〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众辽兵、韩昌、耶律休哥同上，四宋兵、四宋将、杨延昭同上。会阵。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "来的敢是韩昌？"
+        },
+        {
+          "character": "韩昌",
+          "type": "白",
+          "text": "然。"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "韩昌！快将我儿宗保放出，如若不然，枪下做鬼！"
+        },
+        {
+          "character": "韩昌",
+          "type": "白",
+          "text": "一派胡言，放马过来！ （宋兵将、辽兵将自两边分下。杨延昭、韩昌同起打，双收下。众人大开打同下。岳胜、韩昌同上，起打， 韩昌败下，岳胜追下。四女兵、杨排风上，趟马过场，同下。杨延昭、韩昌同上，起打，杨延昭败下，韩昌 追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四女兵、杨排风同上，迎接宋兵将、杨延昭。杨延昭、宋兵将同下。韩昌、耶律休哥、众辽兵同追上，杨"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "排风接杀，起打，辽兵同败下，杨排风追下。众辽兵将带杨宗保同上，移营。杨排风、四女兵同迎上，抢回"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "杨宗保，众辽兵将同败下。宋兵将、杨延昭同上。）"
+        },
+        {
+          "character": "杨排风",
+          "type": "白",
+          "text": "启禀父帅：韩昌大败而逃，我把小本官救回来了。"
+        },
+        {
+          "character": "杨宗保",
+          "type": "哭",
+          "text": "哎呀父帅呀！"
+        },
+        {
+          "character": "杨延昭",
+          "type": "白",
+          "text": "此乃排风之功。 众将官，收兵回营哪！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

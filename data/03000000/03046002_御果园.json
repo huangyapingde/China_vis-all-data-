@@ -1,0 +1,1358 @@
+{
+  "script_id": "03046002",
+  "title": "御果园",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "尉迟恭",
+      "hangdang": "净"
+    },
+    {
+      "name": "徐懋功",
+      "hangdang": "净"
+    },
+    {
+      "name": "李建成",
+      "hangdang": "丑"
+    },
+    {
+      "name": "李元吉",
+      "hangdang": "丑"
+    },
+    {
+      "name": "李世民",
+      "hangdang": "小生"
+    },
+    {
+      "name": "黄壮",
+      "hangdang": "净"
+    },
+    {
+      "name": "程咬金",
+      "hangdang": "丑"
+    },
+    {
+      "name": "秦琼",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "李世民平定王世充班师，李渊封之为东宫太子。李建成、李元吉不服，为害李世民，遂馋尉迟恭单鞭夺槊，\n赤身救驾是假；并求在御果园重演比试。李渊依奏。时值隆冬，尉迟恭得李靖之助，人马服药，俱不畏冷，\n及至御果园，反将要杀李世民之黄壮与李建成、李元吉打死。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李建成、李元吉同上。"
+        },
+        {
+          "character": "李建成",
+          "type": "念",
+          "text": "心中常怀害人计，"
+        },
+        {
+          "character": "李元吉",
+          "type": "念",
+          "text": "不杀世民难登基。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "本御、建成。"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "小王、元吉。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "啊御弟！"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "皇兄！"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "世民征战皮寇，得胜回朝，已在金殿候旨。似他这样屡建奇功，看来这东宫守 阙，你我是无份的了。"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "必须想一妙计，将他害死，方去眼中之钉。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "大家想来。"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "小弟倒有一计。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "我想金殿封官，少不得要封敬德公爵。那时皇兄奏上一本，你说敬德当初保定 刘武周，日抢三关，夜夺八寨，耗费我国多少兵马钱粮？今日些许功劳，封不 得国公。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "恐他有辨！"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "让他去辨。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "他必说在御果园救过李世民的驾来。"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "原要他这样回答。就叫他将御果园跳涧之事，演习演习，我们观看。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "无有雄信，也是枉然。"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "我府下有一家将，与雄信面貌相同。此人心粗胆壮，叫他假扮雄信，打死世民， 杀了敬德，这东宫守阙岂不是皇兄的了？"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "此计甚好，金殿伺候。正是："
+        },
+        {
+          "character": "李建成",
+          "type": "念",
+          "text": "但愿害得世民丧，"
+        },
+        {
+          "character": "李元吉",
+          "type": "念",
+          "text": "弟保皇兄坐家邦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李建成、李元吉同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引李渊同上。"
+        },
+        {
+          "character": "李渊",
+          "type": "引",
+          "text": "海晏河清，一统升平。"
+        },
+        {
+          "character": "李渊",
+          "type": "念",
+          "text": "君正臣贤万民欢，文忠武勇扶江山。幸喜四海干戈靖，今日才知创业难。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "孤、大唐天子武德在位。自登基以来，风调雨顺，国泰民安。只因世民征战皮 寇，得胜回朝，今日在金殿封官。 内侍！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "闪放龙门！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨。 闪放龙门哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李建成、李元吉同上。"
+        },
+        {
+          "character": "李建成",
+          "type": "念",
+          "text": "恨小非君子，"
+        },
+        {
+          "character": "李元吉",
+          "type": "念",
+          "text": "无毒不丈夫。"
+        },
+        {
+          "character": "李建成、李元吉",
+          "type": "同白",
+          "text": "儿臣见驾，父王万岁！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "李建成、李元吉",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "世民可曾还朝？"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "已在金殿候旨。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "宣世民同众卿上殿！"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "领旨。 父王有旨：宣世民同众卿上殿！"
+        },
+        {
+          "character": "李世民、徐懋功、尉迟恭、秦琼、程咬金",
+          "type": "内同白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李世民、徐懋功、尉迟恭、秦琼、程咬金同上。"
+        },
+        {
+          "character": "李世民、徐懋功、尉迟恭、秦琼、程咬金",
+          "type": "同白",
+          "text": "臣等见驾，吾皇万岁！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "李世民、徐懋功、尉迟恭、秦琼、程咬金",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "皇儿，将征战皮寇之事，一一奏来！"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "儿臣奉旨征战皮寇，兵将个个当先，又有徐勣妙算，尉迟之勇，杀得皮寇匍匐 投降，写来降书顺表，父王请看。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "皇儿听封！"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "封为东宫守阙。"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "谢父王！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "徐勣听封！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "封卿为英国公！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "谢主隆恩！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "秦琼听封！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "封卿为护国公。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "谢主隆恩！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "程咬金听封！"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "封卿为鲁国公。"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "谢主隆恩！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "尉迟恭听封！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "封卿为鄂国公。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "谢主隆恩！"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "且慢！启奏父王：尉迟恭封不得国公。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "当年他保定刘武周，日抢三关，夜夺八寨，耗费我国多少兵马钱粮？他的功效 过大，故而封不得国公。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "是呀，卿保刘武周日抢三关、夜夺八寨，耗费孤家多少兵马钱粮？实是不能赐 爵。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "臣启万岁：臣当年保定刘武周，乃是各为其主。但自投唐以来，立下许多功劳。 况臣在御果园，也曾救过二主的驾来。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "启奏父王：尉迟恭奏道，昔日他在御果园救过御弟的驾来，乃是耳闻，未曾目 睹。请父王传旨：将“御花园”改为“御果园”，叫他们演习跳涧之事，我们 观看。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "就依儿所奏。尉迟恭暂封鄂国公，将御果园故事演来，孤王观看。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "谢主隆恩！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李渊忽然想起。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "哎呀，无有雄信，也是枉然。"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "启奏父王：儿臣府内有一家将，名唤黄壮，与雄信面貌相似。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "宣他上殿！"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "遵旨。万岁有旨：黄壮上殿！"
+        },
+        {
+          "character": "黄壮",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄壮上。"
+        },
+        {
+          "character": "黄壮",
+          "type": "念",
+          "text": "自幼生来脸带红，亚赛雄信一般同。"
+        },
+        {
+          "character": "黄壮",
+          "type": "白",
+          "text": "黄壮见驾，吾皇万岁！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "抬起头来！"
+        },
+        {
+          "character": "黄壮",
+          "type": "白",
+          "text": "臣不敢仰面见君。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "恕你无罪。"
+        },
+        {
+          "character": "黄壮",
+          "type": "白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "黄壮！"
+        },
+        {
+          "character": "黄壮",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "命你假扮单雄信，演习跳涧之事！"
+        },
+        {
+          "character": "黄壮",
+          "type": "白",
+          "text": "臣领旨。不知见了千岁，怎样行事？"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "见了小王百般叫骂。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "殿角伺候！"
+        },
+        {
+          "character": "黄壮",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄壮下。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "皇儿呀！"
+        },
+        {
+          "character": "李渊",
+          "type": "西皮散板",
+          "text": "皇儿本是国家宝， 南征北战费辛劳。 暂且下殿离御道， 孤王传旨晓满朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李渊、大太监、四太监同下。"
+        },
+        {
+          "character": "李世民",
+          "type": "西皮散板",
+          "text": "金殿领旨下御道， 演习当年事一条。 先生与我传令号， 小王回府披战袍。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李世民下。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "西皮散板",
+          "text": "袖内巧计安排好， 管教奸王枉徒劳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐懋功下。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "西皮散板",
+          "text": "怒气不息下御道，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "西皮散板",
+          "text": "误中奸王计一条。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼下。"
+        },
+        {
+          "character": "程咬金",
+          "type": "西皮散板",
+          "text": "这件事儿了不了， 他们跑来我也逃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程咬金下。黄壮上。"
+        },
+        {
+          "character": "李建成",
+          "type": "西皮散板",
+          "text": "人说懋公计谋巧，"
+        },
+        {
+          "character": "李元吉",
+          "type": "西皮散板",
+          "text": "今日看来也不高。"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "黄壮！"
+        },
+        {
+          "character": "黄壮",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "李建成、李元吉",
+          "type": "同西皮散板",
+          "text": "你把战饭吃得饱， 快快磨好杀人刀！"
+        },
+        {
+          "character": "黄壮",
+          "type": "白",
+          "text": "千岁！"
+        },
+        {
+          "character": "黄壮",
+          "type": "西皮散板",
+          "text": "金殿之上忙禀告， 尊声千岁听根苗： 昨晚一梦不大好， 群羊尽被猛虎嚼。 怕的是无头带纱帽，"
+        },
+        {
+          "character": "李建成、李元吉",
+          "type": "同西皮散板",
+          "text": "你畏首畏尾不英豪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李建成、李元吉、黄壮同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟、黑夫人、白夫人同上。"
+        },
+        {
+          "character": "黑夫人",
+          "type": "念",
+          "text": "夫受皇家禄，"
+        },
+        {
+          "character": "白夫人",
+          "type": "念",
+          "text": "妻沾雨露恩。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "内白",
+          "text": "回府！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引尉迟恭同上。四龙套同下。"
+        },
+        {
+          "character": "黑夫人、白夫人",
+          "type": "同白",
+          "text": "老爷！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "夫人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭坐。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "可恼哇可恼！"
+        },
+        {
+          "character": "黑夫人、白夫人",
+          "type": "同白",
+          "text": "老爷，今日下得朝来，怒气不息，因何讲出“可恼”二字？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "适才金殿加封，万岁封我国公之位。可恨二奸王奏道：某家先保山后刘武周， 日抢三关，夜夺八寨，耗费国家多少兵马钱粮。如今封不得国公之位。你道恼 是不恼！"
+        },
+        {
+          "character": "黑夫人、白夫人",
+          "type": "同白",
+          "text": "有道是：食王爵禄，当报君恩。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "夫人哪！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "二黄原板",
+          "text": "提起了当年投太原， 建成、元吉怒发冲冠。 某一言冒犯推出斩， 多亏了乔公善救某的命还。 二次里山后投刘主， 定杨王他待某的恩重如山。⑴ 想某打死了宋金玉， 宋金刚他与某结下了冤。 日抢三关、夜夺八寨， 某在美良川前锏对过鞭。 三鞭两锏投真主， 端阳节救驾在御果园。 到如今演什么三跳涧， 怎奈是数九隆冬腊月的天。 赤身骣马难交战，⑵ 活活冻坏某将魁元。"
+        },
+        {
+          "character": "黑夫人、白夫人",
+          "type": "同二黄原板",
+          "text": "老爷且把愁眉展， 妾身有话对夫言。 现有书信请观看，"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "二黄原板",
+          "text": "有劳二位夫人言。 我就忙拆开封皮观小简，"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "夹白",
+          "text": "打座！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟打座，尉迟恭看书信。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "二黄原板",
+          "text": "一一从头把书观： “自从你我分别散， 红黑二丸带身边。 红丸将军亲自用， 黑药付与乌骓餐。” 我叫家院——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院暗上。丫鬟、黑夫人、白夫人同暗下。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "看姜汤忙把药饮，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院伺候姜汤。尉迟恭吃药。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "这一碗付与乌骓餐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭作与马喂药。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "霎时浑身俱是汗， 数九天亚赛过三伏的天。 解带脱袍把身现，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭解带脱袍。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "赤身骣马手提着鞭。 家院带过爷的乌骓战，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院带马，尉迟恭上马。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "二次里救驾在御果园。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭下。家院下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引李建成、李元吉同上，过场，同下。黄壮上。"
+        },
+        {
+          "character": "黄壮",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄壮下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐懋功上。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "唱",
+          "text": "建成元吉把计定， 要害二主丧残生。 回头便把二主请，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引李世民同上。"
+        },
+        {
+          "character": "李世民",
+          "type": "唱",
+          "text": "卿家请孤为何情？"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "此番御果园不去也罢。"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "小王去心已定，不必多奏。卿家保驾，内侍带马！"
+        },
+        {
+          "character": "李世民",
+          "type": "唱",
+          "text": "人来带马御花园进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄壮上。"
+        },
+        {
+          "character": "李世民",
+          "type": "唱",
+          "text": "只见黄壮面前存。 小王与你无仇恨， 苦苦追杀为何情？"
+        },
+        {
+          "character": "黄壮",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "黄壮",
+          "type": "唱",
+          "text": "哪有闲言对你论， 霎时叫你命归阴！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄壮、李世民同开打，四太监同下，李世民败下，黄壮欲追，徐懋功拉，黄壮甩徐懋功倒，追下。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "唱",
+          "text": "二主不听我奏本， 御果园中受难星。 不顾生死往前进， 我与黄壮把命拼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐懋功下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（李世民败上，黄壮追上，黄壮、李世民同开打，李世民败下。徐懋功上，夺黄壮兵器，被黄壮踢到，黄壮"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "追下。）"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "哎呀且住！黄壮追杀我主，这便如何是好？哦呵有了，不免搬动尉迟将军前来 救驾便了！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "唱",
+          "text": "急急忙忙往前进，"
+        },
+        {
+          "character": "秦琼、程咬金",
+          "type": "内同白",
+          "text": "军师慢走！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "唱",
+          "text": "那旁来了二公卿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼、程咬金同上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "唱",
+          "text": "弟兄二人往前进，"
+        },
+        {
+          "character": "程咬金",
+          "type": "唱",
+          "text": "见了军师礼相迎。"
+        },
+        {
+          "character": "秦琼、程咬金",
+          "type": "同白",
+          "text": "军师因何这般模样？"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "二位哪里知道，只因黄壮要害二主一死，如何是好？"
+        },
+        {
+          "character": "程咬金",
+          "type": "白",
+          "text": "这有何难？搬来黑炭头，可以打死黄壮。"
+        },
+        {
+          "character": "徐懋功",
+          "type": "白",
+          "text": "如此说来，请啊！"
+        },
+        {
+          "character": "徐懋功",
+          "type": "唱",
+          "text": "三人一同往前进，"
+        },
+        {
+          "character": "秦琼、程咬金",
+          "type": "同唱",
+          "text": "搬来尉迟救主君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐懋功、秦琼、程咬金同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": "尉迟恭",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭上。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "数九寒天风不冷， 连人带马汗淋身。 忙将乌骓来整顿，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭洗马。徐懋功、秦琼、程咬金同上。"
+        },
+        {
+          "character": "徐懋功、秦琼、程咬金",
+          "type": "同唱",
+          "text": "见了尉迟礼相迎。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "列公因何心烦闷？"
+        },
+        {
+          "character": "徐懋功、秦琼、程咬金",
+          "type": "同唱",
+          "text": "二主秦王有难星。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "是何人敢欺我仁义主？"
+        },
+        {
+          "character": "徐懋功、秦琼、程咬金",
+          "type": "同唱",
+          "text": "去到御园看分明。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "吞吞吐吐言不顺，"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "夹白",
+          "text": "带路！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "连人带马御园行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭、徐懋功、秦琼、程咬金同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李世民败上，黄壮追上，过场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭、徐懋功、秦琼、程咬金同上。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "适才列公报一信， 二主秦王有难星。 大家山后暗藏定，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐懋功、秦琼、程咬金同暗藏，同下。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "看是何人下绝情。 （李建成、李元吉同暗上，同上高台。李世民败上，黄壮追上。黄壮打李世民落马。尉迟恭跳出，用鞭压住 黄壮刀。）"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "哇呀呀……"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "黄壮假扮单雄信， 追杀我主为何情？ 钢鞭一举朝下打， 阎王殿前追尔的魂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭打死黄壮。"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "黄壮！嗳！"
+        },
+        {
+          "character": "李元吉",
+          "type": "唱",
+          "text": "一见黄壮丧了命，"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "黑贼呀黑贼！"
+        },
+        {
+          "character": "李元吉",
+          "type": "唱",
+          "text": "快快还我保驾的臣！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "二奸王睡梦还未醒， 谁叫你们出头把事行？ 我比阎王心还狠！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭打死李元吉。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "打死元吉问建成。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "黄壮！御弟！完了！"
+        },
+        {
+          "character": "李建成",
+          "type": "唱",
+          "text": "一见御弟丧了命，"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "黑小子！"
+        },
+        {
+          "character": "李建成",
+          "type": "唱",
+          "text": "快快还我同胞人！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "你无情来谁有义， 你不念手足谁念你是君？ 钢鞭一举追尔的命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭打死李建成。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "唱",
+          "text": "大家寻找仁义君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐懋功、秦琼、程咬金同上。"
+        },
+        {
+          "character": "徐懋功、秦琼、尉迟恭、程咬金",
+          "type": "同白",
+          "text": "主公醒来！"
+        },
+        {
+          "character": "李世民",
+          "type": "西皮导板",
+          "text": "一霎时不由我昏迷不醒，"
+        },
+        {
+          "character": "李世民",
+          "type": "西皮摇板",
+          "text": "抬头只见众公卿。"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "啊众卿，黄壮哪里去了？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "黄壮么，被为臣打死了。"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "打死的好哇！"
+        },
+        {
+          "character": "李世民",
+          "type": "西皮摇板",
+          "text": "听说黄壮丧了命， 去了小王对头人。"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "二王兄哪里去了？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "二奸王么，也被为臣我打死了。"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "噢，也被你打死了？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "近前来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "尉迟恭近前，李世民打尉迟恭耳光。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "李世民",
+          "type": "西皮摇板",
+          "text": "他二人与你何仇恨， 打死他们为何情？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "主公！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "西皮摇板",
+          "text": "二奸王定计害主的命， 为臣我打的是抱不平。"
+        },
+        {
+          "character": "李世民",
+          "type": "西皮摇板",
+          "text": "你手摸胸膛细思忖， 他是小王的什么人？"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "西皮摇板",
+          "text": "打死了二奸王是不是呀？"
+        },
+        {
+          "character": "徐懋功、秦琼、程咬金",
+          "type": "同白",
+          "text": "打的是！"
+        },
+        {
+          "character": "李世民",
+          "type": "西皮摇板",
+          "text": "小王难解其中情。 上前抓住袍和带，"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "李世民",
+          "type": "西皮摇板",
+          "text": "一同上殿见圣君。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "西皮摇板",
+          "text": "列公与我送什么信！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "要见君！"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "要见君！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "好哇！"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "西皮摇板",
+          "text": "要见君我们大家一路行。"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        },
+        {
+          "character": "尉迟恭",
+          "type": "stage",
+          "text": "—————————— ⑴ 隋末，刘武周见天下大乱，阴有异计，遣使附突厥。突厥立为“定杨可汗”。后称帝，所以尉迟恭称他为“定杨王”。 ⑵ 骣，乍眼切。骣马是不用马鞍而骑乘之义，见《西北域记》。"
+        }
+      ]
+    }
+  ]
+}

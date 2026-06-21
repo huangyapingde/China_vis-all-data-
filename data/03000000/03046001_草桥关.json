@@ -1,0 +1,2567 @@
+{
+  "script_id": "03046001",
+  "title": "草桥关",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "姚期",
+      "hangdang": "净"
+    },
+    {
+      "name": "刘秀",
+      "hangdang": "老生"
+    },
+    {
+      "name": "马武",
+      "hangdang": "净"
+    },
+    {
+      "name": "郭妃",
+      "hangdang": "旦"
+    },
+    {
+      "name": "姚刚",
+      "hangdang": "净"
+    },
+    {
+      "name": "姚能",
+      "hangdang": "小生"
+    },
+    {
+      "name": "郭荣",
+      "hangdang": "净"
+    },
+    {
+      "name": "姚母",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "岑彭",
+      "hangdang": "老生"
+    },
+    {
+      "name": "杜茂",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "刘秀在位时，姚期镇守草桥关。刘秀命马武等替回姚期，谓是思念功臣。姚府门前竖有皇封碑文：文官下轿，\n武将离鞍。独国丈郭荣不遵。姚期之子姚刚出而辩理。郭荣倚权仗势，抖弄威风。姚刚大怒，顺手用太湖\n石将郭荣砸死。姚期闻讯，绑全家上殿请罪。值刘秀酒醉，郭妃为报父仇，私传圣旨，限时处斩姚氏满门。\n幸值马武因牛邈攻打草桥回朝搬兵，闯宫保奏，威逼刘秀发下赦旨，姚期父子始得戴罪出征。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭荣、岑彭、马武、杜茂同上。"
+        },
+        {
+          "character": "郭荣、岑彭、马武、杜茂",
+          "type": "同点绛唇",
+          "text": "国库丰盈，风调雨顺；干戈靖，乐享生平，汉室正当兴。"
+        },
+        {
+          "character": "郭荣",
+          "type": "念",
+          "text": "吾主当兴，四方平靖。"
+        },
+        {
+          "character": "岑彭",
+          "type": "念",
+          "text": "山河一统，国库丰盈。"
+        },
+        {
+          "character": "马武",
+          "type": "念",
+          "text": "五谷丰登，民安国泰。"
+        },
+        {
+          "character": "杜茂",
+          "type": "念",
+          "text": "天开宇宙，乐享生平。"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "老夫，郭荣。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "本爵，岑彭。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "本爵，马武。"
+        },
+        {
+          "character": "杜茂",
+          "type": "白",
+          "text": "本爵，杜茂。"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "列公请了！"
+        },
+        {
+          "character": "岑彭、马武、杜茂",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "听静鞭三响，圣主登殿，"
+        },
+        {
+          "character": "郭荣、岑彭、马武、杜茂",
+          "type": "同白",
+          "text": "整肃朝参。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引刘秀同上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "引子",
+          "text": "香烟飘渺，天开皇道。"
+        },
+        {
+          "character": "郭荣、岑彭、马武、杜茂",
+          "type": "同白",
+          "text": "臣等见驾，吾皇万岁！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "郭荣、岑彭、马武、杜茂",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "刘秀",
+          "type": "念",
+          "text": "宝篆冲开紫气临，白水起义坐龙廷。黄道吉日登九五，君臣同享太平春。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "寡人、刘秀。昔走南阳，蒙众位皇兄辅助，邓先生妙算，削除莽贼，重兴汉室。 自登基以来，四海宁靖，真乃福泽无量。 众卿，衣冠齐整，莫非为寡人圣寿？"
+        },
+        {
+          "character": "郭荣、岑彭、马武、杜茂",
+          "type": "白",
+          "text": "正是为圣寿。待臣等参拜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭荣、岑彭、马武、杜茂同参拜。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "内侍！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "吩咐光禄寺大摆御宴，君臣同乐。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "遵旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监下。"
+        },
+        {
+          "character": "郭荣、岑彭、马武、杜茂",
+          "type": "同白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "咳，可叹！"
+        },
+        {
+          "character": "郭荣、岑彭、马武、杜茂",
+          "type": "同白",
+          "text": "圣上龙心不悦，臣等不解其情，请我主降发龙言！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "众位皇兄，俱已在朝，为寡人庆寿；姚皇兄镇守草桥关，受尽风霜，孤心不安。"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "万岁思念功臣，怎奈草桥关乃七十二崆之总口，若调姚期回朝，干戈一动，杀 砍无休矣！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "想当年走南阳，严子陵先生言道：汉室无姚不兴。今日果应前言也！"
+        },
+        {
+          "character": "刘秀",
+          "type": "唱",
+          "text": "孤承运锦江山社稷一统， 姚皇兄镇草桥受尽辛勤。 这才是食君禄哪得安静， 怎能够回朝来相伴寡人！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "万岁思念功臣，待臣等三人去至草桥，调取姚期回朝，陪王伴驾，圣意如何？"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "三位皇兄捧朕旨意，去至草桥，调姚皇兄即日回都。草桥印信，付与三位皇兄 执掌。"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "臣等遵旨。请驾回宫！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、马武、岑彭、杜茂同上。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "与众位将军叩头！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "站立两旁。我等奉王旨意，出镇草桥。一路之上，不可骚扰百姓，马踏青苗、 掳抢民财者，即行斩首！众将官，就此兵发草桥去者！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠引姚期同上。"
+        },
+        {
+          "character": "姚期",
+          "type": "引子",
+          "text": "终朝边塞镇胡奴，扫尽夷蛮定山河。"
+        },
+        {
+          "character": "姚期",
+          "type": "念",
+          "text": "塞北干戈起战争，南征北剿拜元勋。将令一出山岳动，镇守边关扫烟尘！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "老夫、伴驾王姚期。自到草桥以来，未曾安枕，轮流把守。可笑王朗贼子，约 齐各处蛮夷，前来攻打草桥关。被俺父子几合血战，方得两下停战。正是："
+        },
+        {
+          "character": "姚期",
+          "type": "念",
+          "text": "旌旗招展遮日月，辕门鼓角震天开。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "念",
+          "text": "军中我传宣，令出甚威严。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "启禀王爷：圣旨下。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "何人押旨？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "马、杜、岑三位王爷，已到十里长亭。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "吩咐摆队相迎！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "摆队相迎！"
+        },
+        {
+          "character": "四文堂、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠、中军引姚期同上，同出城迎。四龙套引马武同上。"
+        },
+        {
+          "character": "姚期、马武",
+          "type": "同白",
+          "text": "（马）（姚）皇兄，久违了！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杜茂上。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "杜皇兄，你也老了哇！哈哈哈……"
+        },
+        {
+          "character": "杜茂",
+          "type": "白",
+          "text": "老了哇！哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭捧旨上。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引马武、杜茂、岑彭同上，四文堂、四大铠、中军引姚期同上。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "圣旨下，跪！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期跪。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "听宣读。诏曰：朕承天运，汉室一统，皆赖众皇兄匡扶社稷，乐享太平。朕思 念忠良。想姚皇兄镇守草桥，受尽辛苦。今特命马、杜、岑三人代卿之任，召 卿即日回京，陪王伴驾。草桥印信付与马、杜、岑三人执掌。旨意读罢，望诏 谢恩！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。姚期接圣旨。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "三位皇兄捧圣旨前来，一路之上，多受风霜之苦。俺姚期未曾远迎，当面恕罪！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "岂敢！姚皇兄镇守草桥，胡儿不敢犯界，我等皆服。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "岂敢！一来主上洪福，二来三位皇兄虎威，俺姚期何功之有？"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "圣旨到来，就请开付！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "中军看印！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军取印，姚期掌印，马武、杜茂、岑彭同拜印。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "三位皇兄镇守草桥，可喜可贺！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "岂敢！但不知姚皇兄几时启程？"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "明日启程。"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "明日备酒，与姚皇兄饯行。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "这就不敢！你我一笑而别了哇，哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期上马。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期下。"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "众将官，明日备酒长亭去者！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟搀姚母同上，姚能、姚刚同随上。"
+        },
+        {
+          "character": "姚母",
+          "type": "念",
+          "text": "夫君镇朝堂，使我心欢畅。"
+        },
+        {
+          "character": "姚能",
+          "type": "念",
+          "text": "文章腹内藏，"
+        },
+        {
+          "character": "姚刚",
+          "type": "念",
+          "text": "力大逞刚强。"
+        },
+        {
+          "character": "姚能、姚刚",
+          "type": "同白",
+          "text": "参见母亲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚能、姚刚同参拜。"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "罢了，坐下。"
+        },
+        {
+          "character": "姚能、姚刚",
+          "type": "同白",
+          "text": "告坐。母亲，今早我爹爹上关，日已过午，怎么还不见回来？"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": "姚母",
+          "type": "唱",
+          "text": "儿的父为国家心血用尽， 日操兵夜演将哪得安宁？ 我一门食君禄当把忠尽， 秉忠心扫蛮夷好享太平。"
+        },
+        {
+          "character": "姚期",
+          "type": "内白",
+          "text": "回府！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌引姚期同上。"
+        },
+        {
+          "character": "姚期",
+          "type": "二黄摇板",
+          "text": "马、杜、岑奉王命草桥来镇， 调老夫回朝转侍奉当今。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期下马。二旗牌同下。"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "王爷！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "夫人！"
+        },
+        {
+          "character": "姚能、姚刚",
+          "type": "同白",
+          "text": "爹爹！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "罢了，坐下。"
+        },
+        {
+          "character": "姚能、姚刚",
+          "type": "同白",
+          "text": "告坐。"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "王爷今日下关，为何甚迟？"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "夫人哪里知道，今有圣上思念功臣，命马、杜、岑三人镇守草桥，调老夫回朝 陪王伴驾。"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "真乃有道明君！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "夫人，闻得郭荣在朝专权，有道是："
+        },
+        {
+          "character": "姚期",
+          "type": "念",
+          "text": "伴君如伴虎，如羊伴虎眠；一朝龙颜怒，四体不周全！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "爹爹，我父子有十大汗马功劳，哪怕那郭荣老贼！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "嗯！ 夫人，你看姚刚性情倔强，力大无比。此番进京，夫人需要严加教训！"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "自有妾身照管，王爷不必过虑。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "姚能、姚刚，收拾行李，明日随为父启程。"
+        },
+        {
+          "character": "姚能、姚刚",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "姚期",
+          "type": "念",
+          "text": "交付兵权印，"
+        },
+        {
+          "character": "姚能、姚刚",
+          "type": "同念",
+          "text": "回朝见当今。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四龙套、四文堂、四大铠、马武、杜茂、岑彭同上。二丫鬟、姚母、车夫同上，过场，同下。家院、姚期、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "姚能、姚刚同上。）"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "姚皇兄！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "俺姚期有何德何能，敢劳三位皇兄长亭饯行！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "你我非一日之交，何出此言？"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "姚能、姚刚过来，见过你三位叔父。"
+        },
+        {
+          "character": "姚能、姚刚",
+          "type": "同白",
+          "text": "参见三位叔父！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "罢了。此二位？"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "两个蠢子。"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "原来是少王爷！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "不敢！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "日后定是王位。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "夸奖了！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "来呀，看酒来，待咱老马把敬姚皇兄三大杯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龙套甲看酒，马武与姚期敬酒，姚期接酒。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "叨扰了！"
+        },
+        {
+          "character": "姚期",
+          "type": "西皮快板",
+          "text": "马皇兄赠我饯行酒， 大家同饮太平瓯。 长亭饯别拱拱手， 回朝参王五凤楼。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期、姚能、姚刚、家院同下。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "众将官！将姚家父子旗号撤去，换了马、杜、岑三人旗号！"
+        },
+        {
+          "character": "杜茂、岑彭",
+          "type": "同白",
+          "text": "且慢！蛮夷所惧，是姚家父子。换了旗号，倘若那牛邈兴兵前来，何人抵挡？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "二位皇兄，休长姚家父子英勇，灭俺自己威风。那牛邈不来便罢；他若来时， 杀他个落花流水，管叫他片甲不归！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "岑彭向杜茂。"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "且自由他。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "来呀，换了马、杜、岑三人旗号，带马回关！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引刘秀、郭妃同上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "引子",
+          "text": "每日宫廷多欢笑，饮罢御宴乐逍遥。"
+        },
+        {
+          "character": "郭妃",
+          "type": "引子",
+          "text": "陪伴君王多有道，文臣武将贺当朝。"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "妾妃见驾，吾皇万岁！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "赐坐。"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "梓童，寡人闻得姚皇兄已到京都，今日入朝谢恩。寡人移坐太和殿等候，命梓 童陪驾，意下如何？"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "妾妃陪驾。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "内侍，摆驾太和殿！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "刘秀",
+          "type": "二黄原板",
+          "text": "想当年王莽贼专秉朝政， 用毒酒弑平帝篡夺乾坤。 孤王我起白水兴兵振奋， 十八载除元凶孤才中兴。"
+        },
+        {
+          "character": "郭妃",
+          "type": "二黄原板",
+          "text": "万岁爷休提那前朝奸佞， 一朝君一朝臣顺天而行。"
+        },
+        {
+          "character": "刘秀",
+          "type": "二黄原板",
+          "text": "内侍臣与孤王把旨传定， 快宣那姚子况开国元勋。"
+        },
+        {
+          "character": "大太监",
+          "type": "唱",
+          "text": "万岁旨意往下行， 宣召姚期入宫廷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监下。"
+        },
+        {
+          "character": "刘秀",
+          "type": "二黄原板",
+          "text": "将御宴摆至在太和殿等， 孤与那姚皇兄同饮杯巡。"
+        },
+        {
+          "character": "大太监",
+          "type": "内白",
+          "text": "伴驾王，随咱家来呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监引姚期同上。"
+        },
+        {
+          "character": "姚期",
+          "type": "二黄原板",
+          "text": "皇恩浩调老臣宫廷独往， 隆恩重愧无报心意彷徨。 忙转过万花厅太和殿上， 整戎装卸甲胄参见君王。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "臣、姚期见驾，吾皇万岁！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期向郭妃。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "娘娘千岁！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "姚皇兄！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "臣！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "将草桥之事，奏与朕知。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "容奏！"
+        },
+        {
+          "character": "姚期",
+          "type": "二黄原板",
+          "text": "数万儿郎边关镇， 蛮夷不敢扰边庭。 干戈宁靖民安定， 万民瞻仰歌圣恩。"
+        },
+        {
+          "character": "刘秀",
+          "type": "二黄原板",
+          "text": "姚皇兄镇边关鞍马劳顿， 朕亲自赐美酒以待功臣。"
+        },
+        {
+          "character": "姚期",
+          "type": "二黄原板",
+          "text": "忙谢过我主爷赐臣酒饮， 愿吾皇驾千秋福寿康宁。"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "姚皇兄乃开国元勋，妾妃也要敬酒一樽。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "姚皇兄，娘娘也要敬酒一樽。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "臣启万岁：自盘古以来，只有臣敬君酒，哪有反礼而行？老臣不敢。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "你乃开国元勋，这有何妨？"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "罪煞老臣了！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "看酒！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监看酒。"
+        },
+        {
+          "character": "郭妃",
+          "type": "二黄原板",
+          "text": "满满斟上酒一樽， 代驾把敬有功臣。"
+        },
+        {
+          "character": "姚期",
+          "type": "二黄原板",
+          "text": "老臣年迈如霜降， 娘娘待臣恩如山。"
+        },
+        {
+          "character": "刘秀",
+          "type": "二黄原板",
+          "text": "梓童且回后宫等， 孤与皇兄叙衷情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭妃、四太监同下。刘秀、姚期、大太监同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四番将、袁起豹引牛邈同上。"
+        },
+        {
+          "character": "牛邈",
+          "type": "粉蝶儿",
+          "text": "统领雄兵， 俺这里，统领雄兵。 整军容，声名振， 汉室平定！"
+        },
+        {
+          "character": "四番将、袁起豹",
+          "type": "同白",
+          "text": "参见千岁！"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "站立两厢。"
+        },
+        {
+          "character": "四番将、袁起豹",
+          "type": "同白",
+          "text": "谢千岁！"
+        },
+        {
+          "character": "牛邈",
+          "type": "念",
+          "text": "塞外野蛮十八洞，全凭武艺逞威风。帐下儿郎多英勇，要夺汉室锦江洪。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "孤、牛邈。立业番邦，为十八洞主，英勇无敌。恼恨姚金、姚银将我父杀害， 是我屡次兴兵报仇，怎奈姚期父子镇守草桥，难以攻破。为此两下停战。 袁起豹！"
+        },
+        {
+          "character": "袁起豹",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "命你去到桃源洞，命宛月娥带领本部苗兵，前来协助，攻打草桥，不得违误！"
+        },
+        {
+          "character": "袁起豹",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袁起豹下。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "今乃黄道吉日，正好操兵。 巴图鲁！"
+        },
+        {
+          "character": "四下手、四番将",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "打道校场！"
+        },
+        {
+          "character": "四下手、四番将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启千岁：草桥关换了马、杜、岑旗号，姚家父子调回京去。特来报知！"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "牛邈",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "孤只道姚家父子永镇草桥。如今调回京去，乃天赐我成功也。 巴图鲁！"
+        },
+        {
+          "character": "四下手、四番将",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "今日出兵，须要人人奋勇，攻破草桥，直抵中原，得了汉室天下，个个有赏。 就此起兵前往！"
+        },
+        {
+          "character": "四下手、四番将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四文堂、四大铠引马武、杜茂、岑彭同上。"
+        },
+        {
+          "character": "岑彭",
+          "type": "念",
+          "text": "旭日辕门鼓声敲，"
+        },
+        {
+          "character": "马武",
+          "type": "念",
+          "text": "腰横秋水雁翎刀。"
+        },
+        {
+          "character": "杜茂",
+          "type": "念",
+          "text": "风吹鼍鼓山岳动，"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同念",
+          "text": "电闪旌旗日月高。"
+        },
+        {
+          "character": "马武、杜茂、岑彭",
+          "type": "同白",
+          "text": "请坐！"
+        },
+        {
+          "character": "岑彭",
+          "type": "白",
+          "text": "我等奉命前来镇守草桥，且喜烽烟尽熄，此乃吾主洪福也。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "二位皇兄，你我将姚家旗号撤去，换了俺三人旗号，也未曾见蛮夷前来，可见 姚家父子尽是虚张声势。"
+        },
+        {
+          "character": "岑彭、杜茂",
+          "type": "同白",
+          "text": "休得夸口！且听探马一报。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启王爷：牛邈讨战！"
+        },
+        {
+          "character": "岑彭、杜茂",
+          "type": "同白",
+          "text": "马皇兄正在夸口，如今牛邈讨战，何计退敌？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "二位皇兄，难道你我三人不如姚家父子？ 嘚！众将官，起兵迎敌去者！"
+        },
+        {
+          "character": "四龙套、四文堂、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四文堂、四大铠、马武、杜茂、岑彭同走圆场。四下手、四番将、牛邈同上，会阵。"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "牛邈啊狗贼！你怕姚家父子，难道不怕马、杜、岑三位老子吗？"
+        },
+        {
+          "character": "牛邈",
+          "type": "白",
+          "text": "住了！俺只知姚家父子之勇，哪见你这丑鬼！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "一派胡言！放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武、牛皋同起打。四龙套、四文堂、四大铠、马武、杜茂、岑彭同败下。四下手、四番将、牛邈同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四文堂、四大铠、马武、杜茂、岑彭同败上。"
+        },
+        {
+          "character": "岑彭、杜茂",
+          "type": "同白",
+          "text": "马皇兄，先前怎样夸口，如今杀得大败，如何是好？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "二位皇兄不必惊慌。你等退进城去，坚守不战。待老马杀出重围，回朝去搬姚 皇兄前来解围。"
+        },
+        {
+          "character": "岑彭、杜茂",
+          "type": "同白",
+          "text": "言之有理。杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四番将、牛邈同追上，开打。马武杀出重围。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "好小子，你等着我的吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武下。开打。四龙套、四文堂、四大铠、杜茂、岑彭同败下，四下手、四番将、牛邈同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武急上。"
+        },
+        {
+          "character": "马武",
+          "type": "念",
+          "text": "军情如火速，搬兵回帝都。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "且喜杀出重围，就此马上加鞭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": "姚刚",
+          "type": "内西皮小导板",
+          "text": "在花园闷坏了姚霸林，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚带石锁上。"
+        },
+        {
+          "character": "姚刚",
+          "type": "西皮摇板",
+          "text": "不出门怎玩耍好不愁人。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "嘿！想俺姚刚，只为性情凶顽，行事鲁莽，爹娘恐俺闯祸，将俺锁禁花园。欲 想跳出墙去，到街上玩耍，嘿，带着这个东西，岂不被人耻笑？有心扭断链子， 又恐违了父命，好不闷煞人也！且待母亲到来，求她与我讲个人情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚母内咳嗽声。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "话言未了，母亲来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟搀姚母同上。"
+        },
+        {
+          "character": "姚母",
+          "type": "念",
+          "text": "明君思功勋，回朝奉当今。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "参见母亲！"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "儿呀，只为你性情不好，恐你在外闯祸，因此将你锁在花园。你是悔也不悔？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "母亲，孩儿从今改过，再也不敢闯祸了。求母亲在爹爹面前与孩儿讲个人情！"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "只要我儿改过，等你爹爹回来，为娘与你讲个人情就是。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "多谢母亲！"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "丫鬟，带他厨下用饭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚母下。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "怎么着，吃饭去？我正饿着哪。好啦，我的灾星要退啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚、二丫鬟同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四青袍、丑院子引郭荣同上。院子暗上。"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "老夫、郭荣。今有姚期奉旨回都，圣上在太和殿赐宴，命老夫前去陪宴。看在 主公份上，只得走遭。 来！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "开道！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鸣锣开道。姚刚上，登花墙。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "呔！什么人在此鸣锣开道？"
+        },
+        {
+          "character": "丑院子",
+          "type": "白",
+          "text": "郭老太师打此经过。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "瞎了尔的狗眼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚跳墙出。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "俺门前有勒赐碑牌：文官下轿，武将离鞍。你是何人，擅敢胡为？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭荣下轿。"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "待老夫观看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭荣看姚刚。"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "老夫郭荣在此！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "郭荣啊老贼！我来问你：你在朝为官，凭文？"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "不凭文。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "论武？"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "不论武。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "凭着何来，得来这身荣耀？"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "我女在西宫陪王伴驾，喏喏喏，我乃是当朝的国丈啊！"
+        },
+        {
+          "character": "姚刚",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "我当是凭文论武，挣来的乌纱紫袍；原来是裙边带来的官儿。你少爷我有些不 尊敬，你呀，有点儿不害臊噢！"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "唗！胆大奴才，出此狂言？就是你父，也要惧怕老夫几分。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "郭荣",
+          "type": "白",
+          "text": "惧怕老夫几分！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "哇呀呀……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚打死郭荣。丑院子、四青袍同跑下。院子暗下。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "起来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚看郭荣。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "这老儿不经打，一下就死啦。哎呀，此祸闯的不小，趁此无人知道，不免跳进 墙去，正是："
+        },
+        {
+          "character": "姚刚",
+          "type": "念",
+          "text": "命该丧吾手，也免害良民！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚跳进墙，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子急上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请夫人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟挽姚母同上。"
+        },
+        {
+          "character": "姚母",
+          "type": "念",
+          "text": "我儿顽劣性，时刻挂在心。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "启夫人：大事不好了？"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "少王爷用太湖石将国丈压死了。"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "姚母",
+          "type": "唱",
+          "text": "蠢材不改顽劣性， 打死国丈罪非轻。 丫鬟带路花园进！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚母、二丫鬟、院子同走小圆场。姚刚上。"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "畜生啊！"
+        },
+        {
+          "character": "姚母",
+          "type": "唱",
+          "text": "一见奴才动无名。 打死了国丈就该偿命， 快与王爷报信音。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四文堂引姚期同上。院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "启王爷：今有少王爷用太湖石将郭老太师压死了。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "这奴才今在何处？"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "姚能看守。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "唤他前来！"
+        },
+        {
+          "character": "姚母",
+          "type": "白",
+          "text": "请你二位少王爷！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请二位少王爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚能、姚刚同上。"
+        },
+        {
+          "character": "姚能",
+          "type": "念",
+          "text": "父子在朝功劳大，"
+        },
+        {
+          "character": "姚刚",
+          "type": "念",
+          "text": "压死国丈不犯法。"
+        },
+        {
+          "character": "姚能、姚刚",
+          "type": "同白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "儿是姚刚？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "孩儿姚刚。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "进前来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚寸步进前，姚期打姚刚耳光。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "奴才！"
+        },
+        {
+          "character": "姚期",
+          "type": "唱",
+          "text": "小奴才做事真胆大， 压死国丈犯王法。 人来与爷忙绑下，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同绑姚刚，姚刚不让绑，姚期亲自绑姚刚。"
+        },
+        {
+          "character": "姚期",
+          "type": "唱",
+          "text": "免万岁传圣旨来锁拿。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "姚能过来！你三弟闯此灭门大祸，你不是姚家所生，你逃命去吧！"
+        },
+        {
+          "character": "姚能",
+          "type": "白",
+          "text": "哎呀爹爹呀，孩儿虽不是姚家所生，也是母亲所养。今日兄弟压死国丈，也是 削除奸佞。孩儿若是逃生，岂不被人笑骂？情愿死在一处，绝不分离的呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚能哭。"
+        },
+        {
+          "character": "姚能",
+          "type": "唱",
+          "text": "儿虽不是父生养， 抚育成人恩难忘。 爹爹尽忠儿尽孝， 怎忍偷生奔他乡？"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "好，起过一旁。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "兄长，俺一人做事一人当，岂肯连累于你？你还是逃命去吧！"
+        },
+        {
+          "character": "姚能",
+          "type": "白",
+          "text": "愚兄情愿死在一处。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "怎么着，情愿死在一处？好哥哥！有骨头！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "一家大小丫鬟，院子过来！你家少王爷惹下这样灭门大祸，尔等收拾行李，各 自逃命去吧！"
+        },
+        {
+          "character": "二丫鬟、院子",
+          "type": "同白",
+          "text": "王爷待我等恩重如山，我们大家也情愿死在一处！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "好哇！想逆子姚刚，用太湖石压死国丈，惹下这样灭门大祸，圣上传旨，免其 一死，是千好万好。若是将我全家正法，我死为“忠”，子死为“孝”，妻死 为“节”，尔等大家成全一个“义”字，真乃“忠”“孝”“节”“义”。请 上受我全家一拜！"
+        },
+        {
+          "character": "姚期",
+          "type": "唱",
+          "text": "一家人大小全忠孝， 留下美名万古标。 二堂之上齐绑好， 一家大小受煎熬。 悲悲切切午门到，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期、姚母、姚能、姚刚、二丫鬟、院子同走小圆场"
+        },
+        {
+          "character": "姚期",
+          "type": "唱",
+          "text": "丹墀之下叩当朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期、姚母、姚能、姚刚、二丫鬟、院子同跪，大太监上。"
+        },
+        {
+          "character": "大太监",
+          "type": "念",
+          "text": "御街人已尽，是谁叩丹墀？"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "逆子姚刚，用太湖石压死国丈。姚期知罪，捆绑一家大小。烦劳公公转奏，念 老臣草桥呵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "待咱家替你转奏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监下，上。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "圣旨下呀！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "听宣读。诏曰：今有姚期纵子行凶，姚刚用太湖石压死国丈。万岁酒醉，娘娘 传旨：将姚期满门押至西郊，午时三刻斩首啊！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉同上。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "押下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉押姚期、姚母、姚能、姚刚、二丫鬟、院子同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武上。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "俺，马武。只因草桥被围，回朝搬请姚家父子，马上加鞭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉押姚期、姚母、姚能、姚刚、二丫鬟、院子同上。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "罢了哇罢了！"
+        },
+        {
+          "character": "姚期",
+          "type": "红绣鞋",
+          "text": "忠良无辜被刀残！"
+        },
+        {
+          "character": "马武",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武上。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "呔！西郊为何这样喧哗？"
+        },
+        {
+          "character": "校尉甲",
+          "type": "白",
+          "text": "今有姚刚用太湖石压死国丈，圣上传旨，将姚家满门午时三刻斩首，故尔喧哗。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "哇呀呀……姚皇兄在哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武见姚期。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "姚皇兄暂受一时之苦，待俺马武进宫保奏。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "全仗皇兄！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "嘚！校尉的！姚王爷请至席棚，好生款待，若有差池，招儿的头来！咱去了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武下。四校尉押姚期、姚母、姚能、姚刚、二丫鬟、院子同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监引刘秀、郭妃同上。"
+        },
+        {
+          "character": "刘秀",
+          "type": "唱",
+          "text": "安睡龙床忽自醒， 风阁烟霞瑞气生。"
+        },
+        {
+          "character": "郭妃",
+          "type": "唱",
+          "text": "我父不幸传凶信， 哭奏龙颜把本申。"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "万岁呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭妃哭。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "梓童何故如此？"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "万岁呀，今有姚期之子，用太湖石将妾妃之父打死了！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "啊，有这等事！梓童不必啼哭，待寡人与你作主就是。"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "万岁速速传旨，将姚家父子斩首西郊，妾父死在九泉，也得瞑目。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "内侍传旨，将姚家父子午时三刻开刀问斩！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监向内。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "万岁有旨：将姚家父子午时三刻开刀问斩！"
+        },
+        {
+          "character": "四校尉",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内击錪声。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "何人传錪？"
+        },
+        {
+          "character": "马武",
+          "type": "内白",
+          "text": "草桥关马武有本启奏。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "候着！ 救命星来啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监进。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "启万岁：马武回朝，有本启奏。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "宣他进宫。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨。马武进宫啊！"
+        },
+        {
+          "character": "马武",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武上。"
+        },
+        {
+          "character": "马武",
+          "type": "念",
+          "text": "只为搬兵事，进宫把本申。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "马武见驾，吾皇万岁！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武向郭妃。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "娘娘千岁！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "皇兄回朝，有何本奏？"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "臣启万岁：今有牛邈兴兵前来，攻打草桥，臣等三人难以抵敌，那贼将草桥关 团团围住。臣杀出重围，回得朝来，搬请姚家父子前去解围。"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "万岁，姚家父子已绑赴西郊斩首了。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "是呀，姚期绑赴西郊，午时三刻就要斩首了。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "万岁，姚期身犯何罪，将他问斩？"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "万岁，姚刚压死国丈，理当斩首！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "是呀，压死国丈，理当问斩！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "万岁，姚刚压死国丈，理应姚刚一人偿命；为何全家问斩？"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "万岁，姚期治家不严，纵子行凶，理当全家问斩！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "是呀，纵子行凶，理当全家问斩！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "万岁，马武有本冒奏！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "奏来！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "容奏！想那郭太师在朝买官鬻爵，混乱朝纲，似这等臣子，死者不亏！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "启万岁：马武进宫，冒奏欺君，理当与姚期一例同罪！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "唗！胆大马武，冒奏欺君，当与姚期一例同罪！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "万岁，微臣一死，何足惜哉？今日斩了姚家父子，那牛邈兴兵前来，万岁江山， 只恐难保！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "江山不要，也要问斩！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "江山不要，也要问斩！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "漫说江山，就是万岁与娘娘的性命，也有难保！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "万岁！性命不要，也要问斩！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "性命不要，也要问斩，斩定了！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "万岁，还是赦了的好！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "定斩不赦！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "娘娘，当真不赦？"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "当真不赦！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "果然不赦？"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "果然不赦！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "你不赦吗？招打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武假打刘秀、郭妃。"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "寡人赦了！姚家父子戴罪立功，前往草桥解围。出宫去吧！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "啊喳！喳！喳！谢主龙恩！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武下。"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "且住！我乃一朝国母，今被臣子凌辱。也罢，待我碰死了吧！"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "妃子不必如此，待等平服牛邈回来，再与梓童报仇。"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "只怕未必？"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "一定！"
+        },
+        {
+          "character": "郭妃",
+          "type": "白",
+          "text": "只怕不准？"
+        },
+        {
+          "character": "刘秀",
+          "type": "白",
+          "text": "有准哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘秀下。郭妃、大太监同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马武上。"
+        },
+        {
+          "character": "马武",
+          "type": "唱",
+          "text": "非俺马武行卤莽， 只为汉室锦家邦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四校尉押姚期、姚母、姚能、姚刚、二丫鬟、院子同上。"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "圣旨下，跪！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "听宣读。诏曰：赦了姚家父子，戴罪征剿，解围草桥，打了胜仗，将功折罪。 旨意读罢，望诏谢恩！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚期起。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "有劳皇兄保奏！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "姚刚，谢过马叔父。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "多谢马叔父！"
+        },
+        {
+          "character": "马武",
+          "type": "白",
+          "text": "姚刚我的儿呀，此番披挂解围草桥，你要奋勇杀退牛邈，以后闯出什么大祸， 都有你马叔父担待。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "有叔父担待，我也不敢闯啦。"
+        },
+        {
+          "character": "姚期",
+          "type": "白",
+          "text": "休得宠爱于他。回府披挂，即日前往！"
+        },
+        {
+          "character": "马武、姚期",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

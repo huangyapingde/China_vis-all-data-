@@ -1,0 +1,1231 @@
+{
+  "script_id": "03090005",
+  "title": "天水关",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "诸葛亮",
+      "hangdang": "老生"
+    },
+    {
+      "name": "姜维",
+      "hangdang": "净"
+    },
+    {
+      "name": "刘禅",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "诸葛亮攻取天水关，魏国守将马遵不敢出战，高悬免战牌。遵部将姜维请令出城迎战，击败蜀将赵云。诸葛\n亮深爱姜维之才，乃命魏延假扮姜维至关前，扬言已降蜀军。马遵于黑夜中不辨真假，果中计，大骂姜维。\n俟姜维至，闭门不纳。姜维进退无路，而降蜀。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监、刘禅同上。"
+        },
+        {
+          "character": "刘禅",
+          "type": "引子",
+          "text": "凤阁龙楼，万古千秋。"
+        },
+        {
+          "character": "刘禅",
+          "type": "念",
+          "text": "三国纷纷屡战争，昼夜杀砍马不停。文凭相父安天下，武凭皇叔定乾坤。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "小王，刘禅。国号建兴在位。自登基以来，风调雨顺，国泰民安。今当早朝。 内侍！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "奴婢在。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "展放龙门！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "遵旨。 展放龙门哪！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "引子",
+          "text": "带砺山河，掌丝纶，运筹帷幄。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "臣，诸葛亮见驾。我主万岁！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "相父平身。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "赐坐。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "相父手捧何物？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "臣有出师表章，请我主龙目御览。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "唔呼呀！才得干戈宁静，相父又要领兵扫灭中原，叫孤心何忍！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "陛下！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄慢三眼板",
+          "text": "先帝爷白帝城龙归海境， 传口诏命老臣常挂在心。 叫老臣保我主社稷重整， 命老臣把孙、曹一扫平。 臣上本并非为别事议论， 望我主准本章臣好发兵。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄原板",
+          "text": "老相父上条陈孤心难忍， 你本是先帝爷托孤老臣。 待等到明早朝文武议论， 待等到明日里长亭饯行。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "食君禄报主恩忠心秉正， 臣怎敢劳我主长亭饯行！"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄原板",
+          "text": "内侍臣摆銮驾——"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄摇板",
+          "text": "后宫来进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监同下。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄摇板",
+          "text": "老相父回府去调动三军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮、刘禅自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延、马岱、关兴、张苞同上。"
+        },
+        {
+          "character": "魏延",
+          "type": "念",
+          "text": "大将生来盖世雄，"
+        },
+        {
+          "character": "马岱",
+          "type": "念",
+          "text": "万马营中逞威风。"
+        },
+        {
+          "character": "关兴",
+          "type": "念",
+          "text": "耀武扬威英雄将，"
+        },
+        {
+          "character": "张苞",
+          "type": "念",
+          "text": "斩将夺旗立大功。"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "魏延。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "马岱。"
+        },
+        {
+          "character": "关兴",
+          "type": "白",
+          "text": "关兴。"
+        },
+        {
+          "character": "张苞",
+          "type": "白",
+          "text": "张苞。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "列位将军请了！"
+        },
+        {
+          "character": "马岱、关兴、张苞",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "丞相发兵，在此伺候！"
+        },
+        {
+          "character": "马岱、关兴、张苞",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白文堂、赵云同上。"
+        },
+        {
+          "character": "赵云",
+          "type": "念",
+          "text": "白发苍苍似银条，东战孙权北灭曹。"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "参见老将军！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "人马可曾齐备？"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "俱已齐备。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "圣驾到此，速报我知。"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "圣驾到！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "一同接驾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂、四太监、大太监、诸葛亮、刘禅同上。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄原板",
+          "text": "手挽手与相父长亭来进，"
+        },
+        {
+          "character": "赵云、魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "臣等见驾！"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄原板",
+          "text": "众将官一个个杀气腾腾。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "看香案！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二太监同摆香案。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄原板",
+          "text": "内侍臣看香案当中供定， 待小王祭过了旗纛尊神。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘禅跪，诸葛亮、赵云、魏延、马岱、关兴、张苞同随跪。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄原板",
+          "text": "但愿得此一去旗开得胜， 但愿得此一去马到功成。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘禅起，诸葛亮、赵云、魏延、马岱、关兴、张苞同随起。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "看酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监甲斟酒。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄原板",
+          "text": "内侍臣看过了皇封御饮， 我与相父来饯行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘禅递酒与诸葛亮，诸葛亮接。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "我主爷赐为臣皇封御饮， 背转身谢过了旗纛尊神。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮以酒祭天地。"
+        },
+        {
+          "character": "刘禅",
+          "type": "白",
+          "text": "看酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监甲斟酒。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄原板",
+          "text": "四皇叔近前来孤王赐饮，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘禅递酒与赵云，赵云接。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二簧原板",
+          "text": "但愿得把狼烟一扫而平。"
+        },
+        {
+          "character": "赵云",
+          "type": "二黄原板",
+          "text": "臣年迈仗我主洪福天定， 臣怎敢劳我主长亭饯行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云以酒祭天地。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "我朝中有二臣忠心秉正， 蒋公琰、费文伟二大贤臣。 主临朝大小事和他们议论， 常言道军国事依理而行！"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄原板",
+          "text": "老相父奏的事——"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄摇板",
+          "text": "孤当从命，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "臣择就午时后就要发兵。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄摇板",
+          "text": "御林军摆銮驾皇城来进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监同下。"
+        },
+        {
+          "character": "刘禅",
+          "type": "二黄摇板",
+          "text": "得胜回孤迎接十里长亭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘禅下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "传将令众三军齐跨金镫， 文武官齐免送响炮拔营！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "赵云、魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "兵出祁山！"
+        },
+        {
+          "character": "赵云、魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套、马遵同上。"
+        },
+        {
+          "character": "马遵",
+          "type": "念",
+          "text": "镇守天水关，儿郎心胆寒！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "韩德父子五人落马！"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "四红龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "免战高悬！"
+        },
+        {
+          "character": "四红龙套",
+          "type": "同白",
+          "text": "啊！ 免战高悬！"
+        },
+        {
+          "character": "姜维",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维上。"
+        },
+        {
+          "character": "姜维",
+          "type": "念",
+          "text": "一颗明珠土内藏，数载未曾放豪光！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "某，姓姜名维字伯约。正在后帐观看兵书，忽听太守免战高悬，不免进帐问个 明白。 报，姜维告进！太守在上，末将参见！"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "将军少礼。请坐！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "无令进帐何事？"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "太守为何免战高悬？"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "只因韩德父子五人落马，故而免战高悬。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "太守赐某一支人马，生擒赵云进帐！"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "将军有此胆量？"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "有此胆量！"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "如此，姜维听令！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "命你大战赵云，不得有误！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "马遵",
+          "type": "念",
+          "text": "令出山摇动，"
+        },
+        {
+          "character": "姜维",
+          "type": "念",
+          "text": "言发鬼神惊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套、马遵同下。四绿龙套同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四绿龙套",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "站立两厢，听某令下！"
+        },
+        {
+          "character": "四绿龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮导板",
+          "text": "姜伯约在校场忙传令号，"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮原板",
+          "text": "叫一声众三军细听根苗： 刘玄德坐西川人称有道， 全凭着五虎将立下功劳。 他二弟关美髯谁人不晓， 他三弟张翼德喝断了当阳桥。 西凉将小马超英雄年少， 还有个老黄忠惯使大刀。 这一班五虎将——"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮快板",
+          "text": "俱已丧了， 只剩下赵子龙老迈年高。 刘阿斗坐西川年纪幼小， 有关兴和张苞哪在心梢。 三军与爷带马战场到，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维上马，四绿龙套同下。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮散板",
+          "text": "擒子龙灭孔明就在今朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云上。"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮快板",
+          "text": "韩德父子打败仗， 不由老夫喜洋洋。 催马来在战场上， 那旁来了送死郎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维上。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "两军阵见一将年纪迈了， 叫老儿通上名好把战交！"
+        },
+        {
+          "character": "赵云",
+          "type": "西皮摇板",
+          "text": "你老爷赵子龙谁人不晓， 黄毛贼通上名好把战交！"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "你老爷姜伯约谁人不晓， 生擒你灭孔明就在今朝！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维、赵云同起打，赵云不支。关兴上，挡。赵云、关兴同下。四绿龙套同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "正要擒那赵子龙， 忽然闪出一孩童。 手使大刀威风勇， 亚赛当年美髯公。 三军齐打得胜鼓，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四绿龙套同下。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "太守台前报头功。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂、诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "辕门战鼓响，将士列两旁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云上。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "参见丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老将军回来了？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "胜败如何？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "头一阵枪挑韩德父子五人落马。后来一将，将俺杀得大败。不是关兴搭救，险 遭不测。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "可曾问过敌将的名姓？"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "姓姜名维字伯约。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哦姜维！老将军后帐歇息。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "谢丞相！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "传魏延、马岱、关兴、张苞进帐！"
+        },
+        {
+          "character": "红文堂甲",
+          "type": "白",
+          "text": "魏延、马岱、关兴、张苞进帐！"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延、马岱、关兴、张苞同上。"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "同念",
+          "text": "豪杰标名姓，三国旧有名。"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "参见丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "站立两厢，听老夫令下。"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "一支将令往下传，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮流水板",
+          "text": "镇北将军名魏延。 假扮姜维关前战， 口口声声出反言。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "魏延",
+          "type": "西皮散板",
+          "text": "接过丞相一令箭， 假扮姜维去诈关。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "传令再把马岱唤，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮流水板",
+          "text": "你虚心假意战魏延。 若遇姜维莫交战， 命你兵败凤凰山。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "马岱",
+          "type": "西皮散板",
+          "text": "丞相将令往下传， 大战姜维在凤凰山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "龙虎二将一声唤，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮流水板",
+          "text": "齐心努力莫偷闲。 二马连环把姜维战， 杀得他四路无门跪马前。"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": "关兴、张苞",
+          "type": "同西皮散板",
+          "text": "丞相将令往下传， 好似猛虎下高山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞同下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "人来看过四轮辇，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂同下。车夫上，诸葛亮上车。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "一战成功定中原。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮、车夫同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红龙套、马遵同上。"
+        },
+        {
+          "character": "马遵",
+          "type": "念",
+          "text": "辕门战鼓响，儿郎报端详。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "姜维降汉！"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "马遵",
+          "type": "西皮摇板",
+          "text": "听说姜维把汉降， 不由本帅着了慌。 人来带路敌楼上， 看是何人摆战场！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延上。"
+        },
+        {
+          "character": "魏延",
+          "type": "西皮摇板",
+          "text": "催马来在疆场上， 太守开关做商量。"
+        },
+        {
+          "character": "马遵",
+          "type": "西皮摇板",
+          "text": "黑夜迷漫难观望， 你是何人到战场？"
+        },
+        {
+          "character": "魏延",
+          "type": "西皮摇板",
+          "text": "太守不必问其详， 某是姜维把汉降。"
+        },
+        {
+          "character": "马遵",
+          "type": "西皮摇板",
+          "text": "耳旁又听鸾铃响，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延下。"
+        },
+        {
+          "character": "马遵",
+          "type": "西皮摇板",
+          "text": "又是何人到战场！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维、马岱同上，同起打。马岱败下。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "催马来在战场上， 都督开关做商量。"
+        },
+        {
+          "character": "马遵",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "马遵",
+          "type": "西皮摇板",
+          "text": "你今降了诸葛亮， 不念你母在此方。 开弓便把雕翎放，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马遵放箭，下。姜维下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂、诸葛亮、车夫同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "四面安排天罗网， 姜维小儿无躲藏。 四轮辇暂停在山冈上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮下车，车夫下。四红文堂、诸葛亮同上山。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "准备弩弓要射虎狼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延、马岱、关兴、张苞同上，四绿文堂、姜维同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "四面俱是蜀营将， 杀得豪杰无躲藏。 勒住丝缰用目望，"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "诸葛孔明在山冈。 认得他是诸葛亮， 不由豪杰怒满膛。 手执金枪朝上闯，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延、马岱、关兴、张苞同架住姜维枪。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "姜维小儿休逞强！ 要保保个真明主， 为什么扶保篡位王？"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "同西皮摇板",
+          "text": "姜维小儿休逞强， 刚强怎比楚霸王。 猛虎又被烈虎当， 看你归降不归降！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "豪杰入了天罗网， 一人怎敌百万郎！ 无奈何只得下丝缰，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维下马。"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮摇板",
+          "text": "含羞带愧降刘王。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "姜维降汉！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮导板",
+          "text": "先天大数如反掌，"
+        },
+        {
+          "character": "魏延、马岱、关兴、张苞",
+          "type": "同白",
+          "text": "姜维降汉！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂、诸葛亮同下山。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮原板",
+          "text": "事不随心意彷徨。 我不爱将军韬略广， 爱将军是一个行孝的儿郎。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "丞相！"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮原板",
+          "text": "久闻丞相韬略广， 某早有降心归顺刘王。 望丞相开大恩将某放，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "却是为何？"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮原板",
+          "text": "历城还有年迈娘！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "将军！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮原板",
+          "text": "我早已安排令堂母，"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "谢丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮原板",
+          "text": "将军何必挂在胸膛。 一出祁山收此将， 暗中得意喜洋洋。 怕只怕五丈原秋风降， 军师大印他承当。 将军请把——"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "车辇上，"
+        },
+        {
+          "character": "姜维",
+          "type": "西皮散板",
+          "text": "姜维撩袍跪道旁！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "将酒宴摆在中军帐， 我和你谈论兵机好做商量。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

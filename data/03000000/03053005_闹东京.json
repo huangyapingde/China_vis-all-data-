@@ -1,0 +1,2352 @@
+{
+  "script_id": "03053005",
+  "title": "闹东京",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "包拯",
+      "hangdang": "净"
+    },
+    {
+      "name": "假包拯",
+      "hangdang": "净"
+    },
+    {
+      "name": "施俊",
+      "hangdang": "小生"
+    },
+    {
+      "name": "假施俊",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "书生施俊上京考试，为白鼠精所悉。白鼠精假扮施俊，调戏施妻。施俊回大怒，控于首相王延龄。王延龄亦\n难辨真假，转案于包拯。五鼠精变假包拯以扰之。包拯请来李天王降妖。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小妖引白鼠仙同上。"
+        },
+        {
+          "character": "白鼠仙",
+          "type": "点绦唇",
+          "text": "五色云高，祥光缭绕，妖气扰，地动山摇，个个威风浩。"
+        },
+        {
+          "character": "白鼠仙",
+          "type": "念",
+          "text": "高山修炼几千年，变化无穷在世间。美女朝朝奉玉酒，赛过蓬莱一洞仙。"
+        },
+        {
+          "character": "白鼠仙",
+          "type": "白",
+          "text": "吾乃、瑞海洞中白鼠仙是也。排行第五，执掌三千鼠兵。每日操演阵法，个个 纵跳如飞。这且不言。今日洞中无事，不免去到山前设座民房，开所酒店，如 有来往俊俏女子，掳她几个进洞，也好追欢取乐。 众小妖！"
+        },
+        {
+          "character": "四小妖",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "白鼠仙",
+          "type": "白",
+          "text": "山前去者！"
+        },
+        {
+          "character": "四小妖",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊上。"
+        },
+        {
+          "character": "施俊",
+          "type": "引子",
+          "text": "云散明金阙，心清爱玉壶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童暗上。"
+        },
+        {
+          "character": "施俊",
+          "type": "念",
+          "text": "应嫌屐齿印苍苔，十叩柴门九不开。春色满园关不住，一枝红杏出墙来。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "卑人、施俊。乃清河县人氏。双亲去世。娶妻何氏，品性温柔，贤良贞静。这 且不言。今当东京开科取士，意欲上京赴考。不免请娘子出来商议。 书童！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "有请大娘！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "有请大娘！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟引何氏同上。"
+        },
+        {
+          "character": "何氏",
+          "type": "念",
+          "text": "梳罢妆台晚，又到画堂深。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "官人！"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "娘子！请坐！"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "官人请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何氏坐。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "唤妾身出来，有何吩咐？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "今当大比之年，意欲上京求名。娘子在家，早晚须要小心门户。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "官人只管放心前去。妾身在家，还有丫鬟陪伴，不须挂念。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "书童，收拾琴剑书箱伺候！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童下。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "妾身备得有酒，与官人饯行。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "多谢娘子！"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "丫鬟，看酒！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟取酒。"
+        },
+        {
+          "character": "何氏",
+          "type": "唱",
+          "text": "尊官人你且把宽心放定， 家下事何须要常挂在心。 叫丫鬟看美酒向前奉敬，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟执壶斟酒。"
+        },
+        {
+          "character": "何氏",
+          "type": "唱",
+          "text": "惟愿你中皇榜一举成名。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "蒙娘子赠吉言满心欢欣， 此一去必能够身入龙门。 愿只愿祖先爷阴灵有应，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童上，带马。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "愿只愿占魁首荣耀门庭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊上马，下。书童随下。"
+        },
+        {
+          "character": "何氏",
+          "type": "唱",
+          "text": "见官人登程安满心欢欣， 且等候锦衣归来报好音。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何氏下，丫鬟随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四小妖引白鼠仙同上。"
+        },
+        {
+          "character": "小妖甲",
+          "type": "白",
+          "text": "来此山前。"
+        },
+        {
+          "character": "白鼠仙",
+          "type": "白",
+          "text": "闪开了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白鼠仙看。"
+        },
+        {
+          "character": "白鼠仙",
+          "type": "白",
+          "text": "倒是个冲要之地。待我点化一座房屋。尔等扮作店家模样，徜有女子，掳她进 洞，不得有误！"
+        },
+        {
+          "character": "四小妖",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四小妖下。"
+        },
+        {
+          "character": "白鼠仙",
+          "type": "白",
+          "text": "待俺变一书生，在此游戏等候便了。正是："
+        },
+        {
+          "character": "白鼠仙",
+          "type": "念",
+          "text": "一心要寻香闺女，吾今变做俊悄郎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "火彩。白鼠仙下，假书生上，笑。"
+        },
+        {
+          "character": "假书生",
+          "type": "数板",
+          "text": "好酒贪花，杏花村内是吾家；我今寻找，俊悄女姣娃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四假店家同上。"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "吾乃白鼠仙是也。在此变化一座客店，等候来往佳人。 众伙计，烹茶伺候！"
+        },
+        {
+          "character": "四假店家",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "假书生",
+          "type": "唱",
+          "text": "我今安排牢笼计， 他人怎解其中情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊上，书童随上。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "方才离了桃花坞， 不觉天色又黄昏。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "相公，这儿有座旅店，安宿一夜再走吧。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "好。前去打店。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "店家，店家！"
+        },
+        {
+          "character": "假店家",
+          "type": "内白",
+          "text": "来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假店家上。"
+        },
+        {
+          "character": "假店家",
+          "type": "念",
+          "text": "隔壁三家醉，开坛十里香。"
+        },
+        {
+          "character": "假店家",
+          "type": "白",
+          "text": "是哪位？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "我们是投宿的。"
+        },
+        {
+          "character": "假店家",
+          "type": "白",
+          "text": "请到里面。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "带路！"
+        },
+        {
+          "character": "假店家",
+          "type": "白",
+          "text": "相公见礼啦！"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "假店家",
+          "type": "白",
+          "text": "相公请坐！请问相公向何处公干？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "卑人是上京赶考的。"
+        },
+        {
+          "character": "假店家",
+          "type": "白",
+          "text": "小店中昨日来了一位相公，也是上京求取功名的。你们二位必然是高中的啦。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "多谢金言！既有斯文，何不请来相见？"
+        },
+        {
+          "character": "假店家",
+          "type": "白",
+          "text": "我请他去。 有请旧相公！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假书生上。"
+        },
+        {
+          "character": "假书生",
+          "type": "念",
+          "text": "玩月人何处，风景依旧时。"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "假店家",
+          "type": "白",
+          "text": "我店里来了一位相公，请您哪过去谈谈心。我烹茶去。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "我在哪儿睡？"
+        },
+        {
+          "character": "假店家",
+          "type": "白",
+          "text": "你跟我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童随假店家同下。"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "待我向前。 啊，相公请了！"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "请来见礼！"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "还礼。请坐！"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "有坐！方才店家言道，相公也是上京求取功名的。若不嫌弃，明日结伴同行如 何？"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "好说。既蒙雅爱，愿陪伴而行。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "岂敢！请问相公仙乡何处，高姓大名？"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "小弟姓旧名用，乃本处人氏。请问贵姓髙名，仙乡何处，尊府还有何人？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "小生姓施名俊，乃清河人氏。双亲早亡。妻房何氏，女工针黹，倒也秀丽。惶 恐啊惶恐！"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "我见相公红光满面，必占高魁。待小弟把敬三杯。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "多有叨扰！"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "岂敢！ 店家，看酒来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假店家持酒上。"
+        },
+        {
+          "character": "假店家",
+          "type": "白",
+          "text": "相公，酒来啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假店家下。"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "相公请！"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "一心要攀月中桂，"
+        },
+        {
+          "character": "假书生",
+          "type": "唱",
+          "text": "定取髙魁转还乡。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "当今天子开皇榜，"
+        },
+        {
+          "character": "假书生",
+          "type": "唱",
+          "text": "御笔钦点状元郎。"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "相公，再饮几杯！"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "酒已够了，不能奉陪了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊醉，沉睡。"
+        },
+        {
+          "character": "假书生",
+          "type": "白",
+          "text": "且住！看他已然沉醉。他方才言道，家中还有何氏妻子。我不免变作他的模样， 前去调戏一番。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "火彩。假书生下，假施俊上。"
+        },
+        {
+          "character": "假施俊",
+          "type": "唱",
+          "text": "我今变作施俊样， 前去调戏女姣娘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假施俊下。书童上。"
+        },
+        {
+          "character": "书童",
+          "type": "念",
+          "text": "金风就地起，吹得透体寒。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "天亮啦，我们该走啦。啊，房子怎么不见啦？ 相公醒来！相公醒来！"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "好睡呀！ 啊书童，房屋怎么不见了？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "相公，必是妖魔害人，咱们早早地走吧！"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "有理。速速趱行者！"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "昨日明明招商店， 今日荒山心内惊。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "好奇怪呀！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "真是怪事！相公，咱们走吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊、书童同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假施俊上。"
+        },
+        {
+          "character": "假施俊",
+          "type": "念",
+          "text": "山中也有人行路，水深岂无过渡人。"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "来此已是。待我叫门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假施俊叩门。"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "娘子，开门来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何氏上，丫鬟随上。"
+        },
+        {
+          "character": "何氏",
+          "type": "唱",
+          "text": "歌管楼台声细细， 秋千院落夜沉沉。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "丫鬟，看是何人！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "待我看来。是哪个？"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "是我。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "原来是大爷！ 啊大娘，大爷回来啦。"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "娘子在哪里？"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "啊，官人回来了？"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "官人请坐！"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "唉，真是败兴而回。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "官人为何这等愁闷？"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "卑人未曾到京，科考已毕，因此败兴而归。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "原来如此。今科不中，还有下科，何须忧愁？为妻备酒，与官人散闷。"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "多谢娘子！"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "丫鬟，备酒伺候！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟下。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "为何不见书童回来？"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "卑人有一朋友，带有书信，叫他送信去了。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "哦，原来如此。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟上。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "启大爷、大娘：酒已齐备啦。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "官人请！"
+        },
+        {
+          "character": "何氏",
+          "type": "唱",
+          "text": "劝官人且把愁眉解， 待等明春凤凰来。"
+        },
+        {
+          "character": "假施俊",
+          "type": "唱",
+          "text": "有劳娘子恩和爱， 好比桃花三月开。"
+        },
+        {
+          "character": "何氏",
+          "type": "唱",
+          "text": "贵妃常带三分艳，"
+        },
+        {
+          "character": "假施俊",
+          "type": "唱",
+          "text": "颠鸾倒凤赴阳台。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "官人！"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "娘子！"
+        },
+        {
+          "character": "假施俊",
+          "type": "笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假施俊、何氏同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、旗牌引王延龄同上。"
+        },
+        {
+          "character": "王延龄",
+          "type": "引子",
+          "text": "名振朝纲，奉君王，忠心浩荡。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "老夫、王延龄。位列三台之首。只因清河县饥荒三载，圣上命老夫前去放粮。 且喜百姓无虞，皆赖圣恩垂教也。今日回朝交旨。 来，吩咐开道！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖一江风〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童上。"
+        },
+        {
+          "character": "书童",
+          "type": "念",
+          "text": "主人一句话，怎敢慢迟捱。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "来此已是家门。 大娘，开门来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何氏上。"
+        },
+        {
+          "character": "何氏",
+          "type": "念",
+          "text": "鸟鸣春日暖，花绿五风和。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "是哪个？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "小人回来啦。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "书童回来了？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "大娘，小人回来啦，我们大爷也回来啦。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "狗才！大爷早已回来了。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "大娘，您这是哪儿的话？我同大爷每天不离左右，今儿个到家，叫小人头里走， 大爷随后就到。怎么说他早就回来了娜？"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "这等说，你大爷今在哪里？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "在后边儿跟朋友说话哪。您要不信，我去请他来。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "如此，快去请他前来！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "我去请他去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童下。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "官人快来！"
+        },
+        {
+          "character": "假施俊",
+          "type": "内白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假施俊上。"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "啊！娘子为何这等惊慌？"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "书童回来了，说道又来了一个官人。为妻的好不明白。"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "哦，有这等事！娘子不必惊慌，卑人自有道理。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童引施俊同上。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "大爷，随我来！"
+        },
+        {
+          "character": "施俊",
+          "type": "念",
+          "text": "去时杨柳垂金线，回来乌鸦绕凤亭。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "大娘，大爷回来啦。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "啊娘子，卑人拜揖！"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "唗！你是何人，敢在此放肆？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "卑人施俊。你是何方狂徒，在此调戏我妻？"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "卑人施俊。你是何方狂徒，前来调戏我妻？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "倒是他的妻子了？反了反了！"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "倒是他的妻子了？反下反了！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "慢着！你们不要吵，也不要闹，我书童儿倒有个主意。"
+        },
+        {
+          "character": "施俊、假施俊、何氏",
+          "type": "同白",
+          "text": "有何主意？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "拿把刀来，将我大娘一劈两半儿，每人分一半儿就结啦。"
+        },
+        {
+          "character": "施俊、假施俊、何氏",
+          "type": "同白",
+          "text": "胡说！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童下。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "好狂徒啊！"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "不由施俊怒气发，"
+        },
+        {
+          "character": "假施俊",
+          "type": "唱",
+          "text": "大胆狂徒不识咱。"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "千言万语难讲话，"
+        },
+        {
+          "character": "假施俊",
+          "type": "唱",
+          "text": "大人台前诉根芽！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊、假施俊互扯。"
+        },
+        {
+          "character": "施俊、假施俊",
+          "type": "同白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊、假施俊同下。"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "这是哪里说起！"
+        },
+        {
+          "character": "何氏",
+          "type": "唱",
+          "text": "二人生来一般样， 是夫不是难认他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何氏下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、旗牌引王延龄同上。"
+        },
+        {
+          "character": "王延龄",
+          "type": "唱",
+          "text": "宋王本是有道君， 赈济万民感皇恩。"
+        },
+        {
+          "character": "施俊、假施俊",
+          "type": "内同白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊、假施俊同上。"
+        },
+        {
+          "character": "施俊、假施俊",
+          "type": "同白",
+          "text": "冤枉啊！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "启相爷：两个书生喊冤。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "带至官厅！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "王延龄",
+          "type": "唱",
+          "text": "山也青来水也青， 人在山阴道上行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。王延龄坐。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "将他二人带上来！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "是。 见过大人！"
+        },
+        {
+          "character": "施俊、假施俊",
+          "type": "同白",
+          "text": "大人冤枉啊！"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "你这书生，家住哪里，姓甚名谁？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "生员乃清河人氏，姓施名俊，居住东乡，壬戌年身入黉门。今当大比之年，上 京求名，未曾到京，选场已毕，只得归家。不知何处狂徒强占我妻何氏，望大 人作主！"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "你这书生姓甚名谁？"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "生员乃清河,人氏，姓施名俊，居住东乡，壬戌年身入黉门。今当大比之年， 上京求名，未曾到京，选场已毕，只得归家。不知何处狂徒强占我妻何氏，望 大人作主！"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "你二人都叫施俊？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "你二人抬起头来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施俊、假施俊同抬头。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "王延龄",
+          "type": "唱",
+          "text": "二人面貌俱一样， 又同名姓又同乡。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "施俊，你妻子今在何处？"
+        },
+        {
+          "character": "施俊、假施俊",
+          "type": "同白",
+          "text": "在东乡施家庄。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "速到施家庄，提那何氏前来听审！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "此事叫老夫好难解也！"
+        },
+        {
+          "character": "王延龄",
+          "type": "唱",
+          "text": "老夫在朝为一品， 二人真假断不清。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌带何氏同上。"
+        },
+        {
+          "character": "何氏",
+          "type": "唱",
+          "text": "结发之夫难相认， 大人台前断分明。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "启相爷：何氏带到。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "带上堂来！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "是。 何氏当面！"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "小妇人何氏叩头！"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "何氏，你丈夫叫什么名字？"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "小妇人丈夫名叫施俊。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "你与他是结发夫妻，还是半路夫妻？"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "乃是结发夫妻。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "既是结发夫妻，下面认来！"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "施俊啊",
+          "type": "白",
+          "text": "娘子，我与你数载夫妻，难道你就不认得我么？"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "为妻认得。"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "啊娘子，我与你数载夫妻，难道你就不认得我么？"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "为妻认得。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "何氏，你可认得谁是你的丈夫？"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "小妇人认不出真假。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "你丈夫身上有什么为记？"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "我丈夫左膀有硃砂红痣为记。"
+        },
+        {
+          "character": "主延龄",
+          "type": "白",
+          "text": "这就是了。下面听审！"
+        },
+        {
+          "character": "何氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌引何氏同下。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "来，将他二人左膀验来！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同验施俊、假施俊右膀。"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "启爷：他二人都有硃砂红痣。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "都有红痣？这又奇了！"
+        },
+        {
+          "character": "王延龄",
+          "type": "唱",
+          "text": "在朝与王掌国政， 这桩事儿断不明。 二人谁真谁是假？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "生员是真！"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "生员是真！"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "谁人是假？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "他是假的！"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "他是假的！"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "掌嘴！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同打施俊、假施俊嘴。"
+        },
+        {
+          "character": "王延龄",
+          "type": "唱",
+          "text": "分不清小小二书生。"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "大人哪！"
+        },
+        {
+          "character": "施俊",
+          "type": "唱",
+          "text": "望求相爷开大恩， 实实难受这样刑。"
+        },
+        {
+          "character": "假施俊",
+          "type": "唱",
+          "text": "相爷台前忙吿禀， 他是假来我是真。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "你二人真假老夫难解。奏闻圣上，请包相勘问，自然明白。 带下去！"
+        },
+        {
+          "character": "二青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二青袍带施俊、假施俊同下。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "来，开道上朝！"
+        },
+        {
+          "character": "王延龄",
+          "type": "唱",
+          "text": "吩咐左右把道引， 且将此事奏朝廷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八小妖引地里仙、过梁仙、长尾仙、腾云仙同上。"
+        },
+        {
+          "character": "地里仙",
+          "type": "唱",
+          "text": "瑞海洞中我为仙，"
+        },
+        {
+          "character": "过梁仙",
+          "type": "唱",
+          "text": "修行学道几千年。"
+        },
+        {
+          "character": "长尾仙",
+          "type": "唱",
+          "text": "兄妹未曾成正果，"
+        },
+        {
+          "character": "腾云仙",
+          "type": "唱",
+          "text": "要把宋朝化洞天。"
+        },
+        {
+          "character": "地里仙、过梁仙、长尾仙、腾云仙",
+          "type": "同白",
+          "text": "吾乃——"
+        },
+        {
+          "character": "地里仙",
+          "type": "白",
+          "text": "地里仙是也。"
+        },
+        {
+          "character": "过梁仙",
+          "type": "白",
+          "text": "过梁仙是也。"
+        },
+        {
+          "character": "长尾仙",
+          "type": "白",
+          "text": "长尾仙是也。"
+        },
+        {
+          "character": "腾云仙",
+          "type": "白",
+          "text": "腾云仙是也。"
+        },
+        {
+          "character": "地里仙",
+          "type": "白",
+          "text": "众家兄妹请了！"
+        },
+        {
+          "character": "过梁仙、长尾仙、腾云仙",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "地里仙",
+          "type": "白",
+          "text": "五弟有书信前来，言他变作施俊模样，混乱不分。恐其有祸，叫你我前去相助 于他。"
+        },
+        {
+          "character": "过梁仙、长尾仙、腾云仙",
+          "type": "同白",
+          "text": "言之有理。请！"
+        },
+        {
+          "character": "地里仙",
+          "type": "唱",
+          "text": "地里仙专会土中行，"
+        },
+        {
+          "character": "过梁仙",
+          "type": "唱",
+          "text": "过梁仙穿壁逞奇能。"
+        },
+        {
+          "character": "长尾仙",
+          "type": "唱",
+          "text": "长尾仙就地打一滚，"
+        },
+        {
+          "character": "腾云仙",
+          "type": "唱",
+          "text": "咱只怕猫儿叫几声。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈忠上。"
+        },
+        {
+          "character": "陈忠",
+          "type": "念",
+          "text": "朝朝随驾走，时时伴龙行。"
+        },
+        {
+          "character": "陈忠",
+          "type": "白",
+          "text": "咱家穿宫监陈忠是也。今当早朝，圣上命咱传旨，只得在此伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王延龄上。"
+        },
+        {
+          "character": "王延龄",
+          "type": "念",
+          "text": "圣贤相际会，海岳共清明。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "臣、王延龄见驾，愿吾皇万岁！臣有本启奏。"
+        },
+        {
+          "character": "陈忠",
+          "type": "白",
+          "text": "当殿奏来！"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "容奏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "五马江儿水牌前半段。"
+        },
+        {
+          "character": "陈忠",
+          "type": "白",
+          "text": "你且稍候，待咱家替你转奏。"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈忠下，上。"
+        },
+        {
+          "character": "陈忠",
+          "type": "白",
+          "text": "圣旨下，跪听宣读。诏曰：太师赈抚清河，子民宁静，乃有功之臣，免朝一月。 据奏有两个施俊，难分真假。就命包拯南衙勘问。钦哉。谢恩！"
+        },
+        {
+          "character": "王延龄",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "五马江儿水牌合头。陈忠下。"
+        },
+        {
+          "character": "王延龄",
+          "type": "念",
+          "text": "皇王降圣旨，包拯断分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王延龄下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、赵虎引包拯同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "引子",
+          "text": "解君忧，除民患难；整山河，扫尽烽烟。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "老夫、包拯。自陈州放粮回朝，整理国事。今又奉旨，审问施俊一案。 张龙、赵虎！"
+        },
+        {
+          "character": "张龙、赵虎",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "吩咐开道！"
+        },
+        {
+          "character": "张龙、赵虎",
+          "type": "同白",
+          "text": "开道！"
+        },
+        {
+          "character": "四青袍",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "宋王江山八百春， 铁面无私不留情。 南衙审问二施俊， 看谁假来看谁真。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "六小妖引长尾仙同上。"
+        },
+        {
+          "character": "长尾仙",
+          "type": "唱",
+          "text": "真个奇来真个妙， 东京城内闹滔滔。"
+        },
+        {
+          "character": "长尾仙",
+          "type": "白",
+          "text": "吾乃，长尾仙是也。只因五弟变作施俊，大闹东京，仁宗命包拯审问。不免变 作包拯模样，去往南衙混乱一回。 众小妖，尔等变作包拯手下之人，不得有误！"
+        },
+        {
+          "character": "六小妖",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "六小妖同下，四假青袍、假张龙、假赵虎同上。"
+        },
+        {
+          "character": "四假青袍、假张龙、假赵虎",
+          "type": "同白",
+          "text": "我等变得可像？"
+        },
+        {
+          "character": "长尾仙",
+          "type": "白",
+          "text": "变得倒像。待俺变来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "火彩。长尾仙下，假包拯上。"
+        },
+        {
+          "character": "假包拯",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "假包拯",
+          "type": "唱",
+          "text": "任他施尽千般巧， 我的道法比他髙。 吩咐左右忙开道， 真假难辨闹滔滔。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假包拯坐。"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "将二书生带上来！"
+        },
+        {
+          "character": "假张龙、假赵虎",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假张龙、假赵虎同下。假张龙、假赵虎带施俊、假施俊同上。"
+        },
+        {
+          "character": "施俊、假施俊",
+          "type": "同白",
+          "text": "大人在上。生员叩头！"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "两个秀士，你二人谁真谁假？"
+        },
+        {
+          "character": "施俊",
+          "type": "白",
+          "text": "我是真的，他是假的。"
+        },
+        {
+          "character": "假施俊",
+          "type": "白",
+          "text": "我是真的，他是假的。"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "唗！"
+        },
+        {
+          "character": "假包拯",
+          "type": "唱",
+          "text": "吾今奉了皇王命， 尔是假来敢认真？ 左右与我扯下打， 何方妖怪乱胡行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假四青袍同打施俊。包拯上，张龙、赵虎、四青袍随同上。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "斩妖剑来照妖镜， 何方妖怪闹东京？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊！你是何人，敢坐老夫的法堂？"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "啊！你是何人，敢入老夫的法堂？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊！岂不知老夫乃龙图阁大学士包拯，今奉圣命审问施俊一案。你是何方妖怪？ 现出原形便罢；如若不然，可知老夫照妖镜的厉害！"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "啊！岂不知老夫乃龙图阁大学士包拯，今奉圣命审问施俊一案。你是何方妖怪？ 现出原形便罢；如若不然，可知老夫照妖镜的厉害！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "张龙、赵虎，看镜过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张龙、赵虎同取镜。"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "张龙、赵虎，看镜过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "假张龙、假赵虎同取镜。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "妖怪照镜！"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "妖怪照镜！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊！为何照不出他的原形？"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "啊！为何照不出他的原形？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "张龙、赵虎，与我拿下！"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "张龙、赵虎，与我拿下！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "反了，反了！"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "反了，反了!"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "这桩异事，难坏老夫也！"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "这桩异事，难坏老夫也！"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "不由老夫心懊恼，"
+        },
+        {
+          "character": "假包拯",
+          "type": "唱",
+          "text": "不由老夫心懊恼，"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "朝中哪有二老包？"
+        },
+        {
+          "character": "假包拯",
+          "type": "唱",
+          "text": "朝中哪有二老包？"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "审过数十无头案，"
+        },
+        {
+          "character": "假包拯",
+          "type": "唱",
+          "text": "审过数十无头案，"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "这桩事儿真蹊跷。"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "假包拯",
+          "type": "唱",
+          "text": "这桩事儿真蹊跷。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "宋王江山我镇了，"
+        },
+        {
+          "character": "假包拯",
+          "type": "唱",
+          "text": "宋王江山我镇了，"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "这番一笔要勾消！"
+        },
+        {
+          "character": "假包拯",
+          "type": "唱",
+          "text": "这番一笔要勾消！"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "呃！"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "一片忠心把王保， 陈州放粮转回朝。 只为施俊不明招， 圣上命我断分晓。 老夫未曾前来到， 公案坐有一老包。 连我真假人不晓， 断不明此事枉在朝。 张龙、赵虎忙开道， 乌台之上拿此妖。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯下。张龙、赵虎、四青袍同下。"
+        },
+        {
+          "character": "假包拯",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "假包拯",
+          "type": "唱",
+          "text": "只见包拯开了道， 喜在眉头笑心梢。 南衙公案吾坐了， 料他真假难猜着。 凭你天尊齐来到， 怎比咱的道法高！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯上。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "来在乌台气象雄， 阴阳阻隔一般同。 无端出此妖魔怪， 地狱天门顷刻通。"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "老夫只为妖魔扰乱东京，恐是上界仙子下凡。因此修下牒文，奏与上帝。值日 功曹何在？"
+        },
+        {
+          "character": "功曹",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "功曹上。"
+        },
+        {
+          "character": "功曹",
+          "type": "白",
+          "text": "有何法旨？"
+        },
+        {
+          "character": "包拯",
+          "type": "白",
+          "text": "有牒文一角，有劳尊神，往南天门投递，不得有误！"
+        },
+        {
+          "character": "功曹",
+          "type": "白",
+          "text": "领法旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "功曹下。"
+        },
+        {
+          "character": "包拯",
+          "type": "唱",
+          "text": "真假难分难坏了， 请动天神除此妖。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包拯下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八神将、杨戬、哪吒引李天王同上。"
+        },
+        {
+          "character": "李天王",
+          "type": "粉蝶儿",
+          "text": "玉旨钦差， 俺奉着，玉旨钦差。 都只为群妖扰界， 哪怕他神通大，怎容他凡世搅害！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李天王坐。"
+        },
+        {
+          "character": "李天王",
+          "type": "念",
+          "text": "忆昔当年镇陈塘，—片丹心报吾皇。南天门下为帅主，玉旨勅封李天王。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "只为下界妖魔作耗，今奉玉旨，下凡平妖。 众天将，下凡去者！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！ （〖泣颜回〗。李天王上台。〖急急风〗。八小妖引腾云仙、长尾仙、过梁仙、地里仙、白鼠仙同上，过场， 同下。）"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "就此降妖者！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八神将、杨戬、哪吒同下。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "此妖好道法也！"
+        },
+        {
+          "character": "李天王",
+          "type": "唱",
+          "text": "今奉玉旨下天堂， 群妖作耗扰汴梁， 吾今安排天罗网， 管叫妖魔一扫光！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白鼠仙、杨戬同上，同起打，双收下。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "李天王",
+          "type": "唱",
+          "text": "大鹏展翅折了膀， 全凭天将逞豪强。 任你道法高千丈， 吾凭哪吒并二郎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大起打。打连环。白鼠仙打哪吒、杨戬同下。白鼠仙耍下场。杨戬、哪吒同上。"
+        },
+        {
+          "character": "杨戬",
+          "type": "白",
+          "text": "群妖骁勇，如何是好？"
+        },
+        {
+          "character": "哪吒",
+          "type": "白",
+          "text": "遣孩儿兵擒他便了！"
+        },
+        {
+          "character": "杨戬",
+          "type": "白",
+          "text": "言之有理。"
+        },
+        {
+          "character": "哪吒",
+          "type": "白",
+          "text": "孩儿兵走上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四孩儿兵同上。"
+        },
+        {
+          "character": "杨戬、哪吒",
+          "type": "同白",
+          "text": "齐展道法者！"
+        },
+        {
+          "character": "四孩儿兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八小妖、腾云仙、长尾仙、过梁仙、地里仙、白鼠仙同上，会阵起打，同杀下。杨戬、哪吒同上。"
+        },
+        {
+          "character": "杨戬、哪吒",
+          "type": "同白",
+          "text": "不能收伏此妖！"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "善哉呀善哉！要除此妖，非佛祖前来，不能收伏。"
+        },
+        {
+          "character": "佛祖",
+          "type": "内白",
+          "text": "佛祖驾到！"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "仙乐相迎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四云童、佛祖同上，李天王、杨戬、哪吒同迎接。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "佛祖驾临，有失远迎，愿佛祖圣寿无疆！"
+        },
+        {
+          "character": "佛祖",
+          "type": "白",
+          "text": "今有西天雷音寺中五鼠逃下凡尘，今奉如来宝勅，带了玉狮猫儿前来收伏。"
+        },
+        {
+          "character": "李天王",
+          "type": "白",
+          "text": "就请佛祖登台！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。佛祖登台。"
+        },
+        {
+          "character": "佛祖",
+          "type": "白",
+          "text": "众天将，引动群妖！"
+        },
+        {
+          "character": "八天将",
+          "type": "内同白",
+          "text": "啊！ （杨戬，哪吒同杀下。八神将、哪吒、杨戬引八小妖、腾云仙、长尾仙、过梁仙、地里仙、白鼠仙同上。大 起打，立碑。玉狮猫上，擒八小妖、腾云仙、长尾仙、过梁仙、地里仙，白鼠仙逃下。）"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "启佛祖：众妖被擒，白鼠逃走。"
+        },
+        {
+          "character": "佛祖",
+          "type": "白",
+          "text": "善哉呀善哉！上天有好生之德，不绝其种类也。将众妖带往西天去者！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "佛祖",
+          "type": "念",
+          "text": "佛法无边怎知晓，今奉敕旨收此妖。皆因不能坚正道，"
+        },
+        {
+          "character": "佛祖",
+          "type": "白",
+          "text": "孽畜啊！"
+        },
+        {
+          "character": "佛祖",
+          "type": "念",
+          "text": "万载修行顷刻消！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

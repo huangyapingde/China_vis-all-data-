@@ -1,0 +1,662 @@
+{
+  "script_id": "03012002",
+  "title": "背楼",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "窦太真",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "李渊",
+      "hangdang": "老生"
+    },
+    {
+      "name": "李世民",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "窦后思念李世民，日久，抑郁成病，死于望儿楼上。李渊命长子李建成、三子李元吉背窦后尸下楼，均未背\n动。适李世民回朝，背尸下楼。",
+  "notes": "与《望儿楼》情节相连，故事比较简单，在表演艺术上着重唱工。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袁天罡、李淳风同上。"
+        },
+        {
+          "character": "袁天罡",
+          "type": "念",
+          "text": "袖内乾坤大，"
+        },
+        {
+          "character": "李淳风",
+          "type": "念",
+          "text": "天机定不差。"
+        },
+        {
+          "character": "袁天罡",
+          "type": "白",
+          "text": "山人袁天罡。"
+        },
+        {
+          "character": "李淳风",
+          "type": "白",
+          "text": "山人李淳风。"
+        },
+        {
+          "character": "袁天罡",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "李淳风",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "袁天罡",
+          "type": "白",
+          "text": "今当昭阳国太归位之期，本应上殿面奏；怎奈天机不可泄露。你我且在朝班候 旨。看，香烟缭绕，圣驾临朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引李渊同上。"
+        },
+        {
+          "character": "李渊",
+          "type": "引子",
+          "text": "龙门展放，众文武，辅保孤王。"
+        },
+        {
+          "character": "袁天罡、李淳风",
+          "type": "同白",
+          "text": "臣等见驾，吾皇万岁！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "袁天罡、李淳风",
+          "type": "同白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "李渊",
+          "type": "念",
+          "text": "太阳一出照九州，孤王有道坐龙楼。九重阊阖开宫殿，万国衣冠拜冕旒。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "孤王大唐天子，李渊在位。只因昭阳窦梓童，思想皇儿，染病在床，孤放心不 下。"
+        },
+        {
+          "character": "袁天罡、李淳风",
+          "type": "同白",
+          "text": "启奏万岁：国太染病，主公必须去到楼台看望才是。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "先生言得极是。二位先生暂归朝房候旨。"
+        },
+        {
+          "character": "袁天罡、李淳风",
+          "type": "同白",
+          "text": "领旨。"
+        },
+        {
+          "character": "袁天罡",
+          "type": "念",
+          "text": "袖内机关事，"
+        },
+        {
+          "character": "李淳风",
+          "type": "念",
+          "text": "不敢泄真情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袁天罡、李淳风同下。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "内侍臣带路！"
+        },
+        {
+          "character": "李渊",
+          "type": "唱",
+          "text": "想当年孤也曾带兵出阵， 数十年得胜回扫尽烟尘。 回朝来见昏王所为不正， 孤一怒打昏王起下祸根。 多亏了秦恩公将孤保定， 到后来为王我驾坐龙廷。 可恨那洛阳贼兴兵犯境， 世民儿领人马把贼来平。 窦梓童思皇儿身染重病， 因此上为王我不得安宁。 教内臣你与孤忙把路引， 去到那楼台上细问分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李渊、大太监、四太监同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四云童、二小鬼、城隍、土地同上。"
+        },
+        {
+          "character": "城隍",
+          "type": "念",
+          "text": "奉了玉帝旨，"
+        },
+        {
+          "character": "土地",
+          "type": "念",
+          "text": "迎接窦太真。"
+        },
+        {
+          "character": "城隍",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "城隍",
+          "type": "白",
+          "text": "你我奉了玉帝敕旨，迎接窦太真归位，就此前往！"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "窦太真",
+          "type": "内白",
+          "text": "搀扶了！"
+        },
+        {
+          "character": "二宫女",
+          "type": "内同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二宫女扶窦太真同上。"
+        },
+        {
+          "character": "窦太真",
+          "type": "唱",
+          "text": "想皇儿不由人泪珠滚滚， 倒叫我年迈人好不伤情。 世民儿在金殿挂了帅印， 众文武保皇儿洛阳出征。 实指望此一去旗开得胜， 又谁知有数年未见回程。 想姣儿把我的心血用尽， 思皇儿昼夜里何曾安宁。 叫宫娥搀扶我黄罗帐进， 但不知何日里才见儿身！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引李渊同上。"
+        },
+        {
+          "character": "李渊",
+          "type": "唱",
+          "text": "内侍臣忙带路望儿楼进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李渊上楼。"
+        },
+        {
+          "character": "李渊",
+          "type": "唱",
+          "text": "叫御妻快醒来王有话云。"
+        },
+        {
+          "character": "窦太真",
+          "type": "唱",
+          "text": "耳边厢只听得有人唤定，"
+        },
+        {
+          "character": "窦太真",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "窦太真",
+          "type": "唱",
+          "text": "却原来是万岁来到楼厅。 我本当下床榻实难扎挣！"
+        },
+        {
+          "character": "李渊",
+          "type": "唱",
+          "text": "劝梓童放宽心免去愁容。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "御妻你的病体怎么样了？"
+        },
+        {
+          "character": "窦太真",
+          "type": "白",
+          "text": "哎，万岁呀！"
+        },
+        {
+          "character": "窦太真",
+          "type": "唱",
+          "text": "自那日朝驾归身染重病， 三更时梦皇儿回转宫廷。 想起了陈后主不理朝政， 把一座锦江山付与他人。 杨广贼贪酒色为君不正， 逼反了满朝中文武群臣。 到后来那昏王丧了性命， 众皇儿保主公驾坐龙廷。 只恨那洛阳贼打来战本， 他要夺我主爷锦绣乾坤。 世民儿奉圣旨兵将带定， 到如今已数载未回宫廷。 有建成与元吉不能孝顺， 怎比那世民儿一片孝心。 到如今妾妃我心中不定， 但不知我皇儿何日回程？ 万岁爷啊！"
+        },
+        {
+          "character": "李渊",
+          "type": "唱",
+          "text": "劝御妻休把那皇儿思念， 听为王把此事细说根源： 若是那世民儿把朝回转， 将江山国家事付他承担。"
+        },
+        {
+          "character": "窦太真",
+          "type": "唱",
+          "text": "谢罢了万岁爷的龙恩典， 不由我窦太真心内痛酸。 我本当下位去实难动转，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "城隍、土地自两边暗分上。"
+        },
+        {
+          "character": "窦太真",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "窦太真",
+          "type": "唱",
+          "text": "我心中好似万刀穿。"
+        },
+        {
+          "character": "窦太真",
+          "type": "白",
+          "text": "来了！"
+        },
+        {
+          "character": "窦太真",
+          "type": "唱",
+          "text": "又只见城隍在面前站， 那、那、那、那土地笑盈盈站立一边。 一霎时腹内痛心血上翻，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "窦太真三唔噜。"
+        },
+        {
+          "character": "窦太真",
+          "type": "唱",
+          "text": "无常到万事休命丧黄泉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "窦太真死。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "哎呀，御妻呀！"
+        },
+        {
+          "character": "李渊",
+          "type": "唱",
+          "text": "一见梓童命丧了， 不由孤王心内焦。 内侍与孤传旨诏， 宣上先生问根苗。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "万岁有旨：宣先生进宫。"
+        },
+        {
+          "character": "袁天罡、李淳风",
+          "type": "内同白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袁天罡、李淳风同上。"
+        },
+        {
+          "character": "袁天罡",
+          "type": "唱",
+          "text": "听说万岁圣旨宣，"
+        },
+        {
+          "character": "李淳风",
+          "type": "唱",
+          "text": "想是国太归了天。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袁天罡、李淳风同上楼。"
+        },
+        {
+          "character": "袁天罡、李淳风",
+          "type": "同白",
+          "text": "臣等见驾！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "哎呀先生，国太归天去了！"
+        },
+        {
+          "character": "袁天罡、李淳风",
+          "type": "同白",
+          "text": "臣等早已算就，不敢泄漏。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "原来如此。先生，国太死在楼上，如何是好？"
+        },
+        {
+          "character": "袁天罡、李淳风",
+          "type": "同白",
+          "text": "国太凤体，必须亲人方能背下楼去。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "内侍臣宣你二位千岁上楼！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "万岁有旨：宣二位千岁上楼！"
+        },
+        {
+          "character": "李建成、李元吉",
+          "type": "内同白",
+          "text": "领旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李建成、李元吉同上。"
+        },
+        {
+          "character": "李建成",
+          "type": "唱",
+          "text": "听说父王把旨传，"
+        },
+        {
+          "character": "李元吉",
+          "type": "唱",
+          "text": "上得楼来问根源。"
+        },
+        {
+          "character": "李建成、李元吉",
+          "type": "同白",
+          "text": "参见父王！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "哎呀皇儿，你、你、你母后死了哇！"
+        },
+        {
+          "character": "李建成、李元吉",
+          "type": "同白",
+          "text": "哎呀母后呀！"
+        },
+        {
+          "character": "李建成",
+          "type": "唱",
+          "text": "一见母后丧了命，"
+        },
+        {
+          "character": "李元吉",
+          "type": "唱",
+          "text": "怎不教儿痛在心。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "你二人不必啼哭。适才二位先生奏道，你母后的凤体，必须亲人方能背下楼去。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "启父王：儿建成将我母背下楼去。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "好，皇儿背去！"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "母后，儿臣背你老人家来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "城隍指使土地打李建成。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "哎呦！哎呦！"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "你是怎么啦？"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "这也不知是哪个坏种打我！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "二皇儿你去背来！"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "得啦，母后嫌你，她爱我疼我。你看我一背就下去。"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "看你的！"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "儿臣背你老人家来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "城隍指使土地打李建成。城隍、土地同下。"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "哎呀！哎呀！"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "你怎么啦？"
+        },
+        {
+          "character": "李元吉",
+          "type": "白",
+          "text": "又是哪个坏种打来着！"
+        },
+        {
+          "character": "李建成",
+          "type": "白",
+          "text": "得了！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "你二人闪开了！ 啊先生，二位千岁不能背下楼去如何是好？"
+        },
+        {
+          "character": "袁天罡、李淳风",
+          "type": "同白",
+          "text": "万岁不必着急，少时自有亲人来到。"
+        },
+        {
+          "character": "李世民",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌、李世民同上。二旗牌同下。"
+        },
+        {
+          "character": "李世民",
+          "type": "念",
+          "text": "奉了军师令，回朝面圣君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李世民上楼。"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "儿臣见驾，父王万岁！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "儿是世民？"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "儿是世民！"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "你回来了？"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "儿回来了。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "儿呀，你、你、你母后死了哇！"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "现在哪里？"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "你来看！"
+        },
+        {
+          "character": "李世",
+          "type": "白",
+          "text": "民哎呀，母后呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李世民跪步。"
+        },
+        {
+          "character": "李世民",
+          "type": "唱",
+          "text": "一见母后命丧了， 不由孩儿心内焦。 哭一声母后将儿抛了，"
+        },
+        {
+          "character": "李世民",
+          "type": "哭头",
+          "text": "母后呀！"
+        },
+        {
+          "character": "李世民",
+          "type": "唱",
+          "text": "母子们相逢在阴曹。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "皇儿不必啼哭，将你母后背下楼去，停在白虎殿内，文武百官穿孝百日；孝满 之期，孤将江山付与皇儿执掌就是。"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "启父王：儿臣将我母后背下楼去，父王再来传旨。"
+        },
+        {
+          "character": "李渊",
+          "type": "白",
+          "text": "皇儿讲得有理。将你母后背下楼去罢！"
+        },
+        {
+          "character": "李世民",
+          "type": "白",
+          "text": "领旨！ 哎呀，母后！孩儿世民背你老人家来了，啊、啊、啊……"
+        },
+        {
+          "character": "李世民",
+          "type": "哭头",
+          "text": "啊啊啊！儿的娘啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李世民哭。李世民背窦太真同下。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

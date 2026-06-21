@@ -1,0 +1,995 @@
+{
+  "script_id": "04026003",
+  "title": "伐东吴",
+  "alias": [
+    "大报仇；一名：黄忠带箭"
+  ],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "黄忠",
+      "hangdang": "老生"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "潘璋",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "刘备为报关羽、张飞之仇，大举伐吴；因关兴、张苞阵前立功，设宴庆贺。席间回忆往事，语多感慨，无意\n中说出“昔年五虎上将，俱都老迈无用”的话，激怒陪宴的老将黄忠。黄忠不待席终而去，单人杀入吴营，\n力斩二将之后，竟中冷箭，经关兴、张苞接应回营，不治而死。临终之前，以“平吴不及取中原”，向刘备\n作最后的谏言。",
+  "notes": "《伐东吴》是《三国演义》中的一节故事。这个剧本是由中国京剧团李洪春与本院编辑处祁野耘共同整理的。\n原本剧情相当完整，整理本仅对个别词句略加修润。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、太监引刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "风吹旌旗遮日影， 关兴张苞出御营。 未知此去可得胜， 闷坐御营心不宁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮原板",
+          "text": "忆昔当年长沙镇， 转眼不觉有数春。 荆州阆中遭不幸， 一心要把东吴平！ 黄汉升撩袍御营进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠见刘备，施礼。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "老将军免礼且平身。 暂陪朕坐解愁闷，"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮原板",
+          "text": "既兴兵何必泪常倾！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张苞、关兴同上。"
+        },
+        {
+          "character": "张苞、关兴",
+          "type": "同白",
+          "text": "参见皇伯。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "胜负如何？"
+        },
+        {
+          "character": "张苞",
+          "type": "白",
+          "text": "儿臣与吴兵交战，不想谭雄暗放冷箭，射死战马；若非关兴搭救，险遭不测。"
+        },
+        {
+          "character": "关兴",
+          "type": "白",
+          "text": "儿臣刀劈谢旌，活捉谭雄，现在帐外。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "绑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士绑谭雄同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "好贼！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "孙权与孤冤仇深， 孤定把东吴一扫平。 手指贼子咬牙恨， 斩他的首级挂营门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士押谭雄同下，斩毕，军士同上。"
+        },
+        {
+          "character": "军士",
+          "type": "同白",
+          "text": "斩首已毕。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "将贼的首级祭奠二千岁灵前；洒下热血，以祭死马。"
+        },
+        {
+          "character": "军士",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唔呼呀！朕今出兵与二弟、三弟报仇，幸得二虎侄头阵取胜，管叫那吴兵丧胆。 内侍摆筵，朕与二侄贺功。"
+        },
+        {
+          "character": "张苞、关兴",
+          "type": "同白",
+          "text": "谢皇伯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠咳嗽。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "老将军还在？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "臣。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你也来呀。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "谢主公。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "庆功会上把酒饮， 想起了桃园结拜情。 弟兄们创业多艰困， 又谁知中途两离分！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉！想当年与尔父桃园结义以来，得徐州、入襄阳、取西川，皆是尔父之力， 不想一旦下世去了！可叹五虎上将，所余无几，皆是老迈无用了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠一震。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "看酒来，朕与贤侄把盏。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "父是雄才儿英俊， 这斗水酒庆功勋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠离坐。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "老了哇，老了！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "主公言语实难听， 他道老将我无能。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "且住！想那关兴、张苞，乃子侄之辈，在阵前擒来谭雄，不过是小小的功劳； 主公在酒席筵前，夸之不已，反道昔年五虎上将，尽是老迈无用！有了，俺不 免单人独骑，暗出御营，去到东吴的营盘，定要生擒孙权，活捉潘璋，刀劈他 几员上将，看看我老是不老！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "太公八十掌帅印， 廉颇八十领雄兵； 俺黄忠岂是无本领——"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "再学走马取定军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠下。太监上。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "黄老将军怒出御营，直奔东吴而去。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊？汉升为何怒出御营，直奔东吴而去？……哦，哦，是了！想是朕方才言语 冒昧，怒恼了汉升，因此暗出御营，要斩将立功。哎！恐他阵前有失。 二虎侄速速将老将军赶回，不得违误！"
+        },
+        {
+          "character": "张苞、关兴",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张苞、关兴同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "将筵撤下。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "适才朕言错出唇， 不想激怒黄汉升。 但愿他此去早得胜， 闷坐御营等信音。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "黄忠",
+          "type": "内西皮导板",
+          "text": "黄忠马上哈哈笑，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "我主爷宠爱少英豪。 溺爱不明夸大了， 反道我老将无略韬； 战长沙已然须白了， 取东川谁不服英豪； 我也曾把天荡定军扫， 夏侯渊一命丧荒郊； 神箭宝刀谁不晓， 敌将闻名望风逃。 耳边听得马嘶叫—— 来了关兴与张苞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张苞、关兴同上。"
+        },
+        {
+          "character": "张苞、关兴",
+          "type": "同白",
+          "text": "参见老将军。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "你二人赶来作甚？"
+        },
+        {
+          "character": "张苞、关兴",
+          "type": "同白",
+          "text": "奉皇伯将令，请老将军回营；恐阵前有失。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "二小将把话讲差了， 说什么有失把命抛！ 我一心要把吴营扫， 踏平江东保汉朝！ 某也不图凌阁标， 也不图封侯爵禄高。 回营报与主公晓， 你就说我无用的老黄忠要立功劳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠下。"
+        },
+        {
+          "character": "张苞",
+          "type": "西皮摇板",
+          "text": "老将说话真性傲，"
+        },
+        {
+          "character": "关兴",
+          "type": "西皮摇板",
+          "text": "相随保护莫辞劳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张苞、关兴同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引吴班同上。"
+        },
+        {
+          "character": "吴班",
+          "type": "西皮摇板",
+          "text": "奉旨出川把贼扫， 开路先行不辞劳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "黄老将军到。"
+        },
+        {
+          "character": "吴班",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。黄忠上，下马。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "先锋。"
+        },
+        {
+          "character": "吴班",
+          "type": "白",
+          "text": "老将军。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "吴班",
+          "type": "白",
+          "text": "老将军怒气不息，为着谁来？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "先锋！想那关兴、张苞，乃子侄之辇，在阵前擒来谭雄，不过是些小小的功劳。 主公在酒席筵前，夸之不已，反道昔年五虎上将，俱都老迈无用。是我单人 独骑，怒出御营，要到东吴盘营，生擒孙权，活捉潘璋，刀劈他几员上将，看 我老是不老！"
+        },
+        {
+          "character": "吴班",
+          "type": "白",
+          "text": "想那关兴、张苞，本是少年英雄，莫怪主公称赞。据末将看来，你本来的是老 了！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "却为何人人道我老！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "不由我怒火往上烧。 某十岁弓马全习好， 十三四岁学宝刀； 交锋对垒哪见老， 数十载未离马鞍鞒。 到如今八十三岁不服老，我是哪些儿老？"
+        },
+        {
+          "character": "吴班",
+          "type": "白",
+          "text": "本来是老了！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "岂惧那东吴的小儿曹。 来来来带过爷的“追风豹”——"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "斩几个人头你们瞧一瞧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠下。"
+        },
+        {
+          "character": "吴班",
+          "type": "西皮摇板",
+          "text": "这老将人老心不老，"
+        },
+        {
+          "character": "吴班",
+          "type": "白",
+          "text": "马来！"
+        },
+        {
+          "character": "吴班",
+          "type": "西皮摇板",
+          "text": "我暗地保护走一遭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。四军士引崔禹同上。"
+        },
+        {
+          "character": "崔禹",
+          "type": "白",
+          "text": "俺，东吴大将崔禹。奉命攻打头阵。 众将官，杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上，刀劈崔禹。四军士同下，黄忠追下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四军士引史蹟同上，黄忠上，刀劈史蹟。四军士同下，黄忠追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引潘璋同上。"
+        },
+        {
+          "character": "潘璋",
+          "type": "西皮摇板",
+          "text": "探马不住飞来报， 黄忠老儿逞英豪。"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "某，东吴大将潘璋。前与吕蒙定计，夺取荆州，杀了关羽；吴侯见喜，将关羽 的刀马赏赐与某。那赤兔马不食草料而死；这青龙刀，自到我手，未斩一将。 今日黄忠怒踹我营，岂能容他猖狂。 众将官！"
+        },
+        {
+          "character": "军士",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "东吴大将潘璋！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "怒发冲冠钢牙咬， 尔敢使青龙偃月刀！ 气得黄忠眼花了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠、潘璋同起打，潘璋、四军士同败下，黄忠追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马忠上。"
+        },
+        {
+          "character": "马忠",
+          "type": "白",
+          "text": "俺，马忠。元帅出兵，未知胜负，不免出营一望。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引潘璋同上。"
+        },
+        {
+          "character": "马忠",
+          "type": "白",
+          "text": "参见元帅，胜负如何？"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "大败而归！"
+        },
+        {
+          "character": "马忠",
+          "type": "白",
+          "text": "待末将抵挡一阵。"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "小心了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "潘璋下。黄忠上，起打，马忠、四军士同败下，黄忠追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引潘璋同上。马忠败上。"
+        },
+        {
+          "character": "马忠",
+          "type": "白",
+          "text": "参见元帅。"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "胜负如何？"
+        },
+        {
+          "character": "马忠",
+          "type": "白",
+          "text": "败下阵来。"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "吴侯降罪，如何是好？"
+        },
+        {
+          "character": "马忠",
+          "type": "白",
+          "text": "元帅与他交锋，待我暗射他一箭。"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "黄忠之箭，乃百步穿杨，只恐你画虎不成反类犬！"
+        },
+        {
+          "character": "马忠",
+          "type": "白",
+          "text": "有道是“会者不防”。"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "好，待某引他到来。 （马忠下。黄忠上，起打。马忠暗上，放箭，黄忠中箭下。潘璋、马忠、四军士同追下。关兴、张苞同上， 过场，同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": "黄忠",
+          "type": "内西皮导板",
+          "text": "四面喊声兵围绕，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上，四军士、潘璋同追上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "勒马横刀怒冲霄。 大骂潘璋尔听道： 冲锋对敌是英豪。 冷箭伤人实可恼， 大胆吴寇敢放刁！"
+        },
+        {
+          "character": "潘璋",
+          "type": "西皮快板",
+          "text": "黄忠老儿不服老， 敢在阵前逞英豪。 劝你马前归顺了。 少若迟延命难逃。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "黄忠今日遭圈套！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞同上，与潘璋起打。黄忠下，关兴、张苞同下。"
+        },
+        {
+          "character": "军士",
+          "type": "同白",
+          "text": "黄忠被关兴、张苞救去！"
+        },
+        {
+          "character": "潘璋",
+          "type": "白",
+          "text": "追！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引刘备同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "孤王筵前言失检， 激怒了老将去争先。 差去二侄相阻劝， 但愿平安早回还。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关兴、张苞扶黄忠同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "一见老将身带箭， 朕心如落百丈渊。 早知出兵遭此险……"
+        },
+        {
+          "character": "刘备",
+          "type": "哭头",
+          "text": "老将军哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "悔不该一时错出言。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮小导板",
+          "text": "精神恍惚四肢软，"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "耳旁听得有人言。 大喝潘璋休弄险，"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "看刀！哎呀！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "原来陛下在眼前。 急忙低头谢恩典， 只恐性命难保全。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "孤一言之错，激怒老将军出营，如今带箭而归，怎不教孤痛断肝肠！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "哎呀主公啊！老臣出得御营，就刀劈了崔禹、史蹟！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "就该回营才是。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "唉！臣见潘璋，手使二千岁的青龙偃月刀，只气得我肝胆裂碎，正要擒捉那贼， 不想却被冷箭射中肩窝！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "老将军乃是百步穿杨之手，为何不防？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "哎呀，陛下呀！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "老臣智不如王翦， 临阵岂肯不当先！ 况且仇人两相见， 匆忙哪顾听弓弦。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "真乃风云不测变， 令人血泪洒胸前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备向张苞、关兴。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "老将军中箭身受险， 恨尔等保护不周全！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "陛下！这是为臣自不小心，休要瞒怨二位小将军。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "既已如此，待孤与老将军起箭。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "哎呀陛下！这箭上有毒，箭在臣在，箭去臣亡！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "老将军，此箭不起，敢是惧痛么？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "嗳呀！老臣死且不怕，岂能惧痛！但得苟延一时，与陛下一言永别耳。区区此 心，伏乞圣听！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "平生今洒泪几点， 回首功名数十年。 臣爱主公恩非浅， 粉身碎骨理当然。 幸得全尸已无怨， 叩谢龙恩归九泉。 临危再把主公劝，"
+        },
+        {
+          "character": "黄忠",
+          "type": "哭头",
+          "text": "啊……"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "平吴不如取中原。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "老将军休要心慌乱， 去箭医伤未必难； 平吴之后太平宴， 孤愿你安宁寿百年。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "见主公说话泪满面， 张苞、关兴哭两边。 大丈夫战死终难免， 强打精神且留连。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "老将军哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "事到此间勿挽转， 张苞、关兴听我言。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "张苞、关兴！"
+        },
+        {
+          "character": "张苞、关兴",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "扶住老将军，待孤与他起箭。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "且慢！想我身为大将，这起箭何用搀扶，待臣自起。 闪开了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠起箭，死。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "老将一死孤心好惨！ 冤仇未报恨难填。 五虎上将三不见……"
+        },
+        {
+          "character": "刘备",
+          "type": "哭头",
+          "text": "老将军哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "不灭东吴誓不还！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "将老将军尸首盛殓起来，送往成都！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "潘璋讨战。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "张苞、关兴，快快带领人马，与吴兵决一死战。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        },
+        {
+          "character": "张苞、关兴",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

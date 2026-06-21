@@ -1,0 +1,2820 @@
+{
+  "script_id": "03029002",
+  "title": "打樱桃",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "秋水",
+      "hangdang": "丑"
+    },
+    {
+      "name": "平儿",
+      "hangdang": "花旦"
+    },
+    {
+      "name": "秋奉先",
+      "hangdang": "小生"
+    },
+    {
+      "name": "爱娟",
+      "hangdang": "旦"
+    },
+    {
+      "name": "员外",
+      "hangdang": "老生"
+    },
+    {
+      "name": "安人",
+      "hangdang": "老旦"
+    }
+  ],
+  "plot": "秋奉先赴试不第而归，遇表妹穆爱娟打樱桃，思之成疾。爱娟亦命丫鬟平儿递柬，约定相会佳期。适有文章\n大会，穆员外偕秋奉先同游。秋奉先假以跌伤，即赴密约。事为员外看破，乃归。及至绣阁，木已成舟。穆\n夫人无法，偷赠银两命秋奉先上京求名。",
+  "notes": "本戏围绕正故事发展，穿以书童秋水与丫鬟平儿各为主人用心，并互相调闹情节，反宾为主，极为有趣。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "秋奉先",
+          "type": "内白",
+          "text": "秋水带路！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "（内）喳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水引秋奉先同上。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "吹腔",
+          "text": "落第归来面带愧， 不知何日耀门楣。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我说相公，您这是怎么啦？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "可恨考试官，屈了文章，不中于我。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您不认识字吧？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "不认识字，怎么下场啊？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "今儿个闲着也是闲着，我得考考您。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "你要考我？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我考考您。这个字念什么？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "这个念“一”呀！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "这个念什么？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "念“二”"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "这个字您就不认得了！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "念“三”哪。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "“一”、“二”、“三”您都认得，您怎么没中哪！再来一竖！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "念“王”。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "再来上一点儿。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "是个“玉”字。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "真有你的，“玉”字你也认得。点上七百多点儿？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "这个字我就不认得了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "这就是王麻子的“麻”吗！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "不要胡说。好好伺候！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "喳！"
+        },
+        {
+          "character": "爱娟",
+          "type": "内白",
+          "text": "平儿，带路！"
+        },
+        {
+          "character": "平儿",
+          "type": "内白",
+          "text": "是了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿引爱娟同上。"
+        },
+        {
+          "character": "爱娟",
+          "type": "吹腔",
+          "text": "轻移莲步过楼厅， 去到桃园散散心。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "启小姐：来此已是樱桃树下。"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "前去打桃！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿打樱桃。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哎、哎、哎！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "哈！没有风，树叶动弹。八成有人偷桃吧，我骂他几句。 呔！呔！呔！是何人偷了我的桃，盗了我的桃，太老爷知道了，敲他的骨拐拔 眉毛！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哟，听墙那边儿说话的好耳熟哇！"
+        },
+        {
+          "character": "秋水、平儿",
+          "type": "同白",
+          "text": "我上去瞧瞧他是谁。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "这不是秋水哥哥吗？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "这不是平儿妹妹吗？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哥哥，你好啊？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "妹妹，你好啊？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "相公赶考，中了没有？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "没中，“肿”着回来啦！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我同小姐打樱桃来了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "叫他们俩人见见哪？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "好，我请小姐，你请相公！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "相公，小姐来了！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "小姐，相公来了！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "哪里相见？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "墙头儿相会。"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "待我向前。 表兄在哪里？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "表妹在哪里？"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "表兄进京，可曾得中？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "落榜而归。"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "表兄啊！"
+        },
+        {
+          "character": "爱娟",
+          "type": "吹腔",
+          "text": "等到来年春雷动， 蛟龙也有上天时。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "请小姐回房！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "爱娟下。秋奉先看。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "你们看哪，秋相公看我们小姐，把眼都看直了。我拿樱桃打他一下。 秋相公，着打呗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿打秋奉先，下。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "哎哟！哎哟！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "平儿打了我的眼了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "打了眼啦！打的哪只？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "打的是这只。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "连那只也该打。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "怎么该打？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "瞧人就是一过眼儿，哪有往肉里盯的？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "小姐长得好，我要题诗一首。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "平儿长得好，我要抓诗一首。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "写在哪里？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "抓在门后头。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "你且抓来！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你认得不认得？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "我不认得。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我念念你听："
+        },
+        {
+          "character": "秋水",
+          "type": "念",
+          "text": "平儿今年整十七，她的模样数第一。可惜可惜真可惜！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "可惜什么？"
+        },
+        {
+          "character": "秋水",
+          "type": "念",
+          "text": "可惜她的脚是木头的。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "胡说！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先、秋水同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "爱娟上。"
+        },
+        {
+          "character": "爱娟",
+          "type": "引子",
+          "text": "绣阁春风暖，花开百草鲜。"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "奴家、穆爱娟。只因昨日樱桃树下与表兄相见，果然是人才出众。奴本当修书 一封，怎奈无人前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿暗上。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "小姐修书，待我平儿传书寄柬。"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "你要前去，如此溶墨！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "是了。"
+        },
+        {
+          "character": "爱娟",
+          "type": "吹腔",
+          "text": "夕阳凭吊作情诗， 棒打樱桃惹是非。 休怨朱门夸富贵， 终朝为你解罗衣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "爱娟下。"
+        },
+        {
+          "character": "平儿",
+          "type": "吹腔",
+          "text": "绣阁领了小姐命， 去到书房走一程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先、秋水同上。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "吹腔",
+          "text": "年年不带看花眼， 不是愁中那病由。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "哎哟！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "哎！秋水，你怎么样了？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "相公，您怎么啦？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "我病了啊！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您病啦，我也病啦。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "啊！我病了，怎么你也病了？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您想啊，这是主人病，奴才不敢不病噢！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "你得的是什么病啊？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "相公，您得的是什么病啊？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "我得的是相思病啊！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我得的是单思病！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "世界之上，只有相思病，哪有什么单思病啊？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您想小姐；小姐也想您，这是“相思”。我想平儿；平儿不想我，这不是“单 思病”吗！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "又来胡说八道啊！"
+        },
+        {
+          "character": "平儿",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿上。"
+        },
+        {
+          "character": "平儿",
+          "type": "吹腔",
+          "text": "离却了绣阁书斋进， 不觉来到书房门。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哟！到了。待我叫门。 开门来！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "秋水，外面有人叫门。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "没门叫人哪！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "没听见哪？开门来！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "秋水，你去看看哪！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "人家孩子不是病着哪吗！ 谁呀？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哟！连我的语声儿都听不出来了？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "哎哟！我们这儿病着哪！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我是平儿。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是谁？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "平儿。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "着傢伙！ 相公，来了来了！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "哪个来了？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "小姐来了。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "小姐来了，我的病好了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我也出汗了。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "怎么还不出来呀？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "快快有请！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "等等儿，不是小姐来了。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "哪个来了？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "跟着小姐的平儿来了。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "与我加上一道闩！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "不能由着你！我瞧瞧她是谁。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哟，哥哥呀！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "妹妹！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "相公在哪儿哪？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "在书房里哪。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "说我平儿求见。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "常来的人，进去吧！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "相公在哪儿哪？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "这再加上一道闩。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "啊，你怎么将她放进来了？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你说的，放进来加上一道闩。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "混账东西！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "相公在上，平儿有礼了！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "罢了。到此何事？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "小姐有书，相公请看。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "呈上来。 秋水！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "与平儿看坐！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是，平儿坐着。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "相公在此，平儿不敢坐。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "只管坐下。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "妹妹坐下。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "那怎么坐呀？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "四个包厢，你爱坐哪个就坐哪个。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "你掉过来！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我就掉过来。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "把椅子掉过来！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "呕！把椅子掉过来。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哎哟！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "平儿，你怎么不坐下？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "相公，您那问、问、问……他吧！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "秋水，她怎么不坐下？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "相公，您那问、问、问……她吧！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "平儿，你怎么不坐下？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "相公，您那还是问、问、问……他吧！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "秋水！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "她因何不坐下？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "相公，您那还是问、问、问……她吧！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "平儿，你到底因何不坐下？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "相公，他、他、他摸索我们来着！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "你这个奴才，怎么摸索她呀？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我摸索她干什么？有那功夫我还摸索你哪！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "什么东西？你且坐下。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "是了。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "秋水！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "看茶！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是。 看茶去。这么香的茶给她喝！给她对上点儿自来水儿。 相公茶来了！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "递与平儿。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "平儿妹妹喝茶！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我不喝。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "喝一点！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "不喝吗！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "不喝拉倒！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "拿开这——"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你怎么不上我们这儿来啦？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "别闹别闹！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "官彦上。"
+        },
+        {
+          "character": "官彦",
+          "type": "念",
+          "text": "寒夜客来茶当酒，冷炉汤沸火初红。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "来此已是。 秋水开门来！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "你听，有人叫门哪！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是谁呀？"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "我是你官大叔来了。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哟！官大叔来了？这可怎么好哇！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你在后头藏藏去。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "你快点儿把他打发走了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿下。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "快些开门来！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是啦。 相公，官大叔可来了！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "如何是好啊？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你装病。他问你吃了饭啦，你就说读过文章了；他问你读过文章啦，你就说吃 过饭了。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "记下了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是谁啊？ 哦，官大叔！"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "罢了。你家大相公呢？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "现在书房。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "带路！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您里头坐吧。 官大叔来了！"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "贤弟在哪里？ 啊贤弟，可曾用过早膳？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "读过文章了。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "可曾读过文章？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "用过早饭了。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "秋水！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "你家大相公，为何说话颠三倒四？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "他是热病没出汗，汗蹩的！"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "啊贤弟，今当文章大会，你可能前去？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "有病在身，不能前去。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "我要去了！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "小弟不能远送，秋水代送！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是。 官大叔您回来！"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "作什么？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "到您那儿，请客是什么乡风？"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "先下请帖。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "请帖不到？"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "催帖。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "催帖不到？"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "亲自上门。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "亲自上门再要不到哪？"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "也就罢了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "不对啦！"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "照我们这儿的乡风，亲自上门再要不到啊，拉拉扯扯也得把他拉了走。您要是 不拉了走，过后，人家挑眼。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "将他拉了走？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "拉了就走。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "啊贤弟，你我一同前去！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "不能前去。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "去得的！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "去不得！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "去不得！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "官彦拉秋奉先。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "去吧！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "官彦拉秋奉先同下。平儿上"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "官大叔走了没有？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "走了。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我也要走了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你别走啊！咱们俩人——"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "别闹！别闹！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外上。"
+        },
+        {
+          "character": "员外",
+          "type": "念",
+          "text": "只因误识林和靖，惹得诗人说到今。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "秋水，开门来！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "又有人叫门哪！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "没有人哪。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "有人叫门！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是谁呀？"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "太老爷。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "这个老家伙！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哟，太老爷来了！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你再藏一会儿。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我不去了。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "快些开门来！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是啦。得了，好妹妹！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我不去。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "好妹妹！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "这个麻烦劲儿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿下。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "快些开门来！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "来了。太老爷！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "我在这里。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您在这儿哪！太老爷！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "太老爷里头请吧！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "你家大相公哪里去了？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "赴文章大会去了。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "这几日可曾读过文章无有？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "读过文章啦，这几天真用了功夫啦：吃饭也是“子曰”；喝茶也是“子曰”； 上厕所拉屎使劲都说：“哎哟！我的‘曾子曰——大便不通噢’”！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "这个奴才。可有现成的文章，拿来我看。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "有的是。我拿去。 哎呀，这封信在这里哪！ 太老爷，给您看！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "秋水！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "手拿何物？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "没什么。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "我看见了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您看见了？不瞒您说，小子的家信。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "你的家信到了？我替你看看。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您要看，给您看。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "怎么是空的？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "家里没人儿，来封空信。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "哪有稍空信的道理？快些拿来！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "给您看吧！"
+        },
+        {
+          "character": "员外",
+          "type": "念",
+          "text": "“夕阳凭吊作情诗”，"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "报！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "报什么？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "太老爷，咱们门口来了七八驮子盐，打了个火，抽了一袋烟，他们又走了！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "此乃是一句淡话。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "七八驮子盐还“淡“？"
+        },
+        {
+          "character": "员外",
+          "type": "念",
+          "text": "“棒打樱桃惹是非”。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "报！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "你又报什么？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "咱们后头院那只黑鸡下了个白蛋。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "这个蛋原是白的。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "呕！旦是白的，那么老生是什么颜色？"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "打嘴！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": "员外",
+          "type": "念",
+          "text": "“休怨朱门夸富贵”，"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "报！报！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "又报什么？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "太老爷，您真是“贵人多忘事”！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "什么事情？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "有一次东庄里请您吃酒，家里没人，您把我带去啦。把您让在上头了，坐下来， 您就放了个屁！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "哪有此事？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您那脸可就红了，同桌的诸位老爷们都乐了，您也坐不住了，我可就说话啦。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "你说些什么？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我就说了：列位，这不是我们太老爷放的屁；是桌底下那个狗放的。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "胡说！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": "员外",
+          "type": "念",
+          "text": "“终朝为你解罗衣”。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "又报！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "你又报什么？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我没有什么报的了。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "这个文章是哪个作的？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "不才是小子我作的。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "看你不出，有此大才。当着太老爷你再作上一首！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "醒着作不了，那是我说睡语作的。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "到底是哪个作的？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "官大叔作的。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "哎呀且住！当初曾向我提亲，是我不允，如今作出此事，定要将他赶了出去。 啊秋水！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "好好服侍大相公，老爷有赏。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您有赏，赏我什么？"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "将府下的平儿赏与你就是。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您把平儿赏给我了？谢谢太老爷！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "我要走了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "送太老爷！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "免！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "再送太老爷！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "免！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "还送太老爷！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "啊！你把我送到哪里去？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我把你送到张家口去。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "胡说！这个奴才！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外下。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "太老爷走了。得！我也不用关门了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿上。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哥哥，太老爷走了没有？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "走了。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我也该走了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你别走了。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "怎么哪？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "太老爷把你赏给我了。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我没听见哪。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你问问他们——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水指台下。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "都听见了。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我没听见哪。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "咱们俩在这儿吧！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我们怪害臊的。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我替你害臊。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我想起个主意来。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "什么主意哪？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "你拿手绢蒙上眼，你逮住我就算。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "就那么办。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "相公怎么还不回来呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先上。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "平儿，你还不曾走么？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "你这儿来吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿下。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我可逮住你啦！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "哎呀，你这个奴才！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你怎么单在这时候回来！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "什么东西！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先、秋水同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外、安人同上。"
+        },
+        {
+          "character": "员外",
+          "type": "念",
+          "text": "远看青山绿水，"
+        },
+        {
+          "character": "安人",
+          "type": "念",
+          "text": "近看杨柳桃花。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "安人请坐！"
+        },
+        {
+          "character": "安人",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水暗上。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "今当寿山大会，你我一同前去逛会。"
+        },
+        {
+          "character": "安人",
+          "type": "白",
+          "text": "带了奉先前去。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "唤他前来。 秋水！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "请你家大相公！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是。 有请大相公！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先上。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "念",
+          "text": "丝纶阁下文章净，钟鼓楼上刻漏长。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "参见姑父、姑母！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "罢了。一旁坐下。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "谢坐。唤孩儿出来，有何训教？"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "今当寿山大会，意欲同我儿一同逛会。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "孩儿遵命。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "秋水，带马！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是。太老爷上马！"
+        },
+        {
+          "character": "员外",
+          "type": "念",
+          "text": "寿山大会开，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外下。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "太夫人上马！"
+        },
+        {
+          "character": "安人",
+          "type": "念",
+          "text": "家家把香排。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "安人下。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "相公上哪去？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "一同逛会。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "跟小姐定的约会哪？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "这便如何是好？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我有个主意：找个沙土窝的地方，您打马身上摔下来，就说摔了左膀。说个瞎 话就回来了。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "此计甚好，照计而行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先、秋水同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外、安人同上。"
+        },
+        {
+          "character": "员外、安人",
+          "type": "同吹腔",
+          "text": "一寸光阴一寸金， 寸金难买寸光阴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先、秋水同跑上。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "哎呀呀！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "唉哟，摔下来了！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "摔了何处？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "摔了左膀。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "这可怎么好？"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "你们回去吧！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先下。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我还去哪！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "你去作甚？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我还给平儿买东西哪。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "我与你带来就是。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "您给我带来，我谢谢您哪。我回去了。 相公，等着我！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水跑下。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "啊安人，此会不逛也罢。"
+        },
+        {
+          "character": "安人",
+          "type": "白",
+          "text": "我们回去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外、安人同下。官彦上。"
+        },
+        {
+          "character": "官彦",
+          "type": "吹腔",
+          "text": "有梅无雪不精神， 有雪无诗俗了人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先跑上。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "啊兄长！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "念",
+          "text": "将军不下马，各自奔前程。"
+        },
+        {
+          "character": "秋奉先、官彦",
+          "type": "同白",
+          "text": "请了请了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先下。秋水跑上。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "官大叔，将军不下骡子，我打你的脖子。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "看他主仆欢天喜地，必有缘故，待我回去。"
+        },
+        {
+          "character": "员外、安人",
+          "type": "内同白",
+          "text": "走啊！"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "有人来了，下马等候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外、安人同上。"
+        },
+        {
+          "character": "员外、安人",
+          "type": "同吹腔",
+          "text": "日暮诗成天又雪， 与梅并作十分春。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "参见姑父、姑母！"
+        },
+        {
+          "character": "员外、安人",
+          "type": "同白",
+          "text": "罢了。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "我那贤弟哪里去了？"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "适才在中途摔了左膀，回去了。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "适才看他主仆二人欢天喜地回归。侄男有话不好当面言讲。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "有话讲在当面。"
+        },
+        {
+          "character": "官彦",
+          "type": "白",
+          "text": "姑母在此，改日再讲，改日再讲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "官彦下。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "听官彦之言，必有缘故。你我急速回去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外、安人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": "秋奉先",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先、秋水同上。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "到了。待我叫门。 开门来！"
+        },
+        {
+          "character": "平儿",
+          "type": "内白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿上。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "是谁啊？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是我呀！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "你是谁呀？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我是你秋水哥哥。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哟！哥哥，相公哪？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "相公来了。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我请小姐。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我请相公。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "有请小姐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "爱娟上。"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "秋相公来了。"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "说我出迎！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "小姐出迎！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "平儿妹妹，我马棚里等你。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水下。"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "表兄哪里？"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "表妹！正是："
+        },
+        {
+          "character": "秋奉先",
+          "type": "念",
+          "text": "昨日打桃日落西，"
+        },
+        {
+          "character": "爱娟",
+          "type": "念",
+          "text": "惹得奴家不自已。"
+        },
+        {
+          "character": "平儿",
+          "type": "念",
+          "text": "多亏我平儿来寄柬，"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "外面有人来了！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "待我出去瞧瞧！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "念",
+          "text": "今日才得会佳期。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "爱娟、秋奉先同下。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "没人哪，把门关上了。看他二人将门关上，抛我平儿一人在外，思想此事呵！"
+        },
+        {
+          "character": "平儿",
+          "type": "吹腔",
+          "text": "月移花影照纱窗， 一阵风来粉黛香。 他二人重演西厢记， 奴家好比小红娘。 这一回打动了相思债， 怎得游龙戏凤凰？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水上。"
+        },
+        {
+          "character": "秋水",
+          "type": "吹腔",
+          "text": "有秋水，心焦躁， 只见平儿小姣姣。 恨不得上前将她抱！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿喷水，跑下。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "水啊，上水屋子找掌柜的去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿跑上，秋水追上。平儿撒白面，跑下。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "面啊！磨官我也不饶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿、秋水同跑上。秋水关门。平儿跑下，秋水追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外急上。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "开门来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "平儿跑上。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "是谁呀？"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "太老爷。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "唉哟我的妈哟！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "待我打进去。 平儿，小姐往哪里去了？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "小姐在、在、在后楼！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "待我赶至后楼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外下。"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "哥哥快来吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水上。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你怎么跑了？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "太老爷来了。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "这怎么好啊？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "你藏在桌儿底下吧！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "我怎么出来呀？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "我一拍桌子，你就出来。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "你可想着拍桌子！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋水藏。员外上。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "平儿，小姐到底往哪里去了？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "小姐在、在、在……"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "在哪里呀？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "小姐在绣阁哪。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "我赶至绣阁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外进绣阁。秋奉先跑出碰员外，秋奉先跑下。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "气死我也！将贱人与我叫了出来！"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "是了。 有请小姐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "爱娟上。"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "太老爷知道了！"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "如何是好哇？"
+        },
+        {
+          "character": "平儿",
+          "type": "白",
+          "text": "不要紧的，有我哪！"
+        },
+        {
+          "character": "爱娟",
+          "type": "白",
+          "text": "啊爹爹！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "好贱人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外拿刀追杀，爱娟、平儿同跑下。安人跑上接刀，员外拍桌子，秋水出桌。"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "秋水，叫你家大相公！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "有请相公！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先上。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "太老爷叫哪，快套上：装病！"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "唉哟！"
+        },
+        {
+          "character": "员外",
+          "type": "白",
+          "text": "哎呀安人啊，适才在中途摔坏左膀，怎么套着右膀？想我是怎样恩待与你，作 出这样丑事，安人与我轰！与我赶！赶了出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "员外下。"
+        },
+        {
+          "character": "安人",
+          "type": "白",
+          "text": "儿呀，这有纹银二百两，上京求名去吧。得中回来，婚姻之事，包在老身的身 上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "安人下。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "白",
+          "text": "多谢姑母。 秋水带马！"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "秋奉先",
+          "type": "吹腔",
+          "text": "纸屏石枕竹方床， 手倦抛书午梦长。"
+        },
+        {
+          "character": "秋水",
+          "type": "白",
+          "text": "平儿妹妹，我们走了，我看不见你了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秋奉先、秋水同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

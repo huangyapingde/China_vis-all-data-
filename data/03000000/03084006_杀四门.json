@@ -1,0 +1,968 @@
+{
+  "script_id": "03084006",
+  "title": "杀四门",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "刘金定",
+      "hangdang": "旦"
+    },
+    {
+      "name": "赵匡胤",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "南唐李惠王用余洪为帅，困赵匡胤于寿州。赵匡胤命韩岐搬来高俊宝。高俊宝马踏余营，得胜归来，偶得卸\n甲疯；其妻刘金定力杀四门，大败余兵。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四太监、大太监引赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "引子",
+          "text": "孤无洪福，遭围困，难保江山！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "独创基业十数秋，汴梁定位坐龙楼。酒醉斩了郑三弟，君臣遭困无限愁！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "孤、乾德王赵。可恨李惠王修下战表，要孤亲自前来，他又设下空城一座，孤 王被困寿州，里无粮草，外无救兵。孤命韩岐回朝搬兵，幸得高爱卿踏破了番 营，进得城来，不想偶得卸甲风寒之症。孤只得巡查四门。 内侍！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "起驾巡城去者！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "起驾巡城啊！"
+        },
+        {
+          "character": "四文堂、四太监",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟引刘金定同上。"
+        },
+        {
+          "character": "刘金定",
+          "type": "引子",
+          "text": "儿夫南唐去报效，昼夜里，思念心焦。"
+        },
+        {
+          "character": "刘金定",
+          "type": "念",
+          "text": "将军一去无音信，叫奴忧闷长挂心。牙床冷落鸳鸯枕，辗转终宵到清晨。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "奴家、刘金定。自与高将军结亲之后，他回到南唐父王台前报效，至今并无音 信回来，是我放心不下，不免去到花园烧炷清香，保佑他君臣早早回来便了。 丫鬟！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "捧了香盘，花园去者！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "轻移莲步出绣房， 心系将军在他乡。 本当南唐去看望， 年迈老母在高堂。 忙到花园把香降， 保佑君臣早还乡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘金定焚香。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "一见香烟心内慌， 想是将军不安康！"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "哎呀且住！看香烟飞起，想是将军南唐有难。不免全身披挂，去到南唐搭救于 他便了！"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "丫鬟带路前庭往， 全身披挂到南唐。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "吩咐马童，带好金装锏；备马伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘金定下。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "女马童上，备马。"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "请姑娘上马！"
+        },
+        {
+          "character": "刘金定",
+          "type": "内白",
+          "text": "伺候了！"
+        },
+        {
+          "character": "刘金定",
+          "type": "内西皮导板",
+          "text": "叫马童带过了桃花能行！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四女兵引刘金定同上，大纛旗随上。"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "凤翅金盔甲鲜明。 威风凛凛跨金蹬！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘母上。"
+        },
+        {
+          "character": "刘母",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": "刘母",
+          "type": "唱",
+          "text": "我儿披挂哪里征？"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "娘啊！"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "母亲有所不知情， 女儿言来听分明： 都只为儿夫今有难， 儿到南唐救他身。"
+        },
+        {
+          "character": "刘母",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": "刘母",
+          "type": "唱",
+          "text": "南唐人马如潮涌， 我儿怎挡百万兵？"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "娘啊！"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "母亲且把心放定， 女儿能挡百万兵！"
+        },
+        {
+          "character": "刘母",
+          "type": "唱",
+          "text": "我儿休要太烈性， 免得为娘挂在心。"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "母亲不必珠泪淋， 见了儿夫早回程。 在前堂辞别了生身母，"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "母亲！"
+        },
+        {
+          "character": "刘母",
+          "type": "白",
+          "text": "我儿！"
+        },
+        {
+          "character": "刘金定、刘母",
+          "type": "同哭",
+          "text": "（娘啊）（儿呀）……"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "但愿老母多安宁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘金定下，女马童、大纛旗、四女兵、四下手同随下。"
+        },
+        {
+          "character": "刘母",
+          "type": "哭",
+          "text": "儿呀……"
+        },
+        {
+          "character": "刘母",
+          "type": "唱",
+          "text": "一见我儿上能行， 不由老身挂在心。 迈步且把前堂进， 但愿我儿早回程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘母下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四女兵、女马童引刘金定同上，大纛旗随上。"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "不分昼夜急速进， 只为儿夫夜行兵。 催马加鞭往前进， 姑娘上阵鬼神惊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引搬不倒同上。"
+        },
+        {
+          "character": "搬不倒",
+          "type": "念",
+          "text": "大将军八面威风，小将军四面威风。"
+        },
+        {
+          "character": "搬不倒",
+          "type": "白",
+          "text": "俺、大将搬不倒是也。奉了圣上旨意，把守东门。忽听刘金定兴兵前来，岂肯 容她猖狂？ 众将官！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "搬不倒",
+          "type": "白",
+          "text": "杀上前去！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四女兵、女马童、大纛旗、刘金定同上，同会阵。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "呔，来将通名受死！"
+        },
+        {
+          "character": "搬不倒",
+          "type": "白",
+          "text": "大将搬不倒！来将通名？"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "你姑娘刘金定！"
+        },
+        {
+          "character": "搬不倒",
+          "type": "白",
+          "text": "刘金定啊，刘金定！我看你年纪小，模样好，还是下得马来，我俩拜了天地， 做个夫妻，你看好也不好？"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘金定、搬不倒同起打，搬不倒、四上手同败下，刘金定、四下手、四女兵、女马童、大纛旗同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "搬不倒败上。"
+        },
+        {
+          "character": "搬不倒",
+          "type": "白",
+          "text": "杀败了哇，杀败了！我不免拜谢圣上爵禄之恩，寻个自尽了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "搬不倒下马。"
+        },
+        {
+          "character": "刘金定",
+          "type": "内白",
+          "text": "杀！杀！杀！"
+        },
+        {
+          "character": "搬不倒",
+          "type": "白",
+          "text": "我还是留命喝汤吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "搬不倒下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "场设城。刘金定、四下手、四女兵、女马童、大纛旗同上。"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "启姑娘：来在城下。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "前去叫喊！"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "是。 城上听着：万岁可在城内？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监上，登城。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "万岁往南门去啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监下。"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "启姑娘：万岁往南门去啦！"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "杀到南门！"
+        },
+        {
+          "character": "四下手、四女兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": "赵匡胤",
+          "type": "内西皮导板",
+          "text": "想当年离龙朝千差万错！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四太监、大太监引赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "悔不该带诸侯游玩山河。 酒醉后斩三弟孤王之过， 陶三春领人马杀上朝阁。 我也曾将黄袍城楼坠落， 三弟妇斩黄袍才罢干戈。 李惠王打来了表章与我， 要孤王下南唐两国解和。 在寿州设下了空城一座， 里无粮外无草无计奈何。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "场设城。四上手、雷显同上，刘金定、四下手、四女兵、女马童、大纛旗同上，同会阵。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "呔，来将通名受死！"
+        },
+        {
+          "character": "雷显",
+          "type": "白",
+          "text": "大将雷显！"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "看枪！ （刘金定、雷显同起打。四下手、四女兵、女马童、大纛旗、刘金定、四上手、雷显同下。四上手同上，四 下手同上，同起打，同下。雷显上，四女兵同上，同起打，四女兵同败下。刘金定上，杀雷显。四下手、四 女兵、女马童、大纛旗同上。）"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "万岁可在城内？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监上，登城。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "万岁往西门去啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监下。"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "启姑娘：万岁往西门去啦。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "杀到西门！"
+        },
+        {
+          "character": "四下手、四女兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四太监、大太监引赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "命韩岐搬救兵免灾避祸， 搬来了高爱卿颇有才学。 在阵前打一仗番营踏破， 进城来偶得下卸甲疯魔。 御外甥倘若是身遭不测， 是何人保孤王驾转朝阁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "场设城。四上手、林文豹同上，刘金定、四下手、四女兵、女马童、大纛旗同上。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "呔，来将通名受死！"
+        },
+        {
+          "character": "林文豹",
+          "type": "白",
+          "text": "大将林文豹！"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "看枪！ （刘金定、林文豹同起打。林文豹败下，刘金定追下。四上手同上，四下手同上，同起打，四上手同败下， 女马童、大纛旗同上。）"
+        },
+        {
+          "character": "四下手同追下。林文豹上，四女兵同上，同起打，四女兵同败下。刘金定上，杀林文豹。四下手、四女兵、女马童",
+          "type": "白",
+          "text": "万岁可在城内？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监上，登城。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "万岁往北门去啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监下。"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "启姑娘：万岁往北门去啦！"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "杀到北门！"
+        },
+        {
+          "character": "四下手、四女兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "场设城。四文堂、四太监、大太监引赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "孤好比孔圣贤蔡城遇祸， 孤好比关云长夜困土坡， 孤好比顺水舟江中失舵， 孤忧愁何日里才罢干戈？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内呐喊声〗。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "耳边厢又听得声震山河， 想必是那余洪来动干戈。 上城楼观动静王心似火，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤上城。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "看一看贼营中兵势如何。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘金定、四下手、四女兵、女马童、大纛旗同上。"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "启姑娘：来在城下！"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "前去叫城！"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "是。 呔，开城！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "何处人马前来叫城？"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "双锁山来的人马。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "来此做甚？"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "前来投亲。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "与哪家有亲？"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "与高爱将军有亲。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "有何为证？"
+        },
+        {
+          "character": "女马童",
+          "type": "白",
+          "text": "金装锏为证。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "系上城来，待孤观看！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监系金装锏，赵匡胤看。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "金锏本是孤王赠， 因何落在女将身？ 孤在城楼传将令， 迎请小姐快进城！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "开城啊！ （四文堂、四太监、大太监、赵匡胤同下。城门开，刘金定、四下手、四女兵、女马童、大纛旗同进城，同 下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四文堂、四太监、大太监引赵匡胤同上，同挖门。刘金定、四下手、四女兵、女马童、大纛旗同上，同站"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "一字。刘金定下马坐地，赵匡胤看。）"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "一见女将坐埃尘， 将她唤醒问分明。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "将她唤醒！"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "女将醒来！"
+        },
+        {
+          "character": "刘金定",
+          "type": "西皮导板",
+          "text": "这一阵杀得我昏迷不醒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四女兵、女马童、大纛旗同暗下。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "猛抬头又只见一位将军。 将身儿来至在滴水阶下， 他那里问一言我回一声。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "谁家女哪家眷住在何郡？ 说明了姓和名好记功勋。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "听了！"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "家住在双锁山徐州沛县， 刘金定本是奴的名。 问一声将军名和姓？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "孤就是大宋乾德君。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "听说一声乾德君， 喜在眉头笑在心。 走向前来忙跪定，"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "小姐免礼且平身。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "谢万岁！万岁，高将军今在何处？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "只因外甥与贼人交战回来，偶得卸甲风寒之症，现在病房疗养。"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "臣妾要前去探病。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "内侍！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "将小姐引至病房！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "刘金定",
+          "type": "白",
+          "text": "谢万岁！"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "辞别万岁出龙庭，"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "随我来！"
+        },
+        {
+          "character": "刘金定",
+          "type": "唱",
+          "text": "去到病房探夫君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监引刘金定同下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "有心栽花花不盛， 无心插柳柳成林。 今日收了刘金定， 何惧余洪百万兵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

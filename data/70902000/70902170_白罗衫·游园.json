@@ -1,0 +1,909 @@
+{
+  "script_id": "70902170",
+  "title": "白罗衫·游园",
+  "alias": [],
+  "source": "俞振飞剧本选",
+  "characters": [
+    {
+      "name": "徐继祖",
+      "hangdang": "小官生"
+    },
+    {
+      "name": "苏夫人",
+      "hangdang": "正旦"
+    },
+    {
+      "name": "王小姐",
+      "hangdang": "五旦"
+    },
+    {
+      "name": "王国辅",
+      "hangdang": "外"
+    }
+  ],
+  "plot": "徐继祖擢升御史，巡视江南。重臣王国辅设家宴款待。适其生母苏夫人遭难后为王家收留，园中见徐继祖颇\n似丈夫模样，不禁向其倾诉十八年沉冤。徐继组决心伸冤理枉。",
+  "notes": "饮宴时外、小生同唱之〖玉芙蓉〗，颇有气氛。〖月儿高〗、〖孝顺歌〗描摹苏夫人和王小姐游园时的心情，\n及对往事的追述，于叙事中抒情，构成此戏主曲。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王国辅上。"
+        },
+        {
+          "character": "王国辅",
+          "type": "引子",
+          "text": "园林烂漫花如绣，开宴华堂，骢马须留。"
+        },
+        {
+          "character": "王国辅",
+          "type": "念",
+          "text": "千古高情两鬓丝，空山深处采灵芝。不如洗盏开花叙，看取樱桃夏熟时。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "下官王国辅，今日设宴园中，特请徐按台。 来！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "徐爷那里，邀过几次了？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "两次了。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "再邀！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王国辅下，院子下。众人同喝。皂隶、门子同上，徐继祖上。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "引子",
+          "text": "代天巡狩，乘骢聚，荷君恩有志须酬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有人么？"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "王老爷邀酒。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "请回。 王老爷邀酒。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "王老爷邀酒三次。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "打道！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "打道！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大开门〗。"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "按院老爷到！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "老爷有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王国辅上。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "怎么说？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "按院老爷到！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "道有请！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "老爷出迎！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "吓，宪公祖！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "老先生！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖曲牌收〗。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "宪公祖，按临敝地，治生尚未请教，多多有罪！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "老先生望隆山斗，晚生特来领教。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "岂敢，请！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "恭喜宪公祖，豸冠铁柱，功名不减于延年；白简绣衣，謇萼无分于刁曜。圣天 子眷注方新，治生辈共沾雨露。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "老先生亲总六师，请白无惭于张奋；得专九伐，袞冕荷忝于陈骞。朝野俱瞻， 华夷仰望。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "不敢！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "酒完。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "看酒！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是！ 上酒！"
+        },
+        {
+          "character": "徐继祖、王国辅",
+          "type": "同玉芙蓉",
+          "text": "霜威凛似秋， 剑气冲牛斗。 羡丰神，金茎玉露难俦。 埋轮揽辔功勋茂， 洛日补天事业优。 驱车后，"
+        },
+        {
+          "character": "皂隶",
+          "type": "夹白",
+          "text": "谢！"
+        },
+        {
+          "character": "院子",
+          "type": "夹白",
+          "text": "谢！"
+        },
+        {
+          "character": "徐继祖、王国辅",
+          "type": "同玉芙蓉",
+          "text": "为观风遍诹，愿恭承善诱， 庶得免愆尤。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "告辞！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "宪公祖，小园虽则荒芜，花草颇觉烂漫，还请宪公祖一游，以增泉石之光。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "久慕名园，实切企仰，只是惭无好句以赠，恐花神笑其不韵耳。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "岂敢。 吩咐开了园门。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "开下了。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "宪公祖请！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "老先生请！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "念",
+          "text": "深感主人多缱绻，"
+        },
+        {
+          "character": "王国辅",
+          "type": "念",
+          "text": "还从曲径玩芳菲。"
+        },
+        {
+          "character": "徐继祖、王国辅",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐继祖、王国辅、皂隶、院子同下。〖春日景和〗。苏夫人上。〖曲牌收〗。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "引子",
+          "text": "啾啾唧唧，割肚牵肠，怎生了得！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小姐上。"
+        },
+        {
+          "character": "王小姐",
+          "type": "引子",
+          "text": "终日里重门静掩，还怕向堂前悲泣。"
+        },
+        {
+          "character": "王小姐",
+          "type": "白",
+          "text": "母亲！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "小姐，我自托身府中，又是十八年矣。虽则蒙小姐另眼相待，情同骨肉，不知 我婆婆在家安否，叔叔奉养如何？几次要寄书回去，又无便人，故此终日放心 不下。"
+        },
+        {
+          "character": "王小姐",
+          "type": "白",
+          "text": "我见母亲闷闷不乐，已吩咐园丁开了园门，且到亭上散步一回如何？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "如此，小姐请！"
+        },
+        {
+          "character": "王小姐",
+          "type": "白",
+          "text": "母亲请！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "月儿高",
+          "text": "花阴鹤唳，闲庭缀蓓蕾，"
+        },
+        {
+          "character": "王小姐",
+          "type": "月儿高",
+          "text": "看香霭飞芳径，空翠涵春水。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "月儿高",
+          "text": "我怕向深林，闷把栏杆倚， 我生枉羁人世，死也为怨鬼。"
+        },
+        {
+          "character": "王小姐",
+          "type": "夹白",
+          "text": "母亲亲！"
+        },
+        {
+          "character": "王小姐",
+          "type": "月儿高",
+          "text": "且请开怀莫皱眉。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "夹白",
+          "text": "小姐吓！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "月儿高",
+          "text": "我念到家园意似痴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "小姐在哪里？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "为何这等慌张？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "老爷，按院老爷游玩，请小姐、苏夫人快些回避。"
+        },
+        {
+          "character": "王小姐、苏夫人",
+          "type": "同白",
+          "text": "这便怎么处？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "到太湖石畔那里躲一躲。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "有理。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "念",
+          "text": "欲遣闷怀芳径步，"
+        },
+        {
+          "character": "王小姐",
+          "type": "念",
+          "text": "不期花里有人来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏夫人、王小姐同下。徐继祖、王国辅同上。〖春日景和〗。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "宪公祖请！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "老先生请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖曲牌收〗。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "妙吓！昔人云：极目无由赏，闲游不避喧。今日对此名园，不觉形神俱化。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖春日景和〗。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "忒过誉了。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "前面什么所在？"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "名曰江天阁，可以望江，请宪公祖一登。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "念",
+          "text": "欲穷千里目，"
+        },
+        {
+          "character": "王国辅",
+          "type": "念",
+          "text": "更上一层楼。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "看茶！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐继祖、王国辅同下。〖曲牌收〗。苏夫人上。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "啊呀苦吓！"
+        },
+        {
+          "character": "王小姐",
+          "type": "白",
+          "text": "母亲见了那位官长，为何啼哭起来？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "小姐，方才那位官长呵！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "孝顺歌",
+          "text": "听声气，看他容貌奇， 依稀与我夫主一样的。 追忆子抛离， 如今有十八纪。"
+        },
+        {
+          "character": "王小姐",
+          "type": "白",
+          "text": "为何不到官府去吿理？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "我一向要到官府去吿理，只因我是女流，不好出乖露丑。今日见此御史若不吿 理，终无雪寃之日了㖸！"
+        },
+        {
+          "character": "王小姐",
+          "type": "白",
+          "text": "今日爹爹请他饮酒，怎好去唐突他？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "小姐说你哪里话来？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "孝顺歌",
+          "text": "他受朝廷爵位， 况且行道替天，料能除奸宄。 倘然歼得巨魁， 何惜微躯碎。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "夹白",
+          "text": "小姐吓！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "孝顺歌",
+          "text": "何须畏，拼履危， 今日一鸣冤，胜似鬼为励。"
+        },
+        {
+          "character": "王小姐",
+          "type": "白",
+          "text": "还是不可去。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "放手，呀啐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏夫人下。"
+        },
+        {
+          "character": "王小姐",
+          "type": "白",
+          "text": "这便怎么处？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王小姐下。〖春日景和〗。徐继祖、王国辅同上。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "宪公祖请！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "老先生请！妙吓，又是一洞天了！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "太过奖了。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "这又是什么所在？"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "这是叙香亭。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "那呢？"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "那是清辉阁。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "一发幽雅。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖曲牌收〗。苏夫人上。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "啊呀爷爷，冤枉吓！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "狗才狗才，好不小心！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王国辅下。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "带来亭子上来！"
+        },
+        {
+          "character": "皂隶",
+          "type": "白",
+          "text": "吓！ 妇人当面。"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "爷爷，冤枉吓！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "你这妇人，有何冤枉，从实说上来！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "爷爷听禀！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "孝顺歌",
+          "text": "我是儒门裔宦室妻， 夫君当日遭祸奇。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "你丈夫叫甚名字？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "我丈夫姓苏名云，进士出身，前任兰溪县知县。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "原来是位夫人，请起！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "多谢爷爷！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "苏公遭甚奇祸？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "爷爷吓！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "孝顺歌",
+          "text": "只为赴任到兰溪，江心遇强队， 把我丈夫呵登时立毙。 又逼我成婚， 亏煞他贤弟——"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "哪个什么贤弟？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "其时正在危急之际，亏他兄弟徐熊，哄醉强徒，将奴放出后门，才得脱离虎口 㖸！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "此事有几年了？"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "啊呀爷爷吓！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "孝顺歌",
+          "text": "有十八载沉冤，怨气弥天地。 祈天使将明镜持， 若得获凶徒，我命甘捐弃。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "夫人请回，待本院回衙，与你细查便了！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "白",
+          "text": "多谢爷爷！"
+        },
+        {
+          "character": "苏夫人",
+          "type": "念",
+          "text": "幸亏清廉吏，得雪覆盆冤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏夫人下。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "请王老爷！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "王老爷有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王国辅上。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "吓宪公祖，治生多多有罪了！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "岂敢！老先生，那苏夫人为何在此？"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "吖，有个缘故。治生当日，生一小女，要唤个乳娘，有人领她进来的。后来晓 得她是好人家儿女，落难到此，就不叫她乳娘，合宅都称她苏夫人，所以在此。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "原来如此。下官未到任时，就闻知此事，知识那苏老先生遭此惨祸，实为可怜！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "便是。今日薄设水酒，聊以表情，不道有此一番唐突，治生多多有罪！"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "老先生说哪里话？下官蒙圣恩重委，原为伸冤理枉，这样事正该与她昭雪，老 先生何言有罪？"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "足见宪公祖凤裁，可敬吓可羡！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "小桌已完。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "告辞！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "不消。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "简慢。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "吩咐侍候。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "各役侍候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大开门〗。"
+        },
+        {
+          "character": "徐继祖",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐继祖下。〖曲牌收〗。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "老爷辛苦了！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "狗才狗才，哪个放苏夫人出来叫喊？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "这是园丁之故，与我们无干。"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "如此把园丁跪着，将我名帖，到徐按台那里请罪。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "吓！"
+        },
+        {
+          "character": "王国辅",
+          "type": "白",
+          "text": "放肆的狗才！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王国辅下。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "这是哪里说起？与园丁算账！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

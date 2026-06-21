@@ -1,0 +1,1428 @@
+{
+  "script_id": "01018014",
+  "title": "冀州城",
+  "alias": [
+    "有勇无谋"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "马超",
+      "hangdang": "武生"
+    },
+    {
+      "name": "庞德",
+      "hangdang": "净"
+    },
+    {
+      "name": "马岱",
+      "hangdang": "老生"
+    },
+    {
+      "name": "赵月",
+      "hangdang": "老生"
+    },
+    {
+      "name": "韦康",
+      "hangdang": "末"
+    },
+    {
+      "name": "梁宽",
+      "hangdang": "丑"
+    },
+    {
+      "name": "赵衢",
+      "hangdang": "丑"
+    },
+    {
+      "name": "夏侯渊",
+      "hangdang": "净"
+    },
+    {
+      "name": "姜叙",
+      "hangdang": "净"
+    },
+    {
+      "name": "姜母",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "姜妻",
+      "hangdang": "正旦"
+    }
+  ],
+  "plot": "按《三国演义》，马超自渭南兵败入羌，结好羌兵，攻打陇西诸郡，声势甚盛。冀州坚守不下，刺史韦康，\n遣人求救于夏侯渊。夏侯渊未奉曹操示谕，不敢擅动。韦康计穷力尽，商议投降。参军杨阜哭谏不从，遂开\n城迎超。马超以事急请降，决非真心，斩韦康以徇，反重用杨阜。杨阜荐梁宽、赵衢为军官，暗结心腹以图\n马超。乃请假葬妻，乘间至历城姜叙处借兵。姜叙命统兵校尉尹奉、赵昂屯于祁山，以成犄角。马超探得此\n事，令马岱、庞德尽起军马，杀奔历城。姜叙与杨阜出城迎战，尹奉与赵昂率祁山之众，两下夹攻，又有夏\n侯渊领大队军马杀来。马超大败，奔回冀州。忽然乱箭射下，梁宽、赵衢立在城上大骂。将马超妻杨氏，并\n幼子三人，至亲十余口，同时杀死，掷下尸首。马超气愤填胸，几乎落马。后面敌军蜂拥而至，如狂风骤雨\n一般。马超无心恋战，逃窜不遑。路经历城，天有四鼓，昏黑不辨。守门者误认为姜叙回兵，开门迎接。马\n超骤马杀入，尽洗城中百姓，而姜叙、尹奉、赵昂家属遂亦遭屠戮。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、赵月同上。"
+        },
+        {
+          "character": "赵月",
+          "type": "白",
+          "text": "下官赵月。今有马超兵败渭南，从此经过。我不免前去，迎接他进城便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、赵月同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四战将、八英雄、马岱、庞德、马超同上。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "杀父冤仇不共天， 损兵折将转回还。"
+        },
+        {
+          "character": "马岱、庞德、马超",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "马超。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "庞德。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "马岱。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "恼恨曹操杀害我父，是我带领西羌全部人马，替父报仇。那时闯入潼关，与曹 兵在渭南大战，只杀得曹贼割须弃袍而逃。不料那贼暗用反间之计，俺一时不 明，将韩遂左膀砍去。那杨秋等私自投降，里应外合，将吾杀得大败。本当转 回西凉，又恐被人耻笑。意欲去至汉中，投奔张鲁，借此养精蓄锐，再兴人马， 以报父仇。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "启公子：想那汉中张鲁，为人懦弱多疑。公子投奔那里，尚不知他能否收留。 以末将之见，不若去到冀州借兵，替老元戎报仇雪恨。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "吓兄长，若以小弟之见，不若将人马拨回西凉，屯军养马，操练将士，再来复 仇，也还不迟。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "吾弟之见正合吾意。人马转回西凉者！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "恼恨曹贼狗奸党， 杀父冤仇怎能忘。 人来一齐朝前闯， 军马暂且回西凉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、赵月同上。"
+        },
+        {
+          "character": "赵月",
+          "type": "白",
+          "text": "参见公子。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "你是何人？前来则甚？"
+        },
+        {
+          "character": "赵月",
+          "type": "白",
+          "text": "某赵月。闻听公子兵败渭南，特的前来迎接公子人马进城。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "好。头前引路。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四战将、八英雄、马岱、庞德、马超、赵月同上。"
+        },
+        {
+          "character": "赵月",
+          "type": "白",
+          "text": "闻听公子，与太守韩遂，合兵破曹。曹兵大败。到后来怎么又与韩遂反悖？"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "是俺误中曹操反间之计，砍去韩遂左膀。杨秋各将又私自投降曹操，里应外合， 将某杀得大败。"
+        },
+        {
+          "character": "赵月",
+          "type": "白",
+          "text": "公子为何不借兵报仇？"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "某原有此意。 庞德听令：命你去至冀州，与刺史韦康借兵，不得有误。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞德下。"
+        },
+        {
+          "character": "赵月",
+          "type": "白",
+          "text": "后堂排宴，与公子接风。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、韦康同上。"
+        },
+        {
+          "character": "韦康",
+          "type": "引子",
+          "text": "坐镇冀州，秉忠心，答报龙楼。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "吾冀州刺史韦康。昨日探马报到，马超兵败渭南，人马从此经过。倘若到此， 还须人马准备。也曾作书与夏侯将军，请他带兵前来把守。为何不见到来？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "今有马超，遣大将庞德，前来借兵。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "有请杨参谋，梁、赵二位将军进帐。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "参谋、二位将军进帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨阜、梁宽、赵衢同上。"
+        },
+        {
+          "character": "杨阜",
+          "type": "念",
+          "text": "谋臣用韬略，"
+        },
+        {
+          "character": "梁宽、赵衢",
+          "type": "同念",
+          "text": "各处起干戈。"
+        },
+        {
+          "character": "杨阜、梁宽、赵衢",
+          "type": "同白",
+          "text": "参见使君。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "参谋、将军少礼。参谋请坐。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "有坐。传我等进帐，有何军情议论？"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "今有马超，兵败渭南而来。曾遣大将庞德，前来借兵。借与不借，特请参谋商 议。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "倘若借兵与他，丞相降罪，何人担待？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "庞德已到帐外。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "再探。 庞德已来，应如何对答？"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "使君看俺眼色便了。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "有请庞将军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四英雄、庞德同上。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "韦使君在上，某家大礼参拜。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "将军少礼。一旁陪坐。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "将军到此，必有所为？"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "某奉马公子之命，特地前来与使君借兵，替父报仇。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "这……倘若借兵与公子，曹丞相怪罪，有些不便。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "想我家公子性如烈火，倘若带兵前来，只怕悔之晚矣！"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "想你家公子，借此无名之兵，背君犯上，就为不忠。父丧不能守制，就为不孝。 似此不忠不孝之人，何足道哉！"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "庞德",
+          "type": "西皮摇板",
+          "text": "杨阜口出不逊言， 倒叫豪杰怒冲冠。 马到危崖难回转，"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "马来！"
+        },
+        {
+          "character": "庞德",
+          "type": "西皮摇板",
+          "text": "船到江心怎收缆。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞德、四英雄同下。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "看庞德此去，那马超定不甘休。参谋速修书信于夏侯渊将军，叫他快快带兵前 来，不得有误。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四英雄、马岱、马超同上。"
+        },
+        {
+          "character": "马超",
+          "type": "念",
+          "text": "杀父冤仇恨，刻刻不去心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四英雄、庞德同上。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "庞德交令。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "将军借兵一事如何？"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "可恨韦康不借兵与俺，倒还罢了，他反道公子许多恶言。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "他讲些什么？"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "他言道：公子借此无名之兵，背君犯上，就为不忠。父死不葬，就为不孝。似 此不忠不孝之人，何足道哉。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "这是韦康讲的？"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "韦康吓韦康。我不杀你，誓不为人也！ 庞德听令：外面吩咐大小三军，全身披挂，明日五鼓，校场伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四战将同上，同起霸。〖点绛唇〗。"
+        },
+        {
+          "character": "战将甲",
+          "type": "同白",
+          "text": "公子出兵攻打冀州，你我在此伺候。"
+        },
+        {
+          "character": "三战将",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、八英雄、庞德、马岱、马超同上。〖点绛唇〗。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "俺，马超。可恨韦康，口出恶言，今日定要将他城池打破，灭却此人。 众将官，起兵前往！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮导板",
+          "text": "本待借兵报父冤，"
+        },
+        {
+          "character": "马超",
+          "type": "西皮快板",
+          "text": "韦康竟敢出恶言。 三军与爷往前赶，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同大转场。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "不觉来到城楼前。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "大胆韦康，你战又不战，降又不降，是何道理？ 来，一齐攻城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韦康上。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "公子不必动怒，待我与公子开城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。众人同入城，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、八英雄、庞德、马岱、马超、韦康同上。"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "韦康参见公子。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "某家与你借兵，你不借兵与我，倒还罢了，为何辱骂与俺，是何道理？"
+        },
+        {
+          "character": "韦康",
+          "type": "白",
+          "text": "本当借兵与公子，又恐曹丞相降罪。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "唗！似你这等无用之辈，要你何用。 来，推出斩了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刀斧手同献首级。"
+        },
+        {
+          "character": "庞德",
+          "type": "白",
+          "text": "启禀公子：借兵之事，全应在那杨阜的身上。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "传杨阜进帐。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "杨阜进帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨阜上。"
+        },
+        {
+          "character": "杨阜",
+          "type": "西皮摇板",
+          "text": "有勇无谋小马超， 屈杀韦康为哪条？"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "俺，杨阜。韦康无故，献了城池。不料马超，反把他杀死。他今唤我，我不免 进得帐去，假意投降。慢慢再来杀他，也还不迟。"
+        },
+        {
+          "character": "杨阜",
+          "type": "西皮摇板",
+          "text": "忽听帐内来喊叫， 杨阜心中好烦焦。 进得帐去微微笑，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞德拉杨阜，同转场。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "嗳呀！"
+        },
+        {
+          "character": "杨阜",
+          "type": "西皮摇板",
+          "text": "望乞公子把我饶。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "某，杨阜接驾来迟，望公子恕罪！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "参谋少礼。一旁请坐。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "久闻明公，足智多谋，不胜佩服。今日一见，还求指教。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "庞德怒下。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "蒙公子见爱，敢不竭诚。现在冀州还有二将，还求公子收用。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "唤他二人进帐。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "二位将军进帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁宽、赵衢同上。"
+        },
+        {
+          "character": "梁宽、赵衢",
+          "type": "同白",
+          "text": "唤我二人何事？"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "马超相唤，前去见过。"
+        },
+        {
+          "character": "梁宽、赵衢",
+          "type": "同白",
+          "text": "他乃是我之仇人，我等焉能投降。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "二位有所不知，我也是假意归降。若有机会，将他杀之，有何难哉。"
+        },
+        {
+          "character": "梁宽、赵衢",
+          "type": "同白",
+          "text": "如此待我二人进帐便了。 参见公子。我二人接驾来迟，望公子恕罪！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "二位将军少礼。 杨参谋，某欲起兵报仇，尚祈参谋指教。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "启公子：某的妻子死在临洮，尚未安葬。俺要在公子台前告假一月，望公子允 准。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "你一月之后，即速归来。 二位将军，好好看守城池。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "久闻参谋志量宽， 今日一见不虚传。 但愿葬妻早回转， 同心协力破曹瞒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四龙套、四上手、夏侯渊同上。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "俺，夏侯渊。今有韦康书信前来，叫某带兵相助。是我未奉丞相钧旨，不敢前 去。昨日丞相火牌到来，命俺前去。 众将官，催军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁宽、赵衢、杨阜同上。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "二位将军，某在马超面前告假一月，欲到历城借兵。二位将军，以为内应。"
+        },
+        {
+          "character": "梁宽、赵衢",
+          "type": "同白",
+          "text": "全仗参谋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨阜换衣，上马，下。"
+        },
+        {
+          "character": "梁宽、赵衢",
+          "type": "同白",
+          "text": "看参谋此去借兵，定可灭却马超。你我在此小心等候便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁宽、赵衢同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜母、姜妻同上。"
+        },
+        {
+          "character": "姜母",
+          "type": "念",
+          "text": "四处刀兵动，"
+        },
+        {
+          "character": "姜妻",
+          "type": "念",
+          "text": "何日得安宁？"
+        },
+        {
+          "character": "姜叙",
+          "type": "内白",
+          "text": "回操！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四上手、姜叙同上。"
+        },
+        {
+          "character": "姜叙",
+          "type": "白",
+          "text": "参见母亲！"
+        },
+        {
+          "character": "姜母",
+          "type": "白",
+          "text": "我儿一旁坐下。"
+        },
+        {
+          "character": "姜叙",
+          "type": "白",
+          "text": "谢母亲！"
+        },
+        {
+          "character": "姜母",
+          "type": "白",
+          "text": "为何回来甚早？"
+        },
+        {
+          "character": "姜叙",
+          "type": "白",
+          "text": "母亲有所不知。孩儿在校场操演，探子报到马超兵败，杀奔冀州。倘若到了冀 州，只恐表兄性命难保。"
+        },
+        {
+          "character": "姜母",
+          "type": "白",
+          "text": "你表兄足智多谋，料无妨碍。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "杨老爷到。"
+        },
+        {
+          "character": "姜叙",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨阜上。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "拜见姑母！"
+        },
+        {
+          "character": "姜母",
+          "type": "白",
+          "text": "少礼。一旁陪坐。"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "姜母",
+          "type": "白",
+          "text": "贤侄到此为何？"
+        },
+        {
+          "character": "杨阜",
+          "type": "白",
+          "text": "今有马超杀死韦康。我今前来与表弟借兵，灭却马超，与韦使君报仇。"
+        },
+        {
+          "character": "姜叙",
+          "type": "白",
+          "text": "老母年迈，我是断断不能发兵。"
+        },
+        {
+          "character": "姜母",
+          "type": "白",
+          "text": "此乃是国家大事。你若执意不肯发兵，老身就死在你的面前。"
+        },
+        {
+          "character": "姜叙",
+          "type": "白",
+          "text": "母亲不必如此。孩儿发兵就是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜母、姜妻同下。"
+        },
+        {
+          "character": "姜叙",
+          "type": "白",
+          "text": "表兄请至后堂。明日点动兵马便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "俺，马公子探子是也。今奉公子之命，打探杨阜借得姜叙人马，要与韦康报仇。 不免报与公子知道便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四英雄、庞德、马岱、马超同上。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "杨阜一去不回转， 倒叫孟起挂心间。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "公子在上，探子叩头。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "打探军情，一一道来。"
+        },
+        {
+          "character": "探子",
+          "type": "念",
+          "text": "奉了公子令，打探军情不消停。杨阜假告假，前去借雄兵。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "借得是哪一家兵将？"
+        },
+        {
+          "character": "探子",
+          "type": "念",
+          "text": "此人名姜叙，人称无敌大将军。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "他的人马，好不威严也！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "赏你银牌一面，再去打探便了。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "谢公子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "胆大杨阜。我把你当作心腹之人，谁想你反复无常。 众将官，出城迎敌去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下，同上。梁宽、赵衢同上，同送出城。"
+        },
+        {
+          "character": "梁宽、赵衢",
+          "type": "同白",
+          "text": "送公子！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超看，笑。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "好好看守城池。"
+        },
+        {
+          "character": "梁宽、赵衢",
+          "type": "同白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四英雄、庞德、马岱、马超同下。"
+        },
+        {
+          "character": "梁宽",
+          "type": "白",
+          "text": "将军你看马超出城，你我不免将他的妻儿捆在城楼。等他到来，将他妻儿杀死， 以与韦使君报仇。"
+        },
+        {
+          "character": "赵衢",
+          "type": "白",
+          "text": "好。就此前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁宽、赵衢同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、姜叙、杨阜同上。四龙套、八英雄、马岱、庞德、马超同上。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "胆大杨阜。我把你当做有智之人看待，谁想你反复无常。休走看枪！"
+        },
+        {
+          "character": "姜叙",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超、姜叙同起打。一百单八枪。姜叙、杨阜、四龙套同下。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "众将官，暂且回城去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、八英雄、马岱、庞德、马超同转场。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "呔。开城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁宽、赵衢同上城。"
+        },
+        {
+          "character": "梁宽",
+          "type": "白",
+          "text": "何人叫城？"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "马超。"
+        },
+        {
+          "character": "梁宽",
+          "type": "白",
+          "text": "我把你这贼子。韦使君献了城池，你反将他杀死。我今将你妻子，捆绑城楼， 以与韦使君报仇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马妻、马子同上城。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "嗳呀！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮导板",
+          "text": "夫妻们在城楼来叙话，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超撞下马，扑虎，僵尸。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "倒叫我马孟起咬钢牙。 在西凉人见我谁敢不怕， 何惧你螳螂辈井底之蛙。"
+        },
+        {
+          "character": "马妻",
+          "type": "西皮摇板",
+          "text": "叫声将军快救命， 少若迟延命难存。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "骂声二贼太心狠， 你害我妻室为何因？"
+        },
+        {
+          "character": "梁宽",
+          "type": "西皮摇板",
+          "text": "马超小儿休逞能， 你杀害使君为何情？ 我拔出剑来要你妻命， 人头抛在地埃尘。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮导板",
+          "text": "见人头落至在城楼下，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超摔锞子，扎手虎，倒僵尸。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "心中好似刀来剐。 将人头拴至在马鞍桥下，"
+        },
+        {
+          "character": "马超",
+          "type": "哭头",
+          "text": "我的妻吓！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "借众将全军力要把贼拿。"
+        },
+        {
+          "character": "赵衢",
+          "type": "白",
+          "text": "马超，这是你的儿子。我也把他宰了罢！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "嗳呀！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮导板",
+          "text": "一见姣儿染黄沙，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超扑虎，兜錁子，斜吊毛。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "点点珠泪落如麻。 可怜姣儿未曾长大，"
+        },
+        {
+          "character": "马超",
+          "type": "哭头",
+          "text": "我的儿吓！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "二贼吓，贼！"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "我千刀万剐定把你杀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。马超、探子对翻跟头。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "报什么？"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "那姜叙带领人马杀来了！"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "姜叙带来人和马， 孟起我怎能来怕他。 众将一同去阵下， 两下交锋怎让他！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子斜扑虎，扎虎。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "又报什么？"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "夏侯渊带领人马，也杀来了。"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "探马不住连报话， 夏侯渊也不是八臂哪咤。 忍泪含悲上战马，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马前失。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "去到阵前动杀法。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超、马岱、庞德、四龙套、八英雄同下。"
+        },
+        {
+          "character": "梁宽",
+          "type": "白",
+          "text": "夏侯将军大兵已到，你我一同出城迎接去者。"
+        },
+        {
+          "character": "赵衢",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁宽、赵衢同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜叙上。马超上。姜叙、马超同起打。姜叙下。梁宽上。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "只道你逃出天涯去， 谁知你阵前又送生。 银枪一举追尔命，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵衢上。"
+        },
+        {
+          "character": "赵衢",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马超夺枪。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "转面又见对头人。 手扯人头要尔的性命，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵衢死。"
+        },
+        {
+          "character": "马超",
+          "type": "西皮摇板",
+          "text": "食尔之肉方称心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯渊上，起打，败下。马超下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、姜叙同上。"
+        },
+        {
+          "character": "姜叙",
+          "type": "白",
+          "text": "马超杀法厉害，弓箭伺候。 （马超、马岱、庞德、四龙套、八英雄同上，同起打。马超、马岱、庞德、四龙套、八英雄同败下，姜叙、 四龙套同追下。马超、马岱、庞德、四龙套、八英雄同上。）"
+        },
+        {
+          "character": "马超",
+          "type": "白",
+          "text": "众将官，收兵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

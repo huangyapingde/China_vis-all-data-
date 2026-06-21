@@ -1,42 +1,42 @@
 {
-  "total_scripts": 441,
+  "total_scripts": 1380,
   "type_distribution": {
-    "历史戏": 250,
-    "家庭戏": 162,
-    "公案戏": 33,
-    "神话戏": 3
+    "历史戏": 948,
+    "家庭戏": 421,
+    "公案戏": 100,
+    "神话戏": 4
   },
   "type_aggregates": {
     "历史戏": {
-      "count": 247,
-      "cooc_density": 0.7104,
+      "count": 886,
+      "cooc_density": 0.7604,
       "cooc_clustering": 0,
-      "cooc_modularity": 0.0628,
-      "dial_density": 0.5379,
-      "power_density": 0.1611
+      "cooc_modularity": 0.0423,
+      "dial_density": 0.5949,
+      "power_density": 0.1742
     },
     "家庭戏": {
-      "count": 159,
-      "cooc_density": 0.7473,
+      "count": 397,
+      "cooc_density": 0.7822,
       "cooc_clustering": 0,
-      "cooc_modularity": 0.0643,
-      "dial_density": 0.5748,
-      "power_density": 0.0853
+      "cooc_modularity": 0.0448,
+      "dial_density": 0.6033,
+      "power_density": 0.106
     },
     "公案戏": {
-      "count": 32,
-      "cooc_density": 0.7944,
+      "count": 93,
+      "cooc_density": 0.8075,
       "cooc_clustering": 0,
-      "cooc_modularity": 0.0477,
-      "dial_density": 0.6336,
-      "power_density": 0.1328
+      "cooc_modularity": 0.0326,
+      "dial_density": 0.6281,
+      "power_density": 0.1261
     },
     "神话戏": {
-      "count": 3,
-      "cooc_density": 0.9,
+      "count": 4,
+      "cooc_density": 0.925,
       "cooc_clustering": 0,
-      "cooc_modularity": 0.0102,
-      "dial_density": 0.6389,
+      "cooc_modularity": 0.0076,
+      "dial_density": 0.7292,
       "power_density": 0.0
     }
   }

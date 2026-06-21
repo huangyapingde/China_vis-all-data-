@@ -1,0 +1,716 @@
+{
+  "script_id": "01022006",
+  "title": "太平桥",
+  "alias": [],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "史敬思",
+      "hangdang": "老生"
+    },
+    {
+      "name": "李克用",
+      "hangdang": "净"
+    },
+    {
+      "name": "周德威",
+      "hangdang": "末"
+    },
+    {
+      "name": "朱温",
+      "hangdang": "净"
+    },
+    {
+      "name": "王銮英",
+      "hangdang": "旦"
+    },
+    {
+      "name": "卞金遂",
+      "hangdang": "副净"
+    },
+    {
+      "name": "李存孝",
+      "hangdang": "小生"
+    },
+    {
+      "name": "军士",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "唐末，晋王李克用与梁王朱温素有嫌怨。晋王巡视河南，驻军在泥脱冈。梁王命弟朱义持书往见，甘言蜜语，\n请至汴梁城中宴会。晋王欣然允许。谋士周德威谏阻不听，只有史敬思一人跟随。梁王欢迎款待，貌为恭\n敬，席间早已埋伏甲士，而晋王茫然不知也。梁王入内更衣，其妻王銮英乘隙至晋王前泄漏其事。王銮英本\n皇室女，当初梁王为黄巢之将，残破京都，入宫搜获，据为己妻。王銮英身虽勉从，而心实不愿，故有此举。\n史敬思闻言，急速搀扶晋王带醉而逃。不意出入之路亦有甲士守住。史敬思奋勇冲开，望见城门已经紧闭，\n乃托起水闸，从水关出城。梁王得报，即斩王銮英，率领众将追赶。史敬思保护晋王至太平桥，牵马而过，\n左肋下忽被枪刺，洞见脏腑。盖梁将卞金遂暗伏桥侧，猝不及防，受此大创。史敬思扯下战袍，裹束伤口，\n仍上马力战，杀死卞金遂，并挑落大将数员。实因伤痛难忍，头晕目眩，不能再战，自刎以表其志。晋王\n独自一人，于万分危急之时，适值十三太保李存孝押解粮饷经过此间，军前统插飞虎旗。梁王一见，顷刻收\n兵。可知存孝之名，足使梁王闻而丧胆也。晋王方始免祸，回归大营。",
+  "notes": "按剧中事实即《五代残唐演义》所载“朱温火烧上源驿”一回。翻阅是书可以知其详细，无容再赘。剧本尽\n多窜改，人名、地名均不相同。查考正史，亦无此节典故，未识编排者何所据而云然。枥老述考，只得从剧\n本依样葫芦而已。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引李克用同上。"
+        },
+        {
+          "character": "李克用",
+          "type": "念",
+          "text": "到处刀兵起，共争唐社稷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周德威上。"
+        },
+        {
+          "character": "周德威",
+          "type": "念",
+          "text": "梁王设下杀人计，要请我主赴筵席。"
+        },
+        {
+          "character": "周德威",
+          "type": "白",
+          "text": "参见千岁。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "先生少礼。请坐。"
+        },
+        {
+          "character": "周德威",
+          "type": "白",
+          "text": "谢座。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "先生进帐何事？"
+        },
+        {
+          "character": "周德威",
+          "type": "白",
+          "text": "今有梁王朱温，有书到来。邀请我主前去赴宴。主公请看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "原来如此。但不知他此番是好意是歹意？"
+        },
+        {
+          "character": "周德威",
+          "type": "白",
+          "text": "哪里有什么好意，分明是杀人的战场。主公以不去为是。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "先生说哪里话来。倘若孤王不去，岂不被旁人耻笑。孤欲命太保史敬思随同保 驾，料无妨碍。 来，传史敬思进帐。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "史将军进帐。"
+        },
+        {
+          "character": "史敬思",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史敬思上。"
+        },
+        {
+          "character": "史敬思",
+          "type": "念",
+          "text": "豪杰生来威风凛，上阵能敌百万兵。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "参见父王。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "吾儿少礼。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "先生。"
+        },
+        {
+          "character": "周德威",
+          "type": "白",
+          "text": "将军少礼。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "赐坐。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "谢座。宣儿臣上殿，有何国事议论？"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "今有梁王朱温下书前来，请为父去饮宴。欲命吾儿保驾前往，不知吾儿意下如 何？"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "儿臣愿往。"
+        },
+        {
+          "character": "周德威",
+          "type": "白",
+          "text": "将军，那朱温诡计多端，必有埋伏，恐将军此去凶多吉少。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "先生此言差矣。"
+        },
+        {
+          "character": "史敬思",
+          "type": "西皮二六板",
+          "text": "先生说的哪里话， 长他人的威风灭却咱。 大战场见过千千万， 我把那朱温当作了小娃！ 上阵全凭跨下马， 虎头银枪在某的掌中拿。 明知此去有奸诈， 要学个单刀赴会走天涯。"
+        },
+        {
+          "character": "周德威",
+          "type": "西皮摇板",
+          "text": "将军休得夸大话， 朱温武艺果不差。 此去见桥休下马， 千万莫要小量他！"
+        },
+        {
+          "character": "周德威",
+          "type": "白",
+          "text": "将军执意要去，但是一件。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "哪一件？"
+        },
+        {
+          "character": "周德威",
+          "type": "白",
+          "text": "此去见桥，且莫下马。务要牢牢谨记。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "记下了。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "休得多言。带马！"
+        },
+        {
+          "character": "李克用",
+          "type": "西皮摇板",
+          "text": "人来带马前引道， 虎穴龙潭走一遭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李克用、史敬思同下。"
+        },
+        {
+          "character": "周德威",
+          "type": "西皮摇板",
+          "text": "袖内阴阳算得好， 此去只怕他命难逃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周德威下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引朱温同上。"
+        },
+        {
+          "character": "朱温",
+          "type": "念",
+          "text": "一边撒下青丝网，哪怕鱼儿不上钩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "李晋王到！"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "摆队相迎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。朱温、四龙套同下。朱温、四龙套同上，四龙套引史敬思、李克用同上。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "梁王，御弟。"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "晋王，千岁，"
+        },
+        {
+          "character": "朱温",
+          "type": "笑",
+          "text": "啊哈哈哈哈哈。"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱温、李克用、史敬思、八龙套同下。朱温、李克用、史敬思、八龙套同上。"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "晋王驾到，未曾远迎，当面恕罪。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "孤来得卤莽，望祈海涵。"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "将宴摆下！"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "来此就要叨扰。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。朱温敬酒，朱温、李克用同入座。史敬思搜。"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。军士上，执锤撞锣。"
+        },
+        {
+          "character": "史敬思",
+          "type": "西皮摇板",
+          "text": "忽听铜锣一声响， 刀枪剑戟列两旁。 回头再把话来讲， 此处定然有埋藏！"
+        },
+        {
+          "character": "李克用",
+          "type": "西皮摇板",
+          "text": "看梁王不似杀人样， 且看他怎样动刀枪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士执锤撞锣。"
+        },
+        {
+          "character": "史敬思",
+          "type": "西皮摇板",
+          "text": "又听铜锤二下响， 倒叫豪杰着了忙。 再与父王把话讲， 请出皇姑问端详。"
+        },
+        {
+          "character": "李克用",
+          "type": "西皮摇板",
+          "text": "孤家到此饮琼浆， 不见皇姑为哪桩？"
+        },
+        {
+          "character": "朱温",
+          "type": "西皮摇板",
+          "text": "人来后堂把话讲， 请出皇娘到前堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王銮英上。"
+        },
+        {
+          "character": "王銮英",
+          "type": "西皮摇板",
+          "text": "忽听帐外闹嚷嚷， 迈步向前看端详。 一见兄王心内慌， 细听妾身说端详： 朱温设下杀人场， 要害你君臣一命亡！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史敬思拉李克用同逃下。"
+        },
+        {
+          "character": "朱温",
+          "type": "西皮摇板",
+          "text": "胆大贱人敢逞强， 管叫你一命见阎王！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱温杀王銮英。"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "众将官，追！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱温、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李克用上，史敬思上。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "看四面俱是兵将，城门紧闭，你我父子怎生逃脱？"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "父王随儿臣去到水门，将木栅砍断，托起水闸，打从水门逃出便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李克用、史敬思同下。史敬思上，砍栅，托闸。李克用上。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "父王速速带马从水门逃出！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李克用穿闸，下。史敬思随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引卞金遂同上。"
+        },
+        {
+          "character": "卞金遂",
+          "type": "白",
+          "text": "俺，卞金遂！奉了梁王之命，太平桥埋伏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卞金遂、四上手同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史敬思上。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "“太平桥”……“太平桥”…… 嗳呀且住！想我临行之时，先生再三嘱咐，叫我见桥休下马，待我打马过桥！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史敬思打马上桥，退。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "嗳，看此桥高大，如何得过。待俺下马过桥…… 想先生再三嘱咐的言语不可不信。 咳，俺生来从不信这鬼八卦，还是下马过桥！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史敬思上桥。卞金遂上，刺，下。史敬思僵尸倒下。李克用上。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "吾儿醒来！"
+        },
+        {
+          "character": "史敬思",
+          "type": "西皮导板",
+          "text": "耳边厢又听得有人呼唤，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史敬思起，看。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "父王吓……"
+        },
+        {
+          "character": "史敬思",
+          "type": "西皮摇板",
+          "text": "中了奸贼巧机关。 扯开战甲将伤掩，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史敬思包胸。"
+        },
+        {
+          "character": "史敬思",
+          "type": "西皮摇板",
+          "text": "又见人马到桥前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引卞金遂同上，架枪。"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "卞金遂",
+          "type": "白",
+          "text": "老爷卞金遂！"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "太平桥行刺，可是你么？"
+        },
+        {
+          "character": "卞金遂",
+          "type": "白",
+          "text": "正是你老爷！"
+        },
+        {
+          "character": "史敬思",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卞金遂倒。"
+        },
+        {
+          "character": "史敬思",
+          "type": "西皮摇板",
+          "text": "适才道尔的武艺好， 如今看来也不高。 这也是你老爷大意了……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、朱温同上，同转场，同下。"
+        },
+        {
+          "character": "李克用",
+          "type": "西皮摇板",
+          "text": "父子快快把命逃！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、朱温同赶上。李克用下。史敬思开打，败下。四下手、朱温同下。史敬思上。"
+        },
+        {
+          "character": "史敬思",
+          "type": "西皮摇板",
+          "text": "英雄入了牢笼套！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史敬思前俯后仰，起，抱胸。"
+        },
+        {
+          "character": "史敬思",
+          "type": "西皮摇板",
+          "text": "三魂渺渺赴阴曹。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史敬思摔僵尸。李克用上，哭。四下手、朱温同追上。李克用下。四下手、朱温同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引李存孝同上。〖水底鱼〗。"
+        },
+        {
+          "character": "李存孝",
+          "type": "白",
+          "text": "俺，李存孝。奉了父王之命，解押粮草军前听用。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊声。"
+        },
+        {
+          "character": "李存孝",
+          "type": "白",
+          "text": "哪里有人马呐喊？登高一望！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李克用上，四下手、朱温同追上，同下。"
+        },
+        {
+          "character": "李存孝",
+          "type": "白",
+          "text": "前面败的乃是我父王。后面赶的乃是朱温人马。此时不救，等待何时！ 呔！朱温休得猖狂，你少爷来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李存孝下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李克用上，李存孝上。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "吾儿来了。杀呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、朱温同上。"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "李存孝",
+          "type": "白",
+          "text": "你少爷李存孝！"
+        },
+        {
+          "character": "朱温",
+          "type": "白",
+          "text": "收兵！收兵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱温、四下手同下。"
+        },
+        {
+          "character": "李存孝",
+          "type": "白",
+          "text": "儿臣救驾来迟，父王恕罪。"
+        },
+        {
+          "character": "李克用",
+          "type": "白",
+          "text": "吾儿若晚来一步，孤王性命休矣。 众将官，兵马回营！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李克用、李存孝同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

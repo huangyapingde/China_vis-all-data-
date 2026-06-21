@@ -1,0 +1,2075 @@
+{
+  "script_id": "08005002",
+  "title": "击鼓骂曹",
+  "alias": [],
+  "source": "《京剧集成》",
+  "characters": [
+    {
+      "name": "祢衡",
+      "hangdang": "老生，水纱、网子、高方巾、黑三髯、白护领、青素褶子、青侉衣、青彩裤、腰包、大带、青厚底靴、"
+    },
+    {
+      "name": "南堂鼓、鼓键子",
+      "hangdang": "未知"
+    },
+    {
+      "name": "曹操",
+      "hangdang": "净，勾水白脸，水纱、网子、相貂、黑满髯、胖袄、白护领、红蟒、玉带、红彩裤、青厚底靴"
+    },
+    {
+      "name": "张辽",
+      "hangdang": "老生，水纱、网子、银荷叶盔、黑三髯、薄胖袄、白护领、白开氅、大带、红彩裤、青厚底靴、宝剑"
+    },
+    {
+      "name": "孔融",
+      "hangdang": "老生，水纱、网子、忠纱帽、黑三髯、薄胖袄、白护领、红官衣、玉带、红彩裤、青厚底靴"
+    },
+    {
+      "name": "朝官甲",
+      "hangdang": "老生，水纱、网子、忠纱帽、黑三髯、白护领、红蟒、玉带、红彩裤、青厚底靴"
+    },
+    {
+      "name": "朝官乙",
+      "hangdang": "小生，水纱、网子、忠纱帽、白护领、白蟒、玉带、红彩裤、青厚底靴"
+    },
+    {
+      "name": "朝官丙",
+      "hangdang": "净，勾白三块瓦脸，水纱、网子、奸纱帽、黑满髯、白护领、黑蟒、玉带、红彩裤、青厚底靴"
+    },
+    {
+      "name": "朝官丁",
+      "hangdang": "丑，勾小腰子脸，水纱、网子、圆翅纱帽、八字吊搭髯、白护领、绿蟒、玉带、红彩裤、朝方靴"
+    },
+    {
+      "name": "二旗牌",
+      "hangdang": "杂，黑大板巾、黑马褂、紫素箭衣、大带、红彩裤、青厚底靴"
+    },
+    {
+      "name": "四红龙套",
+      "hangdang": "流行，红大板巾、红龙箭衣、红彩裤、青薄底靴"
+    }
+  ],
+  "plot": "曹操官居汉相，威震朝野，权倾八方，挟天子以令诸侯，网罗天下文武英贤。学者祢衡怀才不遇，在孔融门\n下作客。孔大夫不忍其才华埋没，把他推荐给曹操。祢衡进府后，与曹操相见。曹操以为祢衡跪拜，欲用手\n去搀，不料祢衡大模大样，只行常礼。曹操心中不悦，语带简慢。祢衡生性高傲，不甘示弱，反唇相讥。次\n日元旦，曹操大宴群臣，命祢衡充当鼓吏，藉以辱之。文武官员来曹府致贺，酒席筵前，祢衡赤膊立于廊下，\n以鼓声代言，激越铿锵，抒发郁愤，讥骂曹操。曹操学富五车，自然通晓音律。离席至廊下细听，强忍怒\n火，暗动杀机。但又怕落个害贤之名，于是劝说祢衡往荆州顺说刘表，以达到借刀杀人的目的。经群臣劝解，\n祢衡忍气吞声允去荆州。曹操又假施仁义，命帐下谋士到长亭相送。刘表也不肯当此恶名，让祢衡去见黄\n祖。祢衡在酒席筵前，讥讽黄祖，终于被黄祖所杀，死在鹦鹉洲。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（大幕开。正场桌、外场椅。〖大锣原场〗、〖撒锣〗、〖小锣冒子头〗。祢衡自上场门上，亮像。〖小锣"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "打上〗。祢衡缓步至九龙口，整冠，理髯，缓步至台口。〖小锣归位〗。祢衡抖袖。）"
+        },
+        {
+          "character": "祢衡",
+          "type": "引子",
+          "text": "天宽地阔，论机谋，智广才多。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣归位〗。祢衡左转身，缓步归外场椅坐。"
+        },
+        {
+          "character": "祢衡",
+          "type": "念",
+          "text": "口似悬河语似流，全凭舌上运机谋。男儿若得擎天手，自然谈笑觅封侯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣住头〗。祢衡扯袖通名式。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "卑人，姓祢名衡字正平，乃平原孝义村人氏。幼习经纶，深通战策。少游北海， 偶遇孔融。他将我荐与曹府门下。想那曹操名为汉相，实为汉贼，哪有敬贤 礼士之心。此番进得相府，须要见机而行。正是："
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡立起。"
+        },
+        {
+          "character": "祢衡",
+          "type": "念",
+          "text": "未逢真明主，有愧栋梁才。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡归台中。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快三眼",
+          "text": "生平志气运未通， 似蛟龙困在浅水中。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮原板",
+          "text": "有朝一日春雷动， 得会风云上九重。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣抽头〗。祢衡自下场门下。二幕闭。正场桌、外场椅，桌两侧各置备椅。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二幕开。〖快长锤〗。四红龙套自上场门同上，同归站门立。曹操自上场门上，一亮；至九龙口抖袖，立。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "汉室纷纷刀兵扰，"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮流水板",
+          "text": "朝夕思想计千条。 但愿狼烟一齐扫，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。曹操左转身归外场椅坐。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "四海升平乐逍遥。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。张辽自上场门上，至小边台口立。"
+        },
+        {
+          "character": "张辽",
+          "type": "西皮摇板",
+          "text": "一封书信忙修好， 见了丞相把令交。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣住头〗。张辽挖进，面向台里立。红龙套甲设大边跨椅。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "参见丞相。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "少礼，一旁坐下。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣一击〗。张辽归大边跨椅坐。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "命你修书，可曾修讫？"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "书信修讫，但不知命何人前往？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "孔融呼唤祢衡，为何不见到来。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "想必来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣抽头〗。孔融自上场门上，至小边台口立。"
+        },
+        {
+          "character": "孔融",
+          "type": "西皮摇板",
+          "text": "祢衡先生我请到， 见了丞相说根苗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孔融挖进，面向台里立。"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "参见丞相。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "红龙套乙设小边跨椅。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "一旁坐下。"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "谢坐。 张将军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孔融拱手。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "孔大夫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽立起，拱手还礼。张辽归小边坐，孔融归大边坐。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "呼唤祢衡，可曾唤到？"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "现在帐外。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "唤他进帐。"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孔融出帐立台口。"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "有请祢先生！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孔融进帐，归座。〖小锣抽头〗。祢衡自上场门上，至小边台口立。〖胡琴亮弦〗。"
+        },
+        {
+          "character": "四红龙套",
+          "type": "同白",
+          "text": "噢……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣凤点头〗。祢衡向四红龙套一望，抖袖。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮流水板",
+          "text": "相府门前杀气高， 密密层层摆枪刀。 画阁雕梁双凤绕， 亚似天子九龙朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣住头〗。祢衡挖进，归大边立。"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "祢先生，这就是丞相。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "丞相在上，卑人礼到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡施礼。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "下站何人？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "卑人姓祢名衡字正平，乃平原孝义村人氏。"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "啊丞相，这就是祢先生。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣一击〗。曹操用眼睨视，面现轻蔑神色。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "难道老夫不知他叫祢衡。进得相府，施一常礼，大模大样，站在一旁，其情可 恼！"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "唔呼呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣一击〗。祢衡小背供。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "闻听曹操轻贤慢士，今日一见，果然话不虚传。 啊——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡右手指曹操。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "孔大夫你将我荐错了哇！"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "忍耐了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣凤点头〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮流水板",
+          "text": "人言曹操多奸巧， 果然亚似秦赵高。 欺君误国非正道， 全凭势力压当朝。 站立在丹墀微微笑， 哪怕虎穴与笼牢。"
+        },
+        {
+          "character": "祢衡",
+          "type": "笑",
+          "text": "嘿嘿嘿……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣一击〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "你为何发笑？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "我笑这天宽地阔，并无一人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡摆手。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫帐下，文能安邦，武能定国，何言无人？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "道你帐下，文能安邦，武能定国，请教文有谁能，武有谁高，某愿领教。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "听道哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣二击〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "文有荀彧、荀攸、郭嘉、程昱，虽当年萧何、陈平不及也；武有许褚、张辽、 李典、乐进，虽岑彭、马武不及也。夏侯惇人称无敌将军，曹子孝盖世奇才。 老夫进兵，攻无不取，战无不胜，何言无人？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "道你帐下，俱是英雄好汉，依卑人看来，俱是些无用之辈。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "听道！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "讲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣归位〗。祢衡随走随念。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "荀彧、荀攸可使吊丧问疾。郭嘉、程昱可使看墓守坟，李典、乐进只可牧羊放 马，许褚、张辽——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡归小边立。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "嗯咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣一击〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "也只好是击鼓鸣金，曹子孝呼为“要钱太守”，夏侯惇可称“完体将军”。余 者俱是衣架、饭囊、酒桶、肉袋，碌碌之辈，何足道哉！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "你出此狂言，有何德能？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "卑人不才，幼习经纶，深通战策——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡走向大边。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "天文地理之书，无一不读，三教九流之事，无一不晓——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡走向小边。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "上可以致君为尧舜，下可以配德于孔颜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡走向大边。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "我乃天下名士，岂肯与你这奸贼同党。 啊！孔大夫，你将我荐错了哇！"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "忍耐了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣凤点头〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮流水板",
+          "text": "平生志气与天高， 不把经纶结富豪。 我本是堂堂青史表， 岂与犬马共同槽。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣散板长锤〗。张辽立起。"
+        },
+        {
+          "character": "张辽",
+          "type": "西皮散板",
+          "text": "祢衡说话真可恼， 辱骂丞相为哪条！ 三尺龙泉出了鞘，"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "来，来，来！ （祢衡右手楼髯，伸颈示意“你来杀吧”。〖胡琴亮弦〗、〖大锣散板长锤凤点头〗。孔融立起，扬手劝阻 张辽。）"
+        },
+        {
+          "character": "孔融",
+          "type": "西皮散板",
+          "text": "将军息怒将他饶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣住头〗。祢衡、孔融、张辽同归台中立。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "张将军！"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "不要污了老夫的宝剑。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将剑入鞘。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "嘿！便宜了你。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣一击〗。张辽还剑入鞘，孔融、张辽各归座。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "量你也不敢！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "祢衡，明日老夫大宴群臣，命你充当鼓吏，你可愿否？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "这个——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣一击〗。祢衡捋髯，转眸思索。"
+        },
+        {
+          "character": "孔融",
+          "type": "白",
+          "text": "应允了吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孔融以左手遮掩，右手示意。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "好，愿为鼓吏。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "好，明日来早便罢，倘若来迟，按军法从事。 张将军！"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "将他斥出帐去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽立起。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。张辽手指祢衡，斥之出去，归座。祢衡冷笑。"
+        },
+        {
+          "character": "祢衡",
+          "type": "笑",
+          "text": "嘿嘿嘿……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣夺头〗。祢衡抖袖，止步。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮二六板",
+          "text": "丞相委用恩非小， 区区鼓吏怎敢辞劳。 背转身来微微笑， 孔大夫做事也不高。 明知道曹贼多奸巧， 全凭势力——"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "压当朝。 我越思越想心头恼， 明日进府骂奸曹。 罢，罢，罢，暂且忍下了， 明日自有我的巧妙招。 （〖快长锤〗。祢衡左手撩褶子，出门，左右摆袖，抓右袖，背右手自下场门下。孔融立起，红龙套乙撤去 跨椅。）"
+        },
+        {
+          "character": "孔融",
+          "type": "西皮摇板",
+          "text": "祢衡先生性情傲， 险些项上吃一刀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。孔融出门，自下场门下。张辽立起，红龙套甲撤去跨椅。"
+        },
+        {
+          "character": "张辽",
+          "type": "西皮摇板",
+          "text": "祢衡小儿真可恼， 丞相阻拦将张辽。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。张辽出门，自下场门下。曹操立起。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "袖内机关他怎晓，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。曹操抖袖。四红龙套自两边翻下。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "杀鸡何用宰牛刀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖一锣锤〗。曹操自下场门下。二幕闭。改空场。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（二幕开。〖快纽丝〗。祢衡右手撩褶子自上场门上，归台中立。〖匝匝〗。祢衡身前翻右袖，摇首，心情"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "不悦。〖大锤纽丝凤点头〗。祢衡抖袖。）"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮散板",
+          "text": "适才与贼一席话，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣纽丝凤点头〗。祢衡抖袖，稍上步。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮散板",
+          "text": "不由我正平乱如麻。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣住头〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "念",
+          "text": "酒逢知己千杯少，话不投机半句多。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣住头〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "适才进得相府，与那曹贼深施一礼，他坐在上面昂然不动，倒还罢了，反道我 的礼貌不周。明日大宴群臣，将我用为鼓吏，明明是羞辱于我。等到明天当着 文武大臣，辱骂奸贼一番。纵然将我斩首——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "也落得个青史名标。正是呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣住头〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "念",
+          "text": "明知山有虎，偏向——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。祢衡稍退步。"
+        },
+        {
+          "character": "祢衡",
+          "type": "念",
+          "text": "虎山行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣紧锤〗。祢衡上步，抖袖。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "昔日里韩信受胯下， 英雄落魄走天涯。 到后来登台把帅挂， 扶保汉室锦邦家。 明日里席前把贼骂， 拼着一死染黄沙， 纵然将我的头割下， 落一个骂贼的名儿扬天涯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖一锤锣〗。祢衡自下场门下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖撒锣〗、〖小锣打上〗。四朝官自上场门同上，同归台中立。"
+        },
+        {
+          "character": "朝官甲",
+          "type": "念",
+          "text": "日观三千策，"
+        },
+        {
+          "character": "朝官乙",
+          "type": "念",
+          "text": "夜吟七篇诗。"
+        },
+        {
+          "character": "朝官丙",
+          "type": "念",
+          "text": "要知今古事，"
+        },
+        {
+          "character": "朝官丁",
+          "type": "念",
+          "text": "须读五车书。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣一击〗。四朝官同归八字立。"
+        },
+        {
+          "character": "朝官甲",
+          "type": "白",
+          "text": "列位大人请了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朝官甲拱手。"
+        },
+        {
+          "character": "三朝官",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三朝官同拱手。"
+        },
+        {
+          "character": "朝官甲",
+          "type": "白",
+          "text": "丞相相约我等，不知为了何事？你我一同前往。"
+        },
+        {
+          "character": "三朝官",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三朝官同拱手。"
+        },
+        {
+          "character": "朝官甲",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "四朝官",
+          "type": "同念",
+          "text": "五凤楼前朝金阙，相府门前拜元戎。 （四朝官同插门随念随走小圆场，同归小边一条鞭立。二幕闭。正场横设二桌，桌上放四酒杯、一酒壶，桌 里首设四把内场椅，小边设斜场桌、内场椅，桌上放杯、壶各一。布置完毕，二幕随即拉开。）"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "来此已是。 门上哪位将军执事？"
+        },
+        {
+          "character": "张辽",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣二击〗。张辽自下场门上，出门，至台口，偏大边立。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "是哪位？"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "原来是张将军！"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "列位大人到此何事？"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "烦劳通禀：我等求见丞相。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "候着！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽进门，立大边，向下场门。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "有请丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣五击〗。曹操自下场门上，归大边立。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "列位大人到！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "动乐相迎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽转身向台外。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "动乐相迎！ （〖吹打〗。张辽自下场门下。二旗牌自两边同上，分立两边台口。曹操立大边台口，四朝官同挖进，同归 站门立，曹操进门，归台中立。）"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "丞相在上，我等大礼参拜。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫也有一拜。 （〖吹打〗。四朝官同整冠，合龙口归横一字面向台里立，拱手施礼。曹操稍撤步偏小边侧身还礼。礼毕， 四朝官同归八字立，曹操归台中立。）"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "相邀我等，为了何事？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "今乃元旦佳节，请列公到此，畅饮几杯。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "到此就要叨扰。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "酒宴摆下！ （〖吹打〗。曹操归小边斜场桌内场椅坐。朝官乙、朝官丁同由小边，朝官甲、朝官丙同由大边归正场桌内 场椅坐。旗牌甲给四朝官斟酒，旗牌乙给曹操斟酒。）"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "列位大人请！"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "丞相请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急三枪〗、〖小锣〗。曹操、四朝官同举杯饮酒，二旗牌分斟酒。〖小锣住头〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "列位大人！"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫帐下，新收一鼓吏，命他廊下擂鼓，我等也好畅饮几杯。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "我等瞻仰。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "唤鼓吏进帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同至台口。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "鼓吏进帐啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌分归两边立。"
+        },
+        {
+          "character": "祢衡",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣导板头〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "内西皮导板",
+          "text": "谗臣当道谋——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡撩褶子自上场门上，随走随唱。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮导板",
+          "text": "汉朝， （〖一锤锣〗。祢衡双抖袖，走小圆场归台口，偏小边立。〖四击头〗、〖撕边一锣〗。祢衡翻扬右袖，向 内一望，抖右袖，面向前台立。）"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "饮！干！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四朝官同饮酒、亮盏。二旗牌分斟酒，同归大边立。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮原板",
+          "text": "楚汉相争动枪刀。 高祖爷咸阳登大宝， 一统山河乐唐尧。 到如今出了个奸曹操， 上欺天子下压群僚。 我有心替主爷把贼扫， 手中缺少杀人的刀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡右手立掌颤动比“杀”式，向里一望。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "饮！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮原板",
+          "text": "主席坐定——"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "奸曹操， 上坐文武众群僚。 元旦节与贼个不祥兆， 假装疯魔骂奸曹。 我把褴衫来脱掉，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。曹操、四朝官同举杯饮酒。祢衡自上场门下，脱掉褶子换穿富贵衣自上场门上，至小边。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "破衣褴衫摆摆摇。 大着胆儿往上跑，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖行弦〗。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "呔！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "丞相大宴群臣，破衣褴衫成何体统！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "帐下的儿郎闹吵吵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖行弦〗。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "我等好笑哇！哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣三击〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "你二人不必呵呵笑， 有辈古人听根苗： 昔日太公曾垂钓， 张良拾履在圯桥。 为人受得苦中苦， 脱去了褴衫换紫袍。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖行弦〗。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "你也配比古人！"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "你二人把话讲差了， 休把虎子当狸猫。 有朝一日时运到， 拔剑要斩海底蛟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖行弦〗。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "青天白日，在此做梦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "你道我白日梦颠倒， 时来就要上青霄。 身上破衣俱脱掉， （〖快长锤〗、〖闪锤〗。祢衡自上场门下，脱去富贵衣，换穿侉衣自上场门上，归小边台口立。二旗牌自 下场门同下，搬大堂鼓同上，置大边台口，鼓里首设椅，椅垫下放一副鼔键。二旗牌同归大边立。）"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "赤身露体逞英豪。 怒气不息往上跑，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖行弦〗。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "呔！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "丞相大宴群臣，赤身露体，丞相降罪，哪个担待！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "你丞相降罪我承着。 将身来在东廊道，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。祢衡挖进，立于鼔后椅侧。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮摇板",
+          "text": "看奸贼把我怎开销。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣住头〗。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "鼓吏唤到。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "命他擂鼓三通。"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "命你擂鼓三通。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同斟酒，自两边分下。祢衡坐鼔后椅，擂鼓三通。"
+        },
+        {
+          "character": "朝官甲",
+          "type": "白",
+          "text": "列位大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朝官甲拱手。"
+        },
+        {
+          "character": "三朝官",
+          "type": "同白",
+          "text": "大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三朝官同拱手。"
+        },
+        {
+          "character": "朝官甲",
+          "type": "白",
+          "text": "听鼓吏擂鼓，犹如金声玉振一般。我等畅饮几杯，庆贺丞相。"
+        },
+        {
+          "character": "三朝官",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖慢长锤〗。曹操、四朝官同举杯饮酒。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮原板",
+          "text": "擂鼓三通响如雷， 文武百官痛饮三杯。 张辽一旁牙咬碎， 孔融带愧转回归。 老夫近前观鼓吏， （〖夜深沉〗。曹操坐听，立起出位缓步至台中，背手侧耳倾听鼔音，越听越感到鼔音中蕴含着的情绪不对 头，凑近听，双手捋髯，稍退步，面现诧异神色。）"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。曹操向小边稍上步，微抬左手，右手抚髯，背供。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮流水板",
+          "text": "赤身露体廊下擂。 老夫暂忍那心头气， 再与祢衡论端的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣住头〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "祢衡！"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "曹操！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡上步指曹操。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "你为何叫老夫的名讳？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "你叫得我祢衡，我就叫得你曹操。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫也不计较于你。今日大宴群臣，你这样赤身露体，成何体统？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "我露父母之遗体，方显我是清洁的君子。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "你是清洁君子，哪个是浑浊的小人？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "你就是浑浊小人！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫乃当朝首相，何言浑浊二字？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "听道！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "讲！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣二击〗。旗牌乙自上场门暗上，将斜场桌的内场椅改为桌前的外场椅，自上场门下。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "你不识贤愚眼浊也，不纳忠言耳浊也，不读诗书口浊也，常怀篡逆乃是你的心 浊也。我乃天下名士，将我用为鼓吏，犹如臧仓毁孟子，阳货轻仲尼。曹操哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "曹操！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣五击〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "真乃匹夫——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "之辈也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。祢衡右手持鼔键指曹操。曹操气极，扭项坐斜场桌前的外场椅。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "开言怒发三千丈， 大骂曹贼气如刚。 昔日文王访姜尚， 渭水河边遇栋梁， 臣坐辇，君曳缰， 为国求贤礼应当。 我本堂堂真名士， 岂如无知小儿郎。 枉在朝中为首相， 狗奸贼不知臭和香。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣散板长锤凤点头〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮散板",
+          "text": "老夫兴兵谁敢挡， 赫赫威名天下扬。 论机谋胜似姜吕望， 你是无知的小儿郎。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快纽丝〗。祢衡上步归鼔侧立。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮散板",
+          "text": "曹贼把话错来讲， 祢衡言来讲端详： 鼓打一通天地响， 鼓打二通国安康， 鼓打三通扫奸党， 鼓打四通振朝纲， 鼓发一阵连声响，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖撕边一锣〗。祢衡击鼓。〖快纽丝〗。祢衡上步，二旗牌自下场门同暗上，撤去堂鼓和椅子，同暗下。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮散板",
+          "text": "管叫你这狗奸贼死无下场。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "列位大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快纽丝〗。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同西皮散板",
+          "text": "下得位来把话讲， （四朝官同随唱随由桌两侧出位，归台中的直场由外向里按朝官丙、朝官甲、朝官乙、朝官丁一字顺序面向 小边站立。二幕闭，改设正场桌、外场倚后，随即拉开。）"
+        },
+        {
+          "character": "四朝官",
+          "type": "同西皮散板",
+          "text": "丞相为何怒一旁？"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "啊！丞相为何怒坐一旁？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "与鼓吏交谈几句，故而怒坐一旁。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "待我等向前。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "有劳了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四朝官同转面向大边。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "啊，这一鼓吏，家住哪里，姓字名谁，慢慢讲来。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "列公啊！ （〖大锣夺头〗。曹操归正场桌的外场椅坐。朝官乙、朝官丁同归小边，朝官甲、朝官丙同归大边，八字立。 祢衡挖归台中立。旗牌乙暗上，撤去小边跨椅，暗下。）"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮二六板",
+          "text": "未曾开言我的心头恨， 尊一声列公大人听详情。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同夹白",
+          "text": "家住哪里？"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮二六板",
+          "text": "家住在平原孝义村，"
+        },
+        {
+          "character": "四朝官",
+          "type": "同夹白",
+          "text": "姓字名谁？"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮二六板",
+          "text": "姓祢名衡字表正平。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同夹白",
+          "text": "原来是祢先生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四朝官侧身相互对视，微抬右手，点头会意。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮二六板",
+          "text": "我胸中颇有安邦论， 曾与孔融当过了幕宾。 他将我荐与曹奸佞， 贼有眼不识宝和珍。 宁做忠良门下客， 不愿做奸贼帐上的人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖行弦〗。祢衡稍向大边上步。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "你乃舌辩之徒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "贼道我舌辩徒， 舌辩之徒有张苏。 苏秦六国为卿首， 全凭舌尖压诸侯。 有朝大展昆仑手， 要把奸贼一笔勾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖行弦〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "井底之蛙，能起多大风浪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "贼道我井底蛙， 井底之蛙也不差。 有朝一日风云驾， 要把奸贼一把抓。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "列位大人！"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "祢衡道老夫奸，老夫奸在何处？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四朝官同面向祢衡。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "丞相奸在何处？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣散板长锤凤点头〗。张辽自上场门暗上，立曹操座侧。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮散板",
+          "text": "狗奸贼出此言故意问道， 尊一声列公侯细听根苗： 他自幼儿举孝廉官卑职小， 他本是夏侯子过继姓曹。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "言重了。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮散板",
+          "text": "到如今做高官忘了宗祧， 全不怕骂名儿在万古留标。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡归小边立。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣纽丝凤点头〗。张辽上步。"
+        },
+        {
+          "character": "张辽",
+          "type": "西皮散板",
+          "text": "祢衡小儿真可恼， 三番两次骂当朝。 三尺龙泉出了鞘！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽拔剑半出鞘，欲杀祢衡。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "来，来，来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "祢衡侧身引颈让张辽来杀。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "且慢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣纽丝凤点头〗。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同西皮散板",
+          "text": "将军息怒把他饶。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "张将军！"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "宝剑入鞘。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "哼！便宜了你！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽稍退步，还剑入鞘。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "列位请过来！"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "做什么？"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "啊，列位！待我来表表他的历史。他叫张辽，乃是吕布帐下的一名偏将。只因 白门楼吕布事败，他又归顺了曹操。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "似你这样忘恩负义，贪生怕死，可称三姓家奴，狐假虎威，狗仗人势，真真是 无耻的东西。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小锣一击〗。张辽上步拔剑半出鞘，欲杀祢衡。曹操面向张辽。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "请至后帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽无奈，还剑入鞘，自下场门下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "祢衡，老夫有书信一封，命你去至荆州，顺说刘表来降，保你官职不小。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "听了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快纽丝〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮散板",
+          "text": "要往荆州不能够， 岂与奸贼做马牛。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "丞相！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣纽丝凤点头〗。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同西皮散板",
+          "text": "丞相暂息雷霆吼， 劝说祢衡去荆州。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣住头〗。"
+        },
+        {
+          "character": "朝官甲",
+          "type": "白",
+          "text": "啊祢先生，我家丞相有书信一封，命你去往荆州，顺说刘表来降，你若不去， 将你斩首，家中妻儿老小，依靠何人。你要再思啊再想！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣一击〗。"
+        },
+        {
+          "character": "祢衡",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣夺头〗。祢衡归台中，四朝官回归原位八字立。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮二六板",
+          "text": "列公大人齐来劝我， 酒醒方知梦南柯。 自古道责人先责己的过， 手摸胸膛我自揣摩。 罢，罢，罢！暂息我的心头火，"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "更衣去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖慢长锤〗。祢衡出门，稍向小边台口走，返回欲与曹操争辩，四朝官同上步相拦，祢衡自上场门下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "列位大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操立起。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "那祢衡道老夫奸，老夫奸在何处？"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "丞相是大大的忠臣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四朝官各伸赞指。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "着哇，老夫乃是大大的忠臣。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "忠臣。"
+        },
+        {
+          "character": "曹操",
+          "type": "笑",
+          "text": "哼哼，哼哼，啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。曹操归座，从桌搭下取书信放在袖内，祢衡自上场门上，归小边台口立。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮快板",
+          "text": "事到头来无奈何。 你把书信交与我， 顺说刘表作定夺。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "千错万错先生错， 话不投机半句多。 顺说刘表归顺我，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操将书信交与祢衡。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "保你高官在朝歌。"
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮摇板",
+          "text": "丞相宽宏请台座， 披星戴月奔江河。 顺说刘表若不妥，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖快长锤〗。祢衡出门，归大边台口立。四朝官同出门，同归偏小边台口一字立。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "长亭再会！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖闪锤〗。四朝官与祢衡相互拱手."
+        },
+        {
+          "character": "祢衡",
+          "type": "西皮摇板",
+          "text": "我愿死在他乡做鬼魔！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大锣五锤〗。祢衡自下场门下。四朝官同进门，同向台里横一字立。"
+        },
+        {
+          "character": "四朝官",
+          "type": "同白",
+          "text": "我等告退！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四朝官同躬身施礼。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "奉送！ （〖尾声〗。四朝官同出门归大边台口一字立，曹操归台口偏小边立，相互拱手送别。四朝官自下场门同下。 〖一锤锣打下〗。曹操自下场门下。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "script_id": "04010001",
+  "title": "彩楼配",
+  "alias": [],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "王宝钏",
+      "hangdang": "旦"
+    },
+    {
+      "name": "薛平贵",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "王宝钏是丞相王允的第三个女儿，她爱上了花郎薛平贵。当她奉旨在二月二日“抛球选婿”的时候，故意将\n彩球抛给了薛平贵。",
+  "notes": "《彩楼配》是根据王瑶卿先生的演出本，由北京戏曲实验学校程玉菁、章小山、于玉蘅与本院（中国戏曲研\n究院）编辑处田淞、吕瑞明共同整理的。\n修改要点：就《彩楼配》中，王宝钏夜梦红星，见薛平贵有富贵之相；由于月老的撮合，二人才得到结合。\n这些带有迷信宿命论色彩的情节，在整理中已加以修改。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（薛平贵上。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮摇板",
+          "text": "何日得遂凌云志， 豪杰空怀报国心。 俺，薛平贵，长安人氏。只因父母双亡，流落外乡。是我闻得苏元帅招募兵将， 因此沿途乞讨，回到此地，意欲去往大营投军。怎奈天气寒冷，腹中饥饿得 紧，眼看支持不住。唉！天哪，天！真真困煞人也！"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮摇板",
+          "text": "贫困交加实难忍， 只为饥寒逼煞人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王宝钏上。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "引子",
+          "text": "孝子是王祥，烈女是孟姜。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "念",
+          "text": "深闺独处整红妆，承欢膝下慰高堂。五色绒线彩球绣，二月二日选佳郎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟暗上。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "我，王宝钏。爹爹王允，官居当朝首相；母亲陈氏，生我姐妹三人：大姐金钏 许配苏龙，二姐银钏许配魏虎，只我尚未婚配。只因那年母亲染病，我在床前 侍奉汤药，直到三载，母亲病体痊愈。正宫娘娘见喜，赐我五色绒线，绣成彩 球，定于二月二日高搭彩楼，抛球招赘。但愿得配如意郎君，方为终身之幸。 今当正月，大雪初晴，园中梅花盛开，正好前去观赏。 丫鬟，引路花园。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮慢板",
+          "text": "银光耀目雪初晴， 新春天气也宜人。 几处楼台如画境， 无边玉宇净无尘。 叫丫鬟带路花园进， 满树梅花吐芳芬。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "三姑娘，您瞧今年的梅花开得多好哇。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "果然开得茂盛。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我去给您掐一枝去。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "我在亭中等你。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵上。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮摇板",
+          "text": "腹中饥饿身寒冷， 头晕目眩难支持。 霎时只觉站立不稳……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵倒地。丫鬟折梅送给王宝钏。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "啊丫鬟，闲坐在此，想个主意玩耍？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我拿棋盘去，跟您下棋吧。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "不好。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "咱们打秋千玩儿吧。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "也不好。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "要不然……咱们上花园外边看看雪景去好不好？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王宝钏愿意，迟疑。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "相爷可在府中？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "老爷上朝去了。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "如此开了花园门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟开门。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哟，这是谁倒卧在雪地上啦？ 小姐，外面有个人倒卧。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "待我前去看来。 哎呀且住！看此人面目清秀，仪表非凡，因何落魄至此？ 丫鬟，快将此人唤醒。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "花郎醒来，花郎醒来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵醒来惊起。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "原来是位大姐。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "这是相府的花园门口，你怎么倒卧在这儿了呢？"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "是我行至此处，忽觉头晕目眩，径自倒卧在此。有劳大姐将我唤醒，当面谢过。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "你别谢我；快谢谢我们小姐去吧。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "多谢小姐！"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "罢了。 丫鬟，将这花郎带进花园，我要周济于他。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "我们小姐要周济你哪，跟我进来吧。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "这……噢。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "啊，那一花郎，你姓甚名谁，家住哪里，因何落到这般光景？"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "难人薛平贵，乃长安人氏。自幼曾读诗书，略通武艺。只因父母双亡，一贫如 洗，意欲投军报效，也好有个出头之日，不想饥寒交迫，倒卧在此。唉！真真 愧煞人也。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮流水板",
+          "text": "难人祖居长安境， 自幼曾学武和文。 父母下世家计紧， 流落他乡受苦情。 男儿报国当发奋， 因此立志去从军。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮流水板",
+          "text": "听他言来自思忖， 他分明是个有志的人。 抛球选婿事不稳， 不如与他订婚姻。 彩楼之事对他论……"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮摇板",
+          "text": "又恐丫鬟一旁听。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "那一花郎，你可曾用饭？"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "这个……咳！"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "丫鬟，看他甚是可怜，你去取些银米前来。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟下。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "方才听你之言，父母双亡，你可有……"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "有什么？"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "可有妻室否？"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "想我一贫如洗，怎能娶妻呀？"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "我有一言不好启齿。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "小姐有话但讲何妨？"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "咳，我对你实说了吧：我家为我终身之事，二月二日在十字街前高搭彩楼，抛 球招赘。不知你……可愿去否？"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "蒙小姐如此见爱，真乃出于望外。只是我乃落魄之人，小姐你是千金之体，如 何使得？"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "我既以终身相托，你、你就不必迟疑了。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "相府招赘，接彩之人必然是王孙公子，只恐平贵无份哪。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "不妨，到了那日，你早些前去，站在彩楼之前，我自有道理。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "必当紧记。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮流水板",
+          "text": "二月二日事有准， 我的言语要记明。 莫道因缘无有份， 万事只怕有心人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟上。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "三姑娘，银米在此。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "付与花郎，叫他去吧。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "给你，你去吧。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "多谢小姐！"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮摇板",
+          "text": "辞别小姐出园门，"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "唤他转来！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "花郎回来，小姐叫你哪。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮摇板",
+          "text": "小姐有话请说明。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮摇板",
+          "text": "二月二日勿失信， 莫做薄情无义人。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "西皮摇板",
+          "text": "小姐不必细叮咛， 平贵岂是无义人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵下。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "回房去吧。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮摇板",
+          "text": "心中暗把天祝定， 早与平贵配良姻。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟、王宝钏同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四接彩人甲同上。"
+        },
+        {
+          "character": "接彩人甲",
+          "type": "念",
+          "text": "春游芳草地，"
+        },
+        {
+          "character": "接彩人乙",
+          "type": "念",
+          "text": "夏赏绿荷池。"
+        },
+        {
+          "character": "接彩人丙",
+          "type": "念",
+          "text": "秋饮菊花酒，"
+        },
+        {
+          "character": "接彩人丁",
+          "type": "念",
+          "text": "冬吟白雪诗。"
+        },
+        {
+          "character": "接彩人甲",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "接彩人甲",
+          "type": "白",
+          "text": "今当二月二日，王相府彩楼招婿，你我一同前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场，薛平贵随上，门官迎上。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "你们可是接彩的？"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "正是接彩的。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "请进。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "接彩人甲、接彩人乙、接彩人丙同进门下。门官将接彩人丁、薛平贵拦住。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "干什么的？"
+        },
+        {
+          "character": "接彩人丁、薛平贵",
+          "type": "同白",
+          "text": "接彩的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门官向薛平贵。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "花郎也配接彩？不能进去。"
+        },
+        {
+          "character": "接彩人丁",
+          "type": "白",
+          "text": "对了。你不能进去，我进去。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "你年纪太大了，接不得彩了。"
+        },
+        {
+          "character": "接彩人丁",
+          "type": "白",
+          "text": "你这个人可真是少见多怪。昔日姜太公八十而娶，我比他还小得多哪。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "那也不准你进去。"
+        },
+        {
+          "character": "接彩人丁",
+          "type": "白",
+          "text": "真不让我进去？我这个人可有个怪脾气，要是不让我进去，我非进去不可！"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "要是让你进去呢？"
+        },
+        {
+          "character": "接彩人丁",
+          "type": "白",
+          "text": "那我倒不进去啦。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "我来试验试验。我不让你进去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵乘机进门下。"
+        },
+        {
+          "character": "接彩人丁",
+          "type": "白",
+          "text": "我偏要进去！"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "我让你进去了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "接彩人丁进门。"
+        },
+        {
+          "character": "接彩人丁",
+          "type": "白",
+          "text": "谢谢您啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "接彩人丁下。"
+        },
+        {
+          "character": "门官",
+          "type": "白",
+          "text": "叫他蒙进去了。 远远望见三姑娘来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门官下。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "内西皮导板",
+          "text": "梳妆打扮出绣房，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟执彩球引王宝钏同上。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮慢板",
+          "text": "在堂前辞别了二老爹娘。 但愿能遂心内想， 彩球打中平贵郎。 叫丫鬟带路彩楼上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟、王宝钏同上楼。四接彩人、薛平贵同上。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮慢板",
+          "text": "手扶着栏杆"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮二六板",
+          "text": "看端详。 也有王孙公子样， 也有那士农工商站立在两旁。 老少人儿纷纷嚷， 倒叫我含羞带愧心内慌。 低下头来用目望……"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "不要回去！"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮快板",
+          "text": "回府怎见二爹娘？ 左难右难无计想， 蓦地里见他在楼旁。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "看彩球！"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮摇板",
+          "text": "假意东抛反西向，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王宝钏举起彩球向远处虚抛，悄悄抛与薛平贵。"
+        },
+        {
+          "character": "四接彩人",
+          "type": "同白",
+          "text": "在这儿哪！在这儿哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵举球。"
+        },
+        {
+          "character": "薛平贵",
+          "type": "白",
+          "text": "在这里呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛平贵下。"
+        },
+        {
+          "character": "四接彩人",
+          "type": "同白",
+          "text": "咳！"
+        },
+        {
+          "character": "四接彩人",
+          "type": "同西皮摇板",
+          "text": "彩球打中彩花郎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四接彩人同下。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮快板",
+          "text": "耳边厢听得人喧嚷： 彩球打中讨饭郎。 想必就是薛平贵， 不由宝钏意彷徨。 丫鬟带路回府往，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王宝钏下楼。丫鬟下。"
+        },
+        {
+          "character": "王宝钏",
+          "type": "西皮散板",
+          "text": "回府去禀告二老爹娘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王宝钏下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

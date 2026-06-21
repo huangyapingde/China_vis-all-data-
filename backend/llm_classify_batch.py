@@ -208,7 +208,7 @@ def main():
 
     matrix_data = compute_role_hangdang_matrix(char_data)
     scripts = []
-    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "*.json"))):
+    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "**/*.json"), recursive=True)):
         with open(fpath, "r", encoding="utf-8") as f:
             scripts.append(json.load(f))
     era_data = compute_era_analysis(char_data, scripts)

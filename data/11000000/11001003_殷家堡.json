@@ -1,0 +1,2925 @@
+{
+  "script_id": "11001003",
+  "title": "殷家堡",
+  "alias": [
+    "拿殷洪"
+  ],
+  "source": "《传统戏曲剧目资料汇编》",
+  "characters": [
+    {
+      "name": "黄天霸",
+      "hangdang": "武生"
+    },
+    {
+      "name": "殷洪",
+      "hangdang": "净"
+    },
+    {
+      "name": "宣贞",
+      "hangdang": "武生"
+    },
+    {
+      "name": "宣静",
+      "hangdang": "净"
+    },
+    {
+      "name": "褚莲香",
+      "hangdang": "武旦"
+    },
+    {
+      "name": "郝素玉",
+      "hangdang": "彩旦"
+    },
+    {
+      "name": "朱光祖",
+      "hangdang": "武丑"
+    },
+    {
+      "name": "于亮",
+      "hangdang": "净"
+    },
+    {
+      "name": "施世纶",
+      "hangdang": "老生"
+    },
+    {
+      "name": "何路通",
+      "hangdang": "净"
+    },
+    {
+      "name": "关泰",
+      "hangdang": "净"
+    },
+    {
+      "name": "金大力",
+      "hangdang": "净"
+    },
+    {
+      "name": "计全",
+      "hangdang": "武生"
+    },
+    {
+      "name": "褚彪",
+      "hangdang": "老生"
+    },
+    {
+      "name": "王殿臣",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "施世纶率黄天霸等人在东昌府擒住郝世洪后，押往淮安正法。殷家堡寨主殷洪与郝世洪有亲，约绿林中人相\n助，准备杀官劫囚。李堃往见施世纶告密。施世纶乃由王殿臣保护乔装潜行，不料途中误搭于亮之船，被押\n往骆马湖。黄天霸大人得李堃之暗助，终于擒住殷洪。",
+  "notes": "取材于小说《施公案》第三十一至四十回。\n此本为中国戏曲学院收藏的萧长华先生抄本。原本中有些不通的词句和错别字都做了必要的改动，由钮隽、\n钮骠校订。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四庄丁、殷洪同上。"
+        },
+        {
+          "character": "殷洪",
+          "type": "点绛唇",
+          "text": "英雄胆壮，武艺高强，习拳棒，盖世无双，英雄俺为上。"
+        },
+        {
+          "character": "殷洪",
+          "type": "念",
+          "text": "须似银条血气刚，赫赫英名天下扬。父子霸占殷家堡，坐地分赃安乐康。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "老夫，托塔天王殷洪，自幼爱习拳棍。绿林之中，分下五杆令旗，黄红青蓝白 五人掌管，俺为西路青旗之尊，霸占一方。这且不言，前者镇山东郎如豹，有 书信前来，请我父子前去拔刀相助。不想天霸夜探里海坞，郎如豹正法，众家 英雄被擒。是我父子逃回殷家堡，闻听施世纶，去往东昌府捉拿郝世洪的全家， 是老夫放心不下，曾命四个孩儿前去探听消息，这般时候还未见到来。 庄丁们！"
+        },
+        {
+          "character": "四庄丁",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "伺候了。"
+        },
+        {
+          "character": "殷德龙、殷德虎、殷德彪、殷德豹",
+          "type": "内同白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德龙、殷德虎、殷德彪、殷德豹同上。"
+        },
+        {
+          "character": "殷德龙、殷德虎、殷德彪、殷德豹",
+          "type": "同白",
+          "text": "参见爹爹。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "郝寨主之事怎么样了？"
+        },
+        {
+          "character": "殷德龙、殷德虎、殷德彪、殷德豹",
+          "type": "同白",
+          "text": "郝寨主被擒，打入囚车，解往淮安正法。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急三枪〗。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "且住，俺不免修下书信，约请各路英雄，中途劫夺囚车，再与天霸见一上下。 众孩儿，看文房四宝，溶墨伺候。"
+        },
+        {
+          "character": "殷洪",
+          "type": "西皮导板",
+          "text": "俺只为不平事义气为本，"
+        },
+        {
+          "character": "殷洪",
+          "type": "西皮散板",
+          "text": "恨天霸小奴才仗势欺人。 替官府压绿林心毒手狠， 全忘了他也是绿林出身。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "殷德龙。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "殷洪",
+          "type": "西皮散板",
+          "text": "今命你下书信把褚彪去请， 请来了他父女细说详情。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德龙下。"
+        },
+        {
+          "character": "殷洪",
+          "type": "西皮散板",
+          "text": "二封书信忙修定，"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "殷德虎。"
+        },
+        {
+          "character": "殷德虎",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "殷洪",
+          "type": "西皮散板",
+          "text": "北极观内下书文。 前去约请蔡天化， 请他师徒到来临。"
+        },
+        {
+          "character": "殷德虎",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德虎下。"
+        },
+        {
+          "character": "殷洪",
+          "type": "西皮散板",
+          "text": "德彪我儿听父命， 去请李五莫稍停。 他那里若是将你问， 你就说无事闲谈心。"
+        },
+        {
+          "character": "殷德彪",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德彪下。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "殷德豹。"
+        },
+        {
+          "character": "殷德豹",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "探听赃官在何处下马，速报我知。"
+        },
+        {
+          "character": "殷德豹",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德豹下。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "此乃妙计也！"
+        },
+        {
+          "character": "殷洪",
+          "type": "西皮散板",
+          "text": "各路英雄俱约请， 准备刺杀施世纶。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷洪、四庄丁同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚彪上。"
+        },
+        {
+          "character": "褚彪",
+          "type": "引子",
+          "text": "身在绿林，论谋略，远近知名。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院暗上。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "老汉，褚彪。在这褚官堡居住。膝下无嗣，只有一女名唤莲香，尚未婚配。纵 有家业，无人照管；但愿我女终身有靠，才能了去老汉一桩心事。 家院。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "伺候了。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "内白",
+          "text": "走哇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德龙上。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "殷家堡少寨主求见。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "候着。 启家爷：殷家堡少寨主求见。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有请少寨主。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "参见伯父。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "告坐。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "少寨主，你父可好？"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "问候伯父金安。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "到此何事？"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "我爹爹有书信一封，伯父请看。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "待我看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚彪看信。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "少寨主先请，老汉随后就到。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德龙下。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "家院，有请你姑娘出堂。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有请姑娘出堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚莲香上。"
+        },
+        {
+          "character": "褚莲香",
+          "type": "引子",
+          "text": "绣房习针黹，文武艺双全。"
+        },
+        {
+          "character": "褚莲香",
+          "type": "白",
+          "text": "参见爹爹。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "褚莲香",
+          "type": "白",
+          "text": "孩儿告坐。唤女儿出来有何训教？"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "殷家有信到来，请你我父女，前去拔刀相助。我儿带了器械，随为父一同前往。"
+        },
+        {
+          "character": "褚莲香",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚莲香下。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "家院！你员外此去，多者半月，少者十天就回。带马。"
+        },
+        {
+          "character": "褚彪",
+          "type": "西皮散板",
+          "text": "身在绿林江湖上， 赫赫威名天下扬。 书信相约我前往， 殷家堡内共商量。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚彪下。家院暗下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "宣贞、宣静",
+          "type": "内同白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣贞、宣静同上。"
+        },
+        {
+          "character": "宣贞、宣静",
+          "type": "同唱",
+          "text": "适才奉了师父命， 殷家堡内走一程。"
+        },
+        {
+          "character": "宣贞",
+          "type": "白",
+          "text": "俺宣贞。"
+        },
+        {
+          "character": "宣静",
+          "type": "白",
+          "text": "俺宣静"
+        },
+        {
+          "character": "宣贞",
+          "type": "白",
+          "text": "师弟请了。"
+        },
+        {
+          "character": "宣静",
+          "type": "白",
+          "text": "师兄请了。"
+        },
+        {
+          "character": "宣贞",
+          "type": "白",
+          "text": "你我奉了师父之命，去往殷家堡，拔刀相助。看，天色尚早，就此趱行者！"
+        },
+        {
+          "character": "宣贞",
+          "type": "唱",
+          "text": "扬鞭打马朝前进， 见了伯父说分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣贞、宣静同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": "李堃",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李堃上。"
+        },
+        {
+          "character": "李堃",
+          "type": "唱",
+          "text": "自幼保镖威名广， 结交绿林众豪强。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "俺，神弹子李堃。自幼保镖为生；一路而来，闻得施大人在东昌府斩了镇山东 郎如豹，又拿了郝世洪的全家，将郝世洪解往淮安府正法。前面已是殷家堡， 想那殷洪老儿与郝世洪乃是一门内亲。恐他约请天下英雄与郝世洪报仇。不免 与施大人问安，探望众家英雄便了！"
+        },
+        {
+          "character": "李堃",
+          "type": "西皮散板",
+          "text": "常言国正天心顺， 该是忠良施大人。 扬鞭打马朝前进，"
+        },
+        {
+          "character": "殷德虎",
+          "type": "内白",
+          "text": "叔父慢走！"
+        },
+        {
+          "character": "李堃",
+          "type": "西皮散板",
+          "text": "又见侄儿到来临。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德虎上。"
+        },
+        {
+          "character": "殷德虎",
+          "type": "白",
+          "text": "参见叔父。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "罢了，贤侄从何处而来？"
+        },
+        {
+          "character": "殷德虎",
+          "type": "白",
+          "text": "我爹爹有书信一封，叔父请看。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "待俺看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李堃看信。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "“奉请李五爷阁下到殷家堡共图大事。” 但不知你父约请于俺，为了何事？"
+        },
+        {
+          "character": "殷德虎",
+          "type": "白",
+          "text": "去到殷家堡，便知明白？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "如此请哪！"
+        },
+        {
+          "character": "李堃",
+          "type": "西皮散板",
+          "text": "正为此事心不定， 且做将计就计人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德虎、李堃同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四庄丁、殷洪同上。"
+        },
+        {
+          "character": "殷洪",
+          "type": "唱",
+          "text": "英雄聚会是圈套， 要与天霸见低高。 但愿各路好汉到， 杀却仇人恨方消。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德龙上。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "褚老英雄到。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚彪、褚莲香同上。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "老英雄。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "老寨主。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "这是何人？"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "小女莲香。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "哦！几载未见，倒也长成人了。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "儿呀，见过殷伯父。"
+        },
+        {
+          "character": "褚莲香",
+          "type": "白",
+          "text": "参见殷伯父。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "罢了。千金到此，后面歇息。"
+        },
+        {
+          "character": "褚莲香",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚莲香下。殷德虎、殷德彪、殷德豹同上。"
+        },
+        {
+          "character": "殷德虎、殷德彪、殷德豹",
+          "type": "同白",
+          "text": "众位英雄到。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李堃、宣贞、宣静同上。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "李五弟。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "老英雄。"
+        },
+        {
+          "character": "殷洪、李堃",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "二位师父。"
+        },
+        {
+          "character": "宣贞、宣静",
+          "type": "同白",
+          "text": "老寨主。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "二位师父，令师因何不来？"
+        },
+        {
+          "character": "宣贞、宣静",
+          "type": "同白",
+          "text": "俺师父，偶得眼目之症，不能前来，命我二人拔刀相助。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "有劳二位。众位英雄请坐。"
+        },
+        {
+          "character": "褚彪、李堃、宣贞、宣静",
+          "type": "同白",
+          "text": "有坐。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "不知众位驾到，未曾远迎，当面恕罪。"
+        },
+        {
+          "character": "褚彪、李堃、宣贞、宣静",
+          "type": "同白",
+          "text": "岂敢。我等来得鲁莽，寨主海涵。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "褚彪、李堃、宣贞、宣静",
+          "type": "同白",
+          "text": "相约我等为了何事？"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "某家有一事不明，要在列位驾前领教。"
+        },
+        {
+          "character": "褚彪、李堃、宣贞、宣静",
+          "type": "同白",
+          "text": "有何金言请讲，何言“领教”二字。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "想这绿林之中，以何为先？"
+        },
+        {
+          "character": "褚彪、李堃、宣贞、宣静",
+          "type": "同白",
+          "text": "自然是义气为先。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "好哇！既然是义气为先，想那天霸归顺了赃官，每每伤害绿林的英雄，他的义 在何处？"
+        },
+        {
+          "character": "褚彪、李堃、宣贞、宣静",
+          "type": "同白",
+          "text": "哦，原来为了天霸之事。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "众位英雄！今有赃官施世纶，去往东昌府捉拿镇山东郎如豹，又将俺亲翁郝世 洪拿去。故而约请列位到来中途劫夺囚车，再与天霸见一上下；灭了赃官，杀 了天霸，以消绿林的仇恨。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "啊，寨主！那赃官手下有许多的英雄，内有一人姓关名泰，字小西，练就一把 折铁钢刀，绿林无双。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "啊，李五弟，小女莲香也练就一把折铁钢刀，难道胜不过那关泰？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "令嫒的宝刀，倒也不差。"
+        },
+        {
+          "character": "宣贞、宣静",
+          "type": "同白",
+          "text": "寨主但放宽心，有我二人在此，要杀天霸如同反掌。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "有劳二位。后面备得有酒，与众位英雄同饮。"
+        },
+        {
+          "character": "褚彪、李堃、宣贞、宣静",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚彪、宣贞、宣静、殷洪、殷德龙、殷德虎、殷德彪、殷德豹同下。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "啊！我道那殷洪约请于我为了何事。原来要刺杀施大人。想施大人为官清正， 眼见要遭毒手，这、这、这……哦呵，有了！俺不免与大人送上一信，众家英 雄也好做一准备。正是："
+        },
+        {
+          "character": "李堃",
+          "type": "念",
+          "text": "爱惜忠良结侠义，一心要做献计人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李堃下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": "郝素玉",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝素玉上，趟马。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "西皮散板",
+          "text": "可叹一家遭凶报， 幸喜逃脱走荒郊。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "奴家，郝素玉。爹爹郝世洪，在东昌府居住。不幸全家被害。是我一人逃脱。 想我一个女流之辈，该到哪里安身？哦呵！有啦！看前面已是殷家堡，不免到 殷叔父那里安身便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊声。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "那旁有人马呐喊，待我下马登高一望。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四官兵押郝世洪同上，过场，同下。王殿臣、金大力、何路通、郭起凤、计全、朱光祖同上，过场，同下。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "且住！看我爹爹被官兵拿获，打入囚车，这便怎么好？哦呵！有啦！我不免今 晚行刺赃官，然后再劫夺囚车便了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝素玉下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂、黄天霸、关泰、施安、书吏、施世纶同上。李堃暗上。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "前面为何不行？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "李堃求见。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "李堃求见。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "人役列开。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "草民李堃与大人叩头。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "李壮士拦住本院的轿头，有何话讲？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "草民有机密大事回禀。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "副将！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "前面什么所在？"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "交河界，传河驿。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "就在此处落宿。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "是。 人役们，交河界落宿。"
+        },
+        {
+          "character": "四红文堂",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": "驿丞官",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "驿丞官上。"
+        },
+        {
+          "character": "驿丞官",
+          "type": "念",
+          "text": "大官也是官，小官也是官。见官就请安，你瞧我冤不冤？"
+        },
+        {
+          "character": "驿丞官",
+          "type": "白",
+          "text": "我乃传河驿的驿丞官便是。今有施大人在此下马，就此伺候。 （四官兵、四红文堂、王殿臣、金大力、何路通、郭起凤、计全、朱光祖、黄天霸、关泰、施安、书吏引施 世纶同上，同挖门。）"
+        },
+        {
+          "character": "驿丞官",
+          "type": "白",
+          "text": "报，驿丞官告进。 驿丞官参见大人。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "请，免。一旁打躬。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "驿丞官！本院押护囚车，小心伺候，回衙理事。"
+        },
+        {
+          "character": "驿丞官",
+          "type": "白",
+          "text": "谢大人。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "请，免。一旁打躬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "驿丞官下。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "王殿臣、郭起凤、金大力、何路通！"
+        },
+        {
+          "character": "王殿臣、郭起凤、金大力、何路通",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "你等保护囚车去罢。"
+        },
+        {
+          "character": "王殿臣、郭起凤、金大力、何路通",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王殿臣、郭起凤、金大力、何路通同下。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "副将。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "有请李壮士。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "有请李五爷。"
+        },
+        {
+          "character": "李堃",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李堃上。"
+        },
+        {
+          "character": "李堃",
+          "type": "念",
+          "text": "只为不平事，泄露机密情。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "草民李堃与大人叩头。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "李壮士少礼，请坐。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "大人在此，哪有小人的座位。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "有话言讲，焉有不坐之理。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "多谢大人。 众位英雄请坐。"
+        },
+        {
+          "character": "黄天霸、关泰、计全、朱光祖",
+          "type": "同白",
+          "text": "请坐。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "李壮士有何话讲？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "大人哪！不是俺李堃前来送信，只恐大人遭到不测。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "为了何事？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "这个……耳目甚重。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "两厢退下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四官兵、四红文堂同下。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "李壮士，你来看，这都是本院心腹之人，有话请讲。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "是。只因大人在东昌府斩了镇山东郎如豹，又拿了郝世洪的全家，今将郝世洪 解往淮安府正法。那殷洪老儿与郝世洪乃是一门内亲。是他约请水旱两路的英 雄，准备刺杀大人，劫夺囚车，要与皇家作对。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "请问李五爷，那殷洪老儿约请水旱两路英雄，可有尊驾在内？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "这个？想此事若无俺李堃在内，俺焉能知晓，前来送信。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "既有尊驾在内，你哪是前来送信，分明有诈。就烦阁下回去，对那殷洪老儿言 讲，说俺的囚车，但走殷家堡，话已讲明。李五爷，请便吧！"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "黄爷此言差矣！想俺李堃身在绿林，心怀忠义。大人为国为民，忠心赤胆，眼 见要遭毒手，俺今前来送信，你等也好做一准备。俺今前来，若有假意，日后 死在众人乱刀之下。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "李五爷忒以地言重了。请起，请坐。"
+        },
+        {
+          "character": "关泰、计全",
+          "type": "同白",
+          "text": "请坐。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "老兄弟说话，过于嘴冷。李五爷休得见怪。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "方才听李五爷言道，那殷洪老儿，约请水旱两路的英雄，这里边抛除李五爷， 他还请的出什么出乎其类、鳌里夺尊的英雄吗？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "余党甚厚，贤愚难分。内有宣贞、宣静；褚彪父女也在其内。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "怎么着？褚彪父女也在其内？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "嘿！这个老头子就有点扎手！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "俺久闻褚彪父女武艺高强；俺今日要与他决个胜负！"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "老兄弟，不要辜负李五爷一片好心，前来送信。 大人！先烦李五爷打听那殷洪是水路劫杀，还是旱路打劫？是夜晚，还是白昼？ 打听明白，即速回来与我们大家送上一信。这件事情，李五爷是料无推辞的 了！"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "就烦李壮士回去打探那殷洪是怎样行事。本院也好做一准备。"
+        },
+        {
+          "character": "计全",
+          "type": "白",
+          "text": "就烦李五爷回去，对那褚彪父女言讲，叫他及早带女回家，休得在此助强为恶。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "件件依从。告辞了。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "你若真心前来送信一去就回。若是假意，就不必来了。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "这个老兄弟，大丈夫说话如白染皂；我等静候李五爷回信。事不宜迟，您就请 吧！"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "告辞了。"
+        },
+        {
+          "character": "李堃",
+          "type": "西皮散板",
+          "text": "一言既出难改变，"
+        },
+        {
+          "character": "黄天霸",
+          "type": "西皮散板",
+          "text": "怕你一去不回还。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "黄爷！"
+        },
+        {
+          "character": "李堃",
+          "type": "西皮散板",
+          "text": "马到临崖收缰晚，"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李堃下。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "西皮散板",
+          "text": "俺天霸做事胆包天。"
+        },
+        {
+          "character": "关泰、计全、朱光祖",
+          "type": "同白",
+          "text": "请坐。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "众位英雄。"
+        },
+        {
+          "character": "黄天霸、关泰、计全、朱光祖",
+          "type": "同白",
+          "text": "大人。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "方才听李堃提起褚彪父女，你等为何惊怕？"
+        },
+        {
+          "character": "计全",
+          "type": "白",
+          "text": "大人有所不知，那褚彪之女名唤莲香，练就一把折铁钢刀，绿林无敌。"
+        },
+        {
+          "character": "关泰",
+          "type": "白",
+          "text": "计仁兄，俺关泰的宝刀，可以胜得过那女流么？"
+        },
+        {
+          "character": "计全",
+          "type": "白",
+          "text": "关爷的宝刀，倒也不差。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "关爷的宝刀，确也不差。无奈那女子惯用暗器，用五月飞蝗石子伤人。就是那 些保镖的达官，见了他父女，俱是望风而逃，何况你我！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "朱仁兄，俺黄门的金镖，可以算得起是厉害？"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "老兄弟的金镖，到处扬名，谁人不知，哪个不晓。无奈那女子惯用暗器伤人， 绿林英雄，无不惧她。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "朱仁兄，你好小看俺也。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "啊哈！这可不是随便说说的。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "西皮散板",
+          "text": "听一言不由人气冲牛斗， 尊列位且不必为此担忧。 虽然是褚莲香武艺少有， 俺天霸岂怕她小小女流。"
+        },
+        {
+          "character": "施世纶",
+          "type": "西皮散板",
+          "text": "黄副将不愧是名门之后， 且等候李堃回再定良谋。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "计全、朱光祖！"
+        },
+        {
+          "character": "计全、朱光祖",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "保护囚车去吧！"
+        },
+        {
+          "character": "计全、朱光祖",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": "计全",
+          "type": "念",
+          "text": "但愿风浪静，"
+        },
+        {
+          "character": "朱光祖",
+          "type": "念",
+          "text": "只恐祸又临。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "计全、朱光祖同下。"
+        },
+        {
+          "character": "黄天霸、关泰",
+          "type": "同白",
+          "text": "天色已晚，请大人安歇了吧。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "施世纶",
+          "type": "念",
+          "text": "国正天心顺，"
+        },
+        {
+          "character": "黄天霸、关泰",
+          "type": "同念",
+          "text": "官清民自安。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝素玉上，走边。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "看刀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关泰拉施世纶同下。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "呔！何处毛贼，通名受死。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "你姑娘郝素玉在此。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "你这蠢丫头，为何前来行刺？"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "哦，听他说话好耳熟呀！好像我们那口子他呀！ 喂！你是谁呀？"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "黄天霸在此。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "怎么着，你就是黄天霸？我把你没良心的小东西子。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "俺怎的无有良心？"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "怎么着？你还有良心哪！我哥哥和我母亲都被你杀啦。你哪点有良心？你的心 还不错哪！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "那不是俺杀的。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "那是谁杀的呀？"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "乃是关二哥杀的。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "别管他是关大哥，是关二哥，待会儿再说。咱们俩人的事情，你以金镖为定， 奴家已然许配于你啦。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "俺不要你。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "怎么着，给了价儿不买，那可不成！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "无有廉耻的丫头，快快走去！"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "你别管我是要脸吧，还是不要脸。今天我是来啦，咱们俩人成了亲事。前场事 情一概不究，你瞧好不好？"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "快快走去，免得受死。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "哈哈！你真不答应！黄天霸，我把你这猴崽子……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝素玉打，黄天霸下。"
+        },
+        {
+          "character": "郝素玉",
+          "type": "白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝素玉追下。关泰上。"
+        },
+        {
+          "character": "关泰",
+          "type": "白",
+          "text": "众官兵！"
+        },
+        {
+          "character": "四官兵",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": "关泰",
+          "type": "白",
+          "text": "拿刺客！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郝素玉上，四官兵同上，同打下。金大力上，擒郝素玉。黄天霸、四官兵同上。"
+        },
+        {
+          "character": "金大力",
+          "type": "白",
+          "text": "老兄弟，你瞧哥哥这个搭腿，多利落呀！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "金爷之功也；一同禀明大人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷洪上。"
+        },
+        {
+          "character": "殷洪",
+          "type": "西皮散板",
+          "text": "心中只把天霸恨， 仗势欺人杀绿林。 思来想去心烦闷， 吾儿回来问分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德龙、殷德虎、殷德彪、殷德豹同上。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "启禀爹爹：今有郝素玉公馆行刺，被天霸拿住了。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "不好了！来，有请众家英雄。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "有请众家英雄。"
+        },
+        {
+          "character": "宣贞、宣静、褚彪、李堃",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣贞、宣静、褚彪、李堃同上。"
+        },
+        {
+          "character": "宣贞、宣静、褚彪",
+          "type": "同念",
+          "text": "绿林义气重，"
+        },
+        {
+          "character": "李堃",
+          "type": "念",
+          "text": "机关要探听。"
+        },
+        {
+          "character": "宣贞、宣静、褚彪、李堃",
+          "type": "同白",
+          "text": "参见寨主。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "众位英雄请坐。"
+        },
+        {
+          "character": "宣贞、宣静、褚彪、李堃",
+          "type": "同白",
+          "text": "谢寨主。相约我等为了何事？"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "今有郝素玉公馆行刺，被天霸拿住了。"
+        },
+        {
+          "character": "宣贞、宣静、褚彪、李堃",
+          "type": "同白",
+          "text": "不好了。寨主就该吩咐我等。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "如此有劳了。褚老英雄。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "带领令嫒，松林埋伏，不得有误。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚彪下。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "二位少师父。"
+        },
+        {
+          "character": "宣贞、宣静",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "扮做游方道人模样，在江边游戏，遇见官船，不许放他过去。"
+        },
+        {
+          "character": "宣贞、宣静",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宣贞、宣静同下。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "四个孩儿过来。"
+        },
+        {
+          "character": "殷德龙、殷德虎、殷德彪、殷德豹",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "扮做买卖客商模样。附耳上来。"
+        },
+        {
+          "character": "殷德龙、殷德虎、殷德彪、殷德豹",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德龙、殷德虎、殷德彪、殷德豹同下。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "哦，李五弟还在此？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "寨主就该命一心腹之人，打听赃官是从水路而来，还是旱路行走？打听明白， 与寨主送上一信，也好做一准备。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "如此说来，你倒是老夫的心腹人了！"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "着哇！我就是老寨主的心腹人了。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "心腹人。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "老寨主。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "李五弟。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "老英雄。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "随我后面饮酒来呀！哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷洪下。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "咳！我倒是他的心腹人了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李堃下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施世纶上。"
+        },
+        {
+          "character": "施世纶",
+          "type": "西皮散板",
+          "text": "昨日李堃暗报信， 教人难以辨假真。 天霸拿得郝素玉， 要将此事奏朝廷。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施安、书吏、黄天霸、关泰、计全、朱光祖、金大力、何路通、王殿臣、郭起凤同上。"
+        },
+        {
+          "character": "黄天霸、关泰、计全、朱光祖、金大力、何路通、王殿臣、郭起凤",
+          "type": "同白",
+          "text": "启禀大人：今有郝素玉公馆行刺，已被我等拿获。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "何人拿获的？"
+        },
+        {
+          "character": "金大力",
+          "type": "白",
+          "text": "我金大力拿获的。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "金壮士之功。"
+        },
+        {
+          "character": "金大力",
+          "type": "白",
+          "text": "大人夸奖了。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "这般时候，还不见李壮士到来？"
+        },
+        {
+          "character": "黄天霸、关泰、计全、朱光祖、金大力、何路通、王殿臣、郭起凤",
+          "type": "同白",
+          "text": "想必来也。"
+        },
+        {
+          "character": "李堃",
+          "type": "内白",
+          "text": "李五爷到。"
+        },
+        {
+          "character": "黄天霸、关泰、计全、朱光祖、金大力、何路通、王殿臣、郭起凤",
+          "type": "同白",
+          "text": "有请。"
+        },
+        {
+          "character": "李堃",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小傍妆台牌。李堃上。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "草民李堃与大人叩头。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "壮士少礼，请坐。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "多谢大人。众位英雄请坐。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "啊，李壮士，打听那殷洪是怎样的埋伏？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "那殷洪老儿，在水旱两路俱有埋伏。要刺杀大人，劫夺囚车。要与黄爷见一上 下。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "好哇！俺天霸一生最喜交战。 呔！众官兵！将郝世洪父女打入囚车，单走殷家堡。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "哎，这个老兄弟，想那郝世洪父女，乃是朝廷的要犯，倘若囚车有失，你我大 家可吃罪不起。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "依朱仁兄之见呢？"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "依我朱光祖之见，大人就在此地，将郝世洪父女斩首，人头解往淮安府，省得 大家一份儿的劳神。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "如此，待本院升堂。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "且慢。大人若在此地升堂，将郝世洪父女斩首，那殷洪老儿闻知，道俺天霸有 些惧怕于他。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "谁说你惧怕于他。方才听李五爷言道，那殷洪老儿在水旱两路，俱有埋伏。少 时动起手来，你是顾了保护大人？你是顾了保护囚车？你还是顾了打仗？三件 大事，你是顾哪一件？我的兄弟！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "恐怕大人受惊。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "哎呀！身为皇家二品大员，事到临头，连个准主意都没有了吗？"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "这个？"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "哎呀！我的上司老爷！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "这、这、这…… 众位英雄！俺天霸有一计在此。"
+        },
+        {
+          "character": "关泰、计全、朱光祖、金大力、何路通、王殿臣、郭起凤、李堃",
+          "type": "同白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "就请大人改扮做贩卖绸缎的客商，驾一小舟，先往清江浦，只是一件……"
+        },
+        {
+          "character": "关泰、计全、朱光祖、金大力、何路通、王殿臣、郭起凤、李堃",
+          "type": "同白",
+          "text": "哪一件？"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "无人保护大人。"
+        },
+        {
+          "character": "王殿臣",
+          "type": "白",
+          "text": "王殿臣愿往。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "王殿臣！此乃千斤重担，俱在你一人的身上。就请大人更衣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施世纶、王殿臣同下。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "书吏过来。"
+        },
+        {
+          "character": "书吏",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "命你扮作大人模样。附耳上来。"
+        },
+        {
+          "character": "书吏",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书吏下。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "施安。"
+        },
+        {
+          "character": "施安",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "命你准备官船，先往清江浦等候我等。若有文武官员参见，就说大人染病在床， 候我等拿住殷洪在清江浦相会。记下了。"
+        },
+        {
+          "character": "施安",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施安下。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "吩咐，众官兵走上。"
+        },
+        {
+          "character": "关泰、计全、朱光祖、金大力、何路通、王殿臣、郭起凤",
+          "type": "同白",
+          "text": "众官兵走上。"
+        },
+        {
+          "character": "众官兵",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众官兵同上。"
+        },
+        {
+          "character": "众官兵",
+          "type": "同白",
+          "text": "参见黄爷。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "站立两厢。你等将郝世洪父女打入囚车，单走殷家堡。有人抢劫，不许害怕， 有我等在后。记下了。"
+        },
+        {
+          "character": "众官兵",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施世纶、王殿臣改装同上。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "副将，看本院扮得可像？"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "扮得倒像，一路之上，须要小心。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "那个自然。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "大人小心印信。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "是，外厢开道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "施安上。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "送过大人。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "众位英雄！饱餐战饭，各带器械，同往殷家堡去者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德龙、殷德虎、殷德彪、殷德豹同上。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "殷德虎、殷德彪、殷德豹",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "殷德龙",
+          "type": "白",
+          "text": "奉了爹爹之命，扮做买卖客商，就此前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷德龙、殷德虎、殷德彪、殷德豹同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四庄丁、殷洪同上，过场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": "黄天霸",
+          "type": "内西皮导板",
+          "text": "齐心努力把路奔，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄天霸、关泰、计全、朱光祖、金大力、何路通、郭起凤同上。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "西皮散板",
+          "text": "单人要把老贼擒。 押解囚车往前进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四官兵押郝世洪、郝素玉同上，过场，同下。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（殷德龙、殷德虎、殷德彪、殷德豹同上。四官兵押郝世洪、郝素玉同上，过场，同下。黄天霸上。四官兵"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "同上。）"
+        },
+        {
+          "character": "四官兵",
+          "type": "同白",
+          "text": "囚车被抢。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四官兵、黄天霸同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": "于亮",
+          "type": "内白",
+          "text": "开船哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四水手、于亮同上。"
+        },
+        {
+          "character": "于亮",
+          "type": "西皮散板",
+          "text": "毛如虎假扮任丘县， 偶遇赃官施普全。"
+        },
+        {
+          "character": "于亮",
+          "type": "白",
+          "text": "俺，浪里躜于亮。自幼爱习拳棒，惯做河下的买卖。那日打劫官船，被那保船 的人儿，看破了动静，就是这么一篙，将俺篙下水去。是俺心怀不忿，黑夜之 间，身带短刀，上得船去，杀他满门家眷。无数的官兵拿俺甚急，是俺从水路 遁逃，来在这骆马湖，多蒙李寨主收留，派俺以为大头目。每逢杀人害命，都 是俺于亮动手。今日命俺巡查江口。 伙计们，催舟！"
+        },
+        {
+          "character": "于亮",
+          "type": "西皮散板",
+          "text": "将船摇在芦苇边， 等候过客上我船。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王殿臣、施世纶同上。"
+        },
+        {
+          "character": "施世纶",
+          "type": "西皮散板",
+          "text": "乔装改扮江湖奔， 见一小舟打渔人。"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "雇只小舟。"
+        },
+        {
+          "character": "王殿臣",
+          "type": "白",
+          "text": "船家，将我们渡过江去。"
+        },
+        {
+          "character": "于亮",
+          "type": "白",
+          "text": "我们是打渔之船不渡人。"
+        },
+        {
+          "character": "王殿臣",
+          "type": "白",
+          "text": "多把银钱与你。"
+        },
+        {
+          "character": "于亮",
+          "type": "白",
+          "text": "多把银钱。 伙计们，搭了扶手。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王殿臣、施世纶同上船。"
+        },
+        {
+          "character": "于亮",
+          "type": "白",
+          "text": "我看此人眼熟。 喂，你可是赃官施普全？"
+        },
+        {
+          "character": "施世纶",
+          "type": "白",
+          "text": "什么赃官施普全，我是贩卖绸缎的客商。"
+        },
+        {
+          "character": "于亮",
+          "type": "白",
+          "text": "你在任丘下马的时节，我就认准了你了。 伙计们，绑了！"
+        },
+        {
+          "character": "王殿臣",
+          "type": "白",
+          "text": "呔！既知大人到此，如此无礼，该当何罪？"
+        },
+        {
+          "character": "于亮",
+          "type": "白",
+          "text": "你在一旁多嘴多舌，你叫什么名字？"
+        },
+        {
+          "character": "王殿臣",
+          "type": "白",
+          "text": "王殿臣在此。"
+        },
+        {
+          "character": "于亮",
+          "type": "白",
+          "text": "闻得赃官手下，有一会使铁尺的王殿臣，就是你吗？"
+        },
+        {
+          "character": "王殿臣",
+          "type": "白",
+          "text": "然。"
+        },
+        {
+          "character": "于亮",
+          "type": "白",
+          "text": "招打。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于亮把王殿臣打下水，王殿臣逃下。"
+        },
+        {
+          "character": "于亮",
+          "type": "白",
+          "text": "只是便宜他了，落个全尸。 伙计们，将赃官绑进骆马湖。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四水手押施世纶同下，于亮下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（殷洪率殷德龙、殷德虎、殷德彪、殷德豹、褚彪、褚莲香、宣贞、宣静、李堃同上，黄天霸率关泰、计全、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "朱光祖、何路通、金大力、郭起凤同上。会阵。）"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "来的敢是殷洪？"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "天霸呀，小奴才！想你父三泰，也是绿林出身，想生下你这不肖之子，归顺了 赃官，投人胯下，忘了根本。今日来在交河地界，你休想过去！"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "殷洪，老强盗！想那郝世洪父女乃是朝廷的要犯。尔竟敢劫夺囚车，该当何罪？"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "天霸！想俺亲翁郝世洪，也是绿林出身，与你父也有八拜之交，你不该将他打 入囚车，解往淮安。像你这不忠、不孝、不仁、不义之子，要尔何用。劝你好 好将首级留下，免得我亲自动手。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "白",
+          "text": "殷洪！俺今奉大人之命，前来拿你。"
+        },
+        {
+          "character": "黄天霸",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈……"
+        },
+        {
+          "character": "金大力、朱光祖",
+          "type": "同白",
+          "text": "老兄弟，打这老杂种。你还不动手？"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "看刀。 （起打。朱光祖、金大力同下。黄天霸将殷洪打下，宣贞、宣静同上，将黄天霸打下。关泰上，将宣贞、宣 静同打下。褚莲香上，与关泰对刀，双下。李堃、朱光祖同上。）"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "李五爷，看关爷与莲香杀在一处，真乃是棋逢对手……"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "将遇良才。看他二人杀在一处，倘有伤损，如何是好！"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "李五爷的神弹子到处闻名，何不用神弹子助关爷成功。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "我与她父交好甚厚，焉能下手？"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "既然与她父交好甚厚，你我分头劝解。就在此地与关爷提亲，倘若说成此事， 大人岂不又添一条膀臂。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "如此你我分头劝解。请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱光祖、李堃同下。褚莲香上。"
+        },
+        {
+          "character": "褚莲香",
+          "type": "白",
+          "text": "且住！红脸大汉杀法厉害，再若追来，飞蝗石子伤他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关泰上。"
+        },
+        {
+          "character": "关泰",
+          "type": "白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李堃、朱光祖同上。"
+        },
+        {
+          "character": "李堃、朱光祖",
+          "type": "同白",
+          "text": "关爷休要动手，休要动手。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚彪暗上。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "我儿休要动手，还不下去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚莲香下。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "原来是李五弟。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "老英雄。几载未见，令嫒的刀法，越发的精壮了。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "李五弟夸奖了。李五弟，这是何人？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "这就是朱光祖。 啊，朱爷。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "李五爷。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "见过褚老英雄。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "原来是褚老英雄。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "敢莫是赛时迁。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "令师可好？"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "好，承问，承问。江湖人称金刀铁臂熊就是您吗？"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "久仰啦，久仰的我可了不得啦！"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "岂敢。那一红脸大汉他是何人？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "此人姓关名泰字小西。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "哦，那就是关泰。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "好刀法。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "本来的不差。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "不但刀法好，人性还好哪！"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "果然好刀法、好传授！"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "啊，李五爷！您倒是提个话头啊！"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "是是是。 啊，褚老英雄，令嫒可有人家？"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "这个，高门不成，低门不就，耽误下了。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "如此说来，无有人家？"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "无有人家。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "朱爷！"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "李五爷！"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "无有人家。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "怎么着，无有人家？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "无有人家。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "这倒巧得很。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "这倒巧得很。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "李五爷接着这个茬儿，您倒是往下说呀。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "是是是。 老英雄！令嫒既无人家，何不将她许配关泰为妻，日后也能有靠。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "这个？待我思忖、思忖。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "请便。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "哦呵呀！看那关泰人品出众，武艺高强。我就应允此事，老汉他年也能有靠。 但不知那关泰什么前程？待我问来。 啊，李五弟，但不知那关泰什么前程？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "那关泰乃是漕标的参将。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "那关泰乃是漕标的参将，三品的前程，新近又得到保举，可就是副将衔来。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "哦，三品前程。但不知那关泰意下如何？"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "老英雄，您这儿来。曾记得大人路过宝头镇，张桂兰许配黄天霸为妻，乃是我 朱光祖为媒。老英雄应允此事，关爷这头有我同李五爷是管装管卸，可没什么 说的。大喜之事我同李五爷可要喝您这碗冬瓜汤啦！"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "总是要奉请二位，如此老汉我就应允了。"
+        },
+        {
+          "character": "朱光祖、李堃",
+          "type": "同白",
+          "text": "老英雄既然应允此事，何不将令嫒带回，休管他殷家的闲事。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "有道是各扫门前雪，休管他人瓦上霜。这年头管闲事可落不是。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "日后你我在哪里相会？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "淮安相会。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "三日之后你我在淮安相会。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "哦，淮安相会。请。啊二位！那关泰是什么前程？"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "漕标副将，三品的前程。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "三品的前程。请了，请了。二位，日后你我在哪里相会？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "三日之后在淮安相会。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "淮安相会。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "李五爷！这个老头子，有点碎嘴子。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "老英雄，那关泰乃漕标副将，三品的前程，三日之后，你我在淮安相会，是这 套不是您哪？老英雄。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "您也太罗嗦了。"
+        },
+        {
+          "character": "褚彪",
+          "type": "白",
+          "text": "请了，请了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "褚彪下。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "李五爷，看他两家倒也门当户对。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "倒也门当户对。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊杀声。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "来的这个老头子是谁？"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "殷洪老儿。"
+        },
+        {
+          "character": "朱光祖",
+          "type": "白",
+          "text": "哎呀，这可不得了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "朱光祖下。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "待俺挡他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "殷洪上。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "我当是谁，原来是心腹人。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "是你的心腹人。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "心腹人，杀呀！"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "杀呀！"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "杀呀！"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "杀哪个？"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "杀天霸。"
+        },
+        {
+          "character": "李堃",
+          "type": "白",
+          "text": "殷洪！俺今奉了大人之命，前来拿你。"
+        },
+        {
+          "character": "殷洪",
+          "type": "白",
+          "text": "咳咳！你才是到根到底的两头儿汉奸哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起打。李堃擒殷洪。〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

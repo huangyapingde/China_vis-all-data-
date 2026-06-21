@@ -1,0 +1,2409 @@
+{
+  "script_id": "03090008",
+  "title": "胭粉计",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "诸葛亮",
+      "hangdang": "老生"
+    },
+    {
+      "name": "司马懿",
+      "hangdang": "净"
+    },
+    {
+      "name": "马岱",
+      "hangdang": "老生"
+    },
+    {
+      "name": "魏延",
+      "hangdang": "净"
+    },
+    {
+      "name": "姜维",
+      "hangdang": "净"
+    },
+    {
+      "name": "旗牌",
+      "hangdang": "丑"
+    },
+    {
+      "name": "李福",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "诸葛亮用计困司马懿父子于葫芦峪，并预伏火药等物于峪口，拟以烈火烧死司马父子。时值大雨，司马氏父\n子得救回营，坚不出战。诸葛亮差人赠以胭粉、钗裙等以辱司马懿。诸葛亮因事繁食减，体力不支而染重病，\n祭星以求寿，终死于军中。司马懿闻诸葛亮死，蜀军撤退，遂起兵追赶。蜀将姜维等将诸葛亮之木偶像推\n出，吓退司马懿，蜀军退回西川。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马师、司马昭同上，同起霸。"
+        },
+        {
+          "character": "司马师",
+          "type": "念",
+          "text": "大将生来胆气豪，"
+        },
+        {
+          "character": "司马昭",
+          "type": "念",
+          "text": "腰横秋水雁翎刀。"
+        },
+        {
+          "character": "司马师",
+          "type": "念",
+          "text": "胯下一骑白龙马，"
+        },
+        {
+          "character": "司马昭",
+          "type": "念",
+          "text": "驰骋沙场保皇朝。"
+        },
+        {
+          "character": "司马师、司马昭",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "司马师",
+          "type": "白",
+          "text": "司马师。"
+        },
+        {
+          "character": "司马昭",
+          "type": "白",
+          "text": "司马昭。"
+        },
+        {
+          "character": "司马师",
+          "type": "白",
+          "text": "今日爹爹奉命兴师，你我弟兄在此伺候。"
+        },
+        {
+          "character": "司马师、司马昭",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马师、司马昭同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、四将官、司马懿同上。"
+        },
+        {
+          "character": "司马懿",
+          "type": "点绛唇",
+          "text": "杀气冲霄，经纶怀抱，传令号，地动山摇，丹心保魏朝。"
+        },
+        {
+          "character": "司马懿",
+          "type": "念",
+          "text": "两鬓银霜似雪飞，胸藏韬略逞雄威。多谋足智人人畏，老迈年高挂铁衣。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "老夫，司马懿。可恨孔明统领大兵，六出祁山，今奉圣旨，与其对垒。只是他 诡计多端，老夫这里兴兵，他便拔营退去；老夫这里收兵，他竟又来讨战。今 日必须多发人马，与他决一死战。 来！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "传先行进帐！"
+        },
+        {
+          "character": "下手甲",
+          "type": "白",
+          "text": "先行进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马师、司马昭同上。"
+        },
+        {
+          "character": "司马师、司马昭",
+          "type": "同白",
+          "text": "爹爹在上，孩儿打躬！"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "罢了。人马可曾齐备？"
+        },
+        {
+          "character": "司马师",
+          "type": "白",
+          "text": "俱已齐备。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "起兵前往！"
+        },
+        {
+          "character": "司马师、司马昭",
+          "type": "同白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四龙套、四下手、四将官",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "司马师、司马昭",
+          "type": "同白",
+          "text": "起兵前往！"
+        },
+        {
+          "character": "四龙套、四下手、四将官",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手、姜维、魏延同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "念",
+          "text": "豪杰凌云志，"
+        },
+        {
+          "character": "魏延",
+          "type": "念",
+          "text": "英雄掣电威。"
+        },
+        {
+          "character": "姜维、魏延",
+          "type": "同白",
+          "text": "某——"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "姜维。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "魏延。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "你我奉了丞相之命，征讨司马懿父子，一同杀上前去！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "杀！ （姜维、魏延、四文堂、四上手同走圆场，四龙套、四下手、四将官、司马师、司马昭同上，会阵，四文堂、 四上手、四龙套、四下手、四将官同下。姜维、魏延、司马师、司马昭同起打。姜维、魏延同败下，司马 师、司马昭同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维、魏延、四文堂、四上手同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "看司马弟兄杀法骁勇，你我不能取胜，如何是好？"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "且自退兵回营，见了丞相，再做道理。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "好。 众将官！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "回营去者！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、四将官、司马师、司马昭同上。"
+        },
+        {
+          "character": "司马师",
+          "type": "白",
+          "text": "姜维、魏延大败而逃，你我回营交令。"
+        },
+        {
+          "character": "司马师、司马昭",
+          "type": "同白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "司马昭、司马师",
+          "type": "同白",
+          "text": "回营去者！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、二琴童、诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "三国起战争，何日得太平。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维、魏延同上。"
+        },
+        {
+          "character": "姜维、魏延",
+          "type": "同白",
+          "text": "丞相在上，末将交令。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "胜负如何？"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "司马弟兄杀法骁勇，某等败下阵来！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人早已知道，此阵必败。 魏延听令！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "前山之麓，有一山谷名叫葫芦峪。命你带领一千人马，与司马父子交战，只许 败，不许胜！引他等进得峪来，老夫自有道理。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "姜维听令！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领三千人马，埋伏葫芦峪口，等候魏延引司马父子到来，接杀一阵，不 得有误！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "马岱进帐！"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "马岱进帐。"
+        },
+        {
+          "character": "马岱",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱上。"
+        },
+        {
+          "character": "马岱",
+          "type": "念",
+          "text": "朝中天子宣，阃外将军令。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "参见丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "马将军少礼。山人前番命你在葫芦峪口内，安排连环地雷、九节大炮，可曾齐 备？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "俱已齐备，专候丞相使用。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "好，就命你带领五千名小军，埋伏葫芦峪口，等候魏延引司马父子到来，进了 峪口，你可吩咐小军放起火炮，将他父子一齐烧死，速来通报！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "山人暗用火攻计，不知苍天依不依。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮、四龙套、二琴童同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四文堂、魏延同上。四龙套、四下手、四将官、司马师、司马昭、司马懿同上，会阵，同起打。魏延败下，"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "司马懿、司马师、司马昭、四龙套、四下手、四将官同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（魏延、四文堂同败上，司马懿、司马师、司马昭、四龙套、四下手同追上，同起打，魏延、四文堂同败下。"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "四兵士、姜维同上，接杀，下，司马懿、司马师、司马昭、四龙套、四下手同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四上手、马岱同上，作埋伏，虚下。魏延、四文堂同败上，司马懿、司马师、司马昭、四龙套、四下手同"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "电神同下高台，同行云布雨。四云童、风神、雨神、雷神、电神同下。魏延下，司马师、司马昭、司马懿"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "双收下。马岱引四上手同下。司马懿引司马师、司马昭同上，同扑地倒。）"
+        },
+        {
+          "character": "追上，同起打。四云童、风神、雨神、雷神、电神同上，同上高台。马岱放火，四云童、风神、雨神、雷神、司马懿",
+          "type": "白",
+          "text": "哎呀儿呀！不想中了孔明毒计，不是天降大雨，你我父子性命休矣！"
+        },
+        {
+          "character": "司马师",
+          "type": "白",
+          "text": "你我父子望空一拜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。司马懿、司马师、司马昭同拜。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "杀出重围，再做道理！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马懿、司马师、司马昭同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、魏延同上。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "且住。可恨这牛鼻子老道在葫芦峪口，安下地雷、九节连环大炮，怎么他也不 对俺言讲！若不是天降大雨，连俺魏延一并也烧死在内，此番回营，我是定不 与那孔明甘休！ 来，回营！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延、四文堂同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、马岱同上。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "堪堪大事已成，不料天降大雨，将地雷火炮打灭！不免报与丞相知道便了！ 回营！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱、四上手同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二琴童、诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "派兵调将行军令，天意难回功不成！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维上。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "末将交令。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "那司马父子呢？"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "堪堪大事将成，不料天降大雨，将火炮打熄，司马父子竟杀出重围去了！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哎！此乃天意也！将军下面歇息。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "谢丞相！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维下。马岱上。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "末将交令。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "那司马父子呢？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "堪堪大事将成，不料天降大雨，将火炮打熄，被他父子杀出重围去了！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哎呀且住！我只想安下地雷火炮，将司马父子烧死，以除外患；将魏延烧死， 以除内患。不料天意难违，倘若魏延回来，他岂肯与我甘休，这便怎么处！ 啊马将军！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老夫平日待你如何？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "待末将恩重如山。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "想那魏延回营，定不与老夫甘休，你可知当日黄公覆之故事乎？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "末将情愿受责！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "好，将军暂请后营歇息。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱下。魏延上。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "可恼哇，可恼！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "魏将军怒气不息，为着谁来？"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "我就为你来！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "为老夫何来？"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "丞相，既然安下地雷火炮，怎不叫俺魏延知道？若不是天降大雨，俺魏延岂不 也烧死在内？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "啊？老夫也曾命马岱在两军阵前，引将军出阵！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "两军阵前哪见什么马岱！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "来！传马岱进帐！"
+        },
+        {
+          "character": "琴童甲",
+          "type": "白",
+          "text": "马岱进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱上。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "丞相有何吩咐？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老夫命你在两军阵前，引魏将军出阵，你往哪里去了？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同暗上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "分明是违误军令，理应斩首，念在用兵之际，死罪已免，活罪难逃！ 来！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "重责四十军棍！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手扯马岱同下，同打。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "打、打、打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手扶马岱同上。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "谢丞相的责。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "马岱，老夫打得你可公？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "打得公！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "打得你可是？"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "打得是！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "从今以后，将你派在魏将军的名下听用，你要听他的号令。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "魏将军领了下去。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "得令！ 呔，马岱！丞相将你派在某的名下听用，你要与我仔细了！你要与我打点了！ 随俺来！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延、马岱同下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "一计不成，只得再用二计。 来，传旗牌进帐！"
+        },
+        {
+          "character": "上手甲",
+          "type": "白",
+          "text": "旗牌进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "堂上一呼，阶下百诺。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "叩见丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "罢了。现有胭粉、钗裙，命你送到司马懿营中，你就说我家丞相见都督连日兴 兵辛苦，送来几样玩物，望都督笑纳！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "一言吩咐你，"
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "怎敢稍延迟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮、二琴童、四上手、旗牌同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、司马懿同上。"
+        },
+        {
+          "character": "司马懿",
+          "type": "念",
+          "text": "魏主洪福大，天佑保国臣。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "老夫，司马懿。前日在葫芦峪口，险遭不测，因此停兵不战。我想孔明必然差 人前来，探听我的消息。 来，伺候了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "英雄探虎穴，大胆入龙潭。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "门上有人么？"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "诸葛丞相差人求见。"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "候着。 诸葛丞相差人求见。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "是大将，还是小卒？"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "乃是一个旗牌。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "吩咐动乐有请！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "小人叩见都督！"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "请起。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "谢都督！"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "手捧何物？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "我家丞相见都督连日兴兵辛苦，特命小人送来几件玩物，望乞都督笑纳。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "待某看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马懿看。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "哎呀呀！你看孔明见本督按兵不动，差人送来胭粉、钗裙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马懿想。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "待本督穿戴起来，倒要拜他几拜。 来，看衣更换！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。司马懿换女人衣裙走浪头。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "耻笑由他耻笑，只是各有用兵不同。来，将衣物收讫去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马懿脱衣。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "告辞。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "且慢，将军到此，乃是客位，理当看宴。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "不敢打搅。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "看宴伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。龙套甲摆宴。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "将军请！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "都督请！"
+        },
+        {
+          "character": "司马懿",
+          "type": "西皮原板",
+          "text": "中军帐内排酒宴， 将计就计诱他言。 你丞相在营中做何消遣， 酒饮几巡饭几餐？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "都督哇！"
+        },
+        {
+          "character": "旗牌",
+          "type": "西皮原板",
+          "text": "俺丞相在营中无可消遣， 为军务劳心力昼夜不眠。 我看他这几日饮少食减， 酒一巡来饭只一餐。"
+        },
+        {
+          "character": "司马懿",
+          "type": "西皮摇板",
+          "text": "你丞相劳心血肝肠用断， 快叫他收了兵早回西川。"
+        },
+        {
+          "character": "旗牌",
+          "type": "西皮摇板",
+          "text": "多谢都督赐酒宴， 回转大营说根源。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "司马懿",
+          "type": "西皮摇板",
+          "text": "孔明做事太欺情， 送来胭粉并钗裙。 大丈夫由你来取笑， 各有神机腹内存。 人来掌灯把路引， 观看北斗一星辰。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马懿、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二琴童、诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "智敌千员将，胸藏百万兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "忙将魏营事，报与丞相知。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "参见丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "你回来了？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "胭粉、钗裙可曾送去？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "送去了。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "那司马懿见着礼物便怎么样？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "小人到了他营，将胭粉、钗裙交与那司马懿，我说丞相见你停兵不战，送你胭 粉、钗裙，叫你穿在身上，望丞相处拜他几拜，丞相就可收兵。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "他说些什么？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "那司马懿就将钗裙穿戴起来，言道：讥笑由丞相讥笑，只是各自用兵不同。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "啊，这是那司马懿说的？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "后来呢？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "他还留小人在他营中饮宴。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "你还在他营中吃了酒饭来么？那司马懿在酒席筵前讲些什么？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "他问道：丞相这几日饮食如何？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "你是怎样回答？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "小人回答得好。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "你是怎样讲的？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "我道丞相这几日饭食减少。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哽！退下！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "且住。指望送去胭粉、钗裙，耻笑那司马懿，不料被旗牌将机关泄露，这大事 休矣！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄慢板",
+          "text": "仰面朝天自己嗟叹， 司马懿可算得将中魁元。 送胭粉和钗裙不恼可赞， 反与那旗牌官酒食来餐。 有刚有柔是好汉， 我诸葛要学他难上加难。 先帝爷下南阳君臣相见， 受深恩要扭转汉室江山。 博望坡烧曹兵初次交战， 借东风助周郎火烧战船。 用火攻烧藤甲南蛮丧胆， 谁不知诸葛亮计能扭天。 到如今遇司马两下会战， 葫芦峪设地雷定下机关。 我料他父子们定遭此难， 又谁知天不遂也是枉然。 一时间心血涌神昏意乱，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮吐。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "传姜维和魏延快到帐前。"
+        },
+        {
+          "character": "琴童甲",
+          "type": "白",
+          "text": "丞相有令：姜维、魏延进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维、魏延同上。"
+        },
+        {
+          "character": "姜维",
+          "type": "唱",
+          "text": "忽听丞相一声唤，"
+        },
+        {
+          "character": "魏延",
+          "type": "唱",
+          "text": "来了姜维并魏延。"
+        },
+        {
+          "character": "姜维、魏延",
+          "type": "同白",
+          "text": "丞相为何这等模样？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "二位将军有所不知，老夫本欲重兴汉室，恢复中原，怎奈天命难违，大数已定， 只怕我命就在旦夕了！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "丞相自幼精习奇门之法，何不在此高搭法台，祝告上苍，保得阳寿，也未可知。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老夫正欲祈祷。但不知天意如何？"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "哽！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "魏延听令！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领一哨人马，巡营瞭哨，以防司马。无令不许入坛！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "姜维听令！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你在中央戊己土高搭坛台，上用七星黑旗，安置明灯七盏，中间一盏，乃是 我本命之灯，不可熄灭；倘若熄灭，大事难成！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "设坛排星拜北斗， 但愿天意早回头。 三寸气在千般用， 一旦无常万事休！ 扫灭中原难回首， 只恐那大数难逃不自由！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮、二琴童同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": "司马懿",
+          "type": "内二黄导板",
+          "text": "大营内静悄悄玉兔东上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套持灯引司马懿同上。"
+        },
+        {
+          "character": "司马懿",
+          "type": "回龙",
+          "text": "好一似丹青画现出天堂。"
+        },
+        {
+          "character": "司马懿",
+          "type": "二黄原板",
+          "text": "那孔明可算得周朝吕望， 我的计未曾行他知其详。 葫芦峪设毒计险些命丧， 天不绝我父子方免灾殃。 送来了钗裙衣怒火上撞， 对众军叫老夫羞愧难当。 为孔明每日间神魂飘荡， 我若是再兴兵不知存亡。 叫众军忙带路高岗来上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、司马懿同上高台。"
+        },
+        {
+          "character": "司马懿",
+          "type": "二黄原板",
+          "text": "熄银灯忙回避细观四方。 观天罡和地煞各有方向， 将水火木金土细看端详。 只见那二十八宿星明灿亮， 明朗朗紫微星镇住中央。 南极星寿如天光芒下降， 北斗星为什么底角生凉？ 算就了五丈原诸葛有恙， 一霎时叫老夫放下愁肠。 但愿得诸葛亮眼前命丧，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、司马懿同下高台。"
+        },
+        {
+          "character": "司马懿",
+          "type": "二黄原板",
+          "text": "免得我司马懿昼夜提防。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马懿、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳摇金牌。姜维捧灯上，打扫坛台。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "有请丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "内白",
+          "text": "搀扶了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二琴童搀诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄慢板",
+          "text": "为汉家把我的心血用尽， 都只为先帝爷托孤之恩。 执宝剑上坛台难以扎挣，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮上台。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "险些儿把老夫跌倒埃尘！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维、二琴童同暗下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "上苍啊！亮生乱世，隐居隆中，蒙先帝三顾之恩，任后主托孤之重。统众兵出 祁山，讨贼不果，将星欲落，阳寿将终，虔诚祝告上苍，假我数年阳寿，扶持 汉室，上报先帝托孤之恩，下免万民一切之苦，神明在上，鉴我此心！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮焚表三道。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "诸葛亮不敢扭天行， 为的是我主锦乾坤。 拜南斗和北斗赐我阳寿， 掌簿官执笔吏留下人情。 按中央戊己土深深拜定，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮观星。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "见将星比往常显见光明。 虽然是星明亮吉凶未定， 怕的是天意难违大事难成！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延急上。"
+        },
+        {
+          "character": "魏延",
+          "type": "二黄摇板",
+          "text": "司马懿父子来踹营， 报与丞相得知情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延将灯扑灭。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "想是我大限有一定， 魏延打熄我的本命灯。 将本命灯撇在尘埃地，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维上。"
+        },
+        {
+          "character": "姜维",
+          "type": "二黄摇板",
+          "text": "丞相为何发雷霆？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "我今拜斗六天整， 看看七天大功成。 恨魏延他把我本命灯扑熄， 我的性命只怕难保存。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "哎呀，好贼子！"
+        },
+        {
+          "character": "姜维",
+          "type": "二黄摇板",
+          "text": "我师傅拜斗六天整， 看看拜起本命星。 为何将灯来打熄？ 想是贼子起歹心。 手执宝剑将你砍，"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "你不能！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "唱",
+          "text": "将军息怒且消停。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "魏延，你慌慌张张跑上坛台，可是司马懿命人前来骂阵么？"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领本部人马，抵敌司马来将，无令休来见我！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "得令！正是："
+        },
+        {
+          "character": "魏延",
+          "type": "念",
+          "text": "量小非君子，无毒不丈夫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "姜维，搀我下台！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维搀诸葛亮同下台。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "姜维与我快些请， 后帐快请李大人！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "有请李大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李福上。"
+        },
+        {
+          "character": "李福",
+          "type": "二黄摇板",
+          "text": "忽听丞相一声请， 急忙进帐问分明。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "参见丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "唤我进帐，有何事议？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "李大人哪！我今病已沉重，不久于人世，有遗表一道，烦劳大人去往成都，转 奏幼主，意下如何？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "丞相差遣，愿去不辞。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "姜维，看表过来！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "搀扶了！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "圣上啊！念臣气尽力衰，不能扶保社稷了！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "眼望着西川深深拜， 拜谢我主爵禄恩。 羞愧难见刘先主， 李大人你速速转奏奔都城。"
+        },
+        {
+          "character": "李福",
+          "type": "二黄摇板",
+          "text": "辞别丞相跨金镫， 不分昼夜奔都城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李福下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "叫头",
+          "text": "姜维！"
+        },
+        {
+          "character": "姜维",
+          "type": "叫头",
+          "text": "丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "叫头",
+          "text": "伯约！"
+        },
+        {
+          "character": "姜维",
+          "type": "叫头",
+          "text": "师傅！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "将军哪！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄快三眼",
+          "text": "我和你虽是将帅却有那师徒之义，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "坐下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜维坐。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "必须要秉忠心扶保华夷。 一封锦囊交与你， 内藏着妙算与神机。 我死后拆开观仔细， 内有妙法退强敌。 我死后三件大事托付你， 一桩桩一件件切莫泄机。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "第一件？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "第一件我死后休要挂孝，"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "第二件？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "第二件必须要缓缓移营。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "这第三件？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "第三件我死后魏延必反，"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "我自有妙计杀此人。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "姜维！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "我将这奇门遁甲传与你， 阵阵不离此图形。 这一弩能发十条箭， 九伐中原你当承。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "将军与我传一令， 快传马岱、杨仪与王平！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "马岱、杨仪、王平进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马岱、杨仪、王平同上。"
+        },
+        {
+          "character": "马岱、杨仪、王平",
+          "type": "同二黄摇板",
+          "text": "忽听帐中传一令， 见了丞相问分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮昏。"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同白",
+          "text": "丞相醒来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮醒。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "只期霸业归炎汉， 谁知半路不周全。 猛然睁开昏花眼， 又只见众将官站立面前。"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同白",
+          "text": "丞相！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "杨仪！"
+        },
+        {
+          "character": "杨仪",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "我死后军师大印你掌管， 事事小心须周全。 我今与你一小柬， 这里暗藏巧机关。"
+        },
+        {
+          "character": "杨仪",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "王平！"
+        },
+        {
+          "character": "王平",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "我今与你一书柬， 我死之后仔细观。"
+        },
+        {
+          "character": "王平",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "马岱！"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "我今与你一书柬， 这里暗藏巧机关。 倘若魏延造了反， 只须如此并这般。"
+        },
+        {
+          "character": "马岱",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "众将官搀扶我把先帝爷拜见， 诸葛亮在营中叩谢龙颜。 恕为臣不能与我主重兴汉， 恕为臣不能与我主保江山。 霎时间心血涌遍体是汗， 我面前站定了庞统士元！"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同白",
+          "text": "他前来做甚？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "在荆州对将八字推算，"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同白",
+          "text": "算什么？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "我二人各有不周全！"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同白",
+          "text": "丞相算他何来？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "我算他落凤坡带箭死，"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同白",
+          "text": "他算丞相怎样？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "他算我难逃五丈原！"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同白",
+          "text": "丞相保重了！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄摇板",
+          "text": "一霎时咽喉哽心血上泛， 无常到万事休命赴九泉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮死。"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同哭",
+          "text": "哎，丞相啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李福上。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "众位将军，丞相怎样了？"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同白",
+          "text": "丞相下世去了！"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "哎呀，耽误国家大事了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮醒。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "唔！"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同白",
+          "text": "啊，丞相醒来，李大人来了！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "李大人转来做甚？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "我主问道：丞相下世，军中大事何人料理？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "姜维、杨仪。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "朝中大事？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "蒋公琰。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "蒋公琰之后？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "费文伟。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "费文伟之后？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三国归于……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮死。"
+        },
+        {
+          "character": "李福、姜维、马岱、杨仪、王平",
+          "type": "同哭",
+          "text": "哎，丞相啊……"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "众位将军！你等料理丞相后事，待我奏与幼主知道！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李福下。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "列位将军！丞相下世，有锦囊一封，大家拆开一看，便知明白。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。李福看。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "啊，原来丞相说道：用沉香木雕成丞相偶像，自能退兵，你我照计而行。"
+        },
+        {
+          "character": "姜维、马岱、杨仪、王平",
+          "type": "同哭",
+          "text": "哎，丞相啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、魏延同上。"
+        },
+        {
+          "character": "魏延",
+          "type": "唱",
+          "text": "万马营中为魁首， 斩将擒王鬼神愁。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "俺，姓魏名延字文长。奉了丞相钧谕迎敌，贼兵不战自退，不免回营交令。"
+        },
+        {
+          "character": "魏延",
+          "type": "唱",
+          "text": "豪杰生来威名大， 昔日镇守在长沙。 韩玄不听某的话， 将他一剑染黄沙。 催马来在山坡下，"
+        },
+        {
+          "character": "李福",
+          "type": "内白",
+          "text": "将军慢走！"
+        },
+        {
+          "character": "魏延",
+          "type": "唱",
+          "text": "看是何人把话答。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、李福同上。"
+        },
+        {
+          "character": "李福",
+          "type": "唱",
+          "text": "诸葛丞相归泉下， 见了将军说根芽。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "我道是谁，原来是李大人。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "魏将军迎敌，胜败如何？"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "那贼兵不战自退。"
+        },
+        {
+          "character": "李福",
+          "type": "哭",
+          "text": "苦哇……"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "大人为何这样悲泪？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "哎呀将军哪！丞相下世去了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延假哭。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "丞相啊……但不知这兵权大印由何人执掌？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "这……姜维、杨仪执掌。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "身背何物？"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "乃是丞相遗表。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "啊大人，你我各有公干，就此分别了吧！"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "李福",
+          "type": "念",
+          "text": "相逢不下马，"
+        },
+        {
+          "character": "魏延",
+          "type": "念",
+          "text": "各自奔前程。"
+        },
+        {
+          "character": "李福",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、李福同下。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "且住！我想孔明已死，兵权大印付与姜维、杨仪执掌，俺岂肯听他二人调遣！ 不免回营兴动人马，火焚栈道，不许他等发丧吊祭，谅他等哪个把俺怎么样！"
+        },
+        {
+          "character": "魏延",
+          "type": "唱",
+          "text": "心中只把诸葛恨， 兵权大印付他人。 此番回营调人马， 火焚栈道扭乾坤。 先杀姜维与杨仪， 斩却众将我恨申。 阿斗小儿何足论， 豪杰称尊为了君。"
+        },
+        {
+          "character": "魏延",
+          "type": "笑",
+          "text": "啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、魏延同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、四将官、司马师、司马昭、司马懿同上。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "老夫，司马懿。昨夜仰观天象，将星坠落，想是孔明已死。本督带领人马，前 去抢他尸首！ 众将官！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "就此前去，暗地踹营！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四上手、杨仪、马岱、王平、姜维同上，会阵。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "暗地踹营，岂为大将！我家丞相正要拿你！"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "我却不信！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "有请师傅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内推诸葛亮偶像上。司马懿惊，率司马师、司马昭、四龙套、四下手、四将官同下。"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "丞相已死，威名还在！ 众将官！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "姜维",
+          "type": "白",
+          "text": "兵回西川！"
+        },
+        {
+          "character": "四文堂、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、四将官、司马师、司马昭、司马懿同上。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "哎呀，我只说孔明已死，谁知他有移星转斗诈遁之法，不是老夫早为防备，险 些又中他计！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报知",
+          "type": "白",
+          "text": "都督：孔明已死，用沉香木雕成偶像以作退兵之计！"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "且住，我本当兴兵追杀，又恐中他之计！也罢，就此收兵！ 众将官！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "司马懿",
+          "type": "白",
+          "text": "就此收转人马！"
+        },
+        {
+          "character": "四龙套、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

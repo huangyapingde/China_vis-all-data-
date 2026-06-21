@@ -1,0 +1,1726 @@
+{
+  "script_id": "03009001",
+  "title": "黄一刀",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "姚刚",
+      "hangdang": "净"
+    },
+    {
+      "name": "黄飞刚",
+      "hangdang": "武丑"
+    },
+    {
+      "name": "马清",
+      "hangdang": "副净"
+    },
+    {
+      "name": "杜明",
+      "hangdang": "武生"
+    },
+    {
+      "name": "黄妻",
+      "hangdang": "武旦"
+    },
+    {
+      "name": "愣儿",
+      "hangdang": "丑"
+    },
+    {
+      "name": "刘老头",
+      "hangdang": "外"
+    }
+  ],
+  "plot": "东汉，姚期之子姚刚与马清、杜明殴杀奸臣郭荣，因被发配湖北。在解送途中，经过黄土冈地方。当地有恶\n霸黄飞刚夫妇，开设肉肆，欺压乡里。姚刚闻知其事，亲至肉肆，借端寻殴，终将恶霸除灭。",
+  "notes": "这个剧本经苏连汉先生协助校正。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二解差同上。"
+        },
+        {
+          "character": "解差甲",
+          "type": "念",
+          "text": "奉命差遣，槪不由己。"
+        },
+        {
+          "character": "解差甲",
+          "type": "白",
+          "text": "伙计请啦！"
+        },
+        {
+          "character": "解差乙",
+          "type": "白",
+          "text": "请啦！"
+        },
+        {
+          "character": "解差甲",
+          "type": "白",
+          "text": "你我奉了上司之命，解押三位王爷，发配湖北。天不早啦，请出三位王爷，咱 们该趱路啦。 有请三位王爷！"
+        },
+        {
+          "character": "姚刚",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚、马清、杜明同上。"
+        },
+        {
+          "character": "马清、杜明、",
+          "type": "同念",
+          "text": "御街闯下祸，"
+        },
+        {
+          "character": "姚刚",
+          "type": "念",
+          "text": "发配受折磨。"
+        },
+        {
+          "character": "解差甲、解差乙",
+          "type": "同白",
+          "text": "参见三位王爷！"
+        },
+        {
+          "character": "姚刚、马清、杜明",
+          "type": "同白",
+          "text": "罢了。请出三位王爷何事？"
+        },
+        {
+          "character": "解差甲",
+          "type": "白",
+          "text": "天不早啦，请三位王爷趱路。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "天早住在哪里？天晚住在哪里？"
+        },
+        {
+          "character": "解差甲",
+          "type": "白",
+          "text": "天早住在十里堡，天晚住在黄土冈。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "店钱呢？"
+        },
+        {
+          "character": "解差甲",
+          "type": "白",
+          "text": "开付过了。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "好。趱行！"
+        },
+        {
+          "character": "马清、杜明",
+          "type": "同唱",
+          "text": "昏王无道江山掌， 信宠奸佞乱朝纲。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "二位贤弟！"
+        },
+        {
+          "character": "姚刚",
+          "type": "唱",
+          "text": "咱父保汉忠良将， 怎奈围困在番邦。 豪杰领兵把贼挡， 只杀得番王拱手降。 万岁皇爷龙恩降， 封俺一字平南王。 跨马游街精神爽， 偶遇见郭荣老贼站道旁。 他拿恶言来冲撞， 剑劈老贼一命亡。 西宫娘娘本奏上， 万岁传旨宣姚刚。 遵旨就把金殿上， 抬头见父泪汪狂。 忍痛吿别把马上， 宛子城保定了殿下刘庄。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟强、薛霸同上。"
+        },
+        {
+          "character": "孟强",
+          "type": "唱",
+          "text": "京中奉了老王命，"
+        },
+        {
+          "character": "薛霸",
+          "type": "唱",
+          "text": "保护少主走一程。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "俺、孟强。"
+        },
+        {
+          "character": "薛霸",
+          "type": "白",
+          "text": "薛霸。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "你我奉了老王之命，保护三位少王爷。就此马上加鞭！"
+        },
+        {
+          "character": "孟强",
+          "type": "唱",
+          "text": "催马加鞭往前进，"
+        },
+        {
+          "character": "薛霸",
+          "type": "唱",
+          "text": "见了少王说分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟强、薛霸同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞刚上，愣儿暗上。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "数板",
+          "text": "学习拳棒手段高，横行乡里逞英豪；四两半斤凭我给，谁人不知黄一刀！"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "念",
+          "text": "英雄无人比，两膀千斤力。霸占房粮地，抢夺美貌妻。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "俺、黄飞刚。大哥飞龙，二哥飞信，俱做绿林中的买卖。我夫妻二人就在这黄 士冈开了一座肉铺。我一家养猪，大家轮流送食供养。哪家送食不到，我妻子 找上门去，轻者是打，重者放火烧房。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "那也不是吹。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "这且不言。我大哥、二哥在万全山，许久无有音信。我有意前去寻找，只是铺 中之事无人照管，不免将妻子唤出商议商议。 愣儿，有请大奶奶！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "有请大奶奶！"
+        },
+        {
+          "character": "黄妻",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄妻上。"
+        },
+        {
+          "character": "黄妻",
+          "type": "念",
+          "text": "夫妻霸占黄土冈，谁人不知母阎王！"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "有坐。将为妻唤出，有何话讲？"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "二位兄长许久无有音信，我意欲前去寻找，只是铺中之事无人照管。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "大郞但放宽心，家中之事，有为妻照管，料也无妨。但不知几时起程？"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "我这就走。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "愣儿，备马去。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "带马。请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞刚下。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "愣儿，咱们猪食今儿该谁送啦？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "待我算算：张家、李家、赵家……唉，今天是开店的刘老头儿。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "他怎不给送来呀？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "大奶奶不去，他不给。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "找他去！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "好，找找这个刘老头去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄妻、愣儿同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": "姚刚",
+          "type": "内唱",
+          "text": "暑热炎天似火烧，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚、马清、社明、解差甲、解差乙同上。"
+        },
+        {
+          "character": "姚刚",
+          "type": "唱",
+          "text": "浑身上下汗滔滔。"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "天不早啦，三位王爷，咱们该打店啦。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "向前打店！"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "是。 店家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘老头上。"
+        },
+        {
+          "character": "刘老头",
+          "type": "念",
+          "text": "开的是店，卖的是饭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘老头开门。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "原来是二位上差。敢是投宿么？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "可有上房？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "有上房。"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "回禀三位王爷，有上房。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "打进去！"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "二位上差，敢莫是三个强盗？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "不要胡说，此乃三位王爷，还不向前见礼！"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "参见三位王爷！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "罢了，起过一旁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟强、薜霸同上。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "店家！"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "敢是投宿的？"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "可有上房？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "上房被三位王爷占去了。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "王爷在此。将马带过。 参见三位王爷！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "罢了。你二人到此何事？"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "奉了老王爷之命，保护三位少王爷。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "二位贤弟，还是你我老爹爹惦念你我。"
+        },
+        {
+          "character": "马清、杜明",
+          "type": "同白",
+          "text": "惦念你我。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "家将叫他们把刑具去掉！"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二解差同去锁链。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "店家，你们这里可有什么吃食？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "我们这里有小米饭、窝窝头、拌豇豆加香油。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "俱都不好。可有上等饭食？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "我们这里有米星巴拉疙疸汤。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "咦，二位贤弟，你我弟兄每日在朝，未曾吃过什么米星巴拉疙疸汤。"
+        },
+        {
+          "character": "马清、杜明",
+          "type": "同白",
+          "text": "倒要尝上一尝。 店家，多做疙疸汤！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄妻、愣儿同上。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "叫他去！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "刘老头儿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘老头上。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "参见大奶奶！"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "罢了。我问你买卖好不好？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "倒也不错。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "真个的猪食该谁送啦？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "待我想一想。该小老儿送了。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "为什么还不送去？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "只因店中来了三位王爷，把此事忘怀了。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "大奶奶，他拿王爷吓唬咱们。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "拿王爷吓唬我？愣儿，噍噍他们后头有什么没有？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "我看看去。 大奶奶，他们后头有热气腾腾的一锅疙疸汤。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "喂猪肥不肥？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "肥。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "好，都拿了走。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "使不得。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "给脸不要脸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄妻、愣儿同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二解差同上。"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "店家，王爷问你哪，疙疸汤作熟了没有哪？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘老头上。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "疙疸汤将将做熟，又被我们这里恶霸抢了去了。"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "你瞧，你这乱儿闹得可不小。"
+        },
+        {
+          "character": "姚刚",
+          "type": "内白",
+          "text": "店家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚、马清、杜明、薛霸、盂强同上。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "店家，这般时候疙疸汤还未曾做熟，敢是轻慢你三位王爷不成么！"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "哎呀王爷呀！疙疸汤将将作熟，又被我们这里恶霸抢了去了。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "啊！那恶霸姓字名谁？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "王爷请坐在椅儿上，细听小老儿说端详。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "慢慢讲来！"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "我们这里名叫黄土冈，有一个恶霸名叫黄飞刚。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "呕，黄飞刚！"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "他有两个兄长：一名黄飞龙，一名黄飞信。弟兄三人惯作绿林打抢。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "是个强盗。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "他有一个妻子名叫母老虎。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "呕，母老虎！"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "他家养猪，我们合村轮流供养。那家送食不到，轻者是打……"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "呕，轻者是打，这重呢？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "哎呀王爷啊！他就放火烧房。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "哇呀！二位贤弟，此处有这等恶霸，待俺去会他一会。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "老王曾经嘱咐：一路之上，不要闯祸；如再闯祸，岂不罪上加罪！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "嗯，只是便宜了这个王八日的。 店家，你再做疙疸汤。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞龙、黄飞信同上。"
+        },
+        {
+          "character": "黄飞龙",
+          "type": "唱",
+          "text": "身在绿林江湖上，"
+        },
+        {
+          "character": "黄飞信",
+          "type": "唱",
+          "text": "打劫过客与行商。"
+        },
+        {
+          "character": "黄飞龙",
+          "type": "白",
+          "text": "俺、黄飞龙。"
+        },
+        {
+          "character": "黄飞信",
+          "type": "白",
+          "text": "黄飞信。"
+        },
+        {
+          "character": "黄飞龙",
+          "type": "白",
+          "text": "贤弟请了！只因三弟去到万全山，看望你我，请你我弟兄回家。看天色不早， 不免马上加鞭。"
+        },
+        {
+          "character": "黄飞龙",
+          "type": "唱",
+          "text": "）　　　　马加鞭往前闯，"
+        },
+        {
+          "character": "黄飞信",
+          "type": "唱",
+          "text": "见了三弟说端详。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞龙、黄飞信同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚上。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "嘿！听店家之言，我这心中恶气难消，我不免寻找恶霸。 店家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘老头上。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "来了。王爷呼唤何事？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "你方才言道，那个恶霸，他住在哪里？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "就在前面黄土冈。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "他门前可有什么招牌？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "他门前有一招牌，有三个大字。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "哪三个大宇？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "“黄一刀”。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "何为“黄一刀”？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "不论哪家买肉，十斤八斤，就是这一刀。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "有多重？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "不过是拉拉的四两。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "咦，这可称得起恶霸！你这里可有秤？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "取来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚拿。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "这砣小了。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "我们这里有约煤的大砣。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "取来！"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "是。王爷请看！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "这个家伙倒也称手。我走啦！"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "我会那恶霸去。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "那二位王爷要问？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "你就说我拉屎去啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚下。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "哎呀，恶霸呀恶霸，管叫你明枪容易躱，暗箭最难防。哈哈哈，岔了气了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘老头下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄妻、愣儿同上。黄飞刚上。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "大郎回来啦！"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "回来啦。坐着，坐着。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "大爷回来了！"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "可曾见着二位兄长？"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "见着啦，不久就要回来了。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "愣儿，挑幌子做买卖！"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "慢着，慢着。是我昨晚夜宿旅店，三更时分，偶得一梦：我身上背着一张鼓， 从南来一黑汉，在我脊背上打鼓。"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "想是大郎声名在外。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "不错，声名在外。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "不对，大爷昨夜晚上，偶得一梦，你身上背着一张鼓，从南来了一个黑汉，在 你脊背上打鼓。那不是打鼓。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "那是干什么？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "那是打你皮肉筋骨。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "你这是胡说八道，我在底下还唱哪！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "你哪是唱！你哪是唱！"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "不是唱是干什么？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "那是打得你出了声儿啦。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "想这黄土冈一带，我不欺压于人，谁敢在太岁头上动土！"
+        },
+        {
+          "character": "黄妻",
+          "type": "白",
+          "text": "有道是梦中之事，不可深信。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "愣儿，挑幌子做买卖！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "是。挑幌子做买卖！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "买肉甲、买肉乙、买肉丙、买肉丁同上，买肉。买肉甲、买肉乙、买肉丙同买肉，同下。"
+        },
+        {
+          "character": "买肉丁",
+          "type": "白",
+          "text": "你怎么给这么点呀？再给添点吧！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "莫麻烦。"
+        },
+        {
+          "character": "买肉丁",
+          "type": "白",
+          "text": "你给我饶点骨头。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "你要骨头是怎么着？我拿刀砍你！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。姚刚上，挡。买肉丁下。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "大爷，你干什么的？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "咱是打肉的。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "大爷，买肉的受听。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "打肉的。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "还是买肉的受听。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "俺偏说是打肉的。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "愣儿，打肉的就打肉的。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "是。打肉的就打肉的。你要多少？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "有多少要多少。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "好。有了包沿的了，我拿秤去。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "回来。我有。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "有秤没砣。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "这不是砣。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "小秤大砣。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "这是准斤十六两的公道秤。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "公道秤？你要是公道秤，我是个驴驹子。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "拿肉去吧，小子！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "肉来了，肉来了！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "挂上！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "挂上。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "可还有肉？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "有肉，有肉。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "拿去！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "拿肉去，拿肉去。肉来了，肉来了，五花三层。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "挂上！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "挂上。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "拿去！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "有肉，有肉！大爷，你贵姓？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "你管我哪！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "买卖人得和气。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "你不用和气。挂上！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "大爷够不够？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "不够。拿去！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "有肉，有肉！大爷你看这是七星九子？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "说肘子！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "七星九子。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "你说肘子！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "九子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚打愣儿。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "肘子。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "你怎么说上来了？"
+        },
+        {
+          "character": "愣子",
+          "type": "白",
+          "text": "你打我么！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "挂上！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "够不够？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "不够。拿去！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "肉来了，肉来了！大爷，好大的居头。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "好大的居头。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "说猪头！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "居头。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "你说猪头！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "好大居头。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚作打。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "猪头。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "你怎么说上来了？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "你又要打我么！大爷够不够？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "还有没有？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "没有了。大爷你约约。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "愣儿捡秤砣。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "大爷你约吧，总有八百多斤。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "有一得一。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "是。有一得一，多少？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "无非是拉拉儿的四两。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "哎呀，我可担不住劲儿啦。 大爷，咱这一杠肉，被他约了拉拉儿四两。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "怎么着，我这一杠肉被他约了拉拉儿的四两吗？我去问他。 那一黑汉，我一杠肉被你约了多少？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "拉拉儿的四两。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "你说四两，就四两。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "四两！"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "四两。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "四两！"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "愣儿，就算他四两。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "这一杠肉被俺约了四两，他就算四两。这算什么恶霸！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "一杠肉被他约了四两就算四两；我们大爷今儿是怎么啦！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "那小子给我滚回来！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "叫我滚过去，买卖人和气，滚过去就滚过去。 干什么？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "大爷出来慌疏，未曾带着银钱，与俺大爷写账。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "写账？我更担不住劲。 大爷，咱这一杠肉被他约了拉拉儿四两，这黑汉没钱要写账。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "怎么着，我一杠肉被他约了拉拉儿四两就算四两，我跟他人生面不熟，他还要 写账？这真是太岁头上动土，我去问他。 唗！那一黑汉，我这一杠肉被你约了四两就算四两，我与你人生面不熟，你还 要写账？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "俺要写账。"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "就凭你？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "就凭咱！"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "愣儿，给他写上！"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "啊！一杠肉被咱约了四雨，咱要写账，他就与俺写胀，这算什么恶霸！莫非我 上了店家的当了？ 那小子，爬过来！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "你叫我爬过去？买卖人得和气，咱就爬过去。 大爷，干什么？"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "肉多难拿，你与俺送了回去！"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "柜上没人。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "身后何人？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "那是我们大奶奶。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "教她与俺背了冋去！"
+        },
+        {
+          "character": "黄飞刚、黄妻",
+          "type": "同白",
+          "text": "愣儿，他说什么？"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "他教大奶奶给他背肉。"
+        },
+        {
+          "character": "黄飞刚、黄妻",
+          "type": "同白",
+          "text": "这小子不说理。打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姚刚打愣儿，愣儿带刀下。黄飞刚、黄妻同败下。姚刚追下。愣儿上。"
+        },
+        {
+          "character": "愣儿",
+          "type": "白",
+          "text": "伙计们，打呀！打…… （姚刚开荡接攒，砍萝卜头。黄飞刚上。一漫头，两漫头，往里一盖，卸掉黄飞刚刀，揪住打脑袋。黄飞败 下，姚刚追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二解差同上。"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "店家！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘老头上。"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "什么事？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "大王爷哪里去了？"
+        },
+        {
+          "character": "刘老头",
+          "type": "白",
+          "text": "会那恶霸去了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杜明、马清、孟强、薛霸同上。"
+        },
+        {
+          "character": "杜明、马清",
+          "type": "同白",
+          "text": "大王爷娜里去7？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "会那恶霸去了。"
+        },
+        {
+          "character": "杜明、马清",
+          "type": "同白",
+          "text": "你我迎上前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞龙、黄飞信同上。"
+        },
+        {
+          "character": "黄飞龙、黄飞信",
+          "type": "同白",
+          "text": "哪里人声呐喊，登髙一望！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄飞刚、黄妻同上。"
+        },
+        {
+          "character": "黄飞龙、黄飞信",
+          "type": "同白",
+          "text": "三弟怎么样了？"
+        },
+        {
+          "character": "黄飞刚",
+          "type": "白",
+          "text": "我被人打啦！"
+        },
+        {
+          "character": "黄飞龙、黄飞信",
+          "type": "同白",
+          "text": "闪过一旁，待我弟兄迎上前去！ （姚刚上，打屁股。杜明、马清同上，同亮相，同起打。姚刚杀死黄飞刚、黄飞龙、黄飞信、黄妻。二解差 同上。）"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "此地什么所在？"
+        },
+        {
+          "character": "二解差",
+          "type": "同白",
+          "text": "黄土冈。"
+        },
+        {
+          "character": "姚刚",
+          "type": "白",
+          "text": "黄土冈改名恶虎庄。趱行！"
+        },
+        {
+          "character": "姚刚",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

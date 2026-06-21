@@ -1,0 +1,3459 @@
+{
+  "script_id": "70601110",
+  "title": "变羊记",
+  "alias": [],
+  "source": "萧长华剧本选",
+  "characters": [
+    {
+      "name": "贾妈",
+      "hangdang": "彩旦"
+    },
+    {
+      "name": "苍头",
+      "hangdang": "丑"
+    },
+    {
+      "name": "柳氏",
+      "hangdang": "旦"
+    },
+    {
+      "name": "陈慥",
+      "hangdang": "小生"
+    },
+    {
+      "name": "苏东坡",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "宋朝，陈慥（季常）因其妻柳氏禁其外出，缚之于房。苏东坡知之，遂命女仆贾妈假扮巫婆，以羊代陈慥，\n佯告柳氏陈慥变为羊；柳氏惧，乞巫婆读解，巫婆乃假称陈慥因被禁锁故变为羊。柳氏悔恨，陈慥乃得外出。",
+  "notes": "这是萧长华先生早年经常演出的杰作，现经重新整理订正。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏上。"
+        },
+        {
+          "character": "柳氏",
+          "type": "引子",
+          "text": "嗔伊怪伊，怎当他，无端生事。"
+        },
+        {
+          "character": "柳氏",
+          "type": "念",
+          "text": "东坡做事荒唐，不该诱我陈郎。终日在外闲游荡，为此严加提防。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "我，柳氏。配夫陈慥为妻，过门已有数载，倒也情投意合。因他近来结交了个 朋友名叫苏东坡，把他可就引诱坏了；每日在外游荡，时常夜不归宿。婆母临 终留有遗言，如我丈夫不守家规，有我婆母所用的藜杖禁戒于他。为此，新立 了个家规：他若出门之时，地上泼它半盆水；炉内点上三寸香，香不尽、水不 干就要回来；如若香尽水干，回来之后，用婆母的藜杖责打。今天告假出门拜 客去了。我看香已尽，水已干，怎么还不回来呢？问问苍头。 苍头快来！"
+        },
+        {
+          "character": "苍头",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头上。"
+        },
+        {
+          "character": "苍头",
+          "type": "念",
+          "text": "忽听主人叫，急忙就来到。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "参见大奶奶。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您叫我有什么事？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "相公上哪儿去了？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "相公……我不知道怹上哪儿去了。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "上外头找他回来。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "陈慥",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥上。"
+        },
+        {
+          "character": "陈慥",
+          "type": "念",
+          "text": "东坡待我恩义深，又怕娘子得知情。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "相公，您回来了。大奶奶叫我找您哪！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "苍头，娘子喜在那里，还是恼在那里？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "大奶奶呀，恼在那里！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "啊？恼在那里？待我转去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头喊。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "相公回来啦！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哼！可恶的奴才！待我进见。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头下。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "娘子在上，卑人拜揖。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "哪儿那么些个酸礼！你往哪儿去啦？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "这……出门拜客，略略回来晚了些。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你也知道回来晚了？去！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "瞧一瞧地皮上的水干了没有？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "还有些潮湿在这里。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "炉内的香呢？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "喏喏喏，娘子你来看，还有些余烟。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "咳，冤家呀！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "不好，又要挨打了。"
+        },
+        {
+          "character": "柳氏",
+          "type": "西皮摇板",
+          "text": "清晨何处漫游嬉？ 香尽水干把奴欺。 全然不把盟言记，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏拿棍打。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "娘子息怒，下次不敢了！"
+        },
+        {
+          "character": "柳氏",
+          "type": "西皮摇板",
+          "text": "先打藜杖再问你。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏打陈慥，同走小圆场，同归原位。陈慥跪。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎呀娘子呀！饶恕了罢，下次不敢了。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "我打也打不了许多，把藜杖拿开！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "是是是。饶恕了。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "打是不打了，我得罚你。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "罚卑人何来？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "罚你跪在那儿顶灯！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "顶灯，嗳！那是卑人的本等。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "跪在那儿，我给你拿灯去。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥跪。柳氏拿灯。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "陈郎，灯在此，顶在头上！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "动也不许动！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "动也不敢动。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "动一动要你的命。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "喂呦！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊，灭啦？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "不曾灭。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "洒啦？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "不曾洒，必周必正。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "我告诉你：好好顶着！我到房中打个盹儿，少时就来瞧你，你要稍有一点变动 啊，哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥怕。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "啊……"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你说我打你不打你？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "随你的便。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "哼！非但打你，加劲地打你！哎，气死我啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏下。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "咳！想我陈慥何日是了喔！"
+        },
+        {
+          "character": "陈慥",
+          "type": "西皮摇板",
+          "text": "满腹诗书有名望， 今日头上增了光！"
+        },
+        {
+          "character": "柳氏",
+          "type": "内白",
+          "text": "陈郎！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "柳氏",
+          "type": "内白",
+          "text": "下次还敢不敢了？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "下次是再也不敢了。"
+        },
+        {
+          "character": "柳氏",
+          "type": "内白",
+          "text": "那么，你将灯放下，就在书房休息吧！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "多谢娘子发放了！"
+        },
+        {
+          "character": "陈慥",
+          "type": "西皮摇板",
+          "text": "陈门家风太守旧， 母亲不该把藜杖留。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥睡。苍头蹓上。"
+        },
+        {
+          "character": "苍头",
+          "type": "念",
+          "text": "主人家里出故事儿，仆人从中有点劲儿。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "大奶奶放了我个差使，看守书房，带手儿监视相公，不准他自由行动，得我许 可才成。从中我也可以找点来路。我来看看。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头看。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "吆喝！睡了？呕呕他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头学女声。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "啊，陈郎！好大胆子，你又睡啦！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎呀，娘子来了，我不曾睡。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "记打！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "记打。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "记责！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "记责。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "哞儿！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "什么东西，怎么耍起我来了！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "耍您也不是陀偶。我告诉您：现如今哪，大奶奶命我看守书房，监视着您，出 入不得自由，如要出去得在我跟前告假，非我许可那才成呢！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "如此，我到新娘子那里欢乐。你在娘子跟前与我撒个谎儿，就说我身子不爽快， 外面洗澡去了。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "这个谎可不能白撒。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "等我回来，赏你二两银子。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "得，就那么办了。您什么时候回来？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "傍晚时候。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "千万可别过夜；那我可不负责任。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "傍晚时候一定回来。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "好咧，去您的。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "陈慥",
+          "type": "念",
+          "text": "宁在花下死，做鬼也风流。"
+        },
+        {
+          "character": "陈慥",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥下。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "得啦！"
+        },
+        {
+          "character": "苍头",
+          "type": "念",
+          "text": "人是叫我放了走，在家静等二两头。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏上。"
+        },
+        {
+          "character": "柳氏",
+          "type": "西皮原板",
+          "text": "轻移莲步出绣房， 淡抹脂粉巧梳妆。 薄情陈郎常游荡， 撇下奴家受凄凉。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "昨日我命陈郎顶灯，他必定改过前非，待我到书房瞧瞧他。 陈郎啊，陈郎！陈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏看，一愣。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊？他又上哪儿去啦？啊，我这样的家规他全然不怕，这可怎么好啊？嗯！ 苍头快来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头上。"
+        },
+        {
+          "character": "苍头",
+          "type": "念",
+          "text": "大奶奶高升叫，想必要糟糕。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "大奶奶什么事？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "什么事？相公呢？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我不知道。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊？命你看守书房，监视他，相公出去你怎么不知道？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "相公告诉我的：他身子不爽快，洗澡去。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "那你怎么不跟着他？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我跟去，家里交给谁呀？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "他什么时候去的？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "昨儿晚晌去的。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "今天一清早去的。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你们今天做的事，我都知道。趁早给我说实话！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是实话，不敢造谣言。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你也是个老贱骨头；不打，你是不说呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏打苍头。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "哎呦，您别打，我说实话。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "说！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是。不是。哪儿呀，是这么一回事儿。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "哪儿那么些废话！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "不是，我不说，您不知道哇；非我一说，您才知道。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "废话！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "不介，实话。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你说！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您别赶啰我！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "谁赶啰你啦？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我得跑！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你往哪儿跑？给我说。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是，说。您把棍儿搁下。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "干什么？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您这样我害怕。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "跟你就得这么办。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "唉唉唉，相公，我可顾不了您啦！ 我告诉您吧！相公现在有外心啦！他有个新娘子！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "新娘子家在哪儿？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "这我可不知道。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "什么，不知道？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏打。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "哎呦，这下知道啦，真疼！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "说！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是。我还是不知道。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你还是不说呀？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "不是我不说。相公没告诉我，我哪儿知道哇！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "起腻呀？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我没有去过，怎么知道住哪儿？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "呕，不知道住哪儿？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏打。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "拉屎院儿。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "大栅栏儿⑴。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "到底哪儿？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "哎呀，就在一拐弯儿。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "怎么着？一拐弯儿吗？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "咳咳！罢了哇，罢了！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我这二两算票了哇，票了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头下。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "我本当找上门去与他吵闹，又恐怕传扬出去：说我丈夫纳妾，妻不能容，把我 的名儿岂不败坏了吗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏寻思。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "有了，我就在这书房坐着，等着他，看他回来见我说些什么？咳！苏子瞻哪， 苏子瞻！我和你不世之仇也！"
+        },
+        {
+          "character": "柳氏",
+          "type": "西皮摇板",
+          "text": "苏子瞻我和你并无仇隙， 害得我夫妻们日夜分离。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥上。"
+        },
+        {
+          "character": "陈慥",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "陈慥",
+          "type": "西皮摇板",
+          "text": "昨夜晚与新娘交情相际， 怕也怕娘子晓又起是非。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎呀，昨晚我到新娘那里欢乐回来，又怕娘子知晓，待我先来偷觑偷觑。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "可气死我啦！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎呀，坏了！怎么娘子来到书房了？哎呀呀呀，这便怎么处……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥寻思。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎，丑媳妇难免见公婆，只管大胆进去。嗯，待我大、大、大、大胆进去。 哎呀！娘子起得早哇！可曾用过早膳？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你哪儿那么些个说的！你上哪儿去啦？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "这个……不瞒娘子说，昨日受了娘子的家法，身子不爽快，到外面洗澡去了！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "洗澡去了？啊，倒是异口同音，串通好啦！我告诉你：你们捏的窝窝儿我全都 知道；趁早给我说实话！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "卑人不曾瞒着娘子，作些什么事来。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你的脾气我是知道的。搬板凳去！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎，又要挨打了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥搬凳。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "取藜杖去！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥取藜杖。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "藜杖啊，藜杖！你就是我的对头！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "没那么些说的，拿过来吧！趴上去！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "我又招娘子生气了！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "我有话问你。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "讲在当面。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你想得倒不错，你给我趴上去吧！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "娘子，不要气坏了身体！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "不用你操心！趴好了。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "这些日子，你好快活呀，你好快活呀！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "喂呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥滚下。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎呀娘子呀！你看此物粗而又长，打在卑人身上，唉，岂不痛乎，岂不痛乎哉 哦！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "不用跟我犯醋糟。趴上去！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "是。娘子不要过力，恐累坏了身体。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "淡话！趴好了！再要是滚刑，我可是打了不算，重新再打。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "不滚。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你好快活呀，你好快活呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏打。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "喂呀！娘子不要动怒，卑人实说了吧。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "你给我说实话。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "只因苏子瞻，因我陈门无后……"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊，陈门有后无后，与他苏姓什么相干？这个老东西也是多管闲事。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏打。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "喂呦！这是他的好意呀！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "好意？我说的话你不听，他说的话你都听了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏打。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎呀，打坏了！从今向后，我听了娘子的言语就是了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏背供。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "哎呀，慢着。他如今有了外心，这可怎么好呢？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏想。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "嗯，有了。我自有法子治他。 陈郎起来！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "发放了。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "板凳搬开！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥搬。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "多谢娘子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏背手拿绳。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "陈郎，不是我狠心打你，近来我时常离不开你，可怎么好哇？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "娘子离不开卑人么？那是绝妙的了！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "呦，你脚底下是什么呀？你抬腿我瞧瞧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥抬腿，柳氏拴。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "这做什么？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "我把这根绳子拴在你的腿上，绳子头儿系在我的床上，拉动此绳，你便急至。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "主意都叫你想绝了！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "冤家呀！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "我成了冤家痞了！"
+        },
+        {
+          "character": "柳氏",
+          "type": "西皮摇板",
+          "text": "这桩事乃是你自作自受，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏下。"
+        },
+        {
+          "character": "陈慥",
+          "type": "西皮摇板",
+          "text": "这绳儿怎逃出娘子机谋？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏在内拉绳。"
+        },
+        {
+          "character": "柳氏",
+          "type": "内白",
+          "text": "陈郎快来。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "来了！"
+        },
+        {
+          "character": "柳氏",
+          "type": "内白",
+          "text": "陈郎快来！枕头掉啦！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "待卑人来拾。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥跌倒。"
+        },
+        {
+          "character": "柳氏",
+          "type": "内白",
+          "text": "不用了，去吧！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "什么要紧！枕头掉了，也要我来拾！苏子瞻哪，苏子瞻！你快来救我！"
+        },
+        {
+          "character": "陈慥",
+          "type": "西皮摇板",
+          "text": "哪里有活神仙将我搭救， 难中鱼怎能够脱去金钩。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏东坡上。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "念",
+          "text": "东壁图书府，西园翰墨林。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头上。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "哎，苏老爷！"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "你家相公呢？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "现在书房。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "来此已是。你且回避！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头下。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "季常，季常！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏东坡看。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "哦，在书房瞌睡。待我哄他一哄。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏东坡学女声。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "啊，陈郎，你在此打睡呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥惊。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "娘子！"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "啊嚏！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "啐！你怎么拿我作耍？"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "季常，你怎么不到新娘子那里？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "噤声！"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "为何？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "你看此绳，皆因新娘而起。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "哎呀，请转上，受我一礼。恭喜贺喜！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "喜从何来？"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "长绳系足，有红线牵引之喜，乃大吉之兆也！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎，不想法儿救我，反来取笑！"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "大家想来。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "啊，子瞻，我倒有一主意。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "什么妙计？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "你替了我吧！"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "我替你呀？我倒愿意替你，恐你家娘子她嫌我老啊！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "倒被他取笑了！"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "啊，季常。我倒有一主意：附耳上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏东坡耳语。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哦哦哦，此计甚妙，依计而行。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "告辞。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "不留。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "念",
+          "text": "二人定计二人知，"
+        },
+        {
+          "character": "陈慥",
+          "type": "念",
+          "text": "且莫走漏这消息。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "啊，季常，此计不妥，还少一内应。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "内应，有。 苍头快来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头上。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "相公有什么事？"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "苏大人有话对你言讲。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "好，我们外面去讲。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "子瞻，我不远送。"
+        },
+        {
+          "character": "苏东坡",
+          "type": "白",
+          "text": "你也送不了哇！"
+        },
+        {
+          "character": "苏东坡",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苏东坡拉苍头同下。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "子瞻真乃秒人也！"
+        },
+        {
+          "character": "陈慥",
+          "type": "西皮摇板",
+          "text": "灵机一动抽身走， 等候贾妈用计谋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥睡。内敲鼓声。"
+        },
+        {
+          "character": "贾妈",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈牵羊形上。"
+        },
+        {
+          "character": "贾妈",
+          "type": "念",
+          "text": "奉了大人命，假扮看香人。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我，贾妈。在苏宅佣工，只因苏大人有位朋友姓陈名慥，号叫季常，他老的太 太柳氏，不贤惠，不生不养，还不准他纳妾，昨天我们苏大人到那儿下棋去了， 回来跟我定了一计，教我到那儿这般如此，如此这般。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈行。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "此时也不便说，等到那个时候，大众自然而然也就明白啦。说话之间，到了。 我来瞧瞧。 门上有人儿没人儿？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头上，看。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "借问您一声：这儿是陈宅不是？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "不错。你是贾……"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "是呀，你怎么知道我姓贾？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我瞧你就不真嘛！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "别打哈哈，您得多帮忙。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "没错儿，咱们是一家人。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "你怎么还是讨便宜？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "谁叫你赶上这个节骨眼儿啦哪！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "那么你还得理啦？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "得理不让人。赶上就得算着。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "你招说呀？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "不客气，咱们俩干的都是招说的事儿。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我说，来的这个时候凑巧不凑巧？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "正合适。大奶奶歇晌觉哪，还没过来。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "那么，劳你驾，把羊拉进去。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "牵羊干什么？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "牵羊上树哇。你就不用问了！全仗它啦。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "你跟我来，相公在书房哪。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "相公醒醒。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "贾妈，你来了。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我来了。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "你是苏大人打发来的呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "是呀。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "此羊何用？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "这个羊是替您的。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "怎样替法？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "闲话少说。您先坐下，把绳子解下来，给羊腿拴上。老羊抬腿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羊形抬腿。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "您瞧，羊马比君子，它也通人性。您哪，就算变了它啦；它就算替了您啦。您 爱上哪儿玩去，就上哪儿玩去吧！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "我到新娘那里去了。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "那去您的！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "若能降伏住我家娘子，我赏十两银子。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "您又花钱。何在乎银钱？要是降伏住了太太，我比您还乐呢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥欲下。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "我到新娘子那里欢乐去了！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "您撒开了乐。我得反一宵哪。明日天亮为齐，您瞧羊一回去，耳朵放机灵点儿， 我这鼓连声一响，您哪赶紧可就回来呀！要是不回来，我可就“包子掉底儿， 漏出馅儿来了”！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "是是是，我记下了。 娘子啊，娘子！"
+        },
+        {
+          "character": "陈慥",
+          "type": "念",
+          "text": "任你撒下了天罗网，自有妙计能脱身。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥下。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "您瞧这个念书人，听见这个事儿，高兴直哪！ 哎，我说你也得回避回避呀！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我知道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头下。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "人是让我放走了，我也得藏藏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈下。柳氏拉绳上。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "陈郎，陈郎！哎呀，我的妈呀！怎么变了羊啦？ 苍头苍头，快来吧！"
+        },
+        {
+          "character": "苍头",
+          "type": "内白",
+          "text": "来啦来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头急上。"
+        },
+        {
+          "character": "苍头",
+          "type": "念",
+          "text": "忽听大奶奶高声嚷，想是为了那只羊。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "大奶奶什么事呀？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "了不得啦！相公变了羊啦！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "相公上了房啦？我搬梯子去！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "嗐！变了羊啦！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "相公变了羊啦？哪儿呢？ 呦！相公，您怎么变了羊啦？你赶紧快变回来吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈持太平鼓上。贾妈听。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "成了，嚷嚷上了。我响家伙呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈打鼓。柳氏听。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "苍头，你瞧瞧外头打鼓的，是干什么的？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "唉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头出门。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "老太太您这儿高乐哪？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我还高乐哪？里头怎么样了？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "熟了。叫我瞧打鼓的是干什么的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头故意高声。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "老太太，您在这儿打鼓干什么呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "你就说我是看香的。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "哦！ 大奶奶，外头打鼓的，是看香的。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "看香的是怎么回事儿呀？你问问去。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "唉。 老太太，看香是怎么回事儿呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "有什么家宅不安，奇巧古怪的事，我这么一瞧就知道，能化凶为吉；阴阳二宅 的事情我全成。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "怎么叫阴阳二宅？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我会过阴！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您会过瘾哪？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我又不抽烟，过什么瘾呢？阴间的事情！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "呕，阴间的事情。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "啊！阴间十殿阎罗，七十二司，十八层地狱，那个地方，我是常来常往。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "那个地方常来常往？你是人是鬼呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我是“活犄角”，会过阴！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "那就好极了！ 大奶奶，他是“活犄角”，会过阴！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "那你就把她请进来吧！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "大奶奶说，请您哪进去。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "是呀？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是呀。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "带路。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "黛鹿？还仙鹤哪！这就来劲儿呀？跟我走。哎我说，可是这么着，要是得下来， 咱们可是——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头比手式。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "这么着，二八拿银。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我说你是属刘海的，怎么老在钱上站着！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "做这个事，可不就是为了钱吗？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "苦不了你。有我的就有你的。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "这就是我们大奶奶。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "大奶奶在上，婆子这儿有礼啦。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "罢了，罢了。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "您叫我进来，有什么事？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "请妈妈看看，我家宅平安不平安。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "那么，我先看看您的宅子。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "妈妈，请吧！ 苍头，倒茶去！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是。烧开水哪。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "呦，您这是四合房。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "可不是吗。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "上房五间，三正两耳，六厢房。那是南厅，一间过道儿？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "这儿？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "书房。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "这儿呢？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "下房。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "哦，这是下房，这是厨房，这是茅房。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈指苍头嘴。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "茅房单盖在这儿啦？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "茅厕挨厨房。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "吃饱了就拉。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "呦，大奶奶。您这是坎宅巽门，倒是个吉宅。可惜呀！就是西房高了。左青龙、 右白虎，宁叫吉星高一丈，不叫凶星高一寸；西房高了，是白虎当头卧，无 灾必有祸。这房子是阴盛阳衰，家宅不安，主主人必出奇怪之事。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "可不是吗！我们相公，昨晚一宵的工夫，今天早晨就变了羊啦！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "这个羊在哪儿呢？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "这不在这儿哪吗。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "哎呦，这是你们相公变的。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您怎么知道啊？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "羊缺犄角嘛！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "妈妈，您有什么法子治呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "呦，我可没有法子。这得给老菩萨烧香许愿，我这么一看香，就知道吉凶祸福 啦。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "您都用什么？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "左不过是香蜡纸码。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "苍头预备。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "摆设香案。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "大奶奶，您可得一心秉正，志志诚诚的呀！诚则灵呀！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是，是！那没错儿！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "大老爷，劳您驾，打点水来。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "干什么呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我洗洗手。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "好，刚掏的缸，五行缺水。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "没水不要紧，我有净身咒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈吐唾沫。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "你怎么拿唾沫洗手啊？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "缺者为贵啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈祷念。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您这是骂谁哪？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "别胡说！我这儿咀念哪！祷告地藏王菩萨，怹管这阴间的事情。少说话，我要 上香啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈磕头。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "大奶奶，您来磕个头！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "您起来，我给您看看香。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏立起，贾妈看香。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "哎呀，这口怨气呀！"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "在哪儿呢？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "就在香上哪。"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "我怎么瞧不见哪？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "你们肉眼凡胎，哪儿看得见！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您是什么眼呢？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我是狗眼！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "莫怪瞧人低哪。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "嗯，还好，有主香，有救星。大奶奶，您再磕头吧！我叫您起来再起来！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "唉，我磕头。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈欲敲鼓，又放下。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "不好，我得走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏、苍头同拦。"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "您干什么去？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "忘了一件事！"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "什么事？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "落下个帮腔的。"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "帮腔的在哪儿呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "在通州。"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "那来不及啦！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "没有他不成啊。"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "他是谁？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "不是外人，是……是我的外孙子，一叫就来！"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "道儿远！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我腿快。"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "那也来不及。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "没有帮腔的可不行。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "有什么要紧用处吗？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "倒是没什么，只要我唱他能答个碴儿就成。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "那么我替他成不成？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "那敢情好，我这先恕个罪。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "这恕什么罪？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "您暂属我的外孙子。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "开玩笑！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "大奶奶，再跪下。我叫您起来，您再起来。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏跪。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "帮腔的，你也得跪下！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我还得跪下？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头跪。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "志诚则灵吗！如同你们家的事！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我们家没这事情。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我唱什么，你接什么，不许错了！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是啦，错不了！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "大奶奶，要一心秉正，求神降临，那神仙可就来了！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是是。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "帮腔来！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "在这儿哩！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈敲鼓。"
+        },
+        {
+          "character": "贾妈",
+          "type": "唱",
+          "text": "清晨起来一炉香， 谢天谢地谢三光。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "哎嘿，帮腔的！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "在这儿呢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈敲鼓。"
+        },
+        {
+          "character": "贾妈",
+          "type": "唱",
+          "text": "一请城隍和土地， 二请门神和灶王； 一求阖家平安好， 二求逢凶化吉祥。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "哎，帮腔的！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "唉，看香的！瞧瞧吧！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "别瞧啦，大奶奶，您快起来吧！神仙要来了。 帮腔的，快把桌子搬开！ 大奶奶，神来了，一附体，不是文就是武，您可别骇怕！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "帮腔的，你要留神哪！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "烧香啊！泼水啊！神来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈作呆。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "老太太，老太太！怎么不言语了？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "妈妈，妈妈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈喷嚏。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "啊嚏！啊嚏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈神气。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "你是柳氏呀？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊，柳氏。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "你是脏头？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "唉！我是苍头！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "反了！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "谁反了？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "反了哇！"
+        },
+        {
+          "character": "贾妈",
+          "type": "扑灯蛾",
+          "text": "大骂柳氏太不良，太不良！欺压丈夫陈季常，陈季常。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "这是怎么啦？"
+        },
+        {
+          "character": "贾妈",
+          "type": "扑灯蛾",
+          "text": "阎王造你三更死，谁敢留人——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈敲锣鼓。"
+        },
+        {
+          "character": "贾妈",
+          "type": "扑灯蛾",
+          "text": "到五梆？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "我的妈吆！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "将你拿到阴曹地府，硾捣、磨研、下油锅。上刀山。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "吓死我了！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "噫嘻嘻，啊哈哈，哇呀呀呀……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈坐。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "怎么，又坐下了？老太太！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈哭。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "呦喝，怎么这么委屈呀？你是谁？八成儿换了人啦？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "您是谁呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "扬州白",
+          "text": "我是你婆婆到喽！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "老太太来了！凑热闹！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "婆婆！"
+        },
+        {
+          "character": "贾妈",
+          "type": "扬州白",
+          "text": "柳氏呀！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "婆婆！"
+        },
+        {
+          "character": "贾妈",
+          "type": "扬州白",
+          "text": "只因你不生不养，不许你丈夫纳妾，阎君大怒，将你丈夫变了只绵羊，叫你在 阳间也是受苦。喂，吾的乖乖来，嘿……"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "求婆婆开恩，叫我丈夫即刻还阳才好！"
+        },
+        {
+          "character": "贾妈",
+          "type": "扬州白",
+          "text": "无妨事，待吾回去，哀告阎君，叫你丈夫一百天还阳就是了。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "哎，即刻还阳才好哪！"
+        },
+        {
+          "character": "贾妈",
+          "type": "扬州白",
+          "text": "吾有两句言语，你要牢牢紧记。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是。婆婆您说吧。"
+        },
+        {
+          "character": "贾妈",
+          "type": "扬州白",
+          "text": "“不孝有三，无后为大”。从今以后，你要痛改前非，你要准他纳妾的，如 其不然，今次变羊好治呀，下次变驴就没办法啦！啊，你要记下了，我要去啦！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "婆婆别走，我还有话说呢！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "老太太，老太太！怎么碴儿，又不言语了？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "哎呦，累坏了！怎么周身不得劲呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈看。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "呦！怎么，大奶奶跪在这儿干什么呀？快起来！快起来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏站。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "您坐下吧。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "妈妈受累啦！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "腰酸腿疼。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "刚才是怎么回事？又哭又闹，水都闹浑了！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我呀，过阴来着。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "都上哪儿啦？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "进了酆都城，见了十殿阎罗，游了十八层地狱，七十二司，我都去到啦！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您都看见什么啦？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "好怕人啦；上刀山的；下油锅的；硾捣磨研的；黑狗舔血，真吓死人哪！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您还看见什么啦？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "呦，可不是吗，过金银桥，我看见这儿的老太太啦！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊啊，怎么个打扮？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "老太太是蛮装扮。"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "不错不错。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "瘦瘦的。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "细高条儿！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "有多高？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "幌杆似的。"
+        },
+        {
+          "character": "柳氏、苍头",
+          "type": "同白",
+          "text": "哪有那么高哇！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "哦哦哦是啦，这位老太太在头里走，咱们老太太在后头走，胖胖的，矮矮的， 跟那墩滚子似的。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "哪……"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "咳，大奶奶，阴间过金银桥的人多，我一时哪儿记那么清楚哇。我倒是看见咱 们这儿的相公啦！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊，怎么样儿呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "穿着一件长衫。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊啊。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "头戴一顶如意头的帽子。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是的是的。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "脚下蹬着两只靴子。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "那更对了！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "他还揪着我呢！说：“你把我带回去！”"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "您怎么不把他带回来呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我可不敢带回来，咱们这儿的老太太在那儿许了愿啦！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "许什么愿呢？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "要是叫相公还阳啊，得花衬钱。七块钱一绰儿，七七四十九绰儿。您到这个月 十五，预备整桌供，一百份黄钱，到城隍庙烧香、献海灯油，就交给我送了去 就成。"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是。我样样依从。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "大奶奶，您还得斋戒沐浴，一步一叩，打您卧房磕到书房。心里默念着“改过 前非，相公还阳。”他就回来了。可是，等我请您再来，千万可别偷着瞧；一 冲着着，哪可就不能还阳啦！可别怪我不灵！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "是。诸事全仗妈妈啦，我沐浴净身去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏下。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "您可吃素啊，我请您再来。 得，这块算熟了！我说不差儿什么，你干你的去。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我干什么？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "你先把羊给我送回去。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我差点儿忘了。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "给相公送个信：这儿诸事已毕了，天是亮了，耳朵放机灵点儿，我这个鼓连声 一响，赶紧就回来，不得有误！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "领法旨！ 老羊跟我走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "苍头拉羊形下。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "待我作起法来！"
+        },
+        {
+          "character": "贾妈",
+          "type": "念",
+          "text": "赫赫扬扬，日出东方，千奇百怪，化为吉祥。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "吾奉太上老君：急急如律令勅！响起家伙来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "响鼓。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "相公相公，快快回宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥急上。苍头上。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "贾妈，可曾降伏住娘子？我来了。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "不降住，也不请您哪！呦，闲话少说，先把您的腿拴上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈拴。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "有两句要紧要紧的话，您要记住了！您先趴在这儿装睡，他们叫您，您千万千 万可别应声。多咱我叫您，您再说话；就说：“啊娘子，我母亲言道：‘不孝 有三，无后为大’从今以后，我是要纳妾的。”"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "她若不允？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "她要不允，你就变羊啊！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "怎样的变法？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我教给你：两手往这儿一夹，脑袋往下一扎，咩的一声，就算变羊啦！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "我记下了。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "苍头，请你们大奶奶接相公来呀！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "哦。 大奶奶有请！"
+        },
+        {
+          "character": "柳氏",
+          "type": "内白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏上。"
+        },
+        {
+          "character": "柳氏",
+          "type": "吹腔",
+          "text": "清晨祝告把香烧， 一步一叩罪孽消。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柳氏磕头。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "苍头，你也磕。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我呀，甭磕啦。 相公回来了？相公，别回来就睡呀！醒醒！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "哎呀，陈郎醒醒！ 妈妈，我们怎么叫不应他呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "那是叫不应。你们都要叫应了，我们看香的吃谁去？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "吆喝，您还有一招儿呢！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我还没给他开门，哪儿能回来？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "那不是人在这儿哪吗？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "人在这儿呀，魂在那儿哪！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您赶紧开门吧！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "瞧着！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈写。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "得，写完了。认识不认识？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "您这也叫字？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "怎么不是字？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "什么字呀？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "这是“佛”字。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "没念过这本书，您念给我们听听。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "听着！这是陈门柳氏宗亲三代。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "还有这么些事儿？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "这是：“丈夫季常，变了绵羊；准你纳妾，不要装腔。咹嘛呢吧咪哄勅”！相 公醒醒！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "哎呦！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "你们瞧怎么样？"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "真有您的！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "老太太真灵！"
+        },
+        {
+          "character": "陈慥",
+          "type": "吹腔",
+          "text": "深感子瞻有才能， 降伏娘子得脱身。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖哭相思〗。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "啊，娘子呀！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "陈郎啊……"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "大奶奶，您可记着那个话呀，可怎么说怎么办哪！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "啊啊啊，我都记着呢。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "啊，娘子，从今以后，不准乱用家规，欺压与我，卑人再与朋友出游，你不可 再来多管！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "还是要纳妾呀？那可不能。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "啊，不能？"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "不能！"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "不能哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥学羊叫。"
+        },
+        {
+          "character": "陈慥",
+          "type": "白",
+          "text": "咩！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "了不得，又要变羊！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "我的妈！你可别变羊！我不管，我再也不管了。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "大奶奶，我走了！"
+        },
+        {
+          "character": "柳氏",
+          "type": "白",
+          "text": "苍头，给妈妈拿十两银子！送她出去。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "又让您花钱啦，谢谢您哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈慥、柳氏同下，苍头取银。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "哎，五两一包，两包，交给您哪！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "得，你一包我一包。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "别价，说的是二八呀！怎么改了“对撅”啦？太多了！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "呦！这日子可要好过了。银子会有嫌多了的啦！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "不是呀，好拉下次啊！"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "下次啊？没那事儿！迷魂掌就一回，今儿个这个事儿就算蒙着了。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "谁说不是哪！您走哇？"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "我走了。"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "我给您叫车去。"
+        },
+        {
+          "character": "贾妈",
+          "type": "白",
+          "text": "甭价，我“骑路”啦！"
+        },
+        {
+          "character": "苍头",
+          "type": "白",
+          "text": "那我就不送了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾妈、苍头自两边分下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        },
+        {
+          "character": "苍头",
+          "type": "stage",
+          "text": "—————————— ⑴读“大市赖儿”音。"
+        }
+      ]
+    }
+  ]
+}

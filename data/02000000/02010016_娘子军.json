@@ -1,0 +1,612 @@
+{
+  "script_id": "02010016",
+  "title": "娘子军",
+  "alias": [],
+  "source": "《国剧大成》",
+  "characters": [
+    {
+      "name": "韩世忠",
+      "hangdang": "老生"
+    },
+    {
+      "name": "梁红玉",
+      "hangdang": "旦"
+    },
+    {
+      "name": "韩彦直",
+      "hangdang": "武生"
+    },
+    {
+      "name": "金兀术",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "韩世忠为天下都招讨领兵大元帅，镇守海口，金兀术带兵来攻。韩世忠认为金兵水战人多势众，恐难以取胜。\n与其夫人梁红玉商议对策，梁红玉谓但放宽心，前出迎战。梁红玉随即传令，后退者斩首示众。未几，韩\n世忠战败退下，梁红玉即登高擂鼓，亲自带女兵上阵。卒将金兵击退，金兀术弃舟登陆而逃。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭巡上，起霸。"
+        },
+        {
+          "character": "郭巡",
+          "type": "念",
+          "text": "大将生来胆气豪，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李义上，起霸。"
+        },
+        {
+          "character": "李义",
+          "type": "念",
+          "text": "排兵布阵贯略韬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "任尚上，起霸。"
+        },
+        {
+          "character": "任尚",
+          "type": "念",
+          "text": "腰挂弯弓雕翎箭，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "暴永上，起霸。"
+        },
+        {
+          "character": "暴永",
+          "type": "念",
+          "text": "斩将夺旗立功劳。"
+        },
+        {
+          "character": "郭巡、李义、任尚、暴永",
+          "type": "同白",
+          "text": "俺──"
+        },
+        {
+          "character": "郭巡",
+          "type": "白",
+          "text": "郭巡。"
+        },
+        {
+          "character": "李义",
+          "type": "白",
+          "text": "李义。"
+        },
+        {
+          "character": "任尚",
+          "type": "白",
+          "text": "任尚。"
+        },
+        {
+          "character": "暴永",
+          "type": "白",
+          "text": "暴永。"
+        },
+        {
+          "character": "郭巡",
+          "type": "白",
+          "text": "众位将军请了。"
+        },
+        {
+          "character": "李义、任尚、暴永",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "郭巡",
+          "type": "白",
+          "text": "元帅升帐，我等两厢伺候。"
+        },
+        {
+          "character": "李义、任尚、暴永",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂、四上手、四大刀手、中军引韩世忠同上。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "点绛唇",
+          "text": "将士英豪，儿郎虎豹，干戈扫，报效宋朝，令出如山倒。"
+        },
+        {
+          "character": "郭巡、李义、任尚、暴永",
+          "type": "同白",
+          "text": "参见元帅。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "站立两厢。"
+        },
+        {
+          "character": "郭巡、李义、任尚、暴永",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "韩世忠",
+          "type": "念",
+          "text": "宝剑分开龙虎斗，兵提按下鬼神愁。马踏山河立地起，谈笑男儿觅封侯。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "本帅，韩世忠。大宋为臣，官拜天下都招讨领兵大元帅，镇守海口。金兵打下 战书，海口大战。 众将官！"
+        },
+        {
+          "character": "郭巡、李义、任尚、暴永",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "兵往战船去者。"
+        },
+        {
+          "character": "郭巡、李义、任尚、暴永",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蓝文堂、四下手、四番将、四小番同上，同站门，金兀术上。〖牌子〗。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "某，昌平王、扫宋大元帅完颜兀术是也。"
+        },
+        {
+          "character": "龙虎大王",
+          "type": "白",
+          "text": "俺，龙虎大王。"
+        },
+        {
+          "character": "铁龙",
+          "type": "白",
+          "text": "铁龙。"
+        },
+        {
+          "character": "铁虎",
+          "type": "白",
+          "text": "铁龙。"
+        },
+        {
+          "character": "铁豹",
+          "type": "白",
+          "text": "铁豹。"
+        },
+        {
+          "character": "铁熊",
+          "type": "白",
+          "text": "铁熊。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "奉了父王之命，夺取宋室江山。昨日炮炸两狼关，约定海口大战。 呔，众巴图鲁！"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "催舟。 （二金船夫同上，金兀术、四蓝文堂、四下手、四番将、四小番同登舟。二宋船夫引韩世忠、郭巡、李义、 任尚、暴永、四红文堂、四上手、四大刀手同上。会阵，水战。金兀术、四蓝文堂、四下手、四番将、四小 番同败下。）"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "回船。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩彦直上，起霸。"
+        },
+        {
+          "character": "韩彦直",
+          "type": "念",
+          "text": "小小战马如欢龙，百万军中逞威风。虽无蟒袍和玉带，也要跨马定江洪。"
+        },
+        {
+          "character": "韩彦直",
+          "type": "白",
+          "text": "俺，领兵大元帅之子韩彦直。爹爹出战金兵，待俺出营观看者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。韩彦直下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（二宋船夫引韩世忠、郭巡、李义、任尚、暴永、四红文堂、四上手、四大刀手同上，同下船。二宋船夫同"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "下。郭巡、李义、任尚、暴永同下。）"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "下面伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四红文堂、四上手、四大刀手同下。四女兵、四女将引梁红玉同上。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "引子",
+          "text": "操戈喧天震地雷，不知何日消停。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "夫人。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "老爷。"
+        },
+        {
+          "character": "韩世忠、梁红玉",
+          "type": "同白",
+          "text": "请坐。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "老爷趁此得胜，为何收兵回来？"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "想金兵水战厉害，下官难以取胜。为此与夫人商议退兵之计。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "老爷但放宽心，倘有后退不前者，斩首示众。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "全仗夫人，就请传令。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "女将们！"
+        },
+        {
+          "character": "四女将",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "传令下去：今日交战，闻鼓而进；若有退后，斩首示众！"
+        },
+        {
+          "character": "女将甲",
+          "type": "白",
+          "text": "得令！ 下面听者！"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "女将甲",
+          "type": "白",
+          "text": "夫人有令：今日交战，闻鼓而进。"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "女将甲",
+          "type": "白",
+          "text": "若有退后者，斩首示众！"
+        },
+        {
+          "character": "众人",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "女将甲",
+          "type": "白",
+          "text": "传过令了。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "夫人后面歇息。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "请老爷出战。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四女兵、四女将、梁红玉同下。四红文堂、四上手、四大刀手、中军同暗上。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "传众将进帐。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "众将进帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郭巡、李义、任尚、暴永、韩彦直同上。"
+        },
+        {
+          "character": "郭巡、李义、任尚、暴永、韩彦直",
+          "type": "同白",
+          "text": "有何将令？"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "众将官，一齐登舟出战去者！"
+        },
+        {
+          "character": "郭巡、李义、任尚、暴永、韩彦直",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二宋船夫同暗上。众人同走圆场。金兀术、四蓝文堂、四下手、四番将、四小番同上。会阵。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "呔！番贼呀，番贼！ （起打。〖风入松〗。对阵。韩世忠、四红文堂、四上手、四大刀手、郭巡、李义、任尚、暴永、韩彦直同 败下。金兀术、四蓝文堂、四下手、四番将、四小番同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四女兵、四女将同上，同拉排场。梁红玉上。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "粉蝶儿",
+          "text": "桴鼓亲操， 满江干，桴鼓亲操。 列艨艟，绳练绕， 听军中喊震天高。 敢小觑， 女罗刹怀藏奇略。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "女将们，听俺吩咐！"
+        },
+        {
+          "character": "梁红玉",
+          "type": "粉蝶儿",
+          "text": "勇千军力掳江潮， 逞威风，秉赤胆，保定了大宋国号。 （梁红玉上高台。三通鼓。纱帽牌子。韩世忠、四红文堂、四上手、四大刀手、郭巡、李义、任尚、暴永、 韩彦直、金兀术、四蓝文堂、四下手、四番将、四小番同水战。韩世忠、四红文堂、四上手、四大刀手、郭 巡、李义、任尚、暴永、韩彦直同败下，金兀术、四蓝文堂、四下手、四番将、四小番同追下。）"
+        },
+        {
+          "character": "四女将",
+          "type": "同白",
+          "text": "启夫人：老爷败下阵来。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "闪开了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁红玉下高台。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "石榴花",
+          "text": "遥望一江风浪拍天高， 战贼子女将逞雄骁。 又只见一掠军校， 鼓角声高。 黄莺儿阵阵列翅飘摇， 猛听得马嘶风，猛听得马嘶风， 战云杀气多凶闹。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "白",
+          "text": "你等操演枪法，随夫人出战去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梁红玉下。四女兵、四女将同操演，操演毕，梁红玉上，起霸。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "石榴花",
+          "text": "非是俺出战挽枪，哪得尽扫， 挽绣甲，按鸾刀，抖凤翅，多俊俏。 恰似女天魔下云霄， 只看俺豪气凌云把贼扫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "起水战，四合如意。二金将同上，对垒。梁红玉上，挑金兀术，金兀术弃船上岸败下，梁红玉追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四女将、梁红玉同上。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "黄龙滚",
+          "text": "气昂昂直贯云霄， 气昂昂直贯云霄， 闹嚷嚷万马如潮。 恨金酋无端启衅， 恨金酋无端启衅， 女雄兵甚勇骁， 恼得俺奋起雄心战这遭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "锣鼓抽头。"
+        },
+        {
+          "character": "梁红玉",
+          "type": "黄龙滚",
+          "text": "狭路上难恕饶， 一任你马壮英豪， 遇虎穴黄龙直捣。 （梁红玉下。打连环，单对单起，活羊各接攒，金兀术单对接总攒，韩世忠、梁红玉、四红文堂、四上手、 韩世忠、四红文堂、四上手、四大刀手、郭巡、李义、任尚、暴永、韩彦直同追下。梁红玉收场，挖门，追 下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金兀术、四蓝文堂、四下手、四番将、四小番同上，同挖门。"
+        },
+        {
+          "character": "金兀术",
+          "type": "白",
+          "text": "众巴图鲁，弃舟登岸而逃！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同登岸，同败下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩世忠、四红文堂、四上手、四大刀手、郭巡、李义、任尚、暴永、韩彦直同追上。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "韩彦直听令！"
+        },
+        {
+          "character": "韩彦直",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "命你带领三千人马，抢他战船，不得有误！"
+        },
+        {
+          "character": "韩彦直",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩彦直下。"
+        },
+        {
+          "character": "韩世忠",
+          "type": "白",
+          "text": "今日一战，全仗夫人高见。 人马回营！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同斜门，同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

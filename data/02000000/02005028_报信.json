@@ -1,0 +1,559 @@
+{
+  "script_id": "02005028",
+  "title": "报信",
+  "alias": [],
+  "source": "《国剧大成》",
+  "characters": [
+    {
+      "name": "秦琼",
+      "hangdang": "生"
+    },
+    {
+      "name": "张紫艳",
+      "hangdang": "旦"
+    },
+    {
+      "name": "杨林",
+      "hangdang": "净"
+    },
+    {
+      "name": "贺芳",
+      "hangdang": "付"
+    },
+    {
+      "name": "上官仪",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "歌姬张紫艳闻大王杨林将杀秦琼，因女扮男装，冒充差官，令秦琼速逃往潼关。秦琼恐累张姬，逡巡不肯遽\n逃。张紫艳乃自刎，绝秦琼顾虑，秦始逃往潼关。大王杨林派贺芳来杀秦琼，已早逃远，不能追及云。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张紫艳上。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "索南枝",
+          "text": "如簧口心性乔， 牢笼计成兴祸苗。 蓦地假妆着， 潜行透出风声杳。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "奴家张紫艳。因见贺芳谗言，要害秦将军性命，因此奴家呵！"
+        },
+        {
+          "character": "张紫艳",
+          "type": "索南枝",
+          "text": "夤夜间不惮途路遥， 怕逢人识奴旧貌。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "这里已是营门首了。 有人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "将官上。"
+        },
+        {
+          "character": "将官",
+          "type": "念",
+          "text": "上府传金札，前军拥铁衣。"
+        },
+        {
+          "character": "将官",
+          "type": "白",
+          "text": "是哪个？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "将官见。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "奉大王钧旨，要见秦将军。"
+        },
+        {
+          "character": "将官",
+          "type": "白",
+          "text": "请少待。 老爷有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼上。"
+        },
+        {
+          "character": "秦琼",
+          "type": "引子",
+          "text": "令严鼓角三更静，夜宿貔貅万灶炊。"
+        },
+        {
+          "character": "将官",
+          "type": "白",
+          "text": "大王钧旨，有差官要见。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "道有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "将官允。"
+        },
+        {
+          "character": "将官",
+          "type": "白",
+          "text": "道有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张紫艳进见。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "尊官何来？"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "我奉大王钧旨，着将军速备鞍马器械，是夜往潼关公干。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "快备鞍马伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "将官允，下。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "大王还有要紧话当面吩咐。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "如此尊官请。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "秦琼",
+          "type": "索南枝",
+          "text": "只见萤萤月光照， 清霜透征袍。 凭着俺追风单骑， 千里宵征，一羽如青鸟。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "秦琼！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "啊，你为何叫我的名字？"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "你往哪里去？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "到大王营中去。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "你要往大王营中去么？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "张紫艳",
+          "type": "索南枝",
+          "text": "这是鬼门关叫伊魂魄飘， 若不早回头，只怕你命难保。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "尊官何出此言？"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "你可晓得大反山东之事么？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "噤声！哪个反了山东？"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "就是贺芳，前日撺掇大王，把程达、尤金监禁齐州狱中，谁知他连结了李密、 王伯当，焚烧仓库，拒杀官兵，都往瓦岗寨去了。齐州伸文告急，贺芳又在大 王面前，说你暗通线索。必须先斩秦琼，然后发兵剿灭贼党。为此大王大怒， 顷刻要把你斩首了！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎呀，望尊官救我一救。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "我哪里是什么尊官！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "你是何人？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张紫艳脱衣帽。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "奴家就是歌姬张紫艳！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "原来就是小娘子！"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "喏奴家呵！"
+        },
+        {
+          "character": "张紫艳",
+          "type": "索南枝",
+          "text": "怎忍见英雄汉餐宝刀， 因此乔妆悄然告尔曹。"
+        },
+        {
+          "character": "张紫艳",
+          "type": "夹白",
+          "text": "你把这支令箭呵！"
+        },
+        {
+          "character": "张紫艳",
+          "type": "索南枝",
+          "text": "急忙奔出潼关， 急去偷生好！"
+        },
+        {
+          "character": "秦琼",
+          "type": "索南枝",
+          "text": "感深恩天样高， 倘重生，粉身报。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "俺秦琼就此去也！"
+        },
+        {
+          "character": "秦琼",
+          "type": "索南枝",
+          "text": "鳌鱼脱金钩， 逃生敢惮劳， 几次行止还止。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "啊小娘子！"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "你去了怎么又转来？"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "小娘子我去便去了。"
+        },
+        {
+          "character": "秦琼",
+          "type": "索南枝",
+          "text": "岂可贻累姣娥， 反惹人嘲笑。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "俺秦琼为朋友而死，理所当然，岂可累及小娘子？于心何忍也！罢，不如仍旧 回营，凭大王处置便了！"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "将军此身架海擎天，关系非小。奴家一身与草木同腐，何必虑及啊！必须当面 决断，你才放心！"
+        },
+        {
+          "character": "张紫艳",
+          "type": "索南枝",
+          "text": "把微躯委短蒿， 女英雄万年表！"
+        },
+        {
+          "character": "张紫艳",
+          "type": "白",
+          "text": "将军你看那边官兵来了！"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "在哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张紫艳自刎，下。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "呀，你看小娘子自刎了！哎呀小娘子吓！"
+        },
+        {
+          "character": "秦琼",
+          "type": "扑灯蛾",
+          "text": "看英风天与齐，看英风天与齐， 尽节人争道，含笑赴青蒿， 愧我须眉苟活也！"
+        },
+        {
+          "character": "秦琼",
+          "type": "夹白",
+          "text": "小娘子吓！"
+        },
+        {
+          "character": "秦琼",
+          "type": "扑灯蛾",
+          "text": "鞠躬拜倒， 待他年墓碣重标， 今日里权堆荒草。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼拭目。"
+        },
+        {
+          "character": "秦琼",
+          "type": "扑灯蛾",
+          "text": "痛孤魂，香醪一滴有谁浇。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "且住，小娘子已死，哭也无益。不免骑了黄骠马，连夜奔出潼关便了。"
+        },
+        {
+          "character": "秦琼",
+          "type": "念",
+          "text": "我双手撇开生死路——"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "也罢！"
+        },
+        {
+          "character": "秦琼",
+          "type": "念",
+          "text": "一身跳出是非门。"
+        },
+        {
+          "character": "秦琼",
+          "type": "白",
+          "text": "哎呀小娘子吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "秦琼悲下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵卒引杨林同上。"
+        },
+        {
+          "character": "杨林",
+          "type": "引子",
+          "text": "日月依龙德，风云挟豹韬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨林上高座。贺芳急上。"
+        },
+        {
+          "character": "贺芳",
+          "type": "念",
+          "text": "忙将破胆惊天事，报与金枝玉叶人。"
+        },
+        {
+          "character": "贺芳",
+          "type": "白",
+          "text": "大王在上，贺芳打躬交令！"
+        },
+        {
+          "character": "杨林",
+          "type": "白",
+          "text": "秦琼拿到了么？"
+        },
+        {
+          "character": "贺芳",
+          "type": "白",
+          "text": "贺芳奉大王钧旨去拿秦琼。说他昨夜黄昏，有一尊官手持令箭，说奉大王将令， 差往潼关公干，连夜走了！"
+        },
+        {
+          "character": "杨林",
+          "type": "白",
+          "text": "那军官一定是奸细，查出一同处斩！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贺芳允。上官仪急上。"
+        },
+        {
+          "character": "上官仪",
+          "type": "念",
+          "text": "别号人中杰，威分阃外司。"
+        },
+        {
+          "character": "上官仪",
+          "type": "白",
+          "text": "上官仪打躬交令！"
+        },
+        {
+          "character": "杨林",
+          "type": "白",
+          "text": "上官仪回来了？"
+        },
+        {
+          "character": "上官仪",
+          "type": "白",
+          "text": "是，回来了。"
+        },
+        {
+          "character": "杨林",
+          "type": "白",
+          "text": "命你郊外巡缉，怎么样了？"
+        },
+        {
+          "character": "上官仪",
+          "type": "白",
+          "text": "奉命郊外巡哨，见一被杀妇人，身穿男子衣帽。仔细检验，原来是歌姬张紫艳。 特来报知。"
+        },
+        {
+          "character": "杨林",
+          "type": "白",
+          "text": "啊！一定是这贱人窃听消息，盗孤令箭，报知秦琼。可恼吓可恼！ 上官仪听令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "上官仪允。"
+        },
+        {
+          "character": "杨林",
+          "type": "白",
+          "text": "取我令箭一支，赶上秦琼。说孤毫不见怪，唤他转来，还要重用。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "上官仪允。"
+        },
+        {
+          "character": "上官仪",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "上官仪",
+          "type": "念",
+          "text": "一心忙似箭，加鞭走如飞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "上官仪下。"
+        },
+        {
+          "character": "贺芳",
+          "type": "白",
+          "text": "贺芳启上大王：上官仪此去，秦琼决不转来。"
+        },
+        {
+          "character": "杨林",
+          "type": "白",
+          "text": "就看你带五百铁骑擒回便了。"
+        },
+        {
+          "character": "贺芳",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贺芳下。杨林下高座。"
+        },
+        {
+          "character": "杨林",
+          "type": "白",
+          "text": "贺芳不是秦琼对手，待孤亲自走遭。秦琼秦琼！"
+        },
+        {
+          "character": "杨林",
+          "type": "念",
+          "text": "这回好似泰山来压卵，须知螳臂怎当车！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨林、四兵卒同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

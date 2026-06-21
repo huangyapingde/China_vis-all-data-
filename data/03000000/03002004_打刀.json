@@ -1,0 +1,3525 @@
+{
+  "script_id": "03002004",
+  "title": "打刀",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "吴衍能",
+      "hangdang": "丑"
+    },
+    {
+      "name": "吴妻",
+      "hangdang": "花旦"
+    },
+    {
+      "name": "赵匡胤",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "《打刀》是一个小型闹剧。故事是赵匡胤流浪之时，行为无赖，在铁匠吴衍能家定制钢刀；吴衍能夫妻忙碌\n一夜将刀打成。赵匡胤因无钱付价，反将吴衍能夫妻杀害逸去。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": "赵匡胤",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "量小非君子，无毒不丈夫。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "我赵匡胤。自从杀了玉叶全家，有心海走天涯，只是手中缺少兵刃。不免去到 吴衍能那里打把钢刀，也好防身。就此前往。行行去去，去去行行，来此已是。 吴衍能开门来！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴衍能上。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "念",
+          "text": "掇弄穷，掇弄穷，腰里系根耍钱绳。有人问我名和姓，我就是铁匠吴衍能。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "开门来！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "为人不做亏心事，半夜不怕鬼叫门。谁呀？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "我是你大爷。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "巧啦，我有叔叔，没大爷。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "我是你赵大爷。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "卖菜的赵瘸子？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "不是。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "挑水的赵秃子？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "不是。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你是谁？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "赵匡胤赵大爷。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎呀，打鬼，打鬼！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "何言打鬼？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "闻听人说你死啦，怎么跑到我这显魂来啦？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "江湖之上，仇人甚多，咒骂于我。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "会没把你骂死。别忙！赵大爷，有个试验，他的胡子赛钢锥。你打门缝递进几 根来，我一摸就知道啦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你且摸来。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不错，是的。进来。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你还未曾开门。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我差点忘啦。等着我开门。稀啦哗啦，吱吱吜吜，瓜哒本儿！您请进！你就坐 在这门攒上吧。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "怎么讲话？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你干什么来啦？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "打刀来了。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎呀慢着。上三年在我这里打了把钢刀，一个子儿没给；今儿个又来打刀来啦。 有啦！拿话把他支走得啦。 赵大爷！实不瞒您说，现如今年头萧索，地皮紧，买卖我一个人做不了啦，我 又搭了伙计啦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哦！你搭了伙计了？哈哈哈……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "别处打吧！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "叫你那伙计来见我。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "得！我只望拿话把他支走，没想到他犯死心眼。这三更半夜的，我上哪儿给他 找伙计去哪？这可坏啦！有了，把我们家里的叫出来，叫她先给我当伙计。我 就是这个主意。 家里的！"
+        },
+        {
+          "character": "吴妻",
+          "type": "内白",
+          "text": "当家的！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "干什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "内白",
+          "text": "我的裤子哪？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "裤子没啦，也问我？你找啊！"
+        },
+        {
+          "character": "吴妻",
+          "type": "内白",
+          "text": "有啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "在哪儿哪？"
+        },
+        {
+          "character": "吴妻",
+          "type": "内白",
+          "text": "在帽盒里哪。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "有的，裤子会跑到帽盒里去啦！穿上没有？出来吧！"
+        },
+        {
+          "character": "吴妻",
+          "type": "内白",
+          "text": "当家的！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "又干什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "内白",
+          "text": "我的小鞋子哪？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "有的，小鞋子没啦也问我？你找哇！"
+        },
+        {
+          "character": "吴妻",
+          "type": "内白",
+          "text": "有啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "在哪儿哪？"
+        },
+        {
+          "character": "吴妻",
+          "type": "内白",
+          "text": "在灶王板上哪。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "有的，小鞋子会跑灶王板上去啦！穿上没有？你给我出来吧。"
+        },
+        {
+          "character": "吴妻",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴妻上。"
+        },
+        {
+          "character": "吴妻",
+          "type": "数板",
+          "text": "奴家生来命儿穷，嫁了个铁匠吴衍能。白天打刀还好受，到了晚上哼哼哼……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你哪儿那么爱哼哼？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "啊！你怎么不叫我哼哼？白天打刀，跟你抡了一天大锤；到了晚上，躺在冰凉 的炕上，可怜呕！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "可怜什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "连炕席都没有。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "瞧我这穷啊。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "硌的我这骨头节就这么一骨节……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "一骨节？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "一骨节又一骨节……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "前后三骨节。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "硌得我这骨头节是又酸又疼，你怎么不叫我哼哼啊？偏哼哼！我爱哼哼！我哼 哼哼，哼嘚儿定啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你哼哼吧，哼哼出乱儿来啦！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哟！我在家里哼哼，又没在外头哼哼，怎么会哼哼出乱儿来啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你把大爷哼哼出来啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "巧啦！我有叔叔，没大爷。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "赵大爷。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哦，卖菜的赵瘸子？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不是。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "挑水的赵秃子？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不是。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那么是谁呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "赵匡胤赵大爷。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哎呀我的妈呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴妻下。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "有的。老河漂子，一冒儿又回去啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴妻幕内探头。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "当家的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么着，我的赶车的！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你进来呀！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你进来呀！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你进来呀，你进来呀！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你这么进来进去，拦门的受热啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴妻进前。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哎呀能儿呀！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "瞧这嫩手子。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你呀，丧气！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我丧气？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你晦气。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "晦气？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "啊噗！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你冒气哪？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你冒气！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我成周瑜啦，先干了三气。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你可快死啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你瞧我这丧！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "活人见鬼啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么哪？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "闻听人说，赵匡胤他死啦，怎么跑到咱们家显魂来啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "他说江湖之上，仇人甚多，咒骂于他。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "会没骂死？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你瞧，长的结实嘛。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他干什么来啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "打刀来啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他打刀来啦？当家的，你还记得不记得？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么不记得。"
+        },
+        {
+          "character": "吴妻、吴衍能",
+          "type": "同白",
+          "text": "上三年打了把钢刀……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你叫我说。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你叫我说。"
+        },
+        {
+          "character": "吴妻、吴衍能",
+          "type": "同白",
+          "text": "上三年打了把钢刀……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你要再说，你是狗。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我不说，叫你说。"
+        },
+        {
+          "character": "吴妻、吴衍能",
+          "type": "同白",
+          "text": "上三年……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你又来啦！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "算我应誓。你说！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "上三年他打了把钢刀，一个子儿没给，今儿个又来打刀来啦，他们这种人没有 好良心哪。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "是啊，我也这么说呀。只望拿话把他支走啦……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他走啦吗？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "他还没走哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "没走怎么着？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我就说现如今年头萧索，买卖不是一个人的了，我又搭了伙计啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "好哇！怪不得你不着家呢，敢情你又搭了伙计啦！你伙计在哪儿哪？我瞧瞧去。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你真是贼人心多。只望拿这话的把他支走啦，没想到他犯死心眼儿，他这么一 溜拉胡的……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "飞啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "叫你伙计来见我。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "得！这可坏啦。这三更半夜的，你上哪儿给他找伙计去呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "是呀！所以想起你来啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "想我干什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "没什么说的，你先给我当伙计吧。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哎！咱们是夫妻呀，怎么是伙计呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你瞧！夫妻夫妻，如同伙计。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "伙计伙计呢？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "如同夫妻呀。咱们两个是夫妻，你给我当当伙计。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我是伙计，你就是掌柜的啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎！我就是掌柜的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我见他怎么着？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你见他顺着我杆爬。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你这等着。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你干什么去？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我拿杆儿去。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "拿杆儿干什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我好爬呀！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "猴儿日的！你顺着我的话头爬。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哦！顺着你的话头爬呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "对啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他在哪儿啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "他在门攒上坐着哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我瞧瞧，就是那一堆呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "人不论堆。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那一块？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "人也不论块。那一位。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "浑身上下都是赵大爷？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "一点也没假的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我见他怎么着？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "见他问好吧！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "交给我啦。 赵大爷在哪儿哪？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "赵大爷，咱们伙计来啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "赵大爷老没见啦，您倒发福啦，见胖啦，您好哇？好长的胡子，我给你捋捋胡 子吧！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我揍你啦！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么啦，你也不打听打听？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "打听什么呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哪有铺子里的伙计给主顾捋胡子的昵？你这不是给买卖人现眼吗？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你浑蛋！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "好说，浑蛋出尖。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "咱们是买卖人，总要和气，和气生财呀。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我说我不发财哪，敢情我忘了和气啦。我也来和气和气吧。 哟！赵大爷，您好哇？老没见啦！你倒发福啦，见胖啦，好长的胡子，我给你 捋捋吧！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊！做什么来了？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我和气来啦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "她能和气生财，你这一和气……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "要发财啦？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "要生灾了。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这丧不丧！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "赵大爷！您干什么来啦？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "打刀来了。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "赵大爷！你这刀打不成啦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "没有铁啦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "无有铁也是大事，待我到别家去打。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "对啦，别处打吧。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "赵大爷您回来！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "干什么回来呀？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他是巧媳妇做不出没米的粥来。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "是啊。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我们掌柜的说不是没有铁啦吗，我们门后头还有两把刀坯子哪。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "吴衍能，刀坯子就可以将就哇！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "谁说的？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你的伙计讲的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我问问她。 你这儿来。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "干什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我问你刀坯子使得吗？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么使不得？还省两道火呢。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我知道。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "知道嘛你问！什么东西！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "赵大爷！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "怎么讲话？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这刀您还是打不成啦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "没有砟子啦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "无有砟子也是大事，待我到别家去打。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "对啦！别处打去吧！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我说赵大爷您回来！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "怎么又叫我回来呀？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他是巧媳妇做不出没米的粥来。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "是呀。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我们掌柜的不是说没有砟子啦吗？我们后院还有两筐水火炭哪。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "吴衍能，水火炭可以将就。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "谁说的？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你那伙计讲的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我问问她去。 我说你这来。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "干什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那水火炭使得吗？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么使不得？升起火来，火苗子硬着啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我知道。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "知道嘛你问！什么东西哪！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "赵大爷！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你是什么东西！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这刀还是打不成啦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "没有火啦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "无有火也是大事，待我往别家去打。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "您别处打去吧。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我说赵大爷您回来吧！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么又叫他回来啦？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他是巧媳妇做不出没米的粥来。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "得！买卖还没讲好哪，先干我三锅粥啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我们掌柜的不是说没有火啦吗，我们佛前还有一盏长命灯哪。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊，能儿！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么着？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你佛前还有一盏长命灯哪。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你也走这条道啊，谁说的？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "你那伙计讲的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我问她去。 你这来！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "干什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那灯是火么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "灯不是火是什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我当是寒哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "又寒啦，又！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "全知道。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "知道嘛你问！"
+        },
+        {
+          "character": "吴衍能、吴妻",
+          "type": "同白",
+          "text": "什么东西！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "赵大爷！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "您什么时候要？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "三更时分。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "二更半管保得。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "好！等你二更半。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤伸赖腰。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "赵大爷睏啦，您上我那屋里歇着去吧。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "您上我屋里睡去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴衍能、吴妻对拉赵匡胤。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哎！你一拉，他一拉，扯散了你们赔得起吗？我到她屋里睡去吧。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你倒犯死心眼儿。睡在什么地方，二更半也得起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤下。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我揍你啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么啦！我叫你顺着我的杆儿爬啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "闹得我两手剌。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "又两手剌啦！怎么我说没有什么，你说有什么，是怎么回事呀？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我说有什么啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我说没有铁啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我也没说有铁呀。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "什么刀坯子？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "啊，刀坯子是刀坯子，铁是铁呀。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "嗳，可以。那么我说没了砟子啦，你又说什么来着？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我也没说有砟子。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "什么水火炭哪？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "水火炭是水火炭，砟子是砟子呀！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "嗳，也可以。那么我说没有火啦，你又说什么来着？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我也没说有火呀。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "什么长命灯啊！"
+        },
+        {
+          "character": "吴衍能、吴妻",
+          "type": "同白",
+          "text": "啊，灯是灯，火是火呀！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你也会啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你说了好几句啦。我告诉你，那赵匡胤杀人不眨眼，三更时分有了刀便罢，要 是没有刀哇，杀了你，剐了你，没有太爷我什么事，我睡觉去啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哎哟是呀！我说你回来。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "讲的是一送，不管来回。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么着，你真不回来吗？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不回来怎么样？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你连胳膊带腿给嘚儿太太滚回来。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "什么？你敢叫太爷滚回去？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "啊，滚回来！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这个娘们说得通情理，我倒得回去。回来啦，怎么样？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我问问你，赵匡胤叫门是谁开的？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "是我给开的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "谁把他给让进来的？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我把他让进来的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "买卖是谁应的？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "是我应的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "还是的。赵匡胤叫门是你开的，人是你让进来的，买卖又是你应的，怎么着？ 你倒不打刀啦！太太还是不打刀啦。三更时分有了钢刀便罢，要是没有钢刀哇， 杀了你，剐了你，没有太太什么事，我呀睡觉去啦！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎呀是啊！我说你回来。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "讲下一送，不管来回。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你真不回来吗？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "不回来，怎么着？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你也给太爷滚回来！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "什么？你敢叫太太滚回去？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "啊，滚回来！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "这小子说话通情理，倒得回去。回来了，怎么样？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我们两口子是一块骨头。我问问你，敢说三声不打刀？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "太太的嘴随便说，慢说三声，就是三百声，三千声我也敢说。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那么你说。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你听着：太太一个不打刀！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "两个不打刀！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哟！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "不打刀，不打刀，不打刀定啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哈哈！我把你个乏娘们呀！你这个人真是三天不打，要上房揭瓦。今日我要是 不管教管教你，你也不认得我吴衍能是谁！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我早就瞧透了你啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我非教训教训你不可。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你要怎么着？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我要你还得帮帮我这个苦哈哈么！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "嗐……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这口怨气。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "谁不是养儿女的？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "啊，你是儿女养的？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "起来吧，我帮了你啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我这谢谢你啦！诸位倒别见笑，我们买卖人有三分纳气。搭炉子去！慢点，别 摔喽。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "摔喽再买新的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "瞧，这土呕！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "老没做买卖了嘛。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我吹吹。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我拉拉。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎哟！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "迷了我眼睛啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哪只？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这只。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哪只？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这只。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我给你吹吹。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "好啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "贱骨头嘛。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哦哈，着了！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "西皮原板",
+          "text": "铁匠本是老君留， 留在世上度春秋。 上打文王三尺剑， 下打太公钓鱼钩。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "打！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "打！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "得啦！别打啦！别打啦！你瞧，直告诉你别打啦。瞧！干了一个口子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴衍能扑刀。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "烫！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎哟！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "烫了我啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我要是不说呢？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那我就忘啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我问问你，你这打刀跟谁学的？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我这打刀哇，太爷是祖传三辈。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "这头一辈是谁呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这头一辈是爷爷。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "呕！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这小儿子，嘴尖叼了去啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "第二辈呢？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "第二辈是你的……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "公公。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "呕，公公！工工四尺上，你们家里有四个和尚。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你们家里才有四个和尚哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我们没有。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不能没有。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "还是有哇。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "也犯不上有和尚啊！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那么到底是谁呢？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "就是娶你的时候，头一个受双礼的那个。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "什么长像？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "胖胖的，两撇黑胡子。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "有胡子？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "对啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你管他叫什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我叫他……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "啊，我别说啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么又不说啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我这儿还没说哪，你那儿就啊，不说啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你怕我占你的便宜。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那是什么话？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我占你便宜，是狗。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么，是狗？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我不占你便宜，你说吧。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我要说啦，是我的爹。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我没占你的便宜吧？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "没有。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我咽啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "啊，你怎么咽爹？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这更凿实！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "第三辈又是谁呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不才就是我。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你是跟谁学的？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我是跟我爹学的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你爹呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他就不是东西。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎，你又骂爹。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他教给别人还可以，教给亲手做的儿子……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "儿子往哪儿拍哪？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他还留一手嘛！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哪一手？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "别说啦，打刀吧。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你说说我听。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我就这么告诉你啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么哪？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "艺不轻传。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "得怎么着呢？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我得叩头尊师。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "谁是我的师傅？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我就是你的师傅啊。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这可是年头赶的，又出来个母师傅。没法子，为学能耐，这么就拜吧。师傅在 上，弟子这里有礼了。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "罢啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "有得！求您指教吧。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "听我告诉你，这打刀要打出点儿来。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "打出什么点儿来？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "要打个叮叮，叮光叮，叮光，叮光，叮光叮。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "要打定定，定光定，脱了裤子露着腚。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "啊！定光，定光，定光定。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "呕！定光定，光定，光定。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "临完了，大锤子往上一举，领着小锤子往砧子上一落，要打个哚儿……叭！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "要打个嘚儿……叭！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哚儿……叭！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "嘚儿……叭！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "舌头往上卷。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "西叭。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "说不上来你是狗。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哚儿。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "这你怎么说上来啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你骂人嘛。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "贱骨头！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "喝，又着了！"
+        },
+        {
+          "character": "吴妻",
+          "type": "西皮原板",
+          "text": "恼恨爹娘做事差， 大不该将奴许配他。 但愿冤家死了吧， 另行改嫁享荣华。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "打呀！"
+        },
+        {
+          "character": "吴妻",
+          "type": "哭",
+          "text": "我的妈呀！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "躲钉。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我的娘啊！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我揍你啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "为什么你打我？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "为什么打你？没有买卖，你盼买卖；有了买卖，你嚎丧，你嚎丧什么呀？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你瞧，我委屈嘛！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "委屈什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我这会儿天不怨，地不怨。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你怨谁呀？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我就怨媒婆子那个老不是东西的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你骂人家干什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我妈最叫她给赚啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "她有多大手，会把你妈给攒啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "说话把我妈给赚啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "当初一说的时候，喝！好大一个铁铺子哇！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这不小嘛！有刀坯子、有水火炭、有长命灯，还对不起你？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "过得门来，敢情是四个旯旮空，要什么没什么。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "要什么没什么吗？没有炕吗？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "有炕，连炕席都没有。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "瞧我这穷劲的。别的都不提，太爷娶你的时候，管保是三套新的吧？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "什么呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "砂锅呀！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哟！砂锅呀，留着你抱吧。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你知道哪儿的？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那是哪儿的？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那是里窑的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "又里窑的啦，又！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "里窑砂锅。你们这样人真是顶着福不知福。叫人家瞧，一个铁匠媳妇还要多么 好看，一脑袋珠花，身上穿着还错吗？还怕你不利落，脚底下还给你绑着两块 木头。太爷哪点儿对不起你？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "这是太太嫁妆。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "嫁妆？我一顿吃两份。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那是鸡架装。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我也没说是鸭子架装啊。太爷娶你的时候，穿了红裤子、红袄没有？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "穿啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "穿了，就短了手镯脚镣啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "干什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "把你解到保定府。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你还提那红裤子红袄哪！刚下轿子，屁股还没坐稳哪，就过来一个老太太，说 姑娘你脱下来吧！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "天热，怕你受了暑。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我细这么一打听，敢情是借的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "什么借的，一天好几吊钱哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那是赁的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "太爷倒赁得起呀，你们家里又陪送你什么来啦？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哟，我们家没陪送我二亩人参地吗？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "得啦，你别提啦，那天我赶集去，碰见我们大舅子啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "碰见我哥哥啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "在那卖人参哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他最好喜做那样买卖。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "吆喝的热闹着哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么吆喝？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "好热烘的烤白薯呃！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你瞧，那就是伏地人参。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "到山东还叫地瓜哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "到天津还叫山芋哪。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "虾米小鱼子。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "柴火扎你眼珠子。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "没我的便宜。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你别提啦，这倒勾起我的陈烦来啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么勾起你的陈烦哪？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那天你赶集去，我在门口卖呆儿……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "给我摆门市。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "打那边来了两个老婆儿。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "老婆儿怎么喳？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "一个认识我的；一个不认识我的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那认识你的怎么样；不认识你的又说什么哪？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那不认识我的可就说啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "说什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哪来的这么一个俏皮小媳妇哇？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "本来不错。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那认识我的就说啦，你连她都不认得，她就是铁匠吴衍能的媳妇嘛。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你瞧，吴太爷的媳妇。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "真是好手。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "好手。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "过日子人，一清早起来炕上一把……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "剪子。地下一把……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "铲子。倒是过日子的好手，就是一个人把她带累坏了。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "是谁把你带累坏啦？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "别说啦，打刀吧！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "别介，你总得说。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "总得说，就是你把我带累坏啦！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我怎么把你带累坏呢？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "不单把我带累坏，还把你比作个物件。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不用说，比作哪庙里这么位罗汉。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你呀，捋汗吧！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我这就够捋汗的啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "把你比作这么长，这么粗……"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "金条？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你呀？炉条吧！把你比作一根枣木橛。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "瞧！我还是角儿哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你瞧，又橛啦，又！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "得啦，得啦，你别说啦！这一说也勾起我的陈烦来啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "勾起你什么陈烦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那天赶集出门，碰见两个老头儿。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "没有我这两个老婆儿，也没有你这两个老头儿。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我这两个老头儿还是你那两个老婆招出来的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "又怎么着？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "也是一个认识我的；一个不认识我的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那认识的说什么；不认识的又便怎么样？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那不认识我的可就说啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "说什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "说哪儿来的这么一个俏皮小伙？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你还俏皮哪？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那认识我的可就说啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "说什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "说你连他还不认识？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "塔呀？还嘚儿和尚坟哪。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这就是铁匠吴衍能嘛。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "能儿啊！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "真是好手，好本领，好汉子！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "好小儿子！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "别玩笑。真是过日子的人，养家，连车辙的土都往家里拉。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "煤核客人嘛！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "一清早起来，炕上也是一把……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "扫炕笤帚。地下一把……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "扫地笤帚。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "前后两把笤帚。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "好手，就是让一个人把我带累坏啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "谁把你带累坏啦？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "别说啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你也得说。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "就是你把我带累坏啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我怎么带累坏你？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不单把我带累坏了，还把你比了一个物件。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "不用说，哪庙里这么一位娘娘！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "有我这样穷罗汉，就有你这样破娘娘。把你比作上头有个尖，底下有个眼……"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "不用说，是个寿桃。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "烂桃吧！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "烂桃不烂味。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "把你比作个枣窝窝。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "枣窝窝是吃的，你枣木橛没用。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "没用？哪个饼铺里杆面杖又不是枣木橛做的？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "得啦张花。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "李错。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怪风。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "一阵儿。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "枣木棒锤。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "一对儿。哟喝！又着了！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "唱",
+          "text": "六月里铁匠怕打铁， 腊月渔翁怕钓鱼。"
+        },
+        {
+          "character": "吴妻、吴衍能",
+          "type": "同白",
+          "text": "打打，打打，哧！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "干什么哪？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "蘸钢哪。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "有水吗？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "自来水。把炉搭开，搬石头去！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "搬不动。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "两个搭。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "那成啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "远啦远啦，也没有这大块的磨刀石。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "咱们近点。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "对，近点儿。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你好哇？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "太近啦。不长不短。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "离你那不远。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "离你那不远。得，就这么大。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "放在哪儿？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这边，这边，得啦，你把石头都砸了。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我不管啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不用你，瞧我一人的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "喝！真搬起来啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "搬起来啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "多少斤？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "八百多斤。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你瞧，憋得紫茄子似的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎哟！泄了气啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "把刀压底下了。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "抽出来。你猜我叫你干什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "舀水去？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那算你猜着啦。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "倒在哪儿？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "倒在头上。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "啊，头上。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你怎么倒我脑袋上？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你不说头上吗？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "什么呀，刀头上。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你不说明白啦。再舀去，又倒哪儿啊？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "面上。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "面上？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你怎么倒我脸上啦？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你不说面上？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "刀面上。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我再舀去。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "别舀啦，滴答滴答吧。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "这像个什么呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "这像脑袋。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "这小子学什么像什么。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "把板凳搭开！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那上头有石头。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哎哟！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "闪了我的腰啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我要不说呢？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我也忘啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你瞧怎么样？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "不错呀。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "敢情！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴妻背供。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "这小子净给我气受。有啦！我吓唬吓唬他。 谁的钱哪？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "钱是我的。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "给你！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "拿来。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我杀了你，我杀了你！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你饶了我吧。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "饶你不难，你得叫我。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "叫你什么？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "叫我亲亲热热的小妈。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "老妈？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "不成，小妈。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "不叫。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "杀了你。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我叫。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你叫！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "亲亲热热的小妈！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "哎，儿子！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我可不能答应。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "杀你！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我答应。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "儿子！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "给你刀，你爱怎么着就怎么着吧。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "有啦，我也吓唬吓唬她。 谁的花儿呀？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我的。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "给你。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "拿来。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我宰了你！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "他出来啦。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "早不出来，晚不出来，单这会出来！真是孝母不孝父。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "吴衍能，刀可曾打得？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "打得啦。给您瞧瞧。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "不轻不重，刚刚称手。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "想着跟他要钱！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我知道。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "哎呀且住。听他二人要钱，不免将他二人祭了刀吧。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "好良心！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊，吴衍能！你大爷靴筒里有五两一包，十两一包，你二人摸个福大福小。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我摸这个。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我摸这个。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": "吴衍能、吴妻",
+          "type": "同白",
+          "text": "哎哟！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "看他二人已死，不免逃走了吧。正是："
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "用手拨开生死路，将身跳出是非墙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤下。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哎！赵匡胤你回来，你讲理不讲理？拿刀就走，不给钱！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我说谁不讲理呀？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "赵匡胤不讲理。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你才不讲理哪！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我怎么不讲理？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "赵匡胤拿刀把咱们给杀了，咱们是死鬼啦，怎么你还说话？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "哟！这么一说，咱们是死鬼啦？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "可不是吗！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "那么咱们得出殃呀。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "是得出殃。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "让谁先出？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "我先出。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "我先出。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "还是我先出。"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "让你先出。"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "呕！"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "呕！"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "怎么我后走，你先走哪？"
+        },
+        {
+          "character": "吴衍能",
+          "type": "白",
+          "text": "你不知道公殃追母殃吗？"
+        },
+        {
+          "character": "吴妻",
+          "type": "白",
+          "text": "你别挨骂啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴衍能、吴妻同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

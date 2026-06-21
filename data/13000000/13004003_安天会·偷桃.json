@@ -1,0 +1,978 @@
+{
+  "script_id": "13004003",
+  "title": "安天会·偷桃",
+  "alias": [],
+  "source": "《剧学月刊》",
+  "characters": [
+    {
+      "name": "孙悟空",
+      "hangdang": "武生"
+    },
+    {
+      "name": "土地",
+      "hangdang": "丑"
+    },
+    {
+      "name": "金母",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "老君",
+      "hangdang": "外"
+    },
+    {
+      "name": "仙女甲",
+      "hangdang": "旦"
+    },
+    {
+      "name": "仙女乙",
+      "hangdang": "旦"
+    },
+    {
+      "name": "仙女丙",
+      "hangdang": "旦"
+    },
+    {
+      "name": "仙女丁",
+      "hangdang": "旦"
+    },
+    {
+      "name": "仙童",
+      "hangdang": "小生"
+    },
+    {
+      "name": "天丁",
+      "hangdang": "付"
+    }
+  ],
+  "plot": "玉帝因孙悟空神通广大，拟以天上官爵加以羁縻，封为“齐天大圣”，使管桃园，孙悟空乃将园中仙桃尽情\n受用。金母设蟠桃宴，未邀孙悟空，孙悟空乃偷蟠桃、盗御酒，又入兜率宫盗食老君金丹，径回花果山。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土地上。"
+        },
+        {
+          "character": "土地",
+          "type": "念",
+          "text": "灿灿华光满洞天，琼楼宝殿启华筵。蟠桃结果三千载，共宴长生亿万年。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "小神，桃园土地是也。今玉帝差派一位齐天大圣，督理桃园，今日到任，只得 在此伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土地下。四月华旗、四小猴引孙悟空同上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "引子",
+          "text": "仙名永注长生箓，不堕轮回万古传。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "万劫轮回不坏身，何须铁骨与铜筋。九幽十类除名姓，四海千山俺为尊。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嘿！想俺老孙，创来创去，创成一个齐天大圣名号，蒙玉帝洪恩，封俺弼马温， 命俺督理桃园。昨日与五斗星君畅饮，不觉吃得大醉而归，今日走马上任。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖开道锣〗。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呀！看前呼后拥，黄罗盖顶，好不洒乐人也。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "醉花阴",
+          "text": "前呼后拥威风好， 摆头踏，声名不小。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "夹白",
+          "text": "想俺孙爷爷呵！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "醉花阴",
+          "text": "穿一领蟒龙袍， 戴一顶金纱帽。 俺可也摆摆摇摇，玉带围腰， 生受享爵禄俸高。 闯将奇门，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空走小圆场。土地上。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "迎接大圣！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "醉花阴",
+          "text": "亦有谁来踹俺孙爷爷的跟脚？"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "土地叩头！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "起来起来，俺也不在这叩头上做工夫，只要你平日小心。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "这园中树木，共有多少？"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "共有三千六百株。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "待我查点，带路！"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "是，大圣随我来。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "这是多少？"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "这是一千二百株，三千年开花结果，人若吃了，长生不老。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哦，有这等好处。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "大圣请看。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "这又是多少？"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "这也是一千二百株，六千年开花结果，人吃了陆地成仙。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哦哦哦。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "这又是一千二百株，九千年开花结果，人吃了与天地同休，日月同老。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哦，有这些好处。土地！"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "我身子困倦，要在此打睡片时，你且外厢伺候。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "啊哈，来！"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "不唤你不许进来，走，走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土地应，下。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哎呀妙啊！好个知趣的玉帝老儿，明知俺老孙好吃果儿，故命俺看守此园。看 满园大桃小桃，十分茂盛，不免变个小猴，上得树去吃他一饱，有何不可？敕 变！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空下。小猴上，吃桃完，下。四仙女同上。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "画眉序",
+          "text": "人世自煎熬，才见童颜便衰老， 叹浮生富贵有甚坚牢。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "三仙女",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "我们奉金母之命，去往桃园摘取仙桃供奉蟠桃圣会，就此走遭。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "画眉序",
+          "text": "怎知俺学道长生， 伴阿母同乘青鸟。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "来此已是。 土地哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土地上。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "原来是列位仙姑，到此何事？"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "奉金母之命，前来摘桃，以供圣会。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "列位仙姑，今年不比往年。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "为何？"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "玉帝新差一位齐天大圣看守桃园，须禀过大圣，方可摘取。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "大圣在哪里？"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "啊，大圣，大圣！"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "大圣不在，我们且自折取。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "内白",
+          "text": "呔！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "谁敢偷桃，着打！"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "我们奉金母之命，来此摘桃，以供圣蟠桃大会。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "土地。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "往年可是她们摘取？"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "是她们摘取。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哎，待我盘她们一盘。 但不知蟠桃会上请的是哪些位仙长？"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "请的是西天如来佛、南海观世音、上八洞、下八洞各位仙长等。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "可有俺老孙？"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "这倒不曾提起。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哎唔，土地领她们摘桃去。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "随我来。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "画眉序",
+          "text": "今朝摆设瑶池宴， 携筐来摘取仙桃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四仙女、土地同下。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "可恼啊可恼！想俺老孙也是一尊活佛，蟠桃会上就没有俺。也罢！待俺闯入瑶 池，打听便了！正是："
+        },
+        {
+          "character": "孙悟空",
+          "type": "念",
+          "text": "轻身闯入瑶池宴，管教顷刻会群仙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空下。二童儿同上。"
+        },
+        {
+          "character": "二童儿",
+          "type": "同念",
+          "text": "看桃花，守桃花，看守桃花度岁华，仙缘谁似咱。"
+        },
+        {
+          "character": "童儿乙",
+          "type": "白",
+          "text": "师兄。"
+        },
+        {
+          "character": "童儿甲",
+          "type": "白",
+          "text": "师弟。我们奉命看守瑶池，不免将仙酒仙肴摆设起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小吹打〗。孙悟空上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "喜迁莺",
+          "text": "望瑶池祥云笼罩， 见苍松翠柏荫交。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "来此已是瑶池，只是有人把守，岂肯放俺进去，这便怎么处。哎有了，待我拔 下毫毛，变些瞌睡虫儿，教他们撞着就睡。敕变！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空吹。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "看他们立时就睡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空虚下。二童儿同哈欠。"
+        },
+        {
+          "character": "童儿甲",
+          "type": "白",
+          "text": "师弟，一时困倦，到里面打睡片时。"
+        },
+        {
+          "character": "童儿乙",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二童儿同下。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "看他们去了，待俺进入。 呀！进得瑶池，好景象也！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "喜迁莺",
+          "text": "摆列佳肴尽都是山珍海错， 恁看那雪藕交梨并火枣。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "夹白",
+          "text": "想俺孙爷爷，何幸得到此地。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "喜迁莺",
+          "text": "俺可也缘不小， 且饱餐赤麟蹄龙肝鳌鲊。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "夹白",
+          "text": "有酒在此。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "喜迁莺",
+          "text": "饮琼浆玉液香醪， 饮琼浆玉液香醪。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "嘿，这些东西哪里吃得尽，不免带些回去，与俺那子孙们见识见识。唔，待我 变个口袋，装他娘一走。变！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空装。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "够了，此祸惹得不小，待我溜了罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空溜下。土地、四仙女同上。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "画眉序",
+          "text": "今日有蹊跷， 却怪园中没大桃。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "土地，怎么大桃一个也没有了。哎，是了。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "画眉序",
+          "text": "莫非你私享受，暗地欺藐。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "土地怎敢，方才大圣在此打睡呵。"
+        },
+        {
+          "character": "土地",
+          "type": "画眉序",
+          "text": "到底是野性难驯， 那猴王尽偷吃了。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "一定是他偷吃，不免报与金母知道便了。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "画眉序",
+          "text": "忙将此事来呈报， 金母自有分晓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四仙女同下。"
+        },
+        {
+          "character": "土地",
+          "type": "白",
+          "text": "此事大了，不免报知上司访查便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "土地下。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "内白",
+          "text": "好酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "出队子",
+          "text": "不觉的醺醺潦倒， 眼昏花步乱交， 今日个逍遥自在任游遨， 哪管得旁人语嘲嘲。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "兜率宫。啊？俺要回花果山，怎么行到三十三天老君之处来了。咳，俺一向要 会会此老，却好今日信步行来。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "出队子",
+          "text": "学一个把柴门待月敲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空下。童子上。"
+        },
+        {
+          "character": "童子",
+          "type": "三段子",
+          "text": "蓬壶瑶岛， 住仙山，年多寿高。"
+        },
+        {
+          "character": "童子",
+          "type": "白",
+          "text": "我乃，太上座下童子是也。吾师与燃灯古佛在三层楼上弈棋，命我烹茶伺候。"
+        },
+        {
+          "character": "童子",
+          "type": "三段子",
+          "text": "玉泉永涛， 石公山甘露味高。 炉中腐树轮流调， 竹松荫里烹茶好。 活火之方，三沸莫少。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童子下。孙悟空上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "刮地风",
+          "text": "嗳呀万缕祥云把殿绕， 为什么轻悄悄没点光耀。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "老头儿，老头儿。啊？老头儿不见。你看这丹炉内连火都没有了。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "刮地风",
+          "text": "莫不是众仙家飞驭齐来到， 赴瑶池把他相邀。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "夹白",
+          "text": "呀！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "刮地风",
+          "text": "那壁厢隐隐祥光绕， 俺可也向前去视看分晓， 却原来紫金葫芦玉烛烧， 碧霞觞酒泛葡萄。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "夹白",
+          "text": "呃，这是金丹。我想世人呵！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "刮地风",
+          "text": "得一粒金丹成大道，"
+        },
+        {
+          "character": "孙悟空",
+          "type": "夹白",
+          "text": "老孙呵！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "刮地风",
+          "text": "只当做炒豆儿嚼一饱，炒豆儿嚼一饱。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "哎呀，此祸又闯得不小，不免走了罢。走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空下。金母上。"
+        },
+        {
+          "character": "金母",
+          "type": "耍鲍老",
+          "text": "齐集群仙聚三岛， 瑶池好相邀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "仙童上。"
+        },
+        {
+          "character": "仙童",
+          "type": "白",
+          "text": "报启金母：瑶池宴上美酒佳肴俱被孙大圣偷吃了。"
+        },
+        {
+          "character": "金母",
+          "type": "白",
+          "text": "知道了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "仙童下。仙女甲上。"
+        },
+        {
+          "character": "仙女甲",
+          "type": "白",
+          "text": "禀金母：园中仙桃被猴头吃尽了。"
+        },
+        {
+          "character": "金母",
+          "type": "白",
+          "text": "退下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "仙女甲下。"
+        },
+        {
+          "character": "金母",
+          "type": "白",
+          "text": "啊呀，了不得！蟠桃仙果，美酒筵席，俱被猴头偷吃，将何款待众仙，不免奏 闻玉帝便了。"
+        },
+        {
+          "character": "金母",
+          "type": "耍鲍老",
+          "text": "将何款待众仙僚， 疾忙去向玉皇告， 大圣会成潦草。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金母下。孙悟空上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "四门子",
+          "text": "堪笑那众仙家把瑶池到， 赴蟠桃兴越偏高， 俺有叨在先装来满饱， 恰便似卷残云只一扫， 心满意足越觉烦恼，"
+        },
+        {
+          "character": "孙悟空",
+          "type": "夹白",
+          "text": "呀！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "四门子",
+          "text": "扫兴的会场散了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空下。"
+        },
+        {
+          "character": "老君",
+          "type": "内白",
+          "text": "不好了啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "老君上。"
+        },
+        {
+          "character": "老君",
+          "type": "滴滴金",
+          "text": "无知野兽金丹盗， 一粒不留令人恼， 如何炼得葫芦饱，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金母上。"
+        },
+        {
+          "character": "金母",
+          "type": "滴滴金",
+          "text": "恨猴头把瑶池闹，将人欺藐。"
+        },
+        {
+          "character": "金母",
+          "type": "白",
+          "text": "老君，稽首！"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "金母何往？"
+        },
+        {
+          "character": "金母",
+          "type": "白",
+          "text": "可恨妖猴将蟠桃筵宴偷吃盗尽，特上灵霄奏闻玉帝。老君意欲何往？"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "再不要提，我与燃灯在三层楼上下棋，谁知贼猴将我金丹尽行偷吃，为此上殿 奏闻。"
+        },
+        {
+          "character": "金母",
+          "type": "白",
+          "text": "如此一同前往。"
+        },
+        {
+          "character": "老君",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "金母、老君",
+          "type": "同滴滴金",
+          "text": "未见如斯凶顽暴， 恶贯满盈罪犯天条。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金母、老君同下。孙悟空上。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "水仙子",
+          "text": "非非非，非是俺行浅薄， 辜辜辜，辜负了玉帝洪恩来负却。 也也也，也只为贪餐无厌饱， 做做做，做来的有头没脑。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "来此已是天门，待我闯了过去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "天丁上。"
+        },
+        {
+          "character": "天丁",
+          "type": "白",
+          "text": "呔！何人擅闯天门！"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "呀呸！连俺老孙也不认得了。"
+        },
+        {
+          "character": "天丁",
+          "type": "白",
+          "text": "啊，原来是大圣，从哪里来？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "这个，赴蟠桃会而来。"
+        },
+        {
+          "character": "天丁",
+          "type": "白",
+          "text": "手中拿的何物？"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "这么，蒙玉帝洪恩，金母美意，说道：“大圣你第一次赴蟠桃大会，将这吃不 了的仙果仙肴带些回去，与你那些子孙们见识见识”。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "水仙子",
+          "text": "感感感，感天恩浩荡实难报， 愧愧愧，愧未酬海阔天高。"
+        },
+        {
+          "character": "天丁",
+          "type": "白",
+          "text": "我们在此多年，不曾见过，拿出来我见识见识。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "咳，这些东西你们都是看得见的。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "水仙子",
+          "text": "俺俺俺，俺不过高擎酒几瓢， 再再再，再把金丹略略嚼。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "暂别你了。"
+        },
+        {
+          "character": "天丁",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "水仙子",
+          "text": "请请请，请和恁分手暂相抛。"
+        },
+        {
+          "character": "孙悟空",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙悟空下。"
+        },
+        {
+          "character": "巨灵神",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "巨灵神上。"
+        },
+        {
+          "character": "巨灵神",
+          "type": "白",
+          "text": "呔！把天门的，可见孙大圣？"
+        },
+        {
+          "character": "天丁",
+          "type": "白",
+          "text": "方才过去了。"
+        },
+        {
+          "character": "巨灵神",
+          "type": "白",
+          "text": "被他赚出天门，一同回奏便了。"
+        },
+        {
+          "character": "巨灵神",
+          "type": "煞尾",
+          "text": "弥天大罪猴头造， 快向金阶叩玉表。"
+        },
+        {
+          "character": "巨灵神",
+          "type": "夹白",
+          "text": "准备着天罗地网，"
+        },
+        {
+          "character": "巨灵神",
+          "type": "煞尾",
+          "text": "捉猴妖！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "巨灵神、天丁同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

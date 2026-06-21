@@ -1,0 +1,3756 @@
+{
+  "script_id": "03079001",
+  "title": "卓文君",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "卓文君",
+      "hangdang": "旦"
+    },
+    {
+      "name": "司马相如",
+      "hangdang": "小生"
+    },
+    {
+      "name": "卓王孙",
+      "hangdang": "老生"
+    },
+    {
+      "name": "程郑",
+      "hangdang": "老生"
+    },
+    {
+      "name": "杨得意",
+      "hangdang": "净"
+    },
+    {
+      "name": "王吉",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "司马相如工辞赋，家贫不得志，乃至临邛访契友临邛令王吉，王吉厚遇之。临邛首富卓王孙，为结好王吉，\n宴司马相如。司马相如至卓王孙家操琴，为卓王孙新寡女卓文君所爱慕，请父允婚。卓王孙嫌司马相如贫，\n不允。卓文君私奔司马相如，在临邛开设酒肆，夫妻亲自操作，卓王孙深以为耻。后司马相如献《子虚赋》\n于君前，拜为中郞将，奉命出使外国，卓王孙见司马相如贵，乃献金相认。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "引子",
+          "text": "才高北斗，论词赋，迈越同俦。"
+        },
+        {
+          "character": "司马相如",
+          "type": "念",
+          "text": "高情自信能忘我，隐者何妨独洁身。无所不知方是富，把衣典酒未为贫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童暗上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "卑人、司马相如，蜀郡成都人也。博学多能，工于词赋。昔日入资为郞，事孝 景帝为武骑常侍，因病免官，客游大梁。承梁王优礼相待，令与诸生同舍。曾 著《子虚》之赋，枉蒙嘉赏。奈梁孝王薨逝，竟少知音，乃归成都。家贫无以 自业。素寡交好，惟与临邛令王吉颇相友善，不如竟往临邛访友去者。 家童！"
+        },
+        {
+          "character": "家童",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "车马伺候。"
+        },
+        {
+          "character": "家童",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童下。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "吾少贱工词赋入资为郞， 事景帝因病免客游大梁。 曾著了《子虚赋》梁王嘉赏， 奈王逝少知音回转故乡。 家贫穷无职业素少交往， 惟有那临邛令可叙衷肠。 因此上备车骑去把他访， 嘱家童将琴剑带在身旁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童上。"
+        },
+        {
+          "character": "家童",
+          "type": "白",
+          "text": "车骑备好，请主人启行。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "将琴剑带好，伺候了！"
+        },
+        {
+          "character": "家童",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "长卿策马奔临邛， 车骑闲雅甚雍容； 琴剑相随自有用， 奥妙尽在不言中。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如、家童同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、院子、王吉同上。"
+        },
+        {
+          "character": "王吉",
+          "type": "念",
+          "text": "良朋要入境，策马出郊迎。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "下官、临邛令王吉。闻听好友司马相如辱临敝邑，待我亲自迎接。 来！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "打道出城，迎接司马官人去者！"
+        },
+        {
+          "character": "四青袍、院子",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "王吉",
+          "type": "唱",
+          "text": "打道郊外迎良友， 聊表数年思慕心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王吉、院子、四青袍同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童、司马相如同上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "长卿策马出家门， 不觉来到临邛城。 举目抬头来观定， 王吉县令出郊迎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、院子、王吉同上。"
+        },
+        {
+          "character": "王吉",
+          "type": "唱",
+          "text": "前途车马雍容甚， 当是长卿到来临。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "啊长卿，别来无恙。今日辱临敝邑，真令山川生色也。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "王吉兄不忘故旧，出郊相迎，愧不敢当。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "地主之谊，理当如此。现以都亭为馆舍，请长卿同往。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "感谢高谊，不知何以为报。如此王兄请！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "长卿请！"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "多承厚谊感不尽，"
+        },
+        {
+          "character": "王吉",
+          "type": "唱",
+          "text": "怎敢忘了车笠盟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙上。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "引子",
+          "text": "席丰履厚，家富有，贵比玉侯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院暗上。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "老夫、卓王孙。临邛人氏。家富多财，不让邓通。生性好客，珠履三千。膝下 两儿一女，长子经理家务，次子尚在攻书。女儿文君，望门而寡，果能柏舟自 守，何惜养之终身；倘失志不坚，倒不如择一门户相当之人再醮，也是正理。 来！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "请小姐出堂！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有请小姐出堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟引卓文君同上。"
+        },
+        {
+          "character": "卓文君",
+          "type": "引子",
+          "text": "生长富豪家，望门寡，美玉无瑕。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "爹爹在上，女儿拜见！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "罢了。一旁坐下。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "吿坐。啊爹爹，将女儿唤了出来，有何吩咐？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "儿呀，你天生丽质，不幸新寡。果能柏舟自守，我万贯家财，当养你终身，以 成汝志，倘失志不坚，倒不如择一门户相当之人改嫁，也是正理，你意如何？ 当明吿我，不要羞涩不言哪！"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "自古道女儿身从一为正， 况天伦家富有衣食无穷。 本应当守柏舟全贞为重， 怎奈是女儿我正在青春。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "儿呀，你既有此意，为父自当与你择一富豪之家改嫁，使尔终身衣食无缺。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "选佳婿不在那家资多少， 要的是有才华北斗名标。 嫁夫君若遇那轻狂恶少， 反惹得乡邻们笑语相嘲。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "如此说来，你是要嫁那才貌双绝之人么？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "夫若不才，不如不嫁！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "有了才貌，还须富有家资，才与我家门户相称。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "才貌双全之人，纵无家资，岂能终身贫贱？望爹爹三思。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "才而不富之人，你若从他，决不分尔一钱。你休后悔！"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "儿决不后悔。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓大公子、卓二公子同上。"
+        },
+        {
+          "character": "卓大公子",
+          "type": "唱",
+          "text": "街上听得人谈论，"
+        },
+        {
+          "character": "卓二公子",
+          "type": "唱",
+          "text": "司马长卿到临邛。"
+        },
+        {
+          "character": "卓大公子",
+          "type": "唱",
+          "text": "迈步且把二堂进，"
+        },
+        {
+          "character": "卓二公子",
+          "type": "唱",
+          "text": "见了爹爹说分明。"
+        },
+        {
+          "character": "卓大公子、卓二公子",
+          "type": "同白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "罢了。一旁坐下。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "兄长有礼！"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "卓二公子",
+          "type": "白",
+          "text": "姐姐！"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "兄弟请坐！"
+        },
+        {
+          "character": "卓二公子",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "你们在外面听得什么新闻无有？"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "禀吿爹爹：成都司马相如昨日来到临邛，邑令王吉亲自出郊迎接，备馆舍于都 亭，接待甚为恭敬，朝夕往候。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "司马相如何人也，邑令如此器重？"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "闻得司马相如博学多能，词赋文章冠绝一时。曾入资为郞，事孝景帝为武骑常 侍，因病免官，客游大梁，梁孝王优礼相待。曾作《子虚赋》，传诵一时。"
+        },
+        {
+          "character": "卓二公子",
+          "type": "白",
+          "text": "儿在学中，也曾读过《子虚赋》，可谓是才冠古今的了。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "才如长卿，古今少有。未得一见，恨如何也！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "他既有偌大才学，来在临邛做甚？"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "他素与临邛令王吉相友善，特为访友而来。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "既是邑令好友，必须联络于他。明日当大摆筵宴，请邑令、富绅作陪。 来！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "持我名柬，邀请司马官人与邑令及邑中富绅，明日来此赴宴。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "闻听长卿善于鼓琴，我家旧藏古琴，明日当陈设客堂，以备鼓奏。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "理当如此。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "孩儿素好音律，当一聆雅奏也。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "明日你从屏后听之，或依声相和，未为不可。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "明日里启华筵嘉宾宴请， 闻得他有才名复好鼓琴。 遵父命在屏后静听雅韵， 那时节应声和聊报知音。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "卓王孙",
+          "type": "念",
+          "text": "具柬召请邑令客，"
+        },
+        {
+          "character": "卓文君",
+          "type": "念",
+          "text": "淡扫蛾眉听好音。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童、司马相如同上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "邑令招待宿都亭， 不忘故旧情谊深。 朝夕过从多恭敬， 大慰生平契同心。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "卑人、司马相如。临邛访友，承王邑令出郊相迎；并以都亭为馆舍，优礼款待， 朝夕过从，相得甚欢，足慰定交之雅。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子、王吉同上。"
+        },
+        {
+          "character": "王吉",
+          "type": "唱",
+          "text": "我故人无如那司马长卿， 论才华他本是博学之人。 频向候非是我礼甚恭敬， 羡动那龌龊汉卓氏王孙。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "到了。 向前叫门！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "里面有人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童出门看。"
+        },
+        {
+          "character": "家童",
+          "type": "白",
+          "text": "王相公来了。请进！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童、院子、王吉同进。司马相如起。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "王兄来了。请坐！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王吉、司马相如同坐。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "长卿，夜来尚能安眠否？"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "夜长如年，殊难度过。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "作何消遣？"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "鼓琴赋诗而已。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "念",
+          "text": "奉了主人命，来此邀上宾。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童出门。"
+        },
+        {
+          "character": "家童",
+          "type": "白",
+          "text": "哪位呀？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "烦劳通禀司马官人：就说邻居富绅卓王孙有帖，请官人明日过府赴宴。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "卓王孙何如人也？素昧平生，无因而至，可怪得很！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "卓王孙为邑中富绅，广有财帛，生平好客。今闻大驾到此，慕名邀请，原不为 怪。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "王孙雅俗如何？"
+        },
+        {
+          "character": "王吉王孙",
+          "type": "白",
+          "text": "虽非雅人，其女文君新寡，爱好音律，能鼓七弦之琴。她与长卿有同好。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "怪道我夜来鼓琴，邻舍即有依生而和者，莫非就是文君么？"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "谅无他人。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "文君既有此技，即欲一聆雅奏；惟素昧平生，怎好叨扰？"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "彼既诚意相邀，不便过于拒绝。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "谨遵台命。 叫来人进见！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童出门，向家院。"
+        },
+        {
+          "character": "家童",
+          "type": "白",
+          "text": "唤你进来。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家童、家院同进门。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "叩见司马官人！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "王县尊也在此。家爷有帖相请，敢请陪伴司马官人同往。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "你去回复你家主人，说我明日即伴司马官人同去就是。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "长卿准备明日赴宴。我少陪了。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "不远送了。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子、王吉同下。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "方才听王兄之言，方知夜来依声和琴之人，即是卓女，琴声清妙，必费俗子。 倒要借此饱聆雅奏也！"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "夜来琴声多美妙， 定非凡俗女多娇。 借此饱聆雅奏调， 酒席筵前兴致高。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如、家童同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟、卓文君同上。"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "昨夜晚听琴声芳心荡漾， 想必是那长卿独处凄凉。 奴也曾依声和音调相仿， 但愿他不负我一片柔肠。 趁今日宴佳客屏后偷望， 方知晓才与貌能否成双。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "奴家、卓文君。擅七弦之技，赋绝世之姿。不幸新寡，徒伤薄命。虽父命许奴 再醮，诚恐遇人不淑，更是终身之玷。闻得司马长卿来到邛邑，馆舍于都亭， 乃系邻居。夜来遥听琴声，悠扬迭奏，心中悦而好之。只得援琴，依声而和， 不知能否达到意中人的心内。今日爹爹招饮，不妨从屏后窥其容貌如何，如再 鼓琴，当以琴声和之。 丫鬟！"
+        },
+        {
+          "character": "丫鬟甲",
+          "type": "白",
+          "text": "姑娘！"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "抱琴伺候！"
+        },
+        {
+          "character": "丫鬟甲",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "听罢琴声心钦仰， 依声而和韵悠扬。 丫鬟抱琴客堂往， 闪在屏后暗窥郞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君、二丫鬟同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓家院甲、卓家院乙同上。"
+        },
+        {
+          "character": "卓家院甲",
+          "type": "白",
+          "text": "主人今日大宴宾客，首席乃是司马官人。我们必须将客堂打扫齐整。"
+        },
+        {
+          "character": "卓家院乙",
+          "type": "白",
+          "text": "那司马官人是甚等样人，主人为何如此器重？"
+        },
+        {
+          "character": "卓家院甲",
+          "type": "白",
+          "text": "司马官人乃是当代才子，又为县令贵客，出入车骑甚多，故此惊动了主人。"
+        },
+        {
+          "character": "卓家院乙",
+          "type": "白",
+          "text": "我听说他的车骑，是县令借与他的。"
+        },
+        {
+          "character": "卓家院甲",
+          "type": "白",
+          "text": "县令肯借，他必有来历。"
+        },
+        {
+          "character": "卓家院乙",
+          "type": "白",
+          "text": "主人吩咐今日宴客，我家新寡的小姐，还要在屏后窥客。"
+        },
+        {
+          "character": "卓家院甲",
+          "type": "白",
+          "text": "如此将围屏摆好。"
+        },
+        {
+          "character": "卓家院乙",
+          "type": "白",
+          "text": "司马官人善于鼓琴，我家小姐也好此道，真是同其所好了。"
+        },
+        {
+          "character": "卓家院甲",
+          "type": "白",
+          "text": "少时我家小姐必在内室和琴，我们大家也好饱饱耳福。"
+        },
+        {
+          "character": "卓家院乙",
+          "type": "白",
+          "text": "各样预备齐全。闲话少说，请主人也来看过，免得有准备不到的地方，又来碰 钉子呀。"
+        },
+        {
+          "character": "卓家院甲",
+          "type": "白",
+          "text": "有理。 有请主人！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "内白",
+          "text": "嗯咳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙上。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "卓家院甲、卓家院乙",
+          "type": "同白",
+          "text": "客堂陈设齐了，请主人看过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙看。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "倒也不错。时间不早，客人们也该来了。"
+        },
+        {
+          "character": "卓家院甲",
+          "type": "白",
+          "text": "邑中第二富户程郑，同门客前来作陪。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "那就好了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑、门客同上。"
+        },
+        {
+          "character": "程郑",
+          "type": "念",
+          "text": "富有千钟粟，"
+        },
+        {
+          "character": "门客",
+          "type": "念",
+          "text": "来陪座上宾。"
+        },
+        {
+          "character": "卓家院甲",
+          "type": "白",
+          "text": "两位官人来了，请进！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "二位果然来得甚早。"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "阁下宴请县令贵客，理应早来奉陪。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "有坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑、卓王孙、门客同坐。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "长卿何以不见到来？"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "闻得长卿今日偶有小恙，恐不能来了。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "此局专为长卿而设，首席不到，真真扫兴！"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "长卿本不能来，王县令亲往迎接，当可力疾而来。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "这还罢了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、院子、家童、王吉、司马相如同上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "客临邛舍都亭偶染小恙， 卓王孙邀请我所为哪桩？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "唱",
+          "text": "无非是慕君的才高志广， 今日里这一局不比寻常。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同下。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "前去通报。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "里面有人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓家院甲出门。"
+        },
+        {
+          "character": "卓院子甲",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "司马官人、王县尊到。"
+        },
+        {
+          "character": "卓家院甲",
+          "type": "白",
+          "text": "少待。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓家院甲进门。"
+        },
+        {
+          "character": "卓家院",
+          "type": "白",
+          "text": "王县尊、司马官人来了。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "待我出迎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙出门。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "啊王县尊！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "来来来，待我与你二人引见引见。这就是卓老先生，这就是司马长卿。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "司马官人！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "卓老先生！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "辱承光降，蓬荜生辉。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "忒谦了。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "请进！"
+        },
+        {
+          "character": "王吉、司马相如",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙、司马相如、王吉同进。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "这位是邑中第二富绅程老先生。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "久慕髙才，今日—见，真三生有幸。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "惭愧呀惭愧！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "这是程家门客。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "司马官人，卑人这厢有礼了！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "有礼相还！"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "见过县宰！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "少礼。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "酒宴备齐，同请入座。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "大家入座。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "长卿高贤，合当首座。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "过谦了。"
+        },
+        {
+          "character": "卓王孙、王吉、程郑、门客",
+          "type": "同白",
+          "text": "我们大家依次而坐。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "长卿、县尊请！"
+        },
+        {
+          "character": "司马相如、王吉",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如、王吉、程郑、卓王孙、门客同入座。卓家院甲、卓家院乙同斟酒。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "大家请酒！"
+        },
+        {
+          "character": "司马相如、王吉、程郑、门客",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如、王吉、程郑、门客同饮酒。"
+        },
+        {
+          "character": "司马相如、王吉、程郑、门客",
+          "type": "同白",
+          "text": "干！"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "主人招饮感难言，"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "请酒！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "唱",
+          "text": "聊借杯酒来言欢。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "请酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙、司马相如、王吉、程郑、门客同饮酒。"
+        },
+        {
+          "character": "卓王孙、司马相如、王吉、程郑、门客",
+          "type": "同白",
+          "text": "干！"
+        },
+        {
+          "character": "王吉",
+          "type": "唱",
+          "text": "仰兼高贤殷勤献，"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "请酒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙、司马相如、王吉、程郑、门客同饮酒。"
+        },
+        {
+          "character": "卓王孙、司马相如、王吉、程郑、门客",
+          "type": "同白",
+          "text": "干！"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "自惭德薄愧难安。 敬谢主人美意好， 愿奏一曲酒筵前。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "久闻长卿善于鼓琴，愿一聆雅奏。"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "愿聆佳音。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君、丫鬟同暗上。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "好个司马长卿，像貌非凡，举止佳妙。现在他就要鼓琴，待奴隔屏窃听便了。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "献丑了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如鼓琴。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "不堪入耳，大家见谅。"
+        },
+        {
+          "character": "卓王孙、王吉、程郑、门客",
+          "type": "同白",
+          "text": "妙极妙极！"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "丫鬟！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "小姐！"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "方才听得司马官人琴音，不觉技痒，我想依声而和，不知是否有碍贵客清听， 你快快去向主人请示。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟进门。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "启家爷：小姐在屏后听了司马官人的琴音，愿依调奉和。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "女公子亦善于鼓琴，愿一聆雅奏。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "小女略解音律，恐不值大家一笑。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "领教领教。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "丫鬟，就叫小姐在屏后和调。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟转身向屏后。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "主人说啦，司马官人愿听，请小姐在屏后依声和调。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "献丑了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君抚琴。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "琴音佳妙，胜于区区多矣！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "过奖了。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "丫鬟，前去传言，愿再聆贵客别调。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "遵命！ 我们小姐说啦：愿再聆贵客别调。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "长卿何妨再奏一曲，使小女一饱耳福。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "久闻文君容貌好， 鼓奏一曲琴音挑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如抚琴。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "妙极妙极！方才这一曲明明是那："
+        },
+        {
+          "character": "卓文君",
+          "type": "念",
+          "text": "凤兮凤兮归故乡，遨游四海求其凰；有美淑女处兰房，室迩人遐触我肠。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "这乃是“凤求凰”啊。他既以琴音挑我，奴当以琴挑他便了！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "瑶琴一曲凤求凰， 洋洋盈耳喜非常。 琴音挑得奴心荡， 柔情缱绻难主张。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君抚琴。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "妙啊！"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "方鼓一曲凤求凰， 依声和我情意长。 文丝彩缎频赠赏， 美人恩义不能忘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如取缎付卓王孙。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "女公子和调，卑人感谢万分。现有文丝彩缎，愿以赠之女公子，烦侍者言明卑 人感谢之意。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "小女敬慕先生博雅，既承赞美逾分，谨代小女拜领厚赐。 家院！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "将司马官人所赠彩缎送与小姐，并达司马官人殷勤感谢之意。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院捧彩锻向屏后。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "司马官人赠送小姐彩缎，情意殷殷，感谢小姐和调之意。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "多谢了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君接。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "好不令人喜煞也！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "多蒙厚赡何敢忘， 心心相印喜非常。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "好一个多才多艺独具慧心的女公子，真古今少有。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "过奖了。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "女公子秀外慧中，名震蜀郡，并非过誉。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "县尊你也赞美起来了。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "今日之会，极尽宾主之欢。天已不早，吿辞了！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "人役们走上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍同上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "吿辞了！"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "今日宾主尽欢散， 叫人难忘这一天， 揖别主人回舍馆， 不虚此行心喜欢！ 请了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如下，书童随下。"
+        },
+        {
+          "character": "王吉",
+          "type": "唱",
+          "text": "饱听琴音复酣飮， 今日之会别有情。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、院子、王吉同下。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "哈哈哈……今日县尊邀得司马长卿前来赴宴，宾主尽欢，又与女儿鼓琴唱和， 真是难得的很。"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "我们也要告辞了。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "恕不远送。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑、门客同下。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "请小姐出堂！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请小姐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君、丫鬟同由屏后转出。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "爹爹！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "女儿，你看长卿如何？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "长卿文貌双绝，儿心醉矣。终身大事，还望爹爹做主。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "长卿才貌双绝，惟家非富有，车骑亦借自县令、焉能托以终身？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "若非长卿，儿终身不嫁也！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "长卿才貌多佳妙， 儿愿与他结鸾交。 爹爹不结这秦晋好， 儿愿在深闺守寂寥！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "唉，好不知长进的奴才！我决不许你嫁那穷汉，速回绣阁去吧。真真气死我也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君掩面哭下，丫鬟随下。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "这个丫头，情愿嫁那穷汉，我万难允从也！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "唱",
+          "text": "长卿才貌虽佳妙， 家贫难免受煎熬。 择婿不尽在才妙， 富有万钟始称豪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君上。"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "方才与父来争论， 不嫁长卿怎甘心。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "适才与父亲争吵一回，竟难如我愿，且喜馆舍都亭离此不远，不如趁这夜深人 静，开了后门径奔都亭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君出门。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "且喜并无一人看见，不如私奔长卿去者！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "难怪我卓氏女所为非分， 奈天伦贪财势重富轻贫。 适才间听琴声心中高兴， 乘夜静出后门我去私奔。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "卓府夜宴听琴音， 文君绝代一佳人。 归来夜深人声静， 至今犹觉有余情。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "宴罢归来，不能成寐，不如观书一回，以消永夜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君上。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "不觉已到都亭了。待我上前叩门。哎呀且住！他若问我，我拿何言答对？这便 如何是好！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "观书也难熬此通宵，不如鼓琴逍遣。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如鼓琴。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "那长卿尚在鼓琴。"
+        },
+        {
+          "character": "司马相如",
+          "type": "相思引",
+          "text": "曲高和本寡，怎随倾慕心！"
+        },
+        {
+          "character": "卓文君",
+          "type": "相思引",
+          "text": "谁是知音者，应念可怜人。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "夜静更深，何人应声？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "日来和调之人耳。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "莫非是文君么？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "正是奴家。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "为何夤夜至此？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "此处非讲话之所。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "如此且请入室。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如开门，卓文君进门，卓文君低头作羞涩状。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "小姐为何夤夜至此？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "这个……日来君以琴音挑我，奴以琴音和君，早把红丝双系。奈家严重富嫌贫， 争论一回，他不肯应允，万般无奈，故尔夤夜来奔哪！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "日来琴音相诱引， 红丝相系订终身。 夤夜私奔君莫怪， 家严重富更轻贫。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "原来如此！"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "卑人倾慕才色久， 日来挑卿以琴音。 夤夜来投合素愿， 卿须怜我我怜卿。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "既承不弃，当拜谢天地成全之美！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "如此请！"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "二人同把天地拜，"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "如鱼得水赋和谐。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "文君，你我既已成就美满姻缘，不可负此良宵。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "此处不可久留，长卿作何打算？"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "我们二人只得乘夜逃回成都，再作道理。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "如此快快起行！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "待我整顿行装。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如整装毕，开门看。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "且喜夜深人静，并无一人。 文君，快来同行！"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "奴一孱弱女子，如何禁得长途跋涉之苦！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "出城即是锦江，乘舟而往，不劳跋渉。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "如此，走哇！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "披星戴月出临邛，"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "青衫红袖喜相逢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如、卓文君同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙上。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "唱",
+          "text": "昨日里宴佳客尽欢而散， 更赠我新寡女彩缎数端。 他既与监邛令素相友善， 结纳他也不惜多费金钱。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟上。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "哎呀家爷呀，大事不好啦！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "小姐不在绣阁，不知上哪儿去啦！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "啊，有这等事！各房中可曾看过无有？"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "都看过啦，不见踪影。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "她往哪里去了？怪事呀怪事！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "启家爷：司马官人不知何时逃走。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "司马相如逃走，必是这奴才夤夜私奔，怨女旷夫同逃走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓大公子上。"
+        },
+        {
+          "character": "卓大公子",
+          "type": "念",
+          "text": "忙将新闻事，报与父亲知。"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "气死我也！"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "爹爹为何生气？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "你妹子与司马相如一同逃走，焉得不气！"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "方才闻听人说：司马相如携同妹子乘坐小舟，扬帆而去。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "吾女不才，与人私奔，我不忍杀之，我决不分她一钱！"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "妹子既已失身于司马长卿，长卿虽贫，其人乃博雅君子，可倚之终身。况且又 是县令好友，不妨分以钱帛，成为姻娅。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "胡说！哪有这等私相投奔的姻亲？决不与之丝毫！休得多言，还不下去！"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "这也就无可如何了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓大公子下。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "哎呀，真气死我也！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "唱",
+          "text": "这一阵气得我非同小可， 细思想都是我自惹风波。 亲生女虽不才怎忍杀却， 不分她一个钱看她如何。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "气死我也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君上。"
+        },
+        {
+          "character": "卓文君",
+          "type": "引子",
+          "text": "一曲琴音，引得我，沉醉芳心。"
+        },
+        {
+          "character": "卓文君",
+          "type": "念",
+          "text": "皑如山上雪，皎似云间月。嫁得有情郎，反作无家客。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "奴家、卓文君。本图聚族而居，不料望门而寡。生性好琴，竟少知音。前者父 亲邀请司马长卿与县令王吉到家饮酒，闻得司马长卿琴音，谁知绿绮一弹，早 已红丝双系。可叹我父欺贫重富，奴家只得违礼私奔。手中余资，为郞用尽， 如今家徒四壁，生计维艰。也曾修书吾家兄弟，索我嫁时衣服财物，奈父亲禁 而不予。来日方长，应如何打算哟！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "自到了成都后资财耗尽， 谋生计感艰难何以生存？ 曾修书索嫁时妆奁本份， 奈天伦禁不予是何存心？ 细思量与长卿主意来定， 到临邛设酒肆奴自当门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "我二人回成都资财耗尽， 家贫穷辜负了绝世佳人。 徒自惭也不知是贫是病， 与文君来计议怎样生存。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "嗟乎文君，时耶命耶？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "嗟乎长卿，贫耶病耶？"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "穷困若此，作何打算？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "奴倒有个主意，不知郞君尊意如何？"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "娘子有何高见，不妨明言。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "我父富甲一郡，竟不分我一钱，连那嫁时衣物，亦不允给，忒以薄情。你我夫 妻，不妨去到临邛设一酒肆，君亲涤器，我自当炉，要我家兄弟闻之，不甘羞 辱，不愁我父不分予财帛也。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "主意虽好，只是委屈你了。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "长卿说哪里话来！只要我父分予财帛，暂时的羞辱，又有何妨！主意已定，你 我二人临邛走走。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "收拾一切，变卖车骑，临邛去者！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "羞辱我父情难怪， 哪怕不予钱与财。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "娘子当炉把酒卖， 这等勤劳要好安排。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君、司马相如同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四随从、杨得意同上。"
+        },
+        {
+          "character": "杨得意",
+          "type": "唱",
+          "text": "好一片青春景太平世界， 看黎民多富庶攘往熙来。"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "咱家、杨得意。蜀郡人也。奉传上林，最叨恩宠。蒙赐休沐，暂假还乡。同邑 司马相如，素来相识，昨在成都访问，知其已赴临邛，今日路出县门，正好打 听他的消息。万岁爷雅好词斌，司马相如此体最工，我要取他几篇旧作，携转 长安，进呈御览。那时万岁召见相如，自然不忘我这举荐之功。他拜我为师， 我收他作弟子。怎见得蚕室狗监不似麟阁龙门哪？ 左右！"
+        },
+        {
+          "character": "四随从",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "打道！"
+        },
+        {
+          "character": "杨得意",
+          "type": "唱",
+          "text": "还乡路经临邛城， 访才踪迹荐故人。 司马相如得大用， 入室弟子掌握中。"
+        },
+        {
+          "character": "杨得意",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨得意、四随从同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君上。"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "抛秀容出香闺临邛设肆， 为的是老天伦分我家资。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君插幌。"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "挑青帘挂酒招桌椅调摆， 挽翠袖掮红炉搔首弄姿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "唉，羞煞人也！"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "文章无价真难卖， 来到临邛酒肆开。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如指卓文君。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "她生长富贵怎能耐， 我游戏为之也塌台。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "卑人、司马相如。卖赋不成，转而卖酒。为鸾凤交，作牛马走。我沦落不遇， 尚可游戏为之；卿生长富家，怎经得起这般劳累呀！"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "闲话少说，我在此扇炉，你去涤器，怕有客来索饮哪！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "晓得。我是装龙像龙，装虎像虎。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "奴家嫁鸡随鸡，嫁犬随犬。"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "我愿甘心权忍耐， 你去涤巾等客来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院、门客、程郑同骑马上。"
+        },
+        {
+          "character": "程郑",
+          "type": "唱",
+          "text": "我程郑有的是万贯家财， 有金银和财帛快乐胸怀。"
+        },
+        {
+          "character": "门客",
+          "type": "唱",
+          "text": "他的钱虽然多难入我袋， 我只好向天叹自怨命乖。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "我乃临邛第二富户程郑是也。产富者地方，致富者天命。琴棋书画，我与他结 下深仇；饮食男女，出于至性。但说到蜀郡的富豪，可算得汉室的极盛。哈哈 哈……不过是前有邓通，后有程郑。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "唉，那邓通出身微贱，并且因饿而死，他是一文不名。公当尊重，不要比他。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "我无非偶举其例，不必十分考订，且作半日闲游，不负四时佳兴也。"
+        },
+        {
+          "character": "程郑",
+          "type": "唱",
+          "text": "水边杨柳垂金钱， 山际芙蓉映绿苔。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "如此良辰美景，不可无酒啊。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "家院！"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "此是何处？"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "前面就是阳昌里，柳阴之下，挂着青布酒招，乃是酒家。里面炉边，还坐着一 个标致的女子呢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑望。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "妙哇！"
+        },
+        {
+          "character": "程郑",
+          "type": "唱",
+          "text": "有此佳人当炉搧， 下马饮酒观婵娟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑、门客同下马。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "酒家！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "二位请坐，待我取壶好酒来奉敬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如取酒。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "请吃好酒。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "唤你再来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如下。程郑低声向门客。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "这当炉女子，十分美貌。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "如此何不唤她前来陪酒！"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "不可造次，我是有身份的人，怕人讹诈。你试问她一问。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门客向卓文君。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "敢问小娘子，几时在此开设酒肆，怎么从前不曾见过？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "客官听了！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "奴非是屠沽辈轻薄无赖， 这其中有隐情把酒店来开。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "那个男子哪？"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "郞君儒雅非市侩， 夫唱妇随甚和谐。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "原来如此。尊夫一向作何生理，为什么忽然卖起酒来哪？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "客官哪！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "夫君才名天下显， 穷途落魄倦游还。 杂身佣保非本愿， 剑气书香和酒泉。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "他既是这样多才多艺，方今天子好贤！何不东向长安，也图个一官半职？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "听了！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "倘学毛遂来自荐， 旦夕皇恩下九天。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君下。门客向程郑。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "听这女子的口音，也是本县人氏，那酒保就是她的丈夫，看来不便唤她陪酒。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "我早晓得。那男子十分面善，好像在哪里见过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑想。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "哦哦是了，那年卓王孙请王县令赴宴，邀我作陪，其中有贵客司马相如，酒宴 之间，即席鼓琴，卓王孙之女文君闻声相慕，连夜随司马相如奔往成都。卓王 孙怒女不才，未与她财产妆奁。想是他夫妻穷苦无聊，来此游戏。那男子要是 司马相如，这女子必是卓文君了。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "难为你的好记性。只是当时司马相如车骑甚多，何以一寒至此？"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "前者乃是借于县令，因此哄动卓王孙。只是我与卓王孙豪富齐名，物伤其类。 他女儿作此行径，耻笑必多，不免吿诉于他，好作处置。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑起。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "程郑",
+          "type": "念",
+          "text": "俺这里兔死狐悲！"
+        },
+        {
+          "character": "门客",
+          "type": "念",
+          "text": "他那里夫唱妇随。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "酒家，酒钱放在桌上，且请收下。"
+        },
+        {
+          "character": "卓文君",
+          "type": "内白",
+          "text": "晓得了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑、门客同下。随从甲上，卓文君暗上。"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "奉了杨公公之命，在临邛县内寻找司马相如，可叫我哪儿找去哪？那边儿有个 酒店，待我前去问来。 请问小娘子，这儿有个成都的司马相如，寓居何处哪？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "问他做甚？"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "有人仰慕才名，特来奉访。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "听了！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "人道长卿绝世才， 哪知流落在天涯。"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "天涯离这儿几里地呀？"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "他也曾侍君王紫袍玉带，"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "不错，他做过武骑常侍，后来哪？"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "几年间倦宦游病假归来。"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "旧事就不用细说啦。请问小娘子是他什么人，他规现在又在何处哪？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "听了！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "我与他是夫妇唱随半载， 可怜他读万卷负有奇才。 无奈何把车骑桐琴变卖， 在临邛大道旁把酒肆来开。"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "说了半天，还是茫然不解，这文绉绉的话，我实在有点儿听不懂？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "郞君！郞君！有人来访。"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "原来就在这儿哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "是何人访问到衡门？ 眷念旧交感激深。"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "借问一声，司马官人在何处居住啊？"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "我就是司马相如。"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "这倒巧得很。小人不知，多有得罪。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "不知者不怪罪。起来起来。是何人访我？"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "上苑杨公公与官人同里旧交，现今吿假还乡，经过此地，要取相公词赋数篇， 还奏天子。这是极好的机缘，真是富贵自天来呀。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "原来杨公公有此一番美意。但我混迹市尘，难以相见。兼之流离飘荡，著述都 忘，只有《子虚赋》一篇，系游梁时所作，谨托使者转呈，然此乃诸侯王者之 事，未极天子之观也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如递文章与随从甲，随从甲接过看。"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "高文满牍，奇字连篇，不用说杨公公不能句读；就是当朝将相，多是牧羊牧猪 出身，又何能识此哪？将来大官人亲策殿廷，还可夹带条答。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "不妨，当今天子博览群书，求贤若渴，杨公公果将此赋奏进，必动主心。那些 蠢才，要他赏识做甚！敢烦为我致意杨公，就此进呈便了！"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "谨遵大官人嘱咐。吿辞啦！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "奉送！"
+        },
+        {
+          "character": "随从甲",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "随从甲下。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "这杨公公之意，倒也可感。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "长卿啊！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "君纵有不世才胸罗万卷， 无人来达主知徂是枉然。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "只恐所举非人，进身可耻。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "强似那入资郞致身通显， 纸糊的纱帽儿也要朝天！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "当年景庙不好词赋，卑人因此游梁。今日一卷子虚，恐怕是枉费徒劳！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "彼一时此一时抱负可展， 抵多少贤良辈孝悌力田。 满朝中高爵位谁肯推荐？ 反不如一宦者为国求贤。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "这等说来，卑人有一知音，便是娘子；得一知己，就是杨监了。正是："
+        },
+        {
+          "character": "卓文君",
+          "type": "念",
+          "text": "作赋十年逢杨监，"
+        },
+        {
+          "character": "司马相如",
+          "type": "念",
+          "text": "琴心一夜悦蛾眉。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "远远望见县令来了，你我里面暂避。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "与君相识，但见何妨？"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "车笠之间，相形见绌。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君、司马相如同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、二门子、王吉同上。"
+        },
+        {
+          "character": "王吉",
+          "type": "引子",
+          "text": "鸣驹往返，七品官，送去迎来。"
+        },
+        {
+          "character": "王吉",
+          "type": "念",
+          "text": "眼看千秋雪，身为七品官。汉家自有制，蜀道不曾难。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "下官、王吉。作令临邛，向称富庶。顷因上林杨监路出县疆，他是天子近臣， 自当亲身迎送。 左右！"
+        },
+        {
+          "character": "四青袍、二门子",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "取我名刺，去到杨公公行馆，看他启程无有，说我要来相送。我在此等候，快 去快来！"
+        },
+        {
+          "character": "门子甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子甲持柬下。王吉下马。卓文君暗上，王吉看。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "这又奇了！小小酒家，怎有此天生丽质也！"
+        },
+        {
+          "character": "王吉",
+          "type": "唱",
+          "text": "谁将花枝一县栽， 玉壶买春为谁来？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子甲上。"
+        },
+        {
+          "character": "门子甲",
+          "type": "白",
+          "text": "启老爷：杨公公正要启行，小人投刺，他说原帖拜谢。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "晓得了。我且问你，那边柳阴之下，酒肆之中，有个当炉女子，你可认识？"
+        },
+        {
+          "character": "门子甲",
+          "type": "白",
+          "text": "乃是富人卓王孙的女儿，名唤文君。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王吉惊。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "文君已嫁长卿，为何在此？"
+        },
+        {
+          "character": "门子甲",
+          "type": "白",
+          "text": "此店就是司马官人开设的。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "长卿与我至交，为何妄自菲薄？"
+        },
+        {
+          "character": "门子甲",
+          "type": "白",
+          "text": "那卓王孙见司马官人贫穷，不肯分与财产。因此他夫妇来到此间，自食其力。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "长卿是博学君子，文君是绝世佳人，卓王孙守财如命，忍心白眼相看。也罢！ 待我回得衙去，打点银钱，送与长卿夫妇，暂度目前便了。"
+        },
+        {
+          "character": "王吉",
+          "type": "唱",
+          "text": "为官忝称民父母， 为富不仁是蠢才，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监引刘彻同上。"
+        },
+        {
+          "character": "刘彻",
+          "type": "引子",
+          "text": "万机待理，承皇业，一统山河。"
+        },
+        {
+          "character": "刘彻",
+          "type": "念",
+          "text": "汉室炎炎火德王，中原兆姓久安康。自从通道西南后，声教恩威达八方。"
+        },
+        {
+          "character": "刘彻",
+          "type": "白",
+          "text": "孤、大汉天子刘彻在位。上承富庶之业，下无水旱之灾，国泰民安，物阜年丰。 惟孤好大喜功，通道西南，声教所迄，西南蛮夷各国望风而服。前日内侍杨 得意，曾将武骑常侍司马相如的《子虚赋》进呈御览。孤想此人文学优美，才 气纵横。出使邛筰、冉駹等国，定能宣扬威德，安攘边夷。 内侍！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "奴婢在。"
+        },
+        {
+          "character": "刘彻",
+          "type": "白",
+          "text": "宣杨得意上殿！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "领旨！ 万岁有旨意：杨得意上殿哪！"
+        },
+        {
+          "character": "杨得意",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "杨得意上。"
+        },
+        {
+          "character": "杨得意",
+          "type": "念",
+          "text": "朝靴踏地响，上殿见君王。"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "奴婢、杨得意见驾，吾皇万岁！"
+        },
+        {
+          "character": "刘彻",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "万万岁！宣奴婢上殿，有何圣谕？"
+        },
+        {
+          "character": "刘彻",
+          "type": "白",
+          "text": "孤有圣旨一道，命你去到成都宣谕前武骑常侍司马相如。听孤旨下！"
+        },
+        {
+          "character": "刘彻",
+          "type": "唱",
+          "text": "奉颁恩旨赴成都， 中郞将官拜相如。 建节乘传使邛筰， 立功边疆保皇图。"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "奴婢领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙上。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "念",
+          "text": "家门遭不幸，恨女竟私逃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙坐。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "老夫、卓王孙。自那日宴请司马相如，当筵奏琴，我女文君在屏后窥听，并和 一曲，颇动怜才之念，意欲许以终身。想那司马相如才学虽好，怎奈他贫无立 锥之地，岂肯与他配偶？故尔不允。可恨我女一时情急，竟不吿我，私自逃奔 司马相如馆中。思想起来，真令人好恼好恨也！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "唱",
+          "text": "非是我卓王孙势利成性， 都只为文君女不别而行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑上。"
+        },
+        {
+          "character": "程郑",
+          "type": "唱",
+          "text": "迈步且把卓府进， 见了王孙说分明。"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "卓兄在家么？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "是哪位？ 原来是程兄！请进！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑进。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "程兄到此，有何见教？"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "卓兄，你可知道司马相如与令嫒近日的下落么？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "不要提起！"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "待我慢慢吿诉于你：他夫妻在此地开设酒肆，男亲涤器，女自当炉，一县哄传， 岂非一场笑话！依弟之见，不如请兄分与他们钱财，令其离开邛邑。我想司 马相如终非池中之物，功名富贵必在目前，望兄再三思之！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "吾兄此言差矣！想我女儿竟敢私奔，情愿嫁那穷酸，此乃自作自受，哪有银钱 分与他们！吾兄不要多言，请便吧！"
+        },
+        {
+          "character": "程郑",
+          "type": "白",
+          "text": "我乃良言奉劝，吾兄执意不肯，我也不管你家的闲事了。正是："
+        },
+        {
+          "character": "程郑",
+          "type": "念",
+          "text": "今日不听我言语，丢脸失财后悔迟。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑下。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "真真气死我也！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "唱",
+          "text": "家不幸亲生女当场出丑， 三江水难洗我满面之羞。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如、卓文君同上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "念",
+          "text": "一寒清彻骨，有情成眷属。夫妻作佣保，甘心自羞辱。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "当初你到我家，本从县令饮酒。如今沦落不遇，卖酒为生，酒始酒终，岂非一 段佳话？"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "忆当日挑琴音两相投报， 我二人结同心月夜双逃。 恨我父重钱财不重姻好， 生计窘事无奈逼卖村醪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子、王吉同上。"
+        },
+        {
+          "character": "王吉",
+          "type": "唱",
+          "text": "聊分鹤俸济清贫， 周济才子与佳人。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "来此已是，前去通报！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "司马官人，王县尊亲送礼物来了。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王吉下马。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "长卿别来无恙？"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "小弟一时游戏，幸勿见怪！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如指卓文君。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "这是荆人。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "县尊，有礼了！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "久慕才名，今日一见，真是三生有幸。哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王吉坐。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "小弟备有白银百两，望兄笑纳，贤夫妇也好度日。"
+        },
+        {
+          "character": "司马相如、卓文君",
+          "type": "同白",
+          "text": "县尊厚赐，感谢万分！"
+        },
+        {
+          "character": "杨得意",
+          "type": "内白",
+          "text": "圣旨下！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "圣旨下！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "长卿大喜，快快出迎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如向卓文君。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "你且退下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君下。四太监引杨得意捧旨同上。"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "圣旨下，司马相如跪听宣读！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "万岁！"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "奉天承运，皇帝诏曰：咨尔武骑常侍司马相如，工作词赋，才高北斗，着拜为 中郞将，建节往使邛筰，乘传宣扬天威。钦此。旨意读罢，望诏谢恩！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "万万岁！"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "请过圣命。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "公公跋渉长途，多受风霜之苦。"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "为国勤劳，何言辛苦！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "愿行旌小住，聊尽东道之谊。"
+        },
+        {
+          "character": "杨得意",
+          "type": "白",
+          "text": "王命在身，不敢久留，咱家还要回复圣命。吿辞啦！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "奉送！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、杨得意同下。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "文君快来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君上。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "内监到此何事？"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "前者杨监取我《子虚赋》，上呈御览，圣颜大悦，今拜我为中郞将，建节往使 邛筰。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "我料郞君必有今日。"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "恭喜恭喜！天使降临，我当负弩前驱。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "岂敢劳动大驾！"
+        },
+        {
+          "character": "王吉",
+          "type": "白",
+          "text": "此乃应尽职务。吿辞了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子、王吉同下。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "夫人，快快将酒幌收起，你我后堂收拾，冠带起来，取道成都去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓文君收酒幌。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "司马相如",
+          "type": "念",
+          "text": "一朝得遂凌云志，"
+        },
+        {
+          "character": "卓文君",
+          "type": "念",
+          "text": "自喜当初眼力高。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "司马相如、卓文君同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙上。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "唱",
+          "text": "为女儿气得我一场大病， 我岂肯将财帛分与他人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程郑、门客同上。"
+        },
+        {
+          "character": "程郑",
+          "type": "念",
+          "text": "忙将所闻事，"
+        },
+        {
+          "character": "门客",
+          "type": "念",
+          "text": "报与王孙知。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院暗上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "二位来了。请进！"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "大喜大喜，恭贺恭贺！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "二位与何人恭喜？"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "与你道喜来了！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "我气得要死，还来恭喜？不要取笑了！"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "你气的什么？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "为我那不才的女儿。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "门下要同你说了，你不但不气，还要喜之不尽呢！你那司马姑爷现奉旨启用， 天子拜他为中郞将，出使邛筰，建节乘传。蜀郡太守以下出郊迎接；县令负弩 前驱，好不荣耀！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "此话当真？"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "哪有假的！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "哈哈哈……我那女儿少不得也是一品夫人了。早知如此，先前把女儿用花红大 轿送与长卿，也免得多此一奔。唉！早知今日，悔不当初。"
+        },
+        {
+          "character": "门客",
+          "type": "白",
+          "text": "你那家财呢？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "果有如此女婿，就把这家财全给了他们，也是情愿的。"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "既有此意，何不赶紧打点金银财帛，趁此机会，送赠与他，做一个顺水人情？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "此计甚好。 家院！"
+        },
+        {
+          "character": "家院",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "赶紧打点金银财帛，我有要用。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。卓大公子、卓二公子同上。"
+        },
+        {
+          "character": "卓大公子、卓二公子",
+          "type": "同白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "你们回来了？"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "卓大公子",
+          "type": "白",
+          "text": "爹爹何事这等欢喜？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "我儿有所不知，只因你妹夫已奉旨出使邛筰，你妹妹做了夫人。已曾吩咐家院， 急速备齐金银财帛，一同前去贺喜。好不快活人也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卓王孙向内。"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "家院！金银财帛齐备无有？"
+        },
+        {
+          "character": "家院",
+          "type": "内白",
+          "text": "齐备了。不知送往哪里？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "送到姑老爷那里！"
+        },
+        {
+          "character": "家院",
+          "type": "内白",
+          "text": "谁是姑老爷？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "中郎将司马相如是我嫡嫡亲亲的姑老爷，你还不晓得么？"
+        },
+        {
+          "character": "家院",
+          "type": "内白",
+          "text": "从前老爷屡要同他吵闹，今日怎么认起亲来了？"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "前日他贫贱，所以不认；今日他富贵，现成姻亲，怎么不认！"
+        },
+        {
+          "character": "家院",
+          "type": "内白",
+          "text": "这样说，老爷不是认亲，是认富贵！"
+        },
+        {
+          "character": "卓王孙",
+          "type": "白",
+          "text": "休要胡说，快快搭了上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院捧金帛上。"
+        },
+        {
+          "character": "程郑、门客",
+          "type": "同白",
+          "text": "事不宜迟，你我走哇！"
+        },
+        {
+          "character": "程郑",
+          "type": "唱",
+          "text": "可贺那司马兄新承宠命，"
+        },
+        {
+          "character": "卓王孙",
+          "type": "唱",
+          "text": "准备着财与帛相见长卿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、四龙套、王吉、成都令、太守同上。"
+        },
+        {
+          "character": "太守",
+          "type": "念",
+          "text": "天使将入境，"
+        },
+        {
+          "character": "成都令、王吉",
+          "type": "同念",
+          "text": "郊接献殷勤。"
+        },
+        {
+          "character": "太守",
+          "type": "白",
+          "text": "天使乘传出使，出郊迎接。二位年兄！"
+        },
+        {
+          "character": "成都令、王吉",
+          "type": "同白",
+          "text": "大人！"
+        },
+        {
+          "character": "太守",
+          "type": "白",
+          "text": "你我一同出郊迎接天使去者！请！"
+        },
+        {
+          "character": "成都令、王吉、太守",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、四大铠、四侍女、司马相如、卓文君同上。"
+        },
+        {
+          "character": "司马相如",
+          "type": "唱",
+          "text": "仕宦而至将与相， 富贵荣华归故乡。"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "君承宠命建节往， 奴受封诰耀乡邦。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "夫人！"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "长卿！"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "今日衣锦荣归，不知尊翁有何感想？"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "家父重富厌贫，今长卿富且贵焉，当趋附不及也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子甲上。"
+        },
+        {
+          "character": "门子甲",
+          "type": "白",
+          "text": "蜀郡太守等出郊恭迎。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "且请他们回去，少时衙中叙话。"
+        },
+        {
+          "character": "门子甲",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "门子下。"
+        },
+        {
+          "character": "司马相如",
+          "type": "白",
+          "text": "如今方知朝命之尊。"
+        },
+        {
+          "character": "卓文君",
+          "type": "白",
+          "text": "长卿哪！"
+        },
+        {
+          "character": "卓文君",
+          "type": "唱",
+          "text": "若非是富才华钦承王命， 怎能够儆薄俗重富轻贫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

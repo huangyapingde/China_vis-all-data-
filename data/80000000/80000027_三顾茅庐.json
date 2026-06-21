@@ -1,0 +1,2932 @@
+{
+  "script_id": "80000027",
+  "title": "三顾茅庐",
+  "alias": [],
+  "source": "录音、唱片本",
+  "characters": [
+    {
+      "name": "诸葛亮",
+      "hangdang": "老生"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    },
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "书童",
+      "hangdang": "丑"
+    },
+    {
+      "name": "崔州平",
+      "hangdang": "老生"
+    },
+    {
+      "name": "诸葛均",
+      "hangdang": "小生"
+    },
+    {
+      "name": "黄承彦",
+      "hangdang": "丑"
+    },
+    {
+      "name": "孟公威",
+      "hangdang": "老生"
+    },
+    {
+      "name": "石广元",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "刘备屯居新野县，经徐庶举荐，与关羽、张飞三顾茅庐，请诸葛亮出山，共图大业。诸葛亮被刘备感动，出\n山襄助。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同上，刘备上，坐。"
+        },
+        {
+          "character": "刘备",
+          "type": "引子",
+          "text": "天翻地覆，扶汉祚，得访高贤。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "新野小县暂安身，辅佐无人志未成。元直、德操齐指引，卧龙岗上有贤人。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "俺，刘备。自桃园结拜以来，常思恢复汉室。不幸征曹事败，暂投荆州刘表， 屯居新野小县，待时而动。前者徐庶先生临行之时，推荐襄阳城外卧龙岗上有 一贤士，复姓诸葛名亮字孔明，道号卧龙，此人有经天纬地之才。我意欲请他 下山，共图大事。 来！"
+        },
+        {
+          "character": "二旗牌",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请二将军、三将军！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "是！ 有请二将军、三将军！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "赤胆忠心扶炎汉，"
+        },
+        {
+          "character": "张飞",
+          "type": "念",
+          "text": "招军买马破曹瞒。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "参见大哥！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二位贤弟少礼，一旁坐下！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "谢座！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同坐。"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "大哥呼唤，有何吩咐？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "只因前者徐庶先生临行之时，推荐襄阳城外卧龙岗上有一贤士，复姓诸葛名亮 字孔明，道号卧龙，此人有经天纬地之才。我意欲请他下山，共图大事。不知 二位贤弟意下如何？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊！大哥！想那孔明乃一山野村夫，何必大哥亲自前往？待小弟差人将他唤来 就是！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "呃！三弟说哪里话来？大贤只有聘请，哪有呼唤之理？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "噢！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥言得极是，弟愿前往！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好！小弟也愿同去！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "既然如此，准备聘礼，一同前往！带马伺候！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "啊！带马伺候！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "元直先生对我言， 卧龙、凤雏二英贤。 人来带过马走战，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二旗牌同带马，刘备、关羽、张飞同上马，关羽、张飞同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "卧龙岗上走一番。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "弟兄打马朝前进，"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮散板",
+          "text": "卧龙岗上何处寻？"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "待我前去把路问，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二农夫同上。"
+        },
+        {
+          "character": "二农夫",
+          "type": "同唱",
+          "text": "世人皆走名利路， 利锁名牵俱网缚。 苍天如圆盖， 陆地如棋局。 世人黑白分， 往来争荣辱。 荣者自安安， 辱者自碌碌。 南阳有隐居， 高卧眠不足。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "又听农夫山歌声。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！三弟！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你向前问这农夫，山歌何人所作？然后再问他的路径！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "遵命！ 喂！农夫哥请了！"
+        },
+        {
+          "character": "二农夫",
+          "type": "同白",
+          "text": "哦！请啦！请啦！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哦！请问口唱山歌，何人所作？"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "此歌乃卧龙先生所作。"
+        },
+        {
+          "character": "农夫乙",
+          "type": "白",
+          "text": "哎！不错的！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哦！卧龙所作！"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "正是！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "他住在何处？"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "哎！您顺我手儿瞧：过了这个土山，一带高岗，名为卧龙岗。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "噢！"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "前有疏林密竹，近有草庐一座，那就是诸葛先生高卧之所。"
+        },
+        {
+          "character": "农夫乙",
+          "type": "白",
+          "text": "对啦！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "噢！离此地有多少路径？"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "哎！您走这股小道儿，拐过这个山头往西，要近着一、二里路哪！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "不过是山路崎岖，车马难以行走哇！"
+        },
+        {
+          "character": "农夫乙",
+          "type": "白",
+          "text": "对啦！可不是吗？嘿嘿！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "还有别路可走么？"
+        },
+        {
+          "character": "农夫乙",
+          "type": "白",
+          "text": "哎！这个您要是走大道，您瞧见没有？往南一拐，车马能行。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "噢！"
+        },
+        {
+          "character": "农夫乙",
+          "type": "白",
+          "text": "远者也得四、五里哪！"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "哎！不错的！这两条道儿，您倒是爱走哪条走哪条，随您的便！"
+        },
+        {
+          "character": "农夫乙",
+          "type": "白",
+          "text": "哎！随您的便走！哈哈……"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好好好！有劳了！"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "哎！算不了什么！"
+        },
+        {
+          "character": "农夫乙",
+          "type": "白",
+          "text": "不客气！不客气！"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "改日说话！天不早啦，伙计！"
+        },
+        {
+          "character": "农夫乙",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "农夫甲",
+          "type": "白",
+          "text": "咱们该歇晌去啦！"
+        },
+        {
+          "character": "农夫乙",
+          "type": "白",
+          "text": "哎！该歇晌去啦！改日说话啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二农夫同下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊！大哥！农夫口唱山歌，乃是诸葛先生所作！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "噢！诸葛先生所作？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "可曾问过他的路径？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "也曾问过。大哥！我们走大路？还是走小路呢？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！大路怎说？小路怎讲？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大路遥远，小路可近二里。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我欲见大贤，如渴思饮。恨不得即刻相见，马上加鞭！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "三弟他把路径问， 先生高卧在前村。 弟兄打马山林进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同走圆场。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "来见经天纬地人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同下马。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "来此已是！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "向前通禀！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好！ 门上有人么？"
+        },
+        {
+          "character": "书童",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童上。"
+        },
+        {
+          "character": "书童",
+          "type": "数板",
+          "text": "襄阳城西二十里，卧龙岗上隐高期。不图名来不图利，哪管闲事和他非。茅庐 半掩卧不起，专等春雷惊梦回。有朝一日时运到，施展奇才定华夷，定华夷。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哟！找谁的？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！小顽童！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "我来问你：此处可是诸葛先生的庄院？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "这儿啊？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哦！不错！是啊！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好！往里通禀：汉左将军、宜城亭侯、领豫州牧，皇叔刘备，特来……嘿嘿！ 拜访！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哈哈！啊！我说你说这么一大套，我怎么听不懂啊我？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！三弟！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "怎么他不懂啊？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！琴童请了！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！请了！请了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "烦劳通禀：就说刘备拜访。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！我家先生不在。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！到何处去了？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "闲游去啦。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！但不知几时归来？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "这个……归期不定。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊，大哥，先生既然不在，我们就该回去吧！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你我弟兄在此少待片时！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "噢！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "啊！大哥！先生既不在庄上，你我弟兄暂且回去。差人前来，探听先生归期之 日，你我弟兄再来！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "是啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！也好！也好！ 啊，书童！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生既不在庄上，我改日再来拜访。有几句言语，书童听了："
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！是的！是的！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮流水板",
+          "text": "开言我对书童讲， 几句言语记心旁： 一则是今日来得太鲁莽， 二来是德薄难见贤良。 改日诚心再拜访， 望先生赐见我细说衷肠。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "啊！好！我给您言语一声！哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童下。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "眼望仙庄，"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥！我们上马回去吧！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "把马上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同上马。"
+        },
+        {
+          "character": "崔州平",
+          "type": "内白",
+          "text": "嗯哼！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "想是先生转回乡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同下马。崔州平上。"
+        },
+        {
+          "character": "崔州平",
+          "type": "西皮摇板",
+          "text": "生逢乱世且高隐， 祸福于我如浮云。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "来的敢是卧龙先生么？"
+        },
+        {
+          "character": "崔州平",
+          "type": "白",
+          "text": "哦！将军是谁？欲见卧龙么？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "噢！我乃刘备。"
+        },
+        {
+          "character": "崔州平",
+          "type": "白",
+          "text": "我非卧龙，乃孔明之友，博陵崔州平也！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "嘿嘿！问错了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀呀！久仰大名，幸得相见！"
+        },
+        {
+          "character": "崔州平",
+          "type": "白",
+          "text": "岂敢！将军何事欲访孔明？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "如今天下大乱，干戈四起。欲见孔明，求安邦定国之策。"
+        },
+        {
+          "character": "崔州平",
+          "type": "白",
+          "text": "将军欲平天下之乱，虽有仁义之心，但当今天下纷乱，群雄各据一方。将军欲 使孔明扭转乾坤，深恐不易，枉费心力耳！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生之言，诚为高见。怎奈刘备身为汉室宗亲，理当恢复汉室。至于“成败” 二字，在所不计也！"
+        },
+        {
+          "character": "崔州平",
+          "type": "白",
+          "text": "哎呀！山野之人，不足议论国家大事。适承下问，姑妄言之耳！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！岂敢！岂敢！请问先生：可知那卧龙到何处去了？"
+        },
+        {
+          "character": "崔州平",
+          "type": "白",
+          "text": "哦！我也正要去访孔明。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "噢！这就是了！我有意请先生下山，共图大事，不知尊意如何？"
+        },
+        {
+          "character": "崔州平",
+          "type": "白",
+          "text": "哎呀！在下生性懒散，无意功名。好好！改日再见！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！好好！"
+        },
+        {
+          "character": "崔州平",
+          "type": "白",
+          "text": "告辞了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "崔州平下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！孔明先生未曾看见，倒遇见一个腐儒。闲谈许久，枉费唇舌，好不耐烦！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉！啊！三弟！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "此亦高士也！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "什么高士？书呆子！书呆子！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥！回去吧！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "回去吧！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "访贤未遇空惆怅， 他日再来卧龙岗。 弟兄一同把马上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同上马，刘备、关羽同下。"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮摇板",
+          "text": "我三人空走这一场！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石广元上。"
+        },
+        {
+          "character": "石广元",
+          "type": "西皮摇板",
+          "text": "避乱隐居在山林， 治乱二字不关心。 出得门来观雪景，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟公威上。"
+        },
+        {
+          "character": "孟公威",
+          "type": "西皮摇板",
+          "text": "访友赏雪把诗吟。"
+        },
+        {
+          "character": "石广元",
+          "type": "白",
+          "text": "啊！仁兄！"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "贤弟！"
+        },
+        {
+          "character": "石广元",
+          "type": "白",
+          "text": "请到家中！"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "啊！贤弟请坐！"
+        },
+        {
+          "character": "石广元",
+          "type": "白",
+          "text": "仁兄到此何事？"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "啊！贤弟！今日天降大雪，愚兄特地前来，与你去到酒楼沽饮几杯，赏雪吟诗， 不知意下如何？"
+        },
+        {
+          "character": "石广元",
+          "type": "白",
+          "text": "正合我意！"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "哦！好！"
+        },
+        {
+          "character": "孟公威、石广元",
+          "type": "同白",
+          "text": "请哪！"
+        },
+        {
+          "character": "孟公威",
+          "type": "西皮摇板",
+          "text": "时至隆冬天气冷，"
+        },
+        {
+          "character": "石广元",
+          "type": "西皮摇板",
+          "text": "彤云密布雪纷纷。"
+        },
+        {
+          "character": "孟公威",
+          "type": "西皮摇板",
+          "text": "如此佳境添诗兴，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石广元、孟公威同走圆场。"
+        },
+        {
+          "character": "石广元",
+          "type": "西皮摇板",
+          "text": "不觉来到酒馆门。"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "哦！来此已是酒馆。 酒保！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎！来啦！二位客官您来啦！请上楼吧！"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "噢！好好好！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保、石广元、孟公威同上楼。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "二位先生请坐！请坐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石广元、孟公威同坐。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "二位先生您用些什么酒哇？"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "哦！瓮头春一壶！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎！是啦！ 哎！伙计们！"
+        },
+        {
+          "character": "众伙计",
+          "type": "内同白",
+          "text": "哎！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "瓮头春一壶哇！一壶哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下，取酒上。"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "哎！酒保！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "取纸笔墨砚一用！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎！是啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下，取笔墨砚上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "二位先生！纸笔墨砚到！"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "唤你再来！去吧！"
+        },
+        {
+          "character": "石广元",
+          "type": "白",
+          "text": "下面去吧！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎！是啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "石广元",
+          "type": "白",
+          "text": "啊！贤弟！"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "兄长！"
+        },
+        {
+          "character": "孟公威、石广元",
+          "type": "同白",
+          "text": "请哪！"
+        },
+        {
+          "character": "孟公威",
+          "type": "西皮摇板",
+          "text": "踏雪寻梅酒味甜，"
+        },
+        {
+          "character": "石广元",
+          "type": "西皮摇板",
+          "text": "缺少卧龙在面前。"
+        },
+        {
+          "character": "刘备",
+          "type": "内西皮导板",
+          "text": "大雪飘飘飞满天，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "道窄山高行路艰难。 清晨冒雪隆中往， 又见梅花开满山。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮原板",
+          "text": "风吹酒味香扑面，"
+        },
+        {
+          "character": "孟公威、石广元",
+          "type": "同白",
+          "text": "好酒哇！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "且到酒楼避避寒。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哦！大哥！二哥！"
+        },
+        {
+          "character": "关羽、刘备",
+          "type": "同白",
+          "text": "三弟！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "风雪甚大，你我在此沽饮几杯如何？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "好！就依三弟！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好好好！ 酒保！"
+        },
+        {
+          "character": "酒保",
+          "type": "内白",
+          "text": "哎！来啦！来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "啊！三位！您是喝酒的吗？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "您请到里边吧！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "大哥请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "二位贤弟请！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保、刘备、关羽、张飞同进，刘备、关羽、张飞同坐。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎！您用些什么酒哇？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好酒取来！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎！是啦！ 伙计们！"
+        },
+        {
+          "character": "众伙计",
+          "type": "内同白",
+          "text": "哎！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "好酒一壶哇！一壶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下，取酒上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "酒到！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "唤你再来！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "去吧！大哥请！二哥饮！咱老张我干它几杯。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "孟公威",
+          "type": "唱",
+          "text": "管他龙争与虎斗，"
+        },
+        {
+          "character": "石广元",
+          "type": "唱",
+          "text": "闲来村店饮樽酒。"
+        },
+        {
+          "character": "孟公威、石广元",
+          "type": "同笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "酒保！酒保！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！酒保！酒保！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "来啦！来啦！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "再满上一壶来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保欲下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "回来！回来！啊！酒保！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "客官！您哪……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我来问你：楼上何人饮酒？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "乃是卧龙岗的隐士！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！卧龙岗的隐士？你可知姓甚名谁？"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎呀！哦、有姓石的，有姓孟的，还有什么姓诸葛的，常来常往。有几位哪， 我都记不清楚啦！哈哈！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！好好！你且去吧！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎！是啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！二位贤弟！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "大哥！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "你们可曾听见？"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "听见什么？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "方才酒保之言，楼上一定有诸葛先生在上饮酒哇！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥！今日来得倒也凑巧！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "嘿！大哥！若不是小弟想要饮酒，你我弟兄冒着风雪，赶到隆中，哎！也不过 是看看茅庐而已呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀呀！若不是三弟要饮酒，险些错过机会！如此说来，少时见了诸葛先生， 倒是三弟之功也！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎呀！大哥取笑了！"
+        },
+        {
+          "character": "张飞",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！二位贤弟饮酒，待愚兄向前！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "好好好！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备上楼。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！酒保！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "哎！来啦！军爷有什么事啊？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "再上一壶！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是啦！ 伙计们！再上一壶哇！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "一壶！一壶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下，取酒上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "酒到！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "去吧！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "是啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！二位！哪位是诸葛先生哪？"
+        },
+        {
+          "character": "孟公威、石广元",
+          "type": "同白",
+          "text": "噢！公乃何人？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "某乃刘备。欲访孔明，求济世安民之术。"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "噢！我等皆非卧龙，乃孔明之友。在下汝南孟公威。"
+        },
+        {
+          "character": "石广元",
+          "type": "白",
+          "text": "在下颖川石广元。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀呀！久仰二公大名，失敬了！"
+        },
+        {
+          "character": "孟公威、石广元",
+          "type": "同白",
+          "text": "岂敢！我等乡野村夫，将军何以知之？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "这！二公听了："
+        },
+        {
+          "character": "刘备",
+          "type": "四平调",
+          "text": "水镜先生对我言， 卧龙庄上聚高贤。 我请二公同到新野县， 扶保汉室锦江山。"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "我等山野之人，不明治国安民之事。将军请自上马，速访卧龙要紧！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "噢！是是是！打搅了！请！"
+        },
+        {
+          "character": "孟公威、石广元",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下楼。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "访贤不易呀！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥来了！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "噢！大哥来了！ 啊！大哥！诸葛先生可曾讲些什么？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "楼上并非诸葛先生，乃卧龙之友，孟公威、石广元二位先生，在楼上饮酒。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎呀呀！又错了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "我们算请酒钱，到卧龙岗上去者！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "是！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "酒家！酒钱在此，我们去了！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "弟兄冒雪把路趱，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同上马。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "再到茅庐会高贤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同下。"
+        },
+        {
+          "character": "孟公威",
+          "type": "白",
+          "text": "啊！酒保！酒钱在此，我们去也！"
+        },
+        {
+          "character": "孟公威",
+          "type": "西皮摇板",
+          "text": "无拘无束要啥管？"
+        },
+        {
+          "character": "石广元",
+          "type": "西皮摇板",
+          "text": "不图名利只偷闲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石广元、孟公威同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛均上。"
+        },
+        {
+          "character": "诸葛均",
+          "type": "西皮摇板",
+          "text": "退隐丛林二兄长， 务农耕种在南阳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "一湾流水绕山岗， 田地忽映一村庄。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同下马。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "门上有人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童上。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！又是你们三位呀？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！书童！我来问你。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生今日在庄否？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！先生在草堂读书。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "噢！好好！前面带路！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！是！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！先生现在家中！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "巧得很！好好好！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童、刘备、张飞、关羽同进。"
+        },
+        {
+          "character": "诸葛均",
+          "type": "唱",
+          "text": "凤翱翔于千仞兮，非梧不棲， 士伏处于一方兮，非主不依。 乐躬耕于陇亩兮，吾爱吾庐， 聊寄傲于琴书兮，以待天时。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！先生！备久仰大名，无缘拜会。前徐元直推荐，得至仙庄，不遇而回。今 日特冒风雪而来，得见先生实为万幸！"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "噢！将军莫非刘皇叔，欲见家兄否？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "嘿嘿！又错了！"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "我乃卧龙之弟，诸葛均也。愚弟兄三人，长兄诸葛瑾，现在江东孙仲谋处为幕 宾，孔明乃二家兄也。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！原来是三先生！失敬了！"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "请问三先生：令兄卧龙可在庄否？"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "昨为崔州平相约，出外闲游去了。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！到何处闲游？"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "或驾小舟遨游于江湖之中，或寻朋友散步于村落之间。来往莫测，不知去所。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉！我刘备真真缘分浅薄，两次未遇大贤。"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "少坐！ 献茶！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "不敢！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊！大哥！先生既然不在，我们就该回去吧！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！我既到此间，岂有空回之理？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哦！是是是！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！三先生！"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "皇叔！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "久闻令兄熟习韬略，日看兵书。哎！可得闻否？"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "哎！这却不知！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！你问他做甚哪？"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "家兄不在，不敢久留大驾，容日回报！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀呀！焉敢劳动先生？数日之后，备再当拜访。哎！愿借纸笔留一书信，请 转达令兄，以表刘备敬仰之意。"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "是是！童儿！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "文房四宝伺候！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童备笔纸，刘备写。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "拜托三先生转达令兄，我等告辞了！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "弟兄出门把马上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同上马。"
+        },
+        {
+          "character": "黄承彦",
+          "type": "内白",
+          "text": "好大雪！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！先生来啦！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "噢！先生来了！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "幸得先生转回庄。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同下马。黄承彦上。"
+        },
+        {
+          "character": "黄承彦",
+          "type": "白",
+          "text": "好大雪！"
+        },
+        {
+          "character": "黄承彦",
+          "type": "唱",
+          "text": "一夜北风寒， 万里彤云厚。 长空雪乱飘， 改尽江山旧。 仰面观太虚， 疑是玉龙斗。 纷纷鳞甲飞， 顷刻遍宇宙。 骑驴过小桥， 独叹梅花瘦。"
+        },
+        {
+          "character": "黄承彦",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！先生冒雪而回，刘备久候多时了！"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "噢！此非卧龙，乃黄承彦老先生，二家兄之岳父！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎呀！老丈人！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！原来是黄老先生！失敬了！"
+        },
+        {
+          "character": "黄承彦",
+          "type": "白",
+          "text": "岂敢！公乃何人？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "某乃刘备，适才听老先生所吟诗句，极其高妙！"
+        },
+        {
+          "character": "黄承彦",
+          "type": "白",
+          "text": "哎呀呀！老汉在小婿家中，偶观《梁父吟》，记得这一篇。适才路过小桥，偶 见梨落之间，梅花瑞雪，故感而诵之，不期被尊客所闻。真是班门弄斧，见笑 哇！见笑！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！岂敢！岂敢！请问老先生！可曾见着令婿卧龙否？"
+        },
+        {
+          "character": "黄承彦",
+          "type": "白",
+          "text": "哦！我也是来看他的！哎！改日再叙！改日再叙！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "好！恕不远送！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄承彦下。诸葛均、书童同下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！孔明先生未曾见着，你我弟兄冒雪迎风，是空来两趟啊！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉！三弟！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "访贤不易呀！今日未见，你我弟兄是改日再来。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "改日再来。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "再来？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "再来呀！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "再来也是他娘的不见哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉！三弟带马！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同上马。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "一天风雪访贤良， 不遇空回意感伤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "张飞",
+          "type": "西皮散板",
+          "text": "大哥做事欠思量， 不由咱老张怒满膛！ 冒雪迎风空来往， 两次空走卧龙岗。"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮散板",
+          "text": "三弟不可太莽撞， 愚兄言来听端详。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "三弟！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大哥访贤不易，你我弟兄不可违背大哥。回转县衙，再来相劝大哥，也就是了。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "相劝他还是要来的呀！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "这……哦！三弟！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你看大哥已然去远，"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "马上加鞭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮上，书童上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄慢板",
+          "text": "隐居在卧龙岗逍遥自在， 看天下乱纷纷宁日难排。 务农在南阳郡我清闲世外，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄快三眼",
+          "text": "叹人生远势利难展奇才。 唯淡泊能明志修身等待， 唯宁静能致远候限到来。 闲无事只觉得身心安泰，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "书童！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "二黄原板",
+          "text": "休将那烦琐事扰我心怀。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮卧床，睡。刘备、关羽、张飞同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "光阴似箭困英雄， 拜访南阳诸葛孔明。 但愿相见一路行，"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "大哥哇！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同西皮摇板",
+          "text": "只恐大哥枉劳神！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "啊！大哥！你我弟兄三人前去相访先生，已有两次不见其人。莫非他空有虚名， 无有实学，故避而不见？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！不然！不然！昔日齐桓公欲见东郭野人，五次相访，才得一见，何况要访 大贤？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "啊！大哥！想那孔明乃是一村夫，不足为大贤。今番不用大哥前去，小弟只用 麻绳一条，将人捆绑前来就是！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！三弟！你岂不知周文王亲到渭水去访姜子牙？文王尚且敬贤，是何况你我 弟兄？三弟如此轻贤慢士，你可先回县衙，我同你二兄前去就是！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "噢！二位兄长既然前去，小弟是焉能落后？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉！若要前去，千万不可失礼！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "噢！好好好！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "记下了！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "记下了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "马上加鞭！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "弟兄打马朝前进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛均上。"
+        },
+        {
+          "character": "诸葛均",
+          "type": "西皮摇板",
+          "text": "又见明公到山林。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！三先生！令兄卧龙今日可在庄否？"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "哦！昨晚方回，今日可以相见了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "噢！好好！"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "请了！请了！请了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛均下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "嘿嘿！哎呀！这个人好生无礼！引我们进庄，又待何妨？他竟自扬长而去，这 样文绉绉的腐儒，真真的可气呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！彼此各有志，岂能相强？哎呀！今日侥幸，真个能遇见大贤也！"
+        },
+        {
+          "character": "刘备",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "听罢言来喜不尽，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备、关羽、张飞同下马。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "今日得见这贤人。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "向前通禀！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哦！ 门上有人么？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "这……哎！三位呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "孔明先生可在家否？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哦！在草堂打睡！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！如此前面带路！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童引刘备同进。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "不可惊动啊！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是是！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！不要通禀！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "好好！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "今日得见大贤也！好好好！哎！走走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘备立。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "待我来偷觑偷觑……嘿嘿！这位先生好生无礼！怎么？咱大哥侍立于阶下，他 竟自高卧不起。噢！有了！我不免去至屋后，放起一把号火，我看他起是不起！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽拦张飞。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎哎！三弟！不要着急！不要性急！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎呀！这样的轻慢人哪！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "我说你怎么跑这儿放火来啦？你怎么……"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "在此稍等哪！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哎呀！岂有、岂有、岂有……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮醒。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "大梦谁先觉，平生我自知。草堂春睡足，窗外日迟迟。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "童儿！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "可有俗客来否？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "哎！刘皇叔立候多时啦！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "啊！何不早报？容我更衣！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！先生！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮下。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "嘿嘿！ 书童！书童！哎！过来！过来！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "什么事？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "你家先生他做什么去了？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "他更衣去啦！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哦！更衣去了？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "对啦！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "更完了衣，还要吃饭！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "嗯！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "吃完了饭，还要出恭！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "你管得着吗？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "哪里有许多的罗嗦？"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "这是哪儿的事啊？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "这样轻慢人哪！哪里有许多的罗嗦？哎呀呀！文绉绉的腐儒！哎呀！哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "三弟！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽推张飞同下。"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "他这是怎么了这是这是？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "呜呼呀！观此茅庐清雅非常，足见元直、德操言之不谬也！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "水镜先生曾言过， 伏龙、凤雏有才学。 这是我刘备福分不薄，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "将军！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "驾光临少迎候望乞恕却！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮、刘备同进。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "看茶！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮、刘备同入座，书童上茶。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "南阳野人，疏懒成性。累蒙将军枉临，不胜愧甚！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "汉室末胄，涿郡愚夫，久仰大名，如雷贯耳！前日两次拜谒，未得相见。留有 书信一封，不知先生可曾见否？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "昨观书意，足见将军忧国忧民之心。但恨亮年幼，才疏学浅，有误下问。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "大丈夫抱济世奇才，岂能空老于林泉之下？望先生以天下苍生为念，开备愚鲁， 多多赐训。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "愿闻将军之志！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉！汉室衰危，奸臣乱国。备不自量力，欲伸大义于天下。怎奈才疏学浅，无 所成就。望先生不弃愚贱，教我以良策。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "这……亮有一言，将军请听。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "愿闻！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "自董卓造孽以来，天下豪杰并起。曹操势不及袁绍，竟能克绍者，非惟天时仰 亦人谋也。今曹操领百万之众，挟天子以令诸侯，此时不可与争锋。孙权踞有 江东已历三世，国险而民附，此可用为援而不可图也。将军既帝室之胄，信义 著于四海，思贤如渴。若跨有荆益，保其岩阻，西和诸戎，外结孙权，内修政 理，则大业可成，汉室可兴矣。此乃亮为将军谋之也！为将军图之耳！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！领教了！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "来！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "将画图取来！"
+        },
+        {
+          "character": "书童",
+          "type": "白",
+          "text": "是！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童取地图。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "展开！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童挂图，展开。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "将军请看：此西川五十四州之图也。将军欲称王霸业，北让曹操占天时，南让 孙权占地利。将军可占人和，先取荆州为家。建功立业，以成鼎足之势，然后 可图中原也。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哦！备领教了！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "撤图！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "书童撤图，下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "有座！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "听先生之言，顿开茅塞。但荆州刘表、益州刘璋，皆汉室宗亲。备安忍夺之？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "亮闻刘表病重，刘璋非立业之主，久后必归将军矣。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀呀！备虽名微德薄，还望先生出山相助，是万勿推却！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哎呀呀！亮久乐耕锄，懒于应世，实难从命！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "唉！先生哪！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "先生不肯出山林， 倒叫刘备急在心。 救民为国你不肯， 可叹天下起烟尘。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "将军！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮原板",
+          "text": "诸葛年幼少学问， 难把国事来担承。 况且豫州已安稳， 莫误将军的大事情。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮原板",
+          "text": "司马德操对我论， 徐元直也曾荐过了先生。 大丈夫把天下的事当做了己任， 不看俺刘备你还看众生。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮原板",
+          "text": "德操、元直二贤人， 亮乃农夫智谋浅甚。 将军奈何舍美玉， 只求顽石你枉费劳心。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "先生念我三顾请， 赤诚之情一片心。 两泪交流来拜啊， 先生哪！ 万望出山你救苍生。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮流水板",
+          "text": "见皇叔珠泪洒衣襟， 可算得忧国又忧民。 戴雪披霜三顾请， 要我助他把汉室兴。 贼曹操在朝专权横， 目无天子下压臣。 罢罢罢，上前来应允， 愿往新野走一程。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生应允下山，真乃天下苍生之幸，刘备当面谢过！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哎呀呀！岂敢！岂敢！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "噢！二弟、三弟快来！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "内同白",
+          "text": "噢！来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、张飞同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生应允下山，进来见过！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "哦！好好好！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "来来来！ 见过先生！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "参见先生！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "请了！请了！ 此二将何人？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "乃二弟关羽，三弟张飞。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哎呀呀！久仰大名，今日一见，真乃当世的英雄也！"
+        },
+        {
+          "character": "关羽、张飞",
+          "type": "同白",
+          "text": "夸奖了！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "哎！礼物呢？"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "现在马上！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "快快取来！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "好！待我取来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞下，取礼上。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "先生！刘备有些许薄礼，望先生笑纳！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哎呀呀！亮有何德能，何劳皇叔下赐重礼？"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "噢！此非聘贤之礼，哎！略表刘备寸心耳。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "哎呀呀！如此愧领了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛均上。"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "参见兄长！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "见过刘皇叔！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "啊！三先生回来了！"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "参见皇叔！ 回来了！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三弟！我受皇叔三顾之恩，不容不出。你可躬耕于此，勿得荒芜田亩。待我功 成之后，即当归隐。"
+        },
+        {
+          "character": "诸葛均",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "皇叔，就在此处安宿一宵，明早同望新野便了！"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮散板",
+          "text": "鼎足三分大计定，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮散板",
+          "text": "茅庐备酒迎嘉宾。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "请请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

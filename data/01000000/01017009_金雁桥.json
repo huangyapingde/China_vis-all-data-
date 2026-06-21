@@ -1,0 +1,467 @@
+{
+  "script_id": "01017009",
+  "title": "金雁桥",
+  "alias": [
+    "取雒城；一名：擒张任"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "张任",
+      "hangdang": "武生"
+    },
+    {
+      "name": "诸葛亮",
+      "hangdang": "老生"
+    },
+    {
+      "name": "张飞",
+      "hangdang": "净"
+    },
+    {
+      "name": "赵云",
+      "hangdang": "武生"
+    },
+    {
+      "name": "黄忠",
+      "hangdang": "老生"
+    },
+    {
+      "name": "魏延",
+      "hangdang": "副净"
+    }
+  ],
+  "plot": "后汉三国时，刘备与副军师庞统一同收川。庞统被川将张任射死在落凤坡前，刘备又调诸葛亮前来。诸葛亮\n与张飞分兵两路入川，会于雒城。诸葛亮知张任智勇双全，为川中名将；因此定计先捉张任，然后取雒城。\n城东有桥，名曰金雁桥。两岸都是芦苇蒹葭。命黄忠、魏延埋伏于左右；又命张飞伏在城东小路，就彼处截\n杀之；诸葛亮自引一队“不整不齐”军，以之诱敌。张任追过桥来，黄忠、魏延两路伏兵齐起。急欲回军，\n而赵云早依诸葛亮之令将桥拆断，勒兵于桥北，遥为之势。张任望山僻而走，正撞着张飞，被其擒获。解至\n帐中，诸葛亮劝之降，不从，厉声大骂。命斩之，以全其名。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四八卦旗、张飞、赵云、黄忠、魏延引诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "点绛唇",
+          "text": "八卦阴阳，安排停当，统兵将，出离荆襄，要把西川掌。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "自幼隐居卧龙岗，阴阳八卦袖内藏。桃园武艺无人挡，擒却张任灭刘璋。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人，诸葛亮。奉了主公之命，攻打雒城。只因张任，武艺高强，颇有胆略。 必须擒了此人，大兵方可前进。 黄忠听令。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领一支人马，攻打头阵。不得有误！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "魏延听令。"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领一支人马，在金雁桥前截杀张任。不得有误！"
+        },
+        {
+          "character": "魏延",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "魏延下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "赵云听令。"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你带领三千人马，隐藏在金雁桥下，等候张任到来，不可放他逃走！"
+        },
+        {
+          "character": "赵云",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵云下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "三将军听令。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "命你扮作樵夫模样。在芦苇之中隐藏。擒捉张任，不得有误！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "众将官，准备四轮车辇，待山人出营会敌去者。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "袖内阴阳安排定， 提兵调将捉张任。 三军与爷往前进， 两军阵前会敌人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引黄忠同上，转场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引魏延同上，转场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙旗、四英雄、二将引张任同上。"
+        },
+        {
+          "character": "张任",
+          "type": "西皮摇板",
+          "text": "奉主之命守雒城， 谨防刘备发来兵。"
+        },
+        {
+          "character": "张任",
+          "type": "白",
+          "text": "俺，张任。可恨刘备，带领人马夺取西川。是俺奉了主公之令，带兵把守雒城。 众将官，起兵前往！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吹牌子，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手引张飞同上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "俺，张飞。在帐中奉了军师将令，扮做樵夫模样，藏在芦苇之中，等候张任到 来，定要擒他下马。 三军的，就此前往！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八卦旗引诸葛亮同上，四龙套、四英雄引张任自下场门同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "来者敢么是张任？"
+        },
+        {
+          "character": "张任",
+          "type": "白",
+          "text": "然也。你是何人？敢挡某家去路！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人诸葛亮在此。"
+        },
+        {
+          "character": "张任",
+          "type": "白",
+          "text": "想那刘玄德，与吾主乃是同宗兄弟，为何带领人马前来攻取西川？是何道理！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "你主闇弱，不听忠言。吾主刘玄德统领仁义之师，重整汉室社稷。那曹操以百 万之众，闻吾之名，望风丧胆，弃甲而逃。似你无名之辈，还不下马投降，等 候何时？少时马前被擒，悔之晚矣！"
+        },
+        {
+          "character": "张任",
+          "type": "白",
+          "text": "俺乃堂堂大将，岂能降你？看枪！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "大胆！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张任退。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "诸葛亮下，众人随下。张任观察形势。"
+        },
+        {
+          "character": "张任",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引黄忠同上，起打，黄忠败下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引魏延同上，起打，魏延败下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张任耍枪花，追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套引赵云同上，转场，同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠、魏延同上，过桥，张任追上。"
+        },
+        {
+          "character": "张任",
+          "type": "白",
+          "text": "且住！那贼败下阵去，待我赶上。 吓！来此已是金雁桥。此桥高大，待我卸甲过桥。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张任脱甲、换靴，上桥。赵云上，枪刺张任，张任翻跟头躲过，与赵云对快枪。张任下，赵云追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（张任上，黄忠、魏延、赵云同追上，群场开打。黄忠、魏延、赵云同下。张飞上，起打。黄忠、魏延、赵"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "云同上，张飞生擒张任，挟下，众人同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八卦旗引诸葛亮同上，坐帐。黄忠、魏延、赵云、张飞同上。"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "张任拿到！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "绑上来！"
+        },
+        {
+          "character": "张飞",
+          "type": "白",
+          "text": "将张任绑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手押张任同上。"
+        },
+        {
+          "character": "张任",
+          "type": "西皮摇板",
+          "text": "大将失机入罗网， 盖世英雄无下场！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "胆大张任，见了山人为何不跪？"
+        },
+        {
+          "character": "张任",
+          "type": "白",
+          "text": "俺乃西蜀上将，岂肯跪你！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "你既被擒，若肯归降我主，定是封侯之位。"
+        },
+        {
+          "character": "张任",
+          "type": "白",
+          "text": "某今被擒，你要杀就杀，要斩就斩，何必多言！若要叫俺归降，除非是日从西 起！"
+        },
+        {
+          "character": "张任",
+          "type": "唱",
+          "text": "怒气不息把话讲， 诸葛孔明听端详： 我本西蜀有名将， 岂肯在此把你降！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "唱",
+          "text": "山人只把好言讲， 大胆小儿敢逞狂。 人来推出将他斩，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张飞磨刀，斫，张任倒。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "唱",
+          "text": "果然是忠义一儿郎。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "张任忠心为主，执意不降。来，将他尸首不可损坏，用棺木盛殓，埋葬高坡， 以表忠义。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众下手抬张任同下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "后帐排宴，与众位将军贺功！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4725 @@
+{
+  "script_id": "03043003",
+  "title": "涿州判",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "羽真",
+      "hangdang": "武净"
+    },
+    {
+      "name": "张康侯",
+      "hangdang": "丑"
+    },
+    {
+      "name": "刘玉",
+      "hangdang": "丑"
+    },
+    {
+      "name": "李三旺",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "清代，弘门寺住持羽真，系替十四王出家，恃权仗势，常玷污来往妇女。有刘玉者，嫁女与李三旺为媳。一\n日，刘子保儿送姐回家，路过弘门寺。羽真率徒打死保儿，抢去刘女，逼奸不遂，囚于寺中。刘玉等子不归，\n寻问李三旺。李三旺谓刘玉“串房倒卖”，刘玉谓李三旺“杀子灭门”，控于涿州张康侯。张康侯左诘右\n审，百无一明，不了了之。刘玉、李三旺上控于总督于成龙。于成龙因乔装私访，为羽真察觉，逼其自决。\n时行辕部将赶至，救出于成龙，兵围弘门寺，羽真伏法。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘保儿上。"
+        },
+        {
+          "character": "刘保儿",
+          "type": "念",
+          "text": "父严子孝道，家和无人欺。贫富天排定，作恶有谁知？"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "我，刘保儿。我父刘玉。母亲周氏，所生我姐弟二人。今乃四月初八日，是我 爹爹寿诞之期，姐姐回来给我爹爹拜寿。爹爹恐她乡下农忙，叫我送姐姐回去， 顺便带了二十两银子，下乡买猪。驴儿备好啦。 有请姐姐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘小姐上。"
+        },
+        {
+          "character": "刘小姐",
+          "type": "念",
+          "text": "辞别严父母，难舍养育恩。"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "姐姐！"
+        },
+        {
+          "character": "刘小姐",
+          "type": "白",
+          "text": "兄弟，驴儿备好了吗？"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "备好啦。"
+        },
+        {
+          "character": "刘小姐",
+          "type": "白",
+          "text": "牵了过来！"
+        },
+        {
+          "character": "刘小姐",
+          "type": "唱",
+          "text": "父母难舍儿难抛， 何日才得报劬劳？ 但愿苍天多护佑， 保我爹娘寿岁高。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘保儿、刘小姐同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羽真上。"
+        },
+        {
+          "character": "羽真",
+          "type": "点绛唇",
+          "text": "替王出家，最爱贪花，雄心怒，常把人杀，哪怕律条法！"
+        },
+        {
+          "character": "羽真",
+          "type": "念",
+          "text": "带发披袈裟，替王出了家。念佛不称意，好酒又贪花。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八和尚自两边分上。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "洒家，羽真。那年随驾南游，只因十四王爷见此处幽雅，乃是佛地，就要在此 出家。皇上圣意不准，命洒家代替为僧。本处的文武官员，谁敢轻慢！这且不 言。今日闷坐禅堂，心中不乐，不免闲步月台散闷一番。 沙弥们！"
+        },
+        {
+          "character": "八和尚",
+          "type": "同白",
+          "text": "伺候师傅！"
+        },
+        {
+          "character": "羽真",
+          "type": "唱",
+          "text": "独坐禅堂闷悠悠， 带定徒儿散心愁。 漫步且往月台走，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羽真上桌。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "咦！"
+        },
+        {
+          "character": "羽真",
+          "type": "唱",
+          "text": "那厢来了一女流。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘保儿、刘小姐同上。"
+        },
+        {
+          "character": "刘小姐",
+          "type": "唱",
+          "text": "人生在世苦悠悠， 忙忙碌碌几时休。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘保儿、刘小姐同下。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "小和尚！"
+        },
+        {
+          "character": "八和尚",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "大路上来了一个女子，你们可曾看见？"
+        },
+        {
+          "character": "八和尚",
+          "type": "同白",
+          "text": "看见啦。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "长得可好？"
+        },
+        {
+          "character": "八和尚",
+          "type": "同白",
+          "text": "标致得很。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "好。你们叫她进来吃杯茶。"
+        },
+        {
+          "character": "八和尚",
+          "type": "同白",
+          "text": "她要不来呐？"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "就与我抢！"
+        },
+        {
+          "character": "八和尚",
+          "type": "同白",
+          "text": "抢出事来？"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "有你师傅做主，怕她何来？快去！"
+        },
+        {
+          "character": "八和尚",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羽真下。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "有师傅做主，咱们就不怕啦。"
+        },
+        {
+          "character": "七和尚",
+          "type": "同白",
+          "text": "对，咱们到前边等她去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八和尚同走圆场。刘保儿、刘小姐同上。"
+        },
+        {
+          "character": "刘保儿、刘小姐",
+          "type": "同白",
+          "text": "走啊！"
+        },
+        {
+          "character": "刘小姐",
+          "type": "唱",
+          "text": "阳关大路往前赶， 见一群僧人把路拦。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "小孩儿请啦！"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "请啦！"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "你姓什么？"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "姓刘。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "她是谁呀？"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "是我姐姐。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "是你姐姐，往哪儿去呀？"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "送她回婆家去。你们问这个干什么？"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "我师傅叫她进去，吃杯茶再走。"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "不去，我们在家吃茶啦。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "要不去，我们就要——"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "要怎么样？"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "要抢！"
+        },
+        {
+          "character": "刘保儿",
+          "type": "白",
+          "text": "唗，我把你们这些秃驴，好生无礼！明个对我爹爹说啦，教你们这些秃驴吃罪 不起！还不躲开，让我们行路！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘保儿、刘小姐同下。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "看这小孩儿来头很硬。师弟，咱们对师傅说去。"
+        },
+        {
+          "character": "和尚乙",
+          "type": "白",
+          "text": "言之有理。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八和尚同走圆场。"
+        },
+        {
+          "character": "八和尚",
+          "type": "同白",
+          "text": "有请师傅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羽真上。"
+        },
+        {
+          "character": "羽真",
+          "type": "念",
+          "text": "忽听门外闹嚷嚷，想是抢来女娇娘。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "念",
+          "text": "女娇娘，女娇娘，只恐南柯梦一场！"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "却是为何？"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "她不进来还则罢了；反骂师傅秃驴长、秃驴短！"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "这厮好生无礼！小和尚，看禅杖过来！"
+        },
+        {
+          "character": "和尚辛",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "和尚辛取禅杖。"
+        },
+        {
+          "character": "羽真",
+          "type": "唱",
+          "text": "小小孩童太无知， 敢出狂言把我欺！ 一根禅杖拿在手， 赶他回来问端的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羽真、八和尚同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘保儿、刘小姐同上。八和尚、羽真同上，羽真打死刘保儿。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "师傅，那小孩子死啦。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "将他尸首掩埋好了！"
+        },
+        {
+          "character": "羽真",
+          "type": "唱",
+          "text": "小狗头出言把我伤， 叫你一命丧无常。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘小姐哭，八和尚拉刘小姐同下，羽真下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉上。"
+        },
+        {
+          "character": "刘玉",
+          "type": "念",
+          "text": "日日人空老，年年春更归。相欢在樽酒，不用惜花飞。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "老汉，刘玉。乃涿州人氏。今年五十四岁。夫妻同庚。所生一男一女。女儿许 配西乡李门为媳。四月初八是我生日，多蒙亲翁盛情，叫女儿回来与我拜寿。 留她住了几天。恐她乡下农忙，叫保儿送她回去，并带了二十两银子，乡下有 小猪崽买上几个。去了数日，人也不见，信也没有。我放心不下，不免去他家 问问便了！"
+        },
+        {
+          "character": "刘玉",
+          "type": "唱",
+          "text": "日出东方又转西， 人老腰弯把头低。 长江也有回头水， 檐前滴水不差移。 远远观见亲家到，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺上。"
+        },
+        {
+          "character": "李三旺",
+          "type": "唱",
+          "text": "见了亲家问端的。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "原来是亲家，有礼啦！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "还礼。请坐请坐！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "坐着坐着。有劳亲家送了许多东西，特来拜谢。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "岂敢！亲家你是知道的，我们乡下没有什么东西买，不成个意思，休得见笑！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "好说。亲家多有破费！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "岂敢！亲家你是知道的，我们乡下连日穷忙，家中没人烧茶送饭，也该打发令 媛回来才是！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "早就打发她回去啦。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "没见呐！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "怎么说没见？我叫保儿备了一匹驴儿送她回来，还带了二十两银子，乡下有小 猪好，叫他托亲家，替我买上几个。看看去了数日，不见回来。故此我今儿个 自己来看看。怎么没见呐！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "亲家你甭说啦，我心里明白啦。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "你明白何来？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "你见我目下穷啦，嫌贫爱富，难以作亲，四月初八假作生日，把你女儿诓回去。 分明四你串房盗卖，把你女儿卖啦。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "噢！你这么一说，我也明白啦。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "你明白什么？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "你见我儿子拿了二十两银子，你们乡下人，黑眼珠子，见不得白银子，你见财 起意，把我的儿子杀啦。你是杀子灭门是不是？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "分明是你“串房盗卖”，反来说我“杀子灭门”！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "满口胡说！着打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉打李三旺，李三旺还打，败。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "你打我？回去叫我老婆坐在你家要人去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺下。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "我也回去，叫老婆到他们家去，向他要人。走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。刘玉走小圆场。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "老婆，开门来！开门来！"
+        },
+        {
+          "character": "周氏",
+          "type": "内白",
+          "text": "来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周氏上。"
+        },
+        {
+          "character": "周氏",
+          "type": "念",
+          "text": "为人莫当家，当家乱如麻。"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "老头子回来啦？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "不好啦！"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "怎么啦？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "你我的儿子被人杀啦！"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "让谁杀啦？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "被李三旺杀啦！"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "有这等事！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "打到他家去！"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "我锁上门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周氏锁门。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。李三旺、李妻同上，刘玉、周氏同打。"
+        },
+        {
+          "character": "李三旺、李妻",
+          "type": "同白",
+          "text": "别打，有理讲理。"
+        },
+        {
+          "character": "李妻",
+          "type": "白",
+          "text": "唉！什么话也都不用说啦，我明白啦。"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "你明白什么？"
+        },
+        {
+          "character": "李妻",
+          "type": "白",
+          "text": "你见我目下穷啦，嫌贫爱富，难以作亲，四月初八假作生日，把你女儿诓回去。 分明四你串房盗卖，把你女儿卖啦。"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "你这么一说，我也明白啦。"
+        },
+        {
+          "character": "李妻",
+          "type": "白",
+          "text": "你明白什么？"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "你见我儿子拿了二十两银子，你们乡下人，黑眼珠子，见不得白银子，你见财 起意，把我的儿子杀啦。你是杀子灭门是不是？"
+        },
+        {
+          "character": "李妻",
+          "type": "白",
+          "text": "你满嘴胡说！是你们“串房盗卖”，反赖我们“杀子灭门”！"
+        },
+        {
+          "character": "周氏",
+          "type": "白",
+          "text": "着打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周氏、李妻同打，同扯下。刘玉、李三旺同打，地方上。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "别打，是我，是我！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "好嘛！你们乡下人多，都来打我！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "你们城里人打群架！"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你们打昏了眼啦，连老爹都打起来啦！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "你是什么人？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你们不认得老爹，还不认得老爹的帽子吗？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "帽子老爹？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "不认得老爹的帽子，也应当认得老爹的带子呀！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "带子老爹？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "岂有此理！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "你到底是什么老爹？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "别拉！别扯！唉，再要拉，把老爹拉散啦。"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "老爹这儿来，我有冤枉告诉你。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "别吵！有话一个讲了一个讲。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "老爹，我姓刘，叫刘玉，住在城里。他姓李，叫李三旺，在西乡里住。我有个 闺女，许配他的龟儿——"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "你的龟儿！"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "乡下人别作声，城里人说。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "四月初八是我的生日，蒙他的盛情，买了些寿面寿酒，打发我女儿回来给我拜 寿。我留女儿住了几天，知道他乡下农忙，打发我的儿子刘保儿备了一匹驴， 送他姐姐回去；又叫我儿子带了二十两银子，乡下小猪崽好，托他买几个回来。 看看一去数日，不见回来，我心里就明白啦。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "明白什么？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "他乡下人黑眼珠子，见不得白银子，他见财起意，杀子灭门，把我的儿子杀啦 老爹！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉哭，打地方倒。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "咳！说话就好好的说，干嘛这么七手八脚的！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "老爹，我的冤枉大喽！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉哭。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你别哭，有老爹做主。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "谢谢老爹！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "地方打李三旺。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "啊，你怎么打人？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "看你满脸杀人的样儿！清平世界，你敢持刀杀人？为什么打不得你？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "是我杀的？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "不是你杀的，还是我杀的？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "我杀人是你看见啦？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "我没看见。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "用的什么凶器？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "我不知道。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "尸首埋在哪儿呐？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "我不知道。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "你不知道，就打起我来啦？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "是他对我这么说的。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "他对你说的算不了事，我还有话对你说呐！"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你也有话？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "怎么没话呐？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你快说！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "老爹，他姓刘，叫刘玉。我姓李，叫李三旺。他在城里住，我在西乡住。我跟 他是儿女亲家。四月初八是他的生日，我买了些面，打了些酒，称了些肉。我 的儿子有病，我又不得闲，就打发他的女儿回去给他拜寿。一去数日，不见人 回来。他那心里事，我就明白啦。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你明白什么？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "他见我目下穷下来啦，他如今发了财啦。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "他有钱？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "他有钱。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "有多少地？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "七八亩地。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "他是个好户儿。你说！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "如今穷富难以作亲。四月初八，他假作生日，把他女儿诓了回去，串房盗卖啦 老爹！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺打地方。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "唉，你怎么把老爹推个筋斗！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "我的冤枉大啦。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "有老爹呐，是他卖的？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "是他卖的。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "有老爹作主。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "全仗老爹！"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "由我。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "地方打刘玉。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "你为什么打我？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你还问我为什么打你？这样太平年间，多少买卖你不能做，为什么单贩卖人口 呐？我怎么不打你！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "你看见是我卖的？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "我没有看见。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "谁的证人？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "我不知道。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "得了多少彩礼？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你这个人好刁！他说的，我怎么知道？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "你不知道，你就打我吗？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "他对我说的。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "他那些话是假的，我这些话是真的。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "他说的是假的，我说的是真的！"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你们都别吵，这人命重案你们可得去打官司。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "我愿意打官司。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "老爹，这个老爷住在哪呀？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "咳，你真是乡下人！老爷住在城里。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "城在哪儿呀？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "一个大围墙，四个门，那就是城。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "老爷在哪儿？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "老爷在衙门里。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "衙门是什么样儿？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "你没有到过衙门呀？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "我没进过城。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "我告诉你：高大门楼，八字粉墙，影壁上画着个哈巴狗儿。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "那不叫哈巴狗儿，那是麒麟。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "那不是麒麟，那是“豻”。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "不管是什么吧，那里边住的就是老爷。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "老爷是个什么样子？"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "真是个乡下人！戴着老爷的帽子，穿着老爷的衣服，坐着老爷的轿子，那就是 老爷。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "老爹，我不认得老爷，烦老爹带我去见见老爷。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "咳，甭提啦，不但你没见过老爷，我胡子都白啦，我还没见过呐。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "咳，他不想相干，打官司是咱们俩人，你跟我去！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、李三旺同下。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "这是哪儿的事？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "地方看。"
+        },
+        {
+          "character": "地方",
+          "type": "白",
+          "text": "哎！走啦！这是我的地面儿，喂，乡下人，回来！糟啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "地方追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四衙役、二班头、门子引张康侯同上。"
+        },
+        {
+          "character": "张康侯",
+          "type": "引子",
+          "text": "日边冲要无双地，天下繁难第一州。"
+        },
+        {
+          "character": "张康侯",
+          "type": "念",
+          "text": "天子重英豪，鹰鹞飞得高。落在烟筒里，燎掉一身毛。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "本州，张康侯。自幼在部里效用，蒙主子恩典，各位大人提拔，放我涿州辖民。 直到任以来，此地百姓倒也和顺。今当三六九日放告之期。来，将放告牌抬 出去！"
+        },
+        {
+          "character": "四衙役",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、李三旺同上。"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "冤枉啊！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "启老爷：有告状的啦。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "怎么着，才坐了大堂，就有了告状的啦？带进来！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "是。 告状人上堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、李三旺同进。"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "咳，跪下跪下！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "老爷冤枉啊！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "不许叫喊！你们都叫什么名字？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "小人叫刘玉。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你呐？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "小人叫李三旺。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "啊，听点！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "听点！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "刘玉！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "李三旺！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "李三旺下去！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺下。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "刘玉，你为什么告李三旺啊？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "小人告他杀子灭门。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "下去！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉下。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "带李三旺！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "带李三旺！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺上。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "李三旺！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你告他何来呐？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "小人告他串房盗卖。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "刘玉告李三旺“杀子灭门”，李三旺告刘玉“串房盗卖”，又是他妈的一桩啰 嗦事！下去！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺下。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "带刘玉！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "带刘玉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉上。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "刘玉！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你告李三旺“杀子灭门”，从实讲来！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "小人刘玉，与李三旺是儿女亲家。四月初八是小人的生日，他打发小人的女儿 回来给小人拜寿。小人留女儿住了几天。因为正是乡下农忙之期，打发小人的 儿子刘保儿送他姐姐回去；小人知道乡下小猪好买，叫刘保儿带了二十两银子， 托他给小人买几个小猪儿，看看一去数日，不见回来。他们乡下人黑眼珠子， 见不得白银子，见财起意，杀子灭门。求大老爷做主。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "啊，你这么一说，我明白啦：你跟李三旺是儿女亲家，他的男，你的女，是不 是？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "四月初八是你的生日。他打发他的儿媳妇---你的女儿，回来给你拜寿。你 留她住了几天，你见乡下农忙，打发你儿子刘保儿，送他姐姐回家；又叫你儿 子带了二十两银子，托他给你买几只小猪儿回来。去了数日，未见回来。他们 乡下人黑眼珠子，见不得白银子，见财起意，将你儿子害啦！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "对啦！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "下去！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉下。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "来，带李三旺！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "带李三旺！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺上。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "抬起头来！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你瞧瞧，你这一脸杀人的样子！ 打！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "小人有话回！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "太爷赏刑。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "着实的打！"
+        },
+        {
+          "character": "四衙役",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四衙役同打李三旺。"
+        },
+        {
+          "character": "四衙役",
+          "type": "同白",
+          "text": "一五！一十！十五！二十！打完。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "这还了得吗？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "太爷，为什么事打我？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "啊，为什么事打你？这样清平世界，朗朗乾坤，你在皇城脚下持刀杀人，我为 什么不打你？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "太爷看见小人杀的？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我哪儿瞧见啦？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "什么凶器？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我不知道。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "尸首埋在哪儿？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我不知道。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "你不知道，怎么就打我？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "是刘玉这么说的。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "他说，可容小人说呀？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你先怎么不说？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "老爷不容我说就打嘛！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你说。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "小人李三旺，在西乡住。他姓刘，叫刘玉，在城里住。我跟他是儿女亲家。他 见小人穷啦，贫富难以作亲。四月初八，是他的生日，小人买了肉、面、酒， 因为儿子有病，小人穷忙没工夫，打发小人的儿媳妇---他的闺女，回去给 他拜寿。他假作生日，把他闺女诓了回去，串房盗卖。小人的儿媳妇是他卖掉 啦！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你这糊涂东西，有这些话怎么早不说呐？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "先前小人原要说，老爷就吩咐打了再说。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "哦，你这一说，老爷我明白啦；你叫李三旺。他叫刘玉。你跟他是儿女亲家， 他的女，你的男，是不是？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "四月初八是他的生日。你买了些肉、面、酒，你没工夫，你儿子害病啦，你就 打发你的儿媳妇去给他拜寿。当初结亲时节，你们两家都富；作亲以后，你就 穷下来啦。如今贫富难以作亲。四月初八他假作生日，把你的儿媳妇诓了回去， 串房盗卖啦，对不对？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "对。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我问你；他卖给谁家啦？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "我不知道。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "谁的媒保？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "我不知道。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "他娘家得了多少彩礼？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "我不知道啊！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "啊，你这糊涂东西。三样一样都不知道，你怎么告他“串房盗卖”？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "不是他卖的，人往哪儿去啦？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "好糊涂的东西！我吃的是主子的俸禄，做的是主子的官，是给你看儿媳妇的吗？ 下去！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "求太爷做主！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "下去！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺下。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "带刘玉！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "带刘玉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉上。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "小人叩头。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "抬起头来！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "瞧瞧你这杂种，一脸卖人的像儿，打！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "小人有话回。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "打了再回！"
+        },
+        {
+          "character": "四衙役",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四衙役同打刘玉。"
+        },
+        {
+          "character": "四衙役",
+          "type": "同白",
+          "text": "一五！一十！十五！二十！打完。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "老爷为什么打小人？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "啊，我为什么打你？这样太平年间，多少买卖不能做，你单贩卖人口，老爷我 为什么不打你？ 来，看夹棍，把他脑袋夹起来！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "太爷瞧见小人卖的？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "没有。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "卖给谁家啦？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "那我怎么知道？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "谁的媒保？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我更不知道。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "小人得了多少彩礼？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你得了多少彩礼，我哪儿知道！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "老爷不知道就打小人，反说小人“串房盗卖”？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "是李三旺说的。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "“杀子灭门”不究，倒究起“串房盗卖”来啦？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你说老爷不究“杀子灭门”，倒究“串房盗卖”。我问你：你告他“杀子灭门” 用什么凶器？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "我不知道。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "谁的见证？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "我不晓得。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "尸首埋在哪儿啦？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "我没有看见。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "三件俱无，你就告他“杀子灭门”？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "太爷，小人的儿子哪里去啦？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你的儿子上天啦！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "没有翅膀。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你的儿子不见，倒问起我来啦？我知道他往哪儿去啦？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "求老爷作主天断！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "下去！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉下。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "是谁的值日？"
+        },
+        {
+          "character": "二班头",
+          "type": "同白",
+          "text": "小的值日。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "早知有这种麻烦事，为什么请老爷坐大堂？"
+        },
+        {
+          "character": "二班头",
+          "type": "同白",
+          "text": "今儿个是三六九日，该坐大堂。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "老爷我不坐大堂，他们也不来告状；我一坐大堂。都来闹他妈的饥荒！带刘玉、 李三旺！"
+        },
+        {
+          "character": "门子",
+          "type": "白",
+          "text": "带刘玉、李三旺！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、李三旺同上。"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "老爷！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "刘玉、李三旺！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你们两家都在这儿，我也不知道你“杀子灭门”，我也不知道你“串房盗卖”。 这大堂上有鬼神，你们下去对来！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "李三旺，可是你杀子灭门？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "可是你串房盗卖？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、李三旺同打。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我把你们两个野杂种！怎么在本州的大堂上打起来啦？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "打官司。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我要不看天地三界，我就一脚把你们两个杂种的肝花肠子都踢出来。啊，刘玉、 李三旺，你们俩人是好儿女亲家，依本州说，你们俩人把这个事情和了吧！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "不和，要打官司！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "不和，要打官司？你们可知道打官司的苦处啊？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "不知道。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "老爷有几句话，说给你们听听："
+        },
+        {
+          "character": "张康侯",
+          "type": "念",
+          "text": "天下衙门朝南开，有理没钱别进来；纵然赢得官司去，"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "傻子！"
+        },
+        {
+          "character": "张康侯",
+          "type": "念",
+          "text": "花了囊中自己财。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "咳，你们和了吧！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "不能和！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "不和？我记得有一天，东乡谁家的羊吃了谁家的麦子，又有谁家的牛吃了谁家 的豆子，出来七八个人，就是这么一路乱打：也有打破了脑袋的，也有打坏了 腿的。他们就来告状。到这儿来，我出堂一审，就叫他们和，请出来几个有年 纪的老头儿就把这事和啦。怎么你们就不和呐？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "老爷，那禾苗小事好和，小人这是人命大事，不能和！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "不能和？刘玉、李三旺，我这儿城隍爷很灵验，你们俩人请两股高香去起一个 誓，这件事就拉倒啦。"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "太爷，人命事大，不能起誓，求太爷天断！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你们这种事叫我怎么断？ 今儿个谁的值日？"
+        },
+        {
+          "character": "二班头",
+          "type": "同白",
+          "text": "小人们值日。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "好！你们俩人会办事，把你们两家拉到茶馆里去，你候他们俩人一壶茶，你会 他们俩人一顿饭，把这件事给他们两家和了得啦！"
+        },
+        {
+          "character": "二班头",
+          "type": "同白",
+          "text": "是。 刘玉、李三旺，走哇！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "哪儿去？"
+        },
+        {
+          "character": "二班头",
+          "type": "同白",
+          "text": "茶馆里吃盏茶，闹顿饭，你们和了得啦。"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "不和，非打官司不可！"
+        },
+        {
+          "character": "二班头",
+          "type": "同白",
+          "text": "不和？ 老爷，他们不和。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "他们不和？"
+        },
+        {
+          "character": "二班头",
+          "type": "同白",
+          "text": "不和。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你们真不中用。老爷我亲自来劝。 刘玉，你和了吧？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "不和。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你不和？ 李三旺，你和了吧！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "不和！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你也不和？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "要打官司！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你们俩人都不和？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "都不和！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我把你们两个王八蛋，一股脑儿都给我滚出去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张康侯撕状子。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "扯你妈的稀糊脑子烂，看你们往哪儿去告！就是打到天边儿上，也没老爷这块 儿断的明白。 来呀，打鼓退堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张康侯下。四衙役、二班头、门子同随下。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "太爷伸冤呐！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "太爷进去啦。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "进去啦？回太太去啦。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "太太不问事。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "哪儿去告？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "你我往保定府，于大人衙中去告。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "于大人衙门在哪儿？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "随我来！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "走走走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、李三旺同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周贵上。"
+        },
+        {
+          "character": "周贵",
+          "type": "念",
+          "text": "将相本无种，男儿当自强。学会文武艺，赤胆保君王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑跟班暗上。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "我乃巡抚大人麾下中军官周贵是也。今当三六九日，大人升堂理事。 来呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑跟班睡。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "睡啦！好啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周贵打。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "来呀！"
+        },
+        {
+          "character": "丑跟班",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "打道辕门！"
+        },
+        {
+          "character": "丑跟班",
+          "type": "白",
+          "text": "喳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。周贵、丑跟班同走圆场。"
+        },
+        {
+          "character": "丑跟班",
+          "type": "白",
+          "text": "来到辕门。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "听听辕门打了几鼓！"
+        },
+        {
+          "character": "丑跟班",
+          "type": "白",
+          "text": "打了两鼓啦！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "你说什么？"
+        },
+        {
+          "character": "丑跟班",
+          "type": "白",
+          "text": "打了两鼓啦。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "打了二鼓啦。来，看衣更换！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑跟班伺候周贵换衣，各穿一只袖子，周贵急。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "哎，你给我滚下去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周贵打丑跟班。"
+        },
+        {
+          "character": "丑跟班",
+          "type": "白",
+          "text": "我的妈呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑跟班哭，下。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "嘚！开门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四官兵、四刽子手引于成龙同上。"
+        },
+        {
+          "character": "于成龙",
+          "type": "引子",
+          "text": "君王有道民安乐，五谷丰登太平春。"
+        },
+        {
+          "character": "于成龙",
+          "type": "念",
+          "text": "一任金枝玉叶，哪怕国戚皇亲！严掌萧何律例，报国一片丹心。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "本院，于成龙。蒙主子恩典，放我保定府辖民。今日升堂理事。 大厅！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "吩咐下去：不论军民人等、僧道两门，有状投进，不许拦阻！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "啊！ 下面听者！大人吩咐下来：不论军民人等僧道两门，有状投进，不许拦阻！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、李三旺同上。"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "冤枉！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "呔！这是什么地方，竟敢在此喧哗！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "小人们冤枉！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "候着。 启大人：有俩人喊冤。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "带进来！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "啊！ 大人传你们，小心啦！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "是。 哎呀大人，小人们冤枉！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "取状！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周贵取状。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "刘玉！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "李三旺！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周贵递状，于成龙看状。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "李三旺下去！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺下。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "刘玉，你告李三旺“杀子灭门”，从头说来！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "大人容秉！"
+        },
+        {
+          "character": "刘玉",
+          "type": "唱",
+          "text": "串房盗卖俱是假， 杀子灭门是实情。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "串房盗卖是假，杀子灭门是真。我问你，谁的见证？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "没有。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "尸首埋在哪儿？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "不知道。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "什么凶器？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "不晓得。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "怎么，三件俱没有，瞎闹来啦？下去！"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉下。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "带李三旺！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "带李三旺！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李三旺上。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "小人叩头！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "李三旺，你告刘玉“串房盗卖”，一一讲来！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "大人容禀！"
+        },
+        {
+          "character": "李三旺",
+          "type": "唱",
+          "text": "串房盗卖情真实， 杀子灭门是虚词。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "串房盗卖是真实。谁的媒保？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "不知道。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "卖与谁家？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "不晓得。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "他得了多少彩礼？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "不知道。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "嗯，怎么三件都没有，瞎闹来啦？咳，这怎么开发哪？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙想。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "带刘玉！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "带刘玉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉上。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "小人叩头！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你们两家发生这件事情，为什么不到该管州官那里去告？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "到本州官那儿告过，不准，每人打了二十大板。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你们的状纸写得糊涂，怎能不打你们？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "求大人开恩！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你两家是爱好作亲，还是中间有人撺掇？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "是爱好作亲，并没有人撺掇。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "噢！刘玉，你的女儿跟刘保儿是一母所生，还是前娘后母？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "一母所生。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "这就没有“拐带”二字。 李三旺，这个刘氏女子，自到你家，她可走东家，串西家？"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "没有。大人，她是个老实孩子。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "是个老实女子，“杀子灭门”，既没有凶器，又没有见证，也没见尸首埋在哪 儿。“串房盗卖”，既没有媒保，有没有彩礼，也不知道卖给谁家，人可往哪 儿去啦？其情有诈。 唗，你两家不照真情讲来，本院可就要动大刑啦。"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "回禀大人：这都是实情。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "不讲实话，来！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "传巡捕！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "传巡捕！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "巡捕上。"
+        },
+        {
+          "character": "巡捕",
+          "type": "白",
+          "text": "巡捕叩头。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "把他们俩人，一个人一条腿，夹起来！"
+        },
+        {
+          "character": "巡捕",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "巡捕与刘玉、李三旺上刑。土地暗上，割刑具绳断。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "什么缘故，好不小心！"
+        },
+        {
+          "character": "巡捕",
+          "type": "白",
+          "text": "回大人：绳锁都是新的。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "绳锁两断。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙看绳。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "将他二人唤醒！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "刘玉、李三旺醒来！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "哎呀，冤枉，老爷！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "刘玉、李三旺！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你两家相隔多远？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "四十五里。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "路上可有沟塘池壩、桥梁界河？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "没有。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "庵观寺院？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "没有。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "怎么没有？大路中间有座红庙。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "不错，有个弘门寺。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "有多少僧人？"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "有百十余僧人。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "没有，只有九十九个。"
+        },
+        {
+          "character": "刘玉",
+          "type": "白",
+          "text": "一百个。"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "荒年饿死了一个。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "巡捕，将他二人上了刑具，带去收监！"
+        },
+        {
+          "character": "巡捕",
+          "type": "白",
+          "text": "遵命。当堂上刑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "巡捕押刘玉、李三旺同下。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "我想弘门寺有百十余僧，其间必有歹人在内。若要此事明白，除非本院亲自私 访。 来，掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙下。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "打道回衙！"
+        },
+        {
+          "character": "四官兵、四刽子手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": "货老儿",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "货老儿上。"
+        },
+        {
+          "character": "货老儿",
+          "type": "唱",
+          "text": "百货新鲜做生意， 鼓儿一响惊动人。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "咱家货老儿便是。这几天在城中打货，不曾下乡，不免乡下走走！"
+        },
+        {
+          "character": "货老儿",
+          "type": "数板",
+          "text": "我作货郎本钱不大，出门摆了半副銮驾。摇动手中小鼓，惊动四方人家，任他 官宦小姐，咱与她、她与咱，对面叙话。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小和尚上。"
+        },
+        {
+          "character": "小和尚",
+          "type": "白",
+          "text": "老人家请啦！"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "小师傅请啦！"
+        },
+        {
+          "character": "小和尚",
+          "type": "白",
+          "text": "我要买件东西。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "你买什么？我有。"
+        },
+        {
+          "character": "小和尚",
+          "type": "白",
+          "text": "你猜一猜！"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "我猜，你要买这样？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "货老儿指货物。"
+        },
+        {
+          "character": "小和尚",
+          "type": "白",
+          "text": "不要。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "这样？"
+        },
+        {
+          "character": "小和尚",
+          "type": "白",
+          "text": "不是。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "你要什么？"
+        },
+        {
+          "character": "小和尚",
+          "type": "白",
+          "text": "要这个。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "小师傅，这是女人的勒子，出家人要它干什么？"
+        },
+        {
+          "character": "小和尚",
+          "type": "白",
+          "text": "你不知道，我师傅昨天取了一个新师——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "和尚甲、和尚乙同上，同打小和尚。"
+        },
+        {
+          "character": "和尚甲、和尚乙",
+          "type": "同白",
+          "text": "师傅叫你呐，还不进去？ 老人家，别听他的，他是个疯子。我家师傅是有心事。您做买卖去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "和尚甲、和尚乙拉小和尚同下。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "嘿！这个和尚有趣，这些东西都不要，单单要这样。我说和尚，这件东西乃是 夫人所用之物，你要他何用？他说：“我师傅昨天娶了个新师——”正说着走 出两个和尚，把他叫进去啦。我想这个“新师”底下，必定还有个什么字？哎， 别人家闲事，不要管，还是作我的买卖去吧！"
+        },
+        {
+          "character": "货老儿",
+          "type": "唱",
+          "text": "老虎口内夺碎骨， 是非门中别管他。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "哎，好热天？这儿有个亭子，我歇会儿再走。"
+        },
+        {
+          "character": "于成龙",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙上。"
+        },
+        {
+          "character": "于成龙",
+          "type": "唱",
+          "text": "只为民冤实难定， 乔装改扮访真情。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "好热天！这儿有座亭子，待我进去歇息歇息再走。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "哎呦，原来是位爷！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "原来是一位老人家。你在这儿干什么哪？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "天气炎热，在这儿乘凉乘凉。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "好嘛！"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷请上座。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "老人家，该请上座。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "我怎敢僭坐？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "还是老人家请坐！"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "不是啊，看爷好像远路来的，我们天天在这儿作买卖，时常在这儿坐，有道是： 主人让客三川椅。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "老人家，又道是：主人让客三全礼。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "不错，礼。不错，礼。请坐。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "那么，我有僭啦。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "老人家，你也坐着。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷在这儿，我不敢坐。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "哪儿的话？请坐吧。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "那么，告座啦。请问爷从哪儿来？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "从京里来。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷上姓？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "姓金。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷从京里来，又姓金，倒是一位金大爷！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "笑话啦！"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷，明年我进京办货去，还求爷照应照应。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "那是不消说的。老人家上姓？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "我叫货老儿。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "怎么叫“货老儿”？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷不知道，我在这儿做买卖多年，比别个不同。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "怎么不同？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "我在这儿卖货，人家大小姐买一个钱的针，叫我添她一根，我就添她一根，那 婆婆妈妈说道，还是老人儿好，和气，就叫我“货老货老”。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你今天从哪儿来？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "从西乡来，刚从弘门寺经过。哎呀，我的爷，今天有这么一桩奇事！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "什么奇事？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "是我走到弘门寺，出来一个小和尚，要买我一件东西。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "什么东西？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷，您猜他要买什么，您瞧瞧。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "这？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙指货。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "不是。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "这？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙指货。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "也不是。他要买我这个东西。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "这是女勒子，出家人要它何用？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "我也问他，他说他家师傅，昨儿晚上娶了个新师——，一句话没有说出来，又 来了两个小和尚，把他叫进去啦。我想这个“新师”底下，必然还有什么字？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "噢，想是他家师傅，娶了个新师娘！"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "不错不错，是新师娘。到底是爷高才，我再也想不起来。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "我问你老人家，这和尚在这儿还好吗？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "我的爷，他有个什么好？自从这和尚到了我们这儿来，这家不见了闺女，那家 不见了媳妇，闹他妈的一个不堪！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "难道这儿的官府就不追究吗？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "哎，我的爷，您不知道，那些官府都跟他相好，到了初一、十五，他们还要拿 个手本，请大和尚安呐！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "这个大和尚就这么大吗？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "这个和尚大嘛！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "有多大？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "他如今大到上齐了天，下齐了地，这么大！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "老人家，不是这个大。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "什么大？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "势力大。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "是十四王爷的替修，怎么不大？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "就没有人管得了他吗？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "有嘛？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "有谁？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "保定府巡抚叫什么于……于成龙于大人，管得了他。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "老人家，天已晚啦，我还要趲路去哪！"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷，我方才说的话，不要告诉外人呐！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "我是行路的，还告诉谁。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷住哪儿去？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "进城打店去。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "爷到我家去吧！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "到你家多少路？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "二十多里路。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "到城里呐？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "八里地。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "我到城里去。"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "这么说，多谢爷啦！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你没有吃我什么，怎么多谢我？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "这是我的客套话，我扰了您啦。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "我又没有送你什么东西，怎么扰我？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "又闹错啦。罢啦，爷，咱们隔墙撂膀子……"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "此话怎讲？"
+        },
+        {
+          "character": "货老儿",
+          "type": "白",
+          "text": "分了手吧！哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "货老儿下。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "听这位老人家所说的话，其中必有情由。我不免去到弘门寺，再作计较。"
+        },
+        {
+          "character": "于成龙",
+          "type": "唱",
+          "text": "日落西山渐渐昏， 此案何日见分明！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "和尚甲、和尚乙同上。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "关山门喽。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "小师傅，慢些关门。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "你是干什么的？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "我是行路的，来到此处，天色已晚，要借宝刹安宿一宵，不知小师傅意下如何？"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "我家师傅性情不好，倘若知道，我们吃罪不起。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "看我一人一骑，又无多大行囊，只要一席之地，避静之所可以安身就行啦，小 师傅行个方便吧！"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "你到别的地方去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "和尚甲想。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "啊，师弟，看这人是个老实人，咱们瞒着师傅，留他住一晚上吧！"
+        },
+        {
+          "character": "和尚乙",
+          "type": "白",
+          "text": "告诉你：不要高声说话。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "那我知道。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "进去吧。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "我的牲口呐？"
+        },
+        {
+          "character": "和尚乙",
+          "type": "白",
+          "text": "就拴在庙门外。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "不怕有歹人吗？"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "除了我们不偷人家的，谁人敢偷我们的？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "哈哈哈……打搅小师傅啦。"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "随我来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "和尚甲、和尚乙、于成龙同走圆场。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "这是什么所在？"
+        },
+        {
+          "character": "和尚甲",
+          "type": "白",
+          "text": "伽蓝殿，就在这儿安宿一宵，明儿个一早走，别等我们师傅知道。别关门。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "有劳啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "和尚甲、和尚乙同下。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "妙哇！且喜被我哄了进来。到了三更时分，去到后面探听这和尚的动静如何。 正是："
+        },
+        {
+          "character": "于成龙",
+          "type": "念",
+          "text": "与民做得主，不愧做公卿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四和尚引羽真同上。"
+        },
+        {
+          "character": "羽真",
+          "type": "引子",
+          "text": "佳人虽娇俏，不从又奈何。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "洒家，羽真。前几日抢来的刘氏女子，执意不从某的亲事。今晚备得有酒，不 免叫那女子出来，劝解劝解。 小和尚！"
+        },
+        {
+          "character": "四和尚",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "将地窖子打开，叫那些女子出来！"
+        },
+        {
+          "character": "四和尚",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四和尚同打地窖。"
+        },
+        {
+          "character": "四和尚",
+          "type": "同白",
+          "text": "师娘们，走出来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众妇女同上。"
+        },
+        {
+          "character": "众妇女",
+          "type": "同白",
+          "text": "大师傅，我们有礼啦！"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "罢了。"
+        },
+        {
+          "character": "众妇女",
+          "type": "同白",
+          "text": "教我们出来有什么事吗？"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "你大师傅前者抢来的那个刘氏女子，啼哭不止。今日备得有酒，你们好好地把 她劝解劝解。"
+        },
+        {
+          "character": "众妇女",
+          "type": "同白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众妇女同下，众妇女拉刘小姐同上。"
+        },
+        {
+          "character": "众妇女",
+          "type": "同白",
+          "text": "刘大姐，别哭啦，从了大师傅，享不尽荣华，受不尽富贵呀！"
+        },
+        {
+          "character": "众妇女",
+          "type": "同唱",
+          "text": "劝大姐你今免忧心， 这样的荣华哪里去寻！"
+        },
+        {
+          "character": "刘小姐",
+          "type": "白",
+          "text": "喂呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘小姐哭。"
+        },
+        {
+          "character": "众妇女",
+          "type": "同白",
+          "text": "大师傅，我们劝她，她不从，还是哭。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "由她去哭。带了下去！"
+        },
+        {
+          "character": "众妇女",
+          "type": "同白",
+          "text": "是啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众妇女带刘小姐同下，同上。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "你们唱个曲儿与洒家取乐！"
+        },
+        {
+          "character": "众妇女",
+          "type": "同白",
+          "text": "是！"
+        },
+        {
+          "character": "众妇女",
+          "type": "同唱",
+          "text": "彤云密布雪花儿飘， 冷落宫中，望九原撩取凤鸾娇。 踏雪处，去一遭， 冷苍苍，且向青楼酒兴豪。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "好啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羽真饮酒。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "再唱一个曲儿。"
+        },
+        {
+          "character": "众妇女",
+          "type": "同唱",
+          "text": "眼见得寒鸦儿一阵阵梅梢上， 哪怕它雪拥蓝关马不前！ 又只是： 红楼暖阁、酒冷汤寒，锦帐罗帏、独宿孤眠。 一年间美景： 春游草地，夏赏池边，秋饮黄花，冬吟雪天。 四季景好叫人男心变。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "好爽快也！大家饮酒。哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙上。"
+        },
+        {
+          "character": "于成龙",
+          "type": "唱",
+          "text": "此时已是三更尽， 且往禅堂看分明。 舌尖舔破窗棂纸，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羽真看羽真、众妇女。"
+        },
+        {
+          "character": "于成龙",
+          "type": "唱",
+          "text": "泄露机关事难成。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙下。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "啊！小和尚，将地窖子打开，请你师娘们进去。"
+        },
+        {
+          "character": "四和尚",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四和尚同打地窖子，同向众妇女。"
+        },
+        {
+          "character": "四和尚",
+          "type": "同白",
+          "text": "进去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众妇女同下。羽真看窗纸，惊。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "且住！窗棂纸破，庙中必有歹人。且到西廊寻探。 小和尚，看戒刀禅杖过来！"
+        },
+        {
+          "character": "四和尚",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四和尚同取禅杖。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "随我来！"
+        },
+        {
+          "character": "羽真",
+          "type": "唱",
+          "text": "夜静更深窗棂破， 必有歹人在庙中。 且到西廊去寻看，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙暗上。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "呔！"
+        },
+        {
+          "character": "羽真",
+          "type": "唱",
+          "text": "伽蓝殿内是何人？"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "呔！你是什么人，哪里来的？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "不瞒大师傅说，我是行路的，到此天色已晚，在宝刹宿一宵，明早就行，并不 是什么歹人。大师傅饶命！"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "满口胡言！ 小和尚，将他吊起来！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "大师傅饶命！"
+        },
+        {
+          "character": "四和尚",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四和尚同吊于成龙。伽蓝上，护法。"
+        },
+        {
+          "character": "羽真",
+          "type": "唱",
+          "text": "无亲无故不相认， 为何擅入我庙门？ 手使禅杖将他打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羽真举禅杖不起。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "啊！想这禅杖，往日拿在手中，犹如灯草一般；今日为何这样沉重？哦，是了， 想是他不该死在禅杖之下，应在刀下身亡。 小和尚，看刀来！"
+        },
+        {
+          "character": "四和尚",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四和尚同取刀。"
+        },
+        {
+          "character": "羽真",
+          "type": "唱",
+          "text": "管教你命难久存。 手执钢刀将你斩！"
+        },
+        {
+          "character": "和尚乙",
+          "type": "唱",
+          "text": "师傅息怒且消停。"
+        },
+        {
+          "character": "和尚乙",
+          "type": "白",
+          "text": "啊，师傅您不是吩咐过：只可开斋，不可开杀戒吗？"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "阿弥陀佛！小和尚！"
+        },
+        {
+          "character": "和尚乙",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "与这汉子钢刀一把，麻绳一根，愿在刀下死，愿在绳下亡，由他自便。 汉子啊汉子！"
+        },
+        {
+          "character": "羽真",
+          "type": "念",
+          "text": "天堂有路尔不去，地狱无门闯进来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "羽真下。二和尚同下。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "哎呀小师傅，救命啊！"
+        },
+        {
+          "character": "和尚乙",
+          "type": "白",
+          "text": "谁叫你往后边去？师兄，放他下来吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "和尚甲放于成龙。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "有劳小师傅，放了我吧！"
+        },
+        {
+          "character": "和尚甲、和尚乙",
+          "type": "同白",
+          "text": "这下可不能放你啦。等到天明让大师傅放你吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "和尚甲、和尚乙同下。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "哎呀，神圣啊神圣，想我于成龙上不愧天，下不愧地，不料今日丧在此处！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙睡。四云童引伽蓝神同上。"
+        },
+        {
+          "character": "伽蓝神",
+          "type": "白",
+          "text": "善哉呀善哉！吾乃伽蓝神是也。普陀南崖文曲星有难，吾当搭救。 众云童！"
+        },
+        {
+          "character": "四云童",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伽蓝神",
+          "type": "白",
+          "text": "放起火来！"
+        },
+        {
+          "character": "四云童",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "放火。众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四兵丁、四青袍同上。"
+        },
+        {
+          "character": "四兵丁、四青袍",
+          "type": "同白",
+          "text": "有请老爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张康侯上。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "什么事情？"
+        },
+        {
+          "character": "四兵丁、四青袍",
+          "type": "同白",
+          "text": "弘门寺走水啦！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "这还了得啦！不用搭轿啦，咱们快去救火去，救弘门寺大和尚要紧，快走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八营兵同上。"
+        },
+        {
+          "character": "八营兵",
+          "type": "同白",
+          "text": "有请老爷！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王标上。"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "八营兵",
+          "type": "同白",
+          "text": "弘门寺走水啦！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "不用带马啦，去救大和尚要紧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王标、八营兵同走圆场，张康侯、四兵丁、四青袍同上。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "原来是王老爷！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "张老爷，弘门寺走水啦。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我们救大和尚要紧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四官兵、周贵同上。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "二哥。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "原来是张老爷！你们上哪儿去？"
+        },
+        {
+          "character": "张康侯、王标弘",
+          "type": "同白",
+          "text": "门寺走水啦，我们救打和尚去。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "大人在外私访，你们知道吗？"
+        },
+        {
+          "character": "张康侯、王标",
+          "type": "同白",
+          "text": "我们不知道啊！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "先到弘门寺看看。走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同走圆场。"
+        },
+        {
+          "character": "八营兵、四官兵、四兵丁、四青袍",
+          "type": "同白",
+          "text": "来到弘门寺。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "这不是大人的黑驴吗？打进去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同进庙。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "这是什么所在？"
+        },
+        {
+          "character": "八营兵、四兵丁、四青袍、四官兵",
+          "type": "同白",
+          "text": "伽蓝殿。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "一同进去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同进，于成龙暗上。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "这不是大人吗？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "你们下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八营兵、四官兵、四兵丁、四青袍同下。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "大人！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你们来啦？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "涿州知州张康侯迎接大人！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "千总王标迎接大人！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "卑职周贵迎接大人！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你们都来啦？"
+        },
+        {
+          "character": "张康侯、王标、周贵",
+          "type": "同白",
+          "text": "伺候大人！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "王标听命！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "命你急速调动官兵，将弘门寺团团围住，把大和尚拿住！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王标、八营兵同下。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你就是张康侯吗？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "卑职在。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "好个地面官，拿住凶僧再说。带我的驴来。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "送大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "于成龙下。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "张老爷，你们这儿有这件事，早为什么不上报？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "是哪个王八蛋才知道！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "看你怎么结案？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "哎呀我的二哥，你在大人台前，给我方便方便！"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "张老爷，看你的造化吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周贵、四官兵同下。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "咳，又来闹他妈的饥荒！这是哪儿的事？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张康侯、四青袍、四兵丁同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八营兵同上，同站门。王标上。"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八和尚、羽真同上，同起打，八和尚同跑下，王标擒羽真。"
+        },
+        {
+          "character": "八营兵",
+          "type": "同白",
+          "text": "大和尚被擒。"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "将凶僧绑好，带至辕门！"
+        },
+        {
+          "character": "八营兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八营兵、王标押羽真同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大吹打〗。四官兵、四侩子手同上，同站门。于成龙上。"
+        },
+        {
+          "character": "于成龙",
+          "type": "念",
+          "text": "为访凶僧，日夜辛勤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张康侯、王标同上。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "报！涿州知州张康侯告进！请大人安！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "报！千总王标告进！王标叩见大人！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "王标，大和尚拿住没有？"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "拿住啦。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "带进来！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "啊！ 呔！将大和尚绑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八营兵押羽真同上。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "我道是谁，原来是小于儿。我轻放了你了！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "你轻放了我，我可不能轻放了你！"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "呔！小于儿！你不在保定府辖民，来到涿州作甚？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "特为访你这凶僧而来！"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "啊！难道你大师傅有什么过犯不成吗？"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "强抢民女，饮酒作乐，还说没有过犯吗？"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "漫说你大师傅无有此事；纵有此事，你只好把你大师傅解京！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "回大人；他想到十四王爷那儿乞恩。"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "呔！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "啊！你还想到十四王爷那儿乞恩。难道我就杀你不得？"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "你不敢！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "大人在此，你不要胡说！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "王标！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "请过王命，把他杀了吧！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "得令！ 走啊！"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "好赃官呐！"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "走啊！"
+        },
+        {
+          "character": "羽真",
+          "type": "白",
+          "text": "哎，走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八营兵、王标押羽真同下。内起鼓。王标上。"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "啊，张老爷交令。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "杀了吗？"
+        },
+        {
+          "character": "王标",
+          "type": "白",
+          "text": "杀啦。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "我的哥，你就是杀人的祖宗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "王标下。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "回大人：大和尚杀啦，那人头还在地下流血呐！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "将弘门寺地窖子打开，把那些民女都放出来，有婆家，婆家领；有娘家，娘家 领。内有刘氏女子，查问明白，带来见我。把那些小和尚绑在两廊之下放火烧 死！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "啊！ 下面听者！大人吩咐下来：将弘门寺地窖子打开，把那些民女都放出来，有婆 家，婆家领；有娘家，娘家领。内有刘氏女子，查问明白，带来见大人。把庙 内那些小和尚，绑在两廊之下，放火烧死！"
+        },
+        {
+          "character": "四青袍",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "回大人：那些小和尚，绑在两廊之下，烧的这么呱呱乱叫。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "把刘玉、李三旺、刘氏女子一齐带上来！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "啊！ 大人吩咐下来，把刘氏女子、刘玉、李三旺一齐带上来！"
+        },
+        {
+          "character": "四青袍",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、刘小姐、李三旺同上。"
+        },
+        {
+          "character": "刘玉、刘小姐、李三旺",
+          "type": "同白",
+          "text": "叩见大人！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "刘氏，你兄弟哪儿去啦？"
+        },
+        {
+          "character": "刘小姐",
+          "type": "白",
+          "text": "被大和尚打死了哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘小姐哭。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "这下我才明白。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "大和尚已经正法。 李三旺！"
+        },
+        {
+          "character": "李三旺",
+          "type": "白",
+          "text": "大人！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "把你儿媳妇领回，好亲戚来往行走，领下去吧！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "谢大人！愿大人公侯万代！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "下去吧！下去吧！"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "谢谢太爷！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "谢我什么？"
+        },
+        {
+          "character": "刘玉、李三旺",
+          "type": "同白",
+          "text": "谢谢太爷那二十板子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘玉、李三旺、刘小姐同下。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "哎呀，瞎闹瞎闹！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "张康侯，你是父母官，有这样凶僧为何不报？"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "求大人开恩！"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "回衙听参！"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "谢大人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张康侯出。"
+        },
+        {
+          "character": "张康侯",
+          "type": "白",
+          "text": "完啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张康侯下。"
+        },
+        {
+          "character": "周贵",
+          "type": "白",
+          "text": "堂事已毕。"
+        },
+        {
+          "character": "于成龙",
+          "type": "白",
+          "text": "掩门！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,21 @@
 # 🎭 京剧剧本叙事与角色网络可视化分析系统 (Peking Opera Analytics)
 
-本系统是一个针对京剧剧本的深度可视化分析平台，基于 448 部京剧剧本和 6,004 个角色数据。系统结合了自然语言处理（TF-IDF, PCA）、大语言模型（Qwen2.5-7B）以及复杂网络分析方法，从**行当推断**、**角色关系网络**、**主题建模**以及**叙事结构**四个维度对京剧进行全方位的量化分析与可视化展示。
+本系统是一个针对京剧剧本的深度可视化分析平台，基于 1,473 部京剧剧本和 26,877 个角色数据。系统结合了自然语言处理（TF-IDF, PCA）、大语言模型（Qwen2.5-7B）以及复杂网络分析方法，从**行当推断**、**角色关系网络**、**主题建模**以及**叙事结构**四个维度对京剧进行全方位的量化分析与可视化展示。
+
+---
+
+## 📊 关键数据指标
+
+| 指标 | 数值 |
+|------|------|
+| **剧本总数** | 1,473 |
+| **角色实例总数** | 26,877 |
+| **已标注行当** | 7,259 |
+| **未标注角色（LLM/启发式推断）** | 19,375 |
+| **行当分布** | 生 3085 / 旦 1495 / 净 1563 / 丑 1116 |
+| **关系网络** | 1,380 个剧本共现/对话/权力三层网络 |
+| **主题类别** | 15 类（战争军事、智谋策略、忠诚报国等） |
+| **叙事分析** | 934 个剧本叙事结构（单峰 87%、双峰 10%、多峰 3%） |
 
 ---
 
@@ -23,11 +38,11 @@ China_vis/
 │   ├── narrative_analysis.py # 高斯平滑、峰值检测与四阶段叙事分割
 │   ├── llm_classify.py       # 大模型行当标注与预测
 │   └── llm_classify_batch.py # 大模型批量标注处理
-├── data/                     # 448 部原始京剧剧本 JSON 数据集
+├── data/                     # 1473 部原始京剧剧本 JSON 数据集 (包含多级子目录)
 ├── frontend/                 # 前端可视化展示系统 (Vite + React)
-│   ├── public/data/          # 后端分析导出的 JSON 可视化数据集
+│   ├── public/data/          # 后端分析导出的 JSON 可视化数据集 (包含 all-data precomputed 结果)
 │   ├── src/
-│   │   ├── components/       # 30+ 个独立的可视化图表与 UI 组件
+│   │   ├── components/       # 30+ 个独立的可视化图表与 UI 组件 (集成高级交互逻辑)
 │   │   ├── hooks/            # 数据加载与处理自定义 React Hooks
 │   │   ├── App.jsx           # 系统主入口与多任务导航控制
 │   │   ├── index.css         # 系统现代暗色系风格样式
@@ -58,7 +73,7 @@ China_vis/
     *   `NetworkComparison`：历史戏、家庭戏、公案戏、神话戏等不同剧种的网络密度与结构差异对比。
 
 ### 任务三：主题建模与分析 (Topic & Theme Modeling)
-*   **分析方法**：基于精心提炼的京剧 15 类主题词库进行关键词匹配与 TF-IDF 向量化，使用 PCA 投影探索主题空间，并利用 Qwen2.5:7b 进行大模型标注验证。
+*   **分析方法**：基于精心提炼 of 京剧 15 类主题词库进行关键词匹配与 TF-IDF 向量化，使用 PCA 投影探索主题空间，并利用 Qwen2.5:7b 进行大模型标注验证。
 *   **可视化组件**：
     *   `TopicTypeBar` / `TopicHeatmap`：不同剧种的主题构成比例与强度对比。
     *   `TopicSpaceChart`：PCA 降维后的剧本主题空间散点分布。
@@ -70,7 +85,7 @@ China_vis/
 *   **可视化组件**：
     *   `TemplateCurves`：不同剧种的归一化叙事张力平均模板曲线。
     *   `NarrativeCurve`：单部剧本中张力、冲突、事件、情绪曲线场景级演变。
-    *   `StageSegmentation`：叙事四阶段分割的场景可视化。
+    *   `StageSegmentation`：叙事四阶段分割 of 场景可视化。
     *   `ClimaxDistribution`：叙事高潮位置分布柱状图。
 
 ---
@@ -78,12 +93,28 @@ China_vis/
 ## 🛠️ 快速开始
 
 ### 1. 运行数据处理管线 (Python 后端)
-如果您需要重新运行分析并更新可视化数据，请进入 `backend` 目录依次执行脚本：
-```bash
-# 激活您的 Python 环境并安装相关依赖 (如 numpy, scipy 等)
-pip install numpy scipy
+如果您需要重新运行分析并更新可视化数据，请进入 `backend` 目录。
+可以使用传统的 `pip` 全局安装依赖运行，或者使用 `uv` 包管理器：
 
-# 执行分析管线，结果会自动导出到 frontend/public/data 目录下
+**使用 uv (推荐)**：
+```bash
+# 创建虚拟环境
+uv venv backend/.venv
+
+# 安装依赖
+uv pip install --python backend/.venv/Scripts/python.exe networkx numpy scipy scikit-learn
+
+# 执行分析管线 (按需运行)
+uv run --python backend/.venv/Scripts/python.exe python backend/process_data.py
+uv run --python backend/.venv/Scripts/python.exe python backend/network_analysis.py
+uv run --python backend/.venv/Scripts/python.exe python backend/theme_analysis.py
+uv run --python backend/.venv/Scripts/python.exe python backend/narrative_analysis.py
+```
+
+**使用 pip**：
+```bash
+pip install networkx numpy scipy scikit-learn
+
 python backend/process_data.py
 python backend/network_analysis.py
 python backend/theme_analysis.py

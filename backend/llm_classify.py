@@ -302,7 +302,7 @@ def main():
 
     # Load scripts for era analysis
     scripts = []
-    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "*.json"))):
+    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "**/*.json"), recursive=True)):
         with open(fpath, "r", encoding="utf-8") as f:
             scripts.append(json.load(f))
 

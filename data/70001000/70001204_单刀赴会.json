@@ -1,0 +1,1620 @@
+{
+  "script_id": "70001204",
+  "title": "单刀赴会",
+  "alias": [],
+  "source": "周信芳剧本选",
+  "characters": [
+    {
+      "name": "关羽",
+      "hangdang": "红生"
+    },
+    {
+      "name": "鲁肃",
+      "hangdang": "老生"
+    },
+    {
+      "name": "周仓",
+      "hangdang": "净"
+    },
+    {
+      "name": "关平",
+      "hangdang": "武生"
+    }
+  ],
+  "plot": "鲁肃设宴，以邀请关羽过江赴席为名，暗伏刀兵，欲加胁迫。关羽明知其中有诈，并不畏怯，仅携周仓一人，\n单刀赴会。筵间，鲁肃果然婉言索取荆州，关羽佯称酒醉，一手持刀，一手挟鲁肃退席。东吴伏兵不敢轻\n动，关羽安然扬帆回到荆州防地。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "发点。四飞虎、四军校、伊藉、马良、王甫、赵累、关羽同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "引子",
+          "text": "想当年弟在范阳、兄在楼桑，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。关平、周仓同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "引子",
+          "text": "俺关某在蒲州解良，诸葛在南阳，英雄聚四方，结义桃园皇叔关张。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "曹操胁主占中原，孙氏东吴已敷传。天下三分成鼎足，大哥仁义坐西川。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某，汉室关羽。奉大哥之命，镇守荆州，东扼下游，北拒郧襄；闻得大哥领西 川，进位汉中，也曾奉表申贺，前者诸葛瑾入川催讨荆州，大哥愿将长沙三郡 交还东吴，俺想汉朝疆土，岂肯让人，被某拒绝，量孙权必不休，须要提防。 左右，伺候了。"
+        },
+        {
+          "character": "伊藉、马良、王甫、赵累",
+          "type": "同白",
+          "text": "喳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "念",
+          "text": "龙虎台前出入，貔貅帐下传宣。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "启禀君侯：今有东吴鲁子敬差人前来下书。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "下书人何在？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "现在辕门以外。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文暗上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "周将。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "搜检明白，叫他报门而进。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "喳、喳、喳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周仓急搜黄文。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "呔，父王传你，你要打点了，你要——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周仓亮相。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "小心了，报门而进。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文惧怕。"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "报！东吴下书人黄文告进！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军校同喝威，黄文战抖地跪见。"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "下书人叩见君侯。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "那一下书人，奉何人所差？"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "东吴鲁大夫所差。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你叫什么名字？"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "小将名叫大胆黄文。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大胆黄文！你的胆有多大？"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "有巴斗大。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "周将。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "剖开看来。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "喳！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周仓举刀。黄文唬倒。"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "哎吓，哎吓！不要剖开，我的胆儿只有芥菜子那样小。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "哈哈哈哈。周将，命他将书呈上。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "将书呈上。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文呈书，周仓交关羽。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "待某拆开一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。关羽看信。两丝边。关羽考虑。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "黄文！"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "本月十三日，某亲来赴会，修书不及，回话去罢！"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "去吧！"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文出门回头偷看。"
+        },
+        {
+          "character": "黄文",
+          "type": "念",
+          "text": "出得门来看云长，蚕眉凤目髯飘荡。面如重枣—般同，青龙刀举谁能挡！"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "鲁子敬吓，鲁子敬，此番我倒替你担忧呢！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文下。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "敢问父王。东吴来信，写些什么？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "那鲁子敬相请为父，过江赴宴。必为讨荆州之事。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "父帅去是不去？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "他既相请，焉有不去之理。我若不去，岂不被东吴耻笑？"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "启禀父帅：皇伯将荆州九郡托与父帅掌管，倚若泰山，身临险地，倘席间有差， 如何是好？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "嗯！孺子竟敢多言！为父驰骋在万马军中，尚且视同儿戏，东吴纵有奸谋，为 父又何惧哉！"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮二六板",
+          "text": "两朝相隔汉阳江， 鲁子敬排宴不寻常。 哪里有倾杯葡萄酿， 分明是巴豆和砒霜。 玳筵前摆列的英雄将， 休想是画堂别样好风光。 他准备着天罗与地网，"
+        },
+        {
+          "character": "关羽",
+          "type": "西皮流水板",
+          "text": "他准备着杀人好战场。 既相请我当亲身往， 猛虎何惧犬和羊！"
+        },
+        {
+          "character": "马良",
+          "type": "白",
+          "text": "想那鲁子敬足智多谋，东吴兵多将广，只怕此去，落在他圈套之中。君侯不可 不防。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某自有安排。 周仓听令。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "准备大船一只，挑选关西大汉二十名，随某单刀赴会。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周仓下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "关平听令。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "准备战船二十只，军卒三千名，埋伏陆口对岸江上，见红旗一摆，即来迎接为 父。"
+        },
+        {
+          "character": "关平",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关平下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "马良、伊藉镇守荆州，诸将各守汛地，严加防守。正是："
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "云长亲赴单刀会，磊落行藏万古传。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下。众人同随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。黄文、四文堂同上。"
+        },
+        {
+          "character": "黄文",
+          "type": "念",
+          "text": "江边延上客，席上动刀兵。"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "某，东吴大将黄文。奉了鲁都督之命，江边探望荆州船只。 众将官，江边去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引黄文同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周仓上，单起霸。"
+        },
+        {
+          "character": "周仓",
+          "type": "念",
+          "text": "志气凌云贯九霄，周仓随驾显荚豪。今日江东去赴会，全仗青龙偃月刀。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "今日东吴鲁大夫请俺父帅赴宴，为此驾舟前往。一言未了，只见父帅来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蜀兵引关羽同上。〖吹打〗。船夫上，众人同登舟，关平送行，下。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "可曾齐备？"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "俱已齐备。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "吩咐开船。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "喳！ 呔，开船吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "船夫开船。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "周仓。吩咐风帆不用扯满，把船缓缓而行，某家好观看江景。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "吓。 嘚，水手们听者。"
+        },
+        {
+          "character": "四蜀兵",
+          "type": "同白",
+          "text": "吓。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "父帅有令，风帆不要扯满，把船缓缓而行。"
+        },
+        {
+          "character": "四蜀兵",
+          "type": "同白",
+          "text": "吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、周仓同亮像。"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "波涛滚滚渡江东，独赴单刀孰与同。片帆瞬息西风力，要向东吴一逞雄。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "好—派江景也！"
+        },
+        {
+          "character": "关羽",
+          "type": "上字调新水令",
+          "text": "大江东去浪千叠， 趁西风驾着这小舟一叶。 又不比九重龙凤阙， 早来探千丈虎狼穴。 大丈夫性烈，大丈夫性烈， 觑着那单刀会赛村社。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "水声。周仓出舱看。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "好水。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "前面是何处？"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "前面乃是赤壁。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "待我看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽出舱。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "哦哈呀，看这边厢山连着水，那边厢水连着山，俺想二十年前隔江斗智，曹兵 八十三万人马屯在这赤壁之间，也是这般山水，到今日……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽亮像。"
+        },
+        {
+          "character": "关羽",
+          "type": "驻马听",
+          "text": "依旧的水涌山叠， 依旧的水涌山叠， 好一个年少周郎恁在何处也， 不觉的灰飞烟灭， 可怜黄盖暗伤嗟， 破曹樯橹却又早一时绝。 只这鏖兵江水犹然热， 好教俺心惨切。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "嗗，呀呀，好水吓，好水！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "水声。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "周仓。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "关羽",
+          "type": "驻马听",
+          "text": "这是二十年流不尽英雄血。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "船夫催舟，关羽率众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引鲁肃同上。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "念",
+          "text": "水军当大任，为国秉忠诚。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄文上。"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "启都督：关羽船近临江边。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "传令摆队相迎。"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "摆队相迎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四蜀兵同上，同斜门，四吴兵自下场门同上，同斜门。黄文、周仓同上。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "君侯到。"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "请少待。 有请鲁大夫。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁肃上。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "君侯驾到。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "待我登舟相迎。"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "鲁都督来迎。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "有请父帅。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽上，船夫搭扶手，鲁肃下船相迎。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "吓，君侯。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯请。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫请。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "还是君侯请。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "还是大夫请。"
+        },
+        {
+          "character": "关羽、鲁肃",
+          "type": "同白",
+          "text": "你我携手而行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、鲁肃携手同下船。周仓随侍下船，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁肃、关羽、周仓、黄文同上。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯远道而来，肃末曾远迎，接待不周，望乞恕罪。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫，想某有何德能，敢劳大夫酒筵相迎。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "酒非洞府之长春，肴乃人间之菲仪。君侯降临，实乃东吴之万幸也。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "贱脚踹贵地。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "岂敢。贵脚踏贱地。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "江路寒冷，请君侯先饮三杯御寒。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "使得。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "看酒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侍臣允。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯请。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫，可知主不饮……"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "客不宁。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "照杯。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "干！君侯请。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "酒不饮单。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "色不浸二。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、鲁肃同笑。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "照杯。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "干！君侯请。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫，可知某的刀也会饮酒？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "名将宝刀，当非凡比。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周仓允。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "刀吓，刀！想你在百万军中，取上将首级如探囊取物，今日蒙东吴鲁大夫请某 饮宴，你也得痛饮一杯！"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "嗗，呀呀。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "要敬君侯，酒都是下官饮了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "少间席上多饮几杯。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "来！看酒，待我把盏。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "这却不敢！"
+        },
+        {
+          "character": "黄文",
+          "type": "白",
+          "text": "上酒！请周将军用饭。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "不用。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周仓搜门，亮像。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫请。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "吓吓吓，君侯请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。关羽、鲁肃同饮。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯，我们在哪一别，直到如今？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "当阳。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "是啊，想光阴似骏马加鞭，人事如落花流水，去得好疾也。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "果然好疾也！唔。"
+        },
+        {
+          "character": "关羽",
+          "type": "胡十八",
+          "text": "想古令立勋业， 哪里有舜五人，汉三杰。 两朝相隔， 只这数年别， 不复能够会也， 恰又早这般老也。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯不老，下官倒苍了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "皆然。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "请君侯畅饮几杯。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "关羽",
+          "type": "胡十八",
+          "text": "开怀来饮数杯。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "胡十八",
+          "text": "请开怀饮数杯。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫！"
+        },
+        {
+          "character": "关羽",
+          "type": "胡十八",
+          "text": "某只待要尽兴儿，可便醉也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、鲁肃同笑。"
+        },
+        {
+          "character": "关羽、鲁肃",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "闻得君侯，在曹营之中，斩颜良，诛文丑，杀退河北之众，威名远震，肃只是 耳闻，未曾目睹，今日请君侯言讲—番，肃洗耳恭听。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫提起此事，说来十分平常，听来倒也惊人，大夫若不嫌絮烦，侍某出席， 试说与大夫听。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "愿闻。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫听道：汉室倾颓，国运衰微，十常侍乱于宫中，众诸侯纷争边外，董卓专 权，欺君罔上，关某在汜水关下斩了华雄，虎牢关前三战吕布。平灭董卓之后， 我大哥原是帝胄，被当今天子封为宜城侯。谁想又遭曹操之乱，我弟兄逃出 许昌，赚城斩了车胄，占了徐州，招军买马。准备重整汉基，那曹操亲领人马 前来攻打。我大哥镇守徐州，三弟镇守小沛，关某保定二嫂分镇下邳，以为犄 角之势。那日探马报道：徐州、小沛相继失守，关某中了夏侯惇诱敌之计，被 困在土山之上。远望下邳火起，只道二嫂遇害，欲待拔剑自刎，山下来了张辽 顺说关某。某也曾约过三事：第一件，只降汉，不降曹操；第二件，我二位嫂 嫂要食皇叔的俸禄，上下人等，不准到门；第三件，若知我兄下落，不拘千里 万里，水火之中，定当辞去。自进曹营以来，那曹操十分厚待于某，三日一小 宴，五日一大宴，上马献金，下马赠银。到后来，河北袁绍差大将颜良攻取白 马坡，曹营诸将不是颜良对手，关某匹马单刀，我就冲下山去，见了颜良，我 勒马提刀——"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯可慌？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "不慌。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "可忙？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "一些儿不忙。关某的青龙刀下，就斩了颜良，延津渡口又诛了文丑。表封汉寿 亭侯。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯盖世之功，使贼闻名丧胆，令人钦佩。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "些须微事，何劳大夫谬赞耳！"
+        },
+        {
+          "character": "关羽、鲁肃",
+          "type": "同笑",
+          "text": "啊，哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽返席。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯马到成功，肃当敬一大杯。 （〖节节高〗。鲁肃奉酒。关羽接饮，入座。〖急急风〗。吕蒙率四吴将同上，见鲁肃举杯，欲入杀，鲁肃 急止。）"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "还早。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吕蒙、四吴将同下。鲁肃返席。周仓两望门。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "启禀君侯：东吴有诈。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "嗯！关某出世以来，未遇过三合之战将，纵然有诈，关某何惧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁肃微惊略转。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "啊，君侯！曹操既待君侯不薄，为何封金挂印，斩关杀将？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫提起此事，待关某卸去袍服，手舞足蹈，讲与大夫听。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "愿闻。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "周将。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "喳。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "宽袍！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽下位，卸袍。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯请讲！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫听了：曹操虽然待我恩厚，只因关某有言在先，若知我兄下落，不拘千里 万里，赴汤蹈火，定当辞去。确知我家大哥现在河北袁绍军中，关某肝肠寸断， 即往相府辞曹，谁知曹操故意挂出回避牌，张辽又托病不出，关某只得封金 挂印，写柬辞曹。行至在灞陵桥，哗喇喇人声呐喊，曹操带领众将前来送行， 赠某美酒红袍；这酒，祭了青龙刀，这刀，刀挑大红袍，保定二位皇嫂，闯过 了灞陵桥，曹操不与我文凭路引，关关都有阻拦，关某情急无奈，只得斩关杀 将，在黄河渡口斩了秦琪，不分昼夜，行至古城。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "古城乃是令兄、令弟所居之处，自然相会了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "这说弟兄相会，谁知三弟在敌楼之上言道：红脸的，你既降曹，又来则甚？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "那时君侯如何？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫啊！"
+        },
+        {
+          "character": "关羽",
+          "type": "胡十八",
+          "text": "啊呀，大夫。 好教俺混身是口， 恁的样分说？ 脑背后将军猛烈， 那素白旗上，他就明明的这标写。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "标写什么？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "追赶前来者，乃是蔡阳。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "蔡阳与君无仇，为何追赶？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "这因黄河渡口，斩了他外甥秦琪，因此前来与他外甥报仇。我三弟不知，以我 带领曹兵里应外合，是某再三分辩，他执意不肯开城，倒也粗中有细，念在桃 园之义，助俺三通战鼓，十面小旗。这一通鼓，饱餐战饭；二通鼓，催马阵前； 三通鼓，立斩蔡阳。"
+        },
+        {
+          "character": "关羽",
+          "type": "胡十八",
+          "text": "只听得扑通通鼓声耳未绝， 哗喇喇征鞍上骤也。 卒律律刀过处似雪， 叱咤人头落也。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "斩了蔡阳，令兄令弟自然相会了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫啊！"
+        },
+        {
+          "character": "关羽",
+          "type": "胡十八",
+          "text": "才能够兄弟哥哥每欢悦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周仓弹刀作声。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "什么响？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某的青龙刀啸。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "刀响主何吉凶？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "还不是要取上将的人头落地！"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "刀响过几次？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "响过三次。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "第一次？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "温酒斩华雄。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "第二次？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "斩颜良，诛文丑。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "这第三次？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "这三——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽笑。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "啊啊啊！莫非要应在大夫身上了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁肃惊惧。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯，你言重了。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "言重了，哈哈哈……"
+        },
+        {
+          "character": "鲁肃",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽、鲁肃同归座。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "请问君侯，这件事叫做什么？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "叫做：以德报德，以直报怨。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "好一个以德报德，以直报怨。我想君侯借物不还，谓之怨也。想君侯熟读春秋， 通晓兵书，匡扶社稷，济困扶危，谓之仁也。待玄德公如骨肉，视曹操如寇 仇，谓之义也。辞曹归汉，封金挂印，五关斩将，千里独行，谓之礼也。斩颜 良、诛文丑，谓之智也。想君侯仁、义、礼、智俱全。咳，嘿嘿，惜乎吓，惜 乎，却缺少一个信字。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "嗯……"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯是不会失信于人的。但是令兄玄德公曾失信于鲁肃。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "某大哥，乃仁德之君，岂能失信于你？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "昔日贤昆仲，兵败当阳，身无所归，那时孔明见与肃求见吾主，即日兴师，破 曹操于赤壁之间。东吴费有巨万之资，又折了大将黄盖。只因贤昆仲无尺寸之 地，故而暂借荆州，以为养军之地。那时玄德公言道，得了西川，交还荆州， 如今东西两川已得，玄德公愿将长沙、零陵、桂阳三郡交还东吴，惟君侯不允， 这信字安在？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "啊！今日请某饮宴，就是为了索取荆州么？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "这酒是要饮，荆州也要还。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "嗯！大夫！"
+        },
+        {
+          "character": "关羽",
+          "type": "庆东原",
+          "text": "我把你真心儿待， 恁将那筵席来设， 攀今弔古，分什么枝叶？ 俺跟前使不得之乎者也，诗云子曰。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "荆州原是吴地。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "关羽",
+          "type": "庆东原",
+          "text": "但开言，只叫恁剜口绝舌！"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "孙刘结亲，原为两邦和好。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "恰又来！"
+        },
+        {
+          "character": "关羽",
+          "type": "庆东原",
+          "text": "有意孙刘，目下反成吴越。"
+        },
+        {
+          "character": "周仓",
+          "type": "叫头",
+          "text": "呔！"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "荆州乃是汉家基业，岂能与你！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "嗯！我与大夫谈论国家大事，何用你来多口！站下。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "叫头",
+          "text": "君侯！"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "我劝你写下退还文约，如若不然，我……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽出位，鲁肃出位。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你便怎么样？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "我，我，我……哎呀，我鲁肃为难呐！"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "鲁大夫！"
+        },
+        {
+          "character": "关羽",
+          "type": "念",
+          "text": "青龙偃月不可挡，万马军中非寻常。筵前再提荆州事，子敬难免刀下亡。"
+        },
+        {
+          "character": "关羽",
+          "type": "雁儿落带得胜令",
+          "text": "凭着恁三寸不烂舌， 休恼俺三尺无情铁。 这刀饥餐了上将头， 渴饮了仇人血。 这的是龙在鞘中蛰， 虎向座间歇。 今日个故友重相见， 休教俺弟兄们相间别。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "鲁子敬听者！"
+        },
+        {
+          "character": "关羽",
+          "type": "雁儿落带得胜令",
+          "text": "心下休惊怯，好日已西斜。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "周将！"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "关羽",
+          "type": "雁儿落带得胜令",
+          "text": "吾当醉也。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "君侯！你不还荆州，你来看……这沿江一带，俱是我东吴人马，慢说你是一人， 就是一只猛虎，也难闯过江去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁肃抓杯，欲击杯为号。关羽抓鲁肃袍带。内喊声。吕蒙、四吴将同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你可有埋伏？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "无有埋伏？"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "你可有诈？"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "无有诈。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "鲁大夫！"
+        },
+        {
+          "character": "关羽",
+          "type": "揽筝琶",
+          "text": "恰怎生闹吵吵三军列？ 有谁人把谁挡拦者？ 挡着俺啊，只教你剑下身亡，目前见血。 恁便有张仪口，蒯通舌，哪里去闪遮。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "无有诈。"
+        },
+        {
+          "character": "关羽",
+          "type": "揽筝琶",
+          "text": "你且来来来， 好生送某到船上。和你慢慢地分别。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽抓鲁肃同下，众人同下。关羽抓鲁肃同上，众人同上。四蜀兵同上。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "请大夫过船谢宴。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "我不过船了。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "谅你也不敢。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "大夫，受惊了。"
+        },
+        {
+          "character": "关羽",
+          "type": "煞尾",
+          "text": "承款待，多称谢， 只这两句话儿， 恁可也牢牢记者， 百忙里你不得老兄心， 急切里夺不得汉家业。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽跳上船。周仓刀斩船缆。"
+        },
+        {
+          "character": "周仓",
+          "type": "白",
+          "text": "开船。"
+        },
+        {
+          "character": "关羽",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "关羽率众人同下。"
+        },
+        {
+          "character": "鲁肃",
+          "type": "白",
+          "text": "惭愧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁肃下。众人同随下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（二船夫、四马夫、关平同迎上。关羽、周仓、四蜀兵、船夫同上，同上大船。关羽、关平、周仓同亮相，"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "同下，众人同随下。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

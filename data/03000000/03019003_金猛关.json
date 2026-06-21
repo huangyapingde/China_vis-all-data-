@@ -1,0 +1,3117 @@
+{
+  "script_id": "03019003",
+  "title": "金猛关",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "金莲公主",
+      "hangdang": "刀马旦"
+    },
+    {
+      "name": "银娥公主",
+      "hangdang": "刀马旦"
+    },
+    {
+      "name": "焦玉",
+      "hangdang": "净"
+    },
+    {
+      "name": "孟强",
+      "hangdang": "小生"
+    },
+    {
+      "name": "葫芦妈妈",
+      "hangdang": "彩旦"
+    },
+    {
+      "name": "呼延守用",
+      "hangdang": "老生"
+    },
+    {
+      "name": "萧赛红",
+      "hangdang": "旦"
+    },
+    {
+      "name": "呼延庆",
+      "hangdang": "净"
+    },
+    {
+      "name": "郑熊",
+      "hangdang": "净"
+    },
+    {
+      "name": "高奎",
+      "hangdang": "净"
+    },
+    {
+      "name": "莫胡里",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "北宋时，呼延守用及其妻萧赛红奉旨征西，首攻金猛关。西凉国向鱼皮国求援，鱼皮国派金莲、银娥二公主\n援救金猛关。出战时，两公主见宋营孟强、焦玉二将少年英勇，擒回营中，欲结婚姻。二将先则不允，后经\n劝说始从。两公主协助宋兵，杀金猛关守将莫胡里，献城归宋。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延庆上，起霸。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "点绛唇",
+          "text": "鼓角声洪，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑熊上，起霸。"
+        },
+        {
+          "character": "郑熊",
+          "type": "点绛唇",
+          "text": "军威震动，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高奎上，起霸。"
+        },
+        {
+          "character": "高奎",
+          "type": "点绛唇",
+          "text": "奉敕旨，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉上，起霸。"
+        },
+        {
+          "character": "焦玉",
+          "type": "点绛唇",
+          "text": "要把贼平。"
+        },
+        {
+          "character": "呼延庆、郑熊、高奎、焦玉",
+          "type": "同点绛唇",
+          "text": "令出山岳动！"
+        },
+        {
+          "character": "呼延庆、郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "呼延庆。"
+        },
+        {
+          "character": "郑熊",
+          "type": "白",
+          "text": "郑熊。"
+        },
+        {
+          "character": "高奎",
+          "type": "白",
+          "text": "高奎。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "焦玉。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "众位贤弟请了！"
+        },
+        {
+          "character": "郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "只因俺爹爹在萧邦招为驸马，得胜还朝。圣上大喜，封萧赛红为帅，我父为副 帅，前来征西，夺取黑沙口并金猛关两处。耳听鼓角声响，我等两厢伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖发点〗。四文堂、四上手、呼延守用、萧赛红同上。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "粉蝶儿",
+          "text": "将勇兵强，抖威风，将勇兵强， 领雄狮，要把那西番扫荡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水龙吟〗。呼延守用、萧赛红同归座。"
+        },
+        {
+          "character": "呼延庆、郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "少礼。"
+        },
+        {
+          "character": "呼延庆、郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "念",
+          "text": "我本萧邦女裙钗，今奉圣旨疆土开。"
+        },
+        {
+          "character": "呼延守用",
+          "type": "念",
+          "text": "公主威名扬四海，哪怕西番有将才。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "本帅，萧赛红。"
+        },
+        {
+          "character": "呼延守用",
+          "type": "白",
+          "text": "呼延守用。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "只因驸马被庞吉所害，投奔我国。我父将他招为驸马，带领本部人马杀到皇都， 要天子献出庞吉，即便投降。圣上许下平了西番之后，即将庞吉斩首，与驸 马报仇，就挂我夫妻为平西元帅。今日发兵之期。 驸马，还是先夺黑沙口，还是先取金猛关？"
+        },
+        {
+          "character": "呼延守用",
+          "type": "白",
+          "text": "启元帅：那金猛关乃是咽喉之地，夺了此关，那黑沙口守将不战自降，何愁大 功不成！"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "就请驸马传令！"
+        },
+        {
+          "character": "呼延守用",
+          "type": "白",
+          "text": "请公主传令！"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "如此有僭了！ 呼延庆、郑熊、高奎、焦玉听令！"
+        },
+        {
+          "character": "呼延庆、郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "命你四人带领三千人马，先夺金猛关，本帅大兵随后。"
+        },
+        {
+          "character": "呼延庆、郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "得令。 带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手带马，领呼延庆、郑熊、高奎、焦玉同下。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "众将官，起兵前往！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同应。〖牌子〗。四文堂同带马，四文堂、呼延守用、萧赛红同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "探子",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "念",
+          "text": "打听南朝事，报与元帅知。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "俺，金猛关莫元帅帐下能行探子是也。打听萧赛红挂帅，来取金猛关。不免报 与元帅知道便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵引莫胡里同上。〖点绛唇〗。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "念",
+          "text": "自幼生长在西番，百万雄师金鼓喧。奉命镇守咽喉地，敌将闻名心胆寒。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "俺，西凉王驾下国舅莫胡里是也。奉命镇守金猛关，每日操演人马，提防南蛮 兵将。 巴图鲁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵同应。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "伺候了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵同应。"
+        },
+        {
+          "character": "探子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "启元帅：南朝人马来夺金猛关。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "但不知何人挂帅？起来讲。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "元帅容禀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "再去打探！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "且住！南朝兴兵前来，趁他安营未稳，会他一阵。 巴图鲁！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵同应。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "出关迎敌者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵同应，同带马。莫胡里、四番兵同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、呼延庆、郑熊、高奎、焦玉同上。"
+        },
+        {
+          "character": "呼延庆、郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "呼延庆。"
+        },
+        {
+          "character": "郑熊",
+          "type": "白",
+          "text": "郑熊。"
+        },
+        {
+          "character": "高奎",
+          "type": "白",
+          "text": "高奎。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "焦玉。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "众位贤弟！"
+        },
+        {
+          "character": "郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "大哥！"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "你我奉了元帅之令，攻打头阵。大家前往！"
+        },
+        {
+          "character": "郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "请。 众兵丁，迎上前去！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、莫胡里同上，同会阵。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "呔！番寇通名受死！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "西凉王驾下国舅莫胡里是也。四个儿郎通名上来！"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "呼延庆。"
+        },
+        {
+          "character": "郑熊",
+          "type": "白",
+          "text": "郑熊。"
+        },
+        {
+          "character": "高奎",
+          "type": "白",
+          "text": "高奎。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "焦玉。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "快叫那萧赛红出马，饶你四人狗命！"
+        },
+        {
+          "character": "呼延庆、郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "一派胡言，着打！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延庆、郑熊、高奎、焦玉、莫胡里同起打。四上手、四番兵同冲下。莫胡里败下。四上手自两边分上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "大哥，番寇被小弟这一鞭打跑了。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "好哇！暂且安营，准备攻城者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": "金莲公主、银娥公主",
+          "type": "内同白",
+          "text": "趱行者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、葫芦妈妈、金莲公主、银娥公主同骑马上。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "西凉奉了父王令，"
+        },
+        {
+          "character": "银娥公主",
+          "type": "唱",
+          "text": "金猛助战走一程。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "咱家鱼皮国王之女金莲公主是也。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "咱家银娥公主是也。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "我，乳娘葫芦妈妈是也。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "只因西凉国王寿诞之期，我爹爹带领我姐妹二人前去祝寿。谁知南朝命萧赛红 挂帅征西。那西凉国王因为金猛关乃是咽喉之地，恐国舅莫胡里寡不敌众，向 我父王借兵帮助。我父王就命我姐妹二人带领本部人马，往金猛关助战。为此 星夜赶来。嗐！想不到拜寿，会招出这么一件啰嗦事来。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "姐姐，爹爹也是老糊涂了。那西凉王好酒贪杯，不理朝政，向咱们借兵，就该 不借。好么样儿的，又命咱们两个人前去助战。这个事我也瞧出来了，大概你 我这一辈子也只好养活个家关老啦，没有事就打仗玩吧！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "我说二位公主别抱怨啦，依我瞧，这一去助战，倒是好事。"
+        },
+        {
+          "character": "金莲公主、银娥公主",
+          "type": "同白",
+          "text": "怎么是好事哪？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "此番与南朝交战，内中的将官，总有没成过家的。你们姐妹两个，对巧了一人 招一个小女婿子回国，有多么好啊！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "别取笑了。天色不早，马上加鞭！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "紧紧催马往前进，"
+        },
+        {
+          "character": "银娥公主",
+          "type": "唱",
+          "text": "两军阵前见机行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": "莫胡里",
+          "type": "内唱",
+          "text": "适才阵前打败仗，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、莫胡里同败上。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "唱",
+          "text": "打得某家左臂伤。 免战牌挂在城楼上， 速速求兵奏大王。"
+        },
+        {
+          "character": "探子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "启元帅：鱼皮国二位公主到。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "快快有请！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。〖牌子〗。四下手、金莲公主、银娥公主、葫芦妈妈同上。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "啊，公主！"
+        },
+        {
+          "character": "金莲公主、银娥公主",
+          "type": "同白",
+          "text": "元帅！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "金莲公主、银娥公主",
+          "type": "同白",
+          "text": "国舅在上，我姐妹参拜！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "不敢！二位公主请坐。"
+        },
+        {
+          "character": "金莲公主、银娥公主",
+          "type": "同白",
+          "text": "告坐。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "乳娘与国舅叩头！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "少礼。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "二位公主打从何处而来？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "只为贵国与我父借兵，就命我姐妹二人前来助阵。不知可与南朝见过阵没有？"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "适才见过了，被一小将打了一鞭，受伤甚重，不能出战。正要修本请兵，二位 公主来了。此是天助我成功也！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "待我姐妹明日去到阵前，会他一阵便了。"
+        },
+        {
+          "character": "探子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "启元帅：呼延庆讨战！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "南蛮欺我太甚矣！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "国舅放心，待我出城生擒呼延庆入帐。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "姐姐阵前须小心，乳娘跟随前去。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "二公主请至后面！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "银娥公主、莫胡里同下。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "众番儿，带马出城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。葫芦妈妈带马递枪，金莲公主、葫芦妈妈、四下手同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": "焦玉",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "单骑出营把城骂， 要擒番奴保中华。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "俺，焦玉。只为阵前打伤莫胡里，是俺瞒着众人独骑出营，假冒呼大哥的名字， 前来骂城。倘将番寇打死，夺了金猛关，岂不是呼大哥的功劳，我也作个脸。 就此马上加鞭！"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "催马来在城池下， 快快开关会某家。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "呔，番寇快快出来受死！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "拉城。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "内唱",
+          "text": "大胆宋将把城骂，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、葫芦妈妈自下场门引金莲公主同出城，架住。四下手、葫芦妈妈同翻下。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "阵前显出少年娃。 胯下一骑追风马， 打将钢鞭手中拿。 金莲催马忙问话， 来者可是呼家娃？"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "早间番寇被某打， 忽然又来女娇娃。 非是少爷夸大话， 顷刻叫你染黄沙。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "急忙催动桃花马，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主起打。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "不由心中乱如麻。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哟哟哟……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主笑下。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "两军阵前赌杀法， 番女上下来看咱。 未战三合她败下，"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "定要赶上擒住她！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主上。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "呼家后代名不假， 果然英雄无二家。 故意佯输败阵下， 等他赶来把话答。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "番女快把命留下， 免得少爷动杀伐。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "看鞭！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "慢着！嘿，我说呼延庆你可真不懂交情！我不跟你动手，你还不知道我的心事 吗？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "我全不知道。看鞭！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哈哈！黑小子你可真不要脸，看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉、金莲公主同起打。"
+        },
+        {
+          "character": "金莲",
+          "type": "白",
+          "text": "还是不跟你打。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主笑下。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "啊！怎么又跑了？嗐！给她一个赶尽杀绝。 哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、葫芦妈妈、金莲公主同上。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "且住！呼延庆紧紧赶来。 乳娘吩咐红罗套索伺候！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "是。 红罗套索伺候！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "焦玉",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉上。金莲公主擒住焦玉。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "绑回去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手押焦玉同下。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "走，报功去！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "乳娘回来！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "什么事啊？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "你看这个呼小将好不好？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "实在是个英雄。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "在道上你说的那个话，给我办办才好。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "什么话呀？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "嗐，好糊涂！拿耳朵来。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "哦，哦，哦！知道啦。可是这么着，我跟二公主给你办好了，你可得想着二公 主点儿啊！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "劳你驾，决忘不了。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "那么着，我去搬二公主去。你上帐交令去吧！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "走哇！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "对，走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主、葫芦妈妈同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、莫胡里同上。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "唱",
+          "text": "每日操演兵和将， 又蒙鱼皮助兵强。 将身坐在牛皮帐， 不见公主回营房。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。四下手、金莲公主同上。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "咱家交令！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "公主胜负如何？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "擒来呼延庆，帐外候令。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "有劳公主，请至后面歇息。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "谢国舅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主、四下手同下。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "来，将南蛮绑上来！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "是。 将南蛮绑上来！"
+        },
+        {
+          "character": "四下手",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手绑焦玉同上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "虎落平阳难反掌， 盖世英雄无下场。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "呔！呼延庆，既已被擒，还不下跪！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "放屁！俺乃天朝大将，谁肯跪你这番寇？"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "某家正要报一鞭之仇。 来，推出斩了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉三笑，四下手推焦玉同下。葫芦妈妈、银娥公主同上。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "快走吧！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "刀下留人！ 参见国舅！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "二公主上帐何事？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "我们有一件事，求国舅做主。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "乳娘有何金言，讲在当面。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "公主您说呀！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "你说吧！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "国舅，只因我们二位公主均未招驸马，适才我们大公主在阵前擒来的呼延庆， 我见他英雄出众，相貌不俗，国舅若肯作伐，与我们大公主说说这门亲事。倘 若说成了，我们岂不是又添一个膀臂嘛！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "乳娘此言差矣！想那呼延庆，乃是宋朝元帅的公子，他父母现在执掌帅印。况 且与我国乃是仇敌，岂肯在此招为驸马？乳娘你要再思再想。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "国舅有所不知，如今宋朝谗臣当道，惑乱朝政，置忠良于无用之处。那呼延元 帅虽然在外立功，难免心里不防着朝中有人暗害于他。国舅只要代我们说妥这 门亲事，我管保呼延元帅不战而自降。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "话虽如此，怎奈我主法度森严。那呼延庆又在阵上打伤某家左膀。今已被擒， 定要报那一鞭之仇。此事万难从命！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "慢着！听国舅之言，贵国的军令森严，况且又要报一鞭之仇，万不肯与我姐姐 说这门亲事啦？"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "不敢从命。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "本来嘛，人家西凉大国的公事，咱们就不应该弄这个私事在这儿打搅。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "着哇！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "我说乳娘，咱们是怎么来的？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "是西凉国兵微将寡，跟咱们国王借兵才派咱们来的呀。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "啊，呼延庆是谁擒来的呢？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "是国舅左膀被人打伤，不能出阵，咱们大公主在阵上擒来的呀！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "方才乳娘求国舅与我姐姐说好了这门亲事，再说降了呼家父子，得了宋朝的天 下，请问是谁坐呀？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "不也是人家西凉国王坐嘛！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "哦，没有咱们一点什么呀？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "一点边也沾不着。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "闹了半天，全是为他们呀！这又何必空费许多兵马钱粮，帮着他们征战？求他 这么点事情全不爱管。现在他左膀受伤，不能打仗，他国若有救应，决不能向 我国借兵。依我的主意呀，呼延庆是咱们擒来的，咱们把他放了，就是父王的 旨意，我也做得了主。把人马撤回本国，不管他们的闲事啦。我看老狗他剩一 只胳膊怎么打仗。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "哼哼！到了那会儿呀，你们西凉国被人家宋朝这么一吞，你这个贵国舅哇，我 瞧也只好变个亡国奴吧！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "乳娘别跟他废话啦，您去放呼延庆，我同姐姐传令收兵去。咱们走！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "哎呀慢来慢来！乳娘、公主不要动气，某家说成此事就是了。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "那么劳国舅驾啦。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "来呀！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "将呼延庆解下桩来！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "将呼延庆解下桩来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手押焦玉同上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "呔！番寇要斩便斩，为何又解下桩来？叫老爷好不耐烦！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "呼延将军，方才阵上擒你的女将，乃是鱼皮国王之女金莲公主。某家意欲作伐， 将金莲公主许配与你。不知将军意下如何？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "住了！俺乃大宋元勋之子，岂肯要你们这番寇之女？不必胡言，快快把俺斩首！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "啊乳娘，他不依从也是枉然。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "不要紧，我下帐劝劝他去。 嘿！我说呼延将军，咱们跟你商量商量。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "老婆子你有什么说的？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "你可知道我们是怎么回事情？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "我哪里知道！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "方才阵上擒你的那个姑娘，乃是鱼皮国王之女，我是她的乳娘。只因西凉国兵 微将寡，这才与我国借兵帮助。你若能应许我们这件亲事，看莫胡里左膀受伤， 不能打仗，大主意都得我们二位公主拿，帮着你里应外合，这么一杀，准保 金猛关垂手而得。你细细地想想吧！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "哎呀且住！听她之言，倒也有理。若应许她的事，得了金猛关，岂不是大大一 功？只是俺假冒呼延大哥的名字在此招亲，却是对不起他了。嗐，不管那些， 有什么事，完了再说。 乳娘！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "怎么样？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "俺应允了。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "好，随我来上帐答话吧。 国舅，我说好了。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "既然如此，来，快快松绑！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手同松绑。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "多谢国舅！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "二公主赶紧给大公主送信去吧！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "银娥公主下。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "啊，呼延将军！你既在此招亲，须劝令尊大人来降才好。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "只要国舅将军中大事交付我等掌管，慢说劝降我父，就是夺取大宋江山，在俺 一人身上。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "对啦，你把金猛关印信交给我们，你趁此也好养息左膀伤痕。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "好哇！乳娘扶大公主当帐与呼延将军一拜！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "二公主搀扶大公主来呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。银娥公主扶金莲公主同上，金莲公主同焦玉拜。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "后堂摆宴与呼延将军、二位公主贺喜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四粮车引孟强同上。"
+        },
+        {
+          "character": "孟强",
+          "type": "唱",
+          "text": "奉了军令解粮饷， 金猛关前走一场。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "俺，孟强。只因呼延元帅夫妻平西，是俺奉旨解押粮草在金猛关前交纳，因此 连夜而行。 车夫们！趱行者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四粮车同应。"
+        },
+        {
+          "character": "孟强",
+          "type": "唱",
+          "text": "紧紧催车朝前往， 披星戴月马蹄忙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟强、四粮车同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、葫芦妈妈、金莲公主、银娥公主、焦玉同上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "临阵招亲心不定， 未必番女是真情。 若是元帅得知信， 定难保留命残生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉坐。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "嗐！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "驸马，昨个晚上也曾对你说过：杀莫胡里，夺金猛关，全在我的身上。难道这 个功劳，还抵不过你临阵招亲的罪吗？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "既然如此，趁着莫胡里受伤甚重，就此前往。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "慢着！我说姐姐，你可真是过河拆桥！夺金猛关去到宋营献功，难道就这么容 易吗？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "不这么容易，应该怎么样哪？"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "怎么着？ 嘿，保人说话吧！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "嗐，你瞧，我也疏忽啦。 呼延驸马、大公主，我担保的事，你们还记得吗？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "什么事呀？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "你们想着我们二公主这头亲事。你们两口子先给办好了，再办别的吧。不然， 我这个保人可受不了。你们趁早别弄这个拉胡胡的儿子自顾自……"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "这也没什么要紧的，明天阵上再给她抢一个来就得啦嘛！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "二公主怎么样？"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "就这么办吧！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "且看宋营动静，再作道理。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "呼延庆讨战。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "你说什么？"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "呼延庆讨战。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "我说驸马！宋营怎么又出来个呼延庆啊？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "这个许是给我们二公主预备的。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "并无有第二个呼延庆，先不用管他就得了。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "那可不成！不管他几个，咱们得瞧瞧去。姐姐，咱们俩人走啊！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "别忙，别忙！听我说。你姐夫呼延庆现在这里，那前来讨战的人也叫呼延庆， 就是把他擒来给你招了驸马。难道姐夫的名字叫呼延庆，妹夫的名字也叫呼延 庆吗？也得闹清楚点儿才成哪！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "哟，听你这个话，难道是呼延庆都归你一个人吗？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "我说是问清楚了再说。我干吗要那么些个呼延庆啊？你说话可真矫情！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "啊，我怎么矫情？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "你怎么不矫情？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "嗳，嗳，嗳，别打架，别打架。据我想来，宋营的将官也不少啦，不能全叫呼 延庆吧。依我的主意，咱们出城瞧瞧去，只要遇见个不叫呼延庆的，那就是二 公主的定活，我们就想法把他擒来。你看好不好？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "乳娘言得有理。我头里走，咱们瞧瞧去！"
+        },
+        {
+          "character": "金莲公主、银娥公主",
+          "type": "同白",
+          "text": "也有理。"
+        },
+        {
+          "character": "金莲公主、银娥公主、葫芦妈妈",
+          "type": "同白",
+          "text": "众番儿，带马出关！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵同应。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、高奎、郑熊、呼延庆同上。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "二位贤弟请了！"
+        },
+        {
+          "character": "郑熊、高奎",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "可恨焦玉私出大营骂阵，被番女擒去。今日探马报道，他冒愚兄名字在彼招亲。 今天你二人也假冒愚兄名字，大家俱叫呼延庆，前去讨战，戏耍番女一番便 了！"
+        },
+        {
+          "character": "郑熊、高奎",
+          "type": "同白",
+          "text": "就依大哥。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "众将官，前去骂阵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同领起。焦玉上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "大哥少见哪！"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "呔！焦玉你假冒愚兄名字招亲，是何道理？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "大哥，有话回头再说吧，二位公主赶来了！"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "二位贤弟，方才之言，不要忘了！"
+        },
+        {
+          "character": "郑熊、高奎",
+          "type": "同白",
+          "text": "记下了。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "快快压定阵角！"
+        },
+        {
+          "character": "郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑熊、高奎、焦玉同下。四番兵、葫芦妈妈、金莲公主、银娥公主同上，同会阵。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "呔，来将通名！"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "你老爷呼延庆。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "啊！你也叫呼延庆吗？"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "怎么我也叫呼延庆，我才是你真正的小女婿哪！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "放屁！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "姐姐快把他打跑了吧！"
+        },
+        {
+          "character": "金莲公主、银娥公主",
+          "type": "同白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主、银娥公主、呼延庆同起打。呼延庆败下。郑熊自大边上，架住。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "别忙，这个我来问他。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "你问去吧！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "呔！你叫什么名字？"
+        },
+        {
+          "character": "郑熊",
+          "type": "白",
+          "text": "听了，你老爷呼延庆是也。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "唗！我姐夫才叫呼延庆哪，怎么你也叫呼延庆啊？"
+        },
+        {
+          "character": "郑熊",
+          "type": "白",
+          "text": "我就是你姐夫啊！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "胡说！看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主、郑熊同起打。郑熊败下。高奎自小边上，架住。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哟！这个也是黑脸呀！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "呔！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "这个还是我问吧！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "可是这么着，若是不叫呼延庆，这个可归我啦！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "我知道。 来将何名？"
+        },
+        {
+          "character": "高奎",
+          "type": "白",
+          "text": "老爷呼延庆。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "你叫什么？"
+        },
+        {
+          "character": "高奎",
+          "type": "白",
+          "text": "呼延庆。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "哎哟，他们怎么全叫呼延庆啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "银联公主跑下。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "你们一定有三个假的。看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主、高奎同起打。高奎下。金莲公主耍双花枪追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四粮车、孟强同上。〖内喊声〗。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "且住！看前面败的乃是我营官兵，后面赶的两员女将，待俺向前帮助。 车夫们，尔等在松林等候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四粮车同下。呼延庆、郑熊、高奎、焦玉同上。"
+        },
+        {
+          "character": "呼延庆、郑熊、高奎、焦玉",
+          "type": "同白",
+          "text": "孟贤弟，快来帮助！"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "待我向前！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "呼延庆、郑熊、高奎、焦玉同下。金莲公主、银娥公主同上。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哟！又来一个。不用说，一定也叫呼延庆喽。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "这个可换了颜色啦，待我问去。姐姐你瞧瞧去吧，三个呼延庆都跑得没影啦。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哎呀可不好啦！我不管这个，我追那个去了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主下。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "这是什么缘故啊！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "呔！你叫什么吧？"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "你老爷孟强。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "你叫什么？"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "俺叫孟强。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "哈哈，这可是我的了。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "番女看斧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "银娥公主、孟强同起打，银娥公主招手三叫下。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "呀！番女未战三合，就败了下去，这是什么缘故哇？待俺紧紧赶上。 呔，女将休走，孟老爷赶来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟强追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、葫芦妈妈、银娥公主同上。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "乳娘，我可遇见一个不叫呼延庆的了。吩咐绊马绳伺候！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "是了，全交给妈妈啦。 来，绊马绳伺候！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "孟强",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟强上。银娥公主擒住孟强。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "得！擒住了。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "绑进关去！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、呼延庆、郑熊、高奎、焦玉同上。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "且喜孟贤弟挡住了番女，焦贤弟先同愚兄回营，再作计较。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "言得有理。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "哟，公主又追来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主上。呼延庆、郑熊、高奎、四龙套同下。金莲公主挡住焦玉。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哪儿跑？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "我没有跑啊！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "好，同我回去！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "是啦。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "啊驸马，我来问你，你们营中有多少穿黑的小将，脸膛也是黑的，他们都是谁 呀？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "你要问哪，我来告诉你：头一个见阵的他姓焦名玉，乃是三关焦赞老太爷之后。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哦，原来是杨六郎手下的碎催焦赞那小子的儿子。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "嘿，别骂人哪！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "第二个呢？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "第二个见阵的，乃是北平王郑子明的后人，名叫郑熊。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "实在武艺不错，称得王爷的后人。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "你说巧不巧，说到这儿不骂啦。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "第三个呢？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "第三个见阵的姓高名奎，乃万里侯高怀德之后。怎么样，这个还是骂呀，还是 夸呀？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "这个也没有可骂的地方，也没有可夸之处。我倒有点犯起疑心来啦。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "你犯什么疑心哪？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "我瞧头一个见阵的焦玉，倒与你长得仿佛。他说他叫呼延庆，那个样儿很理直 气壮地叫定了呼延庆啦。这是怎么回事情呢？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "你不知道。他们知道我昨夜在此招亲，今日跑到阵上拿你取笑，假充我的字号。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "依我瞧，不定哪个杂种假充字号啦！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "你瞧，还是骂顺了口了。 啊公主，方才挡住你们那个人，怎么样了啊？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "你问那个人，大概早被我妹妹擒住绑进城去啦。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "哎呀，倘被二公主斩首，如何是好？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "你别装糊涂啦。我妹妹杀不了他，她走着心经哪。走，同我回关再说吧！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "我还回去吗？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哼！放了蝎子妈，也放不了你呀！走吧！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "是。走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主、焦玉同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。四番兵、葫芦妈妈、银娥公主上。银娥公主归座。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "乳娘，大公主追驸马，可曾回来没有？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "还没回来哪。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "方才擒来的孟强小将，先把他押上帐来，妈妈先替我说说那个事情。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "全交给我啦。 来呀，把擒来之人绑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二下手押孟强同上。"
+        },
+        {
+          "character": "孟强",
+          "type": "唱",
+          "text": "押粮未曾交军令， 不想先自被贼擒。 英雄至此羞又恨， 且看番女怎样行！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "众兵丁退下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵同下。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "嘿，我说孟将军，你国少元帅呼延庆已然在此招亲。况且我们乃是鱼皮国借给 西凉国的兵马，大主意全在我们自己拿。我们大公主已经应许呼延将军帮助他 里应外合，夺取金猛关，折他私自招亲之罪。你若能应许我们二公主的亲事， 你这个私自招亲的罪过，全有妈妈啦。你思想思想啊！"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "住了！俺乃天朝大将，岂肯在此招亲也？"
+        },
+        {
+          "character": "孟强",
+          "type": "唱",
+          "text": "番婆休要巧言论， 少爷岂是这样人！"
+        },
+        {
+          "character": "焦玉",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉、金莲公主同上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "夫妻回关把帐进，"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "见了贤妹问分明。"
+        },
+        {
+          "character": "焦玉、金莲公主",
+          "type": "同白",
+          "text": "（二公主）（妹妹）！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "姐夫、姐姐回来了！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "回来了，好极啦。我正在这没说好哪。驸马给二公主办办吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孟强看。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "原来是焦二哥在此招亲，看他见俺说些什么。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "交给我了。 孟贤弟！"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "住了！焦玉二哥，你假冒呼延大哥的名字在此招亲，是何理也？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "你先别嚷。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哈哈！闹了半天你敢情是焦玉呀！假充名号，冤苦了我啦。 乳娘，给我推出斩了！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "哎呀公主，想你我木已成舟，须要看在夫妻情肠啊！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "慢着慢着！我说大公主，依我说，他是呼延庆也罢，焦玉也罢，反正一个人嫁 一个人不咧，这会儿还能说不算啦嘛！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "依你怎么样啊？"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "依我呀，叫他给二公主办好了这头亲事，一概全完；若是说不妥，再把他们杀 了。你看好不好？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "就是吧。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "啊，公主不要生气，我去说去。 孟贤弟这里来！"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "说些什么？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "我劝你在此招亲，若是得了金猛关岂不是我二人一件大功？你先应允了亲事， 有话回头再说。你要一定不答应，哥哥可要给你叩头啦！"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "二哥不要如此，小弟应允就是。"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "好极了。我与二驸马松绑！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "葫芦妈妈与孟强松绑。孟强坐。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "焦二哥，你我若是得了金猛关，元帅不念功劳，定要问咱私自招亲之罪，如何 是好？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "求二位公主想个主意才好。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "是啊。姐姐有何主见？"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "依我主意，趁着莫胡里伤痕未好，待我修下书信一封。驸马出关回营去见元帅， 必要将你斩首，你赶紧将我的书信献上。若再不信，你只管立下军状。三更 时分我在城楼候信，元帅大兵一到，我即开关接应。何愁此关不破！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "哎呀公主，你不要冤我呀！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "姐夫你好糊涂，至近还近得过两口子吗？你放心吧！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "着哇！驸马放心，快去吧！"
+        },
+        {
+          "character": "葫芦妈妈",
+          "type": "白",
+          "text": "二位公主，他们不放心咱们，我还有点疑心他们南蛮子说话没有准哪。大驸马 叫了半天呼延庆，闹了一个够，敢情叫焦玉。您再问问这位二驸马，他准姓孟 啊！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "对啦。你有准姓吗？"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "妈妈不要取笑。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "啊，不管怎么样，我们放走了一个，拿一个作押帐。 妈妈，文房四宝伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "驸马，快去吧！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "告辞了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉下。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "乳娘，吩咐备酒，与二驸马和贤妹贺喜。再命我国兵丁准备器械，三更时分迎 接元帅大兵便了！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "酒宴后堂来摆定， 等候驸马破关城。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、呼延守用、萧赛红同上。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "唱",
+          "text": "奉旨统兵威风震， 大队人马围贼城。 已命众将打头阵， 莲花宝帐等信音。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "萧赛红坐。呼延庆、高奎、郑熊同上。"
+        },
+        {
+          "character": "呼延庆",
+          "type": "唱",
+          "text": "焦玉招亲未回营，"
+        },
+        {
+          "character": "高奎",
+          "type": "唱",
+          "text": "孟强反又被贼擒。"
+        },
+        {
+          "character": "郑熊",
+          "type": "唱",
+          "text": "弟兄三人宝帐进，"
+        },
+        {
+          "character": "呼延庆",
+          "type": "唱",
+          "text": "见了元帅报军情。"
+        },
+        {
+          "character": "呼延庆、高奎、郑熊",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "你三人回来，焦玉哪里去了？"
+        },
+        {
+          "character": "呼延庆",
+          "type": "白",
+          "text": "启禀母亲：孩儿等奉命攻打头阵，守关之将莫胡里被孩儿鞭伤左膀，免战牌高 悬，只得安营下寨。不想次日焦玉出营，假冒孩儿的名字前去骂阵，被鱼皮国 王之女擒去，在彼招亲。我等闻知前去相救，正遇孟强押粮前来帮助交锋，又 被一女将擒去了。"
+        },
+        {
+          "character": "萧赛红、呼延守用",
+          "type": "同白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "焦将军回营求见元帅。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "知道了。下去！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "啊！焦玉既然被擒招亲，怎么又能回来？其中必有缘故。 众将传焦玉进见！"
+        },
+        {
+          "character": "呼延庆、高奎、郑熊",
+          "type": "同白",
+          "text": "焦玉进见！"
+        },
+        {
+          "character": "焦玉",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "唱",
+          "text": "昔日里有一个穆柯山寨， 穆天王坐宝帐屡把兵排。 三关上保宋主延昭元帅， 与我父结金兰同把香栽。 他的子名宗保巡查四外， 遇着了穆桂英私配裙钗。 只气的杨元帅银牙咬坏， 在辕门绑宗保要把刀开。 我这里进宝帐三魂不在， 战兢兢望元帅两眼发呆。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "胆大焦玉，不奉将令，私自出马，又假冒名字临阵招亲。今日还敢回来见我？ 来呀，推出去斩了！"
+        },
+        {
+          "character": "呼延守用",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "听信，听信。"
+        },
+        {
+          "character": "呼延守用",
+          "type": "白",
+          "text": "啊元帅，焦玉犯罪，理当斩首；念他焦门无后，求元帅开恩饶恕于他。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "多谢元帅！"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "我且问你，你今回来，孟强往哪里去了？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "那孟强被银娥公主擒去，也在彼处招亲了。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "你二人都在那里招亲，怎么单把你放回来了呢？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "这里有金莲公主书信一封，元帅一看就明白了。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "呈上来！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "待我拆开一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "焦玉！依我看来，其中有诈。两个番女未必是真心吧？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "元帅不信，末将敢立军状。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "好，当帐立来！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "请元帅过目。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "如此甚好。焦玉听令！你先回去告知番女：开城迎接本帅大兵，三更时分得了 金猛关之后，将功折罪。快去！"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉下。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "高奎、郑熊听令，命你二人带领人马埋伏城外。本帅进关之后，若是城内有变， 急在外面接应。不得有误！"
+        },
+        {
+          "character": "高奎、郑熊",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高奎、郑熊同下。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "众将官，今晚三更时分，人要低声，马去銮铃，随本帅夺取金猛关便了！掩门。"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "拉城。四番兵、葫芦妈妈、孟强、金莲公主、银娥公主同上。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "我命驸马去投信， 倒叫咱家挂在心。 暗暗且把敌楼进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、葫芦妈妈、孟强、金莲公主、银娥公主同上城。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "唱",
+          "text": "等候驸马好夺城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "城上可是公主？快快开关！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "驸马回来啦？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "元帅大兵到了没有？"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "元帅大兵到了，快快开关！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "众番儿开关！"
+        },
+        {
+          "character": "四番兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "开城。金莲公主、银娥公主、葫芦妈妈、孟强、四番兵同下。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "远远望见元帅来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉下。〖急急风〗。四龙套、呼延庆、呼延守用、萧赛红同上，同进城，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、焦玉、孟强、金莲公主、银娥公主同上。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "啊，二位公主，元帅已然进城，可带领我弟兄二人杀进衙去，打死莫胡里，拿 了兵符印信好去报功。"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "有理。 众将官，就此前往！"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "慢着！帮着你们拿莫胡里，哈哈！你们这群傻东西，连你们元帅都中了我的计， 少时火炮一响，你们一个也跑不了！"
+        },
+        {
+          "character": "焦玉、孟强",
+          "type": "同白",
+          "text": "哎呀！求二位公主开恩！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦玉、孟强同跪。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "嘿，我说姐姐，你这个人怎么说话反复无常啊？将人家诳进关来，下此毒手， 难道一点夫妻的情肠都没有了吗？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金莲公主笑。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "哎哟，我的妹妹，你怎么也这么傻呀！要是真的火炮一响，连咱们俩也没了命 啦。有这么安埋伏的吗？起来吧，我闹着玩哪。"
+        },
+        {
+          "character": "焦玉",
+          "type": "白",
+          "text": "闹了我一身冷汗。"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "还吓着了我呢！"
+        },
+        {
+          "character": "孟强",
+          "type": "白",
+          "text": "快快帮着杀贼要紧！"
+        },
+        {
+          "character": "焦玉、金莲公主、银娥公主",
+          "type": "同白",
+          "text": "众番儿，杀呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四番兵、莫胡里同上。"
+        },
+        {
+          "character": "莫胡里",
+          "type": "念",
+          "text": "鞭伤未曾平，难以理军情。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "大事不好了！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "二位公主献城降宋，杀进内衙来了！"
+        },
+        {
+          "character": "莫胡里",
+          "type": "白",
+          "text": "哎呀，不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "莫胡里拿刀。焦玉、孟强、金莲公主、银娥公主同上。"
+        },
+        {
+          "character": "焦玉、孟强、金莲公主、银娥公主",
+          "type": "同白",
+          "text": "杀进去！ （焦玉、孟强、金莲公主、银娥公主、莫胡里同开打，莫胡里被杀。四番兵同逃下。焦玉拿人头。银娥公主 拿印信。四龙套、呼延庆、呼延守用、萧赛红同上。）"
+        },
+        {
+          "character": "焦玉、孟强",
+          "type": "同白",
+          "text": "启元帅：我弟兄二人斩得莫胡里首级献上。"
+        },
+        {
+          "character": "金莲公主",
+          "type": "白",
+          "text": "我姐妹归降来迟，望元帅恕罪！"
+        },
+        {
+          "character": "银娥公主",
+          "type": "白",
+          "text": "并有金猛关印册呈上，元帅查点。"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "二位公主之功也。奏明天子，自有封赏。"
+        },
+        {
+          "character": "金莲公主、银娥公主",
+          "type": "同白",
+          "text": "多谢元帅！"
+        },
+        {
+          "character": "萧赛红",
+          "type": "白",
+          "text": "吩咐后堂摆宴，与二位将军、二位公主贺功！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

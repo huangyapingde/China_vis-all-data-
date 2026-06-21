@@ -1,0 +1,1976 @@
+{
+  "script_id": "01027003",
+  "title": "三门街",
+  "alias": [],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "李广",
+      "hangdang": "武生"
+    },
+    {
+      "name": "萧子世",
+      "hangdang": "老生"
+    },
+    {
+      "name": "楚云",
+      "hangdang": "小生"
+    },
+    {
+      "name": "徐文炳",
+      "hangdang": "小生"
+    },
+    {
+      "name": "徐文亮",
+      "hangdang": "小生"
+    },
+    {
+      "name": "张谷",
+      "hangdang": "武丑"
+    },
+    {
+      "name": "甘宁",
+      "hangdang": "净"
+    },
+    {
+      "name": "胡逵",
+      "hangdang": "副净"
+    },
+    {
+      "name": "郑九州",
+      "hangdang": "末"
+    },
+    {
+      "name": "蒲龙",
+      "hangdang": "净"
+    },
+    {
+      "name": "蒲虎",
+      "hangdang": "净"
+    },
+    {
+      "name": "蒲毬",
+      "hangdang": "净"
+    },
+    {
+      "name": "牛洪",
+      "hangdang": "副净"
+    },
+    {
+      "name": "黄贵",
+      "hangdang": "丑"
+    },
+    {
+      "name": "梅氏",
+      "hangdang": "旦"
+    },
+    {
+      "name": "徐福禄",
+      "hangdang": "小生"
+    },
+    {
+      "name": "钱小姐",
+      "hangdang": "旦"
+    },
+    {
+      "name": "钱氏",
+      "hangdang": "正旦"
+    },
+    {
+      "name": "茶房",
+      "hangdang": "丑"
+    },
+    {
+      "name": "禁卒",
+      "hangdang": "丑"
+    }
+  ],
+  "plot": "五六本开幕，“张谷隐身刘彪府中，用乾坤袋装运钱小姐”、“钱氏母女，避难杭州”、“傅壁芳纠合左龙\n左虎，至江都县劫狱，救出洪锦，杀死县官一家老小”、“胡逵甘宁，下山访友”、“招英馆，众英雄结识\n楚云”、“莽头陀打抱不平，故友聚会”、“小神仙相面，断定大众祸福”、“家童传报母病，兄弟辞行”、\n“渡江遇狂风，徐文亮落水”、“蒲家林强盗横，张氏兄弟，盗巢献媚”、“牛洪调戏梅氏，徐公子黄宅\n烘衣”、“强奸不从，牛洪杀命，黄贵钱塘县报案”。串演至此，又闭幕焉。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广、徐文炳、徐文亮、广明同上。"
+        },
+        {
+          "character": "李广",
+          "type": "西皮摇板",
+          "text": "张谷一去不回转， 倒叫李广挂心间。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "众位贤弟。"
+        },
+        {
+          "character": "徐文炳、徐文亮、广明",
+          "type": "同白",
+          "text": "大哥。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "看张谷前去，打救钱小姐。这般时候，为何还不见回来？"
+        },
+        {
+          "character": "徐文炳、徐文亮、广明",
+          "type": "同白",
+          "text": "想必来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "放火彩。张谷上。"
+        },
+        {
+          "character": "张谷",
+          "type": "西皮摇板",
+          "text": "隐身藏形把人救， 见了大哥说根由。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "贤弟回来了。"
+        },
+        {
+          "character": "张谷",
+          "type": "白",
+          "text": "回来了。 中国京剧戏考 《三门街》【五、六本】 2"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "钱小姐可曾救下？"
+        },
+        {
+          "character": "张谷",
+          "type": "白",
+          "text": "小弟去至她家，那刘彪在前庭饮酒。是我去至后楼，见有许多的丫鬟仆妇，在 那里解劝小姐。那小姐十分节烈，一味乱骂，哭哭啼啼，就要寻死。小弟趁此 机会，就将她救回来了。"
+        },
+        {
+          "character": "李广、徐文炳、徐文亮、广明",
+          "type": "同白",
+          "text": "那小姐今在何处？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张谷解袋。"
+        },
+        {
+          "character": "张谷",
+          "type": "白",
+          "text": "这不是钱小姐嘛！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "放火彩。钱小姐上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "有请钱夫人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "钱氏上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "令嫒已被张贤弟救回来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "钱小姐拉钱氏。"
+        },
+        {
+          "character": "钱小姐",
+          "type": "哭",
+          "text": "嗳呀母亲呐！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "今将令嫒救回，此地万万不可久住。倘若那刘贼探出消息，定生后患。待吾回 至寓中，遣老仆李忠，送你母女去至杭州，就在吾家中居住便了。"
+        },
+        {
+          "character": "钱氏",
+          "type": "白",
+          "text": "多蒙公子大恩，叫妾身怎生答报？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "不必多言。我等还要到扬州游玩。告辞了！"
+        },
+        {
+          "character": "李广",
+          "type": "西皮摇板",
+          "text": "某家言语要牢记稳， 你母女到杭州暂把身存。 弟兄们一同出庭门， 去到扬州走一程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。四英雄、四下手、左龙、左虎、傅璧芳同上。"
+        },
+        {
+          "character": "傅璧芳",
+          "type": "白",
+          "text": "俺，傅壁芳。"
+        },
+        {
+          "character": "左龙",
+          "type": "白",
+          "text": "左龙。"
+        },
+        {
+          "character": "左虎",
+          "type": "白",
+          "text": "左虎。"
+        },
+        {
+          "character": "傅璧芳",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "左龙、左虎",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "傅璧芳",
+          "type": "白",
+          "text": "你我弟兄，去到江都县，打牢劫狱，搭救洪锦。就此前往。"
+        },
+        {
+          "character": "傅璧芳、左龙、左虎",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "洪锦上。"
+        },
+        {
+          "character": "洪锦",
+          "type": "西皮摇板",
+          "text": "只为杀死贼马骜， 英雄被囚在监牢。"
+        },
+        {
+          "character": "洪锦",
+          "type": "白",
+          "text": "俺，洪锦。只为在街前卖艺，遇着土棍马骜。是我一时火起，一剑将他劈死， 因此囚在监中。我洪锦一死无怨，只是老母妹子，困守在店房，无人奉养。思 想起来，好不烦闷人也！"
+        },
+        {
+          "character": "洪锦",
+          "type": "西皮摇板",
+          "text": "洪锦一死无怨恨， 老母妹子靠何人？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内喊声〗。"
+        },
+        {
+          "character": "洪锦",
+          "type": "白",
+          "text": "吓，哪里有喊杀之声？ 中国京剧戏考 《三门街》【五、六本】 3 禁卒！禁卒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒上。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "来啦！你什么事？这样大惊小怪的！"
+        },
+        {
+          "character": "洪锦",
+          "type": "白",
+          "text": "哪里有这喊杀之声？"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "这衙门是个热闹地方，全是卖东西的。哪里什么喊杀之声？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内喊声〗。放火彩。"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "嗳呀不好啦，走了水啦！"
+        },
+        {
+          "character": "洪锦",
+          "type": "白",
+          "text": "你看是何处失火，快快前去打听！"
+        },
+        {
+          "character": "禁卒",
+          "type": "白",
+          "text": "待我去看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒下，洪锦下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四英雄、四下手、左龙、左虎、傅璧芳同上。"
+        },
+        {
+          "character": "傅璧芳",
+          "type": "白",
+          "text": "我等来到衙前。左龙，去至后门放火。"
+        },
+        {
+          "character": "左龙",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "左龙下。"
+        },
+        {
+          "character": "傅璧芳",
+          "type": "白",
+          "text": "吾等去至监牢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "禁卒上。傅璧芳杀死禁卒，禁卒下。傅璧芳劈牢门。"
+        },
+        {
+          "character": "傅璧芳",
+          "type": "白",
+          "text": "洪锦兄在哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "洪锦上。"
+        },
+        {
+          "character": "洪锦",
+          "type": "白",
+          "text": "何人唤我？"
+        },
+        {
+          "character": "傅璧芳",
+          "type": "白",
+          "text": "吾乃传壁芳，特地前来救你。"
+        },
+        {
+          "character": "洪锦",
+          "type": "白",
+          "text": "好吓！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "洪锦挣锁。"
+        },
+        {
+          "character": "洪锦",
+          "type": "白",
+          "text": "一同杀出监去，千万莫要放走了狗官！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四英雄、四下手、左龙、左虎、傅璧芳、洪锦同转场。官妻、官妾同上。洪锦追，杀死官妻、官妾。"
+        },
+        {
+          "character": "傅璧芳",
+          "type": "白",
+          "text": "去到上房，将金银财帛搜出！"
+        },
+        {
+          "character": "左龙、左虎",
+          "type": "同白",
+          "text": "我二人去抢他的仓库。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（〖急急风〗。四龙套、四上手、四家将、总兵同上，同转场，同跑下。傅璧芳持刀上，四家将同追上，同"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "起打，连环六股荡。四家将同败下。总兵追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（洪锦上，杀守城兵，砍城门开。四英雄、四下手、左龙、左虎、傅璧芳同上，四英雄、四下手、左龙、左"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "虎、傅璧芳、洪锦同出城，同上船。四龙套、四上手、四家将、总兵同追上。洪锦三笑，拉下场下。众人同"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "随下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡逵上。"
+        },
+        {
+          "character": "胡逵",
+          "type": "引子",
+          "text": "武艺高强，习拳棒，盖世无双。"
+        },
+        {
+          "character": "胡逵",
+          "type": "念",
+          "text": "黑面浓眉胆气粗，两膀膂力世间无。习就一对开花斧，谁人不知烟葫芦。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "俺，胡逵，绰号烟葫芦，山西太原人氏。自幼爱习拳棒，力大无穷。前在杭州 与小孟尝李广结拜。回到家中，闻听人言：当朝宰相史洪基之女，名唤史锦屏， 奉旨在扬州造下擂台，要打遍天下的英雄。是俺要去打擂，不料来在甘家寨， 遇着净山鬼甘宁，将吾接上山寨，把他的妹子十二姑许配与俺，倒也快乐。 吾与甘宁商议，同到扬州打擂。不免将他唤出一同前往。 中国京剧戏考 《三门街》【五、六本】 4 有请大哥！"
+        },
+        {
+          "character": "甘宁",
+          "type": "内白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁上。"
+        },
+        {
+          "character": "甘宁",
+          "type": "念",
+          "text": "兄妹山中落草，广结天下英豪。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "大哥。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "妹丈请坐。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "请坐。大哥，你我要往扬州打擂，看天气甚好，正好一同前往。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "言之有理。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院暗上。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "就此下山便了。 家院，与爷带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁、胡逵同换衣。"
+        },
+        {
+          "character": "甘宁",
+          "type": "唱",
+          "text": "习学拳棒膂力大，"
+        },
+        {
+          "character": "胡逵",
+          "type": "唱",
+          "text": "赫赫威名扬天涯。"
+        },
+        {
+          "character": "甘宁",
+          "type": "唱",
+          "text": "一同上马把山下，"
+        },
+        {
+          "character": "胡逵",
+          "type": "唱",
+          "text": "去到扬州会会女娃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁、胡逵同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐文炳、徐文亮、广明、张谷、李广同上。"
+        },
+        {
+          "character": "李广",
+          "type": "唱",
+          "text": "一路上观不尽风景美满， 来至在平山堂游玩一番。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "来此已是平山堂。你我弟兄同到茶棚一叙。"
+        },
+        {
+          "character": "徐文炳、徐文亮、广明、张谷、李广",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "茶房上。"
+        },
+        {
+          "character": "茶房",
+          "type": "白",
+          "text": "客官敢么是吃茶的么？"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "正是。吃茶的快泡香茶来。"
+        },
+        {
+          "character": "茶房",
+          "type": "白",
+          "text": "是。 茶到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "楚云上。"
+        },
+        {
+          "character": "楚云",
+          "type": "唱",
+          "text": "来在了平山堂用目观望， 茶棚内看英雄相貌非常。"
+        },
+        {
+          "character": "楚云",
+          "type": "白",
+          "text": "看茶来。"
+        },
+        {
+          "character": "茶房",
+          "type": "白",
+          "text": "茶到。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "且住。看此人虽然是英雄打扮，怎奈他面如美玉，貌若天仙。天下竟有这等的 美男子！"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "李大哥，你不吃茶，你自言自语是什么原故？"
+        },
+        {
+          "character": "楚云",
+          "type": "白",
+          "text": "吓！请问兄台：既然姓李，莫非就是杭州小孟尝么？"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "在下李广。请问仁兄何以知道贱名？"
+        },
+        {
+          "character": "楚云",
+          "type": "白",
+          "text": "果然是李兄到了。小弟姓楚名云，表字颦玉，乃江宁人氏，绰号武潘安。久仰 大名，只是老母管教极严，不令出门。今因到镇江观看龙舟，借道去访兄台。 不料中途偶得小恙，到了镇江已过龙舟胜会。本拟到杭，闻听兄台已往扬州来 了。今日偶尔闲游，得见兄台，气宇非凡。又听那位和尚言道“李大哥”，因 此冒昧相认，果然得晤尊颜，可谓三生有幸也！"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "既蒙见爱，当与贤弟结为兄弟。"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "你见了英雄的打扮，你就要与他结拜。据小弟看来，此人身体娇弱，举止妩媚， 未必有什么本领。"
+        },
+        {
+          "character": "楚云",
+          "type": "白",
+          "text": "听大和尚之言，必定武艺出众，小弟倒要领教一二。 中国京剧戏考 《三门街》【五、六本】 5"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "好！你我就此比试比试！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "楚云、广明对打两过合，楚云打广明倒地。"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "真有两手儿，洒家佩服了！"
+        },
+        {
+          "character": "楚云",
+          "type": "白",
+          "text": "一时失手，倒得罪了。"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "太谦了。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "此处不是久谈之所，大家同到俺招英馆内一叙。请！"
+        },
+        {
+          "character": "徐文炳、徐文亮、广明、张谷、楚云",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑九州上。"
+        },
+        {
+          "character": "郑九州",
+          "type": "唱",
+          "text": "加鞭催马往前闯， 又只见二人走慌忙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁、胡逵同上。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "那厢来的敢么是郑大哥么？"
+        },
+        {
+          "character": "郑九州",
+          "type": "白",
+          "text": "原来是胡贤弟。此位是？"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "此乃是甘宁，人称净山鬼。 甘大哥，这是弟同窗的好友郑九州，绰号九条龙。你二人见过。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "郑大哥，小弟这厢有礼了。"
+        },
+        {
+          "character": "郑九州",
+          "type": "白",
+          "text": "岂敢，二位意欲何往。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "我二人要到扬州打擂。"
+        },
+        {
+          "character": "郑九州",
+          "type": "白",
+          "text": "在下亦为此事而来。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "如此大家一同前往。"
+        },
+        {
+          "character": "郑九州",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "胡逵",
+          "type": "唱",
+          "text": "中途得遇旧宾朋，"
+        },
+        {
+          "character": "郑九州",
+          "type": "唱",
+          "text": "三人同赴扬州城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁、胡逵、郑九州同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "广明上，坐。萧子世上。"
+        },
+        {
+          "character": "萧子世",
+          "type": "唱",
+          "text": "假扮相士把命算， 招英馆内来访贤。"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "酒保。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "先生是吃酒的么？请里边坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "萧子世坐。"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "取好酒来。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "酒到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁、郑九州、胡逵同上。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "招英馆乃是一座酒馆。你我进去，沽饮一回。 酒保！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "来了！"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "将马带去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保牵马下，上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "三位是喝酒的吗？"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "好酒取来。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "酒到。 中国京剧戏考 《三门街》【五、六本】 6"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "大哥，你先吃一杯。 郑大哥，你也吃一杯。 我再吃一杯。这酒还未斟一巡，可倒完了。 酒保，酒来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡逵拍桌。酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "大爷要什么？"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "拿酒来。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "酒到。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "待我再与你二人斟上。喝喝又完了。 酒保！酒保！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "来啦。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "拿酒来。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "酒到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "这酒还未倒一巡，怎么又无有了？ 酒保！酒保！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保上。"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "大爷，你能有什么话说呀，别这么敲桌子打板凳的。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "放你妈那屁！你这酒为何越斟越少？敢么是欺负我等外乡人不成！"
+        },
+        {
+          "character": "酒保",
+          "type": "白",
+          "text": "这酒是有分两的，一点也不能少。实在是你能的量大。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "快去取来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "酒保下。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "这等慢腾腾的，真真可恼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡逵拍桌。"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "呔！那一黑汉，进得门来，寻是寻非，是何道理？"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "呸！大胆头陀，竟敢多言。你可知烟葫芦的厉害！"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "好一匹夫，竟敢撒野！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "胡逵推翻桌，打广明。李广、徐文炳、徐文亮、楚云、张谷同上。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "住手！我道是谁，原来是胡贤弟。你打从何处而来，因何到此？"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "原来是李大哥。小弟自山西而来，特地前来打擂。 来，来，二位哥，请来见过李大哥，这就是小孟尝。"
+        },
+        {
+          "character": "甘宁、郑九州",
+          "type": "同白",
+          "text": "小弟这厢有礼了。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "还礼。 贤弟，这二位是何人？"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "此乃甘宁。这位就是郑九州。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "久仰了。大家请坐。 广明，向前见过三位。"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "三位在上，洒家有礼了。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "方才恕小弟不知，当面恕罪。"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "自家弟兄，不知者不罪。请坐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "广明回看萧子世。"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "吓先生，你这牌上写着“相命如神”。莫非你会相面么？"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "广明",
+          "type": "白",
+          "text": "我这几天真晦气！同人一交手就吃亏。你替我相相，看是交的什么运？"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "你名铁头和尚，法名广明。为人好胜，所以处处吃亏。有道是胜气平，过自寡。 以后须要谨慎，不可莽撞。"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "先生你也与我相相看。"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "你名胡逵，绰号烟葫芦，乃山西人氏。只是近日添了一件心事，终日记念甘十 二姑。是与不是？"
+        },
+        {
+          "character": "胡逵",
+          "type": "白",
+          "text": "真真算得灵得很！"
+        },
+        {
+          "character": "张谷",
+          "type": "白",
+          "text": "先生你也给我相相。 中国京剧戏考 《三门街》【五、六本】 7"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "你名张谷，号半枝梅，乃是东方老祖之弟子。"
+        },
+        {
+          "character": "张谷",
+          "type": "白",
+          "text": "真是如同亲眼看见一般。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "先生，也与小生相上一相。"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "你乃徐文炳，文章满腹，日后定可大魁天下。只是你印堂发暗，恐有牢狱之灾。 所幸吉星照临，尚可逢凶化吉，遇难成祥也。"
+        },
+        {
+          "character": "徐文亮",
+          "type": "白",
+          "text": "先生，相相我的终身如何。"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "你令兄身有灾难。只怕阁下也要受一惊恐。须防半夜波涛，狂风骤起。"
+        },
+        {
+          "character": "徐文亮",
+          "type": "白",
+          "text": "想这江湖术士，每每以凶事骇人。不听也罢。"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "徐兄，倒不可如此说法。天有不测风云，人有旦夕祸福。虽遇灾难，尚有救星。 日后弃文就武，并有绝代佳人配偶，富贵偕老。如若不信，这有书信一封， 请令兄带在身旁。倘遇急难之处，拆开观看，便知分晓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐文炳接信。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "多谢先生指教。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "待某也来相相终身。 吓，先生，你与我李广相相，日后可有功名？能为国家报效否？"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "若相尊相，真真不可限量。日后登坛拜将，晋封王位，要做国家的栋梁。并有 两位夫人，在闺中内助，也要血战沙场，封王受爵，是个千古巾帼中的须眉男 子。"
+        },
+        {
+          "character": "张谷",
+          "type": "白",
+          "text": "楚贤弟，你也去相相。"
+        },
+        {
+          "character": "楚云",
+          "type": "白",
+          "text": "吾平生不信星卜相术，不相也罢。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "这先生相法如神，贤弟务要相上一相。"
+        },
+        {
+          "character": "楚云",
+          "type": "白",
+          "text": "既然如此，请先生与我相上一相。但是道其大略，不必多言。"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "你既不要多言，贫道亦不敢直说直讲。"
+        },
+        {
+          "character": "张谷",
+          "type": "白",
+          "text": "先生亦不肯直讲，莫非楚贤弟他短寿不成？"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "并非短寿。若问他日后功名富贵，可问李孟尝便知分晓。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "他的终身，吾怎能知道？这倒奇了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐福禄上。"
+        },
+        {
+          "character": "徐福禄",
+          "type": "念",
+          "text": "奉了主母命，来寻少主人。"
+        },
+        {
+          "character": "徐福禄",
+          "type": "白",
+          "text": "来此已是招英馆，待我进去。 参见二位公子。"
+        },
+        {
+          "character": "徐文炳、徐文亮",
+          "type": "同白",
+          "text": "福禄，你到此何事？"
+        },
+        {
+          "character": "徐福禄",
+          "type": "白",
+          "text": "我家主母身得重病，特命小人前来，请二位公子速速回去。"
+        },
+        {
+          "character": "徐文炳、徐文亮",
+          "type": "同白",
+          "text": "有这等事，快快去雇船只。"
+        },
+        {
+          "character": "徐福禄",
+          "type": "白",
+          "text": "船只已在江岸等候。"
+        },
+        {
+          "character": "徐文炳、徐文亮",
+          "type": "同白",
+          "text": "如此我弟兄就此起程。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "老伯母既然染病，二位贤弟要速速回去才是正理。我等也不敢久留了。"
+        },
+        {
+          "character": "徐文炳、徐文亮",
+          "type": "同白",
+          "text": "告辞了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐文炳、徐文亮同急下，徐福禄随下。"
+        },
+        {
+          "character": "李广",
+          "type": "白",
+          "text": "先生如此相法，深为佩服。请至后堂，痛饮一回。请！"
+        },
+        {
+          "character": "萧子世",
+          "type": "白",
+          "text": "叨扰了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐文炳、徐文亮随徐福禄同上。"
+        },
+        {
+          "character": "徐福禄",
+          "type": "白",
+          "text": "船家，搭了扶手。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二水手同上。徐文炳、徐文亮、徐福禄同上船。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "开船！"
+        },
+        {
+          "character": "徐文炳",
+          "type": "唱",
+          "text": "遭不幸我的母身得重病， 中国京剧戏考 《三门街》【五、六本】 8 倒叫我弟兄们深挂在心。 无奈何出舱来且看江景，"
+        },
+        {
+          "character": "二水手",
+          "type": "同白",
+          "text": "不好了，起了大风了！"
+        },
+        {
+          "character": "徐文亮",
+          "type": "唱",
+          "text": "一霎时狂风起波浪腾空。"
+        },
+        {
+          "character": "徐文亮",
+          "type": "白",
+          "text": "嗳呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐文亮落江，下。"
+        },
+        {
+          "character": "二水手",
+          "type": "同白",
+          "text": "公子落在江中了。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "快快打捞！"
+        },
+        {
+          "character": "二水手",
+          "type": "同白",
+          "text": "风狂浪大，打捞不起。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "徐文炳",
+          "type": "唱",
+          "text": "二弟失足落江心， 好叫我心中痛伤情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四英雄、蒲龙、蒲虎、蒲毬同上。"
+        },
+        {
+          "character": "蒲龙、蒲虎、蒲毬",
+          "type": "同点绛唇",
+          "text": "独霸山岗，自立为王，习刀枪，无人敢当，绿林俺为上。"
+        },
+        {
+          "character": "蒲龙、蒲虎、蒲毬",
+          "type": "同念",
+          "text": "自幼生来秉性刚，杀人放火逞豪强。终日山下去掠抢，蒲家林内自为王。"
+        },
+        {
+          "character": "蒲龙、蒲虎、蒲毬",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "蒲龙。"
+        },
+        {
+          "character": "蒲虎",
+          "type": "白",
+          "text": "蒲虎。"
+        },
+        {
+          "character": "蒲毬",
+          "type": "白",
+          "text": "蒲毬。"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "弟兄三人，镇守蒲家林。每日在山下劫杀过往客商，倒也逍遥自在。也曾命喽 啰山下探听过往行人，还不见到来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "启大王爷：山下来了二人，一名张志白，一名张志鸿，前来与大王爷进宝。"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "竟有这等事？唤他二人进来。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "张志白，大王叫你们进去，须要小心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。张志白、张志鸿同上。"
+        },
+        {
+          "character": "张志白、张志鸿",
+          "type": "同白",
+          "text": "大王在上，我等有礼。"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "罢了。 来，与他二人看坐。"
+        },
+        {
+          "character": "张志白、张志鸿",
+          "type": "同白",
+          "text": "大王在此，焉有吾等的座位？"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "有话叙谈，岂有不坐之理？"
+        },
+        {
+          "character": "张志白、张志鸿",
+          "type": "同白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "二位到此何事？"
+        },
+        {
+          "character": "张志白",
+          "type": "白",
+          "text": "大王有所不知：只因此处蓬莱馆，有一人姓桑名黛，十分可恶，自负欺人。吾 二人争斗，被他两次打回。吾等曾以大王声威，恐吓于他。不料他闻说三位大 王的名字，他道小小草寇茅贼，有何能为，若不是要到扬州打擂，定要将山寨 踏平！"
+        },
+        {
+          "character": "蒲龙、蒲虎、蒲毬",
+          "type": "同白",
+          "text": "胆大桑黛，竟敢如此欺吾！你有多大本领，敢出此狂言！若不与你个厉害，你 也不知大王爷的手段。"
+        },
+        {
+          "character": "张志白、张志鸿",
+          "type": "同白",
+          "text": "现有金银彩缎呈上。请大王爷收纳。"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "怎么还有画图一幅？ 中国京剧戏考 《三门街》【五、六本】 9"
+        },
+        {
+          "character": "张志白",
+          "type": "白",
+          "text": "此画是一位美人的小像。"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "待我看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "蒲龙看，三笑。"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "但不知美人今在何处？"
+        },
+        {
+          "character": "张志白",
+          "type": "白",
+          "text": "这美人就是桑黛之妹子、蒋秀才之妻，现住在薜萝村内。大王若将桑黛打败， 何愁此妇不得？"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "好！明日就烦三弟带领喽兵下山，去将此妇人抢回山寨。吾弟兄二人，前去打 那桑黛便了。后堂摆宴，与张官人痛饮。"
+        },
+        {
+          "character": "张志白、张志鸿",
+          "type": "同白",
+          "text": "来此就要叨扰。"
+        },
+        {
+          "character": "蒲龙",
+          "type": "白",
+          "text": "请至后面。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛洪上。"
+        },
+        {
+          "character": "牛洪",
+          "type": "念",
+          "text": "自幼专能偷盗，哪怕王法律条。"
+        },
+        {
+          "character": "牛洪",
+          "type": "白",
+          "text": "吾，牛洪。在江边以偷盗为生。今来在杭州地面，每夜仍以盗窃度日。只因我 对面邻居黄贵之妻，倒有几分姿色。我昨日以言语勾引她，不但不睬，她反将 我骂了一顿。我看此妇，断非贞烈之女。待我慢慢设法，自有到手之日。吾就 是这个打算走走。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛洪下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄贵上。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "每日好赌博，常常把钱输。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "在下黄贵，祖居杭州。父母与我留下一分家业，俱被吾输哉，如今只落得衣食 不给。待吾将老婆唤出，向她要上几文钱也好吃饭。 娘子哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅氏上。"
+        },
+        {
+          "character": "梅氏",
+          "type": "念",
+          "text": "奴家生来命儿穷，丈夫是个赌博精。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "什么事情吓？"
+        },
+        {
+          "character": "黄贵",
+          "type": "笑",
+          "text": "哈哈哈哈！"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "吾这两日又输钱。叫你出来与我几文铜钱，吾好去吃饭呐。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "想你天天赌，天天输，何日是个截止？我实在没有钱给你。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "吾腹中实实饥饿得很。你给我几文铜钱，我还是在街上摆个卦摊儿，借以度日。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "这还有一百铜钱，你拿去了罢。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "多谢娘子。你在家中，不可在街门站立。看你这样姣弱的样子，免惹是非才好。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "啐！你快走了去罢！"
+        },
+        {
+          "character": "黄贵",
+          "type": "笑",
+          "text": "呵哈呵哈呵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄贵下。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "看天气尚早，待我梳洗一回。"
+        },
+        {
+          "character": "梅氏",
+          "type": "唱",
+          "text": "有梅氏在房中梳洗打扮， 思想起我命苦好不伤惨。 自幼儿嫁了个赌博大汉， 连累我终日里受尽熬煎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐文炳上。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "唱",
+          "text": "只为家母身染病， 去到街前买参苓。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "吾，徐文炳。只为母亲染病在床，请医调治。近日虽见轻减，仍须服些清补之 剂。今请先生又拟一丸药方儿，须要寻些上好参苓才好。不免就此前往。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "唱",
+          "text": "急忙迈步往前进， 中国京剧戏考 《三门街》【五、六本】 10"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅氏泼水。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "嗳呀！"
+        },
+        {
+          "character": "徐文炳",
+          "type": "唱",
+          "text": "浑身上下似雨淋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐文炳站，看。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "嗳呀嗳呀！奴家一时鲁莽，将公子衣衫湿了，实实有罪。奴家这厢陪礼了。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "有道是无心之过。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "虽然公子不降罪于我，只是奴家倒实实对你不起。莫若请公子暂到家中少坐， 待奴与你将衣衫烘干你看如何？"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "这却使得。待我脱了下来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅氏接衣。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "请问公子贵姓？在何处居住？"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "在下徐文炳。就在前街居住。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "敢么是三门街之徐公子？"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "奴家不知，这厢有礼。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "还礼。请问娘子上姓？"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "奴家梅氏。丈夫黄贵。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "原来是黄大嫂。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "岂敢。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "衣衫可曾干了？"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "衣衫干了。"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "待我穿上。我要告辞了。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "公子何不再坐片刻？"
+        },
+        {
+          "character": "徐文炳",
+          "type": "白",
+          "text": "我有事在身，不能久谈。等到晚间无事，再来叙谈罢。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "晚间无事，务要来呀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐文炳下。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "这是从哪里说起。幸遇着这位公子，倘若遇着旁人，岂不是一场恶气。嗳呀且 住！方才徐公子他言道晚间无事再来，莫非他有意于奴家么？看那公子，品貌 俊俏，性情和平。他若来时，我二人定要成其美事也！"
+        },
+        {
+          "character": "梅氏",
+          "type": "唱",
+          "text": "好一位风流贵公子， 亚赛潘安美丰姿。 倘若今晚来到此， 也免得奴家害相思。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "这有摺扇一把，他留在此处，想是有心送于我的了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄贵上。"
+        },
+        {
+          "character": "黄贵",
+          "type": "唱",
+          "text": "时才去到赌博场， 一百铜钱输了个光。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "好输好输。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "你这冤家，又输了回来了！"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "呵哈哈哈哈！可不是输了么！娘子，有什么吃的东西拿来，我肚中饿很了。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "我这里没有什么供给你。如要供给你，我倒有个主意打算在此。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "你有什么好打算？"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "我这个打算，管叫你一生吃着不尽。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "有这样好打算？娘子你快快讲来。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "那前街徐文炳徐公子，方才在此，我曾约他晚间前来。你若肯叫我与他相好， 我同他讨些银钱给你使用。你若不允，我便将他打发回去，你还须供给我吃穿。 此事但凭与你。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "原来是你叫我当乌龟？好在一顶绿头巾也压不死人。我就依了你。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "既然如此，我这里还有二百铜钱。你拿了去作赌本，今晚切莫要回来。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "我看在银钱的分上，今晚就叫你去同人家睡罢。须要多弄他几块洋钱。我明日 清早回来便了。"
+        },
+        {
+          "character": "黄贵",
+          "type": "唱",
+          "text": "只为手中无赌本， 便把妻子让他人。 中国京剧戏考 《三门街》【五、六本】 11"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄贵下。梅氏闭门。"
+        },
+        {
+          "character": "梅氏",
+          "type": "唱",
+          "text": "将身且在房中等， 准备今晚会情人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅氏睡。牛洪上桌，自桌上跳下，看梅氏。"
+        },
+        {
+          "character": "牛洪",
+          "type": "白",
+          "text": "待我将她唤醒。 呔！美人醒来！"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "徐公子来了么？ 吓，大胆牛洪，你前来做甚？还不与我出去！"
+        },
+        {
+          "character": "牛洪",
+          "type": "白",
+          "text": "我要同你成其美事。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "你休得胡言，快快去罢！"
+        },
+        {
+          "character": "牛洪",
+          "type": "白",
+          "text": "你既贞节，就不该与徐公子往来。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "你再若多言，我便喊叫。"
+        },
+        {
+          "character": "牛洪",
+          "type": "白",
+          "text": "你若喊叫，我便杀你。"
+        },
+        {
+          "character": "梅氏",
+          "type": "白",
+          "text": "四邻快快救人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛洪杀梅氏。"
+        },
+        {
+          "character": "牛洪",
+          "type": "白",
+          "text": "看刀！ 我今将她杀死，不免将她头上簪环摘下，趁此逃走罢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "牛洪上桌，跑下。黄贵上。"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "天已不早，待我回家望望。 吓，尚未开门，待我叫来。 娘子开门来，开门来！ 为何无人答应呐？待我踢开门。 嗳呀！我的妻子为何被人杀死了？ 地保！地保！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "地保上。"
+        },
+        {
+          "character": "地保",
+          "type": "白",
+          "text": "什么事吓？"
+        },
+        {
+          "character": "黄贵",
+          "type": "白",
+          "text": "我妻子梅氏被人杀死了。你等同我到钱塘县报案便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄贵、地保同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

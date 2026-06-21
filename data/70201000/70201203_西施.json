@@ -1,0 +1,1951 @@
+{
+  "script_id": "70201203",
+  "title": "西施",
+  "alias": [],
+  "source": "梅兰芳剧本选",
+  "characters": [
+    {
+      "name": "西施",
+      "hangdang": "旦"
+    },
+    {
+      "name": "范蠡",
+      "hangdang": "老生"
+    },
+    {
+      "name": "文种",
+      "hangdang": "小生"
+    },
+    {
+      "name": "夫差",
+      "hangdang": "净"
+    },
+    {
+      "name": "勾践",
+      "hangdang": "老生"
+    },
+    {
+      "name": "伯嚭",
+      "hangdang": "丑"
+    },
+    {
+      "name": "伍员",
+      "hangdang": "老生"
+    },
+    {
+      "name": "旋波",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "吴王夫差灭越，越王勾践用范蠡之计，在苎萝村访得美女西施，献于夫差。夫差被惑，伍员谏阻不成反被杀。\n夫差沉迷酒色，国事日益败坏，终被越所灭。范蠡功成身退，弃官隐居，与西施同泛五湖。",
+  "notes": "见《史记·越世家》、《孤本元明杂剧》、明梁辰鱼《浣纱记》传奇。罗瘿公编，梅兰芳首演于1923年\n9月8日。为了丰富乐队的表现能力，梅兰芳首创在此剧伴奏乐器中加了二胡。原分上、下二本，后改为一\n晚演完。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍、伍员、王孙骆、彭同、夫差同上。"
+        },
+        {
+          "character": "夫差",
+          "type": "西皮散板",
+          "text": "锦绣山河吴地景， 倾城颜色越邦人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伯嚭上。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "臣伯嚭见驾大王千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "有何本奏？"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "今有越国范大夫范蠡，带同美人，现在午门候旨。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "喔，替孤传旨，范蠡带同美人上殿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "范蠡、西施同上。"
+        },
+        {
+          "character": "范蠡",
+          "type": "念",
+          "text": "前来吴殿上，"
+        },
+        {
+          "character": "西施",
+          "type": "念",
+          "text": "低首拜君王。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "贱臣范蠡见驾，大王千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "范蠡，所献美人叫何名字？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "名叫西施。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "西施参见大王！大王千岁，千千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "叫她抬起头来。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "掌起面来。"
+        },
+        {
+          "character": "夫差",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "夫差",
+          "type": "西皮散板",
+          "text": "一见此女心欢庆， 果然倾城倾国人。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "真有倾国倾城之貌！ 内侍，快将娘娘送进宫去，"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "遵旨。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "谢大王！ 正是："
+        },
+        {
+          "character": "西施",
+          "type": "念",
+          "text": "一朝承恩宠，谁识浣纱人？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监、西施同下。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "范蠡一片诚心，进献美人，孤当重加封赏。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "大王隆恩，贱臣十分感激。但是越王现在拘囚之中，臣不愿领赏。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "越王在此三载，十分谨慎。当日孤家身染重病，也曾为孤尝粪，可算得十分忠 义！今日范大夫进献美人，看在美人的分上，将越王释放回国，叫他君臣相会 便了。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "卿家为何阻旨？"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "臣启大王：想那越王勾践乃阴险之人，若放他回国，必然兴兵前来报仇。大王 就该将他斩首，以除后患。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "嗳！越王勾践感激孤王大恩，焉有报仇之理？卿家你不要多疑！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "大王不纳忠言，只恐大夫要学那越王在石室之中牵马坠镫，那时为臣心中不忍。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "唗！胆大伍员！竟敢胡言乱语！若不念你前日的功劳，一定将你斩首！ 武士们，将他推出朝门！"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "下殿去吧。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "伍员",
+          "type": "念",
+          "text": "忠言反逆耳，亡国在眼前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员下。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "这个佞臣该死，带我上殿参他一本。 臣启大王：前者伍员出使齐国之时，曾将他子寄居外邦，显有异心。今大王若 不赐他死罪，定成后患。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "哦！卿家之言虽是有理，但是伍员也曾立过大功，怎能将他斩首？"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "不可不除啊！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "也罢！ 内侍，将此剑赐与伍员，看他自杀之后，回宫交旨，不得有误！"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "遵旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍下。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "越王勾贱王服上殿。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "大王有旨：勾贱王服上殿！"
+        },
+        {
+          "character": "勾践",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "勾践上。"
+        },
+        {
+          "character": "勾践",
+          "type": "念",
+          "text": "三载吴地为囚虏，今日生还再见天。"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "臣勾贱见驾，大王千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "平身！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "越王在此三载，十分谨慎，今日放你回国，治理臣民，永为我邦属地，需要小 心。"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "臣蒙大王有天高地厚之恩，杀身难报，便当子子孙孙永为属国，答报隆恩！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "范蠡，送你主回国，好生辅佐于他，不要忘了孤家的大恩大德。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "不忘吴王今日之恩也！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "好，回国去吧！"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "多谢大王！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "范蠡拉勾践同下。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "摆驾回宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": "夫差",
+          "type": "stage",
+          "text": "【第七场：归越】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四朝臣、文种同上。四卒、勾践、范蠡同上。勾践三哭。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "大王且免悲伤！今日回国君臣同心，何愁大仇不报！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "范卿之言甚是。孤今日回国，自当卧薪尝胆，励志图强。摆驾回宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。众人同下。"
+        },
+        {
+          "character": "勾践",
+          "type": "stage",
+          "text": "【第八场：馆娃宫】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二太监同上。"
+        },
+        {
+          "character": "太监甲",
+          "type": "念",
+          "text": "奉了大王命，"
+        },
+        {
+          "character": "太监乙",
+          "type": "念",
+          "text": "掸扫馆娃宫。"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "公公请了！"
+        },
+        {
+          "character": "太监乙",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "太监甲",
+          "type": "白",
+          "text": "今日大王与娘娘在馆娃宫夜宴，你我掸扫已毕。远远望见，大王、娘娘来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。夫差、西施同上。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "妃子，你看皓月当空，银河泻影，风景甚佳。何不歌舞一回，娱此良宵？"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "妾妃领旨。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "内侍，旋波进见！"
+        },
+        {
+          "character": "二太监",
+          "type": "同白",
+          "text": "领旨！ 旋波进宫啊！"
+        },
+        {
+          "character": "旋波",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旋波上。"
+        },
+        {
+          "character": "旋波",
+          "type": "念",
+          "text": "荷香迎鼻爽，莲动百花洲。"
+        },
+        {
+          "character": "旋波",
+          "type": "白",
+          "text": "旋波参见大王千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "旋波",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "命你陪伴娘娘歌舞一回！"
+        },
+        {
+          "character": "旋波",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "内侍，与娘娘更衣者！"
+        },
+        {
+          "character": "二太监",
+          "type": "同白",
+          "text": "遵旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西施下。"
+        },
+        {
+          "character": "西施",
+          "type": "内西皮导板",
+          "text": "长天无云冰轮上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西施上。"
+        },
+        {
+          "character": "西施",
+          "type": "西皮快板",
+          "text": "十二栏杆接晚凉。 曼舞筵前君王笑赏，"
+        },
+        {
+          "character": "夫差",
+          "type": "笑",
+          "text": "哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖望家乡〗。西施舞翎。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "内侍看酒来！看酒来！哈哈……请！再饮几杯，"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "妾妃醉了！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "孤家也大醉了，内侍！"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "服侍娘娘回后宫去者！ 【第九场：越宫】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文种、泄庸、计然、稽郢同上。"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "我乃上大夫文种。"
+        },
+        {
+          "character": "泄庸",
+          "type": "白",
+          "text": "大司马泄庸。"
+        },
+        {
+          "character": "计然",
+          "type": "白",
+          "text": "大夫计然。"
+        },
+        {
+          "character": "稽郢",
+          "type": "白",
+          "text": "大夫稽郢。"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "列位大人请了！"
+        },
+        {
+          "character": "泄庸、计然、稽郢",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "越王升殿，你我分班伺候。"
+        },
+        {
+          "character": "文种、泄庸、计然、稽郢",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监引勾践同上。"
+        },
+        {
+          "character": "勾践",
+          "type": "引子",
+          "text": "励志图强，十年聚，誓报冤仇！"
+        },
+        {
+          "character": "文种、泄庸、计然、稽郢",
+          "type": "同白",
+          "text": "参见大王千岁！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "众卿平身。"
+        },
+        {
+          "character": "文种、泄庸、计然、稽郢",
+          "type": "同白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "勾践",
+          "type": "念",
+          "text": "三载困吴邦，幽囚实可伤。同心破罗网，励志要图强。"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "孤，越王勾践。自从归国以来，举国上下，生聚教训。国人已备三载之粮，纷 纷请缨伐吴雪耻。孤也曾命范相国操练人马，待时而动。 内侍，宣范相国上殿。"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "范相国上殿。"
+        },
+        {
+          "character": "范蠡",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "范蠡上。"
+        },
+        {
+          "character": "范蠡",
+          "type": "念",
+          "text": "忠心扶社稷，上殿见君王。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "臣范蠡见驾，大王千岁！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "相国平身。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "赐座。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "谢座！宣臣上殿，有何国事议论？"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "命你操练人马，可曾练熟？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "人马俱已练熟。闻得吴王有意伐齐，大王正好乘此机会报仇雪恨。"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "好！如此就命卿以为征吴大元帅，见机而行。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "领旨。请驾回宫！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "太监、夫差同上。"
+        },
+        {
+          "character": "夫差",
+          "type": "西皮散板",
+          "text": "昨日夜宴馆娃宫， 湖云漾彩月溶溶。 三千粉黛承恩宠， 怎及妃子舞从容。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "孤王夫差。昨日在馆娃宫中，饱看妃子歌舞，不觉沉沉大醉。今日来在前殿， 乘凉歇息。这般时候，妃子梳洗想已完毕了。 内侍，伺候了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西施上。"
+        },
+        {
+          "character": "西施",
+          "type": "引子",
+          "text": "新妆才罢，换罗衣，薄映明霞。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "妾妃见驾，大王千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "妃子平身！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "啊，妃子，昨日孤家沉沉大醉，妃子你也醉了哇！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "妾妃不胜酒力，不能赔侍大王，望乞恕罪！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "妃子，轻歌妙舞，神妙非常，生受你了！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "大王夸奖！"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "启大王：太宰宫门求见！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "唤他进宫。"
+        },
+        {
+          "character": "太监",
+          "type": "白",
+          "text": "太宰进宫啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伯嚭上。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "念",
+          "text": "来在深宫院，把本奏君知。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "臣伯嚭见驾，大王千岁！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "平身！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "千千岁！ 娘娘千岁！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "太宰少礼！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "谢娘娘！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "太宰进宫，有何本奏？"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "臣启大王：近日齐国内乱，我国兵强马壮。趁此机会，兵伐东齐。战胜之后， 称霸诸侯，永为盟主，望大王准奏！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "太宰，自从西施娘娘进宫以来，朝欢暮乐，倒也逍遥自在。孤不远行，出兵之 事，太宰你不要商议。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "大王此言差矣！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "何差？"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "想我吴国兵强马壮，诸侯畏服。大王正好趁此机会，兵伐东齐，望大王听信太 宰之言，即日兴兵，力图霸业。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "妃子，你也相劝孤家出兵伐齐么？"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "大王三思。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "难得妃子深明大义，不顾私情，孤当准奏。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "谢大王！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "太宰！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "臣在！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "传孤旨意：吩咐大小三军，俱要精练。克日兴兵伐齐，不得有误！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "臣领旨！ 正是："
+        },
+        {
+          "character": "伯嚭",
+          "type": "念",
+          "text": "三军俱精练，准备伐东齐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伯嚭下。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "大王采纳忠言，真乃国家之幸也！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "妃子，随孤后殿去者！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "夫差",
+          "type": "西皮散板",
+          "text": "十数载统雄兵诸侯丧胆，"
+        },
+        {
+          "character": "西施",
+          "type": "西皮散板",
+          "text": "灭东齐如反掌必霸中原。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫差、西施同下。"
+        },
+        {
+          "character": "西施",
+          "type": "stage",
+          "text": "【第十一场：伐吴】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众将同上。范蠡上。"
+        },
+        {
+          "character": "范蠡",
+          "type": "粉蝶儿",
+          "text": "俺这里，健此秋霜， 恨填胸，愁难忘，重振家邦。"
+        },
+        {
+          "character": "众将",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "将军少礼！"
+        },
+        {
+          "character": "范蠡",
+          "type": "念",
+          "text": "当年受辱在吴江，君臣励志要图强。今日点动兵和将，准备一战擒吴王。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "本帅，范蠡。只因我主在吴邦受辱，时刻挂心。为此操演人马，准备复仇。闻 得吴王有意伐齐，也曾命探马前去打探，未见回报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "报！今有吴国兵发齐邦，特来报知！"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "那吴王果然伐齐去了，趁此国中空虚，正好报仇雪恨。陈音听令！"
+        },
+        {
+          "character": "陈音",
+          "type": "白",
+          "text": "在！"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "带领本部人马攻打头阵！"
+        },
+        {
+          "character": "陈音",
+          "type": "白",
+          "text": "得令！带马！"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "众将官！兵发吴邦去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": "范蠡",
+          "type": "stage",
+          "text": "【第十二场：响屧廊】"
+        },
+        {
+          "character": "西施",
+          "type": "内二黄导板",
+          "text": "水殿风来秋气紧，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西施上。"
+        },
+        {
+          "character": "西施",
+          "type": "回龙",
+          "text": "月照宫门第几层。"
+        },
+        {
+          "character": "西施",
+          "type": "二黄慢板",
+          "text": "十二栏杆俱凭尽， 独步虚廊夜沉沉。 红颜空有亡国恨， 何年再会眼中人？"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "我，西施。自到吴宫，十分得宠。朝朝侍宴，夜夜笙歌。那吴王已是沉迷酒色， 不理朝纲。把当年的英气，早已消磨过半了。想我越国，被吴王破灭。越王 身为囚虏，男为人臣，女为人妾，这是我越国臣民莫大之耻！幸得范大夫用尽 智谋，将我献与吴王。吴王见喜，已将越王释放回国。君臣上下励志图强，将 来定有报仇雪恨之日！那范大夫言道：报仇的重任，都在我西施一人的身上。 为此不得不尽力而为。前日吴王，听信伯嚭之言，领兵伐齐去了。今夜月明如 水，夜色清凉。思念国仇，不能安寝。为此来在这响屧廊前，闲步一回。思前 想后，好不闷煞人也！"
+        },
+        {
+          "character": "西施",
+          "type": "南梆子",
+          "text": "想当年苎萝村春风吹遍， 每日里浣纱去何等清闲。 偶遇那范大夫溪边相见， 他劝我家国事以报仇为先。 因此上到吴宫承欢侍宴， 并非是图宠爱列屋争妍。 思想起我家乡何时回转， 不由人心内痛珠泪涟涟。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "在此闲步多时，不觉心痛起来。不免去到后殿，歇息便了。"
+        },
+        {
+          "character": "西施",
+          "type": "二黄散板",
+          "text": "远望着长空中参横斗转， 我只得上银床且去安眠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西施下。"
+        },
+        {
+          "character": "西施",
+          "type": "stage",
+          "text": "【第十三场：袭城】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈音引越将、越兵同上，过场，同下。"
+        },
+        {
+          "character": "西施",
+          "type": "stage",
+          "text": "【第十四场：登埤】"
+        },
+        {
+          "character": "西施",
+          "type": "内西皮导板",
+          "text": "忽听城外人声惨，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四宫女、二大太监持灯引西施同上。"
+        },
+        {
+          "character": "西施",
+          "type": "西皮快板",
+          "text": "刹那间好一似地覆天翻。 那吴王倾三军伐齐未返， 因此上越国兵就更无阻拦。 耳听得四野中兵戈呐喊，"
+        },
+        {
+          "character": "西施",
+          "type": "西皮散板",
+          "text": "连天的烽火胆战心寒。 败残兵怎敌得雄师百万？ 吴国土改做了越国的江山。 叫人来忙带路城楼观看，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文种引四越将、四越兵持火把同上。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "西施",
+          "type": "西皮散板",
+          "text": "叫越兵切莫把百姓伤残。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "城下越兵听者！"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "我乃越国西施，奉了越王之命，到此相机行事。如今越兵大破吴邦，城内无人 把守，尔等不可伤害百姓。快去报与范元帅知道，急速进城安民要紧！"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "哦！原来是西施娘子在此。 众将官，人马暂退，报与范元帅便了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文种、四越将、四越兵同下。"
+        },
+        {
+          "character": "西施",
+          "type": "西皮散板",
+          "text": "从今后洗甲兵天河手挽， 才是我红粉女得报仇还！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "且住！越兵大破吴邦，不免回转宫中，等候范元帅便了！ 宫娥们，回宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "西施、四宫女、二大太监同下。"
+        },
+        {
+          "character": "西施",
+          "type": "stage",
+          "text": "【第十五场：大战】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫差、伯嚭、四龙套同上，范蠡、四龙套同上，会阵。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "范蠡！攻我都城，是何道理？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "劝你马前归顺，免得生灵涂炭！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "哼！太宰与我擒来！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "领旨！ 看剑！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "杀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫差、伯嚭、四龙套同败下，范蠡、四龙套同追下。"
+        },
+        {
+          "character": "四龙套",
+          "type": "stage",
+          "text": "【第十六场：乞降】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫差、伯嚭同上。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "哎呀！太宰！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "大王！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "我国人马被那贼杀得片甲不留，事到如今，我那西施美人，也不知她往哪里去 了？"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "哎呀呀！想那西施她乃越国之人，如今越邦打了胜仗，她岂不奏凯还朝？你亡 的是吴国，与她什么相干哪？"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "哎呀！寡人如今我方才明白！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "大王你明白的时候还不晚。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "太宰，兵败将亡，你有何妙计？"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "事到如今，只好命人前去求和。除此以外，并无别计了！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "唉！就命太宰前去求和。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "啊！大王，你另派别臣吧，我是不敢前去呀！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "哎呀！太宰！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "大王！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "就剩你我君臣，还有何人可差？此事呀，非你不可！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "非臣不可？"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "非你不可！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "也罢！待臣豁出性命不要，前去求和就是！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "好！速去即回！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫差下。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "喔！是是是…… 伯嚭呀，伯嚭！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "念",
+          "text": "当初威风大，如今把头低。我犹如丧家犬，好似落汤鸡！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "待我报门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军上。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "呔！做什么的？"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "烦劳将军通禀：我是吴国伯嚭，前来求和来了！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着！ 有请元帅！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "范蠡上。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "伯嚭辕门求和。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "叫他报门而进！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "伯嚭！元帅叫你报门而进！你要仔细了，你要与我打点了！报门！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "报！伯嚭告进！ 伯嚭与元帅叩头！"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "下跪可是老太宰？"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "什么老太宰？我是有罪的伯嚭在这里。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "你做什么来了？"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "奉了我家大王之命，前来求和来了。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "叫你主前来，本帅有话问他。快去！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "喔！是是是！ 哎！求和的事儿有边儿呀……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫差上。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "范元帅唤你。"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "待我进去。 范元帅请了！"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "大王到此，本帅未能远迎，多有得罪呀！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "范大夫，孤家放你主回国，就该感激孤王大恩才是。不该带领人马，攻我都城， 是何理也？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "本帅奉命前来伐吴，说大王有六行大罪，大王可知否？"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "孤有哪六行大罪？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "你且听道！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "讲！"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "伍员曾立大功，大王杀之，大罪一也！公孙圣无罪被你斩首，大罪二也！信任 奸贼伯嚭，大罪三也！北伐齐晋，生灵涂炭，大罪四也！越国乃是邻邦，并吞 疆土，大罪五也！越国与吴国先王久有仇恨，反将越王释放回国，大罪六也！ 大王有此六项大罪，本帅不能以小之剑，加于大王之头，请大王三思！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "夫差",
+          "type": "西皮散板",
+          "text": "统领雄兵去伐齐， 败国亡家后悔迟！"
+        },
+        {
+          "character": "夫差",
+          "type": "白",
+          "text": "且住呀！范蠡说孤六项大罪，一字不差。有何面目偷生人世？难道说，还学越 王看马不成么？"
+        },
+        {
+          "character": "夫差",
+          "type": "西皮散板",
+          "text": "先王创业不容易， 不该错杀伍子胥。 仰面长叹一口气， 不如一死命归西！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夫差自刎。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "哎呀大王啊！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "西皮散板",
+          "text": "大王一死心好惨 保定我主丧黄泉。"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "啊哈哈哈！啊范元帅！如今我家大王已死，元帅大功已成。我想此事，多亏我 伯嚭。若不是我，越国不能复兴，我吴国也不能灭亡。看将起来，我的功劳实 实不小。咳！快快奏与那越王知道，当封我什么爵禄哇？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "嘿……来，绑了！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "元帅，因何将我绑起呀？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "推出斩首！"
+        },
+        {
+          "character": "伯嚭",
+          "type": "白",
+          "text": "唉！这也是我卖国求荣的下场头哟！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伯嚭下。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "众将官，班师还朝！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。众人同下。"
+        },
+        {
+          "character": "范蠡",
+          "type": "stage",
+          "text": "【第十七场：归途】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "銮驾、西施同上。"
+        },
+        {
+          "character": "西施",
+          "type": "西皮摇板",
+          "text": "朝歌暮舞如梦境， 残山剩水只伤情。 催动车辇向前进， 苎萝村内叩家门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "銮驾、西施同下。"
+        },
+        {
+          "character": "西施",
+          "type": "stage",
+          "text": "【第十八场：迎美】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "勾践上。"
+        },
+        {
+          "character": "勾践",
+          "type": "西皮摇板",
+          "text": "越王勾践破吴归。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内侍上。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "西施娘子回国，已到北门！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "摆驾相迎！"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "摆驾相迎！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。勾践、内侍同下。銮驾、西施、范蠡同上，勾践、内侍同迎上。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "西施参见大王千岁，千千岁！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "娘子平身。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "谢大王！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "啊！西施娘子，想孤已然国破家亡，身为奴隶。多亏西施娘子一心救国，困住 吴王，真乃是为国为民！理当请上，受孤家一拜！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "大王说哪里话来？臣妾乃越国之人，忠于越国理所当然。大王如此加恩，臣妾 惭愧无地！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "孤王下拜了！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "折煞了！大王厚恩，臣妾没齿不忘。"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "啊，西施娘子，暂且请至馆驿，候孤旨下。"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "摆驾回宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": "勾践",
+          "type": "stage",
+          "text": "【第十九场：劝文】"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "勾践、范蠡、文种、四太监、稽郢、计然、泄庸同上。"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "范相国，想你与西施娘子同立大功，暂且回府歇息，候孤旨下。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "谢大王！"
+        },
+        {
+          "character": "范蠡",
+          "type": "西皮摇板",
+          "text": "谢罢大王回府往， 功成身退乐徜徉。"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "文大夫！"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "臣在。"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "传旨全营将士，加升三级。满朝文武，明日早朝另有封赠。"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "臣领旨。"
+        },
+        {
+          "character": "勾践",
+          "type": "白",
+          "text": "朝事已毕，退班。"
+        },
+        {
+          "character": "稽郢、计然、文种、泄庸",
+          "type": "同白",
+          "text": "请驾回宫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "勾践下。四太监、稽郢、计然、泄庸同下。"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "带马回府！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文种上马。四龙套同下。家院上。"
+        },
+        {
+          "character": "家院",
+          "type": "白",
+          "text": "范大夫有书信一封，大人请看！"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "下面伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家院下。文种看信。"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "“呈文大夫亲拆！” 范相国有书信到来，待我拆开观看： “子可记我主言欤！‘狡兔死，走狗烹，敌国破，谋臣亡。’越王为人长颈乌 喙，忍辱妒功，可与共患难，而不可与共安乐。子今不去，祸必不免。” 子今不去，祸必不免？"
+        },
+        {
+          "character": "文种",
+          "type": "笑",
+          "text": "嘿……"
+        },
+        {
+          "character": "文种",
+          "type": "白",
+          "text": "少伯呀！少伯！你忒多心了！方今大仇新雪，百政待理。你身为国家重臣，怎 么竟自去了？也罢！待俺亲自赶他回来，再做道理。来，带马！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文种上马。"
+        },
+        {
+          "character": "文种",
+          "type": "二黄原板",
+          "text": "狡兔死走狗烹谁能不信？ 又道是为臣的国尔忘身。 说什么我主爷乌喙长颈， 大丈夫百年事总为斯民。 揽丝缰催坐骑忙往前进， 寻见那范相国去问分明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "文种下。"
+        },
+        {
+          "character": "文种",
+          "type": "stage",
+          "text": "【第二十场：游湖】"
+        },
+        {
+          "character": "范蠡",
+          "type": "内西皮导板",
+          "text": "整顿山河心事了，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "范蠡、西施、船娘同上。"
+        },
+        {
+          "character": "西施",
+          "type": "西皮原板",
+          "text": "五湖烟水任逍遥。 浮云——"
+        },
+        {
+          "character": "范蠡",
+          "type": "西皮原板",
+          "text": "浮云富贵回头早， 功成——"
+        },
+        {
+          "character": "西施",
+          "type": "西皮原板",
+          "text": "功成身隐是英豪。 远望——"
+        },
+        {
+          "character": "范蠡",
+          "type": "西皮原板",
+          "text": "远望西山颜色好， 桃花——"
+        },
+        {
+          "character": "西施",
+          "type": "西皮原板",
+          "text": "桃花千树逞新娇。 云水——"
+        },
+        {
+          "character": "范蠡",
+          "type": "西皮原板",
+          "text": "云水光中来放棹，"
+        },
+        {
+          "character": "西施",
+          "type": "西皮散板",
+          "text": "一行白鹭上春潮。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "啊，娘子，你我二人功成身退，浪游五湖，好不快乐人也！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "相公言得极是！看前面桃花千树，又是何等什么所在？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "乃是西塞山！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "何不前去游逛一番？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "好！ 船家将船开往西塞山去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "范蠡、西施、船娘同下船，船娘摆酒。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "啊，娘子，你我二人在此饮酒，无拘无疑。皆是娘子去往吴邦，得建大功，才 有今日。想卑人得享如此清福，皆娘子你所赐的了哇！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "相公说哪里话来？妾身忍辱事仇无非为国，是功是罪，都听后人的评论，提它 怎么？"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "啊，娘子，何不乘此酒兴，将当日吴宫之事，细说一回？"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "提起来惭愧得很！相公容禀。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "慢慢地讲。"
+        },
+        {
+          "character": "西施",
+          "type": "西皮二六板",
+          "text": "提起了吴宫心惆怅， 犹如一梦熟黄粱。 朝朝暮暮在姑苏台上， 馆娃宫西畔又建响屧廊。 三千粉黛人人怅惘， 一身宠爱迷惑吴王。 佯欢假媚多勉强， 柔肠百转度流光。 功成喜见贤君相，"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "相公啊！"
+        },
+        {
+          "character": "西施",
+          "type": "西皮散板",
+          "text": "这才是天从人愿配才郎。"
+        },
+        {
+          "character": "范蠡",
+          "type": "西皮散板",
+          "text": "听她言来心欢畅， 果然妙策世无双。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "这破吴霸越之功，是令千古女流吐气的了哇！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "相公夸奖了！"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "天色不早，我们回去吧！"
+        },
+        {
+          "character": "西施",
+          "type": "白",
+          "text": "我们回去吧。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "杯盘拿下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "范蠡、西施、船娘同上船。"
+        },
+        {
+          "character": "范蠡",
+          "type": "白",
+          "text": "开船哪！"
+        },
+        {
+          "character": "范蠡",
+          "type": "西皮散板",
+          "text": "猛抬头又只见江山似锦，"
+        },
+        {
+          "character": "西施",
+          "type": "西皮散板",
+          "text": "博得个浣纱女万古留名。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "范蠡、西施、船娘同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

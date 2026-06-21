@@ -1,0 +1,1823 @@
+{
+  "script_id": "03007004",
+  "title": "甘宁百骑劫魏营",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "甘宁",
+      "hangdang": "武生"
+    },
+    {
+      "name": "曹操",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "孙权攻合肥，曹操率部驰援。孙权乘曹兵初到，欲先发制人。部将凌统与甘宁争功，凌统出战失败。甘宁请\n率壮士百骑夜袭曹营。孙权赐以牛酒；甘宁遍饷士卒，晓以大义，士气振奋。遂亲率进袭，大败曹兵。",
+  "notes": "故事出于《三国演义》。\n这个剧本是杨小楼先生生前的演出本。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张郃上，起霸。"
+        },
+        {
+          "character": "张郃",
+          "type": "念",
+          "text": "红日照缨盔，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹洪上，起霸。"
+        },
+        {
+          "character": "曹洪",
+          "type": "念",
+          "text": "英雄胆气横。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯渊上，起霸。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "念",
+          "text": "久战疆场上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐晃上，起霸。"
+        },
+        {
+          "character": "徐晃",
+          "type": "念",
+          "text": "塞外逞英雄。"
+        },
+        {
+          "character": "张郃、曹洪、夏侯渊、徐晃",
+          "type": "同白",
+          "text": "某——"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "张郃。"
+        },
+        {
+          "character": "曹洪",
+          "type": "白",
+          "text": "曹洪。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "夏侯渊。"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "徐晃。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "列位请了！"
+        },
+        {
+          "character": "曹洪、夏侯渊、徐晃",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "丞相升帐，两厢伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大开门〗。四文堂、四大铠、四上手、刘晔引曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "志满定乾坤，挟天子，执掌权衡，扫荡张鲁取阳平，率雄狮，奏凯回兵。"
+        },
+        {
+          "character": "张郃、曹洪、夏侯渊、徐晃",
+          "type": "同白",
+          "text": "参见丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "列公少礼！"
+        },
+        {
+          "character": "张郃、曹洪、夏侯渊、徐晃",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "栉风沐雨已有年，扫荡群雄寰宇间。仗天威福遂人愿，转戈跃马整归鞭。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫、曹操。奉了圣上之命，统领雄兵，扫荡张鲁；日前夺了阳平关，且喜东 川已得。正是："
+        },
+        {
+          "character": "曹操",
+          "type": "念",
+          "text": "虽则驱鲁得重地，心患蛟龙起江南。"
+        },
+        {
+          "character": "薛悌",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛悌上。"
+        },
+        {
+          "character": "薛悌",
+          "type": "念",
+          "text": "心怀报国志，来见霸业人。"
+        },
+        {
+          "character": "薛悌",
+          "type": "白",
+          "text": "报！薛悌告进！ 参见丞相。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "罢了。闻听孙权兵抵宛城，直取合肥，张辽将军如何迎敌，速报我知。"
+        },
+        {
+          "character": "薛悌",
+          "type": "白",
+          "text": "丞相容禀：只因孙权攻破宛城，朱光将军阵亡；张辽将军因失宛城，又恐合肥 有失，统兵死守。孙权带兵前来，被张辽将军一战，败往濡须口去了。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哦！孙权夺了宛城，如今又败往濡须口么？"
+        },
+        {
+          "character": "薛悌",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "可惜朱光阵亡；老夫回朝，奏知天子，多请厚赠。"
+        },
+        {
+          "character": "薛悌",
+          "type": "白",
+          "text": "闻知丞相取了东川，张将军差小将前来，请问可攻西川否？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "老夫犹豫未决。 啊！先生有何妙计，怎样进兵？"
+        },
+        {
+          "character": "刘晔",
+          "type": "白",
+          "text": "启丞相：今蜀中稍变，已有防备；莫如撤兵去救合肥，以定江南。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "先生之言，正合吾意。 夏侯渊听令！"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "命你镇守定军山隘口等处，不得违误！"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "徐晃听令！"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "命你镇守蒙头山口，不得有误！"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "其馀将士，随定老夫，去救合肥。听吾号令！"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮流水板",
+          "text": "中军宝帐把将委， 列位将军听指挥。 镇守汛地须防备， 忠心报国守军规。 统领雄兵救合肥， 要杀那东吴将片甲无归。 众家儿郎你们休违背， 灭东吴碧眼儿奏凯回归。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠、刘晔、薛悌、张郃、曹洪领曹操同下。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "啊，徐将军！你我各守汛地，须要小心！"
+        },
+        {
+          "character": "徐晃",
+          "type": "白",
+          "text": "言之有理。"
+        },
+        {
+          "character": "夏侯渊、徐晃",
+          "type": "同白",
+          "text": "众儿郎！分兵把手去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同应，四上手领夏侯渊、徐晃同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、四马夫、四龙套、李典、乐进引张辽同上。"
+        },
+        {
+          "character": "张辽",
+          "type": "念",
+          "text": "职任藩篱镇雄关，"
+        },
+        {
+          "character": "李典、乐进",
+          "type": "同念",
+          "text": "未息干戈起凶蛮。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "李典、乐进",
+          "type": "同白",
+          "text": "有坐。"
+        },
+        {
+          "character": "张辽",
+          "type": "念",
+          "text": "腹内藏经史，胸中隐甲兵。"
+        },
+        {
+          "character": "李典",
+          "type": "念",
+          "text": "三千莽儿汉，"
+        },
+        {
+          "character": "乐进",
+          "type": "念",
+          "text": "同镇合肥城。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "张辽。"
+        },
+        {
+          "character": "李典",
+          "type": "白",
+          "text": "李典。"
+        },
+        {
+          "character": "乐进",
+          "type": "白",
+          "text": "乐进。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "二位将军！我等奉命镇守合肥，不想朱光失去宛城；吴兵乘势攻打合肥。逍遥 津前一战，若非二位之勇力，我兵马焉能全胜也。"
+        },
+        {
+          "character": "李典、乐进",
+          "type": "同白",
+          "text": "此乃将军虎威，末将等何能之有？只是失去宛城，朱光阵亡，我等如何去见丞 相？"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "我想丞相宽洪大量，必不降罪。闻听丞相已得东川，曾命薛悌前去请教丞相收 服西川之事。待他回来，便之分晓。"
+        },
+        {
+          "character": "李典、乐进",
+          "type": "同白",
+          "text": "将军所见不差。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "军士们！伺候了！"
+        },
+        {
+          "character": "薛悌",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛悌上。"
+        },
+        {
+          "character": "薛悌",
+          "type": "念",
+          "text": "云掩旌旗暗，风吹刁斗寒。"
+        },
+        {
+          "character": "薛悌",
+          "type": "白",
+          "text": "末将参见。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "少礼。"
+        },
+        {
+          "character": "薛悌",
+          "type": "白",
+          "text": "启将军：丞相大兵，援救合肥已经到了。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "丞相已到，吩咐摆队相迎！"
+        },
+        {
+          "character": "李典、乐进、四龙套、四马夫、四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四下手、四马夫、四龙套、李典、乐进引张辽同上。四文堂、四大铠、刘晔、薛悌、张郃、曹洪领曹操同"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "上。）"
+        },
+        {
+          "character": "张辽、李典、乐进",
+          "type": "同白",
+          "text": "末将等迎接丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "大营伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（四下手、四马夫、四龙套、李典、乐进、张辽、四文堂、四大铠、刘晔、薛悌、张郃、曹洪、曹操同上，"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "同挖门归座。）"
+        },
+        {
+          "character": "张辽、李典、乐进、薛悌",
+          "type": "同白",
+          "text": "末将等参见丞相！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "列公少礼！"
+        },
+        {
+          "character": "张辽、李典、乐进、薛悌",
+          "type": "同白",
+          "text": "谢丞相！"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "丞相领兵远来，受尽风霜之苦！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "为国勤劳，此乃老夫分内之事。列公军威严整，使敌人不敢妄越雷池，老夫好 生钦佩。"
+        },
+        {
+          "character": "张辽、李典、乐进",
+          "type": "同白",
+          "text": "皆赖丞相虎威！只是朱光阵亡，失去宛城，末将等请罪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽、李典、乐进同跪。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "那孙权闻老夫兵入汉中，不得首尾相顾，他乘势而取，公等何罪之有！"
+        },
+        {
+          "character": "张辽、李典、乐进",
+          "type": "同白",
+          "text": "谢丞相！闻听丞相已得东川，何不乘势夺取西蜀？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "公等言得极是，岂不知既已得陇，又何必望蜀！老夫此来，援救合肥。今士卒 远途跋涉，暂且安营，探听吴兵消息，再作计较。军帐摆宴，与众将军同饮！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁上，起霸。"
+        },
+        {
+          "character": "甘宁",
+          "type": "念",
+          "text": "吴郡甘兴霸，长江锦幔舟。酬君重知己，报友化仇雠。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "俺甘宁。随定主公，四路征战，屡建奇功。前者攻取宛城，众将奋勇，为国捐 躯。那凌统在逍遥津小师桥救主有功；因此某心怀壮志，要作一惊天动地之事， 教他见识见识。为此全身披挂，去至主公台前讨令。正是："
+        },
+        {
+          "character": "甘宁",
+          "type": "念",
+          "text": "胸怀大志如沧海，要显甘宁虎将才。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、徐盛、董袭、程普、张昭引孙权同上。"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮散板",
+          "text": "逍遥津前摆战道， 张辽可算一英豪。 马跳桥头兵败了， 军回濡须重整袍。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "孤，姓孙名权，字仲谋。日前夺了宛城、直取合肥，被张辽一战，兵败濡须口； 多亏凌统相救，为此重整船只，以待水路进兵。也曾差人回朝搬取人马，一 去许久，未曾到来。 内侍！伺候了！"
+        },
+        {
+          "character": "凌统",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "凌统上。"
+        },
+        {
+          "character": "凌统",
+          "type": "西皮摇板",
+          "text": "曹操统领大兵到， 见了主公奏根苗。"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "凌统参见主公千岁！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "千千岁！启奏主公：适才探马报道，曹操自汉中统领大兵，救护合肥。请旨定 夺！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "啊，先生！那曹操领兵前来，先生妙计安在？"
+        },
+        {
+          "character": "张昭",
+          "type": "白",
+          "text": "臣启主公：那曹操远路而来，兵将正在疲乏之际，我兵先挫其锐气，那曹操必 败矣！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "所见不差。不知何人敢当此任？"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "凌统愿往！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "将军愿去？只是救兵未到，不知要用多少兵将，前去破敌？"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "末将只用三千人马，可以破曹矣！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "好！就命你挑选精兵三千，前去破曹，不得违误！"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "甘宁",
+          "type": "内白",
+          "text": "且慢哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁上"
+        },
+        {
+          "character": "甘宁",
+          "type": "念",
+          "text": "四海九州多变更，常将功业叹韩、彭。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "甘宁参见主公！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "甘宁为何帐外阻旨？"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "主公！臣在帐外闻得凌统将军，讨下三千人马，前去破曹，现金朝中救兵未到， 三千精兵，难以挑选。为臣愿讨一支将令，只用百名兵马，要杀曹操个片甲 不存。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "这个……"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "呔！甘宁休在主公台前夸口！前者在逍遥津，那张辽将小师桥拆断，阻住主公 的归路，不是俺身带数箭之伤，保定主公，跳过河来，东吴的兵将是全军尽没。 那时不知将军，你往哪里去了？"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "凌统！岂不知食君之禄，当报国恩；你不过仗着逍遥津些许的功劳，擅敢在主 公台前夸口，请兵深入险地，倘若败与曹操之手，东吴国体，被你丧尽，真乃 是不知用兵，一勇之夫也。"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "凌统",
+          "type": "西皮摇板",
+          "text": "闻言不由心头愤， 骂一声甘宁太欺人。 自古军家无常胜， 休卖弄口巧与舌能。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "甘宁",
+          "type": "西皮摇板",
+          "text": "小师桥救驾何足论， 趾高气扬欺煞人。 尔今一定要讨令， 分个上下再请兵。"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "着打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "凌统、甘宁同起打扭住。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮摇板",
+          "text": "二将休得来争论， 均为孤家锦乾坤。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "甘将军！"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮摇板",
+          "text": "暂且退让候孤令，"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "凌统！"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮摇板",
+          "text": "挑选人马破曹兵。"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": "凌统",
+          "type": "西皮摇板",
+          "text": "主公台前领将令， 背转身来喜盈盈。 迈开大步出营门， 挑选精兵踏曹营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "凌统笑下。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "徐盛！"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮散板",
+          "text": "带领人马暗接应， 他若有失速回营。"
+        },
+        {
+          "character": "徐盛",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐盛下。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "甘宁！"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮散板",
+          "text": "将军威名天下震， 文韬武略谁不闻？ 后帐摆宴君臣饮，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、黄盖、张昭、程普自两边分下。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "甘将军！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "主公！"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮散板",
+          "text": "柔能克刚紧记心。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "随孤来呀！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "嗐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙权、甘宁同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、刘晔、曹操同上。"
+        },
+        {
+          "character": "曹操",
+          "type": "引子",
+          "text": "东挡西杀威名震，运筹帷幄建功勋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启丞相：凌统讨战！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "来！传众将军进帐！"
+        },
+        {
+          "character": "四兵卒",
+          "type": "同白",
+          "text": "众将进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽、张郃、李典、曹洪、乐进、薛悌同上。"
+        },
+        {
+          "character": "张辽、张郃、李典、曹洪、乐进、薛悌",
+          "type": "同白",
+          "text": "参见丞相！有何将令？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "众位将军！老夫大兵将至，吴军凌统前来讨战；何人出马去战凌统？"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "张辽愿往！"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "张郃同去！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "好！就命张辽前去引战。张郃可带三千人马，暗暗埋伏濡须口外，等他到此， 一齐杀出，截其归路，管教他片甲不回，不得违误！"
+        },
+        {
+          "character": "张辽、张郃",
+          "type": "同白",
+          "text": "得令。 马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、四龙套自两边分上，四上手、四龙套与张辽、张郃带马同下。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "刘先生随老夫出营观阵去者！"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮散板",
+          "text": "勇冠三军旌旗飘，"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮流水板",
+          "text": "纷纷将士逞英豪。 初破黄巾威风浩， 扫荡群雄立功劳。 部下三军你们齐引导！"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮散板",
+          "text": "号炮惊天山动摇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、凌统同上。"
+        },
+        {
+          "character": "凌统",
+          "type": "西皮散板",
+          "text": "黄罗宝帐领将令， 不由豪杰咬牙根。"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "嗐！可恨甘宁，在主公面前，要抢某的头功；多亏主公将他止住，命某挑选精 兵三千，大战曹兵。 呔！众将官！听我一令！"
+        },
+        {
+          "character": "凌统",
+          "type": "西皮流水板",
+          "text": "坐在雕鞍传将令， 大小儿郎听分明： 奋勇上前有赏赠， 退缩斩首不容情。 三军队队往前进！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套同领下。"
+        },
+        {
+          "character": "凌统",
+          "type": "西皮散板",
+          "text": "得胜回营辱甘宁。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "凌统下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、张辽同上。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "俺、张辽。奉了丞相将令，迎敌吴兵。 众将官！迎上前去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、凌统同上，凌统、张辽同架住。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "呔！凌统！前番在逍遥津，饶尔不死，今日又来送命！"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "今朝一定与尔死战！"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "败军之将，放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八龙套自两边分下。张辽、凌统同起打。张辽败下，凌统追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。四下手引徐盛同上，过场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "凌统、张辽同上，同起打。张郃冲上，同打。凌统败下，张辽、张郃同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、徐盛同上。凌统败上。"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "哎呀！徐将军快快抵挡一阵！"
+        },
+        {
+          "character": "徐盛",
+          "type": "白",
+          "text": "待某向前！"
+        },
+        {
+          "character": "张辽、张郃",
+          "type": "内同白",
+          "text": "哪里走？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张辽、张郃同上，张辽、张郃、徐盛、凌统同起打。徐盛、凌统同败下。四上手、四龙套自两边分上。"
+        },
+        {
+          "character": "四上手、四龙套",
+          "type": "同白",
+          "text": "吴军败走！"
+        },
+        {
+          "character": "张辽、张郃",
+          "type": "同白",
+          "text": "败兵不必追赶，回营交令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、四龙套领张辽、张郃同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、董袭、甘宁、程普、张昭、孙权同上。"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮散板",
+          "text": "战鼓咚咚连声响， 不知谁胜哪家强？ 将身坐在黄罗帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "凌统、徐盛同上。"
+        },
+        {
+          "character": "凌统、徐盛",
+          "type": "同西皮散板",
+          "text": "含羞带愧脸无光。"
+        },
+        {
+          "character": "凌统、徐盛",
+          "type": "同白",
+          "text": "参见主公！为臣失机败阵，请主公按军法施行，死罪呀死罪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "凌统、徐盛同跪。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "军家胜败，古之常理。何必如此？平身！"
+        },
+        {
+          "character": "凌统、徐盛",
+          "type": "同白",
+          "text": "谢主公！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "臣启主公：如今凌统将军失机败阵，那曹操必然军威大振。为臣今晚只带领百 人，去劫魏营。如若损伤一卒，情愿按军法从事。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "呀！将军有此刚毅，这满营兵卒，任你挑选一百名，今晚去劫魏营。孤赐美酒 十坛，猪羊两口，归营去饮。立功之后，再为奖赏！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "甘宁",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁下。"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "啊，臣启主公：甘宁用百名兵卒去劫魏营，分明耻笑俺凌统，为臣今晚要单人 独骑与曹兵决一死战。"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "啊！你二人千万不可因私嫌而误国家大事；从此你二人须要和美，孤才放心。 破曹之后，孤与你二人和解，不可各怀意见。"
+        },
+        {
+          "character": "凌统",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "程普、董袭、徐盛听令！"
+        },
+        {
+          "character": "程普、董袭、徐盛",
+          "type": "同白",
+          "text": "在！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "命你三人带领本部人马，见曹营火光一起，杀往曹营，接应甘宁。听孤吩咐！"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮散板",
+          "text": "此番出兵非关小， 将士必须立功劳。 分派已毕归营号，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程普、董袭、徐盛同下。"
+        },
+        {
+          "character": "孙权",
+          "type": "西皮散板",
+          "text": "走马成功兴吴朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、凌统、张昭、孙权同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": "甘宁",
+          "type": "内西皮导板",
+          "text": "帐中夸口领将命，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二小军抬酒肉、八军士引甘宁同上。"
+        },
+        {
+          "character": "甘宁",
+          "type": "西皮快板",
+          "text": "百骑人马劫曹营。 斩将擒王破敌阵， 甘宁今日显奇能。 挑兵已毕回营门，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁下马。"
+        },
+        {
+          "character": "甘宁",
+          "type": "西皮散板",
+          "text": "再对众卒说分明。"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "参见将军！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "汝等百人，均已集齐否！"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "俱已集齐。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "小军！"
+        },
+        {
+          "character": "二小军",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "将主公所赐酒肉，摆在当地，俺今日要与列公大家席地而坐，痛饮一番。列公 请坐！"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "我等不敢！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "不妨，只管坐下同饮。"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "来！将酒摆下！"
+        },
+        {
+          "character": "二小军",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二小军同摆酒。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "大家团团而坐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八军士、甘宁同席地而坐。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "啊！列公先自各饮一杯，请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁饮酒。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "啊！列位！俺今奉命带领汝等百人，今夜三更时分，去劫曹营，尔等须要努力 争先，以报国家俸禄之恩。"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "启将军：我等百人，如何能挡曹兵数万？将军思之！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "啊！尔等面现难色，莫不是贪生怕死？吾令已出，如有不遵者，先试俺匣中之 剑！"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "这个……"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "哽！"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "将军息怒，我等情愿跟随将军同去。"
+        },
+        {
+          "character": "甘宁",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "俺故意戏之耳。列公之应允，乃是惧吾之威，未必心口如一，恐难胜也。"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "将军不须怀疑，我等心口如一。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "好！请坐！饮酒一杯。俺有几句言语，列公听者！"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八军士同饮酒。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "想人生天地之间，须要作一件惊天动地之事，方不愧奇男子。须知一入营伍当 兵，乃是一件至尊至贵之事，所负责任不小。国家兴亡，均在当兵的身上。身 为武夫，理当马革裹尸，须以战死沙场为荣；休学那勇于死斗，怯于公战之辈。 况且畏刀避箭，临阵退缩，非我辈之行为也。如今曹操挟天子压群僚，带领 雄师，扫灭张鲁，已得东川，欲吞西蜀，虎视江南。汝等俱是江南人民，家眷 均在东吴；自古国家一体，国在家也在，国破家也亡。岂不知国家兴亡，匹夫 有责。皮之不存，毛将安附？前者主公逍遥津之败，损兵折将，元气已亏；此 时我等若不振作精神，发愤图强，恢复国威，倘若一旦再败于曹贼之手，不但 东吴九郡八十一州，俱归外人所有，我等家小，均作了他人的牛马奴隶。我今 所讲之言，不知列公以为然否？"
+        },
+        {
+          "character": "八军士",
+          "type": "同白",
+          "text": "听将军之言，我等如梦方醒；今晚定与曹贼决一死战！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "好啊！列公可算有血性的男儿！你我已然痛饮一番，将酒撤下，听俺吩咐！"
+        },
+        {
+          "character": "二小军",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二小军同撤酒。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "众兵卒！今晚三更时分，马去銮铃，卷旗息鼓，头上各插白鹅翎为记；随俺暗 暗去劫曹营；约定放火为号，须要努力争先。听吾一令！"
+        },
+        {
+          "character": "甘宁",
+          "type": "吹腔",
+          "text": "男儿立志逞刚强， 入军伍效命疆场， 为国家忠心尽， 凌烟阁把名扬。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "尔等各带白翎一支，随某偷营劫寨者！"
+        },
+        {
+          "character": "甘宁",
+          "type": "吹腔",
+          "text": "万古流芳， 岂效那贪生怕死无名将。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起初更鼓〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "内西皮导板",
+          "text": "营门外起初更提铃发号， （四大铠、四上手、四削刀手、四火牌手、四龙套、张辽、张郃、李典、乐进、曹洪、薛悌、二风灯、二旗 牌、刘晔引曹操同上。）"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮原板",
+          "text": "摆旌旗列营门来看六韬。 有前营摆朱雀威风浩荡， 后营队摆玄武志广谋高。 左青龙右白虎层层飘绕， 古金枪白玉鞭灶鼓齐敲。 众将官且休息各扎营道， （〖起鼓〗。四大铠、四上手、四削刀手、四火牌手、张辽、张郃、李典、乐进、曹洪、薛悌同走十字靠， 同喊，同下。）"
+        },
+        {
+          "character": "曹操",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "执兵权我只得昼夜勤劳。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "看我队伍齐整，营盘坚固，纵有奸细，难以得手。 先生，吩咐巡营兵卒，小心防守！"
+        },
+        {
+          "character": "刘晔",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "回营！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、二风灯、二旗牌、刘晔、曹操同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二更夫同上。"
+        },
+        {
+          "character": "更夫甲",
+          "type": "白",
+          "text": "伙计小心点奸细呀！"
+        },
+        {
+          "character": "更夫乙",
+          "type": "白",
+          "text": "知道啦！走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二更夫同打更梆，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起二更鼓〗。八军士引甘宁同上。〖起三更鼓〗。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "放火！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二更夫同上。"
+        },
+        {
+          "character": "二更夫",
+          "type": "同白",
+          "text": "有奸细！"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "看戟！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁杀死二更夫。曹洪、张郃同上，同杀。曹洪、张郃同败下，甘宁、八军士同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、张辽同上。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "前营火光冲天，是何缘故？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "有奸细劫营！"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "知道了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "来！带路大营去者！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、张辽同走圆场。中场摆大帐子。曹操暗上，入帐。"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "丞相醒来！丞相醒来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操出帐。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "啊！张将军为何这等模样？"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "丞相！大事不好了！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "张辽",
+          "type": "白",
+          "text": "吴兵放火劫营！"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "吩咐众将速速拔寨！你可快带火牌，削刀、速速抵挡。带马！带马！"
+        },
+        {
+          "character": "甘宁",
+          "type": "内白",
+          "text": "随俺杀啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁、八军士同上。曹操上马跑下。张辽、甘宁同起打，张辽败下。甘宁接火牌、削刀，攒，追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖乱锤〗。火彩烧曹操上。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "恨吴兵劫营寨放火为号， 只烧得我兵将拔寨而逃。 大谅着今夜晚性命难保，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁上。"
+        },
+        {
+          "character": "甘宁",
+          "type": "西皮摇板",
+          "text": "吾兵卒抖神威活捉曹操。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "曹操跑下。曹洪上，甘宁起打。曹洪败下，甘宁追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "甘宁上，与曹将起打。曹将败下，甘宁追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四下手、董袭、徐盛引程普同上，过场，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 22,
+      "name": "第二十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖乱锤〗。火彩烧曹操上。"
+        },
+        {
+          "character": "曹操",
+          "type": "西皮摇板",
+          "text": "火冲天烧得我头昏眼晕， 黑夜里找不着哪是营门。 恨吴兵火攻计心肠太狠， 身无力脚无根要跌倒埃尘。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "火彩烧曹操。曹操倒中场。李典、乐进同上。"
+        },
+        {
+          "character": "李典、乐进",
+          "type": "同白",
+          "text": "呀！丞相可曾伤了玉体？"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "倒不曾伤着。你等可知那放火劫营之将，他是何人？"
+        },
+        {
+          "character": "李典、乐进",
+          "type": "同白",
+          "text": "吴将甘宁。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "哦，甘宁！"
+        },
+        {
+          "character": "李典、乐进",
+          "type": "同白",
+          "text": "正是。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "此人如此英勇有谋，从今后再遇着此将，不可轻视于他！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内喊声〗。"
+        },
+        {
+          "character": "曹操",
+          "type": "白",
+          "text": "敌兵又来，快快带马逃走！ （曹操上马，下。程普、徐盛同上，程普、徐盛、李典、乐进同起打。李典、乐进同败下。众曹将同上，甘 宁上，起打。众曹将同败下。）"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "众位将军！查看损伤多少兵卒？"
+        },
+        {
+          "character": "程普、徐盛",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "程普、徐盛、董袭同查看人数。"
+        },
+        {
+          "character": "程普、徐盛、董袭",
+          "type": "同白",
+          "text": "启将军：一百名军卒，一名未损。"
+        },
+        {
+          "character": "甘宁",
+          "type": "三笑",
+          "text": "哈哈，哈哈，哈哈……"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "回营交令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 23,
+      "name": "第二十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四太监、张昭、孙权同上。甘宁、程普、徐盛、董袭、八军士、四下手同上。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "参见主公！臣带领百名兵卒，去劫曹营，杀得曹操大败，未损一军一卒。特来 交令！"
+        },
+        {
+          "character": "孙权",
+          "type": "白",
+          "text": "将军真乃奇人也。 吩咐后帐摆宴贺功！"
+        },
+        {
+          "character": "程普、徐盛、董袭、八军士、四下手",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "甘宁",
+          "type": "白",
+          "text": "多谢主公！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

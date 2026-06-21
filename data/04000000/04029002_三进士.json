@@ -1,0 +1,2866 @@
+{
+  "script_id": "04029002",
+  "title": "三进士",
+  "alias": [],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "孙淑林",
+      "hangdang": "老旦"
+    },
+    {
+      "name": "张文达",
+      "hangdang": "老生"
+    },
+    {
+      "name": "常夫人",
+      "hangdang": "花旦"
+    },
+    {
+      "name": "常天保",
+      "hangdang": "老生"
+    },
+    {
+      "name": "周子卿",
+      "hangdang": "小生"
+    },
+    {
+      "name": "周夫人",
+      "hangdang": "青衣"
+    }
+  ],
+  "plot": "山西平阳书生张文达进京赴试，因无盘费，借了当地周、常两家的银子。张文达去后，两家向他妻子孙淑林\n索欠，孙淑林无发偿还，两个幼子遂被抢去折债。张文达落第滞京，多年不归。值平阳荒旱，孙淑林离家寻\n夫，病困洛阳，被迫卖身，在常知府家中为奴。因没有做好“八珍汤”，被常夫人责打，又因收了周通判送\n来的寿礼，惹怒常夫人，奉命去到周家退还。周夫人见孙淑林似有隐痛，问明来历，才知她就是周通判和常\n知府的亲母。周通判到常府认母，常知府恐玷官体，不肯相认，二人言语冲突，控诉于巡视洛阳的巡按之前。\n恰巧巡按正是张文达，知府大窘，与其妻悔过认罪。一家遂得团圆。",
+  "notes": "这个剧本是中国京剧团李金泉、李洪春与本院（中国戏曲研究院）编辑吴少岳共同整理的。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常院子上。"
+        },
+        {
+          "character": "常院子",
+          "type": "二黄摇板",
+          "text": "夫人只想八珍汤， 连日累得苦奔忙。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "我家夫人跟随老爷上任，受了风霜，病后想吃什么八珍汤。府内之人，俱不会 做；夫人言道，只有山西平阳之人，会做此汤，命我出衙寻找。连日奔忙，未 曾找到。适才夫人催问下来，不免再到大街小巷寻找一番便了。"
+        },
+        {
+          "character": "常院子",
+          "type": "二黄摇板",
+          "text": "大街小巷去寻访， 只恐徒劳走一场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常院子下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "孙淑林",
+          "type": "内白",
+          "text": "苦哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林持草标上。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄慢板",
+          "text": "孙淑林出店房前思后想， 想起了夫与儿好不悲伤。 夫离家儿被抢荒旱又降， 为寻夫不料想病困洛阳。 在店中欠银钱卖身还偿， 可怜我年迈人落此下场。 含悲泪持草标长街来上……"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "卖人呐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常院子上，见状止步。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "一声声叫卖人好不凄凉。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "那一老妈妈，手持草标，是人卖草还是草卖人呐？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哦，人卖草能值几何，自然是草卖人呐。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "老妈妈，听你说话不像此地人氏？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "原不是此地人氏。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "哪里人氏？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "山西平阳人氏。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "是山西平阳人氏么？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "既是平阳人氏，可会做八珍汤呀？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "这八珍汤么？原是我们平阳人会做的呀，不知你问它何来？"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "我乃府衙管家，只因我家夫人病后需用此汤，命我寻找做汤之人，不想就遇着 老妈妈，不知你要多少身价？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "唉！老身乃落难之人，因病欠下店饭银五两，只要还清此债，求得衣食二字也 就是了。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "如此甚好，府衙之中，缺少不了你的衣食。你住在哪家客店？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "王家店中。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "好，你我同去客店，还清了你的店饭钱，再往府衙，你看如何？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "多谢了。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "王家店中还银两，"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "从此终老在他乡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林、常院子同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常丫鬟扶常夫人同上。"
+        },
+        {
+          "character": "常夫人",
+          "type": "二黄摇板",
+          "text": "思想那八珍汤茶饭懒进， 命家院找仆人未见信音。 叫丫鬟搀扶我二堂坐定，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人坐。"
+        },
+        {
+          "character": "常夫人",
+          "type": "二黄摇板",
+          "text": "但愿得找寻到做汤之人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常院子上，进门。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "参见夫人。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "院公回来了，可曾找到会做八珍汤之人？"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "小人奉命前往，在大街之上，见一老婆子自卖自身，小人问明，她乃山西平阳 人氏，会做八珍汤。是她病困旅店，欠下饭银五两，只须还清饭债求得衣食二 字。因此小人将她带进府中来了。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "你且退下。"
+        },
+        {
+          "character": "常院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常院子下。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "丫鬟，去叫那婆子进来。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "是。 老婆子，老婆子快来。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林上。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "孤苦无依遭贫困， 只得低头服侍人。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "哟，原来是位老姐姐。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哦，原来是位丫鬟姐。我乃异乡之人，不懂府衙规矩，还望多多照顾。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "不妨事，我家夫人是个吃斋的。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哦，是个吃斋的。阿弥陀佛，遇着善人了。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "善人倒是善人，可是你得小心点儿。随我来吧。 这就是我们的夫人，你还不上前叩头。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "是是。 夫人在上，孙淑林叩头。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "哎，进得府来，未曾问你名姓，口称孙淑林，真真无有规矩。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "啊，夫人，我乃外乡之人，不晓得府中规矩，望求夫人恕罪。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "是呀，她不懂规矩，夫人，你就给她改个名吧。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "嗯……从今以后，就叫你老奴。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "老奴……哦哦哦，多谢夫人。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "起来。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "老奴！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "你可会做八珍汤？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "老奴会做。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "去到厨下，快快做来我用。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "啊，夫人，这八珍汤需要温火烹制，是快不得的。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "还敢多口不成！ 丫鬟领她前去。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "是，您跟我去吧。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林出门一望。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄快三眼",
+          "text": "下得堂来自思忖， 这官府规矩好不怕人。 看来做事要谨慎……"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "还不快些前去！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哦，是是是！"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "老姐姐快来吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林、常丫鬟同下。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "看这老奴，官府规矩全然不知，做上一碗八珍汤，还是这样慢腾腾的。唉！真 真的不称心呐！"
+        },
+        {
+          "character": "常夫人",
+          "type": "二黄摇板",
+          "text": "止不住心焦躁催问连声。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "丫鬟，丫鬟！八珍汤可曾做好？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常丫鬟上。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "来啦来啦。 老姐姐，夫人催下来啦。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "内白",
+          "text": "来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林上。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "急得我手忙心不定， 战战兢兢奉敬夫人。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人请用。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林将汤呈上。常夫人一看。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "我来问你，这是什么汤？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "这……这是八珍汤。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人发怒，泼汤。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人，老奴初进府来，手忙脚乱，做的不好，下次多加小心，做好就是。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "唗！胆大老奴，进得我府，手忙叫乱，做事疏忽，今日若不打你，犹恐惯了你 的下次。 丫鬟，看家法过来！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎呀，夫人不必发怒，饶恕老奴这一次吧！"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "老狗才啊！"
+        },
+        {
+          "character": "常夫人",
+          "type": "二黄摇板",
+          "text": "老奴做事不当心， 耗费夫人多少银！ 手持家法将你打——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人打。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎哟……"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "二黄摇板",
+          "text": "夫人息怒养精神。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常丫鬟向前拦阻。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "你敢是与她讲情？"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "不敢，您开恩吧。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人向孙淑林。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "你起来吧。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "是是是，多谢夫人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林起立。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "老奴，明日乃是老爷寿诞之日，命你看守仪门，倘有人前来送礼，只收礼单， 不收礼物，仔细记下了。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "是是是，老奴我记下了。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "丫鬟搀我来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常丫鬟搀常夫人同下。孙淑林一望。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "唉！我好命苦呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林哭。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "我指望到此得安稳， 又谁知落在陷人坑。 悲悲切切泪难忍——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林走小圆场。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "仪门等候送礼人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周院子上。"
+        },
+        {
+          "character": "周院子",
+          "type": "二黄摇板",
+          "text": "适才领了夫人命， 忙送寿礼到府门。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "里面哪位听事？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "你是哪里来的？"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "周通判周老爷府上的，与你家老爷送礼上寿。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哦哦，有劳了。只是我家夫人吩咐下来，只收礼单，不收礼物。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "老妈妈，别家的礼物可以不收，我家礼物是一定要收下的。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "却是为何呢？"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "我家老爷与你家老爷，乃是同乡共里，同学攻书，同榜会进，同寅作官，因此 与别家不同。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "怎么，你家老爷与我家老爷乃是同乡共里，同学攻书，同榜会进，同寅作官， 别人家礼物可以不收，你家礼物是定要收下的？"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "既然如此，待我权且收下，与你通禀。请至下面待茶。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "有劳了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周院子下。孙淑林入内。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "有请夫人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常丫鬟扶常夫人同上。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "启禀夫人：今有周府差人，前来送礼，礼物已然收下，礼单在此，夫人请看。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "怎么？你将礼物收下了。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "唗！适才怎样吩咐与你，只收礼单，不收礼物，你为何偏将礼物收下，真真大 胆！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人有所不知，来人讲的明白，他家老爷与我家老爷同乡共里，同学攻书，同 榜会进，又是同寅作官，别人家礼物不收也罢，他家礼物是要收下的，因此老 奴我这才收下了。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "哦，如此说来，你倒是个会办事的人了。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人夸奖了。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "来来来，我这把椅儿你来做吧。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "老奴不不不敢！"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "我谅你也不敢。你且近前，我有话讲。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "是。夫人有何吩咐？"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "唗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人打孙淑林嘴巴。"
+        },
+        {
+          "character": "常夫人",
+          "type": "二黄摇板",
+          "text": "老奴做事不思忖， 嘱咐言语你不遵！"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "家法伺候！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎呀夫人你、你饶恕了老奴吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林哭。"
+        },
+        {
+          "character": "常夫人",
+          "type": "二黄摇板",
+          "text": "家法一举要尔的命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人打。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎哟，哎哟，丫鬟姐快快来救救我吧。"
+        },
+        {
+          "character": "常夫人",
+          "type": "二黄摇板",
+          "text": "活活打死你这老残生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常丫鬟拦住。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "夫人不要闪了你的贵手，您就饶了她吧。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "教她起来！"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "起来，快快谢过夫人。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "老蠢才！命你去到周府，退还礼物，巳时前去，午时回转，倘若误了时刻，准 备再受一顿饱打。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "是是是，老奴我记下了。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "请夫人烧香！"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "哎呀，只顾与她怄气，忘了烧香。 阿弥陀佛！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人、常丫鬟同下。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎呀，好个吃斋的善人呐！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "我与你哪里结仇恨， 苦苦打我为何情？ 浑身上下痛难忍——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林出门，周院子上。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "你害了我了。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "皆因礼物受苦刑。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "老妈妈此话从何说起？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "只因你要我收下你家礼物，怒恼我家夫人，将我饱打一顿，如今还要我到你家 退还礼物去呢。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "这倒委屈你了。如此你就随我去吧。"
+        },
+        {
+          "character": "周院子",
+          "type": "二黄摇板",
+          "text": "老妈妈不要放悲声， 随我去见周夫人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周院子、孙淑林同走圆场。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "老妈妈请到那边稍待。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林下。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "有请夫人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周丫鬟、周夫人同上。"
+        },
+        {
+          "character": "周夫人",
+          "type": "念",
+          "text": "锦堂春富贵，画阁日光辉。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "参见夫人。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "罢了，寿礼可曾收下？"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "常夫人不肯受礼，差一老妈妈前来退礼，现在外厢伺候。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "啊？常府差人前来退礼？ 下面歇息去吧。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周院子下。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "丫鬟，唤那老妈妈进来。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "是，老妈妈在哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林上。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "哟，原来是位老姐姐呀！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "好说，原来是位丫鬟姐，我是个外乡人，不懂衙门规矩，望丫鬟姐指教一二！"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "不要紧，我们夫人是吃斋的。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哦，怎么又是一个吃斋的么？"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "你别害怕，我们夫人是个吃斋的真善人，可不像人家老虎戴素珠，假充善人啊。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎，我偏偏又遇着一个吃斋的。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "随我进来吧。 见过夫人。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "是，老奴与夫人叩头。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "罢了，快快起来。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "谢夫人。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "老妈妈，你家夫人因何教你前来退礼？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "这……我家夫人吩咐于我，只收礼单，不收礼物；只因贵府院公言道：周老爷 与我家老爷交好甚厚，是我将礼物收下，我家夫人道我擅自做主，故此命我前 来退礼。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "原来如此。听你之言，不像此地人氏。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "老奴乃是山西平阳府人氏。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "哦，老妈妈你是山西平阳人么？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "因何来在洛阳，怎样身入常府？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "这……唉！一言难尽呐……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林哭。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "啊？看你这样哭哭啼啼，其中定有缘故，你家住哪里，姓甚名谁，有什么为难 之处，说将出来，夫人与你做主。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "老姐姐，你有什么心事，只管说吧，我家夫人会给你做主呐！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人容禀。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "尊声夫人听我禀， 柳川巷里是我家门。 我夫名叫张文达……"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "张文达？ 且住！想当初母亲言道，我丈夫本是张文达之后，孙淑林之子，方才言道，丈 夫名叫张文达，莫非她是婆婆来了么？唉！我想天下同名之人甚多，我倒要仔 细问个明白。 老妈妈，你叫什么名字？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "这……老奴无有名字的。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "老妈妈，人生在世，哪有没有名字的呀，你怎么不说呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林轻声。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "我说出来，夫人不会责打我么？"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "干吗责打你呀，我不早告诉你了吗，我们夫人是个吃斋的善人，有什么话你只 管说吧。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哦，是是是。夫人呐！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄碰板三眼",
+          "text": "老奴名叫孙淑林。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小拉子。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "孙淑林！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林惊慌失色。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "丫鬟，与老妈妈看座。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "老姐姐您坐下吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林惊愕。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "叫哪个坐下？"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "叫您坐下。坐下吧。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "老奴不敢。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "老姐姐您怎么这样外道，我们夫人让您坐下，您就坐下吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林坐，触伤处，孙淑林感苦痛。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "丫鬟姐，你请坐吧。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "您不用让，我啊，站惯啦。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "多谢夫人。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "你丈夫作何生理？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "我丈夫自幼把书念， 一十五岁身入黉门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小拉子。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "夫人，这位老姐姐他还是位秀才夫人呐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周夫人随口应声。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "原来是位秀才夫人，失敬了。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "折杀老奴了。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "丫鬟，将座位往上升。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "老姐姐，您请起来，我们夫人请你上坐，来，您请上坐吧。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎呀呀！丫鬟姐，我、我、我是断断的不敢坐。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "坐了好讲话。 丫鬟，往上升一升。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "老姐姐，您怎么这么唠叨，请上坐您就上坐，不就完啦吗！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周丫鬟推，孙淑林恐再触伤处，急以手护之。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "多谢夫人。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "你丈夫往哪里去了？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "唉！我丈夫么——"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "都只为求功名把京城奔， 借了周、常二家银。 一去数载无音信， 撇下母子三个人。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "周、常两家的银子还了无有？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "周、常两家把债讨， 无有银钱就抢人。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "啊，清平世界，哪有抢人之理，我来问你，抢去何人？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "常家抢去朱砂贯， 周家抢去孔凤缨，我那小娇儿啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小拉子。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "老妈妈，这就不对了，你丈夫既然姓张，两个儿子，因何一个姓朱，一个姓孔 呢？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人，朱砂贯、孔凤缨乃是他二人的乳名啊！"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "哦，原来如此。我来问你，抢去之后便怎么样呢？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人呐！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "朱砂贯改名常天保——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小拉子。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "丫鬟，快去倒杯茶来！"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周丫鬟下。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "啊，妈妈，那孔凤缨呢？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "孔凤缨改名周子卿。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "你因何来到此地？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "皆因是平阳遭荒旱， 独自寻夫奔京城。 到此不幸身染病， 欠下了店饭银，无奈何自卖自身，竟做了常府仆人。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "常家待你如何？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "指望卖身求安稳， 偏遇狠心常夫人。 进门将我打一顿， 受礼的事儿不容情。 夫人若是不肯信——"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人请看呐！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "我浑身上下尽伤痕。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "周夫人",
+          "type": "二黄摇板",
+          "text": "听罢言来心难忍， 果然是婆婆受苦情。 忙上前去将她认——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周丫鬟捧茶上。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "夫人，茶来了。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "放下。"
+        },
+        {
+          "character": "周夫人",
+          "type": "二黄摇板",
+          "text": "待老爷回府后商议而行。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "老妈妈你先回去，侯我老爷回衙，差人接你到这里吃碗安乐茶饭就是了。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "若得如此，夫人恩德真同再造。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "罪过了。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "辞别夫人出府门——"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "看看过了午时辰。 回去又是一顿打，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林回身。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人呐！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "望夫人救我命残生。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "老妈妈，你因何去而复返？"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎呀夫人呐！临行之时我家夫人言道，巳时去午时回。如今日已过午，回去定 是一顿饱打，教我怎能经受得起呀……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林哭。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "这……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周夫人想。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "丫鬟，昨日常夫人命人前来剔取花样，可曾拿去？"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "还没有拿去呐。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "快快取来。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周丫鬟取花样。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "花样在此。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "老妈妈现有花样在此，回去若是你家夫人问你为何误了时刻，你就说我要你在 此等候剔取花样，她就不会打你了。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "多谢夫人。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "多谢夫人施恻隐， 设计搭救我老残生。 我若是苟延得活命——"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "我家夫人送您呐。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "夫人呐！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄摇板",
+          "text": "不忘夫人再造恩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林下。"
+        },
+        {
+          "character": "周子卿",
+          "type": "内白",
+          "text": "开道回衙！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四衙役引周子卿同上。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "退下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四衙役同下。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "啊，夫人！"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "啊，老爷！"
+        },
+        {
+          "character": "周子卿、周夫人",
+          "type": "同白",
+          "text": "请坐。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "啊，夫人为何长叹？"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "请问老爷，你是何人所生，何人所养？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "这……实不相瞒，下官本是张家所生，周家所养。只是堂前父母言道，生身父 母早已亡故。夫人因何问起？"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "老爷呀！只因明日乃常老爷寿诞之期，为妻备有寿礼，派人送去，不想常夫人 差一老妈妈前来退礼，是我问起情由，谁知她就是……"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "是哪一个？"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "就是孙淑林……"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "我的婆母，你的亲娘。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "啊，此事有何为证？"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "老爷呀！"
+        },
+        {
+          "character": "周夫人",
+          "type": "二黄散板",
+          "text": "她言道朱砂贯改名常天保， 孔凤缨改名周子卿。 母亲受苦你不问， 问什么证来要什么凭！"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄散板",
+          "text": "听说母亲受苦情， 怎不教人痛伤心。 辞别夫人出府门——"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄散板",
+          "text": "去到常府认娘亲。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周院子暗上。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "老爷何不先差院公，将老母接回，倘若兄嫂不允，再去不迟。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "夫人言之有理。 院公，拿我名帖，去到常府，接那退礼的老婆子过府叙话。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周院子下。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "夫人，若是母亲还则罢了，倘若不是，倒被他人耻笑。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "纵然不是母亲，接她来此吃碗安乐茶饭，也是老爷恤老怜贫一片好心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周院子上。"
+        },
+        {
+          "character": "周院子",
+          "type": "白",
+          "text": "启禀老爷：常老爷应允了，常夫人不让她来。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "啊？有这等事？"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "老爷不要性急，明日亲自前去，就以拜寿为名，探听明白，再作道理。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "夫人言得极是，下官明日亲自前往。唉！"
+        },
+        {
+          "character": "周子卿",
+          "type": "念",
+          "text": "但愿是我亲生母，"
+        },
+        {
+          "character": "周夫人",
+          "type": "念",
+          "text": "骨肉分离又团圆。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常天保上。"
+        },
+        {
+          "character": "常天保",
+          "type": "念",
+          "text": "洛阳为府尹，四品位称尊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常院子暗上。"
+        },
+        {
+          "character": "周子卿",
+          "type": "内白",
+          "text": "周老爷到。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周子卿上。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "兄长。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "贤弟！"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "兄长在上，小弟拜寿。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "愚兄叨礼了。 请坐。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "有座。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周子卿两望。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "贤弟看什么？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "兄长府上，新买的那个老婆子，如今何在？"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "你问她做甚？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "你道那老婆子她是何人？"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "倒也不知。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "乃是我的亲……"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "噤声！ 退下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常院子下。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "亲什么？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "是我的亲娘孙淑林！"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "啊？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "也是你的生身之母。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "唗！慢说你我亲生父母早已亡故，纵然还在，如今堂上双亲均已身受皇封诰命， 难道你我还能认姓归宗不成！况且身为命官，怎能以仆作母，此事幸在为兄 府内说起，若被外人知道，那还了得！哼！真真不知体统。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "兄长此言差矣。常言道：“木发有根，水发有源。”我等身虽富贵，若是忘却 根本，岂不成了衣冠禽兽！"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "衣冠禽兽。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "常天保",
+          "type": "二黄散板",
+          "text": "奴才说话礼不逊， 全不顾王法与官箴！ 辱骂为兄实难忍， 从此后不认你周子卿。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "住了！"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄散板",
+          "text": "亲生之母你不敢认， 说什么王法与官箴。 此处不与你辩论！"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄散板",
+          "text": "都察院内把理评。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "怕你不成！"
+        },
+        {
+          "character": "常天保",
+          "type": "二黄散板",
+          "text": "都察院我要将你禀， 你玷污尊长罪非轻。"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄散板",
+          "text": "向前扯住常天保，"
+        },
+        {
+          "character": "常天保",
+          "type": "二黄散板",
+          "text": "反手扯住周子卿。"
+        },
+        {
+          "character": "周子卿、常天保",
+          "type": "同二黄散板",
+          "text": "你与我同把察院奔——"
+        },
+        {
+          "character": "周子卿、常天保",
+          "type": "同白",
+          "text": "走走走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周子卿、常天保同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、四校尉引张文达同上。"
+        },
+        {
+          "character": "张文达",
+          "type": "引子",
+          "text": "出仕朝堂，奉君命，巡查洛阳。"
+        },
+        {
+          "character": "张文达",
+          "type": "念",
+          "text": "二十年前别故乡，一朝显达姓名扬。虽然富贵人尊仰，子散妻离两发苍。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "只因大比之年，进京赴试，不幸落第，因居京都十有余载，家乡荒旱，妻儿俱 无下落。且喜得中二甲进士，今蒙圣恩，出放河南八府巡按。巡查上三府官清 民顺；下五府正待查访。为此牌放洛阳，设堂理案。 中军！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "传话下去：一府三厅，俱予免见。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "遵命。 下面听着：大人吩咐下来，一府三厅，均予免见。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内击鼓声。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "何人击鼓？"
+        },
+        {
+          "character": "常天保",
+          "type": "内白",
+          "text": "知府参通判。"
+        },
+        {
+          "character": "周子卿",
+          "type": "内白",
+          "text": "通判告知府。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "候着。 启禀大人：知府参通判，通判告知府。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "吩咐下去：知府报门而入，通判跪门而进。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "大人有令：知府报门而入，通判跪门而进。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常天保、周子卿同上。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "报，洛阳知府常天保告进。 卑职常天保，叩见大人。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "请——免——打躬。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "嗯！胆大洛阳知府，有事自应禀报，为何擅击堂鼓？讲！"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "知府参通判。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "参他何来？"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "通判周子卿，仓库不紧，漏落皇粮，大人查出，吃罪不起。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "可是实情？"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "句句实情。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "下官厅待传。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "谢大人。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "请——免——仪门打躬。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "周子卿，你要小心了。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "凭着这顶乌纱与你拼了。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常天保下。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "通判跪门而进。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "报，通判周子卿告进。 叩见大人。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "唗！胆大通判，知府参你仓库不紧，漏落皇粮，你可知罪？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "通判无罪，特来越告知府。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "嗯！你是何出身，怎敢越告知府？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "通判与知府乃是同寅进士出身。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "告他何来？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "知府买母为奴，有欺天灭伦之罪。望求大人做主。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "哎呀，好大的由头，不管谁家母，哪家奴，你家住哪里，姓甚名谁？一一讲来。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "大人容禀。"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄散板",
+          "text": "家住山西平阳郡， 柳川巷里有家门。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "可有父母？"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄散板",
+          "text": "我父名叫张文达，"
+        },
+        {
+          "character": "四校尉",
+          "type": "同白",
+          "text": "哦！"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "容他讲。 脸朝外跪。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "你母何名？"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄原板",
+          "text": "我的母名唤孙淑林。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "哦，你父作何生理？"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄原板",
+          "text": "我父求名把京奔， 借了周、常两家银。 周、常两家把账讨， 无有银钱便抢人。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "抢去哪个？"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄原板",
+          "text": "常家抢去朱砂贯， 周家抢去孔凤缨。 朱砂贯改名常天保， 孔凤缨改名周子卿。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "你母亲呢？"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄原板",
+          "text": "母亲寻父遭病困， 卖身常府受苦情。 天保不肯把母认， 反道我仓库不紧，漏落皇粮，诬告我在公庭。 这顶乌纱我不要——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周子卿取下纱帽。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "大人呐！"
+        },
+        {
+          "character": "周子卿",
+          "type": "二黄散板",
+          "text": "一心要认老娘亲。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄散板",
+          "text": "听罢言来才知情， 原来是两个小娇生。 人来传上常天保，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常天保上。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "参见大人。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "起过一旁。"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄散板",
+          "text": "再把中军叫一声。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "中军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张文达向中军耳语。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "中军下。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "周子卿。"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄散板",
+          "text": "这顶乌纱你戴定， 我保你母子相逢在察院门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周子卿戴帽站起。〖急急风〗。中军带孙淑林同上，孙淑林惊疑不定，进衙。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "孙淑林带到。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "抬起头来。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "有罪不敢。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "恕你无罪。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "谢大人。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "掩门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士、校尉、中军同下。"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄散板",
+          "text": "一见夫人到来临， 好似钢刀刺我心。 走上前来忙跪定，"
+        },
+        {
+          "character": "周子卿、常天保",
+          "type": "同白",
+          "text": "啊？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周子卿、常天保见状，各跪下，周子卿惊喜，常天保战栗。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "问声老爷你、你、你是何人？"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄散板",
+          "text": "夫人不必胆战惊， 我是你丈夫张文达你仔细认清。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周子卿、常天保一怔。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "你、你、你是张文达？"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "张文达。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "张秀才？"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "张秀才。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "唉！夫啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林哭。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "二十载因何无有音信， 难道说忘却了夫妻之情。"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄原板",
+          "text": "我也曾寄过了平安信， 我也曾捎过了安家银。 下书人回来对我论， 他言说山西省，遭荒旱，树无有枝、草无根、不知你母子何处存身，无处找寻！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "我何曾见过你平安信， 我何曾见过你安家银？ 别的话儿我不问， 问一声、丹墀下、跪定了、二位长官、头戴乌纱、身穿大红、他是何人？"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄原板",
+          "text": "这就是长子朱砂贯， 那就是次子孔凤英，两个娇生。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "夫荣子贵如梦境， 骨肉团圆喜在心。 长子哪里为官宦， 次子何处管黎民？ 老爷你身授是何任， 一一从头说与我听。"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄原板",
+          "text": "长子洛阳为知府， 次子通判管黎民。 老夫身授都察院， 父子三人进士出身。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄原板",
+          "text": "听罢了这番话暗自称庆， 不枉我受苦二十春。 急忙忙下堂去把娇儿来认——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "小拉子。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "母亲。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "你是何人？"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "孩儿朱砂贯。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哦，你是常天保？"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "常大老爷。"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "孩儿知罪。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "好奴才！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "不孝的奴才骂几声！ 你纵妻虐母心毒狠， 把为娘当做了陌路人。 狠心肠不把长子认——"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "母亲。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "你是何人？"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "孩儿孔凤缨。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "儿就是周子卿。"
+        },
+        {
+          "character": "周子卿",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎呀，儿啊！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "孝顺还是我那二娇生。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周子卿起立。"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄散板",
+          "text": "难怪夫人喜又恨， 一母同胞两条心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张文达向常天保。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "奴才呀！"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄散板",
+          "text": "你纵妻虐母该何罪？"
+        },
+        {
+          "character": "常天保",
+          "type": "白",
+          "text": "爹爹呀！"
+        },
+        {
+          "character": "常天保",
+          "type": "二黄散板",
+          "text": "饶恕儿无知不孝人。"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄散板",
+          "text": "奴才做事实可恨！"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "夫人呐！"
+        },
+        {
+          "character": "张文达",
+          "type": "二黄散板",
+          "text": "念他无知发落从轻。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "老爷讲情我遵命， 再把奴才叫一声。 为人怎能忘根本，"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "儿啊！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "从今后儿必须改过自新。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常天保起立。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "后面更衣。 （〖吹打〗。周子卿扶孙淑林同下，周夫人、周丫鬟、常夫人、常丫鬟同上。孙淑林换官衣、周子卿扶上， 与张文达对坐。常天保、周子卿示意常夫人、周夫人参见张文达。）"
+        },
+        {
+          "character": "周夫人、常夫人",
+          "type": "同白",
+          "text": "公爹在上，媳妇拜见。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "罢了。见过儿的婆母。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人趑趄不前，常天保暗中催促。常夫人迟钝。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "婆母在上，媳妇拜见。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人跪下。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林转过身去。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "婆母在上，媳妇拜见。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周夫人跪下。孙淑林笑容满面。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "哎呀，贤孝的儿媳，快快起来。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "多谢婆婆。 （周夫人起立，向常天保示意，请代讲情，常天保拂袖不理。周夫人暗中将家法递过，示意常夫人向婆母请 罪。）"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "婆母，媳妇无知，多有得罪，特此头顶家法，望求婆母高抬贵手，责打媳妇几 下，以赎前罪。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林不理。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "婆母，嫂嫂虽然不是，如今已知悔过，还望婆婆看在媳妇面上，多多宽恕，教 训与她才是。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "好好，待我教训于她！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二黄行弦。孙淑林取过家法，颤抖地站起来。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "啊，你、你、你这狠心的……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林举家法欲打。"
+        },
+        {
+          "character": "常天保、常夫人",
+          "type": "同白",
+          "text": "（母亲）（婆母）！"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林打不下去，沉痛。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "媳妇啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林拭泪，搀起常天保、周子卿、周夫人。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "二黄散板",
+          "text": "霎时间不由我万感交迸， 止不住心酸痛老泪淋淋。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "唉！媳妇，非是为娘与你生气，这衙内家人使女甚多，从今以后，必须好好看 待他们，若是再像对为娘这样么……唉！我也就不必讲了啊……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙淑林拭泪。"
+        },
+        {
+          "character": "常丫鬟",
+          "type": "白",
+          "text": "哎哟，老太太，您这话说的真圣明。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "媳妇一定改过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周丫鬟学常夫人。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "媳妇一定改过。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "周夫人制止。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "嗯！ 起来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人迟疑。"
+        },
+        {
+          "character": "周夫人",
+          "type": "白",
+          "text": "嫂嫂起来吧。"
+        },
+        {
+          "character": "常夫人",
+          "type": "白",
+          "text": "多谢婆母。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "常夫人起立。周丫鬟学常夫人。"
+        },
+        {
+          "character": "周丫鬟",
+          "type": "白",
+          "text": "多谢婆母。"
+        },
+        {
+          "character": "周子卿、常天保",
+          "type": "同白",
+          "text": "孩儿要认姓归宗。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "待为父与儿等同修本章，奏明圣上。"
+        },
+        {
+          "character": "周子卿、常天保",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": "张文达",
+          "type": "白",
+          "text": "今日一家团圆，后堂设宴欢聚。夫人，你来看："
+        },
+        {
+          "character": "张文达",
+          "type": "念",
+          "text": "一门三进士，"
+        },
+        {
+          "character": "孙淑林",
+          "type": "念",
+          "text": "枯木喜逢春。"
+        },
+        {
+          "character": "周子卿",
+          "type": "念",
+          "text": "富贵休忘本，"
+        },
+        {
+          "character": "常天保",
+          "type": "念",
+          "text": "为人莫欺心。"
+        },
+        {
+          "character": "孙淑林",
+          "type": "白",
+          "text": "好啊，好一个“为人莫欺心”！来呀，哈哈哈…… （常天保、周子卿同搀扶张文达，常夫人、周夫人、周丫鬟、常丫鬟同搀扶孙淑林，常夫人触及孙淑林伤处， 急缩手，孙淑林忍痛含笑，示意不妨。众人同下。）"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

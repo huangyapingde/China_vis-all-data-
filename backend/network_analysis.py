@@ -265,7 +265,7 @@ def main():
     # 1. Load all scripts
     print("\n[1/8] Loading scripts...")
     scripts = []
-    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "*.json"))):
+    for fpath in sorted(glob.glob(os.path.join(DATA_DIR, "**/*.json"), recursive=True)):
         with open(fpath, "r", encoding="utf-8") as f:
             scripts.append(json.load(f))
     print(f"  Loaded {len(scripts)} scripts")

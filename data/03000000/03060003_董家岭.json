@@ -1,0 +1,1449 @@
+{
+  "script_id": "03060003",
+  "title": "董家岭",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "赵匡胤",
+      "hangdang": "红生"
+    },
+    {
+      "name": "郑子明",
+      "hangdang": "净"
+    },
+    {
+      "name": "柴荣",
+      "hangdang": "老生"
+    },
+    {
+      "name": "董达",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "赵匡胤与柴荣结拜，同往关西贩伞。遇董家桥有董家五虎称霸，强收行人税，便起厮打。时郑子明卖油，见\n状助之，杀死五虎全家。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣上。"
+        },
+        {
+          "character": "柴荣",
+          "type": "引子",
+          "text": "一身漂流，何日里，帷幄运筹。"
+        },
+        {
+          "character": "柴荣",
+          "type": "念",
+          "text": "世人结交须黄金，黄金不多交不深。虽然江湖如易客，终日常存行路心。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "俺，姓柴名荣字子耀。祖籍沧州横海郡人氏。自幼不幸父母早亡，是俺流落江 湖，贩伞为生。前日行在平定州，遇见赵匡胤，俺和他结为金兰，同往关西贩 货。看今日天气清和，不免唤他出来一同趱路。 有请赵贤弟！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "大闹汴梁骑泥马，酒后愤怒御乐杀。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊大哥！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "贤弟请坐！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "有坐。唤弟出来，有何话讲？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "贤弟，今日天气清和，正好往关西贩伞，请贤弟出来一同上路。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "言之有理。 店家哪里？"
+        },
+        {
+          "character": "店家",
+          "type": "内白",
+          "text": "啊哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店家上。"
+        },
+        {
+          "character": "店家",
+          "type": "念",
+          "text": "开店之家要公平，殷勤招待过往人。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "啊客人，敢是要用酒饭吗？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "不用。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "算清店钱，我们要上路了。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "二位客人昨日到此，一天一夜连饭钱共计纹银二钱六。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "店饭钱在此。我们的车子呢？"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "车子在这儿。待我开了店门。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店家开门。"
+        },
+        {
+          "character": "店家",
+          "type": "白",
+          "text": "二位客人回来再见。少陪啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "店家下。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "啊贤弟，此去关西路上，比不得东京汴梁，须要留心在意！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊大哥，有道是：大英雄到处不怕人。大哥，看天已正午，就此趱行者！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "尊兄长放宽心听我细讲， 大丈夫行天下都为故乡。"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "每日间走天涯奔波来往， 弟兄们贩雨伞哪顾奔忙。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "趱行啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣、赵匡胤同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董达上。〖点绛唇〗。"
+        },
+        {
+          "character": "董达",
+          "type": "念",
+          "text": "不怕王法不拜禅，杀人劫抢当笑谈。自称五虎开黑店，霸占关西人胆寒。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子暗上。"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "俺，姓董名达字天举。我兄妹六人，都有一身武艺，在董家岭开了一座黑店， 又霸住董家桥，私收官税银子。今乃收税之期，不免请妹子出来商榷。 来！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "请姑娘出堂！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请姑娘！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫鬟引董美英同上。"
+        },
+        {
+          "character": "董美英",
+          "type": "念",
+          "text": "自幼高山学论兵，全凭刀马韬略精。"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "兄长！"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "贤妹请坐！"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "有坐。唤小妹出来，有何话讲？"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "贤妹，今乃收税银之期，店内之事，烦劳照管。"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "兄长放心前去。店内之事，有我承当。"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "全仗贤妹。 来，有请众位英雄！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有请众位英雄！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子下。"
+        },
+        {
+          "character": "董福、董禄、董寿、董喜",
+          "type": "内同白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董福、董禄、董寿、董喜同上。"
+        },
+        {
+          "character": "董福、董禄、董寿、董喜",
+          "type": "同念",
+          "text": "弟兄开店董家岭，拳棒威名霸一方。"
+        },
+        {
+          "character": "董福、董禄、董寿、董喜",
+          "type": "同白",
+          "text": "参见大哥！有何吩咐？"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "随俺往董家桥收取税银去者！"
+        },
+        {
+          "character": "董福、董禄、董寿、董喜",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董达、董福、董禄、董寿、董喜同下"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "丫鬟，有请大奶奶！"
+        },
+        {
+          "character": "丫鬟甲",
+          "type": "白",
+          "text": "有请大奶奶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董妻上。"
+        },
+        {
+          "character": "董妻",
+          "type": "念",
+          "text": "昨夜一梦好蹊跷，眼跳心惊为哪条？"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "嫂嫂！"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "妹妹！请坐！"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "嫂嫂请坐"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "妹妹，请为嫂出来，有什么事吗？"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "嫂嫂，今乃姑母寿诞之期，可要前去拜寿？"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "啊对啦，今儿个是六月十三，东庄姑妈的生日。叫庄丁备了寿礼，妹妹同丫鬟 前去。为嫂有些心事，我不去啦。"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "啊嫂嫂，你有什么心事？"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "我昨夜三更偶得一梦，甚是凶险，所以懒得出门。"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "嫂嫂得何梦兆？"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "我梦见你哥哥与一条金龙、一条火龙争斗，你哥哥将两条龙打倒在地，忽然打 水里跳出一条黑龙，将你哥哥一口咬住，把妹妹你一抓，也抓在水中，不知是 什么缘故？"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "嫂嫂，想我们在此久住多年，谁人不知？我们不去欺人，有谁敢来找咱们！"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "只因你那哥哥在此开设黑店，霸占董家桥，私收官税，人称“董家五虎”，将 来难免要碰见吃生米的。"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "嫂嫂既然不去，待小妹前去上寿。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "为嫂在家看守店房。 丫鬟们！"
+        },
+        {
+          "character": "四丫鬟",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "准备寿礼，与东庄姑老太太祝寿，一路之上，须要小心。"
+        },
+        {
+          "character": "四丫鬟",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "备礼伺候！"
+        },
+        {
+          "character": "四丫鬟",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫鬟、董美英、董妻自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "柴荣",
+          "type": "内白",
+          "text": "趱行！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣上。"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "弟兄双双登路道， 六月炎天似火烧。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "看看红日归西岛， 仁兄不走为哪条？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "仁兄，天已过午，为何不走？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "前面已是董家桥，愚兄交纳税银。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "仁兄，这董家桥是哪部官员在此收税？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "并非官员在此，乃董家五虎霸占此桥，每逢客商打此经过，必须留银十两。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊？他可有圣上的旨意？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "无有。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "六部的公文？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "也无有。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "兄长，我想一无圣旨，二无公文，交什么税银！少时过桥，你就说今年雇了伙 计，银子在他身上，你在前面等俺，待弟打发他等。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "啊贤弟，不要闯出祸来！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "呃！有什么大事，我一人承当。你只管放大胆过桥！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "全仗贤弟！"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "只怕平空起波浪，"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "天大之祸俺承当。"
+        },
+        {
+          "character": "柴荣、赵匡胤",
+          "type": "同白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤、柴荣同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "场设斜桥。董达、董福、董禄、董寿、董喜同上。"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "众家兄弟，趱行者！"
+        },
+        {
+          "character": "董福、董禄、董寿、董喜",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。董福、董禄、董寿、董喜同上，同过桥，同下。"
+        },
+        {
+          "character": "董达",
+          "type": "笑",
+          "text": "哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董达过桥，下。丑院子上，坐下场门。柴荣上。"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "两脚慌忙往前进， 问我一言答一声。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "啊，掌家请了！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "啊柴客人，今年为何来迟啦？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "风雨阻路，故尔来迟。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "拿来！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "什么？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "过桥税银。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "掌家，实不相瞒，今年本钱缺少，愚下搭了个伙伴，盘费银两在他身上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "啊！你搭了伙伴啦，银子在他身上。我问你；你伙伴姓什么？叫什么？长的什 么样儿呀？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "姓赵，是一红脸大汉。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "红脸大汉，在哪儿哪？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "在后头，每年到此买伞，从来无有撒谎。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "那么，你先过去吧。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣下。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "天已正午，就来一个上税的，银子又在伙计身上。今儿个，这个买卖又不行啦！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "站住！你往哪儿去？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "过桥追赶伙计。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "你是追赶买伞的那个姓柴的吗？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "你可姓赵？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "俺姓赵。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "拿来！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "拿什么？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "税银！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "多少？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "十两。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "唔，不多。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "本来的不多嘛！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "拿来！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "拿什么？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "圣上旨意！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "没有。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "六部公文？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "也没有。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "一无圣旨，二无公文，要什么税银？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "哈哈！对你实说了吧；我家主人名叫董达，弟兄在此称为五虎，霸占此桥。不 管大小客人，过桥的一律留银十两。拿出银子便罢；"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "若无银子，便怎么样？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "就要你的命！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "着打！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "嘿，这下儿等着啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子跑下。赵匡胤追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董达、董福、董禄、董寿、董喜同上。"
+        },
+        {
+          "character": "董达、董福、董禄、董寿、董喜",
+          "type": "同念",
+          "text": "霸占董家岭，收取过往银。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子上。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "众位大爷，不好啦！"
+        },
+        {
+          "character": "董达、董福、董禄、董寿、董喜",
+          "type": "同白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "贩伞的柴客人不给税银，有个红脸大汉，打了我个嘴巴，他赶来啦。"
+        },
+        {
+          "character": "董达、董福、董禄、董寿、董喜",
+          "type": "同白",
+          "text": "有这等事！打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董达、董福、董禄、董寿、董喜同走圆场，赵匡胤上。"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "呔！你是何人？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "赵太爷在此！"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "着打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董达、董福、董禄、董寿、董喜与赵匡胤同打下。柴荣上。"
+        },
+        {
+          "character": "柴荣",
+          "type": "唱",
+          "text": "耳旁听得人呐喊，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "哪怕虎穴与龙潭。"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "贤弟来了！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "大哥，那厮追赶来了。将车放在黄家坡，随俺上前！ （董达、董福、董禄、董寿、董喜同上，同起打。赵匡胤、柴荣同败下，董达、董福、董禄、董寿、董喜同 追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丑院子挑担上，四丫鬟引董美英同上。"
+        },
+        {
+          "character": "董美英",
+          "type": "唱",
+          "text": "自幼儿在仙山习学本领， 习兵书与战策颇有才能。 心怀恨奴兄长为人不正， 空负了凌云志未遇明君。"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "趱行啊！"
+        },
+        {
+          "character": "四丫鬟",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明上。"
+        },
+        {
+          "character": "郑子明",
+          "type": "唱",
+          "text": "浪荡江湖东西奔， 好似孤雁宿寒林。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "俺、郑子明。乃山西乔山县人氏。流落江湖，卖油为生，倒也无拘无管。来在 这个关西平定州，在油店居住。这几日天降大雨，无有买卖，今日天气放晴， 且拿了油罐，去到御河刷洗刷洗！"
+        },
+        {
+          "character": "郑子明",
+          "type": "唱",
+          "text": "一路不顾山川景， 两腿奔走如飞鹰。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（柴荣、赵匡胤同上，董达、董福、董禄、董寿、董喜同追上，同起打。柴荣、赵匡胤同败下，董达、董福、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "董禄、董寿、董喜同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明上。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "来此御河，待咱刷洗刷洗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖内呐喊声〗"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "哪里人声呐喊？待咱登高一望。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明登高。柴荣、赵匡胤同上，董达、董福、董禄、董寿、董喜同上，过场，同下。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "且住！看董达这个驴球日的，又在那里欺负老实人。前日也有一算命先生，叫 做苗广义，说咱六月十三在董家桥遇一红脸大汉就是皇帝，叫咱救驾。俺且不 管他黄帝、白帝，前去打个抱不平。啊，手中无有东西——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明四望。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "那边有颗酸枣树——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明拔树。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "就是这个。 呔，董达休要撒野，老子来了！ （郑子明下。柴荣、赵匡胤同上，董达、董福、董禄、董寿、董喜同上，同起打，柴荣，赵匡胤同败下。郑 子明上，接打，董达、董福、董禄、董寿、董喜同败下，郑子明追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫鬟、董美英同上。〖牌子〗。董达、董福、董禄、董寿、董喜同上。"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "兄长为何这等光景？"
+        },
+        {
+          "character": "董达、董福、董禄、董寿、董喜",
+          "type": "同白",
+          "text": "红、黑二汉十分骁勇！"
+        },
+        {
+          "character": "董美英",
+          "type": "白",
+          "text": "一同打上前去！ （郑子明上，起打，董达、董福、董禄、董寿、董喜同败下。郑子明、董美英同接打，董美英败，郑子明羞 董美英，董美英跑下。柴荣、赵匡胤同上。）"
+        },
+        {
+          "character": "柴荣、赵匡胤",
+          "type": "同白",
+          "text": "有劳壮士搭救，请问大名？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "咱叫郑子明。苗广义叫咱在此救驾。你们姓什么？"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "在下柴荣。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "在下赵匡胤。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "你就是姓赵么？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "你就是皇帝老子？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "不要胡言！"
+        },
+        {
+          "character": "柴荣",
+          "type": "白",
+          "text": "天色已晚，恐怕那贼追来，且寻个店房安住，慢慢再叙。"
+        },
+        {
+          "character": "赵匡胤、郑子明",
+          "type": "同白",
+          "text": "言之有理。走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣、赵匡胤、郑子明同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫鬟、董美英同上，董达、董福、董禄、董寿、董喜同上，过场，同下。柴荣、赵匡胤、郑子明同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "来此旅店。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "待咱前去叫门。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊！你赤身露体，如何进去？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "咱的衣服被水冲去了。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "有衣服在此，你且穿上。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "皇帝老子的衣服，咱就穿上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊！有人么？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董妻上。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "来啦！ 店小二不知哪儿去啦，一个人也没有。 是谁呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董妻开门。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "原来是三位客人，敢是住店的？"
+        },
+        {
+          "character": "柴荣、赵匡胤、郑子明",
+          "type": "同白",
+          "text": "正是。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "三位请进！"
+        },
+        {
+          "character": "柴荣、赵匡胤、郑子明",
+          "type": "同白",
+          "text": "带路！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣、赵匡胤、郑子明、董妻同进门。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "三位请坐！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "店主人，你先去将门关上，再来讲话。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "关了门再说话？啊，是啦，怕要账的追上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董妻关门。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "关上门啦。客官为何这等惊慌？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "店主人，只因董家五虎拦路要税，还有个小妹子在前面行凶。叫我们三个人将 那些王八日的都打跑了。天色已晚，肚中又饿了，故尔来此，这全是实话。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "噢！原来如此。这里来！西边有个小院儿，里面有房，少时饭食就得，我叫店 小二拿灯来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣、赵匡胤、郑子明同下。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "哈哈！我当家的不听我劝，可遇见吃生米的啦！幸亏在我们店内，此仇可报， 等当家的回来再拿主意。这三人好比飞蛾，自来投火。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫鬟、董美英、董达、董福、董禄、董寿、董喜同上。"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "哎呀，罢了啊罢了！"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "当家的，今日上税的买卖好啊？"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "不要提起，被三个汉子打得乌焦巴黑。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "别嚷，这三人都住在咱们店里啦。"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "哦，他三人来了？"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "当家的，我告诉你——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明暗上，偷听。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "一个白脸的，一个红脸的，还一个黑脸的是个老西儿，就是他的样儿特别，两 只眼一个大、一个小，看光景，他光着眼子穿了空心大褂，对不对？"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "嗯，正是。现在哪里？"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "在西小院住着哪。"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "待我杀他。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "别忙！等我用酒将他们灌醉，先拿那黑脸的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑子明下。"
+        },
+        {
+          "character": "董达",
+          "type": "白",
+          "text": "小心了！"
+        },
+        {
+          "character": "董福、董禄、董寿、董喜",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四丫鬟、董美英、董达、董福、董禄、董寿、董喜、董妻同下。郑子明上。"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "二位哥哥快来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣、赵匡胤同上。"
+        },
+        {
+          "character": "柴荣、赵匡胤",
+          "type": "同白",
+          "text": "何事？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "了不得了！咱们跑到贼窝子来了！"
+        },
+        {
+          "character": "柴荣、赵匡胤",
+          "type": "同白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "郑子明",
+          "type": "白",
+          "text": "方才那女人就是董达的老婆，两口子商量要拿咱们，幸亏被我听见了。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "不要匆忙！且待用过酒饭，再去杀那些狗男女。"
+        },
+        {
+          "character": "柴荣、郑子明",
+          "type": "同白",
+          "text": "好。 店主人！"
+        },
+        {
+          "character": "董妻",
+          "type": "内白",
+          "text": "来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董妻上。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "灯到。"
+        },
+        {
+          "character": "柴荣、赵匡胤、郑子明",
+          "type": "同白",
+          "text": "酒来！"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "酒在此。"
+        },
+        {
+          "character": "柴荣、赵匡胤、郑子明",
+          "type": "同白",
+          "text": "放下！"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣、赵匡胤、郑子明同饮酒。"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "好酒量！"
+        },
+        {
+          "character": "柴荣、赵匡胤、郑子明",
+          "type": "同白",
+          "text": "咳，叫你再来，去吧！"
+        },
+        {
+          "character": "董妻",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "董妻下。柴荣、赵匡胤、郑子明同饮酒毕。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "随俺打！"
+        },
+        {
+          "character": "柴荣、郑子明",
+          "type": "同白",
+          "text": "走！ （柴荣、赵匡胤、郑子明同下。〖起更鼓〗。董美英、董妻、董达、董福、董禄、董寿、董喜同上。柴荣、 赵匡胤、郑子明同上，同起打。柴荣、赵匡胤、郑子明同杀死董美英、董妻、董达、董福、董禄、董寿、董 喜。）"
+        },
+        {
+          "character": "柴荣、赵匡胤、郑子明",
+          "type": "同白",
+          "text": "前面已是黄土坡，我们弟兄一拜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴荣、赵匡胤、郑子明同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

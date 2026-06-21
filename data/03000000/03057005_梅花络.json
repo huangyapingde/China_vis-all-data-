@@ -1,0 +1,914 @@
+{
+  "script_id": "03057005",
+  "title": "梅花络",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "贾宝玉",
+      "hangdang": "小生"
+    },
+    {
+      "name": "黄莺儿",
+      "hangdang": "旦"
+    },
+    {
+      "name": "白玉钏",
+      "hangdang": "旦"
+    },
+    {
+      "name": "袭人",
+      "hangdang": "旦"
+    },
+    {
+      "name": "薛宝钗",
+      "hangdang": "旦"
+    }
+  ],
+  "plot": "贾宝玉卧病，思食莲叶羹，王夫人令白玉钏、黄莺儿往送。贾宝玉知黄莺儿手巧，烦结梅花络。薛宝钗适至，\n言以不如结络以盛玉，贾宝玉称妙不已。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二仆妇引白玉钏、黄莺儿同上"
+        },
+        {
+          "character": "白玉钏",
+          "type": "念",
+          "text": "奉命送莲羹，"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "念",
+          "text": "一同到怡红。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "奴家、白玉钏，"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "奴家、黄莺儿。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "莺儿姐请啦！"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "请啦！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "太太命我们送莲羹到“怡红院”，你我一同前去。但是一件。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "哪一件？"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "那宝二爷乃是负心无义之人，你我切不可理会于他。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "此话怎讲？"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "姐姐听了！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "未开言不由人双眉蹙损， 叫一声莺儿姐细听分明： 曾记得金钏姐无端落井， 那便是宝二爷负义害人。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "何以见得哪？"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "姐姐呀！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "有一日金钏姐午倦倚枕， 恰逢着宝二爷来省夫人。 他因见夫人睡午窗人静， 便来势向我姐戏谑调情。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "啊，竟有这等事！后来怎么样哪？"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "姐姐呀！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "再不想将夫人猛然惊醒， 反说道我姐姐勾引爷们。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "哎呀，真真冤枉！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "还有冤枉在后头呢！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "惹动了夫人嗔大施家法， 立刻要将我姐赶出府门。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "那宝二爷他便该从旁搭救才是呀！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "哎，再休提起！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "提起了此话痛伤心， 宝二爷真是负心人。 当时非但不搭救， 竟然一溜自逃奔。 因此我姐才投井， 她羞愧难禁玉殒香消一缕魂。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "这就是宝二爷的不是啦，难怪妹妹你恨他呀！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "姐姐呀！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "人生寿夭原天命， 岂能无故怨他人。 宝二爷倘若非薄幸， 又何至金簪落井竟成真。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "往事不必重提。你看前面离“怡红院”不远，你我送汤去吧。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "唱",
+          "text": "绿沉沉声寂寂怡红院进，"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "心恹恹泪涟涟痛姐情深。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "唱",
+          "text": "劝玉妹释悲怀休提往事，"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "没奈何举罗巾权拭啼痕。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白玉钏、黄莺儿同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袭人扶贾宝玉同上。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "唱",
+          "text": "自那日为金钏受人诘叱， 触怒了老严亲雷霆大发。 这是我自不肖甘受笞挞， 反累了众姐妹暗自嗟呀。 到如今闲无事将养一榻，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾宝玉坐。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "唱",
+          "text": "倚茜窗思旧事独对庭花。"
+        },
+        {
+          "character": "白玉钏、黄莺儿",
+          "type": "内同白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白玉钏、黄莺儿同上。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "唱",
+          "text": "绕曲径寻回廊小院人静，"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "捧莲碗移玉趾微荡画裙。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄莺儿、白玉钏同进门。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "给二爷请安！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "我道是谁？原来是玉钏、莺儿两位姐姐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白玉钏不理。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "不敢。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "二位姐姐请坐。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "二爷在上，哪有我们的座位！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "叫你坐下，你就坐下，不用客气，管什么爷不爷的哪！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "着啊，你自管坐下。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "那是断断不敢。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "如此，袭人姐姐，陪莺儿姐姐外边去吧。"
+        },
+        {
+          "character": "袭人",
+          "type": "白",
+          "text": "妹妹随我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袭人、黄莺儿同下。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "啊玉钏姐姐，你一向可好？"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "左不过是奴才，可有什么好不好的哪！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "这汤是哪个叫你送来的？"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "左不过是太太、奶奶们罢啦。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "有劳姐姐，将汤递与我吧。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "我不当这个差使。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "好姐姐，递我一递，我两腿疼痛，难以起身。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白玉钏不理。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "姐姐一定不肯方便，少不得我自己来端。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾宝玉起身，痛。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "唱",
+          "text": "她那里负气儿扬扬不睬， 我待要取羹汤疼痛难挨。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "唱",
+          "text": "似这般现世报令人难耐， 我只得取羹汤与你消灾。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "这才是自作自受，别叫我瞧不起你啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白玉钏取汤递与贾宝玉喝。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "哎呀，好难吃！"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "阿弥陀佛！这样东西还说不好吃，真是罪过！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "委实难吃。不信你来尝一尝，便知道了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白玉钏尝。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "你尝过了？"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "尝过啦。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "好吃不好吃呀？"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "好吃得很。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾宝玉笑。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "原本好吃呦。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "我倒上了他的当啦。你说好吃不是？"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "正是。我说好吃得很。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "我可不给你吃啦。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "好姐姐，给我一点吃吧。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "我偏不给。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "赏我一点吃吧。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "偏不赏，偏不赏！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白玉钏递汤又缩回，贾宝玉央求。"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "呃！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二婆子暗同上。"
+        },
+        {
+          "character": "二婆子",
+          "type": "同白",
+          "text": "给宝二爷请安！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白玉钏失手摔碗。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "哎呀，姐姐可曾烫了手么？"
+        },
+        {
+          "character": "白玉钏",
+          "type": "白",
+          "text": "我倒没有烫手，你瞧瞧你自己吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "白玉钏下。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "哎呀，原来我倒烫着了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二婆子同背身。"
+        },
+        {
+          "character": "二婆子",
+          "type": "同白",
+          "text": "天下真有这样呆子。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "你二人可是傅府来的？"
+        },
+        {
+          "character": "二婆子",
+          "type": "同白",
+          "text": "正是。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "秋芳小姐，在家做些什么？"
+        },
+        {
+          "character": "二婆子",
+          "type": "同白",
+          "text": "无非是吟诗写字。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "原来如此。也是一个聪明的女子。"
+        },
+        {
+          "character": "二婆子",
+          "type": "同白",
+          "text": "正是。告辞！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "啊，袭人姐姐哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "袭人上。"
+        },
+        {
+          "character": "袭人",
+          "type": "念",
+          "text": "忽听二爷唤，急忙到床前。"
+        },
+        {
+          "character": "袭人",
+          "type": "白",
+          "text": "二爷何事？"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "替我送送二位婆婆，烦劳回府致意秋芳小姐，说我病体已好，诸多费心便了！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "唱",
+          "text": "有劳致意秋芳姐， 道我贱恙已将痊。"
+        },
+        {
+          "character": "二婆子",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二婆子同下。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "啊，莺儿姐姐哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄莺儿上。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "念",
+          "text": "小识同心结，忽听唤金莺。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "二爷唤我何事？"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "请你来此，非为别事，前次见你所打之络，巧妙非常。今日无事，烦劳与我打 上几个。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "这个容易，但不知二爷您要打什么花纹，何种颜色？"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "哎呀，这个倒把我问住了。你每样与我打上几个就是了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄莺儿笑。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "哎呦，那可打不了那么多。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "究竟有什么花样，请姐姐说与我知。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "方胜、连环、必定如意、万字不断、象眼、椒纹、花云流露、分瓣梅花。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "好了，好了，你说的太多，我听也听不清楚，如何是好？"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "这个！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "我只问你上次与三姑娘打的是什么花样？"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "那叫分瓣攒心梅花。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "着啊，就是那个便好。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "如此待我打起来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄莺儿打络。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "唱",
+          "text": "黄莺儿在怡红晴窗小住， 手理着五色丝巧结网络。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "啊莺儿姐姐，你好一双巧手。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "唱",
+          "text": "宝二爷他一旁温存与我， 猛然间一件事兜在心头。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "啊莺儿姐姐，我想你家小姐与你这样一对神仙似的人儿，将来不知何人有福， 方能消受。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "二爷休要取笑，想我乃是婢女，下贱之人，何足挂齿。只是我们小姐她——"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "怎么样啊？"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "真要有福气的，方能消受？"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "何以见得呢？"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "二爷你有所不知，她有几件人家没有的好处。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "什么好处，倒要请教。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "我不说啦。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "休要害臊，到底是什么好处？"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "唱",
+          "text": "他那里软意儿苦苦问我， 这时候倒叫我怎能不说。 无奈何出房门用目四瞧，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄莺儿出门看。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "唱",
+          "text": "果然是无一人何妨饶舌。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "二爷，你既真心问我，若不说出来，也对不住你。但是一件！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "哪一件？"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "我告诉你，你可不许告诉别人！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "这个自然。我是一定不告诉别人的。"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "我们小姐她呀！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "她有什么好处？"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "她呀，她呀！"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "她到底有什么好处啊？"
+        },
+        {
+          "character": "薛宝钗",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "薛宝钗上。"
+        },
+        {
+          "character": "薛宝钗",
+          "type": "唱",
+          "text": "闲无事来至在绛芸轩下， 又只见黄莺儿巧结梅花。"
+        },
+        {
+          "character": "薛宝钗",
+          "type": "白",
+          "text": "莺儿，你在此打络作甚？"
+        },
+        {
+          "character": "黄莺儿",
+          "type": "白",
+          "text": "是宝二爷叫我打的。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "啊宝姐姐，是我烦她打的。"
+        },
+        {
+          "character": "薛宝钗",
+          "type": "白",
+          "text": "打此何用？"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "不是姐姐提起，我倒忘怀了。到底作什么用呢？"
+        },
+        {
+          "character": "薛宝钗",
+          "type": "白",
+          "text": "我到想起一个用处来了。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "作何用处？"
+        },
+        {
+          "character": "薛宝钗",
+          "type": "白",
+          "text": "待我寻几根乌丝珠线，打一个络子，把那块宝玉络起来，你道好是不好？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾宝玉拍手。"
+        },
+        {
+          "character": "贾宝玉",
+          "type": "白",
+          "text": "妙极，妙极。正是："
+        },
+        {
+          "character": "贾宝玉",
+          "type": "念",
+          "text": "梅花结络闲无事，"
+        },
+        {
+          "character": "薛宝钗",
+          "type": "念",
+          "text": "芳心指点到通灵。"
+        },
+        {
+          "character": "贾宝玉、薛宝钗",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "贾宝玉、薛宝钗同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

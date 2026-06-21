@@ -1,0 +1,1065 @@
+{
+  "script_id": "03097004",
+  "title": "文昭关",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "伍员",
+      "hangdang": "老生"
+    },
+    {
+      "name": "东皋公",
+      "hangdang": "老生"
+    },
+    {
+      "name": "皇甫讷",
+      "hangdang": "老生"
+    },
+    {
+      "name": "米南适",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "伍员与申包胥别后，行至昭关。时楚平王已命人画影图形，各处严拿。伍员遇隐士东皋公，邀往家中，七日\n七夜，须发尽白。经东皋公与好友皇甫讷设计，救伍员出关。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "东皋公上。"
+        },
+        {
+          "character": "东皋公",
+          "type": "引子",
+          "text": "门外青山绿水，黄花百草风吹。"
+        },
+        {
+          "character": "东皋公",
+          "type": "念",
+          "text": "桃红复含宿雨，柳绿更带朝烟。花落家童未扫，鸟啼山客犹眠。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "老汉，东皋公。昔年曾拜扁鹊先生门下为徒。隐居山林倒也清闲快乐。今日闲 暇无事，不免去到庄外游玩一番便了！"
+        },
+        {
+          "character": "东皋公",
+          "type": "西皮原板",
+          "text": "闲来无事不从容， 睡觉东窗日已红。 万物静观皆自得， 四时佳兴与人同。"
+        },
+        {
+          "character": "伍员",
+          "type": "内白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员上。"
+        },
+        {
+          "character": "伍员",
+          "type": "西皮散板",
+          "text": "伍员马上怒气冲， 逃出龙潭虎穴中。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "俺，伍员。满腹含冤，要往吴国借兵报仇。行至此地，四面俱是高山，不知哪 条道路可通吴国？那旁有一老丈，待我下马问来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员下马。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "那旁来的敢是伍子胥？"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "俺不是伍子胥，老丈休要错认了。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "将军休要害怕，老汉乃山下隐士，但讲无妨。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "在下正是伍子胥。老丈何以知之？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "那日打从昭关经过，见挂有图形，与将军面貌相似，故而冒叫一声。多有得罪。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "原来如此。请问老丈：不知哪条道路可通吴国？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "将军你来看，四面俱是高山，要到吴国，必须打从昭关经过。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "并无别路。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": "伍员",
+          "type": "西皮摇板",
+          "text": "听说吴国路不通， 好似狼牙箭穿胸。 心猿意马终何用，"
+        },
+        {
+          "character": "伍员",
+          "type": "哭头",
+          "text": "爹娘啊！"
+        },
+        {
+          "character": "伍员",
+          "type": "西皮摇板",
+          "text": "父母的冤仇一场空！"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "将军不必悲伤，此地离寒舍不远，请至庄中一叙。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "萍水相逢，怎好打搅！"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "四海之内，皆是朋友。待老汉与你牵马。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "这就不敢。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "老汉引路了。"
+        },
+        {
+          "character": "东皋公",
+          "type": "西皮流水板",
+          "text": "山在西来水在东， 山水相连处处通。 男儿四海皆朋友， 人到何处不相逢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童儿上。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "将马带进去。"
+        },
+        {
+          "character": "童儿",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童儿拉马下。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "将军请！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "东皋公、伍员同进。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "这厢有礼。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "将军请坐。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "有坐。请问老丈，高姓大名？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "老汉东皋公。昔年曾拜扁鹊先生门下为徒。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "原来是扁鹊先生的高徒，失敬了。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "岂敢！将军为何这等模样？"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "唉，一言难尽哪！"
+        },
+        {
+          "character": "伍员",
+          "type": "西皮原板",
+          "text": "恨平王无道乱楚宫， 父纳子妻礼难容。 我的父谏奏把命送， 一家大小血染红！"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "原来如此。老汉有一后花园，你且闲住几日，待我慢慢定计，救你出关就是。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "如此，感恩匪浅。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "东皋公",
+          "type": "念",
+          "text": "忠臣孝子当拥护，"
+        },
+        {
+          "character": "伍员",
+          "type": "念",
+          "text": "愧煞男儿不丈夫。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "大丈夫！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "惭愧！"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员、东皋公同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皇甫讷上。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "引子",
+          "text": "隐居山林，每日里，诗酒琴棋。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "念",
+          "text": "架上书万卷，花前酒一樽。谈笑有鸿儒，往来无白丁。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "卑人，皇甫讷。在历阳山下居住，倒也逍遥自在。看今日天气清和，不免到山 前山后，游玩一番便了。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "西皮原板",
+          "text": "自幼儿隐居历阳山， 闲来无事把琴弹。 山前山后来游玩， 不觉红日落西山。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皇甫讷下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员上。"
+        },
+        {
+          "character": "伍员",
+          "type": "西皮快板",
+          "text": "过了一天又一天， 心中好似滚油煎。 腰中枉悬三尺剑， 不能报却父母冤。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "俺，伍员。只望吴国借兵报仇，谁知昭关难过。幸蒙东皋公将我留在他家后花 园中，一连七日不见计出。思想起来，好不焦躁人也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起初更鼓〗。"
+        },
+        {
+          "character": "伍员",
+          "type": "哭",
+          "text": "唉，爹娘啊……"
+        },
+        {
+          "character": "伍员",
+          "type": "二黄三眼板",
+          "text": "一轮明月照窗前， 愁人心中似箭穿。 恨平王无道纲常乱， 父纳子妻礼不端。 我父谏奏反被斩， 一家大小被刀餐。 伍员本是英雄汉， 杀父冤仇岂心甘？ 只望吴国搬兵转， 谁知昭关有阻拦。 幸遇东皋公行方便， 将我留在后花园。 一连七日眉不展， 满腹心事对谁言。 伍员好比丧家犬， 好比鱼儿落网间。 思来想去肝肠断， 今夜晚怎能到明天！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起二更鼓〗。东皋公上。"
+        },
+        {
+          "character": "东皋公",
+          "type": "二黄原板",
+          "text": "一夜漏声催晓箭， 月移花影上栏杆。 熄灭了灯光窗前站， 且听愁人口中言。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起三更鼓〗。伍员换髯。"
+        },
+        {
+          "character": "伍员",
+          "type": "二黄原板",
+          "text": "心中有事难合眼， 翻来覆去睡不安。 背地里只把东皋公埋怨， 恼恨皋公理不端。 既是真心来救我， 为何七日不周全？ 贪图富贵来害我， 就该拿我献昭关。 恨平王把我的牙咬断， 诬杀忠良丧黄泉。 一连七日眉不展， 叫人难解巧机关。 我有心不辞皋公走了吧， 过不去昭关也枉然。 千难万难难坏我， 且等天明问根源。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起四更鼓〗。伍员换白髯。"
+        },
+        {
+          "character": "东皋公",
+          "type": "二黄原板",
+          "text": "听罢言来心好惨， 铁石人儿也心酸。 救人如同把佛念， 明日设计救他出关。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "东皋公下。〖起五更鼓〗。"
+        },
+        {
+          "character": "伍员",
+          "type": "二黄原板",
+          "text": "鸡鸣犬吠五更天， 越思越想越伤惨。 想起在朝为官宦， 朝臣待漏五更寒。 今日居宿荒村馆， 冷冷清清有谁怜！ 我本待拔宝剑寻短见， 血海冤仇化灰烟。 对天发下洪誓愿， 不杀平王心怎甘！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "东皋公上。"
+        },
+        {
+          "character": "东皋公",
+          "type": "二黄散板",
+          "text": "月退星收白昼现， 唤醒他人把话言。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "开门来！"
+        },
+        {
+          "character": "伍员",
+          "type": "二黄导板",
+          "text": "适才蒙眬刚合眼，"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍员",
+          "type": "二黄摇板",
+          "text": "忽听门外有人言。 未曾开门先拔剑，"
+        },
+        {
+          "character": "东皋公",
+          "type": "二黄摇板",
+          "text": "将军为何白了髯？"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "将军一夜须发皓然了！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "我却不信。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "你自己看来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员看。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "哎呀，不好了！"
+        },
+        {
+          "character": "伍员",
+          "type": "二黄摇板",
+          "text": "一见须发好伤惨， 点点珠泪洒胸前。 冤仇未报容颜变， 一事无成两鬓斑！"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "恭喜将军，贺喜将军！须发皓然可以过得昭关了。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "怎见得？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "我有一好友，名叫皇甫讷，与将军相貌相似，将他请过庄来，定计救你出关就 是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童儿暗上。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "童儿。"
+        },
+        {
+          "character": "童儿",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "拿我名帖，请皇甫官人过庄一叙。"
+        },
+        {
+          "character": "童儿",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童儿下。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "如此，老丈请上，受我一拜。"
+        },
+        {
+          "character": "伍员",
+          "type": "二黄散板",
+          "text": "伍员心下甚感念， 今日才解巧机关。 过得昭关无凶险， 来生变犬马当衔环。"
+        },
+        {
+          "character": "东皋公",
+          "type": "二黄散板",
+          "text": "一夜须白真罕见， 自有妙计过昭关。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员、东皋公同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "童儿、皇甫讷同上。"
+        },
+        {
+          "character": "童儿",
+          "type": "白",
+          "text": "启爷：皇甫官人到。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "东皋公上。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "贤弟请坐。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "这几日为何不到庄中走走。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "家中有事，少来问候，多多有罪。有帖相邀，不知有何见谕？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "伍明辅到了。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "敢是临潼斗宝的伍明辅么？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "请来相见。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "请少待。 有请伍将军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员上。"
+        },
+        {
+          "character": "伍员",
+          "type": "念",
+          "text": "父母被屈死，何日报冤仇。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "皇甫官人来了。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "在哪里？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "这就是伍将军。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "伍将军。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "这就是皇甫官人。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "皇甫兄。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "伍员、皇甫讷",
+          "type": "同白",
+          "text": "有坐。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "久闻将军之名，如雷贯耳，今日一见，果然名不虚传。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "落难之人，如丧家之犬。二位仁兄，有何妙计救我出关？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "事到如今，无有别计，你二人面貌相似，可将衣巾更换。皇甫官人扮做将军模 样，前往昭关挂号，那把关人必定将皇甫官人拿住，将军趁混乱之时，便可混 出昭关了。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "此计甚妙，只是皇甫兄受惊了。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "受惊事小，关前难免一顿饱打。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "我去救你就是。事不宜迟，你二人快快更换衣巾。"
+        },
+        {
+          "character": "伍员",
+          "type": "西皮二六板",
+          "text": "伍员头上换儒巾， 乔装改扮往东行。 临潼赴会曾举鼎， 万马营中显奇能。 时来双挂明辅印， 运去时衰宿荒村。 想起叫人怎不恨， 也是子胥五行八字命生成。 我与皋公把话论： 你是子胥救命恩人。 若得过了昭关地， 一重恩当报九重恩。"
+        },
+        {
+          "character": "伍员",
+          "type": "西皮散板",
+          "text": "皇甫兄请上受一礼， 有劳施下这大恩。 焚香顶礼不为敬， 来生变犬马当报恩。 伍员心下千般恨， 大胆且向虎口行！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员下。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "西皮散板",
+          "text": "你若不来失了信， 遍体排牙诉不清。"
+        },
+        {
+          "character": "东皋公",
+          "type": "西皮散板",
+          "text": "贤弟不必细叮咛， 即刻救你走一程。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "东皋公、皇甫讷自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、米南适同上。"
+        },
+        {
+          "character": "米南适",
+          "type": "念",
+          "text": "奉王旨意，捉拿叛臣。"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "俺，米南适。奉了大王旨意，镇守昭关。朝中行文到来，画影图形，捉拿伍员。 军士们！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "小心把守关口，如有可疑之人，速报我知。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皇甫讷、伍子胥同上。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "门上哪个听事？"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "挂号过关的。"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "候着。 启将军：有人挂号过关。"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "此人面貌如何？"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "与图形相似。"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "传他进来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龙套甲向皇甫讷。"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "呔，将军传你！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皇甫讷进。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "将军，我是挂号过关的。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "米南适看皇甫讷。"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "来，绑回衙去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员混出关。米南适、皇甫讷、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员上。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "且住！且喜混出昭关，不免马上加鞭，逃往吴国便了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套押皇甫讷引米南适同上。米南适坐。"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "呔！胆大伍员，你乃叛逆之臣，见了本帅，为何不跪？"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "住了，哪个是伍员，俺乃此地百姓皇甫讷。"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "你明明是伍员，怎说不是！ 来，吊起来打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "东皋公上。"
+        },
+        {
+          "character": "东皋公",
+          "type": "西皮散板",
+          "text": "伍员混出昭关境， 只怕贤弟受苦情。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "做什么的？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "东皋公求见将军。"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "启将军：东皋公求见。"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "东皋公进。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "恭喜将军，贺喜将军！"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "喜从何来？"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "听说将军拿住了伍员，岂不是一喜！"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "拿便拿住了，只是他说是什么此处百姓皇甫讷。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "啊，皇甫讷？是老汉的好友，现在何处？我一看便知。"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "好，押了来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二龙套同押皇甫讷至米南适面前。皇甫讷向东皋公。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "哎呀，你害得我好苦哇！"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "我与你讲的明白，要你等我一同过关，哪个叫你一人先来呢？"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "既是先生的好友，快快松绑。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "走！"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "大王驾前辩理！"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "不知者不怪罪。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "我若不看在东皋公分上，定不与你甘休！"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "冒犯先生，幸勿见怪。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "啊将军，下次还须要仔细盘查明白，不要屈枉了好百姓，叫那伍员混出关去呀！"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "是是是。"
+        },
+        {
+          "character": "东皋公",
+          "type": "白",
+          "text": "告辞。"
+        },
+        {
+          "character": "皇甫讷",
+          "type": "白",
+          "text": "哼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皇甫讷、东皋公同下。"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "呸，我把你们这些无用的东西！以后你们必须仔细盘查，不要屈枉了好百姓， 放走了那伍员！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "米南适",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "米南适、四龙套同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

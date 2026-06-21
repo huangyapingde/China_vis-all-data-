@@ -1,0 +1,2176 @@
+{
+  "script_id": "03092001",
+  "title": "驱车战将",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "南宫长万",
+      "hangdang": "武生"
+    },
+    {
+      "name": "南宫母",
+      "hangdang": "老旦"
+    }
+  ],
+  "plot": "宋闵公命大将南宫长万助齐攻鲁，为鲁军所擒，被释回国。宋闵公对南宫长万不满，屡加讥讽，南宫长万怒，\n杀宋闵公。公子御说逃奔鲁国，请兵诛南宫长万。鲁庄公领兵至宋，诈开宋城，进攻南宫长万。南宫长万\n欲护其母逃往陈国，因寡不敌众，母子均为鲁军所杀。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监、齐桓公同上。"
+        },
+        {
+          "character": "齐桓公",
+          "type": "唱",
+          "text": "周天子封列国齐邦为上， 战鲁国失了机败在疆场。 管夷吾知兵法才宏智广， 怕只怕那鲁国趁势猖狂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲍叔牙上。"
+        },
+        {
+          "character": "鲍叔牙",
+          "type": "唱",
+          "text": "鲁庄公把齐邦忒以小量， 二次里领人马侵犯边疆。"
+        },
+        {
+          "character": "鲍叔牙",
+          "type": "白",
+          "text": "臣、鲍叔牙见驾，大王千岁！"
+        },
+        {
+          "character": "齐桓公",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "鲍叔牙",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "齐桓公",
+          "type": "白",
+          "text": "卿家上殿，有何本奏？"
+        },
+        {
+          "character": "鲍叔牙",
+          "type": "白",
+          "text": "启奏大王：今有鲁庄公领兵犯界，甚是猖狂，特来奏与大王知道。"
+        },
+        {
+          "character": "齐桓公",
+          "type": "白",
+          "text": "卿家有何计策？"
+        },
+        {
+          "character": "鲍叔牙",
+          "type": "白",
+          "text": "启奏大王：不如修书一封，下到宋闵公那里，搬兵求救，两家合兵，共灭鲁国， 不费吹灰之力也。"
+        },
+        {
+          "character": "齐桓公",
+          "type": "白",
+          "text": "依卿所奏。溶墨伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。齐桓公修书。"
+        },
+        {
+          "character": "齐桓公",
+          "type": "白",
+          "text": "旗牌走上！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "旗牌走上！"
+        },
+        {
+          "character": "旗牌",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "参见大王！有何吩咐？"
+        },
+        {
+          "character": "齐桓公",
+          "type": "白",
+          "text": "这有书信一封，下到宋闵公那里。快去！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "齐桓公",
+          "type": "白",
+          "text": "退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "仇牧、华督、公子御说、南公牛同上。"
+        },
+        {
+          "character": "仇牧、华督、公子御说、南公牛",
+          "type": "同白",
+          "text": "下官——"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "仇牧。"
+        },
+        {
+          "character": "华督",
+          "type": "白",
+          "text": "华督。"
+        },
+        {
+          "character": "公子御说",
+          "type": "白",
+          "text": "公子御说。"
+        },
+        {
+          "character": "南宫牛",
+          "type": "白",
+          "text": "南宫牛。"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "列位大人请了！"
+        },
+        {
+          "character": "华督、公子御说、南宫牛",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "大王升殿，你我分班伺候！"
+        },
+        {
+          "character": "华督、公子御说、南宫牛",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、宋闵公同上。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "引子",
+          "text": "巍巍宫殿，自在安然。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "念",
+          "text": "乾坤浩荡日月明，列国强弱各分争。周室何能安天下，到处狼烟不太平！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "孤、宋闵公。自先君晏驾，众卿保孤为君。今当设立早朝。 众卿，有本早奏，无本退班！"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "启奏大王：齐桓公差人前来下书，大王请看！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "仇牧呈书。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "待孤一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。宋闵公看书。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "众卿，那齐桓公书信上面言道：鲁国人马，侵犯齐国地界，甚是猖狂。请孤发 兵相救，众卿有何高见？"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "启奏大王：齐桓公与我国交好甚厚，既来求助，焉有不救之理？"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "依卿所奏。何人挂帅，前去助阵？"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "臣启大王：那南宫长万有万夫不挡之勇，何不命他挂帅，前去助阵。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "宣南宫长万上殿！"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "大王有旨：南宫长万上殿！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "念",
+          "text": "杀气贯虹霓，寒光照铁衣。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "臣、南宫长万见驾，大王千岁！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "千千岁！宣臣上殿，有何国事议论？"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "今有齐桓公书信到来，言道：鲁国兴兵犯界，请孤发兵前去助阵。就命将军带 领甲车五百乘，前去助阵，你予南宫牛以为前部先锋，卿家意下如何？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "区区鲁国，弹丸之地，何劳众兵相助？待为臣选车一百乘，前去助阵，足以够 了。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "就依卿家。得胜回来，定有封赏。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "谢千岁！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "退班！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公子偃、歂孙生同上，双起霸。"
+        },
+        {
+          "character": "公子偃",
+          "type": "念",
+          "text": "紫金盔齐眉盖顶，鱼鳞甲裹体护身。"
+        },
+        {
+          "character": "歂孙生",
+          "type": "念",
+          "text": "展旌旗英雄临阵，银战枪神鬼昔惊！"
+        },
+        {
+          "character": "公子偃、歂孙生",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "公子偃",
+          "type": "白",
+          "text": "公子偃。"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "歂孙生。"
+        },
+        {
+          "character": "公子偃",
+          "type": "白",
+          "text": "将军请了！"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "公子偃",
+          "type": "白",
+          "text": "大王升帐，你我两厢伺候。"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠、四龙套、鲁庄公同上。〖点绛唇〗。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "念",
+          "text": "可恨齐邦自称雄，横夺无忌害众生。君王有道天心顺，踏平万里扫烟尘！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "孤、鲁庄公。可恨齐国，以强抑弱，妄自尊大，因此孤家统领人马，与齐侯一 决胜负。 二位将军！"
+        },
+        {
+          "character": "公子偃、歂孙生",
+          "type": "同白",
+          "text": "大王！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "二卿有何妙计，可灭齐国？"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "大王但放宽心，依为臣看来，那齐国人马，一个个好似插标卖首。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启禀大王：宋国南宫长万带领人马，与齐国助战！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "且住！探马报道，宋国发来人马，与齐国助战。想那南宫长万，有万夫不挡之 勇，今日交战，胜负未可量也！"
+        },
+        {
+          "character": "公子偃",
+          "type": "白",
+          "text": "为臣倒有一计在此。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "将军有何妙计？"
+        },
+        {
+          "character": "公子偃",
+          "type": "白",
+          "text": "大王前去与他交战，将他引至云山之外；大王赐为臣一哨人马，俱穿虎豹之皮， 黑夜之间，一拥冲出，宋兵必然大乱，那时杀他一个落花流水。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "此计甚妙。就命卿家前去埋伏。"
+        },
+        {
+          "character": "公子偃",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公子偃下。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四大铠、四龙套",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "带马迎敌者！"
+        },
+        {
+          "character": "四大铠、四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": "南宫长万",
+          "type": "内西皮导板",
+          "text": "气冲虹霓马咆哮，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、南宫牛、南宫长万同上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "西皮快板",
+          "text": "马鞍桥斜挎斩将刀。 日照金盔龙斗宝， 风吹连环锁甲绦。 大丈夫赤胆忠心把国保， 驱车战将要立功劳。 儿郎们抖擞精神你们把贼讨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、歂孙生、鲁庄公同上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "西皮摇板",
+          "text": "谁胜谁败论英豪。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "西皮摇板",
+          "text": "孤家领兵替天行道， 通上名来好把兵交！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "西皮摇板",
+          "text": "南宫长万谁不晓，"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "西皮摇板",
+          "text": "无知匹夫小儿曹！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "西皮摇板",
+          "text": "摇唇鼓舌真可笑， 羊入虎口你怎脱逃！ （四下手、南宫牛、南宫长万、四龙套、歂孙生、鲁庄公同会阵，四下手、南宫牛、四龙套、歂孙生同钻烟 筒下。鲁庄公、南宫长万同起打。鲁庄公败下，南宫长万追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四虎形、公子偃同上。"
+        },
+        {
+          "character": "公子偃",
+          "type": "白",
+          "text": "埋伏了！ （四虎形、公子偃同虚下。四龙套、歂孙生、鲁庄公同败上，过场，同下。四下手、南宫牛、南宫长万同追 上。四虎形、公子偃同上。四下手、南宫牛同惊退。）"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "啊！且住。鲁国人马假扮虎豹之形，将我国人马吓退。今日必须与他决一死战， 方能退敌。 众将官！"
+        },
+        {
+          "character": "四下手、南宫牛",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "听我一令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。南宫长万做身段。"
+        },
+        {
+          "character": "四下手、南宫牛",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "念",
+          "text": "莫道虎豹猛，阵前要立功。鞭敲金蹬响，回国受赏封。 （四下手、南宫长万同下。四虎形同下。南宫牛、公子偃同起打，双收下。南宫长万上，鲁庄公随上，同起 打。公子偃、歂孙生同续上，同起打。南宫长万败下，歂孙生、公子偃同追下。）"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "真乃一场好战也！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "唱",
+          "text": "长万骁勇世间少， 可算将中一英豪。 看过弓箭传令号， 等他到来射儿曹！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万败上，公子偃、歂孙生同追上，同起打。鲁庄公放箭。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "看箭！ （鲁庄公下。南宫长万中箭，四上手同拥上，同擒住南宫长万，同拥下。南宫牛上，与公子偃、歂孙生起打， 南宫牛败下。歂孙生、公子偃同收下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、鲁庄公同上。歂孙生、公子偃同上。"
+        },
+        {
+          "character": "公子偃、歂孙生",
+          "type": "同白",
+          "text": "启禀大王：擒来南宫长万，请大王发落！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "押了上来！"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "将南宫长万押了上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手押南宫长万同上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "念",
+          "text": "英雄不幸被贼擒，深惭无地可容身。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "唗！胆大南宫长万，见了孤王为何不跪？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "俺乃堂堂丈夫，岂肯跪你！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "真乃英雄也！待孤亲自与你松绑。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁庄公与南宫长万松绑。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "将军请便！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万出帐，想，复又转回。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "将军，转来做甚？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "蒙大王这样恩厚，使俺南宫长万无地自容。待某回去，奏知我主，两国结为盟 好，永罢干戈。大王意下如何？"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "但凭将军。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "某愿立字作证。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "慢来，将军右臂带有箭伤，焉能提笔！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "区区箭伤，何足道哉！若不立字为证，何以取信于大王！南宫长万呵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。南宫长万写。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "大王请看。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "有劳将军。你我后会有期。将军请便！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "谢大王！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "念",
+          "text": "颠复兵山毁车甲，从前英名枉自夸！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万下。"
+        },
+        {
+          "character": "公子偃",
+          "type": "白",
+          "text": "大王因何将他放走？"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "想那南宫长万，不过一勇之夫，闻得此人事母至孝，故而将他放走。"
+        },
+        {
+          "character": "公子偃、歂孙生",
+          "type": "同白",
+          "text": "大王这样仁慈，臣等皆服。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "打起得胜鼓，人马还朝！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、仇牧、宋闵公同上。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "唱",
+          "text": "命长万领甲车狼烟扫荡， 但愿得此一去平灭鲁邦。 得胜归一定要加官封赏，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖扫头〗。公子御说上。"
+        },
+        {
+          "character": "公子御说",
+          "type": "白",
+          "text": "启奏父王：边报到来，南宫长万兵败，被鲁侯困在营中，请父王早作准备！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "南宫长万在孤面前夸下海口，身为大将，不知兵法，被鲁国人马杀得大败，囚 在鲁营，宋国威风，一旦付于流水！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫牛、南宫长万同上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "鲁庄公他待某恩德甚厚， 回国来见大王面带含羞。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "臣、南宫长万参见大王！臣该万死！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "谢大王！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "赐坐。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "谢坐！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "将军此番征战鲁国，必然是大获全胜，令人可敬。来来来，看酒！待孤把敬三 杯！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "大王尚不知为臣兵败么？"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "将军说哪里话来！临行之时，夸下海口，要平灭鲁国，今日焉能打了败仗！莫 要推辞，快快饮下这杯得胜酒！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "大王不要羞辱为臣。实指望统领人马，扫灭狼烟，以报大王之恩德。不想鲁国 人马身披虎豹之皮，黑夜之间，不分皂白，我军自乱。为臣孤身冲入敌军阵内， 不料鲁庄公暗放一箭，正中为臣右肩之上，膀臂无力；左股又中一枪，因此 被擒。不想鲁庄公待臣甚厚，放臣回国。臣罪该万死！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "右肩中箭，是你的箭法不好，左股中枪，是你的枪法不高！被囚敌营，还有何 面目来见孤王！宫中不容囚犯站立，你出宫去吧！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫牛怒，南宫长万羞愧。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "拜别大王出宫往， 一场羞辱愧难当。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫牛、南宫长万同下。"
+        },
+        {
+          "character": "仇牧",
+          "type": "唱",
+          "text": "长万本是英雄将， 我主莫要把他伤。"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "臣启大王：南宫长万虽然败阵而归，自古道：军家胜败，乃是常理。大王这样 羞辱于他，恐怕后来有变！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "孤不过说他几句，灭灭他的火性，以免后来在孤面前夸口。卿家去宣南宫长万， 明日随孤去到郊外游猎。"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "臣、领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋闵公、四太监、仇牧自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫母上。"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "叹周室历年间臣心失散， 论强弱动刀兵黎民倒悬。 我的儿征鲁邦未见回转， 倒叫我坐不安睡不成眠。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "兵败归来无颜面， 拜见母亲叩堂前。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万跪。"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "用手儿搀起了我儿长万， 只见他容颜变气色不安。 莫不是领人马遭了凶险， 莫不是被敌人战败回还。 你把那出兵事细说一遍， 解去了年迈人愁锁眉间。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "母亲哪！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "都只为领甲车两国交战， 中了那伏兵计败走荒山。 鲁庄公在军中暗射一箭， 因此上将孩儿绳捆锁绑到营盘。 儿有心为国殉了难， 思想起老母在堂前。 若尽忠撇老母无人照看， 为尽孝转回还、忠孝不能两双全。 回国来见众臣无有脸面， 阵阵红晕甚羞颜。 儿的娘莫要悲声叹， 奉老母不做官为民也心甘。 顶天立地男儿汉， 自古道父母恩重如泰山。 双膝跪落儿的心中羞惭， 从今后望娘亲寿比南山。"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "我的儿军前中冷箭， 幸喜母子又团圆。"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "儿呀，既然军前中箭，不知你箭伤如何？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "今已痊愈，母亲不必挂念。"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "大王言讲何来？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "如今两国合好，免动干戈，因此大王并未加罪。"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "原来如此。"
+        },
+        {
+          "character": "仇牧",
+          "type": "内白",
+          "text": "仇大人到！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "母亲请到后堂。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫母下。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "仇牧上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "仇大人到此何事？"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "南宫将军，适才在宫中，大王说了几句戏言，将军莫要挂怀。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "军家胜败，古之常理。大王不该出言相戏。叫俺南宫长万羞愧难当，无地自容 了！"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "将军莫为小事而失君臣之大义。明日大王郊外射猎。请将军一同前往。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "明日郊外一同打猎就是。"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "告辞了！"
+        },
+        {
+          "character": "仇牧",
+          "type": "唱",
+          "text": "明日射猎荒郊外， 君戏臣子莫挂怀。"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "仇牧下。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "只怪我战敌军一时失败， 英勇名成画饼愧煞将才！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "华督、公子御说、仇牧同上。"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "二位大人，大王到郊外射猎，你我一同伺候。"
+        },
+        {
+          "character": "华督、公子御说",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠、宋闵公同上。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "众卿，你等俱已到齐，为何不见南宫长万在此？"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "想必来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "参见大王！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "鲁国囚徒，因何来迟？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "臣在校场点动猎兵甲士，故而来迟。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "从今以后，须要小心伺候！ 来，郊外去者。"
+        },
+        {
+          "character": "四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠、华督、公子御说、仇牧、南宫长万、宋闵公同走圆场。"
+        },
+        {
+          "character": "四大铠",
+          "type": "同白",
+          "text": "来到郊外。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "撒下围场！"
+        },
+        {
+          "character": "四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "唱",
+          "text": "下马且把山坡上，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋闵公上高。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "唱",
+          "text": "观看众将猎虎狼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万趟马。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "猎游郊外心暗想， 大王出言把我伤。 耳旁听得风声响， （〖扫头〗。虎形上，虎形上高台，追宋闵公下。仇妆、华督、公子御说、四大铠同随下。南宫长万打虎形， 虎形死。四大铠、仇牧、华督、公子御说、宋闵公同上。）"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "南宫长万，孤正要将猛虎生擒活捉，不想被你打死，真乃多事！"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "大王，那南宫长万打虎救驾，其功不小，就该重赏于他才是。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "有什么功劳！无非是一勇之夫！带马回城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠、仇牧、华督、公子御说、宋闵公同下。南宫长万叹。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监、公子御说、宋闵公同上。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "唱",
+          "text": "郊外射猎孤心爽， 军士个个逞豪强。"
+        },
+        {
+          "character": "公子御说",
+          "type": "白",
+          "text": "父王，南宫长万打死猛虎，父王未加重赏，儿臣见他面带怒容，莫非他有谋反 之意么？"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "我儿言讲不差。待孤将他唤进宫来，用言语打动于他，看他动静如何？ 来，宣南宫长万进宫！"
+        },
+        {
+          "character": "大太监",
+          "type": "白",
+          "text": "大王有旨：南宫长万进宫！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "内白",
+          "text": "领旨！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "念",
+          "text": "两道眉锁英雄恨，一片心怀志士忧！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "参见大王！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "平身。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "千千岁！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "南宫长万，孤见你这几日心怀不忿，怒气冲冲，是何道理？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "为臣焉敢心怀不忿！不过是战败归来，心中愧恨，不能与大王出力耳！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "原来如此。今日闲暇无事，待孤王与你奕棋一回，见个胜负，哪家败了，罚酒 三杯。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "奉陪大王。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "来，将棋摆下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "大太监摆棋。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "两厢退下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、大太监、公子御说同下。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "唱",
+          "text": "君臣们在宫院一决胜败， 论一论高和下各逞英才。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "大王爷称妙手招数难解， 为臣我虽用心也难以安排。 不料想今日里臣又战败，"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "你输了，罚你三杯！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万饮酒。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "醉醺醺身无力难把头抬。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "南宫长万，再与孤决一胜败！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋闵公、南宫长万同下棋。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "为臣我又战败了！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "又杀败了？看起来你真是个屡败无用的囚徒！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "怎么讲？"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "屡败无用的囚徒！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "我把你这无道的昏君！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "自古君臣莫戏耍， 无道昏君作事差。 长万为国功劳大， 囚徒也能把人杀。"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "大胆！"
+        },
+        {
+          "character": "宋闵公",
+          "type": "唱",
+          "text": "囚徒胆量比天大， 不由孤王怒气发。 下得位来将你打，"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "昏王，你要打哪个？"
+        },
+        {
+          "character": "宋闵公",
+          "type": "白",
+          "text": "要打你这囚徒！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "冷笑",
+          "text": "嘿嘿嘿……"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "无道君竟敢在虎口拔牙！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万杀死宋闵公，急出门。仇牧上。"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "将军为何这样惊慌失色？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "大夫今欲何往？"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "进宫与大王问安。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "那无道的昏王吗！"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "将军，何出此言？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "哎呀大夫哇！那昏君屡次出言不逊，失了君臣之道，是我一时怒气难忍，我就 将他——"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "怎么样？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "杀死了！"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "哎呀，将军你莫非吃醉了？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "大夫不信，你进宫看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万、仇牧同进宫。"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "仇牧",
+          "type": "唱",
+          "text": "一见大王死宫院， 倒教为臣泪不干。 骂声贼子南宫长万， 逆臣轼君欺了天！"
+        },
+        {
+          "character": "仇牧",
+          "type": "白",
+          "text": "南宫长万哪，好贼子！大王待你不薄，你不该丧尽天良，将大王杀死！杀君逆 伦，遗臭万年！我恨不得打死你这个贼子！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "仇牧向前打南宫长万，南宫长万怒，杀死仇牧。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "可惜呀，可惜！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "昏王做事太猖狂， 不该无故骂忠良。 事到头来难言讲， 顺我昌来逆我亡！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公子御说上。"
+        },
+        {
+          "character": "公子御说",
+          "type": "白",
+          "text": "且住，适才见那南宫长万手提宝剑，出宫而去，其中定有原故？待我进宫看来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公子御说进宫。"
+        },
+        {
+          "character": "公子御说",
+          "type": "白",
+          "text": "哎呀，父王不知被何人杀死？想是被南宫长万杀害，我不免趁此逃走，去到鲁 国搬兵，与父王报仇便了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公子御说下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万上，南宫牛上。"
+        },
+        {
+          "character": "南宫牛",
+          "type": "白",
+          "text": "爹爹，你这是怎么样了？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "休得多言，速到宫中将公子御说拿来！"
+        },
+        {
+          "character": "南宫牛",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫牛下。华督上。"
+        },
+        {
+          "character": "华督",
+          "type": "白",
+          "text": "南宫长万哪，好匹夫！大王待你恩重如山，你不该意狠心毒，将大王杀死！某 特地前来与大王报仇。休走，看剑！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万夺剑，杀死华督。南宫牛上。"
+        },
+        {
+          "character": "南宫牛",
+          "type": "白",
+          "text": "公子御说逃走，直奔鲁国而去！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "谅他走之不远，速速领甲车二百乘，前去追赶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万、南宫牛同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、二鲁将、歂孙生、公子偃、鲁庄公同上，公子御说上。"
+        },
+        {
+          "character": "公子御说",
+          "type": "哭",
+          "text": "大王啊……"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "为何这等模样？"
+        },
+        {
+          "character": "公子御说",
+          "type": "白",
+          "text": "大王容禀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "既是南宫长万谋反，将你父王杀死，待孤发动人马，与你父报仇。"
+        },
+        {
+          "character": "公子御说",
+          "type": "白",
+          "text": "谢大王！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "南宫牛讨战！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "何人出马，擒那南宫牛？"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "待臣前去擒来！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "多加小心！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "歂孙生下，押南宫牛同上。"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "南宫牛擒到！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "胆大南宫牛，你父子不该谋反，将宋闵公杀死，哪里容得，推出斩了！"
+        },
+        {
+          "character": "二龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二龙套押南宫牛同下，二龙套同上。"
+        },
+        {
+          "character": "二龙套",
+          "type": "同白",
+          "text": "斩首巳毕！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "歂孙生听令！"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "命你假扮南宫牛模样，前去诈城，孤大兵随后就到。"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "歂孙生下。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四龙套、二鲁将",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "兵发宋国去者！"
+        },
+        {
+          "character": "四龙套、二鲁将",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "场设城。四上手、歂孙生同上。大刀手上城。歂孙生放箭，大刀手接箭。"
+        },
+        {
+          "character": "大刀手",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "你家少爷南宫牛回来了！"
+        },
+        {
+          "character": "大刀手",
+          "type": "白",
+          "text": "有请大将军！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万上，登城。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "何事？"
+        },
+        {
+          "character": "大刀手",
+          "type": "白",
+          "text": "少爷回来了，现有号箭呈上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "城下敢是我儿？"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "擒拿公子御说怎么样了？"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "擒住了！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "我儿之功。 军士们！"
+        },
+        {
+          "character": "大刀手",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "开城！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万下。开城。四上手、歂孙生同进城，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫母上。"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "耳边厢又听得军鼓声震， 但不知我的儿可曾出征？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "参见母亲！"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "儿呀，外面因何有战鼓之声？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "母亲哪！那鲁庄公将城池打破，眼睁睁杀进我府来了！"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "既然城池已破，儿就该去到宫中，保护大王才是。你回来做甚？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "恐怕母亲有失！"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "儿可知：国家养兵千日，用兵一时。为娘此处不用你来守护，快快进宫去吧！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "快去！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "母亲，那大王他、他……归天了！"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "听说大王丧了命，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、二鲁将、公子偃、歂孙生、鲁庄公同上，过场，同下。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "母亲，鲁国的人马杀来了！"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "锦绣宋国化灰尘！"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "哎呀儿呀！如今大王丧命，国破家亡，如何是好？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "母亲且免惊慌，待孩儿寻找车辆，保护母亲去往陈国避难，日后搬来人马，再 报此仇！"
+        },
+        {
+          "character": "南宫母",
+          "type": "白",
+          "text": "就依我儿！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "待儿寻找车辆。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万出门，公子偃上，起打。公子偃败下，南宫长万下。"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "最可叹众黎民身遭不幸， 但愿得到陈国搬来救兵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万上。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "母亲请来上车！ （南宫长万搀南宫母同出门，南宫母上车，南宫长万推车同下。四龙套、二鲁将、公子偃、歂孙生、鲁庄公 同上。）"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "且住！南宫长万十分骁勇！待孤传下一令： 众将官！"
+        },
+        {
+          "character": "四龙套、二鲁将、公子偃、歂孙生",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "有人拿住南宫长万，赏赐千金，莫要放他逃走！"
+        },
+        {
+          "character": "四龙套、二鲁将、公子偃、歂孙生",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": "南宫长万",
+          "type": "内唱",
+          "text": "驱车战将军鼓震，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫母、南宫长万同上，南宫母上高。四龙套、二鲁将、公子偃、歂孙生、鲁庄公同上．"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "我的儿要留神——"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "年迈高堂你莫担惊！"
+        },
+        {
+          "character": "歂孙生",
+          "type": "唱",
+          "text": "你可敢杀？"
+        },
+        {
+          "character": "公子偃",
+          "type": "唱",
+          "text": "可敢战？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "俺好似猛虎二目圆睁。 看你们似群羊怎能取胜， 你看我南宫长万杀气腾！ 鲁国人哪一个大胆不欲生， 你们就来来来，看我显奇能！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "歂孙生、公子偃与南宫长万起打．"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "唱",
+          "text": "叫众将暂后退莫往前进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "歂孙生、公子偃同下。"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "观人马如潮涌好不惊人！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "儿好比铁石汉何惧他以多为胜！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二鲁将同上，与南宫长万起打，南宫长万杀死二鲁将。"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "暗祝告众神灵——"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "唱",
+          "text": "休要放走叛逆臣！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "公子偃上。"
+        },
+        {
+          "character": "公子偃",
+          "type": "唱",
+          "text": "你哪里走？休想逃活命！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "你鲁国纵有那百万兵、管叫你们难回程！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "南宫长万上高。歂孙生上。"
+        },
+        {
+          "character": "歂孙生",
+          "type": "白",
+          "text": "南宫长万，哪里走！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "我下山坡，"
+        },
+        {
+          "character": "南宫母",
+          "type": "唱",
+          "text": "儿莫战争。"
+        },
+        {
+          "character": "歂孙生",
+          "type": "唱",
+          "text": "你可敢来对阵？"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "呸！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "开口骂歂孙生， 你是败将有何奇能？"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "唱",
+          "text": "人来弓箭安排定， 看他母子怎逃生！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "看箭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "歂孙生射死南宫母。"
+        },
+        {
+          "character": "南宫长万",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "南宫长万",
+          "type": "唱",
+          "text": "白发老母丧了命， 刀割肺腑剑刺心。 狗奸贼放冷箭心肠忒狠， 战死疆场护娘身！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "放箭！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、公子偃、歂孙生同放箭，南宫长万中箭死。"
+        },
+        {
+          "character": "歂孙生、公子偃",
+          "type": "同白",
+          "text": "逆臣已死！"
+        },
+        {
+          "character": "鲁庄公",
+          "type": "白",
+          "text": "人马还朝！"
+        },
+        {
+          "character": "四龙套、公子偃、歂孙生",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

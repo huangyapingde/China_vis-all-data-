@@ -1,0 +1,4466 @@
+{
+  "script_id": "03084002",
+  "title": "南界关",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "徐金花",
+      "hangdang": "旦"
+    },
+    {
+      "name": "刘仁瞻",
+      "hangdang": "老生"
+    },
+    {
+      "name": "花迎春",
+      "hangdang": "旦"
+    },
+    {
+      "name": "赵匡胤",
+      "hangdang": "红生"
+    }
+  ],
+  "plot": "赵匡胤攻寿春，守将刘仁瞻出战不胜，中箭而归；其妻徐金花日夜巡城，引兵坚守。刘妾花迎春与参将何延\n锡私通，为徐金花撞见，花迎春苦苦哀求，徐金花乃放之。花迎春继与何延锡密约，私献城池，刘仁瞻遂为\n周将所擒。徐金花乃负子闯入周营。刘仁瞻终不屈以死报国。赵匡胤嘉其忠，仍命徐金花守寿春。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李重进上，起霸。"
+        },
+        {
+          "character": "李重进",
+          "type": "念",
+          "text": "勒马回头望帝邦，飞鸟归去不成行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩通上，起霸。"
+        },
+        {
+          "character": "韩通",
+          "type": "念",
+          "text": "一朝新任沾雨露，将帅忠勇报君王。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "左翼将军、李重进。"
+        },
+        {
+          "character": "韩通",
+          "type": "白",
+          "text": "右翼将军、韩通。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "韩通",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "我主大周显德皇帝，只为南唐李璟不纳版图，故尔亲统六军，大下江南，叫他 望风来降，好成一统华夷。"
+        },
+        {
+          "character": "韩通",
+          "type": "白",
+          "text": "元帅升帐，两厢伺候！"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "发点。四文堂、四大铠、四上手引赵匡胤同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "粉蝶儿",
+          "text": "旌旗飘扬， 绕长空，乾坤雄壮。 列戈戟，灿若星霜。 将狰狞，士轩昂， 真个是，天兵气象。"
+        },
+        {
+          "character": "李重进、韩通",
+          "type": "同白",
+          "text": "末将参见！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "站立两厢！"
+        },
+        {
+          "character": "李重进、韩通",
+          "type": "同白",
+          "text": "谢元帅！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "念",
+          "text": "旌旗招展列旌旄，剑闪光芒射斗勺。朱雀门开威风振，玄武动处煞气高。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "某、赵匡胤。前奉天子密旨，潜窥江南地势，实有可取之道。为此圣上亲统六 师，直下南唐，命我督兵前进，何愁李璟不纳款来降？ 来，传高怀亮进帐！"
+        },
+        {
+          "character": "文堂甲",
+          "type": "白",
+          "text": "高怀亮进账！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "内白",
+          "text": "来也！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮上。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "念",
+          "text": "父子英名重，保主锦江洪。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "报：高怀亮告进！参见元帅！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "少礼。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "传末将进帐，有何将令？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "命你带领本部人马，沿途开路，遇敌迎战，不得有误！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、高怀亮同下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "众将官，起兵前往！"
+        },
+        {
+          "character": "四文堂、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "合头",
+          "text": "列晓谕，出示明章。 各遵依，人民仰望。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘仁瞻上。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "引子",
+          "text": "虎踞雄关多惆怅，持忠心报答君王。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "念",
+          "text": "食君爵禄何谨慎，只在纯忠一片心。从来将相不易得，全凭仁智抚军民。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子暗上。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "下官、刘仁瞻。浙江钱塘人也。武弁出身，屡建战功，蒙唐主深恩，特授总制 兵马，镇守寿春等处。夫人徐氏金花，乃都指挥徐文达之女，兵法出自家传， 万人莫敌。生子应宗，尚在襁褓。次妾花氏迎春，窈窕异常，诗词歌赋，无不 精通，一应往来文书，内外分发，全是此女代笔。哈哈哈……正可谓妻贤妾美。 今当重阳佳节，不免同夫人赏花一回。 来！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "请二位夫人出堂！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子向内。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "后堂传话，有请二位夫人！"
+        },
+        {
+          "character": "二丫鬟",
+          "type": "内同白",
+          "text": "有请二位夫人出堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟、花迎春、徐金花抱刘应宗同上。"
+        },
+        {
+          "character": "徐金花",
+          "type": "引子",
+          "text": "芳名腾雄镇，倾国貌出群。"
+        },
+        {
+          "character": "花迎春",
+          "type": "引子",
+          "text": "自谓颜如玉，当前一枝春。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "相公！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "夫人！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "老爷！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "迎娘！"
+        },
+        {
+          "character": "徐金花、花迎春",
+          "type": "同白",
+          "text": "唤妾等出来，有何吩咐？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "昨日参将何延锡送来万寿菊花甚美，为此今日特备酒宴，与二位夫人共赏。"
+        },
+        {
+          "character": "徐金花、花迎春",
+          "type": "同白",
+          "text": "如此容妾等把盏。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "看酒！"
+        },
+        {
+          "character": "二丫鬟",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "二丫鬟同摆酒。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "菊花重报长空恨， 正值秋色亦撩人。 面对落叶西风紧， 怕睹寒云野外昏。"
+        },
+        {
+          "character": "徐金花",
+          "type": "唱",
+          "text": "且喜未闻兵戈信，"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "佳肴美酒共相亲。"
+        },
+        {
+          "character": "何延锡",
+          "type": "内白",
+          "text": "走哇！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡上。"
+        },
+        {
+          "character": "何延锡",
+          "type": "念",
+          "text": "边报飞来急，特请御敌谋。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "何老爷何事惊慌？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "有紧急军情，特来面禀元帅。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "请少站。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子进门。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "启元帅：何参将有紧急军情面禀。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "传！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子出门。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "何老爷呢？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "元帅传。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡进门。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "何延锡参见元帅！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "将军少礼。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "二位夫人！"
+        },
+        {
+          "character": "徐金花、花迎春",
+          "type": "同白",
+          "text": "将军少礼。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "将军，何故这般惊慌而来？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "今有周王柴荣亲统六师，拜赵匡胤为帅，高怀亮为前部先锋，兵出南界关渡淮， 一路斩关夺寨，势如破竹，离我寿春不过百里！"
+        },
+        {
+          "character": "何延锡",
+          "type": "江儿水",
+          "text": "长江难相近， 浮梁已渡津， 准备队伍列寨营。 飞报不住连连进， 速请筹划御敌人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春看何延锡。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "有这等事！快取令箭过来！"
+        },
+        {
+          "character": "院子",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "院子取令箭。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "将军速去传齐人马。本帅明早五鼓亲至校场点兵御敌，不得有误！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡看花迎春。"
+        },
+        {
+          "character": "何延锡",
+          "type": "念",
+          "text": "无心听使命，有意看佳人。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "魂灵儿都掉了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡下。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "迎娘，即去书写安抚百姓的晓谕，叫他们不必慌张，我自有退敌之策。写就传 与何参将，叫他誊写粘贴各镇。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春出门。"
+        },
+        {
+          "character": "花迎春",
+          "type": "念",
+          "text": "机缘太凑巧，借此好传情。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春下。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "相公，我想周兵势大，岂可独守此关？当速修表上达朝廷，请将协助。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "夫人之言有理。待我先与周兵见过高下，探其兵势，然后在作处置。正是："
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "念",
+          "text": "拼个生和死，与贼见高低。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春上。"
+        },
+        {
+          "character": "花迎春",
+          "type": "念",
+          "text": "眉黛春山谁相问，独向妆台伴孤衾。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "奴家、花氏迎春。生来性格温柔，才华自许。眼前虽是锦衣美食，无奈屈人之 下。适才见何参将丰姿可人；且他年岁未过三十，定是个耐战之将。奴家留神 看他，他也留神看我，直到临别之时，回头望我一笑，彼此都有万种幽怀，实 难启齿。我有意与他呵！"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "寄书传情，意未尽， 恰似那张生逢莺莺， 相逢处，有言难罄。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "哦哦有啦，老爷命我修就晓谕，命他誊写张挂。我不免私修一书，封在晓谕里 边，约他来夜三更之时，打从后花园效那张生偷跳花墙的故事，议定私情，共 成美事，料他决不爽约，有理呀有理！"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "凭着晓谕来牵引， 另一柬，君当谨慎， 密约在，三更时分。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "且住！他哪知道我的卧房住处？倘若走差了路，被夫人拿住，那还了得！哎呀， 不好不好！"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "细沉吟，"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "哦，有啦，我将这安息香点将起来，从墙下插起，直达我的卧房，叫他视香引 路而来，决不误事，有理！"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "君当自小心， 引香须认真。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟上。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "念",
+          "text": "主人军情急，全凭女校书。"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "启禀二夫人：老爷问你晓谕可曾写就，叫快传与何参将去。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "已写就啦。你可付与家丁，叫他面交何参将，千万不可有失！"
+        },
+        {
+          "character": "丫鬟",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "丫鬟下。"
+        },
+        {
+          "character": "花迎春",
+          "type": "念",
+          "text": "红娘柬已寄，静等逾墙人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡上。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "相思成病， 坐卧心烦闷， 恨楚云将巫峰遮隐， 涨蓝桥，盟空订！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兵丁上。"
+        },
+        {
+          "character": "兵丁",
+          "type": "念",
+          "text": "宝帐传晓谕，将士谁敢违。"
+        },
+        {
+          "character": "兵丁",
+          "type": "白",
+          "text": "启老爷：元帅有文书下来。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "拆封！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兵丁拆封递。"
+        },
+        {
+          "character": "兵丁",
+          "type": "白",
+          "text": "老爷，这封角内还有小柬一封。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "取来！"
+        },
+        {
+          "character": "兵丁",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "将这晓谕着书记誊写数十张，拿来用印，好往各镇张挂。"
+        },
+        {
+          "character": "兵丁",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "兵丁下。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "还有小柬一封，我且看来：“何将军私启。”哎呀，想必是机秘军情，须要看 个明白。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡拆封看。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "“花氏迎春敛衽再拜”，哎呀妙哇！"
+        },
+        {
+          "character": "何延锡",
+          "type": "念",
+          "text": "花氏迎春，函达将军：来夜三更，花园而进。 视我信香，引到房门。阳台之上，共会巫云。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "原来是花娘私订，叫我来夜三更时分，从后花园越墙，她以信香引路，直达她 的卧室，定要与我如此如此，这般这般，如此这般，这般如此，哎呀我那迎娘 啊！你有这般怜才之心，我何延锡就在墙头这么一跤跌下去，纵然跌杀，我也 甘心！"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "机缘巧合天注定， 月老冰人早作成。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "我原为她顿起相思。来夜见她之时，定将她那瘦怯怯的软腰这么一抱！"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "做一个久旱逢甘雨， 点点透花心。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手引刘彦真同上。"
+        },
+        {
+          "character": "刘彦真",
+          "type": "念",
+          "text": "宝剑悬秋水，铠甲亮如星。大展擎天手，管教一鼓擒！"
+        },
+        {
+          "character": "刘彦真",
+          "type": "白",
+          "text": "刘彦真。奉了主帅钧命，迎敌周兵。 众将官，迎上前去！"
+        },
+        {
+          "character": "四下手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四下手、刘彦真同走圆场。四上手引高怀亮同上，会阵，起打，高怀亮杀刘彦真。"
+        },
+        {
+          "character": "上手甲",
+          "type": "白",
+          "text": "那贼落马而亡。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "杀上前去！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "唱",
+          "text": "止三合，来将顿亡， 先教他人惊慌！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张万、何延锡同上。"
+        },
+        {
+          "character": "张万",
+          "type": "念",
+          "text": "从来战术休自夸，胜负全凭膂力佳。"
+        },
+        {
+          "character": "何延锡",
+          "type": "念",
+          "text": "临阵渴饮刀头血，倦来雕鞍卧无暇。"
+        },
+        {
+          "character": "张万",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "请了！"
+        },
+        {
+          "character": "张万",
+          "type": "白",
+          "text": "元帅发兵，在此伺候！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠、中军引刘仁瞻同上。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "引子",
+          "text": "兵强将勇，守边疆，哪得安宁！"
+        },
+        {
+          "character": "张万、何延锡",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "站立两厢。"
+        },
+        {
+          "character": "张万、何延锡",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "念",
+          "text": "射柳穿杨箭法奇，区区小丑敢对敌？披甲上阵山川暗，斩将归来日未西。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "某，刘仁瞻。因周兵犯界，已命刘彦真前去迎敌，未知胜负如何。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启元帅：刘将军被高怀亮枪挑而亡；周兵离城不远。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "参将听令！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "命你准备滚木擂石，小心保守城池！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡下。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "张将军听令！"
+        },
+        {
+          "character": "张万",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "命你带领三千人马压住阵角，本帅亲自迎敌！"
+        },
+        {
+          "character": "张万",
+          "type": "白",
+          "text": "得令！ 马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张万下。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "众军士，响炮出城！"
+        },
+        {
+          "character": "四文堂、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "新月雕弓现， 炮响震山川， 簇拥人和马， 步步要当先， 射咽喉，敌胆寒， 金枪管保刺心前！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引高怀亮同上，会阵。四上手、四文堂、四大铠同下。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "马前来将可是高怀亮？"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "然也！来者何人？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "某乃南唐主麾下镇守寿春等处兵马大将军刘！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "啊！你就是刘仁瞻？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "然也！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "刘仁瞻，久闻你乃江南有名之士，缘何不识天时，助那昏愦之主？俺大周显德 皇帝应天顺人，三分天下已有其二。今日亲统六军，定要扫平江南，成就一统 山河，方免生灵涂炭。你若知时务，即早抛戈投顺，不失封官受赏；再若执迷， 难逃身首异处！将军三思！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "怀亮！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "风入松",
+          "text": "任你胡煽扯，敢大言， 试看某： 枪尖动处，你马难前！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮、刘仁瞻同起打，同打对枪，双扯下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、李重进同上。"
+        },
+        {
+          "character": "李重进",
+          "type": "唱",
+          "text": "素铠细鳞圜， 分队观机变， 斜刺里，暗暗潜藏截战。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "某、李重进。闻听先锋与南唐交战，为此赶来相助。 来，迎上前去！"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "李重进",
+          "type": "唱",
+          "text": "沙场铁骑曾经练， 小丑何敢向马前？ （张万上，李重进、张万同起打，对刀，双下。开连环，李重进接攒，张万上，打，张万败下。李重进追下。 高怀亮上，刘仁瞻上，接打，对冲，高怀亮败下。李重进上，射刘仁瞻右肩，张万上，救刘仁瞻同下。李 重进追下。张万上，高怀亮、李重进同追上，同起打，张万败下，高怀亮、李重进同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（场设城。四龙套、何延锡同上城。刘仁瞻、张万、四文堂、四大铠同上，同进城，同下。高怀亮、李重进、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "四上手、四龙套同追上，何延锡乱箭射，高怀亮、李重进、四上手、四龙套同退下。四龙套、何延锡同下。"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "四龙套、高怀亮、李重进、四上手同上。）"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "李重进",
+          "type": "唱",
+          "text": "这回价，始见强悍， 不怕这，弹丸小地顽抗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘仁瞻、张万、何延锡、四文堂、四大铠、中军同上，张万与刘仁瞻拔箭。"
+        },
+        {
+          "character": "张万、何延锡",
+          "type": "同白",
+          "text": "元帅醒来！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "适才误中雕翎箭， 幸喜全身转城关。 马革裹尸有何怨， 只叹孤城难瓦全。"
+        },
+        {
+          "character": "张万、何延锡",
+          "type": "同白",
+          "text": "元帅受惊了。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "多蒙将军努力相救，明日自有谢仪。"
+        },
+        {
+          "character": "张万",
+          "type": "白",
+          "text": "末将出力应当，何敢受赐！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "还有大事重托。那贼见我中箭，必然日夜攻打。就烦将军多备滚木擂石，保得 此城无恙，则是将军之赐也！"
+        },
+        {
+          "character": "张万",
+          "type": "白",
+          "text": "末将敢不尽心保护！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "好，就请办理去吧。"
+        },
+        {
+          "character": "张万、何延锡",
+          "type": "同白",
+          "text": "末将等告退！"
+        },
+        {
+          "character": "张万",
+          "type": "念",
+          "text": "为国辛勤苦，"
+        },
+        {
+          "character": "何延锡",
+          "type": "念",
+          "text": "沙场不避锋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张万、何延锡同下。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "众军回避！"
+        },
+        {
+          "character": "四文堂、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四大铠同下。"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "请老爷后堂安息。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "心忧孤城无救援， 只好飞章奏天颜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘仁瞻、中军同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起初更鼓〗。花迎春上。"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "心如乱绪， 双手腕，难舒起， 双眉愁锁对谁提！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "我们老爷今日出战，被周将伤了一箭，败阵回来，睡在上房，疼痛不止。夫人 命我亲煎参汤，累得我腰酸腿疼，衣服都被汗湿透啦。哎呀，你瞧我倒忘了一 件事情：我曾约何将军今晚跳墙来会，若再耽搁一会儿，不能回房安插信香， 倘被他走错了道儿，哎呀，岂不误了大事？哎呀这！这！这……"
+        },
+        {
+          "character": "徐金花",
+          "type": "内白",
+          "text": "啊二娘，快取参汤来呀！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "却听夫人传唤声， 奴伸手先尝， 叩天祈地， 愿早些安息，奴心欢喜。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小吹打〗。徐金花扶刘仁瞻同上，花迎春递参汤，刘仁瞻饮。"
+        },
+        {
+          "character": "徐金花、花迎春",
+          "type": "同白",
+          "text": "老爷，此时胸中可舒展些么？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "此时自觉神清气爽。只是箭疮痛疼未止，身难动转。"
+        },
+        {
+          "character": "徐金花、花迎春",
+          "type": "同白",
+          "text": "老爷且展舒愁眉，安心调养数日，自然平复。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "唉！这却不甚紧要。但不知城上守御可严紧否？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春假睡。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "城上自有张、何二将守御，料必严紧，请老爷放心将养。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "我虽中箭，不足为忧，倘赵匡胤大兵一到，则寿春休矣！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "既然事在危急，老爷可飞章奏于朝廷，乞求救援。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "夫人言得极是。迎娘！迎娘！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春不理。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "妹妹醒来！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "哟，好困哪！夫人，什么事？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷有话讲。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "老爷有何吩咐？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "你可回房，即于灯下写起奏章，明早要飞报进京。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "老爷贵体未愈，贱妾理当在此伺候，明儿个再写吧。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "有夫人在此，不用你伺候，回房去吧！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "那么今儿晚上我就不过来啦。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "不用你了，去吧。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "如此贱妾告退。 夫人，少陪您啦！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "去吧。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "哎哟，阿弥陀佛！可放了我啦。快快干我们那件事情去吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春下。〖起二更鼓〗。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "谯楼已交二鼓。扶我静室安歇便了。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "看仔细！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "念",
+          "text": "百战杀场曾经练，为将方知报国难。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花扶刘仁瞻同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春执灯上。"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "夜深静后，花房独自愁， 奴懒剔银灯，孤影瘦， 门儿斜倚听更漏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起三更鼓〗。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "啊，已是三更啦，日间曾与何延锡寄柬，约他跳过花墙，我以信香引路，待我 将香点起。哎哟，香啊香啊，你就是月老冰人了！"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "燃香来引诱， 心猿难收将他候， 等郎来到，姻缘成就， 汉皋解珮，相聚首，相聚首。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "香已插好。待我草起稿来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡上。"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "相思成缕，不觉已是三更。 慌忙扒墙头， 步踉跄，紧行走，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡跳墙。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "咦！"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "信香已插就， 跳下墙头，险些把腰扭。 点点红光，红光似豆， 只见迎娘孤灯守。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "啊二夫人！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春看。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "哎呀不好，有贼啦！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "啊！二夫人不要高声，我是小将何延锡在此。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "啊！你夤夜入我内室，有何贵干？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "承蒙夫人呼唤，今夜跳墙，到此赴约。怎么夫人你忘了么？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "岂有此理！我乃宦家之女，元帅之妾，岂可做那伤风败俗之事？你若不快走， 我禀报老爷、夫人知道，怕不把你处死！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "哎呀，现今有你花笺约我，又有信香引路，小将方敢冒死而来，怎么夫人忽而 又做起假惺惺来了？夫人如果贞节，请教这书是何人写的？香是何人插的？只 此两件，纵使元帅、夫人知道，我却有辩，只怕二夫人推不了这勾引的罪名！"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "竹竿儿谁丢，引鱼儿上钩， 承伊相许成婚媾。 反推由，这两件为凭， 你羞我不羞？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "若不从我，倒要禀知元帅。"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "细听这因由， 有情来相觏。 只得上前应酬， 这名节怎留？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "不是呀，我与将军私通，只有谨慎；倘你传说出去，我声名难听啊！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "喂哟！小将蒙夫人手柬，特赴密约而来，又讲什么“名节”二字！"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "迎娘，今夜若得共鸾俦， 我即中馈，不泄漏。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "我却不信。"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "对天把誓留。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "但凭于你。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "天哪！"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "若泄漏，若泄漏， 天雷打煞，地府魂勾！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "言重言重。请起请坐。待我取酒来和你同吃。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "哎呀迎娘，小将如渴骥奔泉，哪还有心饮酒？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "凡事和合，非酒不成。若是无酒，兴从何来？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "如此说来，酒是断断少不得？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "少不得。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "如此叨扰了！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "何郎请酒哇！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "哎呀妙哇！"
+        },
+        {
+          "character": "何延锡",
+          "type": "唱",
+          "text": "觑着你眉儿弯，肉儿细， 倒教我似渴如饥。 掀罗衣，掀罗衣， 来年养一个小淘气， 鸳鸯戏，鸳鸯戏。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "这是做什么？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "求夫人早些安歇了吧。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "啐！哪个不知我是位夫人？要你来称呼，不稀罕。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "不称“夫人”称什么好？哦，“姐姐”如何？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "年幼，当不起！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "这么，“我的亲妹妹”可好？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "哎呀，我那好哥哥啊！"
+        },
+        {
+          "character": "花迎春、何延锡",
+          "type": "同唱",
+          "text": "双心恍惚感温柔， 一刻千金莫迟留。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "哥哥！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "妹妹！"
+        },
+        {
+          "character": "花迎春、何延锡",
+          "type": "同唱",
+          "text": "真似银河畔会女牛。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春、何延锡同入帐。〖起四更鼓〗。徐金花上。"
+        },
+        {
+          "character": "徐金花",
+          "type": "念",
+          "text": "夫婿为国忧，妾亦辗转愁。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷着二娘草稿，不知可曾写就，我来拿与他看。 来此已是。哎呀，灯尚未熄，想必未曾安眠，待我叫门。 开门来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春、何延锡同急出帐，吹灯。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "是哪个？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "是我。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "是夫人吗？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "半夜三更，来此做甚？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷着我取稿本与他看。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "我已吹灯睡啦，明儿早晨再拿吧。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "啊！方才你房中明明有灯，怎么就灭了？其中必有缘故！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡嗽。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "啊！什么人痰嗽？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "没人痰嗽。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "我要打进去了！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "不用夫人进来，待我起床开门就是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡急，花迎春无奈、开门，何延锡跑，徐金花扯。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哪里走！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "哎哟！求夫人饶命！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "你不是何延锡么？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "是！是！小将该死！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "住了！元帅以你为心腹之人，谁知你竟人面兽心，做出这样伤风败俗的事来！"
+        },
+        {
+          "character": "徐金花",
+          "type": "唱",
+          "text": "井底蛙，人气煞， 登翠楼，全不怕， 擅敢偷香遗臭， 可知刀头剑底下？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "我也不管，同去见老爷！"
+        },
+        {
+          "character": "花迎春、何延锡",
+          "type": "同白",
+          "text": "哎呀！求夫人开天高地厚之恩，饶恕我二人狗命，保全老爷脸面，今后再也不 敢了！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "好个“不敢了”！何延锡，今后若不急早醒悟，不但元帅军纪可畏，可知我的 家法厉害？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "是！是！夫人训教极是。延锡从今醒悟，改过自新。若还再犯，听凭夫人碎尸 万段！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "嗯！还不走去？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "多谢夫人生全！ 哎呀险哪！我再也不敢造次了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡下。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀且住！不想此婢做出这样丑事，我若不将她处治，将来必与大局有碍，嗯， 我就此将她——哎呀不可！今我夫身受箭伤，十分沉重。我若将她置于死地， 老爷得知，岂不是病上加病！哎呀，这却怎么处？罢！还是暂且忍耐在心， 待老爷病愈，再作区处。唉！此时倒要安慰她几句。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花换笑脸。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎哟，妹妹你起来，你呀，真是聪明一世，懵懂一时，既是知书达理之人，怎 么做出这样丑事？况且老爷近来待你十分恩爱：在你房中日子多，在我房里日 子少；要论穿戴，你我俱是一般，并未分个大小，哪样不足你的心？怎么一点 体面都不顾？你也不想想，做妇人的以什么为贵呀？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春羞。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "起来。知过必改，便是人杰。从此你要改过自新，总要保住名节要紧！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "多谢夫人训教！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "稿本可曾写完？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "还有一半没写哪。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "快快写好送去。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "徐金花",
+          "type": "念",
+          "text": "果然多少红颜女，总向风花队里亡。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "送夫人！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "不消！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花下。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "呀啐！哎呀，好一位宽洪大量的夫人，竟将此事按下去啦。若被老爷撞见，怕 不是这么一刀！我这颗头也就咕噜落地啦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春伸舌，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮上。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "念",
+          "text": "杀气连天动，红日耀目瞳。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启将军：元帅驾到。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "大开营门，有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大吹打〗。四龙套、四大铠引赵匡胤同上。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "贤弟马到建功，可喜可贺！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "末将蒙李将军相助，方能头阵立功。但此城未下，末将何功之有！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "吾闻刘仁瞻乃江南名士，若得此人投降，则吾又添羽翼。可将人马列于城下， 待吾亲自说他来降，试彼声气如何。他若不降，再为攻城之计。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "元帅言之有理。 众军士，带马城下去者！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花抱刘应宗、花迎春扶刘仁瞻同上。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "引子",
+          "text": "两鬓霜斑兼泪痕，叹眼底难扫烟尘。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷今日可好些么？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "似觉略好。不知周兵可来讨战？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "妾身也曾吩咐：挂了免战牌，护守城池。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "这便才是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内呐喊声。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "啊！遥听人马喧哗，定是周兵攻打。唉，孤城难保也！"
+        },
+        {
+          "character": "家丁",
+          "type": "内白",
+          "text": "走啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家丁上。"
+        },
+        {
+          "character": "家丁",
+          "type": "念",
+          "text": "贼兵困危城，军民日夜惊。"
+        },
+        {
+          "character": "家丁",
+          "type": "白",
+          "text": "启老爷：周营元帅赵匡胤亲来城下，请老爷上城答话。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "唔，他来不过是说我归降之意。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷，今当如何？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "唉！夫人，你难道不知我的为人？食君之禄，当报国恩，岂肯忘其素志乎？来， 看冠戴伺候！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷伤痕未痊，不必冠戴会他了！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "我闻赵匡胤乃天下名士，如今总理兵权，非他人可比，我今当以大义说之。惟 愿唐主洪福齐天，我祖厚德汪洋，若能说退周兵，是国家大幸也。倘若此城一 破，我仁瞻马革裹尸，分所当然。只有此子——"
+        },
+        {
+          "character": "徐金花、花迎春",
+          "type": "同哭",
+          "text": "喂呀，老爷呀！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "我料赵公仁德，必不加诛。你二人有此骨血，或可接我宗祧，无庸过虑。快来 穿戴！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖大吹打〗。刘仁瞻换衣。四龙套、四大铠、中军自两边分上。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "你们回避了！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷小心在意！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "我晓得。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "老爷，如果赵元帅当真说降，不如就归顺了吧。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "嗯，无知女流，擅敢胡言！我怎肯遗臭千古？不看素日勤劳，定要掌嘴。回避 了！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "随我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花、花迎春同下。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "场设城。赵匡胤、高怀亮、四龙套、四大铠同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "威风凛凛天兵到， 杀气腾腾透九霄， 旌旗闪闪空中绕， 将士纷纷列枪刀。 各路俱已纳降表， 惟有南唐不来朝。 因此奉命来征讨， 寿春城下把战交。 刘仁瞻明知天兵到， 擅抗王师动枪刀。 三军与爷放号炮！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "人马暂扎在城壕。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "来，请他家元帅上城答话！"
+        },
+        {
+          "character": "大铠甲",
+          "type": "白",
+          "text": "得令。 呔！城上听者：我家元帅请刘元帅上城答话！"
+        },
+        {
+          "character": "龙套甲",
+          "type": "内白",
+          "text": "候着！ 赵元帅请元帅上城答话！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "内白",
+          "text": "扎住了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四大铠、中军、刘仁瞻、大纛旗同上，同上城。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "赵元帅请了！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "请了！城上可是刘元帅？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "然！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "赵某马上不能全礼，刘元帅恕罪！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "岂敢！念某抱有微恙，不便站立讲话。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "既是元帅贵体违和，请坐何妨！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "如此恕仁瞻无理了。赵元帅不在汴梁，无故兴兵，是何道理？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "我主大周皇帝正统天下，驾坐汴梁，各路俱已投降；惟有南唐不纳版图，为此 亲统大兵前来。请元帅归降我主，不失封侯之位。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "赵元帅稳坐雕鞍，听刘某一言告禀！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "正要请教。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "自我神尧高祖皇帝灭夏翦隋，建立唐室，统一山河，相传数百年基业。前遭黄 巢之变，后被朱温之僭，以致五帝纷争，共分唐室。今我主本大唐苗裔，偏居 江南弹丸之土，自耕自食，以奉宗祀，并不想恢复旧日之华夷。你周主既得东、 西、北三京之地，还有何事不足？今日妄自兴兵，又欲吞我吴越。吾江南虽 小，亦带甲数百万、猛将千员；且刘某不才，守此咽喉，未必能下。奉劝元帅 及早回戈，以此为界，各守疆土，彼此无分上下，两国交质为亲，岂不美哉！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "周、唐交质， 咱两国守同盟， 休要称雄， 免教黎民惊恐。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "元帅言得虽是。但这天下，并非一人之天下，惟有德者居之。你祖神尧原非创 业天子，宿炀帝之宫，纳炀帝之妃，蚕食天下二百余年，福已尽矣。今天命攸 归，惟我大周有之。且东、北、西三方俱皆归服，只有汝之江南尚未来降。为 此吾皇亲统六师，大下江南，实有泰山压卵之势。但元帅之贤名，赵某慕之已 久，能达天时，能识时务，故尔亲来面请，早竖降旗，归顺我主，真乃生灵之 幸也！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "劝你早早顺天命， 少若迟延一城空。 休称勇，免争横， 请看天兵抖威风： 人如虎，马如龙， 自然一战定成功。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "赵元帅休说狂言大话，我寿春兵虽少，血气勇，若待刘某病愈，管叫尔片甲不 回！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "唱",
+          "text": "闻言怒气冲霄汉， 管叫尔玉石俱焚。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "攻城！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！ （赵匡胤、高怀亮、四龙套、四大铠同攻城，刘仁瞻、四龙套、四大铠同射箭介，赵匡胤、高怀亮、四龙套、 四大铠同卷旗下。）"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "众将官，多备滚木擂石，轮流把守！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "赵匡胤、高怀亮、四龙套、四大铠同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "且住！寿春如此坚固，叫本帅如何攻取？"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "元帅，想寿春乃弹丸之地，谅他难以久守。不如将此城团团围住，待彼粮尽， 那贼不战自降。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "此计甚好。 众将官，将寿春团团围住！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": "刘仁瞻",
+          "type": "内白",
+          "text": "人马回府！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。四龙套、四大铠、中军、张万、刘仁瞻同上。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "自叹身受国恩浩， 不能答报微劳。 黎民闾巷悲声悼， 同城池，将来难保。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "本帅、刘仁瞻。被周将暗伤一箭，以此抱恙。不料赵匡胤人马围困四门，水泄 不通。我只望以大义说退于他，岂知他反来攻打甚急。唉！如今无兵救援，眼 见此城破在旦夕了！"
+        },
+        {
+          "character": "张万",
+          "type": "白",
+          "text": "末将闻得夫人智勇无双，何不回府与夫人商议退敌之策？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "她虽然武艺甚好，无奈终是女流。既是将军如此道及，我且回府探她口气如何。 烦将军速去保护城池！"
+        },
+        {
+          "character": "张万",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张万下。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "回府！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "且将这兵势细告， 探夫人何计消。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。"
+        },
+        {
+          "character": "龙套甲",
+          "type": "白",
+          "text": "元帅回府。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "回避了！"
+        },
+        {
+          "character": "四龙套、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四大铠、中军自两边分下。家丁暗上。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "来，请夫人出堂！"
+        },
+        {
+          "character": "家丁",
+          "type": "白",
+          "text": "请夫人出堂！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花、花迎春同上。"
+        },
+        {
+          "character": "徐金花、花迎春",
+          "type": "同唱",
+          "text": "寿春无故遭围困， 须得良谋保孤城。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷回来了？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "赵匡胤约老爷上城，有何话讲？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "他不过是劝我归降而已。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "老爷如何回他？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "我以大义回他，各尽臣节。且吾堂堂大将，耿耿忠心，岂做那偷生背主丧节之 徒！"
+        },
+        {
+          "character": "徐金花相",
+          "type": "白",
+          "text": "公且免愁烦。虽然周兵围城，但我寿春兵精粮足，日夜防守，一时难以攻破。 老爷安心调养，待等病愈，再定良策。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "话虽如此，怎奈赵匡胤连日讨战，岂可忍辱不出？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "也罢！明日再若来时，妾身亲自出马，叫他知道我的厉害！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "夫人虽然英勇，无奈周兵势众，一时焉能斩尽杀绝？依我看来，唐室气衰，周 室当兴，不如早降，免得生灵涂炭。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "掌嘴！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "忠臣死节是正道， 岂肯背主降他朝？ 再若胡言乱语道， 准备项上吃一刀！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "我说错啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春跪。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "呀呀呸！此乃军国大事，岂有你多嘴之理？若不看素日勤劳，定要掌嘴！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "起来吧。妹妹你这里来！君家变化无常，你知道什么？快去熬参汤去吧！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春出门。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "嘿，这儿老葬头，我也瞧出来啦，跟他也没有什么福享啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春下。刘仁瞻怒。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷不必动怒，妾身明日出马，自有好音。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "如此你可带兵三千，再命张万多备弓弩手，压住阵角。须要小心，不可恋战！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "妾身知道。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "天哪，天！但愿早退周兵，乃唐室之幸也！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "明日周兵若来到， 准备弓马枪和刀。 但愿一阵把贼扫， 巾帼丈夫美名标。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘仁瞻、徐金花自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮上，起霸。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "新水令",
+          "text": "天生膂力气冲霄， 仗花枪，名称卓耀， 任他奇技勇， 敢向咱拼较！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "念",
+          "text": "父子公孙世有名，高家屡代立功勋。视此弹丸何难下？不忍荼毒众生灵。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "某、高怀亮。昨日元帅顺说刘仁瞻，奈他执意不允。我想六军既捣江南，将作 席卷之势，若还假以仁义，岂不劳师困众？为此带兵而来，我要力破寿春，方 可顺流而下。"
+        },
+        {
+          "character": "四上手",
+          "type": "内同白",
+          "text": "启爷：城中有群人马来了。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "众军士！"
+        },
+        {
+          "character": "四上手",
+          "type": "内同白",
+          "text": "有！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同上。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "新水令",
+          "text": "准备枪刀， 我可也一战尽扫。"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套、四女兵、徐金花执刀同上。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "呔！马前女将，通名受死！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "听者：我乃南唐大元帅刘仁瞻正配徐氏夫人是也！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "为何发笑？"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "我笑南唐竟无战将，却叫妇人出马，岂不辱没我的金枪？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "住了！兵戈出自女皇，从古战场中巾帼颇多，岂独你夫人。尔且通上名来，免 做夫人刀下无名之鬼！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "听者：我乃大周显德皇帝驾下征南总先锋高。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "啊！你就是高怀亮么？"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "然！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮、徐金花同起打，劈三刀，亮住。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "得胜令",
+          "text": "乍闻名，顿叫我心似火烧， 狭路儿恰遇这鸱鸮。 唐与周，说什么谁低谁高， 为什么称强梁把兵交？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀贼子！"
+        },
+        {
+          "character": "徐金花",
+          "type": "得胜令",
+          "text": "堪恨凭施计巧， 你那里放冷箭，将奴夫抛。 你惜头颅，急抛戈， 将尔饶，将尔饶，将尔饶！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮、徐金花同起打，高怀亮、四上手同败下，徐金花、四龙套、四女兵同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠、李重进同上。"
+        },
+        {
+          "character": "李重进",
+          "type": "侥侥令",
+          "text": "将佐虽不肖， 智勇胜同僚， 一朝得胜姓字表。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启将军：城中有一女将，十分骁勇，高先锋战她不胜，请将军助战！"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "啊！何来妇人，如此厉害，我那先锋便战她不下？"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "闻那女将乃唐家徐都指挥之女、刘仁瞻正配夫人，兵法出自家传，刀法无人敢 敌，所以高将军战她不下。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "众将官，杀上前去！"
+        },
+        {
+          "character": "四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮、四上手同败上，徐金花、四龙套、四女兵同追上，李重进上，架住。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李重进、徐金花同起打，退开。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "沽美酒",
+          "text": "这女将，称凶骁，称凶骁！ 可知我膂力高？ 要试宝刀近前瞧！ 她那里怎的英豪， 我这里将尔头削， 除非是插翅飞高。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "我呵！"
+        },
+        {
+          "character": "徐金花",
+          "type": "沽美酒",
+          "text": "我本是巾帼英豪， 徐夫人哪个不晓？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "徐金花",
+          "type": "沽美酒",
+          "text": "休仗凭须眉强暴！ （高怀亮、徐金花同起打，高怀亮下。李重进挑徐金花刀，徐金花出双剑，败至右下角，李重进劈头，徐金 花闪退，挑李重进刀，李重进右翻身，刀劈徐金花，徐金花低头挑刀，李重进左翻身，下马倒地，徐金花双 剑砍介。高怀亮上，架住。李重进起身上马，同战徐金花。徐金花败下，李重进、高怀亮同追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（场设城门。四龙套持弓箭、张万同上，同登城。徐金花、四龙套、四女兵同上，同进城，同下。李重进、"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "高怀亮、四上手、四大铠同上，同攻城，张万、四龙套同放箭，高怀亮、李重进、四上手、四大铠同退下。"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "张万、四龙套同下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮、李重进、四上手、四大铠同上。"
+        },
+        {
+          "character": "四上手、四大铠",
+          "type": "同白",
+          "text": "女将败进城内去了。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "起过。 哎呀，不想刘夫人竟如此的英勇。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "我指望赶来相助，不想被她打下马来。不是将军力救，须眉反做巾帼剑下之鬼。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "她虽然败进关去，此城终不易破。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "你我齐心努力，轮流攻打，何愁此城不下！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "各自回营，饱餐战饭，少刻再来奋勇攻打。"
+        },
+        {
+          "character": "四上手、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖急急风〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 22,
+      "name": "第二十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春上。"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "寿春兵火乱仓惶， 黎民悲愁日夜忙。 一朝城陷将谁傍？ 哪堪对镜理红妆！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花上。"
+        },
+        {
+          "character": "徐金花",
+          "type": "唱",
+          "text": "指望一战退周将， 败阵归来心自伤。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "夫人回来啦？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "回来了。老爷可好些么？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "方才沉沉而睡，也不见甚好。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "如此不可惊动于他。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "夫人出城会战，胜负如何？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "唉！周兵势众，难以取胜，也不敢恋战，只得败进城来。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "夫人辛苦啦。请卸甲歇息去吧。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "周兵不时攻打，安敢卸甲？为姐还要亲自巡城，方保无虞。你可吩咐兵丁多备 火把伺候，我去看看老爷，还要巡视城池。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "徐金花",
+          "type": "念",
+          "text": "国家不幸遭兵荒，生灵涂炭最堪伤。"
+        },
+        {
+          "character": "花迎春",
+          "type": "念",
+          "text": "兴亡祸福凭天降，"
+        },
+        {
+          "character": "徐金花",
+          "type": "念",
+          "text": "不是知人不与商。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花下。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "且住！我想老爷身负重伤，夫人又不能取胜，周兵日夜攻打，眼见此城破在旦 夕。哎呀，倘若此城一破，全家定被捉获，那时我的性命就有些难保啦！不免 修书一封，外面写老爷的书启，寄与何将军，叫他在西门等候。我再改扮男装， 盗了令箭，一同开城投降，一来可保性命，二来我与何将军做个长久夫妻， 岂不美哉！待我修起书来！"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "展开花笺写几行， 拜上将军细参详： 西门等妾一同往， 密献城池早投降。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "书已修好。 梅香哪里？"
+        },
+        {
+          "character": "梅香",
+          "type": "内白",
+          "text": "来啦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅香上。"
+        },
+        {
+          "character": "梅香",
+          "type": "念",
+          "text": "日夜心煎熬，何时得安然。"
+        },
+        {
+          "character": "梅香",
+          "type": "白",
+          "text": "二夫人何事？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "快唤家丁进来！"
+        },
+        {
+          "character": "梅香",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅香下。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "天哪，天！若得此事成就，奴当大大香花顶礼相酬！"
+        },
+        {
+          "character": "梅香",
+          "type": "内白",
+          "text": "随我来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅香引家丁同上。"
+        },
+        {
+          "character": "家丁",
+          "type": "念",
+          "text": "上房传唤紧，不知为何因。"
+        },
+        {
+          "character": "家丁",
+          "type": "白",
+          "text": "二夫人有何吩咐？"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "这是老爷要紧书信，递与何参将开看，不可泄漏！再吩咐巡夜兵丁，多备火把 灯球，大夫人今晚要亲自巡城，快去！"
+        },
+        {
+          "character": "家丁",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家丁出门。"
+        },
+        {
+          "character": "家丁",
+          "type": "念",
+          "text": "夫人传口令，属下怎敢迟？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家丁下。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "你也回避！"
+        },
+        {
+          "character": "梅香",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "梅香下。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "我且进房，乔装起来！"
+        },
+        {
+          "character": "花迎春",
+          "type": "唱",
+          "text": "即忙改扮男儿样， 好献城关免祸殃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 23,
+      "name": "第二十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家丁上。"
+        },
+        {
+          "character": "家丁",
+          "type": "念",
+          "text": "后堂领使命，书递当事人。"
+        },
+        {
+          "character": "家丁",
+          "type": "白",
+          "text": "何老爷何在？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡上。"
+        },
+        {
+          "character": "何延锡",
+          "type": "念",
+          "text": "终日心烦忧，何时展眉头。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "什么事情？"
+        },
+        {
+          "character": "家丁",
+          "type": "白",
+          "text": "这是元帅要紧书信，叫何老爷私自开看照办。又吩咐巡夜兵丁多备火把，大夫 人今夜要亲自巡城，叫他们小心伺候，不得违误！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "知道了。你且去吧。"
+        },
+        {
+          "character": "家丁",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "家丁下。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "我且往官厅一看，是何紧要之事！"
+        },
+        {
+          "character": "何延锡",
+          "type": "驻云飞",
+          "text": "徐步官厅， 且看书中是何因。 花笺忙启看， 花氏达君听。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "喳！"
+        },
+        {
+          "character": "何延锡",
+          "type": "驻云飞",
+          "text": "私取军中令， 今晚三更， 献城纳款， 好救军与民， 且你我，永远效双星。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "我道什么机密，原来花二夫人约我今晚在西门等候，她却女扮男装而来一同献 城投降。哎呀，迎娘啊迎娘！你有如此高才，真我何延锡之万幸！况且，我归 周之心久矣，今日有此机会，献了此关，不但有封侯之赏，而且又得此佳人， 我好侥幸也！"
+        },
+        {
+          "character": "何延锡",
+          "type": "驻云飞",
+          "text": "巧计天生， 此段功劳正当行。 改邪去归正， 早把山河定。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "喳！"
+        },
+        {
+          "character": "何延锡",
+          "type": "驻云飞",
+          "text": "又得此佳人， 欢娱日增。 双双偕老、百年永和顺， 孔雀屏开一箭成。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 24,
+      "name": "第二十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起初更鼓〗。四女兵持灯抱刀引徐金花同上。"
+        },
+        {
+          "character": "徐金花",
+          "type": "醉花阴",
+          "text": "威德当超， 震寰宇，扶日月， 光临九霄。 歌唐尧，乐舜虞， 玉牒书，历万年， 千古昭昭。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "唉！只因老爷抱病，不能理事，周兵日夜攻打，此城倘有疏虞，那还了得？因 此我亲自来巡视，用心提放。 众女兵，带马北门去者！"
+        },
+        {
+          "character": "四女兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "徐金花",
+          "type": "醉花阴",
+          "text": "我非是，图功劳， 须提防，敌人施计巧。 我只效， 猛男儿，君王保。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 25,
+      "name": "第二十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春男装持令箭上。"
+        },
+        {
+          "character": "花迎春",
+          "type": "画眉序",
+          "text": "献城佐唐虞， 暗助商周似伊吕， 见满城灯火，不错规模。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "我花——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春两望。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "花氏迎春。只为保全自己身命，才出此良谋，改扮男装，盗了令箭，悄悄出府， 不免往西门去者！"
+        },
+        {
+          "character": "花迎春",
+          "type": "画眉序",
+          "text": "兵严严摆列刀锋， 好趁此机关前赴。 要将此城推周有， 哪顾得芳名自污。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 26,
+      "name": "第二十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四女兵引徐金花同上。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "徐金花",
+          "type": "喜迁莺",
+          "text": "已似长城铁链环绕， 已似长城铁链环绕， 望东南，"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "徐金花",
+          "type": "喜迁莺",
+          "text": "灯火明燎，连夜通宵。 俺只为守疆土把国保， 画图形，麒麟阁上把名标。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、更夫同上。"
+        },
+        {
+          "character": "四军士、更夫",
+          "type": "同白",
+          "text": "呔！什么人？"
+        },
+        {
+          "character": "女兵甲",
+          "type": "白",
+          "text": "夫人在此！"
+        },
+        {
+          "character": "四军士、更夫",
+          "type": "同白",
+          "text": "原来是夫人。小人们不知，多多有罪！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "起来。"
+        },
+        {
+          "character": "四军士、更夫",
+          "type": "同白",
+          "text": "谢夫人！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "你们若见贼兵攻城，努力保护，不可懒惰。若保城关无恙，尔等重重有赏。"
+        },
+        {
+          "character": "四军士、更夫",
+          "type": "同白",
+          "text": "遵夫人之命。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "各自小心把守！"
+        },
+        {
+          "character": "四军士、更夫",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、更夫同下。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "来，转到东门去者！"
+        },
+        {
+          "character": "四女兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "徐金花",
+          "type": "喜迁莺",
+          "text": "端的是，敌人浩， 他怎知我军民共保。 受国恩，地厚天高， 受国恩，地厚天高。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 27,
+      "name": "第二十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起二更鼓〗。何延锡上。"
+        },
+        {
+          "character": "何延锡",
+          "type": "画眉序",
+          "text": "天遣神灵助， 要把功名别样谋。 正二更三点，人马皆齐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "花迎春上。"
+        },
+        {
+          "character": "花迎春",
+          "type": "画眉序",
+          "text": "灯朗朗一似白日。"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "何将军！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "哎呀，我的宝——"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "噤声！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡、花迎春分两望。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "我的活宝贝，你真是计出万全也！"
+        },
+        {
+          "character": "花迎春",
+          "type": "白",
+          "text": "不必多言。令箭在此，快到城上去。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "有理！"
+        },
+        {
+          "character": "何延锡",
+          "type": "画眉序",
+          "text": "心慌张，犹如撞鹿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡、花迎春同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 28,
+      "name": "第二十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "场设城。四军士同守城。高怀亮、李重进、四上手、四大铠同上。"
+        },
+        {
+          "character": "李重进",
+          "type": "唱",
+          "text": "征夫慢说狼如虎， 斩敌人，势如破竹。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "众军士，与我齐心攻打！"
+        },
+        {
+          "character": "四上手、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、四大铠同攻城。何延锡、花迎春同上城。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "呔！周将听者：我家元帅不忍生灵涂炭，情愿献城投降，命我持令开关。请将 军切勿妄杀。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "你家元帅既已愿降，就请大开城门，我等决不妄杀。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "多谢将军大德。 来，快快开城！"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "何将军，我家元帅从来忠心保国，乃是有肝胆的丈夫。况有夫人亲自巡城，这 “投降”二字从何说起？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "住了！元帅只为病重，恐难久守，若被打破城池，玉石俱焚，故尔命我持令献 关。若不开城，立即斩首！"
+        },
+        {
+          "character": "四军士",
+          "type": "同白",
+          "text": "开城！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "这厮想是私献城池的。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "不要管他，你我先将刘仁瞻拿住便了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "开城。高怀亮、李重进、四上手、四大铠同进城。四军士同暗下。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "献城者何人？"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "末将何延锡，同兄弟延福叩头！"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "请起。"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "谢将军！"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "来，将他两人送回大营！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！ 这里来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手带何延锡、花迎春同下。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "快到刘帅府去者！"
+        },
+        {
+          "character": "四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 29,
+      "name": "第二十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖起三更鼓〗。四女兵引徐金花同上。"
+        },
+        {
+          "character": "徐金花",
+          "type": "出队子",
+          "text": "早则是谯楼三鼓，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内呐喊声。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "徐金花",
+          "type": "出队子",
+          "text": "只听得，喊杀声把人惊， 恁的喧呼。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "啊！忽听喊杀之声，令人可疑，莫非贼兵入城了！"
+        },
+        {
+          "character": "徐金花",
+          "type": "出队子",
+          "text": "恰怎生，似乎小丑， 灌我的城壕。 仿佛的，仿佛的， 无数敌兵喊声高。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内喊杀声。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "听这喊杀连天，定有不详。 众女兵快快回府！"
+        },
+        {
+          "character": "四女兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "徐金花",
+          "type": "出队子",
+          "text": "急得我紧加鞭， 把金镫来敲，帅府来保。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 30,
+      "name": "第三十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引张万同上。"
+        },
+        {
+          "character": "张万",
+          "type": "滴溜子",
+          "text": "端则听听听， 杀声齐举， 见云梯，见云梯， 遍城四布， 教俺无计可处。"
+        },
+        {
+          "character": "张万",
+          "type": "白",
+          "text": "某、张万。正在守护北门，忽听城外喊杀连天，定是哪门防守不严，被贼兵冲 进来了。 来，快快迎上前去。"
+        },
+        {
+          "character": "四军士",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "张万",
+          "type": "滴溜子",
+          "text": "狼烟迷轻雾， 城破踌蹰， 拼死报答皇王圣主。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮、李重进、四上手、四大铠同上，杀死张万。高怀亮、李重进、四上手、四大铠同走圆场。"
+        },
+        {
+          "character": "四上手、四大铠",
+          "type": "同白",
+          "text": "来此帅府。"
+        },
+        {
+          "character": "高怀亮",
+          "type": "白",
+          "text": "只要生擒刘仁瞻，不许伤害他的家小，违令者斩！"
+        },
+        {
+          "character": "四上手、四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、四大铠自两边分冲下。家丁、丫鬟自两边分上，分冲下。四上手绑刘仁瞻同上。"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "刘仁瞻拿到。"
+        },
+        {
+          "character": "高怀亮、李重进",
+          "type": "同白",
+          "text": "将他押回大营！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "罢了哇，罢了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手、高怀亮、李重进拥刘仁瞻同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 31,
+      "name": "第三十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花、四女兵同上。"
+        },
+        {
+          "character": "徐金花",
+          "type": "刮地风",
+          "text": "又见火似飞红万里遥！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "抽头。四女兵、徐金花同走斜一字。"
+        },
+        {
+          "character": "徐金花",
+          "type": "刮地风",
+          "text": "莫不是城难保牢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众百姓同跑上，过场，同下。徐金花望。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "徐金花",
+          "type": "刮地风",
+          "text": "这见这百姓纷纷乱奔逃， 我只得向前去细看分晓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "高怀亮、李重进、四上手押刘仁瞻同上，徐金花看。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "啊，看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手押刘仁瞻同下。高怀亮、李重进、徐金花同起打，对打。高怀亮、李重进同下。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀不好了！"
+        },
+        {
+          "character": "徐金花",
+          "type": "刮地风",
+          "text": "又只见我儿夫， 为什么身被他人缚？ 缚在马鞍鞒，我怎不心焦！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "徐金花",
+          "type": "刮地风",
+          "text": "活活的应宗儿不知下梢。 我把应宗儿来寻找！ 我一家，生差差的散了。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀，城池已破，老爷被擒，不知我那应宗儿生死存亡。 来，快快回府看来！"
+        },
+        {
+          "character": "四女兵",
+          "type": "同白",
+          "text": "是。 里面可有人么？夫人回来了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侍女跑上。"
+        },
+        {
+          "character": "侍女",
+          "type": "白",
+          "text": "哎呀夫人哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侍女哭。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "你且不要啼哭。公子呢？"
+        },
+        {
+          "character": "侍女",
+          "type": "白",
+          "text": "幸而无恙。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "快快抱过来！"
+        },
+        {
+          "character": "侍女",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "侍女下，抱刘应宗上。"
+        },
+        {
+          "character": "侍女",
+          "type": "白",
+          "text": "夫人，公子在此。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀儿呀！"
+        },
+        {
+          "character": "徐金花",
+          "type": "刮地风",
+          "text": "险教你命赴阴曹。 我一见襁褓， 怎不痛哭嚎啕！ 叹儿夫命悬悬，生死难料， 还有甚拿云手，我救夫主出笼牢？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "内呐喊声。"
+        },
+        {
+          "character": "侍女",
+          "type": "白",
+          "text": "夫人哪！贼兵呐喊，这便怎么处？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "不必惊慌。我闻赵元帅仁厚，决不妄杀你们。可紧闭府门。我去打听老爷生死， 即回保护你们便了。 带马！"
+        },
+        {
+          "character": "侍女",
+          "type": "白",
+          "text": "夫人小心了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花、四女兵、侍女自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 32,
+      "name": "第三十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四大铠引韩通同上。"
+        },
+        {
+          "character": "韩通",
+          "type": "滴滴金",
+          "text": "奉将令，统兵相援救， 接应大队随后到。 为将须把狼烟扫， 在青史册上把名标。"
+        },
+        {
+          "character": "韩通",
+          "type": "白",
+          "text": "某、韩通。闻寿春城献，非刘仁瞻本意。恐元帅大兵入城有失，故命某赶来接 应。 来，迎上前去！"
+        },
+        {
+          "character": "四大铠",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "韩通",
+          "type": "滴滴金",
+          "text": "统兵来到，又何怕奸诈诡谋蹊跷。 驱逐小丑，只在这遭。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩通、四大铠同走圆场，同往右倒脱鞋。四上手拥刘仁瞻同上，韩通、四大铠接四上手、刘仁瞻同下。"
+        },
+        {
+          "character": "徐金花",
+          "type": "内白",
+          "text": "哪里走！ （四女兵、徐金花同上，高怀亮、李重进同上，大战。四上手擒四女兵同下。韩通上，韩通、高怀亮、李重 进同战徐金花，徐金花出双剑战，韩通、高怀亮、李重进同败下。）"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀老爷呀！"
+        },
+        {
+          "character": "徐金花",
+          "type": "四门子",
+          "text": "尽我们母子凭天保， 尽我们母子凭天保， 我叹！我叹！我叹夫主受煎熬。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "且住！看他兵将一似水涌而来，叫奴独自一个怎能杀尽，如何救得相公？也罢！ 不免闯进周营，与老爷同死一处便了！"
+        },
+        {
+          "character": "徐金花",
+          "type": "四门子",
+          "text": "怪他兴无故的兵，犯寿春道，"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "呀！"
+        },
+        {
+          "character": "徐金花",
+          "type": "四门子",
+          "text": "怎不叫我心如火烧！ 恁叫我活活的把夫妻情抛， 便叫我痛儿夫，也止不住的珠泪儿往下抛。 我只得向周营——"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "徐金花",
+          "type": "四门子",
+          "text": "拼一死！ 苦只苦娇儿难见了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 33,
+      "name": "第三十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。四龙套、四大铠引赵匡胤同上。韩通、高怀亮、李重进同上。"
+        },
+        {
+          "character": "李重进、高怀亮、韩通",
+          "type": "同白",
+          "text": "启元帅：刘仁瞻拿到。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "押上来！"
+        },
+        {
+          "character": "李重进、高怀亮、韩通",
+          "type": "同白",
+          "text": "押上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手押刘仁瞻同上。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "快快松绑！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手同与刘仁瞻松绑。赵匡胤离座。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "啊刘元帅，你今城关既破，大势已去。赵某念公抱有经天纬地之才，忠肝义胆 之腹，怎忍加害？公可乘此机会归我大周，不失封妻荫子之荣。公自思之。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "唉！想我刘仁瞻既已失城被擒，马革裹尸，尚不足掩我之罪。倘再偷生改节， 有何面目见先皇于九泉，对祖宗于地下也！"
+        },
+        {
+          "character": "徐金花",
+          "type": "内白",
+          "text": "老爷在哪里？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花冲上，砍四上手，韩通、高怀亮、李重进同架住。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "住手！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘仁瞻、徐金花相抱同哭。"
+        },
+        {
+          "character": "刘仁瞻、徐金花",
+          "type": "同白",
+          "text": "哎呀（夫人哪）（老爷呀）！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "啊老爷，你素来心如铁石，何得今日改节降人呢？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "啊！这“降”字从何说起？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "城中纷纷传说，是你传令献关。不然，这城池如何得开？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "啊！我何曾传什么令，献什么城？咳，冤哉呀，冤哉！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "元帅有所不知，你国参将何延锡同他兄弟何延福手持令箭，传说：元帅有令， 献城纳降。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "啊！何延锡有甚兄弟，就烦元帅唤此二贼一见。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "来，唤何氏弟兄过来！"
+        },
+        {
+          "character": "上手甲",
+          "type": "白",
+          "text": "何延锡弟兄进帐！"
+        },
+        {
+          "character": "何延锡、花迎春",
+          "type": "内同白",
+          "text": "来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡、花迎春同上。"
+        },
+        {
+          "character": "何延锡",
+          "type": "念",
+          "text": "明中称兄弟，"
+        },
+        {
+          "character": "花迎春",
+          "type": "念",
+          "text": "暗里是夫妻。"
+        },
+        {
+          "character": "何延锡、花迎春",
+          "type": "同白",
+          "text": "啊元——哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "何延锡、花迎春同跑，四上手同挡住。"
+        },
+        {
+          "character": "何延锡、花迎春",
+          "type": "同白",
+          "text": "老爷、夫人饶命哪！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花除花迎春帻。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘仁瞻昏倒。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷醒来！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "唱",
+          "text": "见淫妇，怒火烧， 残害着寿春百姓冤孽怎消！ 乱门庭，竟私奔，廉耻全不保。 恨贱婢，竟把我恩情一旦抛。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀老爷呀，这都是妾身之错了。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "夫人有何错处？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "这贱人私通何延锡——"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "曾被妾身识破。那时若将他二人杀了，焉有今日？但又恐扬臭于外，故尔忍辱， 将他二人释放，只望他等改过自新。不想他二人恩将仇报，行此毒计。唉！ 早知今日，悔不当初。这不都是妾身之罪么！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "唉！"
+        },
+        {
+          "character": "何延锡",
+          "type": "白",
+          "text": "此事木已成舟，就请元帅、夫人一同归降了吧。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "胡说！ 啊元帅，众位将军！"
+        },
+        {
+          "character": "高怀亮、李重进、韩通",
+          "type": "同白",
+          "text": "不敢！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "如今二贼是留与不留？"
+        },
+        {
+          "character": "高怀亮、李重进、韩通",
+          "type": "同白",
+          "text": "但凭元帅发落。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "似此卖国求荣的奸贼，忘廉丧耻的贱婢，留他何用！就请刘公亲手诛之！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "足见元帅高明。 夫人，你可代我立砍二贼之首！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "如此，请元帅赏刀。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "左右，看刀！"
+        },
+        {
+          "character": "上手甲",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "上手甲取刀。"
+        },
+        {
+          "character": "何延锡、花迎春",
+          "type": "同白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花接刀，杀何延锡、花迎春。"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "哈哈哈……我愿足矣。夫人我要长别你了！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷何出此言？"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "应宗我儿！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷保重！"
+        },
+        {
+          "character": "刘仁瞻",
+          "type": "白",
+          "text": "夫人，看二贼尚还未死。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花向外望，刘仁瞻撞死。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": "徐金花",
+          "type": "唱",
+          "text": "恨恨恨，恨淫泼刁， 恨恨恨，恨淫泼刁， 真叫我心中怒火烧。 悔悔悔，悔日前大不该放贼逃， 只只只，只为名誉把她轻放饶。 她她她，她竟把那令箭盗， 是是是，是她负心肠，把恩情剪断了。"
+        },
+        {
+          "character": "徐金花",
+          "type": "哭",
+          "text": "喂呀夫哇！"
+        },
+        {
+          "character": "徐金花",
+          "type": "唱",
+          "text": "哭哭哭，哭得奴两眼泪如潮。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花欲自刎，赵匡胤拦。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "刘夫人！令夫君既已尽忠而亡，赵某实为钦佩，伤感不已。请问怀内抱者何人？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "乃是小儿应宗。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "好哇，天不负刘公有后。夫人既有令郎，可继刘门宗祀，何不归顺我主，抚孤 守制，待令郎长大成人，得官受职，可保刘氏宗祧。倘若轻生捐躯，便是守小 节而忘大义。我言至此，请夫人思之！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花哭。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "蒙元帅恋孤惜寡，我母子感恩不尽。但抚孤守节，是我分所当然，也不为负恩 于唐室。只是辜负亡夫触阶而死。我若归降周家，岂不是乱臣贼子一流，何能 慰亡夫之灵于地下？若不归降，一来有负元帅一片大德之心，二来刘门不能存 留后代。似此进退两难，叫我——哎呀，何以自处啊？"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "唉！贤哉夫人，此言是也。罢！我有一举两得之见，不知夫人可肯听从否？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "谨听元帅示谕。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "我今将寿春交还夫人掌管，抚孤守城。不听南唐节制，亦不听我国调遣。待等 公子长大成人，那时归我大周。现在我兵越城而走，另取别处，此举如何？"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "叩谢元帅大恩！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "请起。 李将军，快备棺木，将刘元帅优礼厚葬，送进城去。本帅明日还要亲自祭奠。"
+        },
+        {
+          "character": "李重进",
+          "type": "白",
+          "text": "得令！ 众兵丁，抬往前营去者！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李重进、四上手抬刘仁瞻同下。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "荷蒙恩公格外施仁，不但亡夫阴灵有感，便是我母子粉身碎骨，难报万一。愿 小儿长大成人再与周天子出力，报恩公之德。恩公情上，受我母子一拜！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "请起。吩咐营外备马，送刘夫人进城！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "未亡人告辞了！"
+        },
+        {
+          "character": "徐金花",
+          "type": "尾声",
+          "text": "多蒙恩公开贤路， 莫笑贪生一蠢妇。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "带马！"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "不敢。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花上马。"
+        },
+        {
+          "character": "徐金花",
+          "type": "白",
+          "text": "老爷！夫哇！喂呀儿呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "徐金花下。"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "白",
+          "text": "好个忠烈刘公，又有这位勇烈夫人，诚为世所罕见。 众将官，各自卸甲，明日一同进城祭奠刘公，歇兵三日，攻打南唐！"
+        },
+        {
+          "character": "高怀亮、韩通",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "赵匡胤",
+          "type": "尾声",
+          "text": "忠奸贤佞出两途。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

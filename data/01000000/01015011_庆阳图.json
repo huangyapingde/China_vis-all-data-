@@ -1,0 +1,612 @@
+{
+  "script_id": "01015011",
+  "title": "庆阳图",
+  "alias": [
+    "战虹霓；一名：斩李广；一名：李刚反朝"
+  ],
+  "source": "《戏考》",
+  "characters": [
+    {
+      "name": "李广",
+      "hangdang": "老生"
+    },
+    {
+      "name": "李刚",
+      "hangdang": "净"
+    },
+    {
+      "name": "皇上",
+      "hangdang": "小生"
+    },
+    {
+      "name": "马妃",
+      "hangdang": "旦"
+    },
+    {
+      "name": "李虎",
+      "hangdang": "副净"
+    },
+    {
+      "name": "马兰",
+      "hangdang": "丑"
+    },
+    {
+      "name": "朝臣甲",
+      "hangdang": "外"
+    },
+    {
+      "name": "朝臣乙",
+      "hangdang": "末"
+    },
+    {
+      "name": "朝臣丙",
+      "hangdang": "生"
+    }
+  ],
+  "plot": "李广、李刚，兄弟二人，奉旨出征，自虹霓奏捷之后，爵封王位，钦赐御筵，命众大臣陪宴，以庆其功。有\n西宫贵妃之兄马兰，亦在席间，居常倚仗国舅之势，欺压同僚，李广素来恨之，佯为酒醉，将马兰辱骂殴打，\n经众劝散。马兰遂存报复之见，至西宫诉于贵妃，谓李广恃功而骄，谤毁宫闱，意图造反，求贵妃转奏，\n除去此人，以免后患。朝廷竟听枕边谗言，不问是非真假，猝然宣进李广，命武士缚斩之。其弟李刚，闻此\n警报，即点齐家将，围困宫门，与乃兄报仇云云。",
+  "notes": "此剧无甚精彩，惟须生一段唱口，娓娓动听。至于剧中事实，枥老学识浅陋，无从考证。按西汉有一李广，\n南宋有一李纲（非刚字），隋末有王伯当战虹霓一说，时代互异，与剧本情节，殊属不类，断不能以人名地\n名，强为之臆测也。赘此数语，以质疑于观剧诸君。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "三朝臣、马兰同上。"
+        },
+        {
+          "character": "朝臣甲",
+          "type": "念",
+          "text": "位列上中下，"
+        },
+        {
+          "character": "朝臣乙",
+          "type": "念",
+          "text": "才分天地人。"
+        },
+        {
+          "character": "朝臣丙",
+          "type": "念",
+          "text": "五行生父子，"
+        },
+        {
+          "character": "马兰",
+          "type": "念",
+          "text": "八卦定君臣。"
+        },
+        {
+          "character": "朝臣甲",
+          "type": "白",
+          "text": "列位请了。"
+        },
+        {
+          "character": "二朝臣、马兰",
+          "type": "同白",
+          "text": "请了。"
+        },
+        {
+          "character": "朝臣甲",
+          "type": "白",
+          "text": "今有李刚、李广，大战虹霓，奏凯而回。万岁在金殿之上，封他为王，在光禄 寺排宴，庆功受赏，命我等陪宴。看看二王爷来了。"
+        },
+        {
+          "character": "李刚",
+          "type": "内白",
+          "text": "开道。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四龙套、李刚同上。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "列位王侯请了。"
+        },
+        {
+          "character": "三朝臣、马兰",
+          "type": "同白",
+          "text": "王爷请。来。看宴。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。李刚饮酒。"
+        },
+        {
+          "character": "朝臣甲",
+          "type": "白",
+          "text": "王爷此番，征剿虹霓，怎样得胜，说与我等一听。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "列位听了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "吓，列位大人，这一穿红者他是何人，在此摇头摆尾？"
+        },
+        {
+          "character": "三朝臣",
+          "type": "同白",
+          "text": "此乃是当朝国舅马大人。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "原来是一裙带官儿，实实可笑。"
+        },
+        {
+          "character": "李刚",
+          "type": "笑",
+          "text": "啊哈哈哈哈哈。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李刚打马兰纱帽，帽落，马兰拾。"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "我说那一黑汉子，你在酒席筵前，将我的纱帽，打在尘埃，是何道理？"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "难道你不认识某家么？"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "你不过也是朝中一个臣子，与我一般，何足为奇。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "胆大马兰，你官居何职？"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "我妹子，乃是西宫国母，陪王伴驾，我是当朝国舅，谁人不知，哪个不晓。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "想我弟兄，东荡西除，南征北剿，才得封为王位，你不过是裙带脂粉官儿，真 真好不知羞耻。"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "住了。你欺压大臣，是何理也！"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "满口胡言，招打！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马兰下。三朝官同劝，李刚下，三朝官同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马妃上。"
+        },
+        {
+          "character": "马妃",
+          "type": "念",
+          "text": "龙凤阁内换新妆，朝朝暮暮伴君王。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马兰上。"
+        },
+        {
+          "character": "马兰",
+          "type": "西皮摇板",
+          "text": "可恨李刚太欺情， 去到宫中说分明。"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "马兰参见娘娘千岁。"
+        },
+        {
+          "character": "马妃",
+          "type": "白",
+          "text": "兄长少礼请坐。"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "谢坐。"
+        },
+        {
+          "character": "马妃",
+          "type": "白",
+          "text": "兄长进宫何事？"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "再不要提起。只因今日，万岁与李广庆功，命我陪宴。可恨李刚倚仗兄长声威， 不问青红皂白，将愚兄骂了一顿，反道娘娘，好比前朝褒姒妲己一般，真真 可恼。望求娘娘作主。"
+        },
+        {
+          "character": "马妃",
+          "type": "白",
+          "text": "兄长请回，我自有道理。"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "谢娘娘。 正是：李广呀，李广，管叫你明枪容易躲，暗箭最难防。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马兰下。四太监、皇上上。"
+        },
+        {
+          "character": "皇上",
+          "type": "西皮摇板",
+          "text": "朝罢了文武臣转回宫， 往见了我爱梓童细说端详。"
+        },
+        {
+          "character": "马妃",
+          "type": "白",
+          "text": "今日朝中，不知有何军情？"
+        },
+        {
+          "character": "皇上",
+          "type": "白",
+          "text": "并无军情，惟有李广弟兄，征战虹霓有功，分功论赏，大宴群臣。"
+        },
+        {
+          "character": "马妃",
+          "type": "白",
+          "text": "启奏万岁：李广弟兄，在朝专权，大有谋反之意，如若不及早灭却，日后只恐 万岁江山难保。"
+        },
+        {
+          "character": "皇上",
+          "type": "白",
+          "text": "此事你是怎生知晓？"
+        },
+        {
+          "character": "马妃",
+          "type": "白",
+          "text": "是我兄长马兰，方才言讲，李刚在酒席筵前，亲自讲的。"
+        },
+        {
+          "character": "皇上",
+          "type": "白",
+          "text": "原来如此。"
+        },
+        {
+          "character": "皇上",
+          "type": "西皮摇板",
+          "text": "听一言来心头恨， 大骂李广乱胡行。 内侍臣摆驾金殿进，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马妃暗下。"
+        },
+        {
+          "character": "皇上",
+          "type": "西皮摇板",
+          "text": "快宣李广上龙庭。"
+        },
+        {
+          "character": "内侍",
+          "type": "白",
+          "text": "宣亚父李广上殿。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广上。"
+        },
+        {
+          "character": "李广",
+          "type": "西皮紧板",
+          "text": "乌鸦不住叫连天， 叫得李广心胆寒。 莫不是烟尘又起反， 弟兄征剿方才还。 是与不是上金殿， 参王驾来问王安。"
+        },
+        {
+          "character": "皇上",
+          "type": "西皮摇板",
+          "text": "一见李广怒冲冠， 大骂卖国狗奸馋。 你弟兄无故起反念， 要夺小王锦江山。 人来与孤推出斩，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刀斧手同上。"
+        },
+        {
+          "character": "皇上",
+          "type": "西皮摇板",
+          "text": "将他人头挂高竿。"
+        },
+        {
+          "character": "李广",
+          "type": "西皮摇板",
+          "text": "忠臣无故反遭斩， 身受惨刑为哪般。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四刀斧手押李广同下。马兰上。"
+        },
+        {
+          "character": "马兰",
+          "type": "西皮摇板",
+          "text": "迈步撩袍上金殿， 马兰要讨监斩官。"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "马兰见驾，吾皇万岁。"
+        },
+        {
+          "character": "皇上",
+          "type": "白",
+          "text": "卿家上殿，有何本奏？"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "万岁斩首李广，不知命何人监斩？"
+        },
+        {
+          "character": "皇上",
+          "type": "白",
+          "text": "就命你监斩。午时三刻，斩头交旨。 内侍退班。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "皇上下。"
+        },
+        {
+          "character": "马兰",
+          "type": "念",
+          "text": "金殿领圣命，法场斩仇人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马兰下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": "李广",
+          "type": "内西皮导板",
+          "text": "忠良被害气冲牛斗，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李广上。"
+        },
+        {
+          "character": "李广",
+          "type": "西皮原板",
+          "text": "不由人一阵阵珠泪交流。 曾记得史妃谋害太后， 我弟兄保太子逃出龙楼。 我二弟名李文同时争斗， 在北门身中箭一命罢休。 可叹我秉忠心反要斩首， 再不能领人马共统貔貅。 再不能在朝房同把——"
+        },
+        {
+          "character": "李广",
+          "type": "西皮二六板",
+          "text": "本奏， 再不能在金殿共定机谋； 再不能到春来观看桃柳， 再不能到夏来避暑在高楼； 再不能到秋来同饮菊花酒， 再不能到冬来教子攻读春秋。 悲切切来至在法场口， 这就是忠良臣下场头。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖水底鱼〗。四龙套、马兰同上。"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "时辰可到？"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "时辰未到。"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "管他到与不到，推去斩了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四龙套推李广同下，斩，同上。"
+        },
+        {
+          "character": "四龙套",
+          "type": "同白",
+          "text": "李广斩讫。"
+        },
+        {
+          "character": "马兰",
+          "type": "白",
+          "text": "上殿交旨。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马兰、四龙套同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李刚上。"
+        },
+        {
+          "character": "李刚",
+          "type": "念",
+          "text": "李刚坐二堂，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李虎上。"
+        },
+        {
+          "character": "李虎",
+          "type": "念",
+          "text": "李虎报端详。"
+        },
+        {
+          "character": "李虎",
+          "type": "白",
+          "text": "启二王爷大事不好了！"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "何事惊慌？"
+        },
+        {
+          "character": "李虎",
+          "type": "白",
+          "text": "大王爷不知身犯何罪，推出午门问斩。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "你待怎讲？"
+        },
+        {
+          "character": "李虎",
+          "type": "白",
+          "text": "推出午门问斩。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "不好了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "李虎听令，吩咐大小三军，辕门伺候。"
+        },
+        {
+          "character": "李虎",
+          "type": "白",
+          "text": "下面听者：王爷有令，大小三军，辕门伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李虎下，李刚下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "龙套甲提头上，李虎上，抢头。李刚上，接头，哭，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "马兰上，李刚上，撞，打，批腿，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四太监、皇上同上。内侍上，报。皇上跑，闭宫。李刚、李虎同上，同打门。土地上，持杖挡。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "昏王呀，昏王！想我弟兄在朝，东荡西除，南征北剿，有十大汗马功劳，你不 该听信马兰兄妹谗言，将我兄长杀死，你是何道理！"
+        },
+        {
+          "character": "李虎",
+          "type": "白",
+          "text": "启王爷：天色已晚，明日再与昏王辩理。"
+        },
+        {
+          "character": "李刚",
+          "type": "白",
+          "text": "今日天色已晚，明日再与你辩理。昏王，你要与我仔细了，你要与我打定了。 我那兄长呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李刚、李虎同下。"
+        },
+        {
+          "character": "皇上",
+          "type": "唱",
+          "text": "一见李刚出宫门， 吓得小王心内惊。 内臣摆驾后宫进， 见了国太定计行。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

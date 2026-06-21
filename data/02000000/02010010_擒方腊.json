@@ -1,0 +1,1428 @@
+{
+  "script_id": "02010010",
+  "title": "擒方腊",
+  "alias": [],
+  "source": "《国剧大成》",
+  "characters": [
+    {
+      "name": "宋江",
+      "hangdang": "老生"
+    },
+    {
+      "name": "武松",
+      "hangdang": "武生"
+    },
+    {
+      "name": "张顺",
+      "hangdang": "净"
+    }
+  ],
+  "plot": "张顺死后，宋江正烦闷中，忽燕青归来报信，为方腊已封柴进宝状元，并招为驸马，可为内应。宋江乃假意\n祭弟张顺，因有方天定出兵。在重重埋伏之下，遂将方天定擒住斩杀，继即进攻方腊。方腊原拟亲自出战，\n柴进乃自告奋勇，开城迎战。遂将宋江所派来之李逵、武松等擒入城内，假意投降。最后由鲁智深帮助武松，\n将方腊擒住云。",
+  "notes": "此应系《龙虎玉》之后本。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金童、玉女、水卒、龙王同上。"
+        },
+        {
+          "character": "龙王",
+          "type": "引子",
+          "text": "烟波浩淼，水府中，金碧琼瑶。"
+        },
+        {
+          "character": "龙王",
+          "type": "白",
+          "text": "我乃，西湖龙君是也。今奉玉帝敕旨，见张顺死在涌金门下，上帝垂念，敕封 金华太保。远远观看张顺鬼魂来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺上，跪。"
+        },
+        {
+          "character": "龙王",
+          "type": "白",
+          "text": "玉旨下跪。张顺死在涌金门下，上帝垂念，敕封金华太保，永镇西湖。玉旨毕。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "圣寿无疆。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖吹打〗。张顺换衣，送龙王下。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "且喜上帝垂念，封我金华太保。相送大哥怎生得知，不免去到帐中，托他一梦。 金童、玉女，带路。"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "这风光分明是平地登仙， 托梦兆见大哥细诉根源。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": "宋江",
+          "type": "内二黄导板",
+          "text": "奉君命下江南战灭草寇，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同上，同站门，宋江上，四文堂同扯四门。"
+        },
+        {
+          "character": "宋江",
+          "type": "二黄正板",
+          "text": "破宣湖抢苏昌战夺四州。 兵行到杭州城天定把守， 都招管卢俊义统领貔貅。 命柴进入虎穴音讯无有， 小燕青此一去不见回头。 公孙胜为老母辞病告走， 乔道清倦红尘入山苦修。 这几月为什么不思茶酒，"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "回避了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂自两边分下。"
+        },
+        {
+          "character": "宋江",
+          "type": "二黄正板",
+          "text": "纵有那珍馐味难下咽喉。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江进帐睡。金童、玉女引张顺同上。"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "想当日浔阳江英雄盖世， 到如今涌金门魄散魂飞。 叫金童把他的梦魂揭起，"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "猛抬头见贤弟泪珠下滴。 我命你破杭州李俊同去， 为什么不征战身挂紫衣？ 想必是背愚兄不顾忠义，"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "宋大哥且慢睡细听端的： 弟在那涌金门舍生取义， 蒙天帝封忠魂已登仙籍。 兄要破杭州城实实容易， 打动了聚将鼓把英雄点齐。 假意儿西陵桥吊孝设祭， 方天定不提放泄漏兵机。 擒方腊兄休想封妻荫子， 马到了临崖晚后悔已迟。 嘱咐的言和语你牢牢紧记，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "金童、玉女同下。"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "大限到各自飞两下分离。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺下。四文堂自两边分上。"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "元帅醒来。"
+        },
+        {
+          "character": "宋江",
+          "type": "二黄导板",
+          "text": "适才间在帐中偶得一梦，"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "醒来时又只见红日当空。 适才间弟兄们对面叙话， 一霎时魂魄飞各奔西东。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "燕青上。"
+        },
+        {
+          "character": "燕青",
+          "type": "念",
+          "text": "忙将喜气事，报与大哥知。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "大哥在上，小弟参见。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟回来了。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "回来了。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "柴进诈降如何？"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "方腊重用，招为东床驸马。请大哥早发人马，免漏消息。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "请先生进帐。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "有请军师进帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "吴用上。"
+        },
+        {
+          "character": "吴用",
+          "type": "念",
+          "text": "忆昔当年居茅村，袖内八卦按乾坤。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "大哥。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟，请坐。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "谢坐。大哥为何双眼垂泪？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "时才愚兄三更时分，梦见张顺死在涌金门下，故而如此。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "这是大哥思弟之心。若有此事，李俊必来报之。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李俊上。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "走哇！"
+        },
+        {
+          "character": "李俊",
+          "type": "念",
+          "text": "祸是天来降，皆因不吉祥。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "大哥，先生，大事不好了。"
+        },
+        {
+          "character": "宋江、吴用",
+          "type": "同白",
+          "text": "啊，何事惊慌？"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "张顺死在涌金门。"
+        },
+        {
+          "character": "宋江、吴用",
+          "type": "同白",
+          "text": "啊呀！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "你死后兄与你把孝来挂， 我死后谁与我戴孝披麻。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "军师，我要与张顺贤弟祭奠一番。但不知可有凶吉？"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "大哥既要前去，却也无妨。 燕青听令。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "传众哥弟姐妹进帐。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "军师有令：众位哥弟姐妹进帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史进、石秀、武松、李逵、孙二娘、顾大嫂、扈三娘、玉花娘自两边分上。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵、孙二娘、顾大嫂、扈三娘、玉花娘",
+          "type": "同白",
+          "text": "来也。 众兄弟姐妹参见大哥，军师为何这等模样？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "众位贤弟，适才李俊说张顺死在涌金门水闸之下。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵、孙二娘、顾大嫂、扈三娘、玉花娘",
+          "type": "同白",
+          "text": "哎。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵、孙二娘、顾大嫂、扈三娘、玉花娘",
+          "type": "同驻云飞",
+          "text": "怒气冲霄，肺腑如同烈火焚， 廿二肝肠碎，点点珠泪滚， 眸子裂，双睛吴广邀，仅跺脚捶胸， 咬定银牙恨，叫我无计可施掌上珍。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "待俺杀上前去。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "不可造次。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "史进、石秀、武松、李逵听令。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "命你四人埋伏西陵桥，等方天定出城，断他的出路，不得有误。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史进、石秀、武松、李逵同下。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "众姐妹听令。"
+        },
+        {
+          "character": "孙二娘、顾大嫂、扈三娘、玉花娘",
+          "type": "同白",
+          "text": "在。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "命你四人埋伏西陵桥左，方天定出城，断他的去路，不得有误。"
+        },
+        {
+          "character": "孙二娘、顾大嫂、扈三娘、玉花娘",
+          "type": "同白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "孙二娘、顾大嫂、扈三娘、玉花娘同下。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "燕青听令。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "命你去请卢尊官。合兵一处，不得有误。"
+        },
+        {
+          "character": "燕青",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "燕青下。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "李俊听令。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "命你带领战船二十只，江口伺候。"
+        },
+        {
+          "character": "李俊",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "李俊下。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟，看守大营，愚兄去也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四文堂同领下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂同上，同站门。方天定上。"
+        },
+        {
+          "character": "方天定",
+          "type": "念",
+          "text": "眼观旌旗起，耳听好消息。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "邓元觉、石宝同上。"
+        },
+        {
+          "character": "邓元觉、石宝",
+          "type": "同白",
+          "text": "郝思文被擒。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "此乃将军头功。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报！张顺死在涌金门。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "来，将张顺首级，悬挂城头。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报！宋江偷祭。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "邓元觉、石宝",
+          "type": "同白",
+          "text": "宋江既来偷祭，千岁可点齐人马出城，拿住宋江，有道蛇无头不行，鸟无翅不 飞。徽宗江山，岂不唾手可得？"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "言之有理。 众将官，催动人马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "text",
+          "text": "（〖吹打〗。桌子摆斜场。四文堂、中军、唱礼官同上。桌上摆灵牌，上写“亡故镇国大将军张顺之灵魂”。"
+        },
+        {
+          "character": null,
+          "type": "text",
+          "text": "旗幡。宋江上，叩首。唱礼官唱礼。）"
+        },
+        {
+          "character": "宋江",
+          "type": "念",
+          "text": "奠酒焚香三叩首，西陵桥下水东流。贤弟阴魂今何在，野草闲花满地愁。"
+        },
+        {
+          "character": "宋江",
+          "type": "二黄导板",
+          "text": "想当日梁山寨一同结拜，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "宋江三哭。"
+        },
+        {
+          "character": "宋江",
+          "type": "反二黄原板",
+          "text": "胜似那共爹娘一母投胎。 曾许下山不崩兄弟常在， 到如今涌金门命丧泉台。 下河北灭田虎英雄气概， 下淮西灭王庆旗还未开。 下江南灭方腊不到半载，不到半载， 我只得望空祭表一表心怀。 好贤弟你在那阴曹路休把兄怪，"
+        },
+        {
+          "character": "宋江",
+          "type": "哭",
+          "text": "哎呀，贤弟吓！"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "回朝去奏天子封王立牌。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖小吹打〗。宋江叩首。"
+        },
+        {
+          "character": "方天定",
+          "type": "内白",
+          "text": "呔，宋江前来偷祭。众将官，开城迎敌。"
+        },
+        {
+          "character": "四文堂",
+          "type": "内同白",
+          "text": "啊。 （宋江、四文堂、中军、唱礼官自上场门同下。李逵、石秀、武松、史进、石宝、邓元觉、方天定同上，会 扈三娘破打。李逵、邓元觉同下。方天定打败石秀，史进打方天定，追下。清场。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "船夫、张横同上。"
+        },
+        {
+          "character": "张横",
+          "type": "唱",
+          "text": "中军帐领了大哥令， 扬子江心捉奸细。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "俺，船火儿张横。奉了大哥将令，在扬子江心捉拿奸细。身子困倦，俺就在此 打睡片时。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺上。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "走哇。"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "飘渺渺不知往下闯， 来此已是扬子江。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "兄长，兄长。小弟张顺，死在涌金门，阴魂伏在你身上，方天定走此经过，望 兄长与我冤冤相报。"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "有仇不报非君子， 有恩不答枉为人。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "方天定上。"
+        },
+        {
+          "character": "方天定",
+          "type": "唱",
+          "text": "适才间在阵前刀矛并起， 这一阵杀得俺肝裂魂飞。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "俺，方天定。方才与宋将打了一仗，败下阵来。啊，你看那边有只渔船，不免 叫他渡俺过去。 呔，船家船家，将本御渡过江去，重重谢你。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺扑，暗迎手。方天定上船。张顺绑方天定。"
+        },
+        {
+          "character": "方天定",
+          "type": "白",
+          "text": "呔，你是何人，为何将俺绑了？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺扑作势。"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "俺，张顺。死在涌金门，阴魂伏在我兄长身上，今日杀了你，冤冤相报。"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "钢刀一落人头掉。 管教你一命赴阴曹。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张横杀方天定，咬人头，张顺摇船，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史进、石秀、武松、李逵、孙二娘、顾大嫂、扈三娘、玉花娘、宋江、吴用同上。"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "张顺为国把命丧， 好汉英雄无下场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺、张横同上桌。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟，为何这等模样？"
+        },
+        {
+          "character": "张顺",
+          "type": "白",
+          "text": "俺，张顺。死在涌金门，阴魂伏在我兄长身上，杀了方天定，前来献功，从此 一别，再不能相见了。"
+        },
+        {
+          "character": "张顺",
+          "type": "唱",
+          "text": "我在阴来你在阳。 弟兄两眼泪汪汪， 辞别兄长往外闯， 天定小儿一命亡。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张顺下。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵、孙二娘、顾大嫂、扈三娘、玉花娘",
+          "type": "同白",
+          "text": "贤弟醒来。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "哎呀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张横看。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "啊，大哥。小弟怎么到了中军帐里来了？"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀，贤弟。今有张顺死在涌金门，阴魂伏在你身上，杀了方天定，前来献功。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "哎呀，贤弟吓！"
+        },
+        {
+          "character": "张横",
+          "type": "唱",
+          "text": "听说贤弟丧了命， 好一似钢刀刺我心。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "也罢。"
+        },
+        {
+          "character": "张横",
+          "type": "唱",
+          "text": "不如自己来自刎，"
+        },
+        {
+          "character": "宋江",
+          "type": "唱",
+          "text": "贤弟还要三思行。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "贤弟，不要如此。待愚兄回朝，奏闻天子，封王立牌。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "有劳大哥。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "下面歇息。"
+        },
+        {
+          "character": "张横",
+          "type": "白",
+          "text": "哎呀，兄弟吓。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张横下。"
+        },
+        {
+          "character": "吴用",
+          "type": "白",
+          "text": "杭州已破。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "杭州已破，此皆众位贤弟之功。后帐摆宴，与众位贤弟贺功。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "多谢大哥。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴进上，起霸。"
+        },
+        {
+          "character": "柴进",
+          "type": "念",
+          "text": "金盔金甲旌旗洒，刀枪剑戟绕光华。上阵全凭跨下马，要与宋室定邦家。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "俺，柴进。奉了大哥将令，诈降方腊，改名柯英。只因番王见我进宝有功，封 为东床驸马，这且不言，宋大哥兵临城下，今日番王点兵，只得在此伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "郑彪、包道乙同上，同起霸。"
+        },
+        {
+          "character": "郑彪、包道乙",
+          "type": "同念",
+          "text": "俺本上界一仙童。老天生我智谋多。练就双刀无人敌，杀人放火赛阎罗。"
+        },
+        {
+          "character": "郑彪、包道乙",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "郑彪",
+          "type": "白",
+          "text": "云游道人郑彪。"
+        },
+        {
+          "character": "包道乙",
+          "type": "白",
+          "text": "金华山前包道乙。"
+        },
+        {
+          "character": "郑彪",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "包道乙",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "郑彪",
+          "type": "白",
+          "text": "大王发兵，你我在此伺候。"
+        },
+        {
+          "character": "包道乙",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四下手同上，同站门。方腊上。"
+        },
+        {
+          "character": "方腊",
+          "type": "点绛唇",
+          "text": "杀气冲霄，儿郎虎豹，军威好，地动山摇，要把宋室扫。"
+        },
+        {
+          "character": "柴进、郑彪、包道乙",
+          "type": "同白",
+          "text": "参见大王。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "站立两厢。"
+        },
+        {
+          "character": "柴进、郑彪、包道乙",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "方腊",
+          "type": "念",
+          "text": "帐下文武聚群英，堂堂气概显威风。提兵调将累征战，宋室尽在掌握中。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "孤，方腊。前者命吾儿方天定，镇守杭州，累次探马报道，宋江带兵攻打杭州， 是孤这几日命探子前去打探，未见回报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "邓元觉、石宝同上。"
+        },
+        {
+          "character": "邓元觉、石宝",
+          "type": "同白",
+          "text": "走哇。参见大王。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "啊，你二人为何这样惊慌？"
+        },
+        {
+          "character": "邓元觉、石宝",
+          "type": "同白",
+          "text": "哎呀，启奏大王：杭州已破，小千岁丧命。"
+        },
+        {
+          "character": "邓元觉、石宝",
+          "type": "同白",
+          "text": "呔。杀死我儿，岂能与你干休。 众将官，奋勇当先。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "且慢。些须小事，何劳千岁出马。待儿臣前去，擒那宋江，有如反掌。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "须要小心。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "下手引柴进同下。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "众将官，转到敌楼一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。武松、李逵、石秀、史进、四文堂同上，会阵。柴进、众人自下场门同上，会阵。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "呔，来的可是柴——"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "呔，俺乃柯英。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵",
+          "type": "同白",
+          "text": "哦，柯英、柯英。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "众位哥弟，可让小弟擒去，杀他个里应外合。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵",
+          "type": "同白",
+          "text": "言之有理。放马过来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴进擒史进、石秀、武松、李逵同下。方腊三笑。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "众将官，人马下城。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "方腊笑，归内座。柴进上，下马。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "宋将被擒。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "绑上来。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "绑上来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂绑史进、石秀、武松、李逵同上。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "呔。尔等见了孤家，为何不跪？"
+        },
+        {
+          "character": "史进、石秀、武松、李逵",
+          "type": "同白",
+          "text": "呔。要斩就斩，何必多言吓。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "还是这等倔强。 来，拿去斩了。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "且慢。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "谁敢斩，我是杀不得的！"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "启千岁：待儿臣劝他们归降。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "儿去劝降。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "列位将军。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "我想你们跟随那宋江，有什么好处，若是归降我主，将来夺了宋室江山，我们 都是皇兄御弟相称，你们倒是心意如何？"
+        },
+        {
+          "character": "史进、石秀、武松、李逵",
+          "type": "同白",
+          "text": "这个……我们情愿归降。"
+        },
+        {
+          "character": "柴进",
+          "type": "白",
+          "text": "他们情愿归降。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "来，松绑。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵",
+          "type": "同白",
+          "text": "谢大王不斩之恩。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "来，后帐摆宴与众位将军贺功。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵",
+          "type": "同白",
+          "text": "谢大王。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "众位将军请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、四女将、燕青、卢俊义、宋江同上。"
+        },
+        {
+          "character": "宋江",
+          "type": "念",
+          "text": "眼观旌捷旗，耳听好消息。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报。启元帅：不好了，众位将军被擒。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "啊。卢尊官，奋勇当先。"
+        },
+        {
+          "character": "卢俊义",
+          "type": "白",
+          "text": "得令。 众姐妹杀上前去。 （〖牌子〗。孙二娘、顾大嫂、扈三娘、玉花娘、卢俊义、方腊、史进、石秀、武松、李逵、石宝、郑彪、 邓元觉、包道乙同会阵。石秀、史进杀过门。方腊败下，起打。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "包道乙、郑彪、石宝、邓元觉、方腊同上。"
+        },
+        {
+          "character": "方腊",
+          "type": "白",
+          "text": "哎呀，这厮来得厉害，这便如何是好？"
+        },
+        {
+          "character": "包道乙、郑彪",
+          "type": "同白",
+          "text": "等他来时，用箭伤他便了。"
+        },
+        {
+          "character": "石秀、史进",
+          "type": "内同白",
+          "text": "呔，哪里走！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石秀、史进同上，打过门。石秀、史进带箭同下，方腊追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "史进、石秀同上，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "卢俊义被砍肠子杀上。李逵、燕青同上，救卢俊义同下。武松被砍膀子。李逵杀，方腊下，李逵追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "柴进上。"
+        },
+        {
+          "character": "柴进",
+          "type": "念",
+          "text": "辕门战鼓震，何时得太平。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石秀、史进同上，同上桌子，坐哭，同下桌子，死，同下。李逵拉武松同上，上桌子坐，暗作。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报。方腊讨战。 （李逵打报子下。武松下，李逵追下。李逵上，李逵打死石宝、邓元觉。武松上，杀。石宝、邓元觉同下。 武松杀死包道乙、郑彪。包道乙、郑彪同下。方腊上，武松败。方腊追下。）"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鲁智深上。"
+        },
+        {
+          "character": "鲁智深",
+          "type": "白",
+          "text": "俺，花和尚鲁智深。方才入山打坐，见山外人闹马嘶，不免出山头一望。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "方腊追武松上，下。"
+        },
+        {
+          "character": "鲁智深",
+          "type": "白",
+          "text": "呀！看前面败的好似武松，后面追的好似方腊。我若不救，等待谁来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "方腊追武松上，打。鲁智深擒方腊。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "师傅，这个功劳，让与小弟吧。"
+        },
+        {
+          "character": "鲁智深",
+          "type": "白",
+          "text": "也罢，让与你吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松绑方腊同下。"
+        },
+        {
+          "character": "鲁智深",
+          "type": "白",
+          "text": "且住。师傅有言，叫我遇腊而回，师傅之言不得不遵，不免入山修练去吧。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。鲁智深下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、宋江上。"
+        },
+        {
+          "character": "宋江",
+          "type": "念",
+          "text": "飘渺旌旗动，战鼓响催军。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "武松、李逵、四小军同上。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "方腊被擒。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "绑上来。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "绑上来。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂绑方腊同上。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "哎呀！贼子吓贼子。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。宋江杀方腊。方腊下。"
+        },
+        {
+          "character": "宋江",
+          "type": "白",
+          "text": "方腊是何人擒来的？"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "是小弟擒来的。"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "呔！是俺擒来的。"
+        },
+        {
+          "character": "李逵",
+          "type": "白",
+          "text": "呔！想你一只手怎么擒得方腊来？"
+        },
+        {
+          "character": "武松",
+          "type": "白",
+          "text": "这，哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同哭。同下。〖尾声〗。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

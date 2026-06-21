@@ -1,0 +1,2826 @@
+{
+  "script_id": "03042001",
+  "title": "父子圆",
+  "alias": [],
+  "source": "《京剧汇编》",
+  "characters": [
+    {
+      "name": "伍员",
+      "hangdang": "老生"
+    },
+    {
+      "name": "伍辛",
+      "hangdang": "小生"
+    }
+  ],
+  "plot": "伍员兴兵伐楚，破昭关，劈卞庄，直奔飞天山。楚上大夫费无极闻讯大震，急以重资往聘飞天豹。飞天豹乃\n伍员之子，原名伍辛，自父逃走，为叔父伍通更名抱至飞天山，教练武艺，伺机报仇。费无极既至，伍通深\n知时机成熟，因而曲情款待，以俟伍员。不意伍辛为费无极所激，私自上阵，生擒二将；父子大战，各不相\n让。事为伍通揭破。伍员父子，从此团圆；费无极全家，终于被斩。",
+  "notes": "",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘展雄上，起霸。"
+        },
+        {
+          "character": "刘展雄",
+          "type": "点绛唇",
+          "text": "仗义英豪，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "焦休欣上，起霸。"
+        },
+        {
+          "character": "焦休欣",
+          "type": "点绛唇",
+          "text": "雄心藏包；"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜立上，起霸。"
+        },
+        {
+          "character": "姜立",
+          "type": "点绛唇",
+          "text": "诛馋暴，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "石豹上，起霸。"
+        },
+        {
+          "character": "石豹",
+          "type": "点绛唇",
+          "text": "敌将难逃，"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹",
+          "type": "同点绛唇",
+          "text": "齐唱凯歌早。"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹",
+          "type": "同白",
+          "text": "俺——"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "刘展雄。"
+        },
+        {
+          "character": "焦休欣",
+          "type": "白",
+          "text": "焦休欣。"
+        },
+        {
+          "character": "姜立",
+          "type": "白",
+          "text": "姜立。"
+        },
+        {
+          "character": "石豹",
+          "type": "白",
+          "text": "石豹。"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "列位将军请了！"
+        },
+        {
+          "character": "焦休欣、姜立、石豹",
+          "type": "同白",
+          "text": "请了！"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "盟辅伍三哥借吴伐楚，我等齐到辕门伺候。"
+        },
+        {
+          "character": "焦休欣、姜立、石豹",
+          "type": "同白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘展雄、焦休欣、姜立、石豹同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套、四上手、中军引伍员同上。"
+        },
+        {
+          "character": "伍员",
+          "type": "粉蝶儿",
+          "text": "楚国豪强， 俺本是楚国豪强。 为天伦冤仇难放， 借吴兵，斩将擒王。 且看俺： 旗开胜，谗臣扫荡。"
+        },
+        {
+          "character": "伍员",
+          "type": "念",
+          "text": "昔年斗宝在临潼，四海俱尊盟辅公。弃走樊城吴国奔，转瞬不觉白头翁。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "本帅，姓伍名员字子胥，楚国监里人也。亡父伍奢，生为楚臣，位列台鼎。只 为昏王听信费无极奸谋，父纳子妻，我父谏奏，全家诛戮。又命武城黑带兵捉 拿于我。夫人尽节，幼子伍辛寄托齐国鲍目抚养。是俺弃走樊城，投奔吴国， 借取倾国人马，灭楚报仇。今乃黄道吉日，祭旗点兵。 中军！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "有！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "请众位将军进帐！"
+        },
+        {
+          "character": "中军",
+          "type": "白",
+          "text": "众位将军进帐！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘展雄、焦休欣、姜立、石豹同上。"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "众位将军少礼。"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹",
+          "type": "同白",
+          "text": "谢元帅！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "众位将军，俺伍员今借大兵，非夺楚之社稷，实报满门冤仇。此番兵发楚国， 休要搅扰黎民，必须人人奋勇，个个争先，听我令下。"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "臣尽忠子尽孝皆是恩养， 昔孟母曾三迁教子名扬。 俺不是图王业一统执掌， 也不是周朝的伐纣武王。 楚平王败人伦难以尽讲， 费无极使毒计胜似虎狼。 俺借兵今要将楚国扫荡， 众将官要协力奋勇争强。 摆香案祭山川祈祷神将——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员摆香案。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "祝告山川社稷，旗纛尊神：本帅伍子胥，今借吴兵伐楚，但愿此去旗开得胜， 马到成功！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "逢深山开栈道遇水搭桥梁。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "兵伐楚国！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖五马江儿水〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四蓝龙套、四校刀手引卞庄同上。"
+        },
+        {
+          "character": "卞庄",
+          "type": "引子",
+          "text": "丹心辅楚，压各国，将勇兵强。"
+        },
+        {
+          "character": "卞庄",
+          "type": "念",
+          "text": "周室武王伐商汤，后分列国俱豪强。皆是诸侯霸疆土，西秦无知自尊王。"
+        },
+        {
+          "character": "卞庄",
+          "type": "白",
+          "text": "某，卞庄。楚国为臣。奉命镇守昭关。每逢三、六、九日，操兵演将，以防变 乱。 众将官！"
+        },
+        {
+          "character": "四蓝龙套、四校刀手",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "卞庄",
+          "type": "白",
+          "text": "兵下校场！"
+        },
+        {
+          "character": "四蓝龙套、四校刀手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启帅爷：今有伍员借来吴国人马，攻伐楚邦。看看离昭关不远。"
+        },
+        {
+          "character": "卞庄",
+          "type": "白",
+          "text": "噢！伍子胥借来吴国兵马，攻伐楚邦么？"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "卞庄",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "卞庄",
+          "type": "白",
+          "text": "胆大伍员，竟敢前来送死！ 众将免操，候某披挂，同去捉拿子胥。掩门！"
+        },
+        {
+          "character": "四蓝龙套、四校刀手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": "伍员",
+          "type": "内白",
+          "text": "众将官！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "内同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍员",
+          "type": "内白",
+          "text": "趱行者！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四白龙套、四上手、中军、刘展雄、焦休欣、姜立、石豹引伍员同上。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "前军为何不行？"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "离昭关不远。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "人马列开！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "记得当年弃楚樊， 投吴阻隔在昭关。 东皋公仁慈救某难， 七日七夜两鬓斑。 皇甫先生巧装扮， 他充伍员我过关。 落难英雄今复返， 未进楚国泪不干。 一家冤魂谅不散，"
+        },
+        {
+          "character": "伍员",
+          "type": "哭头",
+          "text": "爹娘啊！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "报仇雪恨方心安。 平阳扎营造战饭！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "一路辛苦须饱餐。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "且喜安营已毕。众位贤弟！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹",
+          "type": "同白",
+          "text": "三哥！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "为兄昔年弃楚离樊，前往吴国借兵，行至此地，昭关阻拦。多感东皋公、皇甫 纳设计救我出关。兵临楚境，当去酬谢。"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "三哥知恩报恩，有德报德，真是义气英雄！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启元帅：昭关守将出马讨战。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "我想此关，前者乃是米男窪镇守。如今不知守将何人，知我行军疲倦，为此趁 时杀来。 众将官！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "抬枪带马！"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "且慢！三哥今伐楚邦，未见一阵，元帅就要出马，岂不失了我军锐气？让俺刘 展雄抢个头功，亦好长驱进发。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "贤弟既要前去，带领随行兵将，攻打头阵！"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员下，中军随下。"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "迎敌楚兵去者！"
+        },
+        {
+          "character": "焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套、四上手引刘展雄同上。四蓝龙套、四校刀手引卞庄同上，同会阵。"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "楚将休催战马，通名受死！"
+        },
+        {
+          "character": "卞庄",
+          "type": "白",
+          "text": "小儿听着！某乃昭关首将卞庄。尔通名上来！"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "听者！某乃伍盟辅结拜义弟刘展雄是也！"
+        },
+        {
+          "character": "卞庄",
+          "type": "白",
+          "text": "无名匹夫，放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘展雄、卞庄同开打，刘展雄杀卞庄，四白龙套、四上手同抢关，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛上。"
+        },
+        {
+          "character": "伍辛",
+          "type": "引子",
+          "text": "天山峻岭，父仗义，打富济贫。"
+        },
+        {
+          "character": "伍辛",
+          "type": "念",
+          "text": "文韬武略晓，捉虎如狸猫。一怒山岳震，万军俱溃逃。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵自两边分上。"
+        },
+        {
+          "character": "伍辛",
+          "type": "stage",
+          "text": "伍辛　　　　　　　　　　　　　　　　众喽兵！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "带了应用之物，山下去者！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "伍辛",
+          "type": "念",
+          "text": "欲图名扬显，勤学在少年！"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "论奇才武封侯文当拜相， 忠于国孝于亲男儿自强。 飞天豹虽英雄才能埋葬， 也只好入深山捉虎擒狼。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛、四喽兵同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍、院子引费无极同上。"
+        },
+        {
+          "character": "费无极",
+          "type": "引子",
+          "text": "舌似青锋，斩群臣，任意纵横！"
+        },
+        {
+          "character": "费无极",
+          "type": "念",
+          "text": "自夸昔年计谋奇，无祥女改马昭仪。引得平王人伦丧，昧心父纳亲子妻。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "老夫，费无极。官居上大夫。平王晏驾，太子赵王接位。自从害死伍氏全家， 楚国大事，归我执掌。正是："
+        },
+        {
+          "character": "费无极",
+          "type": "念",
+          "text": "人生有计须当用，笑骂传言耳装聋。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子上。"
+        },
+        {
+          "character": "探子",
+          "type": "念",
+          "text": "吴国兵马雄壮，子胥攻灭楚邦。"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "启相爷：伍子胥借来吴国兵将，要报父母冤仇。昭关已破，卞庄阵亡。特禀丞 相知道。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "啊，有这等事！再探！"
+        },
+        {
+          "character": "探子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "探子下。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "哎呀且住！想那伍员全家被老夫所害。此番借兵前来，岂能与我干休？闻得飞 天山有一飞北达，他子飞天豹，英勇无敌。待我奏知幼主，备定礼物，聘请他 父子挡住子胥兵马不进楚邦，叫他空来一场。 来！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "有。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "打道上朝！"
+        },
+        {
+          "character": "四青袍",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵引伍辛同上。"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "严父威名霸山岗， 聚义胜似称帝王。 随带喽兵麾下将， 行围射猎捉虎狼。"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "来到山下。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "撒下围场！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "好山景也！"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "行围射猎把心散， 无边风景在深山。 堪笑王侯与仕宦， 不及渔樵心内安。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "虎形上，冲下。三喽兵同追下。"
+        },
+        {
+          "character": "喽兵甲",
+          "type": "白",
+          "text": "猛虎过去。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "哎呀妙啊！"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "松林走兽真大胆， 敢到围场把食餐。 真是野马归厩圈， 孤雁无巢落沙滩。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "且住！喽兵追赶一虎，待俺前去擒他便了！"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "哪吒降龙到海岸， 俺今伏虎入山峦。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛、喽兵甲同下。三喽兵追虎形同上。伍辛、喽兵甲同上。"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "你出深山该遭难， 俺惯在龙头把角扳。 山路崎岖不平坦，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛打虎形、虎形死。"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "未食君禄枉奇男。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "众喽兵！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "回山去者！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵抬虎形引伍辛同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍通上。"
+        },
+        {
+          "character": "伍通",
+          "type": "引子",
+          "text": "隐名山巢，叹全家，冤仇未报。"
+        },
+        {
+          "character": "伍通",
+          "type": "念",
+          "text": "忆昔当年弃楚樊，转瞬光阴须发斑。满门诛戮死凄惨，逢人不敢泄机关。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "老夫，姓伍名通字子达，乃伍奢之义子。大哥伍尚，三弟伍员。只为平王父纳 子妻，义父谏奏，费无极进谗，害我全家。弟媳贾氏尽节。三弟将子寄托齐邦 鲍目哺养，他弃了樊城。是我将侄儿伍辛抱回。伯侄避难，来到天目山。喜有 喽兵立我为主，改名飞北达。侄儿改名天豹，今年一十八岁。我已传他武艺， 且候机会，再将冤仇说明。正是："
+        },
+        {
+          "character": "伍通",
+          "type": "念",
+          "text": "举家冤仇恨，指日要报明。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵抬虎形引伍辛同上。"
+        },
+        {
+          "character": "伍辛",
+          "type": "念",
+          "text": "行围射猎擒猛虎，夸俺英雄世间无。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "爹爹在上，孩儿拜揖，"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "我儿少礼，坐下。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "谢坐！爹爹，孩儿出外射猎，有一猛虎，被儿打死了。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "我儿强公胜祖。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "爹爹夸奖。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛向四喽兵。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "将虎搭下去！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵抬虎形同下。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "适才孩儿回山，路上有人言道：伍盟辅借了吴国兵马，要来灭楚，不久要打从 山下经过。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "啊！伍盟辅兵马要从我山下经过？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "噢！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "闻听三弟兵马到， 假意吃惊暗泪抛。 恨煞平王去世早， 无极奸贼命难逃。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "爹爹想些什么？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "伍员兵到，这飞天山正当道路，只怕安身不稳了。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "啊爹爹，那伍员是甚等好汉，爹爹为何这样怕他？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "咳，伍盟辅的威名，我儿哪里知道噢！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "临潼会上曾斗宝， 势压各国众英豪。 斩将擒王如削草， 枪尖一举人难逃。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "如此之勇！那是他多大年岁？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "那时节么，他只有一十八岁。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "如此说来，是与孩儿今年同庚。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "正是。他保定平王，去至临潼赴会，双鞭活擒赖皮豹。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "那赖皮豹必是一勇之夫，无能争杀。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "那赖皮豹之事倒也罢了。儿可知红雀山刘展雄么？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "爹爹常说刘展雄乃是无敌好汉。就是此人么？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "正是此人，他在红雀山前打劫珠宝，刀劈苟于，鞭打姜驿，生擒石傅，人人害 怕，个个担惊。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "真乃好汉！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "鲁国有一秋胡，乃舌辩之士，指望顺说展雄归降。被他大喊一声，吓得秋胡滚 落马鞍，倒卧疆场。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "展雄如此凶勇，诸侯怎得过去呢？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "那时伍子胥在诸侯面前夸下海口，只要单身独骑，收伏展雄。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "但不知他怎样收伏展雄？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "二人对阵，子胥爱展雄乃是好汉，当面不好使他出丑，只杀得金乌西坠，玉兔 东升。子胥将他引至红雀山后，一鞭将展雄打下马来！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "哎呀，可惜失了威名了！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "强中自有强中手， 武艺高出他一头。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "那展雄他怎么样了？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "他二人拜为少兄老弟，就把秦国的机关泄漏了。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "秦国什么机关？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "他言道：秦穆公要灭各路诸侯，计设临潼会，殿前立一铜鼎，有能举起者，称 为盟辅，佩剑挂印。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "何人举起？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "天下英雄，谁不想佩剑挂印？齐到铜鼎面前。子胥一怒，拳打卞庄，脚踢朱龙， 力举铜鼎，压倒诸侯，佩剑挂印，俱称他“盟辅将军”！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "他既是楚臣，为何借兵，反打楚邦，是何情由？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "因他在临潼会上为媒，秦、楚割了衣襟，楚国世子米建与秦国无祥公主两下结 了婚姻。平王差一臣子往秦国迎亲。那臣子是个误国奸贼，他与米建世子不睦， 将金顶轿改换银顶轿，无祥女改换马昭仪，那昏王父纳子妻，败坏人伦了。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "难道就无忠良谏奏么？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "子胥之父谏奏，满门斩首；又命大将武城黑去至樊城捉拿子胥。子胥有一义兄， 拖了伍氏之子，逃往外乡，子胥之妻贾氏尽节一死了。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "盟辅子胥呢？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "子胥杀出樊城，投奔吴国，借来兵马，要报满门冤仇。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍通哭。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "爹爹为何悲伤？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "可怜一家忠良，死得凄惨哪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍通哭。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "听爹爹之言，子胥是个英雄好汉？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "本来是英雄好汉。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "好哇！他要从山下经过，待孩儿挡住要道，与他比比武艺。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "唗！那子胥英勇，天下无敌。儿敢出此狂言？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "孩儿不敢！"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启大王：楚国费大夫到。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "啊，敢是那费无极么？"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "到我山寨，必有情由。 我儿回避了。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "伍辛",
+          "type": "念",
+          "text": "正在听父训，忽有外人来。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛下。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "吩咐喽兵伺候！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "喽兵伺候！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。四喽兵同上。"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "参见大王。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "站立两厢！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "是。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "费无极到此，叫拿就拿，叫绑就绑！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "遵命。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "吩咐有请！"
+        },
+        {
+          "character": "喽兵甲",
+          "type": "白",
+          "text": "有请费大夫！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四青袍引费无极同上，四青袍同下。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "啊，老大王！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "费大人！请进！"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "费无极、伍通同进。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "请坐！"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "有坐。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "不知费大人驾到，未曾远迎，当面恕罪！"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "岂敢！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "驾到荒山，必有贵干？"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "只为逆臣伍子胥统领人马搅乱楚邦，我主言道：命老大王挡住他的人马不进楚 邦，酬谢黄金百斛。这是礼单，大王请看！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "费无极呈礼单。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "待我一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍通看礼单。〖牌子〗。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "原来为伍子胥借吴伐楚，要我父子杀退吴兵？"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "正是。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "这有何难？我父子退他兵将就是，何用厚礼？"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "这是我主敬意，望乞收纳！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "大夫如此诚心，老夫愧领了。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "擒了伍子胥，献于我主，还有重谢。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "待我与小儿商议。大夫请到后帐，头目奉陪！"
+        },
+        {
+          "character": "费无极",
+          "type": "念",
+          "text": "全仗大王雄才展，"
+        },
+        {
+          "character": "伍通",
+          "type": "念",
+          "text": "要擒子胥有何难！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵引费无极同下。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "且住！我时常想报满门冤仇，杀此奸贼；谁知他自投罗网。我且假装有病，等 我三弟兵到，自有杀贼之日。费无极呀费无极，天堂有路你不去，地狱无门闯 进来。好奸贼！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍通下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套、四上手、中军、刘展雄、焦休欣、姜立、石豹引伍员同上。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "前军为何不行？"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "前面一寨，无令不敢前进。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "人马列开！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "众位贤弟，我兵夺了昭关，此处又有一寨，定是贼寇。哪位贤弟带兵洗山？"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "小弟愿带人马洗山。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "众位贤弟随同前去！"
+        },
+        {
+          "character": "刘展雄、焦休欣、姜立、石豹",
+          "type": "同白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘展雄、焦休欣、姜立、石豹同下。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "就在此扎住营盘！"
+        },
+        {
+          "character": "四白龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "费无极上。"
+        },
+        {
+          "character": "费无极",
+          "type": "念",
+          "text": "全凭三寸舌，激动年幼人。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "飞北达老儿收了礼物，不发人马。且等飞天豹出来，我用言语激动于他。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛上。"
+        },
+        {
+          "character": "伍辛",
+          "type": "念",
+          "text": "父王按兵不动，使我心内懵懂。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "啊殿下，但不知老大王得何病症？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "乃是忧虑愁烦。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "想必怕那伍子胥，故而不发人马？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "大人休出此言！非俺夸口，今日出马，立退吴兵；明日交锋，必擒伍子胥！"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "殿下既有此本领，何不出马？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "如此休要叫俺爹爹知道，待俺擒那伍子胥、刘展雄见你便了。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "我与你瞒过就是。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "众喽兵！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "内同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "迎敌去者！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵同上。费无极下。刘展雄、焦休欣、姜立、石豹同上，与伍辛会阵。"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "呔！马前小将通名受死！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "俺乃红袍殿下飞天豹。吴将留名！"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "俺乃伍盟辅结拜义弟刘展雄。"
+        },
+        {
+          "character": "焦休欣",
+          "type": "白",
+          "text": "焦休欣。"
+        },
+        {
+          "character": "姜立",
+          "type": "白",
+          "text": "姜立。"
+        },
+        {
+          "character": "石豹",
+          "type": "白",
+          "text": "石豹。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "无名之将，快叫伍子胥前来会俺，饶尔不死！"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "一派胡言！放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘展雄、焦休欣、姜立、石豹、伍辛同开打。伍辛连擒姜立、石豹，刘展雄、焦休欣同败下，伍辛追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "费无极上。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "楚国权臣，压文武，哪个不尊。"
+        },
+        {
+          "character": "费无极",
+          "type": "念",
+          "text": "忆昔秦、楚许姻亲，计使平王败人伦。子胥今报父仇恨，楚王失国我失身。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "老夫，费无极。楚国为臣。官拜上大夫。当年害死伍氏全家，子胥潜逃，投奔 吴国。今借来兵马，要报满门冤仇。适才飞天豹下山去了，要擒伍子胥、刘展 雄。这般时候不见回山。"
+        },
+        {
+          "character": "伍辛",
+          "type": "内白",
+          "text": "众喽兵，回山！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵、伍辛押姜立、石豹同上。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "啊殿下！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "将他二人押到后寨，不要叫大大王知道。"
+        },
+        {
+          "character": "四喽兵",
+          "type": "白",
+          "text": "遵命！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵押姜立、石豹同下。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "得胜回来，恭喜殿下！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "擒来二将，可曾看见？"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "老夫也曾看见。殿下擒得伍子胥今在何处？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "俺不曾见他。"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "哎呀，谢天谢地！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "谢什么天地？"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "殿下幸喜无有见着伍子胥；你若见他，定要擒你与他二将报仇。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "大人你真真要那伍子胥么？"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "我要他，你不能擒来，也是枉然。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "你不要叫俺父王知道。待俺二次下山，擒那伍子胥便了！"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "我与你瞒过就是。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "大人请退！"
+        },
+        {
+          "character": "费无极",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "众喽兵！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "内同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "迎敌去者！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵同上。"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "丈夫出言如染皂， 岂似风声过耳消？ 英雄一怒泰山倒， 看俺下海擒金鳌。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵、伍辛同下。"
+        },
+        {
+          "character": "费无极",
+          "type": "唱",
+          "text": "但愿吴兵齐退了， 老夫独霸在当朝。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "费无极下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四白龙套、四上手引伍员同上。"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "长驱直进兵统领， 能征惯战吴国兵。 英雄个个齐奋勇， 眼看楚国指日平。"
+        },
+        {
+          "character": "伍员",
+          "type": "刘展雄、焦休欣同上",
+          "text": "。"
+        },
+        {
+          "character": "刘展雄、焦休欣",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "二位贤弟为何这等模样？"
+        },
+        {
+          "character": "刘展雄",
+          "type": "白",
+          "text": "启元帅：这飞天山有一红袍小将，名叫飞天豹，十分骁勇，生擒姜立，活捉石 豹，小弟被他打了一鞭。"
+        },
+        {
+          "character": "焦休欣",
+          "type": "白",
+          "text": "小弟也中了他一枪。败回营来。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启元帅：飞天山小将要元帅出马。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "二位贤弟看守营寨。"
+        },
+        {
+          "character": "刘展雄、焦休欣",
+          "type": "同白",
+          "text": "元帅小心了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘展雄、焦休欣同下。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四白龙套、四上手",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "抬枪带马！"
+        },
+        {
+          "character": "四白龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员上马，四白龙套、四上手、伍员同走小圆场。四喽兵引伍辛同上，同会阵。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "马前来的敢是飞天豹？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "然！来将通名！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "本帅盟辅伍子胥。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "啊，你就是伍子胥？"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "伍盟辅。"
+        },
+        {
+          "character": "伍辛",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "为何发笑？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "我道你是三头六臂；原来是个白发老儿，敢称“盟辅”？来来来，与俺交战几 合！"
+        },
+        {
+          "character": "伍员",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "这员小将令人疼爱。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "呔！你敢是怯战？"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "休得胡言！俺盟辅有话对你言讲。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "要战就战；俺不听你“盟辅”二字。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四白龙套、四上手",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "押住阵角！"
+        },
+        {
+          "character": "四白龙套、四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "交锋对垒战疆场，"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "唗！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "小将勒马暂停枪。 俺姓伍名员武艺广， 临潼会上曾显扬。 只为平王人伦丧， 父纳子妻乱纲常。 我父谏奏斩法场， 满门俱在刀下亡。 我伐楚邦非愚莽， 要报父仇罪平王。 今见将军精神爽， 劝你马前快投降。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "住口！"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "子胥休要胡言讲， 藐视英雄目无光。 休提临潼赴会场， 举鼎势压各国王。 俺笑那些无用将， 让你一人逞刚强。 盟辅大印你执掌， 夸你英雄世无双。 借兵伐楚我不挡， 带兵洗山太猖狂！ 降俺方可把阵让， 我父收你做二大王。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "唗！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "不听良言反冲撞，"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "定要与你论高强。"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "金枪无眼须思想，"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "擒你犹如手探囊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员、伍辛同开打，同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂引伍通同上。"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "耳听山下战鼓响， 急急忙忙出营房。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "老夫，伍通。乃太傅伍奢之义子。只因三弟伍员，吴国借兵，前来伐楚。费无 极来聘我父子杀退吴兵。是我假装有病。闻知三弟兵马已到。费无极这奸贼激 怒我儿，盗了令箭，带兵下山，擒来二将，收在后寨。竟瞒了老夫。这个奴才 又下山去了。是我与他未曾说明。他父子征杀，三弟若有损伤，那还了得？ 众喽兵！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "随我登山去者！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "自悔真言未曾讲， 三弟领兵来山岗。 急忙迈步战场往， 恐他父子有损伤。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、伍通同走圆场，同登山。伍员上。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "好将啊好将！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "我爱小将武艺广， 伍员不忍将他伤。 可惜埋名落草莽，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛上，开打，伍员下。"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "谅你难逃这杀人场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛追下。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "且住！前面败的是我三弟，后面追赶的乃是伍辛这个奴才。哎呀儿呀，前面败 的老将乃是你父，你天豹名字是伯父与你改的，儿叫伍辛哪！这个畜生只顾交 锋，他哪里听得见哪！三弟呀三弟，你老了哇！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "临潼会上英雄壮， 各国诸侯惧顺降。 看看容颜改了像，"
+        },
+        {
+          "character": "伍通",
+          "type": "夹白",
+          "text": "三弟呀！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "转眼鬓发白如霜。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "又杀来了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员上。"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "对敌交锋原不让， 我爱他是少年郎。 想起我儿别人养，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛上。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "哪里走？"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "举鼎威名虚传扬。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛、伍员同开打。伍员下，伍辛追下。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "伍辛奴才，恃少年之勇，追杀他父。少时转来，待我鸣金收兵！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员、伍辛同上，同架住。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "众喽兵！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "鸣金收兵！"
+        },
+        {
+          "character": "四文堂",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四文堂、伍通同下。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "飞天豹，你为何不战？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "住了！我是盗令出战，就有违背父命之罪。山上鸣金收兵，乃是俺父王号令， 俺要回山请罪。明日定来擒你！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "你父何名？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "父讳北达。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "儿是孝子，明日须要早来！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "岂肯失信于你！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "好！请！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "请！"
+        },
+        {
+          "character": "伍辛",
+          "type": "三笑",
+          "text": "哈哈！哈哈！啊哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛下。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "啊！他的刀法鞭枪与俺一样，但不知何人传授。飞天豹啊飞天豹！儿是少年英 雄，可惜埋没深山了！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "少年力勇精神壮， 枪法犹如闪电光。 某在楚国无人挡， 今见此子果然强。 展雄被他鞭伤膀， 休欣险在枪尖亡。 武艺与我一般样， 可惜性傲不肯降。 约定明日再争仗， 安排妙计早提防。 号令一出收兵将，"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "回营！"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "收他破楚如探囊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍通上。"
+        },
+        {
+          "character": "伍通",
+          "type": "念",
+          "text": "鸣金收兵将，父子免损伤。"
+        },
+        {
+          "character": "伍辛",
+          "type": "内白",
+          "text": "众喽兵！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "内同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍辛",
+          "type": "内白",
+          "text": "回山！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "内同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵引伍辛同上。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "参见爹爹！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "罢了。我儿一旁坐下。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "谢坐！孩儿违背父命，盗令下山，死罪呀死罪！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "好儿子！好英雄！真乃强公胜祖！从今以后，山寨大事，就让儿执掌！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "乃是费无极将儿激怒去的。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "费无极乃是楚国忠臣，难怪你听他的言语。为父不罪于你。后帐去吧！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "谢父王！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛出。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "咳，什么“父王”！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "我父王心中不悦，待我听他说些什么。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛偷听。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "伍辛哪伍辛，我把你这个小畜生哪！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "天豹本是假名讳， 世间哪有人姓飞？ 伍辛我儿如梦睡， 不辨冤仇徒逞威。 今日骨肉曾对垒，"
+        },
+        {
+          "character": "伍通",
+          "type": "夹白",
+          "text": "伍辛儿呀！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "父子难认谁是谁。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "啊，教我好不明白！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛进门。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "啊爹爹！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "儿还未曾走去么？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "啊爹爹，适才说什么“天豹”，又讲什么“伍辛”，叫孩儿好不明白！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "说的就是我儿你呀！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "怎么都是孩儿我呢？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "为父日前对你说的言语，你可明白？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "孩儿愚蠢，望爹爹指教。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛跪。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "起来。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "谢爹爹！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "前言临潼比强胜， 楚国伍员逞英雄。 可恨平王失仁政， 父纳子妻灭人伦。 忠臣谏奏遭刑问，"
+        },
+        {
+          "character": "伍通",
+          "type": "夹白",
+          "text": "我的儿呀！"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "祸事出在我家门。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "什么“祸事出在我家门”哪？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "儿呀，那伍子胥你可知道是你什么人？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "孩儿不知。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "前言被害的伍太傅是你什么人？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "孩儿也不知。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "儿可知我是你什么人？"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "是我爹爹。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "儿呀，我并非是你的爹爹呀！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "哎呀，爹爹呀，快快说与孩儿知道吧！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "儿呀，我乃太傅螟蛉义子名叫伍通，排行在二。我大哥伍尚，因昏王听信奸言， 同儿祖父伍奢被斩法场。奸贼命武城黑去至樊城捉拿你父伍员。可怜你母尽 节一死，你父将你寄至齐国鲍目抚养。为伯恐他不能殷勤，我才将你抱回。哎 呀儿呀，我是你二伯父伍通，我儿乳名伍辛，与你在阵前争杀的老将伍子胥， 那就是你生身之父哇！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "哎呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍辛昏倒。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "我儿醒来！"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "养儿不报父母恩，"
+        },
+        {
+          "character": "伍辛",
+          "type": "三叫头",
+          "text": "爹爹，母亲！爹娘啊！"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "空在人间十八春。"
+        },
+        {
+          "character": "伍辛",
+          "type": "夹白",
+          "text": "伯父啊！"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "承蒙恩养如山重， 谁是我家大仇人？"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "儿呀，现在我山寨的费无极，就是我家的仇人。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "好贼子！"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "害我一家未泄恨， 计使豪杰杀天伦。 一把宝剑拿在手！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "哪里去？"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "杀死奸贼慰忠魂。"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "哎呀伯父啊！儿有不共戴天之仇，欺天灭伦之事，罪该万死！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "此乃是伯父为曾说明之故。见了你父，全有伯父担承。 众喽兵走上！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四喽兵自两边分上。"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "参见大王！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "罢了！命你等速将费无极全家绑起，随定本大王下山去者！"
+        },
+        {
+          "character": "四喽兵",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "正是："
+        },
+        {
+          "character": "伍通",
+          "type": "念",
+          "text": "举家冤仇恨，"
+        },
+        {
+          "character": "伍辛",
+          "type": "念",
+          "text": "今日要报明！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手引伍员同上。"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "天山贼寇兵马胜， 阻我大军难通行。 红袍小将面赤粉， 英雄盖世艺超群。 好言劝他不归顺， 约定明日再交兵。 人马岂可久受困？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "姜立、石豹同上。"
+        },
+        {
+          "character": "姜立、石豹",
+          "type": "同唱",
+          "text": "今见英雄出一门。"
+        },
+        {
+          "character": "姜立、石豹",
+          "type": "同白",
+          "text": "参见元帅！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "你二人被飞天豹擒去，怎么回来了？"
+        },
+        {
+          "character": "姜立、石豹",
+          "type": "同白",
+          "text": "恭喜元帅！贺喜元帅！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "喜从何来？"
+        },
+        {
+          "character": "姜立、石豹",
+          "type": "同白",
+          "text": "那飞天山大王乃是元帅的二哥伍通，红袍小将乃是元帅的亲生之子伍辛。那费 无极啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "报子",
+          "type": "内白",
+          "text": "报！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "启元帅：二老爷、少爷到。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "有请！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。伍通、伍辛同上。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "二哥！"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "三弟！"
+        },
+        {
+          "character": "伍辛",
+          "type": "白",
+          "text": "爹爹！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "儿呀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖哭相思〗。"
+        },
+        {
+          "character": "伍通",
+          "type": "白",
+          "text": "那费无极全家被愚兄绑到，现在辕门。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "将奸贼全家绑上来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四上手押费无极、费妻、费女同上。"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "好贼子！"
+        },
+        {
+          "character": "伍员",
+          "type": "西皮二六板",
+          "text": "不想奸贼有今日， 害我的全家血染衣。 挖尔的心肝难消我的气， 这也是天网恢恢、疏而不漏、插翅难腾飞。"
+        },
+        {
+          "character": "费无极",
+          "type": "唱",
+          "text": "伍将军休要怒冲起， 我把这从头始末说端的： 杀你的全家平王有旨意， 何必大祸往我的身上移？怨我费无极，我是真真的有点屈。"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "狗奸贼说什么你有屈， 无祥女改马昭仪是你做的。 引得平王良心昧， 败坏纲常父纳子的妻。 义父上殿本奏起， 杀我的全家三百余口血染衣。 不赦的罪魁就是你， 可知道害人犹如害自己，讲什么你有屈，死者还有余！"
+        },
+        {
+          "character": "费无极",
+          "type": "唱",
+          "text": "说什么无祥女改马昭仪， 此乃月下老人配就的好夫妻。 我为的是升官发财得权力， 不料想虎落平阳被你们犬来欺。 一死何足惜， 闲话要少提。"
+        },
+        {
+          "character": "伍辛",
+          "type": "唱",
+          "text": "狗奸贼说此话怎对那天和地？ 按报应就该五雷将你劈。 可叹我母尽节死， 害得我全家大小死走逃亡俱分离，东的东来西的西。 我这双钮的宝剑尔惧也不惧？"
+        },
+        {
+          "character": "费无极",
+          "type": "唱",
+          "text": "不过是割舍挖眼活剥我的皮，无有什么了不的？"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "害我全家尽是你， 一口恶气往上提。 宝剑将儿狗命取！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员杀费无极。"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "再杀奸贼结发妻！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍员杀费妻。"
+        },
+        {
+          "character": "伍通",
+          "type": "唱",
+          "text": "乱刀剁死谗臣女！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "伍通杀费女。"
+        },
+        {
+          "character": "伍员",
+          "type": "唱",
+          "text": "拿住平王活剥皮！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "众将官！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "有！"
+        },
+        {
+          "character": "伍员",
+          "type": "白",
+          "text": "歇兵三日，攻打楚邦去者！"
+        },
+        {
+          "character": "四上手",
+          "type": "同白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖尾声〗。众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2120 @@
+{
+  "script_id": "04003003",
+  "title": "定军山",
+  "alias": [
+    "一战成功"
+  ],
+  "source": "《京剧丛刊》",
+  "characters": [
+    {
+      "name": "黄忠",
+      "hangdang": "老生"
+    },
+    {
+      "name": "严颜",
+      "hangdang": "老生"
+    },
+    {
+      "name": "夏侯渊",
+      "hangdang": "净"
+    },
+    {
+      "name": "诸葛亮",
+      "hangdang": "老生"
+    },
+    {
+      "name": "夏侯尚",
+      "hangdang": "丑"
+    },
+    {
+      "name": "张郃",
+      "hangdang": "净"
+    },
+    {
+      "name": "刘备",
+      "hangdang": "老生"
+    }
+  ],
+  "plot": "蜀老将黄忠，当曹操攻打西蜀重镇葭萌关时，发挥老当益壮的精神，向诸葛亮讨令拒敌，打退了敌将张郃，\n乘胜攻占了曹军屯粮的天荡山，又再接再厉地用计斩了曹军大将夏侯渊，夺取了曹军大本营所在的定军山。",
+  "notes": "《定军山》是《三国演义》中的一段故事。这个剧本的整理工作是演员谭富英与本院编辑处陶君起共同进行\n的。在研究过程中，北京戏曲实验学校教员贯大元也参加了意见。主要的修改处如下：\n一、原本中对于谁攻谁守葭萌关，有好几处混淆不清；现根据《三国演义》，确定葭萌关为刘备所辖。\n二、原本第一场上赵云，只作传令、传话，与身份不合，现改为张著。若与《阳平关》连演，人物亦可前后\n一致。\n三、原本第二十一场“走马换将”时，黄忠说：“老夫若有二意，死在药箭之下。”若作为一般设誓，本无\n不可；但在《伐东吴》剧中，黄忠果然死于药箭，未免有迷信之嫌。现改为“丈夫一言，岂肯失信于你！”\n四、原本词句一般地比较粗糙，而且有几处情节，前后略有矛盾，整理时曾加以修润。此外，原本中有的地\n方称“军师爷”为“师爷”，称“我”为“某”，均因有关唱法，未予更动。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "name": "第一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引张著、诸葛亮同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "点绛唇",
+          "text": "汉末三分，干戈不宁，领人马，抵挡曹兵，要把乾坤定。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "巴蜀稳定仗荆襄，联吴拒曹守边疆。一片丹心扶社稷，扭转汉室锦家邦。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "山人，诸葛亮。闻听张郃攻打葭萌关，必须派一能将，前去迎敌。 来，张著听令。"
+        },
+        {
+          "character": "张著",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "传令下去：可有能将，去至阆中，替回三将军，大战张郃？"
+        },
+        {
+          "character": "张著",
+          "type": "白",
+          "text": "得令。 令出——下面听者：军师有令，可有能将，去至阆中，替回三将军，大战张郃？"
+        },
+        {
+          "character": "黄忠",
+          "type": "内白",
+          "text": "慢着。"
+        },
+        {
+          "character": "张著",
+          "type": "白",
+          "text": "何人阻令？"
+        },
+        {
+          "character": "黄忠",
+          "type": "内白",
+          "text": "黄忠。"
+        },
+        {
+          "character": "张著",
+          "type": "白",
+          "text": "随令进帐。"
+        },
+        {
+          "character": "黄忠",
+          "type": "内白",
+          "text": "来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "报，黄忠告进。 参见军师。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "黄老将军少礼。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "谢军师。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老将军因何阻令？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "军师！闻听张郃攻打葭萌关，何劳三将军前往。末将不才，带领要马，大战张 郃。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老将军年迈，岂是那张郃的对手？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "军师！"
+        },
+        {
+          "character": "黄忠",
+          "type": "念",
+          "text": "末将年迈勇，血气贯长虹。斩将如削草，跨马走西东。 两膀千斤力，能开铁胎弓。若论交锋事，还算老黄忠。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "帐下有一铁胎弓，你若开得，就命你前去。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮二六板",
+          "text": "师爷说话言太差， 不由黄忠怒气发。 一十三岁习弓马， 威名镇守在长沙。 自从归顺皇叔爷的驾， 匹马单刀取过了巫峡。 斩关夺寨功劳大， 师爷不信在功劳簿上查一查。 非是我黄忠夸大话，"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "弓来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠取弓。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "铁胎宝弓手中拿。 满满搭上朱红扣，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠拉弓，众人同喝采。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "帐下儿郎个个夸。 二次再用这两膀力，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠拉弓，众人同喝采。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "人有精神力又加。 三次开弓秋月样，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠拉弓，众人同喝采。黄忠收弓。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "再与师爷把话答。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "帐外候令。"
+        },
+        {
+          "character": "黄忠",
+          "type": "笑",
+          "text": "哈哈哈……"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠下。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "传令下去：可有能将，辅佐黄老将军，大战张郃？"
+        },
+        {
+          "character": "张著",
+          "type": "白",
+          "text": "得令。 令出——下面听者：可有能将，辅佐黄老将军，大战张郃？"
+        },
+        {
+          "character": "严颜",
+          "type": "内白",
+          "text": "严颜愿往。"
+        },
+        {
+          "character": "张著",
+          "type": "白",
+          "text": "随令进帐。"
+        },
+        {
+          "character": "严颜",
+          "type": "内白",
+          "text": "来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严颜上。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "报，严颜告进。 参见军师。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "严老将军少礼。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "谢军师。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老将军进帐何事？"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "末将不才，情愿辅佐黄老将军，大战张郃。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老将军年迈，岂是张郃的对手？"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "军师！"
+        },
+        {
+          "character": "严颜",
+          "type": "念",
+          "text": "老将今年八十一，拔山举鼎力有余。万马军中无人敌，斩将杀贼哪算奇。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "多日未曾出兵，不知你枪法如何？"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "若论枪法，取上将的咽喉，犹如探囊取物一般。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "当帐演来。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": "严颜",
+          "type": "西皮快板",
+          "text": "军师休道我年纪大， 有几辈老将听根芽： 赵国廉颇通兵法， 汉室马援定邦家。 虎头金枪耍一耍——"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "军士抬枪上，严颜舞枪。"
+        },
+        {
+          "character": "严颜",
+          "type": "西皮散板",
+          "text": "我比黄忠也不差。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "传黄老将军进帐。"
+        },
+        {
+          "character": "众人",
+          "type": "同白",
+          "text": "黄老将军进帐。"
+        },
+        {
+          "character": "黄忠",
+          "type": "内白",
+          "text": "来也。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "参见军师。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "黄老将军以为正帅。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "严老将军以为副帅。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "听我令下！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士暗同上。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮流水板",
+          "text": "一个西川英名大， 一个威震在长沙； 二位老将齐上马， 得胜回来把功加。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "黄忠接令把帐下，"
+        },
+        {
+          "character": "严颜",
+          "type": "西皮摇板",
+          "text": "不由严颜笑哈哈。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "一不用战鼓咚咚地打，"
+        },
+        {
+          "character": "严颜",
+          "type": "西皮摇板",
+          "text": "二不用副帅把队押。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "事不宜迟把马跨——"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "马来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上马，下。四军士同下。"
+        },
+        {
+          "character": "严颜",
+          "type": "西皮摇板",
+          "text": "要把张郃一马踏。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严颜下。"
+        },
+        {
+          "character": "张著",
+          "type": "白",
+          "text": "此番大战，军师为何单派二位老将前往？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "二位老将，有勇有谋，此去必然成功。命你押解粮草，军前听用，不得有误。"
+        },
+        {
+          "character": "张著",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "退帐。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "name": "第二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引陈式同上。"
+        },
+        {
+          "character": "陈式",
+          "type": "念",
+          "text": "阵前打败仗，含羞脸无光。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "二位老将军到。"
+        },
+        {
+          "character": "陈式",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。黄忠、严颜、四军士同上，黄忠、严颜同下马，入帐分坐。"
+        },
+        {
+          "character": "陈式",
+          "type": "白",
+          "text": "参见二位老将军。"
+        },
+        {
+          "character": "黄忠、严颜",
+          "type": "同白",
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "陈式",
+          "type": "白",
+          "text": "谢座。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "可曾与那贼见过阵来？"
+        },
+        {
+          "character": "陈式",
+          "type": "白",
+          "text": "见过一阵，大败而归。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "唗！无能之将，败我头阵，推出斩了。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈式跪。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "且慢，军家胜败，古之常理。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "敢是与他讲情？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "不敢，老将军开恩。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严颜向陈式。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "还不谢过黄老将军！"
+        },
+        {
+          "character": "陈式",
+          "type": "白",
+          "text": "多谢黄老将军。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "陈式听令：城楼高扯红旗二面，上写黄忠、严颜，那贼闻名丧胆。"
+        },
+        {
+          "character": "陈式",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈式下。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报。 张郃讨战！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "老将军，张郃小儿来了，你我会他一会。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "请。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "众将官，带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠、严颜同上马，众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "name": "第三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖风入松〗。四军士引张郃同上。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "某张郃。奉了魏王旨意，攻打葭萌关。探马报道：黄忠、严颜兴兵前来，岂肯 容他猖狂。 众将官，杀。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引黄忠、严颜同上。会阵。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "老夫黄忠。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "老夫严颜。"
+        },
+        {
+          "character": "张郃",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈。"
+        },
+        {
+          "character": "黄忠、严颜",
+          "type": "同白",
+          "text": "尔为何发笑？"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "我道黄忠、严颜天神下界，原来是两个老匹夫！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "呸，一派胡言，放马过来！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠、严颜、张郃同开打，张郃败下。黄忠、严颜同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "name": "第四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩浩、夏侯尚同上。"
+        },
+        {
+          "character": "韩浩",
+          "type": "白",
+          "text": "俺韩浩。"
+        },
+        {
+          "character": "夏侯尚",
+          "type": "白",
+          "text": "夏侯尚。"
+        },
+        {
+          "character": "韩浩、夏侯尚",
+          "type": "同白",
+          "text": "奉命后队接应，就此前往！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上，开打，韩浩、夏侯尚同败下。黄忠追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "name": "第五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张郃上，严颜上，开打。张郃败下。严颜追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 6,
+      "name": "第六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张郃、韩浩、夏侯尚同上。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "二位将军，黄忠、严颜杀法厉害，如何是好？"
+        },
+        {
+          "character": "夏侯尚",
+          "type": "白",
+          "text": "将军不必惊慌！我兄长夏侯德镇守天荡山，你我去到那里搬兵求救。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "韩浩请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张郃、韩浩、夏侯尚同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 7,
+      "name": "第七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八军士引黄忠、严颜自两边分上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "老将军追赶何人？"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "张郃小儿。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "那贼去远了。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "便宜了那贼。老将军追赶何人？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "韩浩、夏侯尚。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "那二贼逃走了。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "便宜了二贼。抬头观看！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠看。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "老将军！前面已是天荡山，乃曹操屯粮之所；此山不破，你我大功难成。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "末将倒有一计在此。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "有何妙计？"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "老将军前山骂阵，末将后山放火，两下夹攻，何愁此山不破？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "此计甚妙。 众将官，分兵前往。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人自两边分下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 8,
+      "name": "第八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引夏侯德同上。"
+        },
+        {
+          "character": "夏侯德",
+          "type": "念",
+          "text": "镇守天荡山，粮草最当先。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报。 张将军到。"
+        },
+        {
+          "character": "夏侯德",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。张郃、韩浩、夏侯尚同上。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "杀败了，杀败了！"
+        },
+        {
+          "character": "夏侯德",
+          "type": "白",
+          "text": "将军为何这等模样？"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "黄忠、严颜杀法厉害，特来搬兵求救。"
+        },
+        {
+          "character": "夏侯德",
+          "type": "白",
+          "text": "且听探马一报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报。 黄忠讨战。"
+        },
+        {
+          "character": "夏侯德",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "夏侯德",
+          "type": "白",
+          "text": "韩浩攻打头阵！"
+        },
+        {
+          "character": "韩浩",
+          "type": "白",
+          "text": "得令。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩浩下。"
+        },
+        {
+          "character": "夏侯德",
+          "type": "白",
+          "text": "夏侯尚随后接应！"
+        },
+        {
+          "character": "夏侯尚",
+          "type": "白",
+          "text": "得令！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯尚下。报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报。 后山失火！"
+        },
+        {
+          "character": "张郃、夏侯德",
+          "type": "同白",
+          "text": "再探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "张郃、夏侯德",
+          "type": "同白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "张郃、夏侯尚",
+          "type": "同白",
+          "text": "众将官，后山救火！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 9,
+      "name": "第九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "背地里暗笑诸葛亮， 他道老夫少刚强； 虽然年迈精神爽， 杀人如同宰鸡羊。 催马来在阵头上，"
+        },
+        {
+          "character": "韩浩",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "来了送死小儿郎。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "韩浩上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "韩浩",
+          "type": "白",
+          "text": "韩浩。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "看刀！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠斩韩浩。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "宝刀一举红光放， 无知匹夫丧疆场。 眼前若有诸葛亮， 管叫他，含羞带愧脸无光。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 10,
+      "name": "第十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严颜上。"
+        },
+        {
+          "character": "严颜",
+          "type": "西皮快板",
+          "text": "天荡山后把火放， 烧得贼兵无躲藏。 催马来在山坡上，"
+        },
+        {
+          "character": "夏侯德",
+          "type": "内白",
+          "text": "哪里走！"
+        },
+        {
+          "character": "严颜",
+          "type": "西皮摇板",
+          "text": "抖擞精神战一场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯德上。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "来将通名！"
+        },
+        {
+          "character": "夏侯德",
+          "type": "白",
+          "text": "夏侯德。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "看枪！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严颜刺死夏侯德。"
+        },
+        {
+          "character": "严颜",
+          "type": "西皮快板",
+          "text": "金枪一举贼命丧， 无能下将也猖狂。 老夫不把功劳抢， 要被诸葛笑一场。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "严颜下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 11,
+      "name": "第十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张郃、夏侯尚同上。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "将军，韩浩哪里去了？"
+        },
+        {
+          "character": "夏侯尚",
+          "type": "白",
+          "text": "被黄忠刀劈马下。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "夏侯尚",
+          "type": "白",
+          "text": "将军，我兄长哪里去了？"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "被严颜枪挑马下。"
+        },
+        {
+          "character": "夏侯尚",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "如今天荡山失守，如何是好？"
+        },
+        {
+          "character": "夏侯尚",
+          "type": "白",
+          "text": "将军不必惊慌！我叔父夏侯渊镇守定军山，他那里兵强马壮，你我到那里搬兵 求救！"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "嘿！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张郃、夏侯尚同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 12,
+      "name": "第十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。四军士引刘封同上。"
+        },
+        {
+          "character": "刘封",
+          "type": "念",
+          "text": "奉了军师命，调回黄汉升。"
+        },
+        {
+          "character": "刘封",
+          "type": "白",
+          "text": "俺刘封。奉了军师将令，调黄老将军回葭萌关前议论军情。 军士们，趱行者。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 13,
+      "name": "第十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八军士引黄忠、严颜同上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "念",
+          "text": "大将军八面威风。"
+        },
+        {
+          "character": "严颜",
+          "type": "念",
+          "text": "天荡山一战成功。"
+        },
+        {
+          "character": "军士",
+          "type": "内白",
+          "text": "小将军到。"
+        },
+        {
+          "character": "黄忠、严颜",
+          "type": "同白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、刘封同上。"
+        },
+        {
+          "character": "刘封",
+          "type": "白",
+          "text": "黄老将军听令：军师有令，调回黄老将军至葭萌关前议论军情；军中之事，交 严老将军掌管。令到即行！"
+        },
+        {
+          "character": "黄忠、严颜",
+          "type": "同白",
+          "text": "得令。后帐留宴。"
+        },
+        {
+          "character": "刘封",
+          "type": "白",
+          "text": "军令在身，不敢久停，告辞。"
+        },
+        {
+          "character": "黄忠、严颜",
+          "type": "同白",
+          "text": "请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、刘封同下。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "老将军，你我一笑而别了哇，哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、黄忠同下。"
+        },
+        {
+          "character": "严颜",
+          "type": "白",
+          "text": "众将官，小心防守。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士、严颜同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 14,
+      "name": "第十四场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引刘备、诸葛亮同上。"
+        },
+        {
+          "character": "刘备",
+          "type": "念",
+          "text": "孤今兵进葭萌关，"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "念",
+          "text": "准备乘胜取东川。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘封上。"
+        },
+        {
+          "character": "刘封",
+          "type": "念",
+          "text": "调回黄汉升，进帐报分明。"
+        },
+        {
+          "character": "刘封",
+          "type": "白",
+          "text": "黄老将军到。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": "刘封",
+          "type": "白",
+          "text": "有请。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "刘封下。四军士引黄忠同上，诸葛亮敬酒，黄忠下马接杯，进帐。四军士同下。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "恭喜老将军，一战成功，可喜可贺。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "一来我主洪福，二来军师调动有方，末将何功之有？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老将军虎威。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "不敢哪！不敢！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "军师，想那定军山乃汉中要路，必得此山，阳平关方能攻取，不知命何人出马？"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "要夺定军山，非二将军不可。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "就请先生传令。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "得令。 令出。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "且慢！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "有话坐下讲。 老将军因何阻令？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "军师，主公要夺取定军山，何劳二将军远路而来；主公赐某一哨人马，十日之 内，定擒夏侯渊入帐。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "想那夏侯渊，非张郃之比耳！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "军师！想那张郃也是中原有名的上将，被某杀得他卸甲丢盔，望风而逃，何况 那夏侯渊他乃一勇之夫！"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "老将军此去，若斩了夏侯渊，这军师大印，付你执掌。你呢？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "这个……也罢，我若胜不过夏侯渊，愿输这项上的人头。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "敢与山人击掌？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "击掌啊！好，请！"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "且慢！打赌事小，军情事大。老将军听令。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "在。"
+        },
+        {
+          "character": "刘备",
+          "type": "白",
+          "text": "命你攻取定军山，十日之内，若擒来夏侯渊，孤当迎接十里长亭。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "臣，得令。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "白",
+          "text": "将倒是一员虎将，可惜他老了！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "哦！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士暗同上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮二六板",
+          "text": "在黄罗宝帐领将令， 气坏了老将黄汉升。 某昔年大战长沙郡， 偶遇云长二将军。 某中了他人的拖刀计， 俺的百步穿杨箭射他盔缨。 弃暗投明来归顺，"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "食王的爵禄当报王的恩。 孝当竭力忠心尽， 再与师爷把话云： 一不用战鼓咚咚打， 二不用副将随后跟； 只要黄忠一骑马， 匹马单刀取定军。 十日之内得了胜， 军师大印付与我的身； 十日之内不得胜， 愿将老头挂营门。 来来来，带过爷的马能行，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士带马，同下。黄忠上马。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "我要把定军山一扫平。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠下。"
+        },
+        {
+          "character": "刘备",
+          "type": "西皮摇板",
+          "text": "但愿老将早得胜。"
+        },
+        {
+          "character": "诸葛亮",
+          "type": "西皮摇板",
+          "text": "遣将哪有激将能。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 15,
+      "name": "第十五场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引黄忠同上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "我主爷帐中把令传， 将士纷纷取东川。 恼恨那军师见识浅， 他道我胜不过那夏侯渊。 张郃被某吓破胆， 弃甲丢盔走荒山。 坐在雕鞍三军唤， 大小儿郎听我言： 上前个个功劳显， 退后的人头挂高竿。 大喝一声催前站！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士同下。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "十日之内取东川。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 16,
+      "name": "第十六场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引夏侯渊同上。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "快点绛唇",
+          "text": "虎视鹰扬，威风浩荡，兵马壮，扶保兄王，汉中为屏障。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "念",
+          "text": "膂力非寻常，威名天下扬。稳坐将台上，亚赛楚霸王。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "俺，夏侯渊。奉了魏王之命，镇守定军山。前番张郃攻打葭萌关，被黄忠杀败， 前来求救；为此整顿兵马，准备交锋。曾命探马前去打探，未见回报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报。 黄忠讨战。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "再探。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "众将官，抬刀带马。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯渊上马。四军士引黄忠同上，会阵。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "两下交兵在山坡， 睁开二目细观着： 夏侯渊相貌真凶恶， 黑面钢须煞气多。 劝你马前归顺我， 少若延迟命难活！⑴"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "西皮散板",
+          "text": "二马连环战山坡， 黄忠老儿你听着： 中原大将就是我， 乌鸦敢夺凤凰窝！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "八军士自两边分下。黄忠、夏侯渊同开打。黄忠下，夏侯渊追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 17,
+      "name": "第十七场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈式上。"
+        },
+        {
+          "character": "陈式",
+          "type": "白",
+          "text": "俺，陈式。老将军退阵而走，不免速速接应一阵。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯渊引四军士同上，擒陈式同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 18,
+      "name": "第十八场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引黄忠同上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "适才大战在山坡，"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮流水板",
+          "text": "一来一往动干戈。 魏营打罢得胜鼓， 我军为何不鸣锣？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报。 陈式被擒！"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "再探！"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "啊！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "听一言来心头火， 不由老夫咬牙腭。 三军与爷马带过，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上马。夏侯尚上。黄忠擒夏侯尚。"
+        },
+        {
+          "character": "黄忠",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 19,
+      "name": "第十九场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "张郃上。"
+        },
+        {
+          "character": "张郃",
+          "type": "念",
+          "text": "将军去出兵，未见转回营。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士押陈式引夏侯渊同上。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "将军。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "请坐。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "将军出兵，胜负如何？"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "与那黄忠老儿会过一阵，未分胜负，擒来他国先行陈式。 来，押了下去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈式下。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "啊，将军，我侄男哪里去了？"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "掠阵未回。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "且听探马一报。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子上。"
+        },
+        {
+          "character": "报子",
+          "type": "白",
+          "text": "报。 夏侯尚被擒！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "报子下。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "不好了！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "张郃",
+          "type": "白",
+          "text": "将军不必惊慌，何不修书一封，明日与他走马换将。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "溶墨伺候。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。夏侯渊修书。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "传旗牌。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "参见将军。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "这里有书信一封，下到黄忠营盘，不得有误。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "请至后面。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 20,
+      "name": "第二十场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引黄忠同上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮流水板",
+          "text": "夏侯渊果然武艺好， 可算将中一英豪。 将身且把宝帐到，"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮摇板",
+          "text": "营外为何闹吵吵？"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌上。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "门上哪位在？"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "什么人？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "曹营下书人求见。"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "候着。 启禀老将军：曹营下书人求见。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "传！"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "下书人，传你进去，小心了！"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "参见老将军。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "罢了，奉何人所差？"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "夏侯将军所差，有书信呈上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "呈上来，外面伺候。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "是。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "夏侯渊有书信到来，待老夫拆开一观。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "〖牌子〗。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "传下书人。"
+        },
+        {
+          "character": "军士甲",
+          "type": "白",
+          "text": "传下书人。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "有。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "就说老夫修书不及，叫他照书行事。"
+        },
+        {
+          "character": "旗牌",
+          "type": "白",
+          "text": "遵命。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "旗牌下。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "且住！老夫正在无计可施，夏侯渊这封书信来得是刚刚凑巧。明日午时三刻， 与他走马换将；先叫他放回我国先行陈式，然后再放他侄儿夏侯尚。老夫习就 百步穿杨，将他侄儿射死，那夏侯渊必不干休，领兵追我；那时老夫杀一阵、 败一阵、杀一阵、败一阵。败至在旷野荒郊，用拖刀之计，将他斩在马下。 夏侯渊哪，夏侯渊！你不来便罢，你若来时，中了老夫拖刀之计也。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮快板",
+          "text": "这一封书信来得巧， 助我黄忠成功劳。 站立在营门三军叫， 大小儿郎听根苗： 头通鼓，战饭造； 二通鼓，紧战袍； 三通鼓，刀出鞘； 四通鼓，把兵交。 进退俱要听令号， 违令难免吃一刀。⑵ 三军与爷归营号！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士同下。"
+        },
+        {
+          "character": "黄忠",
+          "type": "西皮散板",
+          "text": "到明天午时三刻成功劳。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠沉思，亮相，下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 21,
+      "name": "第二十一场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "鼓声。四军士押陈式随夏侯渊、四军士押夏侯尚随黄忠自两边分上。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "老将军请了。"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "请了。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "可曾见过某家书信？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "正为此事而来。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "但不知那家先放？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "自然是你家先放。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "老将军若有二意？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "丈夫一言，岂肯失信于你！"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "来，将陈式放了过去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "陈式回队，黄忠示意勿放夏侯尚。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "啊！为何不将我侄儿放回？"
+        },
+        {
+          "character": "黄忠",
+          "type": "白",
+          "text": "哪有不放之理！ 来，放了过去。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯尚回队，黄忠放箭，夏侯尚中箭下。黄忠率军士急同下。"
+        },
+        {
+          "character": "夏侯渊",
+          "type": "白",
+          "text": "哇呀…… 追！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "夏侯渊上马，引军士同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 22,
+      "name": "第二十二场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "四军士引黄忠同上，过场，同下。四军士引夏侯渊同上，同追下。"
+        }
+      ]
+    },
+    {
+      "scene_id": 23,
+      "name": "第二十三场",
+      "utterances": [
+        {
+          "character": null,
+          "type": "stage",
+          "text": "黄忠上，夏侯渊追上。黄忠用拖刀计斩夏侯渊。四军士同上。"
+        },
+        {
+          "character": "黄忠",
+          "type": "三笑",
+          "text": "哈哈，哈哈，啊哈哈哈哈！"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "众人同下。"
+        },
+        {
+          "character": null,
+          "type": "stage",
+          "text": "完"
+        },
+        {
+          "character": "黄忠",
+          "type": "stage",
+          "text": "—————————— ⑴原词：“夏侯渊打扮真不错，黑面长髯赛阎罗”。“真不错”，“赛阎罗”句，比拟不伦，故改。又谭富英演出本，只 唱最后两句。因此处夏侯渊有许多身段动作，故仍按一般舞台本保留之。 ⑵原词：“上前个个俱有赏，退后项上吃一刀”。如作为一般战前传令则可，而此时之黄忠，意在诈败取胜；如照 此吩咐，显与下场情况冲突。故改。"
+        }
+      ]
+    }
+  ]
+}
